@@ -1,0 +1,343 @@
+Chapter 6 - CIVIL EMERGENCY MANAGEMENT
+ARTICLE I. - IN GENERAL
+
+Sec. 6-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Disaster means any natural, technological, civil emergency or threat thereof that causes or has the potential to cause damage of sufficient severity and magnitude to result in a declaration of a state of emergency declared by a county, the Governor or the President of the United States.
+Emergency management means the preparation for the carrying out of all emergency functions other than functions for which military forces are primarily responsible to prevent, minimize, and repair injury and damage resulting from emergencies, energy emergencies, disasters, or the imminent threat thereof, of manmade or natural origin... "These functions include, without limitation, fire-fighting services; law enforcement services; medical and health services; rescue; engineering; warning services; communications; defense from radiological, chemical, and other special weapons; evacuation of persons from stricken areas; emergency welfare services; emergency transportation; [nuclear power] plant protection; temporary restoration of public service utility services; and other functions related to civilian protection, together with all other activities necessary or incidental to the preparation for and carrying out of the foregoing functions."(O.C.G.A. Georgia Emergency Management Act of 1981, as amended December 1992, Chapter 3, Article 1, 38-3-3)
+Emergency means any natural or man-made event requiring the activation of the local emergency operations plan.
+Local emergency management director means the person nominated by the local governments and appointed by the state emergency management director to implement the local emergency operations plan.
+State emergency management director means the person appointed by the governor to head the Georgia Emergency Management Agency.
+(Res. of 5-20-86, § 1; Res. of 10-13-08, § I; Ord. of 6-22-09, § I)
+State Law reference— Similar provisions, O.C.G.A. § 38-3-3(2)
+Sec. 6-2. - Local organization for emergency management.
+In agreement with the governing officials of the cities within the county, there is hereby established the Whitfield County Emergency Services Agency. The chairperson of the Whitfield County Commissioners, with the concurrence of officials of the cities within the county, shall nominate, for appointment by the state emergency management director, a Director of the Whitfield County Emergency Services Agency. Upon appointment, the local emergency services director shall have direct responsibility for the organization, administration, and operations of the local organization for emergency management, subject to the direction and control of the executive officer or governing body and shall serve at the pleasure of such executive officer or governing body. When appointed, the local emergency management director is charged with the following duties:
+(a)
+Represent the governing officials of the county on matters pertaining to emergency management.
+(b)
+Assist local officials in organizing county departments for emergency operations.
+(c)
+Develop, in conjunction with county and city departments, the Whitfield County Emergency Operations Plan for emergency functions. Such plan will be in consonance with the Georgia Emergency Operations Plan and shall be submitted to the governing officials of the county and the cities within the county for approval, and thence to the Georgia Emergency Management Agency for approval.
+(d)
+Maintain the emergency services agency and carry out the day-to-day administration of the county emergency management program, including the submission of required reports, to the Georgia Emergency Management Agency.
+(e)
+Submit reports as required by governmental officials in keeping with good management practices, e.g., financial, daily activities, etc.
+(f)
+Obtain, with the authority of governing officials, a facility to be used as the Whitfield County Emergency Operations Center.
+(g)
+Coordinate the activities of the Whitfield County Emergency Operating Staff during periods of emergency, and under the supervision of Whitfield County governing officials.
+(Res. of 5-20-86, § 2; Res. of 10-13-08, § II; Ord. of 6-22-09, § II)
+Sec. 6-3. - Whitfield County Emergency Services Agency.
+The Whitfield County Emergency Services Agency shall be established around existing county and city departments. The emergency support functions, (ESFs) and department/agency assignments are as follows:
+(P) stands for primary agency responsible for that function.
+(S) stands for support agency for that function.
+EXPAND
+Emergency support function (ESF) Department/agency
+1. Transportation (P) County board of education
+(S) County transit system
+County public works
+2. Communications (P) County emergency services/911 division
+(S) County IT department
+Dalton/Whitfield Amateur Radio Windstream
+Whitfield County Sheriff's Office
+Dalton Police Department
+County emergency services/EMA division
+Cohutta Police Department
+Tunnel Hill Police Department
+Varnell Police Department
+3. Public works and engineering (P) County public works
+(S) Dalton Public Works
+Dalton-Whitfield Solid Waste
+County buildings and grounds
+County building inspections
+4. Firefighting (P) County fire department
+(S) Dalton Fire Department
+Cohutta Fire Department
+Georgia Forestry Commission
+5. Emergency management (P) County emergency services
+(S) American Red Cross-Dalton
+Dalton City Council
+Dalton Fire Department
+Dalton Police Department
+Dalton Public Works
+Dalton State College Police
+Georgia State Patrol
+County fire department
+County board of commissioners
+County public works
+County sheriff's office
+6. Mass care, housing and human services (P) Whitfield County Office-Department of Family and Children Services (DFACS)
+(S) American Red Cross-Dalton
+Dalton Public Schools
+Northwest Georgia Family Crisis Center
+Northwest Georgia Trade and Convention Center
+Providence Ministries
+Salvation Army
+Dalton-Whitfield County Environmental Health
+County board of education
+County extension service
+County health department
+County emergency services
+7. Resource support (P) County board of commissioners
+(S) City of Varnell
+Cohutta City Council
+Dalton City Council
+Tunnel Hill City Council
+County emergency services
+8. Public health and EMS (P) County health department
+(S) Dalton Police Department Chaplin
+Hamilton Medical Center
+Hamilton Medical Center Chaplin
+Highland Rivers Community Service Board
+Whitfield County DFACS
+County environmental health
+County building inspections
+County paramedics
+9. Search and rescue (P) County emergency services
+(S) Cohutta Police Department
+Dalton Fire Department
+Dalton Police Department
+Georgia Army National Guard
+Georgia State Patrol
+Varnell Police Department
+County fire department
+County sheriff's office
+Tunnel Hill Police Department
+10. Hazardous materials (P) County fire department
+(S) Dalton Fire Department
+Cohutta Fire Department
+Cohutta Police Department
+Dalton Police Department
+Dalton State College Police
+Tunnel Hill Police Department
+Varnell Police Department
+County LEPC
+County emergency services
+County sheriff's office
+11. Agriculture and natural resources (P) Whitfield County Extension Agent
+(S) Georgia Department of Agriculture
+Humane Society of Northwest Georgia
+County animal shelter
+County animal control
+County health department
+County sheriff's office
+12. Energy/Electricity (P) County public works
+(S) Dalton Public Works
+Dalton Utilities
+Georgia Power Company
+North Georgia EMC
+County board of commissioners
+County emergency services
+13. Public safety and security services (P) County sheriff's office
+(S) Dalton Police Department
+Cohutta Police Department
+Dalton State College Police
+Georgia Army National Guard
+Georgia State Patrol
+Tunnel Hill Police Department
+Varnell Police Department
+County coroner's office
+14. Long term recovery and mitigation (P) County emergency services
+(S) County board of commissioners
+City of Varnell
+Cohutta City Council
+Dalton City Council
+Tunnel Hill City Council
+15. External affairs (P) County emergency services
+(S) Hamilton Medical Center
+County board of commissioners
+County board of education
+County health department
+  Heads of county departments listed above are responsible for developing appropriate annexes and standard operating procedures (SOP/SOG's) to the Emergency Operations Plan (EOP) for their assigned emergency functions. Such annexes and/or SOPs will be submitted to the emergency services director for inclusion in the local EOP for submission to appropriate local officials for approval.
+(Res. of 5-20-86, § 3; Res. of 10-13-08, § III; Ord. of 6-22-09, § III)
+State Law reference— Local organizations, O.C.G.A. § 38-3-27.
+Sec. 6-4. - Emergency management and response powers.
+(a)
+Declaration of local emergency.
+(1)
+Grant of authority. In the event of an actual or threatened occurrence of a disaster or emergency, which may result in the large-scale loss of life, injury, property damage or destruction or in the major disruption of routine community affairs, business or governmental operations in the county and which is of sufficient severity and magnitude to warrant extraordinary assistance by federal, state and local departments and agencies to supplement the efforts of available public and private resources, the chair of the board of commissioners may declare a local emergency for Whitfield County. The form of the declaration shall be similar to that provided in subsection (b) of this Code section.
+(2)
+Request for state assistance. Consistent with a declaration of local emergency, the chair may request the governor to provide assistance, provided that the disaster or emergency is beyond the capacity of the county to meet adequately and state assistance is necessary to supplement local efforts to save lives and protect property, public health and safety, or to avert or lessen the threat of a disaster.
+(3)
+Continuance. The declaration of local emergency shall continue until the chair finds that emergency conditions no longer exist, at which time, the chair shall execute and file with the clerk of the board of commissioners a document marking the end of the state of emergency. No state of local emergency shall continue for longer than 30 days, unless renewed by the chair. The board of commissioners may, by resolution, end a state of local emergency at any time.
+(4)
+Effect of declaration of emergency.
+a.
+Activation of emergency operations plan. A declaration of emergency by the governor or a declaration of local emergency by the chair shall automatically activate the county emergency operations plan and shall be the authority for deployment of personnel and use of any forces to which the plan applies and for use or distribution of any supplies, equipment, materials, and facilities assembled, stockpiled or arranged to be made available pursuant to the Georgia Emergency Management Act or any other laws applicable to emergencies or disasters.
+1.
+The Whitfield County Emergency Management Agency ("EMA") Director shall have the legal authority to exercise the powers and discharge the duties conferred upon the emergency management agency, including the implementation of the emergency operations plan, coordination of the emergency responses of public and private agencies and organizations, coordination of recovery efforts with state and federal officials, and inspection of emergency or disaster sites.
+2.
+In responding and conducting necessary and appropriate investigations, the director or his/her designee is authorized to enter at a reasonable time upon any property, public or private, for the purpose of investigating and inspecting sites involved with emergency management functions. The director is authorized to execute a right of entry and/or agreement to use property for these purposes on behalf of the county; however, any such document shall be later presented for ratification at a meeting of the board of commissioners.
+3.
+No person shall refuse entry or access to any authorized representative or agent of the county who requests entry for purposes of inspection, and who presents appropriate credentials. Nor shall any person obstruct, hamper or interfere with any such representative while that individual is in the process of carrying out his or her official duties.
+b.
+Emergency powers. Following a declaration of emergency and during the continuance of such state of emergency, the chair is authorized to implement local emergency measures to protect life and property or to bring the emergency situation under control. In exercising this authority, the chair may cause to become effective any of the following sections of this chapter as appropriate: section 6-5 (registration of building and repair services) to become effective if the governor declares a state of emergency; and section 6-6 (closed or restricted areas and curfews). If any of these sections are included in a declaration of local emergency, the same shall be filed in the office of the clerk of the board of commissioners and shall be in effect until the declaration of local emergency has terminated.
+c.
+Authority to waive procedures and fees. Pursuant to a declaration of emergency, the board of commissioners is authorized to cause to be effective any of the subsections of section 6-4 of this chapter as appropriate. The implementation of such subsections shall be filed in the office of the clerk of the board of commissioners.
+d.
+Additional emergency powers. The chair of the board of commissioners shall have, and may exercise for such period as the declared emergency exists or continues, the following additional emergency powers:
+1.
+To direct and compel the evacuation of all or part of the population from any stricken or threatened area, for the preservation of life or other disaster mitigation, response or recovery;
+2.
+To prescribe routes, modes of transportation and destinations in connection with evacuation;
+3.
+To suspend or limit the sale, dispensing or transportation of alcoholic beverages, firearms, explosives and flammable liquids and substances;
+4.
+To make provision for the availability and use of temporary emergency housing, emergency shelters and/or emergency medical shelters;
+5.
+To transfer the direction, personnel or functions of any county departments and agencies or units thereof for the purpose of performing or facilitating emergency services;
+6.
+To utilize all available resources of the county and subordinate agencies over which the county has budgetary control as reasonably necessary to cope with the emergency or disaster;
+7.
+To utilize public property when necessary to cope with the emergency or disaster or when there is compelling necessity for the protection of lives, health and welfare; and/or the property of citizens;
+8.
+To suspend any law, code provision or regulation prescribing the procedures for conduct of county business, or the orders, rules or regulations of any county agency, if strict compliance with any ordinance, resolution, order, rule or regulation would in any way prevent, hinder or delay necessary action in coping with the emergency or disaster, provided that such suspension shall provide for the minimum deviation from the requirements under the circumstances and further provided that, when practicable, specialists shall be assigned to avoid adverse effects resulting from such suspension;
+9.
+To provide benefits to citizens upon execution of an intergovernmental agreement for grants to meet disaster-related necessary expenses or serious needs of individuals or families adversely affected by an emergency or disaster in cases where the individuals or families are unable to meet the expenses or needs from other means, provided that such grants are authorized only when matching state or federal funds are available for such purposes;
+10.
+To perform and exercise such other functions, powers and duties as may be deemed necessary to promote and secure the safety and protection of the civilian population, including individuals with household pets and service animals prior to, during and following a major disaster or emergency.
+(b)
+Form of declaration of local emergency. Upon the declaration of local emergency, an official "declaration of local emergency," in substantially the same form set forth below, shall be signed and filed in the office of the county clerk and shall be communicated to the citizens of the affected area using the most effective and efficient means available. The declaration shall state the nature of the emergency or disaster, the conditions that require the declaration and any sections of this chapter which shall be in effect.
+"DECLARATION OF LOCAL EMERGENCY
+WHEREAS, Whitfield County, Georgia has experienced an event of critical significance as a result of [description of event] on [date]; and
+WHEREAS, in the judgment of the Chair of the Whitfield County Board of Commissioners, with advice from the Whitfield County Emergency Management Agency, there exist emergency circumstances located in [describe geographic location] requiring extraordinary and immediate corrective actions for the protection of the health, safety and welfare of the citizens of Whitfield County, including individuals with household pets and service animals; and
+WHEREAS, to prevent or minimize injury to people and damage to property resulting from this event.
+NOW, THEREFORE, pursuant to the authority vested in me by local and state law; IT IS HEREBY DECLARED that a local state of emergency exists and shall continue until the conditions requiring this declaration are abated.
+THEREFORE, IT IS ORDERED:
+(1)
+That the Whitfield County Emergency Management Agency activates the emergency operations plan;
+(2)
+That the following sections of the Whitfield County Code be implemented: [If deemed appropriate, choose from the following: Section 5 registration of building and repair services to be effective only if the governor has declared a state of emergency; and/or section 6 closed or restricted areas and curfews]; and
+(3)
+That the following measures also be implemented: [If deemed appropriate, select items from section 2(a)(iv)(C) or (D) or such other measures as appropriate.]
+ENTERED at [time] on [date]
+[Signed]
+Chair, Whitfield County Board of Commissioners."
+(c)
+Contracts with municipalities. In addition to the normal agreements embodied in the county's emergency operations plan for mutual emergency assistance, the board of commissioners may contract with any municipality for the administration of an emergency response program.
+(Ord. of 2-14-11, § 1; Ord. of 7-16-12, § 1)
+State Law reference— Similar provisions, O.C.G.A. ch. 3, Art. 2, § 38-3-27.
+Sec. 6-5. - Volunteers.
+All persons, other than officers and employees of Whitfield County, performing emergency functions pursuant to this resolution/ordinance, shall serve with or without compensation. While engaged in such emergency functions, duly assigned volunteers shall have the same immunities as county officers and employees. Immunity does not apply in cases of willful misconduct, gross negligence or bad faith.
+(Res. of 5-20-86, § 5; Res. of 10-13-08, § V)
+State Law reference— Similar provisions, O.C.G.A. ch. 3, art. 2, § 38-3-35.
+Sec. 6-6. - Enhanced emergency 911 system.
+The board of commissioners is authorized to adopt a resolution establishing an enhanced emergency telephone number 911 system and providing that the telephone company apportion the maintenance fee for such a system among subscribers served by the system.
+(Res. of 10-3-88)
+Editor's note— Inclusion of the provisions of a resolution adopted Oct. 3, 1988, approved by the electorate Nov. 8, 1988, as § 6-6 was at the discretion of the editor, the resolution being nonamendatory of the Code. Existing §§ 6-6—6-8 were redesignated §§ 6-7—6-9. The system was continued by a resolution adopted Oct. 9, 1990. Fees were adjusted by resolutions adopted Jan. 8, 1991, May 12, 1992 and May 12, 2008.
+Sec. 6-7. - Enforcement and remedies.
+(a)
+Law enforcement. In accordance with O.C.G.A. § 38-3-4, the Whitfield County Sheriff's Office shall be authorized to enforce the orders, rules and regulations contained in this chapter and/or implemented by the chair or local governing authority during a declared emergency.
+(b)
+Penalties. Failure to comply with any of the requirements or provisions of the regulations contained in this chapter, or with any code section, order, rule or regulation made effective by the chair or local governing authority upon or after the declaration of an emergency shall constitute a violation of the provisions of this chapter. Any person who violates any provision in this chapter shall, upon conviction thereof, be guilty of a misdemeanor punishable by a fine not exceeding $1,000.00, imprisonment for a term not exceeding 60 days, or both such fine and imprisonment, for each violation. Each person assisting in the commission of a violation shall be guilty of separate offenses. Each day during which a violation or failure to comply continues shall constitute a separate violation.
+(c)
+Injunctive relief. In accordance with O.C.G.A. § 38-3-5, in addition to the remedies prescribed in this section, the EMA director is authorized to obtain an injunction to restrain violation of laws, code sections, orders, rules and regulations which are contained in the Georgia Emergency Management Act and/or this code, and/or which are implemented by the local governing authority during a declared emergency.
+(d)
+Enforcement. Except as otherwise provided in this chapter, this ordinance may be enforced by the sheriff's office, the EMA director and /or his or her designee.
+(Res. of 5-20-86, § 6; Res. of 10-13-08, § VI; Ord. of 2-14-11, § 2; Ord. of 7-16-12, § 2)
+Note— See the editor's note to § 6-6.
+Sec. 6-8. - Liberality of construction.
+This chapter shall be construed liberally in order to effectuate its purpose.
+(Res. of 5-20-86, § 7; Res. of 10-13-08, § VII)
+Note— See the editor's note to § 6-6.
+Sec. 6-9. - Conflict of laws.
+Where the provisions of this chapter are in conflict with existing local laws, the provisions of this chapter will govern and such provisions of existing laws which are in conflict, are hereby rescinded.
+(Res. of 5-20-86, § 8)
+Note— See the editor's note to § 6-6.
+Sec. 6-10. - Overcharging for goods, materials, services, and/or housing during emergency or disaster prohibited.
+In order to protect the public health, safety, and welfare, it shall be unlawful during, and for not less than six months after, any declaration of a state of emergency by the governor, or any determination by the Whitfield County Board of Commissioners of the existence of an emergency or disaster, for any person, firm, or corporation located or doing business in Whitfield County to overcharge for any goods, materials, services, or housing sold within Whitfield County. For purposes of this section, "overcharging," shall be defined as charging prices for goods, materials, services, or housing which are substantially in excess of the customary charges or, as applicable, substantially in excess of the provider's costs for such goods, materials, services, or housing. It shall be a rebuttable presumption that overcharging has occurred when there shall exist any increase of seven percent or more in the price at which goods, materials, services, or housing were offered in the usual course of business immediately prior to the onset of the emergency or disaster, but shall not include increases in costs to the person, firm, or corporation directly attributable to higher material or labor costs resulting from the emergency or disaster.
+(Ord. of 10-25-94; Ord. of 2-14-11, § 3)
+Sec. 6-11. - Whitfield County Hazard Mitigation Plan.
+Whitfield County and its municipal governments are required to complete a pre-disaster hazard mitigation plan by the Disaster Mitigation Act of 2000; and under the provisions of the Disaster Mitigation Act of 2000, local governments that complete pre-disaster hazard mitigation plans will remain eligible for federal mitigation funding; and Whitfield County and its municipal governments have completed a Pre-Disaster Hazard Mitigation Plan that fulfills the federal requirements of the Disaster Mitigation Act of 2000.
+The Whitfield County Commission formally adopts The Whitfield County Hazard Mitigation Plan.
+(Ord. of 1-9-05)
+Editor's note— It should be noted that the Whitfield County Hazard Mitigation Plan referenced above is not set out at length herein, but is on file and available for inspection in the office of the office of the county clerk.
+Sec. 6-12. - Closed or restricted areas and curfews during emergency.
+(a)
+To preserve, protect or sustain the life, health, welfare or safety of persons, or their property, within a designated area under a declaration of emergency, it shall be unlawful for any person to travel, loiter, wander or stroll in or upon the public streets, highways, roads, lanes, parks or other public grounds, public places, public buildings, places of amusement, eating places, vacant lots or any other place during a declared emergency between hours specified by the chair until the curfew is lifted.
+(b)
+To promote order, protect lives, minimize the potential for looting and other crimes, and facilitate recovery operations during an emergency, the chair shall have discretion to impose reentry restrictions on certain areas. The chair shall exercise such discretion in accordance with the county emergency operations plan, which shall be followed during emergencies.
+(c)
+The provisions of this section shall not apply to persons acting in the following capacities:
+(1)
+Authorized and essential law enforcement personnel;
+(2)
+Authorized and essential health care providers;
+(3)
+Authorized and essential personnel of the county;
+(4)
+Authorized National Guard or federal military personnel;
+(5)
+Authorized and essential firefighters;
+(6)
+Authorized and essential emergency response personnel;
+(7)
+Authorized and essential personnel or volunteers working with or through the county emergency management agency (EMA);
+(8)
+Authorized and essential utility repair crews;
+(9)
+Citizens seeking to restore order to their homes or businesses while on their own property or place of business;
+(10)
+Other authorized and essential persons as designated on a list compiled by EMA, the director of public safety and/or the sheriff of the county.
+(d)
+Enforceability. This section shall be enforced by officers of the law enforcement personnel approved to provide aid and assistance during the emergency. Nothing contained in this section shall prohibit a law enforcement officer from bringing other charges under state law.
+(e)
+Effective date. This section shall become effective only upon the signing of a declaration of emergency, stating this section is in effect.
+(Ord. of 2-14-11, § 4; Ord. of 7-16-12, § 3)
+Sec. 6-13. - 911 charge upon prepaid wireless service.
+(a)
+9-1-1 charge on prepaid wireless transactions. In accordance with O.C.G.A. § 46-5-134.2, there is hereby imposed a prepaid wireless 911 charge, as defined by O.C.G.A. § 46-5-134.2(a)(4) upon every prepaid wireless retail transaction occurring within the jurisdiction of the public service answering point in the amount of $0.75.
+(b)
+Collection of 9-1-1 charge upon prepaid wireless transactions. Prepaid wireless 911 charges collected by sellers shall be remitted to the commissioner of the department of revenue, at the times and in the manner provided by O.C.G.A. tit. 48, ch. 8 with respect to the sales and use tax imposed upon prepaid wireless calling service.
+(c)
+Administrative provisions. The clerk of the county is hereby directed to file with the state revenue commissioner a certified copy of this section and amendments thereto, in accordance with O.C.G.A. § 46-5-134.2(j)(1), within ten days of enactment of this ordinance.
+(d)
+Depositing of funds; use of funds. In accordance with O.C.G.A. § 46-5-134.2(j)(5), funds received by Whitfield County from charges imposed by this ordinance shall be deposited in the emergency telephone system fund maintained by Whitfield County pursuant to O.C.G.A. § 46-5-134 and kept separate from general revenue of Whitfield County; all such funds shall be used exclusively for the purposes authorized by O.C.G.A. § 46-5-134(e).
+(Ord. of 6-20-11, §§ 1—4)
+Secs. 6-14—6-25. - Reserved.
+ARTICLE II. - BUILDING AND/OR REPAIR CONTRACT SERVICES
+
+Sec. 6-26. - Authority to waive procedures and fee structures.
+(a)
+County business. Upon declaration of an emergency or disaster by the governor or chair of the board of commissioners, the affairs and business of the county may be conducted at places other than the regular or usual location, within or outside of the county, when it is not prudent, expedient or possible to conduct business at the regular location. When such meetings occur outside of the county, all actions taken by the board of commissioners shall be as valid and binding as if performed within the county. Such meetings may be called by the presiding officer or any two members of the governing body without regard to or compliance with time-consuming procedures and formalities otherwise required by law. [Note: Local legislation should be reviewed to determine whether there are restrictions upon moving the meeting location if it is only a locally declared emergency and not a state of emergency declared by the governor.]
+(b)
+Public works contracts. Upon declaration of an emergency or disaster by the governor or chair of the board of commissioners, the board of commissioners may contract for public works without letting such contract out to the lowest, responsible bidder and without advertising and posting notification of such contract for four weeks; provided, however, that the emergency must be of such nature that immediate action is required and that the action is necessary for the protection of the public health, safety and welfare. Any public works contract entered into pursuant to this subsection shall be entered on the minutes of the county as soon as practical and the nature of the emergency described therein in accordance with O.C.G.A. § 36-91-22(e).
+(c)
+Purchasing. Upon declaration of an emergency or disaster by the governor or chair of the board of commissioners, the purchasing ordinances, regulations or policies may be suspended. County officials shall continue to seek to obtain the best prices during the state of local emergency.
+(d)
+Code enforcement. Upon declaration of a state of emergency or disaster by the governor or the chair of the board of commissioners, the board of commissioners may temporarily suspend the enforcement of the ordinances of the county, or any portion thereof, where the emergency is of such nature that immediate action outside the code is required, such suspension is consistent with the protection of the public health, safety and welfare, and such suspension is not inconsistent with any federal or state statutes or regulations.
+(e)
+Fees. Upon declaration of a state of emergency or disaster by the governor or the chair of the board of commissioners, the board of commissioners may temporarily reduce or suspend any permit fees, application fees or other rate structures as necessary to encourage the rebuilding of the areas impacted by the disaster or emergency. The term "fees" include fees or rates charged by the county for building permits, land disturbance permits, zoning applications, special land use permits, temporary land use permits and other fees relating to the reconstruction, repair and clean-up of areas impacted by the disaster or emergency. The term "fees" does not include fees collected by the county on behalf of the state or federal government or fees charged by the county pursuant to a state or federal statute or regulation.
+(f)
+Temporary dwellings. Upon the declaration of a state of emergency or disaster by the governor or chair of the board of commissioners, the board of commissioners or its designees may issue temporary mobile home, trailer, recreational vehicle or other temporary dwelling structures or parks in any zoning district, even though not otherwise permitted by development code, while the primary dwelling is being repaired, provided that such temporary dwellings or parks are designed by an engineer and the plans are approved by the county health department and development services. The temporary permit shall not exceed six months in duration. In the case of a continuing hardship, and in the discretion of the board of commissioners or its designee, the permit may be extended for a period of up to an additional six months. Upon expiration of the temporary permit and/or extension, the temporary dwelling must be removed.
+(Ord. of 12-5-2011, § 1; Ord. of 7-16-12, § 4)
+Sec. 6-27. - Registration of building and repair services.
+(a)
+In accordance with O.C.G.A. § 38-3-56, before building, constructing, repairing, renovating or making improvements to any real property, including dwellings, homes, buildings, structures or fixtures within an area in the unincorporated area of the county designated in a declared emergency or disaster, any person, firm, partnership, corporation or other entity must register with the Whitfield County Building Inspectors Office and secure a building permit that is posted at the work site. Each day any such entity does business in the unincorporated areas of the county without complying with this article constitutes a separate offense.
+(b)
+The cost of registration fees in a declared emergency or disaster is fixed at $0.00 per annum. Registration is nontransferable. The cost of the emergency building permit shall be equal to the cost for a building permit under existing regulations. The permit shall only be authorized for repairs.
+(c)
+When registering, any person, partnership, corporation or other entity making application must, under oath, complete an application, providing the following information:
+(1)
+Name of applicant;
+(2)
+Permanent address and phone number of applicant;
+(3)
+Applicant's Social Security number or federal employer identification number;
+(4)
+If applicant is a corporation, the state and date of incorporation;
+(5)
+Tag registration information for each vehicle to be used in the business;
+(6)
+List of cities and/or counties where the applicant has conducted business within the past 12 months;
+(7)
+Georgia sales tax number or authorization;
+(8)
+Georgia business license number, if required;
+(9)
+Copy of license from the secretary of state, if required.
+(d)
+Effective date. This section shall become effective only upon a declaration of emergency by the governor and a local declaration stating this section is in effect. Unless otherwise specified in the declaration of emergency or otherwise extended by the board of commissioners, the provisions of this Code section shall remain in effect during the state of emergency and for a subsequent recovery period of three months.
+(Ord. of 12-5-2011, § 2; Ord. of 7-16-12, § 5)
+Sec. 6-28. - Reserved.
+Editor's note— Ord. of July 16, 2012, § 6, repealed § 6-28, which pertained to registration; certification, and derived from Ord. of 12-5-11 § 1.

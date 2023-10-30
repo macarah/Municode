@@ -1,0 +1,771 @@
+ARTICLE VII. - STORMWATER MANAGEMENT
+
+Sec. 42-401. - General provisions.
+(a)
+Purpose and intent. The purpose of this article is to protect, maintain and enhance the public health, safety, environment and general welfare by establishing minimum requirements and procedures to control the adverse effects of increased post-development stormwater runoff and nonpoint source pollution associated with new development and redevelopment. It has been determined that proper management of post-development stormwater runoff will minimize damage to public and private property and infrastructure, safeguard the public health, safety, environment and general welfare of the public, and protect water and aquatic resources. This article seeks to meet that purpose through the following objectives:
+(1)
+Establish decision-making processes, standards and criteria surrounding land development activities that protect public safety, infrastructure and the integrity of the watershed and preserve the health of water resources and the environment.
+(2)
+Require that new development and redevelopment maintain the pre-development hydrologic response in their post-development state as nearly as practicable in order to reduce flooding, stream bank erosion, nonpoint source pollution, increases in stream temperature, and maintain the integrity of stream channels and aquatic habitats.
+(3)
+Establish minimum post-development stormwater management standards and design criteria for the regulation and control of stormwater runoff quantity and quality.
+(4)
+Establish design and application criteria for the construction and use of structural stormwater control facilities that can be used to meet the minimum post-development stormwater management standards.
+(5)
+Encourage the use of nonstructural stormwater management and stormwater better site design practices, such as the preservation of green space and other conservation areas, to the maximum extent practicable. Coordinate site design plans, which include green space, with the city's green space protection plan.
+(6)
+Establish provisions for the long-term responsibility for and maintenance of structural stormwater control facilities and nonstructural stormwater management practices to ensure that they continue to function as designed, are maintained, and pose no threat to public safety.
+(7)
+Establish administrative procedures for the submission, review, approval and disapproval of stormwater management plans, and for the inspection of approved active projects, and long-term follow up.
+(b)
+Applicability.
+(1)
+This article shall be applicable to all land development, including, but not limited to, site plan applications, subdivision applications, and grading applications, unless exempt pursuant to subsection (b)(2) below. These standards shall apply to any new development or redevelopment site that meets one or more of the following criteria:
+a.
+New development that involves the creation of 5,000 square feet or more of impervious cover, or that invoices other land development activities of one acre or more.
+b.
+Redevelopment that includes the creation, addition of 5,000 square feet or more, or replacement of 10,000 square feet or more of impervious cover, or that involves other land development activity of one acre or more.
+c.
+Any new development or redevelopment, regardless of size, that is defined by the city engineer to be a hotspot land use. The GSWMM defines a hotspot land use based on water quality criteria, and the City of Valdosta can also consider flooding conditions to define hotspot areas where known flooding conditions and existing structural limitations should be considered.
+d.
+Land development activities that are smaller than the minimum applicability criteria set forth in subsections (b)(1)a. and (b)(1)b. above, if such activities are part of a larger common plan of development, even though multiple, separate and distinct land development activities may take place at different times on different schedules.
+(2)
+The following activities are exempt from this article:
+a.
+Individual single-family or duplex residential lots that are not part of a subdivision or phased development project.
+b.
+Additions or modifications to existing single-family or duplex residential structures.
+c.
+Agricultural or silvicultural land management activities within areas zoned for these activities.
+d.
+Land-disturbing activities conducted for the purpose of restoration of streams, stream banks, riparian zones, or other environmentally protected areas; and
+e.
+Repairs to any stormwater management facility or practice deemed necessary by the city engineer.
+(c)
+Designation of ordinance administrator. The city engineer or his/her representative is hereby appointed to administer and implement the provisions of the ordinance codified in this article.
+(d)
+Compatibility with other regulations. This article is not intended to modify or repeal any other ordinance, rule, regulation or other provision of law. The requirements of this article are in addition to the requirements of any other ordinance, rule, regulation, or other provision of law, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule, regulation or other provision of law, whichever provision is more restrictive or imposes higher protective standards for human health or the environment shall control. In accordance with the GSWMM Site Plan Checklist Vol. 2 B-6, the applicant shall provide evidence acquisition of state and federal permits if required.
+(e)
+Severability. If the provisions of any section, subsection, paragraph, subdivision or clause of this article shall be adjudged invalid by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of any section, subsection, paragraph, subdivision or clause of this article.
+(f)
+Stormwater Design Manual. The City of Valdosta will utilize the policy, criteria and information including technical specifications and standards in the latest edition of the GSWMM and any relevant local addenda, for the proper implementation of the requirements of this article. Engineers seeking guidance related to the items required for stormwater calculations, erosion and sedimentation control, and other development related criteria shall refer to the site development requirements letter issued by the city engineer, and the land development regulations.
+(Ord. No. 2006-71, § 1, 12-7-2006; Ord. No. 2015-14, § 1, 6-11-2015)
+Sec. 42-402. - Definitions.
+"Adverse impact" means pre-developed flows did not cause difficulties and post-development flows do.
+"Applicant" means a person submitting a post-development stormwater management application and plan for approval.
+"Channel" means a natural or artificial watercourse with a definite bed and banks that conducts continuously or periodically flowing water.
+"Conservation easement" means an agreement between a land owner and the City of Valdosta or other government agency or land trust that permanently protects open space or greenspace on the owner's land by limiting the amount and type of development that can take place, but continues to leave the remainder of the fee interest in private ownership.
+"Detention" means the temporary storage of stormwater runoff in a stormwater management facility for the purpose of controlling the peak discharge.
+"Detention facility" means a detention basin or structure designed for the detention of stormwater runoff and gradual release of stored water at controlled rates.
+"Developer" means a person who undertakes land development activities.
+"Development" means a land development or land development project.
+"Drainage easement" means an easement appurtenant or attached to a tract or parcel of land allowing the owner of adjacent tracts or other persons to discharge stormwater runoff onto the tract or parcel of land subject to the drainage easement.
+"Erosion and sedimentation control plan" means a plan that is designed to minimize the accelerated erosion and sediment runoff at a site during land disturbance activities.
+"Extended detention" means the detention of stormwater runoff for an extended period, typically 24 hours or greater.
+"Extreme flood protection" means measures taken to prevent adverse impacts from large, low-frequency storm events with a return frequency of 100 years or more.
+"Flooding" means a volume of surface water that is too great to be confined within the banks or walls of a conveyance or stream channel and that overflows onto adjacent lands.
+"Georgia Stormwater Management Manual" refers to the guidance document developed by the State of Georgia in 2001 available at www.georgiastormwater.org.
+"Green space" or "open space" means permanently protected areas of the site that are preserved in a natural state.
+"Hotspot" means an area were the use of the land has the potential to generate highly contaminated runoff, with concentrations of pollutants in excess of those typically found in stormwater, or an area observed to be prone to flash flooding as determined by the city engineer.
+"Hydrologic soil group (HSG)" means a natural resource conservation service classification system in which soils are categorized into four runoff potential groups. The groups range from group A soils, with high permeability and little runoff produced, to group D soils, which have low permeability rates and produce much more runoff.
+"Impervious cover" means a surface composed of any material that significantly impedes or prevents the natural infiltration of water into soil. Impervious surfaces include, but are not limited to, rooftops, buildings, streets and roads, and any concrete or asphalt surface.
+"Industrial stormwater permit" means a National Pollutant Discharge Elimination System (NPDES) permit issued to an industry or group of industries which regulates the pollutant levels associated with industrial stormwater discharges or specifies on-site pollution control strategies.
+"Infiltration" means the process of percolating stormwater runoff into the subsoil.
+"Inspection and maintenance agreement" means a written agreement providing for the long-term inspection and maintenance of stormwater management facilities and practices on a site or with respect to a land development project, which when properly recorded in the deed records constitutes a restriction on the title to a site or other land involved in a land development project.
+"Jurisdictional wetland" means an area that is inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support a prevalence of vegetation typically adapted for life in saturated soil conditions, commonly known as hydrophytic vegetation.
+"Land development" means any land change, including, but not limited to, clearing, digging, grubbing, stripping, removal of vegetation, dredging, grading, excavating, transporting and filling of land, construction, paving, and any other installation of impervious cover.
+"Land development activities" means those actions or activities which comprise, facilitate or result in land development.
+"Land development project" means a discrete land development undertaking.
+"National Pollution Discharge Elimination System (NPDES)" means the ermit issued by the Georgia Environmental Protection Division on behalf of the Environmental Protection Agency (EPA) to implement a stormwater management system as means to control polluted discharges.
+"New development" means a land development activity on a previously undeveloped site.
+"Nonpoint source pollution" means a form of water pollution that does not originate from a discrete point such as a sewage treatment plant or industrial discharge, but involves the transport of pollutants such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials and other contaminants from land to surface water and groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a by-product of land use practices such as agricultural, silvicultural, mining, construction, subsurface disposal and urban runoff sources.
+"Nonstructural stormwater management practice" or "nonstructural practice" means any natural or planted vegetation or other nonstructural component of the stormwater management plan that provides for or enhances stormwater quantity and/or quality control or other stormwater management benefits, and includes, but is not limited to, riparian buffers, open and greenspace areas, overland flow filtration areas, natural depressions, and vegetated channels.
+"Off-site facility" means a stormwater management facility located outside the boundaries of the site.
+"On-site facility" means a stormwater management facility located within the boundaries of the site.
+"Overbank flood protection" means measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e., flow events that exceed the capacity of the channel and enter the floodplain), and that are intended to protect downstream properties from flooding for the two-year through 25-year frequency storm events.
+"Owner" means the legal or beneficial owner of a site, including but not limited to, a mortgagee or vendee in possession, receiver, executor, trustee, lessee or other person, firm or corporation in control of the site.
+"Permit" See: Site development permit.
+"Person" means, except to the extent exempted from this article, any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the state, any interstate body or any other legal entity.
+"Post-development" refers to the time period, or the conditions that may reasonably be expected or anticipated to exist, after completion of the land development activity on a site as the context may require.
+"Pre-development" refers to the time period, or the conditions that exist, on a site prior to the commencement of a land development project and at the time that plans for the land development of a site are approved by the plan approving authority. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time prior to the first item being approved or permitted shall establish pre-development conditions.
+"Project" means a land development project.
+"Redevelopment" means a land development project on a previously developed site, but excludes ordinary maintenance activities, remodeling of existing buildings, resurfacing of paved areas, and exterior changes or improvements which do not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution.
+"Regional stormwater management facility" or "regional facility" means stormwater management facilities designed to control stormwater runoff from multiple properties, where the owners or developers of the individual properties may assist in the financing of the facility, and the requirement for on-site controls is either eliminated or reduced.
+"Runoff" means stormwater runoff.
+"Site" means the parcel of land being developed, or the portion thereof on which the land development project is located.
+"Site development permit" means the permit issued by the City of Valdosta Engineering Department. The approval of such permit is required for undertaking any qualifying land development disturbance.
+"Stormwater better site design" means nonstructural site design approaches and techniques that can reduce a site's impact on the watershed and can provide for nonstructural stormwater management. Stormwater better site design includes conserving and protecting natural areas and green space, reducing impervious cover and using natural features for stormwater management.
+"Stormwater management" means the collection, conveyance, storage, treatment and disposal of stormwater runoff in a manner intended to prevent increased flood damage, stream bank channel erosion, habitat degradation and water quality degradation and to enhance and promote the public health, safety and general welfare.
+"Stormwater management facility" means any infrastructure that controls or conveys stormwater runoff.
+"Stormwater management measure" means any stormwater management facility or nonstructural stormwater practice.
+"Stormwater management plan" means a document describing how existing runoff characteristics will be affected by a land development project and containing measures for complying with the provisions of this article.
+"Stormwater management system" means the entire set of structural and nonstructural stormwater management facilities and practices that are used to capture, convey and control the quantity and quality of the stormwater runoff from a site.
+"Stormwater retrofit" means a stormwater management practice designed for a currently developed site that previously had either a no stormwater management practice in pace or a practice inadequate to meet the stormwater management requirements of the site.
+"Stormwater runoff" means the flow of surface water resulting from precipitation.
+"Structural stormwater control" means a structural stormwater management facility or device that controls stormwater runoff and changes the characteristics of that runoff including, but not limited to, the quantity and quality, the period of release or the velocity of flow of such runoff.
+"Subdivision" means the division of a tract or parcel of land resulting in one or more new lots or building sites for the purpose, whether immediately or in the future, of sale, other transfer of ownership or land development, and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or road.
+"USACE" means United States Army Corps of Engineers.
+"Waters of the state" means the jurisdictional waters that require a permit from the United States Corps of Engineers to obstruct, dredge, divert or rehabilitate any portions of them. For detailed definitions see the Georgia Erosion and Sedimentation Act, O.C.G.A. § 12-7-3(16), and Code of Federal Regulations 40 CFS 230.3.
+(Ord. No. 2006-71, § 2, 12-7-2006; Ord. No. 2015-14, § 2, 6-11-2015)
+Sec. 42-403. - Stormwater management.
+(a)
+Stormwater management report requirements.
+(1)
+Every non-exempt project shall provide a stormwater management site plan prepared by a professional engineer currently registered in the State of Georgia. The purpose of this report shall be to formulate a plan to manage stormwater runoff so that stormwater runoff hazards are not created and existing runoff-related problems are not exacerbated, either upstream or downstream from or within the boundaries of the property being developed. The engineer shall be responsible for obtaining all information necessary for the report. Hydrologic analysis and detention pond hydraulics pipe and open channel hydraulics, culvert hydraulics and water quality best management practices shall be certified by a professional engineer registered in the State of Georgia. Flood studies for any floodplain or flood-prone areas, and hydrologic and hydraulic analysis and design calculations which are performed for the design of a dam shall be certified by a professional engineer registered in the State of Georgia. Projects that include the design of a dam or levee shall be certified by a professional engineer registered with the safe dam program from the Georgia Environmental Protection Division (EPD).
+(2)
+The stormwater management site plan shall follow the technical guidance provided by the GSWMM, which provides details, examples and references to determine the following:
+a.
+Selection of hydrologic and hydraulic methods and models shall be made in accordance with the GSWMM Volume 2, Section 1.
+b.
+All culverts, pipe systems and open channel flow systems shall be sized based on all on-site upstream areas being developed per the development plans and the off-site upstream areas being fully developed with no detention. Upstream detention may be included when determining flows, provided the engineer calculates the reduced flows by routing the developed flows through any stormwater facility included in the analysis rather than assuming the reduction will occur. The engineer shall show that detention facilities used in the analysis will remain, be properly maintained and the storage volume and outlet structure is based on current conditions.
+c.
+Detention facilities shall be designed using pre-development flows based on existing conditions for all upstream areas including existing on-site lakes and detention. Post-development flows, except the 100-year flow, shall be based on on-site upstream areas being developed per the development plans and existing conditions for off-site upstream areas. The 100-year flow shall be based on on-site upstream areas being developed per the development plans and the off-site upstream areas being developed with no detention. Upstream detention may be included if it meets the conditions as described for culverts and pipe systems. Existing conditions shall be defined as the conditions of the site at the time of application for a land disturbance permit. The existing condition includes on-site lakes and ponds. Pre-development flows shall be determined by routing the pre-development flows through these stormwater facilities. Flows used to size the outlet structures for detention facilities that exceed the 25-year design flow, shall be sized as described for culverts and pipe systems.
+d.
+When more than 50 percent of the property of a developed project site is disturbed for either redevelopment or improvement, the stormwater management report shall be prepared for the entire site. When 50 percent or less of the property is disturbed, detention shall be provided as required by these regulations for the disturbed area and existing impervious areas which are disturbed.
+e.
+The report shall contain drainage area delineation maps and other exhibits at satisfactory scale and sufficient in quantity and scope to define the boundaries of the site and off-site areas relative to the watercourses, drainage divide, drainage structures and other pertinent features. The Southern Georgia Regional Commission (SGRC) VALOR GIS mapping shall be used where appropriate.
+(3)
+For the purposes of these regulations, the words "downstream" and "analysis" shall have the following meanings. The analysis of downstream conditions in the site plan shall address each and every point or area along the project site's boundaries at which runoff will exit the property. The analysis shall focus on the portion of the drainage way "immediately" downstream from the project. The city engineer provides guidance to applicants on how to apply the GSWMM criteria in the City of Valdosta, and the conditions requiring watershed evaluations beyond the site being developed. Hydrographs shall be analyzed as follows:
+a.
+The study will compare pre-developed hydrographs with post-developed hydrographs; and
+b.
+Comparison of peak flows shall include the timing of the hydrographs; and
+c.
+Hydrographs shall be based on a 24-hour storm.
+(4)
+The following elements shall be evaluated by the engineer preparing the stormwater management site plan and in determining whether or not detention should be required for any portion of a site:
+a.
+Existing land uses downstream;
+b.
+Anticipated future land uses downstream;
+c.
+Magnitude of increase in peak flows due to development;
+d.
+Presence of existing drainage problems;
+e.
+Capacity of existing and anticipated drainage systems;
+f.
+Creation of concentrated flows where none had occurred previously;
+g.
+Availability of feasible locations for detention facilities;
+h.
+Existing flows generated off-site which pass through the project site; and
+i.
+The nature of the receiving watercourse.
+The city engineer provides additional guidance on the items above in the site development permit document.
+(5)
+Where detention for a proposed project is provided in a regional detention facility that was previously permitted, the developer shall provide a copy of the original study that met the regulations at the time the facility was permitted. If the approved study cannot be found, then the engineer shall. prepare a new site development study for the entire regional facility. The project shall be exempt from restudy and any modifications required to meet regulations, provided the proposed project is in keeping with the intent of the original detention study and the detention facility is maintained in agreement with the design and maintenance criteria set in subsections (f)(1)—(4) and (g)(1)—(7) of this section and sections 310.51(A)—(D) and 310-54(A) and (B) of the city's land development regulations.
+(6)
+When a development uses an existing facility where the last approved certification and record drawing of the facility was over 36 months prior to the new development's submittal, the engineer shall provide one of the following:
+a.
+A new survey, drawing and certification showing that the outlet structure is constructed as approved and the flood storage and water quality volume of the facility is equal to or greater than the volume required when the facility was approved.
+b.
+Construction plans and calculations showing that the outlet structure will function as designed and the flood storage and water quality volume of the facility will be equal to or greater than the volume required when the facility was approved once the proposed maintenance has been performed.
+c.
+A new record survey, drawing, study and certification showing that the facility meets the development requirements when the facility was approved.
+(7)
+Design criteria—General. All design related to stormwater shall be in accordance with the GSWMM.
+(8)
+Evidence of acquisition of applicable non-local permits. The applicant shall certify and provide documentation that all other applicable environmental permits have been acquired for the site prior to approval of the site development plan.
+(b)
+Stormwater detention required.
+(1)
+Whenever a site development plan indicates that an adverse impact from stormwater runoff related impact is expected to result from the development of a property, that project shall be required to provide stormwater detention facilities. The meaning of "adverse impact" shall apply when pre-developed flows did not cause difficulties and post-development flows do. Difficulties shall include, but not be limited to, situations where 25-year velocities exceed the non-erosive velocity of the stream, habitable structures are shown to be subject to increased depth of flooding for any frequency up to and including the regulatory flood and stormwater facilities that cannot carry the design storm in accordance with these regulations.
+(2)
+Should the professional engineer conclude that stormwater detention might not be necessary rigid compliance with all of the following criteria is mandatory:
+a.
+A site development plan shall always be required whether or not stormwater detention is required.
+b.
+If the applicant proposes to show that the detention requirement may be eliminated for all or a portion of a project, then a pre-submittal conference with the city engineer is required prior to preparation and submittal of construction plans for the project.
+(c)
+Detention design criteria—General.
+(1)
+All stormwater detention design calculations shall be certified by a professional engineer currently registered in the State of Georgia.
+(2)
+Design plans, survey, and engineering calculations shall be based on the North American Vertical Datum 1988 and Georgia State Plane (West), datum NAD 1983 coordinates. The City of Valdosta has developed a benchmark network to allow surveyors to obtain reference benchmarks at multiple locations within the city limits.
+(3)
+All stormwater detention facilities shall be designed to detain the one-year storm runoff, for the area draining to the pond, for 24 hours. For the project, this volume called the channel protection volume, shall be equal to or greater than the one-year storm runoff volume from the project. In addition, these facilities shall control the peak flow rates associated with storms having two-year, five-year, ten-year, and 25-year return frequencies so that flows from the developed site do not exceed those associated with pre-development conditions at the project boundary, nor increase the peak flows downstream from the project to the point in the drainage basin where the project area is ten percent of the total basins. Where adverse impacts, as defined in subsection (b)(1) above, occur during the 100-year storm, the 100-year storm shall also be regulated.
+(4)
+A variety of methods of achieving stormwater management goals shall be acceptable in providing detention facilities. The type of facility provided shall be based on the following criteria:
+a.
+The type of development for which the detention facility is being provided.
+b.
+The type of development for which the detention facility is intended to protect.
+c.
+Volume of stormwater to be stored.
+d.
+Origin and magnitude of the flows to be managed.
+e.
+Topographic opportunities and limitations.
+f.
+Safety considerations
+g.
+Maintenance requirements.
+h.
+Aesthetic considerations.
+i.
+Likelihood of facility operation interfering with access to public or private facilities.
+j.
+Proximity of facility to property lines, utilities, buffers, etc.
+k.
+Similar site-specific constraints.
+(5)
+Detention facilities may be of any of the following types, and two or more types may be used in combination with one another:
+a.
+Normally-dry basins, whether excavated or created by damming a natural drainage feature, or a combination of both methods.
+b.
+Lakes and ponds, whether excavated or created by damming a natural drainage feature, or a combination of both methods.
+c.
+Parking lot facilities.
+d.
+Underground facilities.
+e.
+Roof top facilities.
+(6)
+Reservoir routing methods shall be used for all detention facility design. The maximum size of the orifice to detain the one-year storm for the facility shall be computed using the following orifice equation with a 24 hour draw-down time from the elevation of the total channel protection volume (CPV) and an orifice coefficient of 0.60. The minimum elevation of the two-year control shall be at the maximum routed pool elevation of the one-year storm.
+h = Head measured in feet from the elevation needed to store the total one-year runoff volume (CPV) to the centroid of the orifice
+Qa = Average CPV outflow rate in cfs
+Qa = CPV/3600 x 24
+A = Required orifice area in square feet
+A = Qa/(0.6 x (64.4 x h/2) 0.5 )
+(7)
+The detention methodology used for any given project shall conform to the GSWMM.
+(8)
+Runoff coefficients and runoff curve numbers used for pre- and post-development conditions shall be consistent with those shown in the GSWMM. The SCS method shall be used where applicable to check the magnitude of peak flows when other hydrologic methods recommended in the manual are used.
+(9)
+Calculations shall be provided showing how all times of concentration or lag times were computed, both for pre-development and post-developed conditions. Likewise, adequate support must be provided for all composite runoff coefficients or curve numbers used.
+(10)
+If a computer program is used for hydrologic and hydraulic analysis and design, including generating and routing hydrographs, the output from the program shall be summarized in the stormwater management report and the name and version of the program shall be indicated. Computer output sheets shall be attached to the report as required to substantiate the input parameters used in the computer evaluation.
+(11)
+Prior to beginning the design of the stormwater detention facility, the design engineer shall submit a concept plan outlining the proposed system which will include as a minimum the following items:
+a.
+Pre-development, post-development drainage basin maps.
+b.
+Proposed site plan sketch (to scale) showing major site items, contours and all impervious areas.
+c.
+Locations, approximate size and type of all BMP and detention facilities.
+The concept plan will be reviewed and agreed upon between the city engineer or his designee and the design engineer, and will form the basis for the final stormwater facility design.
+(12)
+In residential subdivisions, no more than 50 percent of the detention facility perimeter may be a wall of any type (unless approved by city engineer).
+(d)
+Detention facility location criteria.
+(1)
+For purposes of these regulations, a detention facility shall be deemed to consist of the area within the maximum design ponding limits (100-year ponding limit unless a modification application is approved), the dam (if one including all embankment slopes and wall footings if applicable), primary and emergency outlet works, any drainage and access easements, and any energy dissipation devices. The intent of these regulations is to ensure that the extent of the facility is defined to allow flooding, access and maintenance. Granting of a modification will not nullify these regulations. When the facility is a wet pond or lake, the area within the maximum design ponding limits is reduced to a few feet inside the normal pool elevation, and easements are provided on the perimeter properties to allow for flooding, access and maintenance around the lake. In addition, granting of the modification shall only be considered when the wet pond is an amenity and under no circumstances shall the dam and outlet structure lie on private property outside of a drainage easement.
+(2)
+Detention facilities, to the greatest extent feasible, shall be located so as to minimize the amount of flow generated on-site which by-passes the facility.
+(3)
+No portion of any detention facility shall disturb any required (as opposed to voluntary) buffer, or tree protection area, except that natural bottom detention ponds and its appurtenant structures, which require no grading and removal of trees, may encroach into a required construction buffer.
+(4)
+The 100-year ponding limits of a detention facility shall not encroach upon a public right-of-way.
+(5)
+Detention facilities may be located within required landscape areas or utility easements or rights-of-way, or encroach upon utility easements or rights-of-way, upon receipt by the city engineer of written permission from both the property and utility owners.
+(6)
+Detention facilities may be constructed within required recreation areas, if the following criteria are met:
+a.
+Ownership of the area will be held by a qualified property owners association, homeowners association, or similar private parties.
+b.
+Permanent structures, such as buildings and swimming pools, will not be constructed within the boundaries of the detention facility.
+c.
+Detention facilities within recreation areas will be approved only if the design of the area includes recreation amenities such as ball fields, tennis courts, grassed open areas or other similar improvements. The intent is to provide recreation facilities with detention as a secondary feature.
+d.
+Permanent detention features shall not interfere with the intended use of the recreation amenity, (i.e., a ditch or large swale shall not traverse a ball field, an inlet structure shall not be in a tennis court, etc.).
+(7)
+If a residential subdivision is provided with an on-site detention facility not located within a recreation area, a mandatory property owners' association shall be established for its ownership and maintenance. The facility shall be located on a single lot within the development and owned by the property owners' association. The lot shall have a minimum of 30 feet of public road frontage and a minimum lot width of 30 feet. If the project is provided with an off-site detention facility, a mandatory property owners' association shall be established for its maintenance. The association by-laws shall be recorded concurrently with the recording of a final subdivision plat.
+(e)
+Detention facility easement requirements.
+(1)
+In a nonresidential subdivision or project, an easement at least 20 feet in width shall be required so as to provide access to all detention facilities from a public street.
+(2)
+In a residential subdivision, an easement at least 20 feet in width shall be required so as to provide access to all detention facilities from a public street.
+(3)
+Access easement:
+a.
+The access easement shall be cleared, grubbed and graded so that it can be utilized by rubber-tired construction vehicles.
+b.
+The minimum drive width shall be 15 feet.
+c.
+The drive shall be grassed or paved.
+d.
+The maximum slope shall be 20 percent (5H:1V).
+e.
+Access easements may be combined with drainage easements containing an open channel; however, the combined easement shall be a minimum of 30 feet in width and shall be wide enough for the drainage channel and the drive.
+(4)
+Every normally dry detention basin, lake, or parking lot detention facility shall be completely enclosed within a drainage easement. The drainage easement shall extend at least ten feet beyond the 100-year flooding limits of the detention facility.
+(f)
+Detention facility maintenance.
+(1)
+The detention storage capacity or function of any detention basin, pond or other impoundment, whether natural or manmade, shall not be removed or diminished without the express approval of the city engineer.
+(2)
+In a residential subdivision, it shall be the responsibility of the mandatory property owners' association to maintain the operational characteristics of any facility constructed on their property for stormwater detention pursuant to city requirements, to keep the access drive free of obstructions, and to maintain the facility free of excessive vegetation, overgrowth, trees, obstructions, silt or debris.
+(3)
+In a nonresidential subdivision or project served by a detention facility that provides detention for more than one property or by an off-site facility, the property owners shall be responsible for maintenance of the facility. The property owners shall develop and submit to the city engineer an operational and maintenance plan for maintenance of the operational characteristics of the facility pursuant to city requirements, to keep the access drive free of excessive vegetation, overgrowth, trees, obstructions, and to maintain the facility free of obstruction, silt or debris.
+(4)
+In a nonresidential project with an on-site detention facility which serves only that project, the property owner shall be responsible to maintain the operational characteristics of the facility pursuant to city requirements, to keep the access drive free of obstructions, and to maintain the facility free of excessive vegetation, overgrowth, trees, obstructions, silt or debris.
+(g)
+Detention facility construction standards.
+(1)
+Stormwater detention facilities shall be constructed in accordance with plans reviewed and approved by the city engineer, and shall be in place and inspected prior to the initiation of other improvements for disturbed areas greater than one acre. If the detention facility is planned to be a lake, temporary detention facilities shall be provided and shall remain in place until such time as the lake has become effective in providing stormwater management.
+(2)
+Within a detention basin, all stumps are to be cut flush with the ground or removed and all debris is to be removed below a 1.2-inch rainfall event ponding elevation. Trees or shrubs may be allowed to remain below this ponding elevation only upon certification of the survivability of the vegetation.
+(3)
+Detention slopes that are disturbed are to be grassed. The ground cover within the basin shall be well established with all exposed areas covered prior to the end of the maintenance period.
+(4)
+If the developer desires to place a fence around a detention facility, it shall be a minimum four-foot high fence of durable material, with a 12-foot wide access gate. The fence shall be contained within an easement at least 20 feet wide, shall not encroach upon the detention facility (although their easements may overlap by up to ten feet), and shall comply with the locational requirements of title 2 of the city's land development regulations (LDR).
+(5)
+The side slope in graded areas is to be 3H:1V or flatter. The normal pool ponding surface elevation shall be defined as the elevation when the volume contained in the facility equals the runoff from a 1.2-inch rainfall event. When the depth to the normal ponding surface is greater than four feet and the side slope is steeper than 4H:1V, a bench shall be provided. The bench shall be at least ten feet in width and is recommended to be 15 feet in width. The slope of the bench shall be 10H:1V. The bench shall be located so that the normal ponding surface elevation is between the top and bottom edge of the bench.
+(6)
+The bottom of the pond shall be sloped at one percent or 0.5 percent if a paved channel is proposed.
+(7)
+Permanent fencing at least four feet in height shall be required around all these facilities having a 100-year stormwater depth of four feet or more or bank slope greater than 2H:1V or those designated by the city engineer as constituting a public health hazard. The fence shall be contained within an easement at least 20 feet wide, shall not encroach upon the detention facility (although their easements may overlap by up to ten feet), and shall comply with the locational requirements of title 2 of the city's LDR. This fencing shall be designed, installed, and maintained to allow the free flow of runoff and sediment into the facility. Gate latches shall be locked with a key, a copy of which must be supplied to the city. The fence shall include a 12-foot gate to permit entrance of equipment necessary to allow periodic maintenance activities. Fencing may be waived by the city engineer or his designee in nonresidential areas when the pond is more than 500 feet from a residential district and in residential districts when retention is provided in natural areas such as stream channels and fencing, when in the opinion of the engineer or his designee, it would damage the environment or affect stream flow.
+(h)
+Detention facility engineer's certification and record drawings.
+(1)
+When a new facility is constructed in a development, a certified record survey of each detention facility shall be prepared by a land surveyor currently registered in the State of Georgia. A certified record drawing of the facility shall be prepared based upon this survey. Based on the actual parameters established on the record drawing, an addendum to the stormwater report shall be prepared which demonstrates that the facility, as constructed, complies with the requirements of these regulations. The amended stormwater report shall be certified by a professional engineer currently registered in the State of Georgia. The survey shall be performed after substantial completion and stabilization of the project has occurred. The record drawing and addendum to the stormwater management report shall be submitted to the city at least one week prior to the issuance of a certificate of occupancy or final plat approval (as appropriate to the project).
+(2)
+When a development uses an existing facility without an existing stormwater maintenance bond, the facility shall be cleaned out if necessary and a new record survey, drawing and certification showing that the outlet structure exists as approved and the flood storage and water quality volume of the facility is equal to or greater than the volume required when the facility was approved. As an alternative, a new record survey, drawing, study and certification showing that the facility meets the development requirements when the facility was approved shall be submitted. The survey shall be performed after substantial completion and stabilization of the project has occurred. The certification and supporting data shall be submitted to the city at least one week prior to the issuance of a certificate of occupancy or final plat approval (as appropriate to the project).
+(Ord. No. 2006-71, § 3, 12-7-2006; Ord. No. 2015-14, § 3, 6-11-2015)
+Sec. 42-404. - Culverts and piped drainage systems.
+Public drainage systems include any stormwater drainage structure located within the public right-of-way (ROW) engineered and constructed for the purpose of managing stormwater passing parallel to or crossing the public ROW. These structures include, but are not necessarily limited to, catch basins, drop inlets, curb and gutter, culverts and headwalls under roadways, culverts and headwalls under driveways within the ROW, and open, vegetated channels within the ROW. Public drainage systems shall also include stormwater drainage directed from the ROW through piped systems (including headwalls) within dedicated drainage easements to locations outside the ROW, as necessary, for the efficient management of stormwater.
+Piped drainage systems that originate and terminate on private property, or piped systems that depart the roadway ROW but are not in a dedicated drainage easement, will not be maintained by the city without establishment of the appropriate easement. If a private piped system crosses roadway ROW, only that portion of the drainage structure located within the ROW will be maintained by the city.
+(1)
+Drainage improvements required. Stormwater conveyance facilities, which may include but are not limited to, culverts, storm drainage pipes, catch basins, drop inlets, junction boxes, headwalls, gutter, swales, channels, and ditches, shall be provided for the protection of public right-of-way and private properties adjoining project sites and/or public rights-of-way. Stormwater conveyance facilities that are designed to carry runoff from more than one parcel, existing or proposed, shall meet the requirements of these regulations.
+(2)
+Standard specifications.
+a.
+Unless otherwise specifically set forth herein or in the City of Valdosta standard drawings, all of the materials, methods of the construction, and workmanship for the work covered in reference to stormwater conveyance facility construction shall conform to the most recent Standard Specifications of the Georgia Department of Transportation (GDOT).
+b.
+Allowable pipe material for all applications in drainage easements and public street rights-of-way, except as specified below, are smooth, lined corrugated polyethylene pipe (PE), or reinforced concrete pipe (RCP).
+c.
+For roads constructed with public funds, either wholly or in part, or roads classified as major thoroughfares, materials which meet the Georgia DOT Design Standards shall be used unless an alternative is specifically approved by the city engineer.
+d.
+Only reinforced concrete pipe (RCP) shall be used for all dams nine feet or more in height with an impounding capacity of 20 acre-feet or more unless the Georgia Safe Dams Program requires another material.
+e.
+Reinforced concrete pipe (RCP) shall be used under roads.
+f.
+The city engineer may approve an alternative pipe material.
+(3)
+Design criteria—General.
+a.
+All stormwater conveyance facility design calculations shall be certified by a professional engineer currently registered in the State of Georgia.
+b.
+Methods to calculate stormwater flows shall be in accordance with the City of Valdosta Stormwater Ordinance. The SCS method shall be used where applicable to check the magnitude of peak flows when other hydrologic methods recommended in the manual are used.
+c.
+All portions of a stormwater conveyance system which drain areas falling within the same size category above shall be analyzed using the same methodology.
+d.
+Runoff coefficients used for the rational method and runoff curve numbers used for the SCS method shall be consistent with those shown in the Georgia Stormwater Manual.
+e.
+Smooth interior corrugated polyethylene (PE) pipe shall not be used or installed under the road surface of existing or proposed streets.
+(4)
+Design criteria—Culverts.
+a.
+Culverts or pipe systems (designed to convey water from one side of a public right-of-way to the other) shall be designed to pass the fully developed peak flow associated with a 100-year storm with at least 1.5 feet of freeboard between the 100-year ponding elevation and the centerline of the road, without raising the 100-year flood elevation on upstream properties, and in accordance with floodplain management ordinance.
+b.
+The 100-year ponding limits above the culvert shall be shown on the development plans and on the final plat (if applicable).
+c.
+The minimum allowable culvert diameter shall be 15 inches (unless approved by city engineer).
+d.
+Culvert design is to be in accordance with the methods contained in the Georgia Stormwater Management Manual and shall include a thorough analysis of both inlet and outlet control conditions.
+(5)
+Piped collection systems.
+a.
+The preliminary design (initial pipe sizing and profile design) of piped collection systems required herein shall be based upon conveyance of the peak flows associated with a fully developed 25-year storm with the hydraulic grade line (HGL) being one foot or more below the top of each structure, gutter line or proposed final ground surface elevation, whichever is lowest.
+b.
+Once the preliminary design of a piped collection system has been prepared, it shall be analyzed for its behavior during conditions of 100-year flow, with the objective of this analysis being to ascertain the quantities of flow and flow paths followed by flows exceeding the capacity of the system, whether these pond at inlets or flow along the ground's surface.
+c.
+Based on the analysis of 100-year conditions, the preliminary design shall be revised where necessary to produce a final design for which the likelihood of dwelling flooding, major property damage, or substantial public access and/or utility interruption shall be less than one chance in 100 years.
+d.
+The minimum allowable pipe diameter shall be 15 inches.
+e.
+Catch basins shall be spaced so that the spread in the street for a ten-year design flow shall not exceed eight feet, as measured from the face of the curb. Gutter spread calculations shall be submitted to the department for review and approval prior to issuance of a permit.
+f.
+Complete flow, velocity, and hydraulic grade line computations, shall be provided for all portions of a piped collection system. Hydraulic grade lines shall be shown on the storm drainage profiles contained with the development plans for the 25-year storm.
+(6)
+Energy dissipation—Piped systems and culverts.
+a.
+Energy dissipation devices, such as splash pads, rip-rap, stilling basins, etc., shall be provided at the outlet of every culvert and piped collection system. Velocity protection shall be in accordance with the City of Valdosta Stormwater Ordinance. Velocities for the fully developed 25-year flow shall not exceed the non-erosive velocity as shown in the design manual for the receiving conveyance.
+b.
+Energy dissipation devices shall be located entirely within the project site, and shall not encroach upon any required buffer.
+c.
+When uniform, grade stone rip-rap is used for energy dissipation, ultraviolet-resistant filter fabric (200-pound test) shall be used between the stone layers.
+d.
+Both minimum and maximum velocities should be considered when designing a culvert. The maximum velocity should be consistent with channel stability requirements at the culvert outlet. The maximum allowable velocity for corrugated metal pipe is 15 feet per second. There is no specified maximum allowable velocity for reinforced concrete pipe, but outlet protection shall be provided where discharge velocities will cause erosion problems. To ensure self-cleaning during partial depth flow, a minimum velocity of 2.5 feet per second, for the two-year flow, when the culvert is flowing partially full is required.
+e.
+The culvert length and slope should be chosen to approximate existing topography and, to the degree practicable, the culvert invert should be aligned with the channel bottom and the skew angle of the stream, and the culvert entrance should match the geometry of the roadway embankment. The maximum slope using concrete pipe is ten percent and for CMP is 14 percent before pipe-restraining methods must be taken. Maximum drop in a drainage structure is ten feet.
+(7)
+Minimum pipe and pipe coating requirements.
+a.
+Galvanized corrugated steel pipe and pipe arches are not approved for use in the City of Valdosta.
+b.
+Reinforced concrete pipe shall be in not less than eight-foot joint lengths. All joints shall be bell and spigot type, using an O-ring gasket conforming to ASTM C-443. Pipe shall be manufactured in accordance with AASHTO -170 and/or ASTM C-76. Class of pipe and wall thickness shall be in accordance with 1030-D, Georgia DOT Specification, Table 1.
+c.
+Aluminized steel-coated pipe is not accepted by the city.
+d.
+Smooth interior corrugated polyethylene pipe (must adhere to the following conditions):
+1.
+This specification applies to high-density polyethylene (PE) corrugated pipe with an integrally formed smooth interior. PE pipe manufacturers shall be approved by the city engineer or his designee.
+2.
+This specification is applicable to nominal sizes 15-inch through 48-inch diameter. Requirements for test methods, dimensions, and markings of pipe sizes 15-inch through 36-inch diameter are those found in AASHTO designation - 294 and AASHTO MP7, Type S and D.
+3.
+Pipe and fittings shall be made of polyethylene compounds that meet or exceed the requirements of Type III, Category 4 or 5, Grade P33 or P34, Class C per ASTM D-1248 with the applicable requirements defined in ASTM D-1248. Clean reworked material may be used.
+4.
+The pipe and fittings shall be free of foreign inclusions and visible defects. For pipe sizes 15-inch diameter and greater, designed drainage perforations shall be permitted in corrugation valleys only. All holes of any kind in the corrugation crests or sidewalls shall be considered unacceptable. The ends of the pipe shall be cut and connected as recommended by the manufacturer.
+5.
+The normal size for the pipe and fittings is based on the nominal inside diameter of the pipe. Corrugated fittings may be either molded or fabricated by the manufacturer. Fittings supplied by manufacturers other than the supplier of the pipe shall not be permitted.
+6.
+Joints shall be made with split couplings, corrugated to engage the pipe corrugations, and shall engage a minimum of four corrugations, two on each side of the pipe joint. Where required by the city engineer or his designee, a neoprene gasket shall be utilized with the coupling to provide a soil-tight joint. Gaskets shall conform to ASTM F-477.
+7.
+Installation shall be in accordance with ASTM recommended practice D-2321 AASHTO Section 30, or as specified by the city engineer.
+8.
+Certification from the manufacturer that the product was manufactured, tested, and supplied in accordance with this specification shall be furnished to the city upon request.
+(8)
+Pipe length.
+a.
+Culverts carrying live streams shall extend to where the crown of the pipe intersects the roadway slope.
+b.
+Pipes that do not carry live streams shall extend at least 50 feet beyond the front building setback lines, and may be required to extend farther where necessary to provide an adequately protected building site on the property. In nonresidential subdivisions, these pipes may temporarily end at the right-of-way line, but shall be extended as part of a subsequent development permit approved for the individual site.
+c.
+The length requirement, shall be subject to requirements for maintaining stream buffers required by state law and city ordinances and regulations.
+(9)
+Pipe installation. Reinforced concrete pipe, and smooth interior corrugated polyethylene pipe shall be installed in accordance with Section 550 of the Georgia DOT Standard Specifications, Construction of Roads and Bridges. Prior to approval of a final plat, the city may require the submittal of certification from a mandrel testing agency indicating that all installed pipe does not exceed five percent deflection. Based on field inspections, video surveillance may be required by the city on storm drain installations before approval of the final plat or issuance of the certificate of occupancy. If required, video surveillance should be done after completion of all activities that may damage the pipe but prior to placement of base, paving or landscaping over or near the pipe. If video surveillance indicates problems such as pipe deformation, cracking or joint separation, the pipe shall be removed and replaced before approval.
+a.
+Bedding: All pipe structures shall be placed on stable earth or fine granular foundation, the characteristics of which would be expected to provide long-term stability. In all live stream pipe installations, in areas of low bearing solid or non-uniform foundations, in area where rock is encountered at the foundation level, or in other locations where conditions warrant, a minimum of six inches of crushed stone bedding is required (maximum size of stone shall be ¾"). The city may also require geotextiles or geogrids in problem areas.
+b.
+Backfilling: Backfill on all pipe installations shall be constructed using foundation backfill material Type I or Type II, as specified in Sections 812.01 and 812.02 respectively, in Georgia DOT Standard Specifications. These materials shall be placed in layers of not more than six inches loose. Compaction of these materials shall be accomplished by hand tamping or machine tamping. Required compaction levels are as follows:
+1.
+Backfill within all street rights-of-way shall be compacted to 95 percent maximum density, tested using the AASHTO Method T-99.
+2.
+Backfill in all other areas shall be compacted to 85 percent maximum density, tested using the ASSHTO Method T-99.
+c.
+Construction loads and minimum covers: If drainage pipe is installed prior to the completion of grading, a minimum of four feet of fill should be provided where needed to adequately protect the drainage structure during the land development phase, unless the structure itself is designed to withstand the anticipated live load during construction.
+(10)
+End finish. Headwalls or other end treatments are required on all culverts (except under residential driveways) and at the outlet of all piped collection systems.
+a.
+Headwalls are to be precast concrete, stone masonry with reinforced concrete footings, or poured-in-place, reinforced concrete with reinforced concrete footings.
+b.
+End treatments that conform to the slope may be masonry, pre-cast concrete end sections, PE end sections, reinforced poured-in-place slope collars, or grouted rip-rap. Concrete flared end sections shall conform to Georgia DOT Specifications 1120.
+(11)
+Junction boxes and catch basins.
+a.
+Junction boxes and catch basins shall have metal manhole frames and lids for access.
+b.
+Lids for storm drainage facilities shall be engraved in accordance with City of Valdosta Standard Specifications.
+(12)
+Other structures. Box culverts may be used in accordance with the latest Standard Specifications of the Georgia Department of Transportation.
+(Ord. No. 2006-71, § 4, 12-7-2006; Ord. No. 2015-14, § 4, 6-11-2015)
+Sec. 42-405. - Surface drainage.
+Natural drainage swales, creeks, streams or other natural paths for water movement outside the ROW, whether in a drainage easement or not, are not considered public drainage systems. Maintenance of these natural drainage paths is the responsibility of the property owner on which that drainage course traverses. The city may direct stormwater into open drainage swales, creeks, streams, etc., outside the ROW in order to maintain suitable drainage for roadway and ROW areas. The property owner is responsible for maintaining the drainage course open and in a free flowing condition through the use of periodic clearing of vegetation, mowing, and removal of debris to maintain efficient movement of water.
+(1)
+Design standards.
+a.
+All new proposed channels shall be designed to carry at least the fully developed 25-year storm with freeboard equal to 20 percent of the design flow depth.
+b.
+Transition channels shall be provided at the inlet and outlet ends of all culverts and pipe systems, unless otherwise provided herein.
+c.
+The maximum flow velocity at the project site's downstream property line shall not exceed the predeveloped velocity.
+d.
+In cases of potential erosion due to irregular channel alignment, extreme velocities, or excessive slopes, a paved ditch may be required. However, if, in the opinion of the city engineer, the expected long-term maintenance of a surface drainage system could prove impractical, a pipe design may be required.
+e.
+The cross-sectional shape of channels shall be as found in the standard drawings. "V" shaped cross-sections are not permitted in grassed channels.
+f.
+If the channel will be affected by backwater from culverts, bridges, other structures or floodplains, backwater curves shall be shown in profiles of the channel.
+g.
+All channels must be capable of conveying flows sufficient to ensure that overflow of the channel would not result in a likelihood of dwelling flooding, property damage or public access and/or utility interruption shall be greater than one chance in 100 years.
+h.
+Channels shall be designed to carry the fully developed 25-year flow in accordance with City of Valdosta Stormwater Ordinance.
+(2)
+Construction standards.
+a.
+The channel shall be shaped to the dimensions specified on the approved plans and shall be free of over falls, gullies, or other irregularities.
+b.
+Channels in fills shall be lined.
+c.
+Protective cover in grassed channels shall be installed as soon as the earthwork is completed.
+(Ord. No. 2006-71, § 5, 12-7-2006; Ord. No. 2015-14, § 5, 6-11-2015)
+Sec. 42-406. - Erosion control.
+(a)
+Design standards. The procedures and requirements of the City of Valdosta Soil and Erosion Ordinance, as may be amended from time to time, shall be applicable whenever any land disturbance is proposed to occur which requires a permit to be obtained by these regulations and shall continue to apply until the project has been completed.
+(b)
+Abandoned projects. Any project whose permit has lapsed shall immediately have all disturbed areas stabilized. This responsibility shall fall upon the owner, developer, contractor, or any and all other responsible parties involved in the land disturbance activity.
+(Ord. No. 2006-71, § 6, 12-7-2006; Ord. No. 2015-14, § 6, 6-11-2015)
+Sec. 42-407. - Dam.
+(a)
+In general. New dams which become subject to the requirements of the Georgia Safe Dams Act and Rules for Dam Safety. Dams proposed to be 25 feet or more in height or proposed to have an impounding capacity of 100 acre-feet or more at maximum water storage elevation shall be subject to the following:
+(1)
+The developer of any new dam in which development exists within the proposed breach zone shall be subject to the requirements of the Georgia Safe Dams Act and Rules for Dam Safety adopted by the Georgia Department of Natural Resources. The developer shall obtain necessary approvals and permits from the Environmental Protection Division of the Georgia Department of Natural Resources for the project and the dam prior to securing a permit from the engineering department. The developer of any new dam as to which development does not exist within the proposed breach zone shall submit construction plans to the city for review of the project and the dam prior to securing a permit.
+(2)
+If the developer elects to construct the new dam in accordance with the design standards for new dams as contained in the rules for dam safety, then new development shall be permitted within the dam breach zone. However, the dam shall meet the design standards for new dams as contained in the rules for dam safety if development currently exists or is proposed in the dam breach zone.
+(3)
+If the developer elects not to construct the new dam to the design standards for new dams as contained in the rules for dam safety, then a dam breach analysis for the dam shall be submitted along with the construction plans for review prior to securing a permit. The design engineer shall utilize the computer model entitled "DAMBRK" for the dam breach analysis.
+(4)
+Should the new dam not meet the design standards for new dams as contained in the rules for dam safety, then only the following uses and structures shall be permitted within the dam breach easement:
+a.
+Agriculture which requires no structures for human habitation within the dam breach zone including forestry, livestock raising, and agriculture and forestry access roads.
+b.
+Fences.
+c.
+Outdoor advertising signs provided they are located no closer than 100-feet from any residence or place of business.
+d.
+Roads, driveways and parking areas.
+e.
+Utility poles, towers, pipelines, water treatment outfalls and facilities, or other similar facilities and structures.
+(5)
+For any new dam that is proposed not to meet the design for new dams as contained in the rules for dam safety, the developer shall obtain a dam breach easement, recorded with the clerk of superior court, from any off-site property owner where it is proposed for the dam breach zone to extend off the property where the dam is being construction. The developer shall also cause a dam breach easement to be recorded upon the property being developed.
+(6)
+Prior to recording of a final plat or issuance of a certificate of occupancy, as appropriate, an as-built certification from a registered professional engineer shall be submitted to the city engineer. The certification shall state that the dam is constructed in accordance with the provisions of these regulations as well as the authorized construction plans. If the project is for the development of a subdivision, the developer shall also establish a legal entity, acceptable to the city, such as a mandatory property owners association, at the time of the recording of the final plat, responsible for the maintenance of the dam and its impoundment.
+(b)
+New dams subject to regulation by the City of Valdosta. Dams proposed to be nine feet or more in height, but less than 25 feet in height, in combination with an impounding capacity proposed to be 20 acre-feet or more at maximum water storage elevation, but less than 100 acre-feet, shall be subject to the following:
+(1)
+If the developer elects not to construct the new dam to the design standards for new dams as contained in the rules for dam safety, then a dam breach analysis for the dam shall be submitted with the construction plans for review and authorization prior to securing a permit. The design engineer shall utilize the computer model entitled "DAMBRK" for the dam breach analysis.
+(2)
+Should the new dam not meet the design standards for new dams as contained in the rules for dam safety, then only the following uses and structures shall be permitted within the dam breach zone:
+a.
+Agriculture which requires no structures for human habitation with the dam breach zone including forestry, livestock raising, and agricultural and forestry access roads.
+b.
+Fences.
+c.
+Outdoor advertising signs provided they are located no closer than 100 feet from any residence or place of business.
+d.
+Roads, driveways and parking areas.
+e.
+Utility poles, towers, pipelines, water treatment outfalls and facilities, or similar facilities and structures.
+(3)
+If the developer elects to construct the new dam in accordance with the design standards for new dams as contained in the rules for dam safety, then new development shall be permitted within the dam breach zone. However, the dam shall meet the design standards for new dams as contained in the rules for dam safety if development currently exists or is proposed in the dam breach zone.
+(4)
+Construction plans for new dams defined herein shall be submitted to the city for review for the project and the dam prior to securing a permit.
+(5)
+For any dam that is proposed not to meet the design standards for new dams as contained in the rules for dam safety, the developer shall obtain a dam breach easement, recorded with the clerk of superior court, from any off-site property owner where it is proposed for the dam breach zone to extend off the property where the dam is being constructed. The developer shall also cause a dam breach easement to be recorded upon the property being developed.
+(6)
+Prior to recording of a final plat or issuance of a certificate of occupancy, as appropriate, an as-built certification from a registered professional engineer shall be submitted to the city engineer. The certification shall state that the dam is constructed in accordance with the provisions of these regulations as well as the authorized construction plans. If the project is for the development of a subdivision, the developer shall also establish a legal entity, acceptable to the city, such as a mandatory property owners association, at time of recording of the final plat, responsible for the maintenance of the dam and its impoundment.
+(c)
+Existing dams. Existing dams that are located on a project site and will remain after construction is completed shall comply with the provisions of this article and all reference articles as if they were new dams.
+(d)
+Existing Category II dams. When an existing Category II dam may be classified to a Category I dam because of a proposed development downstream of the dam, the following shall be provided by the developer for review by the safe dams program:
+(1)
+Location of the Category II dam and the proposed development.
+(2)
+A surveyed cross-section of the stream valley at the location of the proposed development including finished floor elevations.
+(3)
+A dam breach analysis using the Dambreak computer model to establish the height of the flood wave in the downstream floodplain. The dambreak modeling shall be completed in accordance with the safe dams program quality assurance program by a qualified registered engineer.
+(Ord. No. 2006-71, § 7, 12-7-2006; Ord. No. 2015-14, § 7, 6-11-2015)
+Sec. 42-408. - Extended detention.
+(a)
+Extended detention facility design requirements. Wet detention facilities shall be designed and constructed to meet the following requirements:
+(1)
+Storage volume of permanent pool: The permanent pool storage (Vb) shall be at least 50 percent of the Water Quality Volume (WQV). The part of the WQV (50 percent or less) not used in the permanent pool shall be detained for 24 hours and the storage volume may be used as part of the detention requirements. The WQV to be stored shall be based upon the project area. The project area compensated for in a pond shall not exceed the total drainage area draining to the pond. Off-site areas that do not drain through other water quality BMP's may be used to compensate for areas that by-pass the pond. By-passed areas shall be minimized as much as practical. Off-site areas exceeding the project site area may by-pass the pond.
+(2)
+Depth of permanent pool:
+a.
+Mean depth: The mean depth (Z) of the permanent pool shall be between three feet and seven feet and is calculated by dividing the permanent pool storage volume (Vb) by the surface area (As) [(Vb)/(As) = Z].
+b.
+Maximum depth: The maximum depth of the permanent pool shall be no greater than 13 feet unless a modification is approved. The intent of these regulations is to ensure that the depth of the facility is not out of proportion with the surface area of the facility. Granting of a modification will not nullify these regulations when the depth and surface area of the facility is based on existing natural topography.
+(3)
+Minimum surface area of permanent pool: The minimum surface area (As) of the permanent pool shall be 0.25 acres. The minimum ratio of surface area to drainage area used to calculate the permanent pool (Aw) in residential watersheds shall be one percent unless a modification is approved. The intent of these regulations is to ensure that the depth is minimized to increase removal efficiencies. Granting of a modification will not nullify these regulations when the depth and surface area of the facility is based on existing natural topography. As/Aw ratios in excess of three percent are desirable for nonresidential watersheds with relatively high levels of imperviousness.
+(4)
+Side slopes along the shoreline:
+a.
+The side slope in graded areas is recommended to be 3H:1V or flatter. When the depth of the permanent pool is greater than four feet and the slope is steeper than 4H:1V, a bench shall be provided. The bench shall be ten feet in width and is recommended to be 15 feet in width. The bench shall have a slope of 10H:1V. The bench shall be located so that the permanent pool elevation is between the top and bottom edge of the bench.
+b.
+Side slopes shall be top soiled, nurtured or planted from two feet below to one foot above the permanent pool control elevation to promote wetland vegetative growth. Below the safety ledge, the pond side shall be sloped to meet topographic or volumetric constraints.
+(5)
+Length to width ratio of permanent pool: The minimum length: width ratio of the permanent pool shall be 2:1. The length shall be measured at the shortest flow path from the inlet to the outlet. The width shall be calculated as the surface of the pond divided by the length. In addition, the location of the outlet structure within the basin shall maximize travel time from the inlet to the outlet. Baffles or islands may be installed within the permanent pool to increase the flow path length and to minimize short-circuiting.
+(6)
+Soil permeability: In some cases where relatively permeable soils are encountered, water drawdown rates shall be minimized by either compacting the permanent pool soils during construction, incorporating clay into the soil or by installing an artificial liner.
+(7)
+Spillway and dam design: The principal spillway, emergency spillway and dam shall be designed in accordance with these regulations.
+(8)
+Forebay:
+a.
+To facilitate major cleanout activities, a sediment forebay shall be constructed near the inlet to the permanent pool to trap coarse sediment particles. The forebay volume may be included in the permanent pool volume requirements. The forebay storage capacity shall be ten percent of the runoff from 1.2 inches of rainfall draining to the facility to accommodate sediment accumulations. The forebay should not exceed ten percent of the permanent pool. The volume shall be calculated as:
+FBV = (0.1) 1.2 (Rv) A S /12 (ft 3 )
+Where Rv = 0.05 +I(0.009)
+I = Percent impervious as a whole number
+A S = Total on-site area draining to facility (ft 2 )
+b.
+The facility shall be dredged to ensure that all of the permanent pool storage volume is available after the upstream area has been stabilized. All temporary sediment control measures employed during land-disturbing activities to trap sediment shall be located outside of state waters.
+c.
+The forebay shall be distinguished from the permanent pool. Options which may be used include: a lateral sill with wetland vegetation; two ponds in series; differential pool depth; rock-filled gabions or a retaining wall; or a horizontal rock filter placed laterally across the permanent pool.
+(9)
+Inlet and outlet structures:
+a.
+The lnlet design shall dissipate flow energy and diffuse the inflow plume where it enters the forbay or permanent pool. Options which may be used include: drop manholes; energy dissipaters at the bottom of paved ditches; a lateral bench with wetland vegetation and the placement of large rock defectors at each inlet.
+b.
+The outlet design shall consist of a riser with a hood or trash rack to prevent clogging and an adequate antivortex device for facilities serving large drainage areas. The outlet may be sized to achieve the flood control performance standards contained in these regulations. An emergency spillway shall be provided in accordance with these regulations.
+c.
+The channel which receives the discharge from the basin's outfall pipe shall be protected from erosive discharge velocities. Options which may be used include: rip-rap lining of the channel; the provision of stilling basins, check dams, rock deflectors or other devices to reduce outfall discharge velocities to non-erosive levels.
+d.
+An orifice for any required extended detention volume shall be sized using the same criteria in the section for dry extended detention facilities.
+(10)
+Access: Access requirements shall be as specified in the section of these regulations for detention facility easement requirements.
+(11)
+Easement requirements: Easement requirements shall be as specified in the section of these regulations for detention facility easement requirements with the change that the easement enclosing the facility shall be named as best management practice (BMP) easement.
+(12)
+Engineer's certification and record drawings: A certified record survey of each facility shall be prepared by a land surveyor currently registered in the State of Georgia. A certified record drawing of the facility shall be prepared based upon this survey. The design engineer shall certify that the facility functions hydraulically as designed. The record drawing shall be submitted to the city at least one week prior to the issuance of a certificate of occupancy or final plat approval (as appropriate to the project). Record drawings of off-site facilities shall be recorded at least one week prior to the recording of the subdivision final plat.
+(b)
+Dry extended detention facilities. Extended detention facilities with wetland plantings shall be designed and constructed to meet the following requirements:
+(1)
+Storage volume: The water quality volume (WQV) to be stored is defined in these regulations under treatment of runoff. Up to 50 percent of the storage volume shall be detained for 24 hours and may be used for detention requirements. The remaining portion (50 percent or greater) shall be drained through a filter drain in 24 hours. The filter drain shall be the only outlet draining the WQV.
+S - BMP storage volume in cubic feet.
+(2)
+Minimum surface area: The facility should have a minimum surface area of one percent of the total drainage area when the volume contained in the facility equals the required BMP storage volume.
+(3)
+Side slopes along the shoreline: The side slope in graded areas shall be 3H:1V or flatter. The normal ponding surface elevation shall be defined as the elevation when the volume contained in the facility equals the required water quality volume. When the depth to the normal pond surface is greater than four feet and the side slope is steeper than 4H:1V, a flat bench shall be provided. The bench shall be at least ten feet in width and is recommended to be 15 feet in width. The slope of the bench shall be 10H:1V. The bench shall be located so that the normal ponding surface elevation is between the top and bottom edge of the bench.
+(4)
+Length: width ratio: The length: width ratio shall be maximized. The length shall be measured as the shortest flow path from the inlet to the outlet. The width shall be calculated as the surface area of the pond divided by the length.
+(5)
+Depth of facility: The average cross-sectional area of the facility shall be calculated as the volume of the pond divided by the length. The water velocity shall be determined by dividing the maximum outflow rate by the average cross-sectional area. The maximum desired water velocity shall be 0.5 feet per second.
+(6)
+Spillway and dam design: The principal spillway, emergency spillway and dam shall be designed in accordance with these regulations.
+(7)
+Forebay: The forebay requirements are the same as for wet extended detention.
+(8)
+Inlet and outlet structures:
+a.
+Inlet and outlet structures shall meet the same requirements as wet detention facilities.
+b.
+The size of the orifice for the facility shall be computed using the following orifice equation with a 24 hours draw down time from the full pool BMP volume (S) and an orifice coefficient of 0.60:
+h = Head measured in feet from the elevation at the required BMP storage to the centroid of the orifice
+Qa = Average BMP outflow rate in cfs
+Qa = S/3600 x 24
+A = Required orifice area in square feet
+A = Qa/(0.6 x(64.4 x h/2) 0.5 )
+c.
+An allowance for base flow shall be provided. The design engineer either shall determine the base flow using a factor of 1.6 cfs per square mile or may use another standard engineering practice if warranted.
+(9)
+Access requirements: Access requirements shall be specified in detention facility easement requirements of these regulations.
+(10)
+Easement requirements: Easement requirements shall be as specified in detention facility easement requirements of these regulations with the exception that the easement enclosing the facility shall be named a best management practice (BMP) easement.
+(11)
+Engineer's certification and record drawings: A certified record survey of each facility shall be prepared by a land surveyor currently registered in the State of Georgia. A certified record drawing of the facility shall be prepared based upon this survey. The design engineer shall certify that the facility functions hydraulically as designed. The record drawing shall be submitted to the department at least one week prior to the issuance of a certificate of occupancy or final plat approval (as appropriate to the project). Record drawings of off-site facilities shall be recorded at least one week prior to the recording of the final subdivision plat.
+(12)
+Wetland plantings: The facility bottom shall be planted with plantings indigenous to local wetlands per recommendation of the city arborist.
+(13)
+The bottom of the pond shall be graded for positive drainage.
+(c)
+Wet and extended detention facility maintenance. Maintenance requirements shall be as specified in detention facility maintenance of these regulations.
+(Ord. No. 2006-71, § 8, 12-7-2006; Ord. No. 2015-14, § 8, 6-11-2015)
+Sec. 42-409. - Water quality best management practices.
+(a)
+Treatment of runoff.
+(1)
+All projects, unless exempt pursuant to subsection (a)(4)below, that meet one or more of the following criteria shall provide water quality treatment based on the modeled total suspended solids (TSS) load off the project for post-construction conditions. The determination of the TSS load shall be in accordance with the stormwater ordinance. The modeled TSS load shall not exceed 850 pounds/acre/year.
+a.
+New development that involves the creation of 5,000 square feet or more of impervious cover, or that involves other land development activities of one acre or more.
+b.
+Redevelopment that includes the creation, addition or replacement of 5,000 square feet or more of impervious cover, or that involves other land development activity of one acre or more.
+c.
+Land development activities that are smaller than the minimum applicability criteria set forth in subsections (a)(1)a. and b. above, if such activities are part of a larger common plan of development, even though multiple, separate and distinct land development activities may take place at different times on different schedules.
+(2)
+The water quality volume (WQV) shall be the runoff from 1.2 inches of rain from the project site. The volume shall be calculated as:
+WQV = 1.2(Rv)A s /12 (ft 3 )
+Where Rv = 0.05 +I(0.009)
+I = Percent Impervious as a whole number
+A;sub§\sub; = On-site area to be treated(ft 2 )
+(3)
+Runoff from any new development or redevelopment, regardless of size, that is defined by the city engineer to be a hotspot land use or activity shall be adequately treated and addressed through the use of structural stormwater controls, nonstructural practices and pollution prevention practices.
+(4)
+The following activities are exempt from providing treatment:
+a.
+Individual single-family or duplex residential lots that are not part of a subdivision or phased development project.
+b.
+Additions or modifications to existing single-family or duplex residential structures.
+c.
+Repairs to any stormwater management facility or practice deemed necessary by the city engineer.
+(b)
+Facility location criteria.
+(1)
+Facility location criteria shall be as specified for detention facilities in detention facility location criteria of these regulations.
+(2)
+In a residential subdivision, the following best management practices must be located on a separate lot in accordance with these regulations, if not located on a recreation area as specified in these regulations.
+a.
+Extended detention ponds;
+b.
+Retention ponds;
+c.
+Sand filters;
+d.
+Constructed wetlands;
+e.
+Infiltration trenches;
+f.
+Oil/grit separators.
+(c)
+Easement requirements.
+(1)
+Easement requirements shall be as specified in detention facility easement requirements of this article with the exception that the easement enclosing the facility shall be named a best management practice (BMP) easement.
+(2)
+Stream buffer easements shall be shown on the final plat for areas that are claimed in the TSS model as undisturbed stream buffers for the site. These areas shall be left in a natural, undisturbed condition except for walking rails. Trails shall not be allowed within 25 feet of a stream bank without a state waters buffer variance.
+(3)
+Upland area easements in nonresidential subdivisions that are claimed as undisturbed upland areas for the site, shall be recorded in an easement acceptable to the city. These areas shall be left in a natural, undisturbed condition except for walking trails.
+(d)
+Facility maintenance.
+(1)
+Maintenance requirements shall be as specified in detention facility maintenance section of these regulations.
+(2)
+Prior to or concurrent with the recording of a final plat for a subdivision, or issuance of a certificate of occupancy for a non-subdivision project, the developer shall provide acceptance surety such as a bond or letter of credit providing for the maintenance of the facility for a period of not less than 18 months. The amount of the surety shall be the greater of 50 percent of construction costs of the facility or 100 percent of the cost to clean out the facility. At the end of 18 months, the city may require the surety to be renewed due to anticipated maintenance caused by such concerns as future construction activity in the basin draining to the facility. A renewed surety may be required up to a total maximum of ten years. The surety for a facility shall be renewed during the ten years until:
+a.
+The surface water drainage area within the project has undergone final stabilization and all planned construction activity has been completed.
+b.
+All stormwater runoff in the surface water drainage area within the project is coming from undisturbed or stabilized areas.
+c.
+At least 90 percent of the lots in that surface water drainage area within the project have been sold to an unrelated party, permanent structures completed and final stabilization achieved.
+d.
+The accumulation of acreage of undeveloped lots, lots with no completed permanent structure and no final stabilization, within the surface water drainage area within the project is less than five acres or ten percent of the total area of the common development draining to the facility, whichever is greater.
+e.
+Within two months of surety release, the facility shall be cleaned out if necessary and a new record survey, drawing and certification showing that the volume of the facility is equal to or greater than the volume shown in the record survey, drawing and certification when the facility was approved. As an alternate, a new record survey, drawing and certification showing that the facility complies with these regulations.
+(e)
+Facility certification and record drawings. Requirements for a certified record survey and addendum to the stormwater management report shall be the same for water quality facilities as for detention facilities.
+(f)
+Existing subdivision with regional water quality facilities. Where the drainage is treated in a regional water quality facility previously approved, lots in nonresidential subdivision shall either conform to the permit and water quality regulations at the time of approval or conform to the current water quality regulations.
+(g)
+Existing subdivisions without regional water quality facilities. Where drainage is treated in a regional detention facility previously approved, lots in nonresidential subdivisions (or phases in residential subdivision) shall conform to the current water quality regulations.
+(h)
+Retrofitting of existing detention facilities for water quality treatment. If water quality treatment for a proposed development is to be provided in an existing detention basin then treatment must be provided for the entire original project basin. A modification to the 25-year detention requirement may be granted for the purpose of retrofitting the detention pond to meet current water quality regulations. Granting of a modification will meet the intent and purpose of these regulations when:
+(1)
+The detention requirements of the current regulations are provided in the facility for the one-year, two-year, five-year and ten-year storm. For a retrofitted basin, the volume of the one-year storm shall be based on the original project area being detained instead of the total area draining to the basin.
+(2)
+The water quality requirements of the current regulations as stated in these regulations are provided for the original project area in the facility.
+(3)
+The ponding limits create a hardship if no modification is granted.
+(4)
+The outlet structure meets the requirements of the current regulations.
+(i)
+Retrofitting of existing water quality facilities. If water quality treatment for a proposed development is provided in an existing water quality facility then water quality treatment conforming to the current regulations must be provided for the entire original project basin.
+(j)
+Redevelopment.
+(1)
+When 5,000 square feet or more of new impervious surface area is added or one acre or more of a developed project site is disturbed for redevelopment and the disturbed area is more than 50 percent of the property, the water quality requirements of this section must be met for the entire site.
+(2)
+When less than 5,000 square feet of new impervious surface area is added, or less than one acre of land of a developed project site is disturbed for redevelopment, the project is exempt from having to provide the water quality requirements of this section for the project or for the rest of the site.
+(3)
+When 5,000 square feet or more of new impervious surface area is added or ine acre or more of a developed project site is disturbed for redevelopment and the disturbed area is less than 50 percent of the property, the project shall provide water quality treatment for just the improvements on the site.
+(Ord. No. 2006-71, § 9, 12-7-2006; Ord. No. 2015-14, § 9, 6-11-2015)
+Sec. 42-410. - Violations, enforcement and penalties.
+Any action or inaction which violates the provisions of this article or the requirements of an approved stormwater management plan or permit, may be subject to the enforcement actions outlined in this section. Any such action or inaction which is continuous with respect to time is deemed to be a public nuisance and may be abated by injunctive or other equitable relief. The imposition of any of the penalties described below shall not prevent such equitable relief. The imposition of any of the penalties described below shall not prevent such equitable relief.
+(1)
+Notice of violation. If the city engineer determines that an applicant or other responsible person has failed to comply with the terms and conditions of a permit, an approved stormwater management plan or the provisions of this article, he shall issue a written notice of violation to such applicant or other responsible person. Where a person is engaged in activity covered by this article without having first secured a permit therefore, the notice of violation shall be served on the owner or the responsible person in charge of the activity being conducted on the site. The notice of violation shall contain:
+a.
+The name and address of the owner or the applicant or the responsible person.
+b.
+The address or other description of the site upon which the violation is occurring.
+c.
+A statement specifying the nature of the violation.
+d.
+A description of the remedial measures necessary to bring the action or inaction into compliance with the permit, the stormwater management plan or this article and the date for the completion of such remedial action.
+e.
+A statement of the penalty or penalties that may be assessed against the person to whom the notice of violation is directed.
+f.
+A statement that the determination of violation may be appealed to the city engineer by filing a written notice of appeal within 30 days after the notice of violation (except, that in the event the violation constitutes an immediate danger to public health or public safety, 24-hours' notice shall be sufficient).
+(2)
+Penalties. In the event the remedial measures described in the notice of violation have not been completed by the date set forth for such completion in the notice of violation, any one or more of the following actions or penalties may be taken or assessed against the person to whom the notice of violation was directed. Before taking any of the following actions or imposing any of the following penalties, the city engineer shall first notify the applicant or other responsible person in writing of its intended action, and shall provide a reasonable opportunity, of not less than ten days to cure such violation (except, that in the event the violation constitutes an immediate danger to public health or public safety, 24-hours' notice shall be sufficient). In the event the application or other responsible person fails to cure such violation after such notice and cure period, the city engineer may take any one or more of the following actions.
+a.
+Stop work order. The city engineer may issue a stop work order which shall be served on the applicant or other responsible person. The stop work order shall remain in effect until the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violation or violations described therein, provided the stop work order may be withdrawn or modified to enable the applicant or other responsible person to take the necessary remedial measures to cure such violation or violations.
+b.
+Withhold certificate of occupancy. The city engineer may refuse to issue a certificate of occupancy for the building or other improvements constructed or being constructed on the site until the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein.
+c.
+Suspension, revocation or modification of permit. The city engineer may suspend, revoke or modify the permit authorizing the land development project. A suspended, revoked or modified permit may be reinstated after the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein, provided such permit may be reinstated (upon such conditions as the city engineer may deem necessary) to enable the applicant or other responsible person to take the necessary remedial measures to cure such violations.
+d.
+Civil penalties. In the event the applicant or other responsible person fails to take the remedial measures set forth in the notice of violation or otherwise fails to cure the violations described therein within ten days, or such greater period as the city engineer shall deem appropriate (except, that in the event the violation constitutes an immediate danger to public health or public safety, 24-hours' notice shall be sufficient) after the city engineer has taken one or more of the actions described above, the city engineer may impose a penalty not to exceed $1,000.00 (depending on the severity of the violation) for each day the violation remains unremedied after receipt of the notice of violation.
+e.
+Criminal penalties. For intentional and flagrant violations of this article, the city engineer may issue a citation to the applicant or other responsible person, requiring such person to appear in municipal court to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed $1,000.00 or imprisonment for 60 days or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+(Ord. No. 2006-71, § 10, 12-7-2006; Ord. No. 2015-14, § 10, 6-11-2015)
+Secs. 42-411—42-430. - Reserved.

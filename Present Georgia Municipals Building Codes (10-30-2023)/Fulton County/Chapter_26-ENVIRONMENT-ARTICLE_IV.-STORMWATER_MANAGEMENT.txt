@@ -1,0 +1,600 @@
+ARTICLE IV. - STORMWATER MANAGEMENT
+DIVISION 1. - GENERALLY
+
+Sec. 26-111. - Short title of article.
+The provisions of this article shall constitute and be known as the "Stormwater Management Ordinance of Fulton County, Georgia."
+(95-0093, art. I, § A(1), 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-112. - Definitions.
+For the purposes of this article, unless specifically defined below, words or phrases shall be interpreted so as to give them the meaning they have in common usage and to give this article its most effective application. Words in the singular shall include the plural, and words in the plural shall include the singular. Words used in the present tense shall include the future tense. The word "shall" connotes mandatory and not discretionary; the words "should" or "may" are permissive. Unless otherwise specified, or apparent from the context, definitions herein will be the same as those in other Fulton County codes. For the purpose of this article, the following terms, phrases, and words, and their derivatives, shall have the meaning given herein:
+Accidental discharge means a discharge of any non-stormwater related substance into the separate storm sewer that occurs by chance and without planning or consideration prior to occurrence.
+Agricultural practices means practices involving the establishment, cultivation, or harvesting of products of the field or orchard; the preparation and planting of pasture land and farm ponds; and the construction of farm buildings, or other related activities per section 5.1 of the Zoning Resolution.
+Applicant means a person submitting a post-development stormwater management application and plan for approval.
+As-built plan or record drawing means a set of engineering or site drawings that delineate the specific permitted stormwater management facility as actually constructed.
+Best management practices (BMPs) means a wide range of management procedures and structures, activities, prohibitions or practices that have been demonstrated to effectively control the quality and/or quantity of stormwater runoff and which are compatible with the planned land use.
+Board means the Fulton County Board of Commissioners.
+Channel means a natural or artificial watercourse with a definite bed and banks that conveys continuously or periodically flowing water.
+Clean Water Act means the Federal Water Pollution Control Act, as amended (32 USC 1251 et seq.).
+Conservation easement means an agreement between a land owner and the county or other government agency or land trust that permanently protects open space or greenspace on the owner's land by limiting the amount and type of development that can take place, but continues to leave the remainder of the fee interest in private ownership.
+Cooling water means water used exclusively as cooling medium in an appliance, device, or apparatus.
+County means unincorporated Fulton County, Georgia.
+County commissioner means an elected official of the Fulton County Board of Commissioners.
+County/separate storm sewer system means a conveyance or system of conveyances (including roads with drainage systems, highways, rights-of-way, county streets, catchbasins, curbs, gutters, ditches, manmade channels, pipes, culverts, storm drains, detention ponds, other stormwater facilities) which are:
+(1)
+Owned or maintained by the county;
+(2)
+Designed or used for collecting or conveying stormwater;
+(3)
+Not a combined sewer; and
+(4)
+Not a part of publicly owned treatment works (POTW).
+Design report means the report that accompanies the stormwater management plan and includes data used for engineering analysis, results of all analysis, design and analysis calculations (including results obtained from computer programs), and other engineering data that would assist the county in evaluating proposed stormwater management facilities.
+Detention means the temporary storage of stormwater runoff in a stormwater management facility for the purpose of controlling the peak discharge.
+Detention facility, structure and/or pond means a permanent stormwater management structure whose primary purpose is to temporarily store stormwater runoff and release the stored runoff at controlled rates.
+Developer means a person who undertakes land development activities.
+Development means a land development or land development project.
+Director of the department of public works or director means the duly designated department head of the public works department or his/her designee.
+Discharge means the release of treated or untreated water, fluid or other substance to the county separate storm sewer system.
+Drainage easement means an easement appurtenant or attached to a tract or parcel of land allowing the owner of adjacent tracts or other persons to discharge stormwater runoff onto the tract or parcel of land subject to the drainage easement.
+Erosion and sedimentation control ordinance means the ordinance adopted by the county that controls, reduces, or eliminates soil erosion and its transportation to the county's lakes, rivers, and streams, latest revision.
+Erosion and sedimentation control plan means a plan that is designed to minimize the accelerated erosion and sediment runoff at a site during land disturbance activities.
+Existing land use conditions means the ground surface in its original state before grading, excavating, or filling.
+Extended detention means the detention of stormwater runoff for an extended period, typically 24 hours or greater.
+Extreme flood protection means measures taken to prevent adverse impacts from large low-frequency storm events with a return frequency of 100 years or more.
+Flood or flooding means a general and temporary condition of partial or complete inundation of normally dry land areas from:
+(1)
+The overflow of inland waters; or
+(2)
+The unusual and rapid accumulation or runoff of surface waters from any source.
+Grading means excavating, filling (including hydraulic fill), or stockpiling of earth material, or any combination thereof, including the land in its excavated or filled condition.
+Greenspace or open space means permanently protected areas of the site that are preserved in a natural state.
+Hotspot means an area where the use of the land has the potential to generate highly contaminated runoff, with concentrations of pollutants in excess of those typically found in stormwater.
+Hydrologic soil group (HSG) means a Natural Resource Conservation Service classification system in which soils are categorized into four runoff potential groups. The groups range from group A soils, with high permeability and little runoff produced, to group D soils, which have low permeability rates and produce significant runoff.
+Illicit connection means any connection to the county's separate stormwater conveyance system (pipe, culvert, road, ditch, channel, draw or watercourse) that is not composed entirely of stormwater runoff or a connection that does not conform to an approved stormwater management plan from the county, other than the NPDES permit for discharging from the county separate storm system.
+Impervious cover means a surface composed of any material that significantly impedes or prevents the natural infiltration of water into soil. Impervious surfaces include, but are not limited to, rooftops, buildings, streets and roads, and any concrete or asphalt surface.
+Industrial stormwater permit means a National Pollutant Discharge Elimination System (NPDES) permit issued to an industry or group of industries which regulates the pollutant levels associated with industrial stormwater discharges or specifies on-site pollution control strategies.
+Infiltration means the process of percolating stormwater runoff into the subsoil.
+Inspection and maintenance agreement means a written agreement providing for the long-term inspection and maintenance of stormwater management facilities and practices on a site or with respect to a land development project, which when properly recorded in the deed records constitutes a restriction on the title to a site or other land involved in a land development project.
+Issuing department means that department in the county that has been designated as the department with the authority over the issuance, inspection, enforcement, and acceptance of permits for the sole purpose of developing or improving land, or building or constructing structures, utilities, public improvements (including stormwater management facilities), or other facilities located within the county.
+Jurisdictional wetland means an area that is inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support a prevalence of vegetation typically adapted for life in saturated soil conditions, commonly known as hydrophytic vegetation.
+Land development means any land change, including, but not limited to, clearing, digging, grubbing, stripping, removal of vegetation, dredging, grading, excavating, transporting and filling of land, construction, paving, and any other installation of impervious cover.
+Land development activities means those actions or activities which comprise, facilitate or result in land development.
+Land development project means a discrete land development undertaking.
+Land disturbance permit means a permit issued by the county which must be obtained prior to the beginning of any land disturbing activity.
+Land disturbing activity means any use of the land by any person that results in a change in the natural cover or topography that may cause erosion and contribute to sediment and alter the quality and/or quantity of stormwater runoff.
+Maintenance means any action necessary to preserve stormwater management facilities in proper working condition, in order to serve the intended purposes set forth in this article or prevent structural failure of such facilities. Maintenance shall not include actions taken solely for the purpose of enhancing the aesthetic aspects associated with stormwater management facilities and BMPs.
+National Pollutant Discharge Elimination System (NPDES) permit means a permit issued by the appropriate authority in accordance with the U.S. Environmental Protection Agency (EPA) regulations which require certain jurisdictions to obtain permits to discharge stormwater into waterbodies of the U.S.
+New development means a land development activity on a previously undeveloped site.
+Non-erodible means a material, e.g., natural rock, riprap, concrete, plastic, etc., that will not experience surface wear due to natural forces of wind, water, ice, gravity, or a combination of those forces except over a long period of time.
+Nonpoint source pollution means a form of water pollution that does not originate from a discrete point such as a sewage treatment plant or industrial discharge, but involves the transport of pollutants such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials and other contaminants from land to surface water and groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a by-product of land use practices such as agricultural, silvicultural, mining, construction, subsurface disposal and urban runoff sources.
+Non-structural stormwater management practice or non-structural practice means any natural or planted vegetation or other non-structural component of the stormwater management plan that provides for or enhances stormwater quantity and/or quality control or other stormwater management benefits, and includes, but is not limited to, riparian buffers, open and greenspace areas, overland flow filtration areas, natural depressions, and vegetated channels.
+Off-site facility means a stormwater management facility located outside the boundaries of the site.
+On-site facility means a stormwater management facility located within the boundaries of the site.
+Overbank flood protection means measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e. flow events that exceed the capacity of the channel and enter the floodplain), and that are intended to protect downstream properties from flooding for the two-year through 25-year frequency storm events.
+Owner means the legal or beneficial owner of a site, including but not limited to, a mortgagee or vendee in possession, receiver, executor, trustee, lessee or other person, firm or corporation in control of the site.
+Permit means the permit issued by the county to the applicant which is required for undertaking any land development activity.
+Permittee means the applicant who has applied for and/or been granted a permit for disturbance of the land by the governing agency.
+Person means any and all persons, natural or artificial, and includes any individual, firm, corporation, government agency, business trust, estate trust, partnership, association, two or more persons having a joint or common interest or any other legal entity.
+Person responsible for the land disturbing activity means:
+(1)
+The person who has or represents having financial or operational control over the land disturbing activity; and/or
+(2)
+The landowner or person in possession or control of the land who directly or indirectly allowed the land disturbing activity or has benefited from it or who has failed to comply with any provision of this article.
+Pollution means the contamination or other alteration of any water's physical, chemical, or biological properties, including changes in the temperature, taste, color, turbidity, or odor of such waters or the discharge of any liquid, gaseous, solid, radioactive, or other substance into any such waters as will or is likely to create a nuisance or render such waters harmful, detrimental, or injurious to the public health, safety, or welfare or to domestic, commercial, industrial, agricultural, recreational, or other legitimate beneficial uses, or to livestock, wild animals, birds, fish, or other aquatic life.
+Post-development refers to the time period, or the conditions that may reasonably be expected or anticipated to exist, after completion of the land development activity on a site as the context may require.
+Private means property or facilities owned by individuals, corporations, and other organizations and not by the county government or other governing entity.
+Pre-development refers to the time period, or the conditions that exist, on a site prior to the commencement of a land development project and at the time that plans for the land development of a site are approved by the plan approving authority. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time prior to the first item being approved or permitted shall establish pre-development conditions.
+Procedure means a procedure adopted by the utility, by and through the director, to implement a regulation or regulations adopted under this article, or to carry out other responsibilities as may be required by this article or other codes, ordinances, or resolutions of the county.
+Project means the entire proposed development regardless of the size of the area of land to be disturbed.
+Public works department means the department within the county responsible for all stormwater management activities and implementation of the provisions of this article.
+Redevelopment means a land development project on a previously developed site, but excludes ordinary maintenance activities, remodeling of existing buildings, resurfacing of paved areas, and exterior changes or improvements which do not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution.
+Regional stormwater management facility or regional facility means stormwater management facilities designed to control stormwater runoff from multiple properties, where the owners or developers of the individual properties may assist in the financing of the facility, and the requirement for on-site controls is either eliminated or reduced.
+Responsible personnel means any foreman, superintendent, or similar individual who is the onsite person in charge of land disturbing activities.
+Retention structure and/or pond means a permanent structure whose primary purpose is to permanently store a given volume of stormwater runoff. Release of the given volume is by infiltration and/or evaporation.
+Right-of-way means a portion of land over which a local or state government has designated a right of use.
+Runoff means stormwater runoff.
+Site means the parcel of land being developed, or the portion thereof on which the land development project is located.
+Stormwater better site design means non-structural site design approaches and techniques that can reduce a site's impact on the watershed and can provide for non-structural stormwater management. Stormwater better site design includes conserving and protecting natural areas and greenspace, reducing impervious cover and using natural features for stormwater management.
+Stormwater concept plan means the overall proposal for a storm drainage system, including stormwater management structures and BMPs and supporting documentation, as specified in the Stormwater Management Design and Criteria Manual. The purpose of the stormwater concept plan is to define on a conceptual level the nature of the proposed development or project and to describe all existing conditions and proposed facilities needed to conform the requirements of the county.
+Stormwater management means the collection, conveyance, storage, treatment, and disposal of stormwater runoff in a manner to minimize accelerated channel erosion, increased flood damage, and/or degradation of water quality and in a manner to enhance and ensure the public health, safety, and general welfare, which shall include a system of vegetative or structural measures, or both, that control the increased volume and rate of stormwater runoff caused by manmade changes to the land.
+Stormwater Management Design and Criteria Manual means the most recent approved manual of design, performance, and review criteria for stormwater management practices, prepared under the direction of the director of the department of public works or his/her agent. Copies of this manual can be obtained from the public works department.
+Stormwater management districts means any districts established by the board of commissioners where there are special assessments of property owners for the purpose of management and maintenance of stormwater.
+Stormwater management facilities means those structures and facilities that are designed for the collection, conveyance, storage, treatment, and disposal of stormwater runoff into and through the drainage system. In most cases, stormwater management facilities will refer to facilities whose primary purpose is related to the quantity of stormwater, and where the BMPs primary purpose will be related to water quality concerns of stormwater.
+Stormwater management master plan means the plans for the unincorporated county that govern storm drainage and related facilities, existing and proposed, for all drainage basins and/or watersheds within the county.
+Stormwater management measure means any stormwater management facility or non-structural stormwater practice.
+Stormwater management plan means the plan and supporting documentation that serves to define and expand the concepts shown as part of the stormwater concept plan, or is sufficient of itself to ensure conformance to the criteria in the Comprehensive Stormwater Management Design and Criteria Manual and this article.
+Stormwater management qualitative control means a system of vegetative, structural, or other measures that reduce or eliminate pollutants that might otherwise be carried by stormwater runoff.
+Stormwater management system means the entire set of structural and non-structural stormwater management facilities and practices that are used to capture, convey and control the quantity and quality of the stormwater runoff from a site.
+Stormwater retrofit means a stormwater management practice designed for a currently developed site that previously had either no stormwater management practice in place or a practice inadequate to meet the stormwater management requirements of the site.
+Stormwater runoff means the direct response of a watershed to precipitation and includes the surface and subsurface runoff that enters a ditch, stream, storm drain, or other concentrated flow during and following the precipitation.
+Structural stormwater control means a structural stormwater management facility or device that controls stormwater runoff and changes the characteristics of that runoff including, but not limited to, the quantity and quality, the period of release or the velocity of flow of such runoff.
+Subdivision means the division of a tract or parcel of land resulting in one or more new lots or building sites for the purpose, whether immediately or in the future, of sale, other transfer of ownership or land development, and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or roadway.
+Variance means the modification of the minimum stormwater management requirements for specific circumstances where strict adherence of the requirements would result in unnecessary hardship and not fulfill the intent of this article.
+Waiver means the relinquishment from stormwater management requirements by the director of the issuing department or his/her agent for a specific land disturbing activity on a case-by-case review basis.
+Waste means materials that are discarded, disposed of, or no longer usable.
+Water quality means those characteristics of stormwater runoff from a land disturbing activity that relates to the physical, chemical, biological, or radiological integrity of water.
+Water quantity means those characteristics of stormwater runoff that relate to the rate and volume of the stormwater runoff to downstream areas resulting from land disturbing activities.
+Zoning Resolution of Fulton County (Z.R.F.C.) means the rules and regulations that address zoning and development within the unincorporated areas of the county, latest revision.
+(95-0093, art. II, § B, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Cross reference— Definitions generally, § 1-2.
+Sec. 26-113. - Penalties for violation of article.
+(a)
+Upon determination that a violation of this article has occurred, the person responsible for the land disturbing activity shall be given a written notice of the violations and a time in which to correct the deficiencies.
+(b)
+If construction violations of the approved plan are occurring, an immediate stop work order may be issued by the director of the issuing department or his/her designee.
+(c)
+All non-construction related violations of this article shall be issued a citation by the county.
+(d)
+The magistrate court of the county and the state court of the county shall each have jurisdiction to try offenses alleging violations of this article by any person, firm, corporation, partnership, or other entity. Violations of this article shall be deemed to be a misdemeanor. Each day any violation of this article shall continue shall be considered a separate offense. Upon conviction, any person, firm, corporation, partnership, or other entity shall be subject to a fine of $1,000 per violation or imprisonment in the county jail for not more than 60 days, or by both this fine and imprisonment for each offense.
+(e)
+The county attorney on behalf of the county may institute injunctive, or other appropriate action or proceedings at law or equity for the enforcement of this article or to correct violations of this article, and any court of competent jurisdiction shall have the right to issue restraining orders, temporary or permanent injunctions, mandamus, or other appropriate forms of remedy or relief.
+(95-0093, art. VII, § F, 3-15-95; 99-0644, § II, 5-5-99; Ord. No. 08-0194, 2-20-08)
+State Law reference— Maximum punishments which may be imposed for violations of county ordinances, O.C.G.A. § 36-1-20(b).
+Sec. 26-114. - Authority of article.
+(a)
+This article is established as a new article to and under the authority of this Code.
+(b)
+The authority for this article is based on home rule provisions of Ga. Const. art. IX, § II.
+(c)
+In compliance with the provisions of the Clean Water Act, 33 USC 1251 et seq., as amended, by the Water Quality Act of 1987, PL 100-4.
+(95-0093, art. I, § A(2), 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-115. - Purpose/objectives of article.
+The purpose of this article is to protect, maintain and enhance the public health, safety, environment and general welfare by establishing minimum requirements and procedures to control the adverse effects of increased post-development stormwater runoff and nonpoint source pollution associated with new development and redevelopment. It has been determined that proper management of post-development stormwater runoff will minimize damage to public and private property and infrastructure, safeguard the public health, safety, environment and general welfare of the public, and protect water and aquatic resources. This article seeks to meet that purpose through the following objectives:
+(1)
+Protect, maintain, and enhance the short-term and long-term public health, safety, and general welfare. This objective will be achieved by:
+a.
+Establish decision-making processes surrounding land development activities that protect the integrity of the watershed and preserve the health of water resources.
+b.
+Require that new development and redevelopment maintain the pre-development hydrologic response in their post-development state as nearly as practicable in order to reduce flooding, streambank erosion, nonpoint source pollution and increases in stream temperature, and maintain the integrity of stream channels and aquatic habitats.
+c.
+Establish minimum post-development stormwater management standards and design criteria for the regulation and control of stormwater runoff quantity and quality.
+d.
+Establish design and application criteria for the construction and use of structural stormwater control facilities that can be used to meet the minimum post-development stormwater management standards.
+e.
+Encourage the use of non-structural stormwater management and stormwater better site design practices, such as the preservation of greenspace and other conservation areas, to the maximum extent practicable. Coordinate site design plans, which include greenspace, with the county's greenspace protection plan.
+f.
+Establish provisions for the long-term responsibility for and maintenance of structural stormwater control facilities and non-structural stormwater management practices to ensure that they continue to function as designed, are maintained, and pose no threat to public safety.
+g.
+Establish administrative procedures for the submission, review, approval and disapproval of stormwater management plans, and for the inspection of approved active projects, and long-term follow up.
+(2)
+To satisfy federal (EPA) and state (DNR) regulations that require local programs to control stormwater discharges of pollution.
+(3)
+To keep streets open to emergency vehicle traffic by reducing the flooding of streets.
+(4)
+Require construction of drainage systems which aesthetically and functionally approximate natural systems.
+(5)
+Establish the development and implementation of stormwater management districts.
+(95-0093, art. I, § A(3), 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-116. - Application and scope of article.
+The application of this article and the provisions expressed herein shall be the minimum stormwater management requirements and shall not be deemed a limitation or repeal of any other powers granted by state statute. In addition, if site characteristics indicate that complying with the minimum requirements of this article will not provide adequate designs or protection for local property or residents, the county may impose requirements greater than those set forth in this article. The director of the department of public works or his/her designee shall be responsible for the coordination and enforcement of the provisions of this article.
+This article shall be applicable to all land development, including, but not limited to, site plan applications, subdivision applications, and grading applications, unless exempt pursuant to section 26-125 below. These standards apply to any new development or redevelopment site that meets one or more of the following criteria:
+a.
+New development that involves the creation of 5,000 square feet or more of impervious cover, or that involves other land development activities of one acre or more;
+b.
+Redevelopment that includes the creation, addition or replacement of 5,000 square feet or more of impervious cover, or that involves other land development activity of one acre or more;
+c.
+Any new development or redevelopment, regardless of size, that is defined by the director to be a hotspot land use; or,
+d.
+Land development activities that are smaller than the minimum applicability criteria set forth in items a. and b. above if such activities are part of a larger common plan of development, even though multiple, separate and distinct land development activities may take place at different times on different schedules.
+(95-0093, art. I, § A(4), 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-117. - Conflict with other laws.
+Whenever the provisions of this article impose more restrictive standards than are required in or under any other ordinance, the regulations herein contained shall prevail. Whenever the provisions of any other law require more restrictive standards than are required herein, the requirements of such law shall prevail.
+(95-0093, art. VII, § H, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-118. - Severability.
+If any term, requirement, or provision of this article or the application thereof shall, to any extent, be invalid or unenforceable, the remainder of this article or the application of such terms, requirements, and provisions shall not be affected thereby and each term, requirement, or provision of this article shall be valid and be enforced to the fullest extent permitted by law.
+(95-0093, art. VII, § I, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-119. - Amendments.
+This article may be amended in the manner as prescribed by law for its original adoption.
+(95-0093, art. VII, § J, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-120. - Liability of county.
+Neither the approval of a plan under the provisions of this article nor the compliance with the provisions of this article shall relieve any person from the responsibility for damage to any person or property otherwise imposed by law nor shall it impose any liability upon the county for damage to any person or property.
+(95-0093, art. VII, § K, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-121. - Other ordinances.
+This article does not negate the following codes, laws, and ordinances or any other applicable ordinance:
+(1)
+Erosion and sedimentation control ordinance of the county.
+(2)
+Zoning resolution of the county including the floodplain management section.
+(3)
+Rules for dam safety under the Environmental Protection Division by the State of Georgia Safe Dam Act of 1978 (O.C.G.A. § 12-5-370 et seq.). All other impounding structures (dams) criteria not covered by the Safe Dam Act (O.C.G.A. § 12-5-440 et seq.) shall be addressed in the Fulton County Comprehensive Stormwater Manual.
+(4)
+MRPA, Metropolitan River Protection Act (O.C.G.A. § 12-5-440 et seq.).
+(5)
+South Fulton Chattahoochee River Corridor (Georgia River and Mountain Protection Act).
+(95-0093, art. VII, § L, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-122. - Effective date.
+This article shall take effect 60 calendar days after board of commissioners approval.
+(95-0093, art. VII, § M, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-123. - Scope of article; scope of responsibilities.
+(a)
+Imposition of stormwater management measures. No person shall develop any land without having provided for stormwater management measures in compliance with this article, unless exempted under the terms of this article, particularly section 26-125.
+(b)
+Geographic scope of measures. The provisions of this article shall apply throughout the unincorporated area of the county.
+(95-0093, art. I, § C, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-124. - Powers of the department of public works.
+(a)
+The department of public works shall have the power to administer and enforce all regulations and procedures adopted to implement this article, including the right to maintain an action or procedure in any court of competent jurisdiction to compel compliance with or restrain any violation of this article.
+(b)
+The director of the department of public works or his/her designee shall be responsible for the coordination and enforcement of the provisions of this article. In addition, it shall be the duty of all officers and employees of the county, especially members of the police department, sheriff's department and marshal's office, to assist the director in the course of his/her duties to enforce this article.
+(c)
+The director of the department of public works or his/her designee shall be responsible for the conservation, management, maintenance (where applicable), extension, and improvement of the county separate storm sewer system, including activities necessary to control stormwater runoff and activities necessary to carry out stormwater management programs included in county NPDES stormwater permit.
+(d)
+The director of the department of public works or his/her designee shall develop, or cause to be developed and updated periodically, a stormwater management design manual for the guidance of persons preparing stormwater management plans, and designing or operating stormwater management systems.
+(e)
+The director of the department of public works or his/her designee shall prepare or cause to be prepared and updated a stormwater management master plan.
+(f)
+The director of public works shall interpret the provisions of this article and may use the opinions of the county attorney and others in arriving at interpretations. Appeals from an interpretation of the director shall be in accordance with the provisions of section 26-131.
+(g)
+The director of public works or his/her designee shall:
+(1)
+Administer, coordinate, and oversee acquisition, design, construction, and operation and maintenance of municipal/county stormwater facilities and conveyances;
+(2)
+Establish or oversee establishment of development standards and guidelines;
+(3)
+Determine the manner in which stormwater facilities should be operated;
+(4)
+Inspect private systems which discharge to the municipal/county separate storm sewer system;
+(5)
+Advise the other departments on issues related to stormwater;
+(6)
+Protect facilities and properties controlled by the county and prescribe how they are to be used by others;
+(7)
+Require new, increased, or significantly changed stormwater contributions to comply with the terms of this article;
+(8)
+Develop programs or procedures to control the discharge of pollutants into the municipal/county separate storm sewer system;
+(9)
+Adopt and implement the stormwater management program for county government.
+(95-0093, art. I, § D, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-125. - Exemptions from article requirements.
+All development, construction or improvements that occur within the boundaries of the county shall be governed by the provisions of this article and the county's Comprehensive Storm Drainage Design and Criteria Manual. The following activities are exempt:
+(1)
+Individual single-family or duplex residential lots that are not part of a subdivision or phased development project.
+(2)
+Additions or modifications to existing single-family or duplex detached residential structures.
+(3)
+Developments that do not disturb more than 5,000 square feet of land area.
+(4)
+Any maintenance or renovation of an existing structure or system not materially changing or affecting the rate or volume of stormwater runoff, in the sole discretion of the director of the issuing department.
+(5)
+Those exemptions spelled out in section 26-38, provided the activities listed do not contribute pollutants to the county's stormwater conveyance system and the state's waters, or do not increase the turbidity of stormwater runoff from the site due to erosion or land disturbing activity, or the activities listed are governed by other rules and regulations that are more restrictive than this article.
+(6)
+Repairs to any stormwater management facility or practice deemed necessary by the director.
+(7)
+Agricultural or silvicultural land management activities within areas zoned for these actives.
+(95-0093, art. I, § E, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-126. - Grandfather clause.
+Any applicant or owner of a parcel of land within the jurisdiction of the county who has constructed the required stormwater management facility or BMP or who is in the process of meeting the stormwater management requirements of the law at the time of the effective date of this article, may elect to apply to the director for reconsideration under the provisions of this article.
+(95-0093, art. VII, § G, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-127. - Stormwater Management Design and Criteria Manual.
+(a)
+Through the passage of this article, the board of commissioners adopts the Fulton County Comprehensive Storm Drainage Design and Criteria Manual (the manual) and all the rules, regulations, and definitions contained therein. This manual was developed to assist in the design and evaluation of stormwater management facilities and practices. The director of public works shall be responsible for the promulgation of the manual and its contents. The manual shall be updated periodically to reflect the most current and effective practices, rules, and regulations, and shall be made available to the public.
+(b)
+The following topics will be set forth in the Comprehensive Stormwater Management Design and Criteria Manual:
+(1)
+Stormwater concept and management plan approval process;
+(2)
+Stormwater quantity management facilities;
+(3)
+Minimum runoff quality control requirements;
+(4)
+Maintenance agreement for privately owned stormwater facilities; and
+(5)
+All technical criteria and procedures related to stormwater quality and quantity.
+(95-0093, art. I, § F, art. VII, § A, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-128. - Variances.
+(a)
+The director of public works may grant a variance from the requirements of this article if there are hardships applicable to the site.
+(b)
+A written request for a variance shall be required and shall state the specific variance sought and the reasons, with supporting data, for their granting.
+(c)
+The director may grant a variance from requirements of this article if the proposed development activity:
+(1)
+Does not change or increase the rate, velocity or volume of runoff significantly; or
+(2)
+Does not have a significant, negative impact on wetland, watercourse, or water body; or
+(3)
+Does not contribute to degradation of downstream water quality or quantity; or
+(4)
+If the construction of proposed improvements will create a safety, traffic or drainage hazard; or
+(5)
+Are impractical to construct; or
+(6)
+The grading, or construction of any of the facilities, related to the development activity that are needed to meet the requirements of this article and will have an adverse impact to an adjacent or downstream property owner.
+(95-0093, art. VII, § B, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-129. - Off-site drainage facilities.
+Guidelines for consideration of off-site facility/conveyance system use are defined in the Fulton County Comprehensive Stormwater Management Design and Criteria Manual and section 26-172 of this article.
+(95-0093, art. VII, § C, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-130. - Stormwater management districts.
+Upon the recommendation of the director of the department of public works, the board of commissioners shall designate stormwater management districts throughout the unincorporated areas of the county. It shall be the responsibility of the director of the department of public works to determine the boundaries of each stormwater district and shall use the stormwater management master plan as a guide.
+(95-0093, art. VII, § D, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-131. - Appeals.
+(a)
+Any person aggrieved by a decision of the director of the issuing department, including any decision with reference to the granting or denial of a variance from the terms of this article, may appeal the same by filing a written notice of appeal with the director within 30 calendar days of the issuance of said decision by the director.
+(b)
+All appeals shall be heard by the director or his/her designee who is hereby granted specific authority to hear and determine such appeals. The hearing shall be held within 30 days after receipt of notice of appeal or a date mutually agreed upon in writing. The final decision of the director shall be based on published guidelines of appeals established by the county and amended from time to time.
+(c)
+Any appeal of said final decision may be made to the superior court within 30 days from the date of the notice of a final decision. Said notice shall be sent registered mail to the permittee.
+(95-0093, art. VII, § E, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Secs. 26-132—26-165. - Reserved.
+DIVISION 2. - STORMWATER DRAINAGE MANAGEMENT, PLANNING AND DEVELOPMENT REQUIREMENTS
+
+Sec. 26-166. - General requirements.
+(a)
+Adequate drainage and control of stormwater are an integral and important part of any development. Proper drainage planning shall be considered an essential element of any stormwater concept plan or stormwater management plan submitted to the county. The design and construction of a site shall also follow the rules and regulations found in article XXXIV of Z.R.F.C. and section 26-39 of this Code.
+(b)
+At the time of the initial submittal to the county with an application for a preliminary plat, every sub-divider or developer shall, at his/her sole expense, be required to submit to the stormwater management section of the department of public works, a stormwater concept plan for review and approval. At the time of the site visit, it shall be determined if drainage studies and reports, design computations, and such other information need to be required to ensure that stormwater originating both from the proposed subdivision or development and lands lying upgradient will be adequately drained and controlled in order to approve the stormwater concept plan. The stormwater concept plan shall be a preliminary drawing of the proposed location of storage facilities, stormwater discharge path of detention/retention pond(s), other downstream and upstream constraints and other matters with potential stormwater implications. Such plans and supplementary information shall be consistent with the requirements of this article, the Z.R.F.C., and the Comprehensive Stormwater Management Design and Criteria Manual.
+(c)
+Upon approval of the stormwater concept plan and prior to the issuance of any building or land disturbance permits, the subdivider shall, at his/her sole expense, prepare and submit for review and approval by the development services department a stormwater management plan. The stormwater management plan shall detail how post-development stormwater runoff will be controlled or managed and how the proposed project will meet the requirements of this article, including the performance criteria set forth below. This plan shall be in accordance with the criteria established in this section and be prepared under the direct supervisory control of either a registered professional engineer or a registered landscape architect licensed in the State of Georgia. Subsections (3), (4), (5) and (6) shall be prepared under the direct supervisory control of a registered professional engineer, who shall seal and sign the work. Portions of the overall plan may be prepared and stamped by a registered land surveyor licensed in the State of Georgia as appropriate, such as boundary surveys, contour maps, erosion and sedimentation control plans. The stormwater management plan must ensure that the requirements and criteria in this article are being complied with and that opportunities are being taken to minimize adverse post-development stormwater runoff impacts from the development. The plan shall consist of maps, narrative, and supporting design calculations (hydrologic and hydraulic) for the proposed stormwater management system. The plan shall include all of the information required in the stormwater management site plan checklist found in the stormwater design and criteria manual. This includes:
+(1)
+Common address and legal description of site.
+(2)
+Vicinity map.
+(3)
+Existing conditions hydrologic analysis. The existing condition hydrologic analysis for stormwater runoff rates, volumes, and velocities, which shall include: a topographic map of existing site conditions with the drainage basin boundaries indicated; acreage, soil types and land cover of areas for each subbasin affected by the project; all perennial and intermittent streams and other surface water features; all existing stormwater conveyances and structural control facilities; direction of flow and exits from the site; analysis of runoff provided by off-site areas upstream of the project site; and methodologies, assumptions, site parameters and supporting design calculations used in analyzing the existing conditions site hydrology. For redevelopment sites, predevelopment conditions shall be modeled using the established guidelines for the portion of the site undergoing land development activities.
+(4)
+Post-development hydrologic analysis. The post-development hydrologic analysis for stormwater runoff rates, volumes, and velocities, which shall include: a topographic map of developed site conditions with the post-development drainage basin boundaries indicated; total area of post-development impervious surfaces and other land cover areas for each subbasin affected by the project; calculations for determining the runoff volumes that need to be addressed for each subbasin for the development project to meet the post-development stormwater management performance criteria in section 26-173; location and boundaries of proposed natural feature protection and conservation areas; documentation and calculations for any applicable site design credits that are being utilized; methodologies, assumptions, site parameters and supporting design calculations used in analyzing the existing conditions site hydrology. If the land development activity on a redevelopment site constitutes more than 50 percent of the site area for the entire site, then the performance criteria in Section 26-173 must be met for the stormwater runoff from the entire site.
+(5)
+Stormwater management system. The description, scaled drawings and design calculations for the proposed post-development stormwater management system, which shall include: a map and/or drawing or sketch of the stormwater management facilities, including the location of non-structural site design features and the placement of existing and proposed structural stormwater controls, including design water surface elevations, storage volumes available from zero to maximum head, location of inlet and outlets, location of bypass and discharge systems, and all orifice/restrictor sizes; a narrative describing how the selected structural stormwater controls will be appropriate and effective; cross-section and profile drawings and design details for each of the structural stormwater controls in the system, including supporting calculations to show that the facility is designed according to the applicable design criteria; a hydrologic and hydraulic analysis of the stormwater management system for all applicable design storms (including stage-storage or outlet rating curves, and inflow and outflow hydrographs); documentation and supporting calculations to show that the stormwater management system adequately meets the post-development stormwater management performance criteria in section 26-173; drawings, design calculations, elevations and hydraulic grade lines for all existing and proposed stormwater conveyance elements including stormwater drains, pipes, culverts, catch basins, channels, swales and areas of overland flow; and where applicable, a narrative describing how the stormwater management system corresponds with any watershed protection plans and/or local greenspace protection plan.
+(6)
+Post-development downstream analysis. A downstream peak flow analysis which includes the assumptions, results and supporting calculations to show safe passage of post-development design flows downstream. The analysis of downstream conditions in the report shall address each and every point or area along the project site's boundaries at which runoff will exit the property. The analysis shall focus on the portion of the drainage channel or watercourse immediately downstream from the project. This area shall extend downstream from the project to a point in the drainage basin where the project area is 10 percent of the total basin area. In calculating runoff volumes and discharge rates, consideration may need to be given to any planned future upstream land use changes. The analysis shall be in accordance with the stormwater design manual.
+(7)
+Construction-phase erosion and sedimentation control plan. An erosion and sedimentation control plan in accordance with the Georgia Erosion and Sedimentation Control Act (or reference to the local erosion and sedimentation control ordinance) or NPDES permit for construction activities. The plan shall also include information on the sequence/phasing of construction and temporary stabilization measures and temporary structures that will be converted into permanent stormwater controls.
+(8)
+Landscaping and open space plan. A detailed landscaping and vegetation plan describing the woody and herbaceous vegetation that will be used within and adjacent to stormwater management facilities and practices. The landscaping plan must also include: the arrangement of planted areas, natural and greenspace areas and other landscaped features on the site plan; information necessary to construct the landscaping elements shown on the plan drawings; descriptions and standards for the methods, materials and vegetation that are to be used in the construction; density of plantings; descriptions of the stabilization and management techniques used to establish vegetation; and a description of who will be responsible for ongoing maintenance of vegetation for the stormwater management facility and what practices will be employed to ensure that adequate vegetative cover is preserved.
+(9)
+Operations and maintenance plan. Detailed description of ongoing operations and maintenance procedures for stormwater management facilities and practices to ensure their continued function as designed and constructed or preserved. These plans will identify the parts or components of a stormwater management facility or practice that need to be regularly or periodically inspected and maintained, and the equipment and skills or training necessary. The plan shall include an inspection and maintenance schedule, maintenance tasks, responsible parties for maintenance, funding, access and safety issues. Provisions for the periodic review and evaluation of the effectiveness of the maintenance program and the need for revisions or additional maintenance procedures shall be included in the plan.
+(10)
+Maintenance access easements. The applicant must ensure access from public right-of-way to stormwater management facilities and practices requiring regular maintenance at the site for the purpose of inspection and repair by securing all the maintenance access easements needed on a permanent basis. Such access shall be sufficient for all necessary equipment for maintenance activities. Upon final inspection and approval, a plat or document indicating that such easements exist shall be recorded and shall remain in effect even with the transfer of title of the property.
+(11)
+Inspection and maintenance agreements. The applicant must execute an easement and an inspection and maintenance agreement binding on all subsequent owners of land served by an on-site stormwater management facility or practice.
+(12)
+Evidence of acquisition of applicable local and non-local permits. The applicant shall certify and provide documentation to the county that all other applicable environmental permits have been acquired for the site prior to approval of the stormwater management plan.
+(d)
+The stormwater management plan shall conform to the stormwater concept plan for said development. Such plans and supplementary information shall be consistent with the requirements of this article, the Z.R.F.C., and the Comprehensive Stormwater Management Design and Criteria Manual.
+(e)
+A developer and his/her professionals should discharge the drainage from their site into a storm conveyance system that is publicly owned and maintained. Every subdivider shall provide, at no cost to the county, an easement up to a maximum width as is necessary to accommodate drainage from a 100-year storm for the purpose of constructing and maintaining the drainage system for the transmission, through the sub-divider's property, of all stormwater generated upstream from the subdivision. Notwithstanding this requirement, any natural drainageway which traverses any sub-divider's property or adjacent properties, shall not be encroached upon or altered so as to render the same less suitable to accept and transport stormwater that has historically flowed through such drainageway. Should a subdivider fail to obtain an off-site easement for the purpose of drainage conveyance, then the design discharge at the outlet facilities of the subdivision shall be limited to the pre-developed conditions for all storm events, including the discharges and velocities, whichever is more restrictive shall apply.
+(f)
+Site visit. Prior to the submittal of a land disturbance permit, or in connection to the stormwater concept plan, the developer/engineer must contact the department of public works stormwater management section to arrange an onsite evaluation visit. By way of example and not limitation, the visit should include an evaluation of the location of storage facilities, stormwater discharge path of detention/retention ponds, other downstream and upstream constraints and other matters with potential stormwater implications.
+(g)
+It shall be the responsibility of the developer to demonstrate that the development and/or stormwater conveyance facilities will not cause a violation of local, state, and federal laws or regulations to occur at the time of the application for a land disturbance permit. Evidence that the applicant has complied with requirements to obtain other state and federal permits which may be applicable, such as, but not limited to wetlands (404) permit, NPDES permit, and Metropolitan River Protection Act, must also be supplied to the county as part of the stormwater management plan and study.
+(h)
+It shall be the responsibility of the developer/engineer to accurately depict the conditions of the site, both onsite and off-site, on the plans submitted to the county that are affected by this article. Any modifications, changes, or construction that occur to the plans or in the field, as a result of having to conform to the county's Storm Drainage Criteria Manual or other criteria found in this article, and the cost to rectify shall be borne entirely by the developer.
+(95-0093, art. II, § A, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-167. - Specific requirements.
+(a)
+Prior to the issuance of a land disturbance permit by the development services department the following must be in effect:
+(1)
+Documentation that authorizes the right of entry by the county for emergency maintenance of stormwater management facilities.
+(2)
+Documentation that authorizes the right of entry by the county for the purpose of inspecting the stormwater management facilities.
+(3)
+Any off-site easements necessary to effectuate subsections (a)(1) and (a)(2) of this section (easements must be recorded), or to implement the stormwater management plan.
+(4)
+Written authorization from an adjacent property owner allowing any proposed off-site grading, construction, storage, or other improvements to their property.
+(5)
+An approved stormwater concept plan or stormwater management plan, as adjudged appropriate in the discretion of the director of the department of public works or his/her designee.
+(b)
+In accordance with section 24.1 of the Z.R.F.C. and with sections 26-40 and 2642 of this chapter, all applications for building permits, and the accompanying plot plan, shall correspond with the approved grading plan or the approved stormwater management plan on file with the county. The issuing authority may require spot elevations, flow direction arrows, contour lines, or other information that it deems necessary prior to the issuance of the building permit to ensure compliance to the approved grading plan or the approved stormwater management plan.
+(c)
+Prior to the issuance of a certificate of occupancy by the county, all stormwater management facilities required as part of the stormwater management plan shall be completed and approved by the county.
+(d)
+Prior to the issuance of the certificate of occupancy by the appropriate department, the following must be submitted to the county:
+(1)
+Recorded easements for stormwater management facilities.
+(2)
+Receipt by the county of an as-built/record drawing of the stormwater management facilities that is signed and sealed by a registered engineer. Discrepancies between the record drawing and the approved stormwater management plan must be identified to the county, and the county shall give its approval to any discrepancies prior to the issuance of the certificate of occupancy.
+(e)
+Any and all land disturbance permits may be revoked at any time if the construction of the site or the stormwater management facilities are not in strict accordance with the approved stormwater management plans or other sections of this article.
+(f)
+It shall be the responsibility of the person, firm, corporation, or other entity to maintain the drainage patterns and the stormwater management facilities that are in existence at the time of the issuance of the certificate of occupancy. They, their heirs, or assigns are prohibited from performing any improvements or regrading of the site, that in any way block, alter, or redirect the existing drainage patterns or facilities, except for the occasional maintenance to facilities to keep them operating as originally designed. Conviction by a person, firm, corporation, or other entity for violating this section shall be a misdemeanor and shall be subject to the penalties found in section 26-113.
+(95-0093, art. II, § B, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-168. - Development in flood hazard area.
+Should a subdivider or owner wish to develop within a flood hazard area, then the subdivider or owner shall prepare, at his/her sole expense, an engineering study and supporting information per section 4.24 of the zoning resolution of the county and follow all the other criteria, rules and regulations that are indicated therein. Per section 4.24.9F of the Z.R.F.C., any revisions or amendments to the FEMA FIRM maps required shall be completed prior to the county's issuance of a certificate of occupancy.
+(Ord. No. 08-0194, 2-20-08)
+Editor's note— Ord. No. 08-0194, adopted February 20, 2008, amended the Code by repealing former § 26-168 and adding a new § 26-168. Former § 26-168 pertained to the watershed management plans, and derived from 95-0093, art. II, § C, adopted March 15, 1995.
+Sec. 26-169. - Drainage system connection.
+Permission is required from the county to connect to or discharge into any drainage system, conveyance system, or watercourse within the county. Permission shall be implied as part of an approved stormwater management plan from the county. Deviations from the approved stormwater management plan, that do not have the permission of the county, shall be deemed an illicit connection and in violation of division 6 of this article, and shall prohibit the county from issuing a certificate of occupancy or recording of the final plat, even if the deviations result from mistakes to or omissions from the stormwater management plan or changes that occur in the field.
+(95-0093, art. II, § D, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-170. - Permit suspension and revocation.
+(a)
+A land disturbance, building or grading permit, or any type of certificate of occupancy may be suspended or revoked by the issuing department if one or more of the following occurs:
+(1)
+Violations of the conditions of the stormwater management plan approval;
+(2)
+Construction not in accordance with the approved plans;
+(3)
+Noncompliance with correction notices or stop work orders; or
+(4)
+The existence of an immediate danger in the judgment of the director of the department of public works or his/her designee.
+(b)
+If one or more of these conditions are found, a written notice of violation from the issuing department shall be served upon the owner or authorized representative and an immediate stop work order may be issued. The notice shall set forth the measures necessary to achieve compliance with the plan. Correction of these violations must be initiated within seven days of the notice, or the owner shall be deemed in violation of this article and subject to penalties for the said violation.
+(95-0093, art. II, § E, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-171. - Professional registration requirements.
+(a)
+All stormwater concept and stormwater management plans and design reports shall be prepared, certified, and stamped/sealed by a qualified registered Georgia professional engineer, using acceptable engineering standards and practices.
+(b)
+The engineer shall undertake to perform services only in areas of his/her competence, and only when qualified by education and/or experience in the specific technical field. In addition, the engineer must certify that the plans have been designed in accordance with the standards and criteria stated or referred to in this article.
+(95-0093, art. II, § F, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-172. - Modifications for off-site facilities.
+The stormwater management plan for each land development project shall provide for stormwater management measures located on the site of the project, unless provisions are made to manage stormwater by an off-site or regional facility. The off-site or regional facility must be located on property legally dedicated for the purpose, must be designed and adequately sized to provide a level of stormwater quantity and quality control that is equal to or greater than that which would be afforded by on-site practices and there must be a legally-obligated entity responsible for long-term operation and maintenance of the off-site or regional stormwater facility. In addition, on-site measures shall be implemented, where necessary, to protect upstream and downstream properties and drainage channels from the site to the off-site facility.
+A stormwater management plan must be submitted to the county which shows the adequacy of the off-site or regional facility.
+To be eligible for a modification, the applicant must demonstrate to the satisfaction of the county that the use of an off-site or regional facility will not result in the following impacts to upstream or downstream areas:
+(1)
+Increased threat of flood damage to public health, life, and property;
+(2)
+Deterioration of existing culverts, bridges, dams, and other structures;
+(3)
+Accelerated streambank or streambed erosion or siltation;
+(4)
+Degradation of in-stream biological functions or habitat; or
+(5)
+Water quality impairment in violation of State water quality standards, and/or violation of any state or federal regulations.
+(Ord. No. 08-0194, 2-20-08)
+Sec. 26-173. - Post-development stormwater management performance criteria.
+The following performance criteria shall be applicable to all stormwater management plans, unless otherwise provided for in this article:
+(1)
+Water quality. All stormwater runoff generated from a site shall be adequately treated before discharge. It will be presumed that a stormwater management system complies with this requirement if:
+a.
+It is sized to treat the prescribed water quality treatment volume from the site, as defined in the Georgia Stormwater Management Manual;
+b.
+Appropriate structural stormwater controls or non-structural practices are selected, designed, constructed or preserved, and maintained according to the specific criteria in the Georgia Stormwater Management Manual; and,
+c.
+Runoff from hotspot land uses and activities identified by the director are adequately treated and addressed through the use of appropriate structural stormwater controls, non-structural practices and pollution prevention practices.
+(2)
+Stream channel protection. Protection of stream channels from bank and bed erosion and degradation shall be provided by using all of the following three approaches:
+a.
+Preservation, restoration and/or reforestation (with native vegetation) of the applicable stream buffer;
+b.
+24-hour extended detention storage of the one-year, 24-hour return frequency storm event;
+c.
+Erosion prevention measures such as energy dissipation and velocity control.
+(3)
+Overbank flooding protection. Downstream overbank flood and property protection shall be provided by controlling (attenuating) the post-development peak discharge rate to the pre-development rate for the 25-year, 24-hour return frequency storm event. If control of the one-year, 24-hour storm under subsection (2) is exempted, then peak discharge rate attenuation of the two-year through the 25-year return frequency storm event must be provided.
+(4)
+Extreme flooding protection. Extreme flood and public safety protection shall be provided by controlling and safely conveying the 100-year, 24 hour return frequency storm event such that flooding is not exacerbated.
+(5)
+Structural stormwater controls. All structural stormwater management facilities shall be selected and designed using the appropriate criteria from the Georgia Stormwater Management Manual. All structural stormwater controls must be designed appropriately to meet their intended function. For other structural stormwater controls not included in the Georgia Stormwater Management Manual, or for which pollutant removal rates have not been provided, the effectiveness and pollutant removal of the structural control must be documented through prior studies, literature reviews, or other means and receive approval from the county before being included in the design of a stormwater management system. In addition, if hydrologic or topographic conditions, or land use activities warrant greater control than that provided by the minimum control requirements, the director may impose additional requirements deemed necessary to protect upstream and downstream properties and aquatic resources from damage due to increased volume, frequency, and rate of stormwater runoff or increased nonpoint source pollution loads created on the site in question.
+Applicants shall consult the Georgia Stormwater Management Manual for guidance on the factors that determine site design feasibility when selecting and locating a structural stormwater control.
+(6)
+Stormwater credits for non-structural measures. The use of one or more site design measures by the applicant may allow for a reduction in the water quality treatment volume required herein. The applicant may, if approved by the director, take credit for the use of stormwater better site design practices and reduce the water quality volume requirement. For each potential credit, there is a minimum set of criteria and requirements which identify the conditions or circumstances under which the credit may be applied. The site design practices that qualify for this credit and the criteria and procedures for applying and calculating the credits are included in the Georgia Stormwater Management Manual.
+(7)
+Drainage system guidelines. Stormwater conveyance facilities, which may include but are not limited to culverts, stormwater drainage pipes, catch basins, drop inlets, junction boxes, headwalls, gutter, swales, channels, ditches, and energy dissipaters shall be provided when necessary for the protection of public right-of-way and private properties adjoining project sites and/or public right-of-ways. Stormwater conveyance facilities that are designed to carry runoff from more that one parcel, existing or proposed, shall meet the following requirements:
+a.
+Methods to calculate stormwater flows shall be in accordance with the stormwater design manual;
+b.
+All culverts, pipe systems and open channel flow systems shall be sized in accordance with the stormwater management plan using the methods included in the stormwater design manual; and,
+c.
+Design and construction of stormwater conveyance facilities shall be in accordance with the criteria and specifications found in the stormwater design manual.
+(7)
+Dam design guidelines. Any land disturbing activity that involves a site which proposes a dam shall comply with the Georgia Safe Dams Act and Rules for Dam Safety as applicable.
+(Ord. No. 08-0194, 2-20-08)
+Secs. 26-174—26-205. - Reserved.
+DIVISION 3. - OWNERSHIP AND COUNTY PARTICIPATION
+
+Sec. 26-206. - Ownership of stormwater management facilities and BMPs.
+(a)
+All stormwater management facilities and BMP structures shall be privately owned and maintained unless the county accepts the facility for county ownership and/or maintenance, subject to the provisions of division 5 of this article. The owner of all private facilities shall grant and shall be deemed to have granted to the county, a perpetual, nonexclusive easement that allows for public inspection and emergency repair.
+(b)
+All stormwater management measures relying on designated vegetated areas or special site features should be privately owned and maintained as defined on the stormwater management plan.
+(c)
+Regional stormwater management facilities may be publicly owned.
+(95-0093, art. III, § A, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-207. - County participation.
+A voluntary development agreement between the applicant and the county may provide for additional storage capacity beyond that required by the applicant for onsite stormwater management in order to correct for future development. The county designee shall be authorized to negotiate, subject to ultimate approval by the board of commissioners, within the following guidelines:
+(1)
+Require that the applicant grant any necessary easement over, through, or under the applicant's property to provide access to or drainage for such facility.
+(2)
+Require that the applicant obtain from the owners of property any easements necessary for the construction and maintenance of the same, and the county may assist by purchase, condemnation, dedication, and subject to cost incurred to be paid by applicant.
+(95-0093, art. III, § B, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-208. - Agreement between county and municipalities.
+(a)
+Prior to implementation of a stormwater plan, the director may furnish a copy of any stormwater management plan which affects any incorporated city, town, municipality, or other local government, and possessing the power to regulate stormwater management of any stormwater management facility or development.
+(b)
+The county may enter into an intergovernmental agreement with any incorporated city, town, or other municipality concerning any matter related to stormwater management.
+(95-0093, art. III, § C, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Secs. 26-209—26-240. - Reserved.
+DIVISION 4. - FUNDING AND FEES
+
+Sec. 26-241. - Application review fees.
+The fee for review of any stormwater management application shall be based on the fee structure established by the county and shall be made prior to the issuance of any building permit for the development.
+(Ord. No. 08-0194, 2-20-08)
+Secs. 26-242—26-275. - Reserved.
+DIVISION 5. - MAINTENANCE, CONSTRUCTION AND INSPECTION
+
+Sec. 26-276. - Maintenance.
+(a)
+Any stormwater management facility or BMP which services a residential, commercial, or industrial development shall be privately owned and privately maintained so that the facilities operate as originally designed. The owner thereof shall grant to the county, a perpetual, nonexclusive easement which allows for public inspection and emergency repair, in accordance with the terms of the maintenance agreement set forth in section 26-277. The county may periodically inspect all privately owned and maintained stormwater management facilities and BMPs for compliance with this article and the county criteria. Failure to maintain such facilities shall be considered a violation and subject the owner to the considerations of this article to rectify the situation or be subject to the penalties in section 26-113.
+(b)
+All regional stormwater management control facilities, identified by the county's storm drainage master plan, shall be publicly maintained.
+(c)
+All other stormwater management control facilities and BMPs shall be privately owned and/or maintained, unless specifically accepted for ownership and maintenance by the county.
+(d)
+Private maintenance requirements shall be a part of the deed to the affected property.
+(95-0093, art. V, § A, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-277. - Construction and inspection.
+(a)
+Prior to approval of the stormwater management plan, the permittee shall submit a proposed staged inspection and construction control schedule, which the department of development services shall either approve, disapprove, or modify.
+(b)
+No stage of work, related to the construction of stormwater management facilities or BMPs, shall proceed until the next preceding stage of work is inspected and approved.
+(c)
+Any portion of the work that does not comply with this article or with the stormwater management plan shall be promptly corrected by the permittee.
+(d)
+The permittee shall notify the director of development services department or his/her designee before commencing any work and upon completion of the work.
+(e)
+After commencing initial stormwater management operations, the permittee shall provide for regular biweekly inspection reports to be certified by a registered professional engineer at construction stages and provided to the department of development services.
+(f)
+The permittee shall provide an as-built/record drawing plan certified by a registered professional to be submitted upon the completion of the stormwater management facilities included in the stormwater management plan. The registered professional shall certify that:
+(1)
+The facilities have been constructed as shown on the as-built plan; and
+(2)
+The facilities meet the approved stormwater management plan and specifications.
+(g)
+A final inspection shall be conducted by the director of development services or his/her designee upon completion of the work included in the approved stormwater management plan.
+(h)
+The director of development services or his/her designee shall maintain a file of inspection reports and make available copies of all inspection reports.
+(i)
+The director of development services or his/her designee will notify the person responsible for the land disturbing activity in writing when violations are observed.
+(95-0093, art. V, § B, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-278. - Inspection and maintenance agreement (onsite facilities only).
+(a)
+An inspection and maintenance agreement shall be executed for all private onsite stormwater management facilities prior to the issuance of a grading, land disturbance, or building permit. Such agreement shall be binding on all heirs, successors, or assignees.
+(b)
+The agreement shall provide that preventive maintenance inspections of filtration systems, retention, or detention structures may be made by the department of development services, at its option.
+(c)
+The agreement shall provide that the department of development services shall notify the owners of the facility of any violation, deficiency, or failure to comply with this article. The agreement shall also provide that, upon a failure to correct violations requiring maintenance work, within 30 days after the notice thereof, the county may provide for all necessary work to place the facility in proper working condition. The owners of the facility shall be assessed the costs of the work performed by the county pursuant to this subsection.
+(95-0093, art. V, § C, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-279. - Inspection for preventive maintenance (regional facilities only).
+Preventive maintenance inspections of infiltration system, retention, or detention structures comprising regional public facilities may be made by the department of public works.
+(95-0093, art. V, § D, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-280. - Maintenance of preexisting residential stormwater management facilities.
+All dedicated and accepted residential stormwater management facilities in existence in the county on the effective date of this article shall be maintained by the owners (except those constructed prior to 1990) in such a manner as to maintain and enhance the public health, safety, and general welfare to reduce and minimize damage to property; to reduce and minimize the impact of such facilities on land and stream channel erosion; to assist in the attainment and maintenance of water quality standards; to reduce local flooding; and to maintain, as nearly as possible, the preexisting development runoff characteristics of the area. The owners shall be responsible for providing reasonable ingress and egress for maintenance. The county shall not be responsible for aesthetic maintenance.
+(95-0093, art. V, § E, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-281. - Maintenance of preexisting commercial/industrial stormwater management facilities.
+(a)
+All commercial/industrial stormwater management facilities in existence in the county on the effective date of this article shall be maintained by the owners thereof in such a manner as to maintain and enhance the public health, safety, and general welfare in order to be assured that such facilities are safe and will not result in injury or harm to persons or property; to reduce and minimize damage to public and private property; to reduce and minimize the impact of such facilities on land and stream channel erosion; to assist in the attainment and maintenance of water quality standards; to reduce local flooding; and to maintain, as nearly as possible, the preexisting development runoff characteristics of the area. All such maintenance of such facilities shall be at the sole cost and expense of the owners thereof.
+(b)
+The county shall have the authority to take necessary steps to abate any nuisance as that term is defined by applicable law.
+(c)
+If the charges and costs provided for in subsection (b) of this section remain unpaid by the owner for a period of 30 days after notice thereof to the owner or occupant of the property upon which such conditions existed, the county's duly authorized representative shall cause a lien to be issued against the owner of the property for those charges. The execution shall be a lien on the property and, when recorded in the general execution docket of the county, shall be a lien on all property of the defendant in execution from the date of such recording.
+(95-0093, art. V, § F, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Secs. 26-282—26-315. - Reserved.
+DIVISION 6. - PROHIBITIONS AND ILLICIT CONNECTIONS
+
+Sec. 26-316. - Prohibitions.
+(a)
+It is unlawful for any person, company, corporation, etc., to throw, drain, run, or otherwise discharge to any component of the county's stormwater system, including streets, highways, rights-of-way; or to cause, permit, or suffer to be thrown, drain, run, or allow to seep or otherwise discharge into such system, any organic or inorganic matter that shall cause or tend to cause pollution to such waters, as provided for in this article.
+(b)
+The director of public works may exempt the following from the prohibition provision above:
+(1)
+Water line flushing performed by a government agency, diverted stream flows, rising groundwaters, and unpolluted groundwater infiltration.
+(2)
+Unpolluted pumped groundwater.
+(3)
+Discharges from potable water sources, foundation drains, air conditioning condensation, irrigation water, springs, water from crawl space pumps, footing drains, lawn watering, individual residential car washing, flows from riparian habitats and wetlands, and water from street washing.
+(4)
+Discharges or flows from firefighting.
+(5)
+Other unpolluted water.
+(c)
+In the event of an accidental discharge or an unavoidable loss to the municipal/county separate storm sewer system of any material of substance other than stormwater runoff, the person responsible shall inform the department of public works within five days of the nature, quantity, and time of the occurrence of the discharge. The person responsible shall take immediate steps to minimize the effects of the discharge on the municipal/county system and receiving streams. The person shall also take immediate steps to ensure no recurrence of the discharge.
+(95-0093, art. VI, § A, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-317. - Illicit connections.
+(a)
+It is unlawful for any person, company, corporation, etc., to connect any pipe, open channel, or any other conveyance, structure or system to the county's stormwater conveyance system that discharges anything except stormwater runoff and that are not identified on the stormwater management plan.
+(b)
+Improper connections in violation of this article must be disconnected and redirected, if necessary, to the county sanitary system or other acceptable outfall upon approval by the director of public works.
+(95-0093, art. VI, § B, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Sec. 26-318. - Cooperation with the county.
+(a)
+It shall be the responsibility of any person, firm, company, corporation, etc., to cooperate with the county in the search for illicit connections or prohibitive activities as described in this division in order for the county to comply with the conditions of its NPDES permit.
+(b)
+Any person, firm, company, corporation, etc., shall answer the questions of the county and share information on business activities as they relate to this article, except those records and activities that are confidential and proprietary. If necessary, the county may obtain access to confidential and proprietary records and activities through a court order, subject to the following conditions:
+(1)
+The county shall have access to records and information for the purpose of examination for compliance with the conditions of this article only during normal business hours;
+(2)
+The county shall not have the right to make copies, excerpts, or transcripts of such records and activities without receiving prior written consent; and
+(3)
+The county shall not disclose or make available to third parties any such records or information obtained unless required to do so by a separate court order.
+(c)
+Failure to comply with the conditions of this division shall be considered a violation and subject to the penalties found in section 26-113.
+(95-0093, art. VI, § C, 3-15-95; Ord. No. 08-0194, 2-20-08)
+Secs. 26-319—26-350. - Reserved.

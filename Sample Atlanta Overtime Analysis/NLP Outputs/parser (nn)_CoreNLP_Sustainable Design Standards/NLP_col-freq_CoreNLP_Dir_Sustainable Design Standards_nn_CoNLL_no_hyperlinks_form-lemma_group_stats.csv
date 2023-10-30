@@ -1,0 +1,4 @@
+Column header,Document ID,Document,Count,Mean,Mode,Median,Standard deviation,Minimum,Maximum,Skewness,Kurtosis,25% quantile,50% quantile,75% quantile
+Frequency,1,/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-27-2012_Codes.txt,574,1.0,1,1.0,0.0,1,1,,,1.0,1.0,1.0
+Frequency,2,/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-15-2022_Codes .txt,652,1.0,1,1.0,0.0,1,1,,,1.0,1.0,1.0
+Frequency,3,/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-28-2023_Codes.txt,658,1.0,1,1.0,0.0,1,1,,,1.0,1.0,1.0

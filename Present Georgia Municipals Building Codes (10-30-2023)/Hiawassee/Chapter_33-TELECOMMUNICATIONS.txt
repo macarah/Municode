@@ -1,0 +1,223 @@
+Chapter 33 - TELECOMMUNICATIONS
+ARTICLE I. - IN GENERAL
+
+Secs. 33-1—33-20. - Reserved.
+ARTICLE II. - BROADBAND READY COMMUNITY
+
+Sec. 33-21. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Applicant means a person applying for a permit for a broadband network project.
+Broadband network project means any deployment of broadband services.
+Permit means any local permit, license, certificate approval, registration, or similar form of approval required by policy, administrative rule, regulation, ordinance, or resolution with respect to a broadband network project.
+Political subdivision means a county, municipal corporation, consolidated government, or local authority.
+(Ord. No. 2019-06-01 , 7-9-2019)
+Sec. 33-22. - Single point of contact.
+The City of Hiawassee, Georgia shall appoint a single point of contact for all matters related to a broadband network project:
+(1)
+The single point of contact documentation shall include:
+Mayor
+Liz Ordiales
+City of Hiawassee, GA
+706-896-2202
+mayor@hiawasseega.gov
+www.hiawasseega.gov
+(2)
+The single point of contact shall be available for matters related to a broadband network project or a related liaison who may direct such inquiry in real time, with general scope and responsibilities to include permitting and right-of-way; and
+(3)
+The single point of contact information must be current to maintain designation, by updating with such change in contact information on web pages and associated sources, within 15 calendar days of change.
+(Ord. No. 2019-06-01 , § 1, 7-9-2019)
+Sec. 33-23. - Application completeness review.
+(a)
+The city shall determine whether an application is incomplete and notify the applicant, by email, of the determination by the city within ten calendar days of receiving an application.
+(b)
+If the city does not respond to the applicant on whether the application is incomplete, within ten calendar days, the application shall be assumed to be complete on the 11 th day.
+(Ord. No. 2019-06-01 , § 2, 7-9-2019)
+Sec. 33-24. - Notification of incomplete application.
+(a)
+If the city determines that an application is not complete, the notification by email to the applicant shall specify all required components of the submitted application that were considered "incomplete";
+(b)
+The city's response shall include a checklist of sequenced items that resulted in the application being deemed 'incomplete' and the review timeline shall be as follows:
+(1)
+The applicant has up to 40 calendar days from the date of notification of incompleteness to respond back with corrections; and
+(2)
+If the applicant does not respond back within 40 calendar days, the application is deemed canceled.
+(c)
+If within ten calendar days the city does not respond to the applicant on whether the corrected application is incomplete, the application shall be assumed to be complete on the 11 th day; and
+(d)
+The city shall require a new submission and reset the process and application fees, should an application be deemed incomplete a second time.
+(Ord. No. 2019-06-01 , § 3, 7-9-2019)
+Sec. 33-25. - Approval or denial notification.
+If, on or before the 11 th day as described in subsection (2)b., an application is deemed complete, the city shall approve or deny an application within ten calendar days unless a joint meeting between the applicant and the city is deemed as necessary.
+(1)
+If a joint meeting is deemed necessary, the joint meeting must occur within 15 calendars days of notification of completion and the joint meeting shall include:
+a.
+Where applicant is going to conduct work;
+b.
+When the work will be conducted;
+c.
+What type of work will be done;
+d.
+Who the city can contact for specific details or related questions; and
+e.
+Any permit seeking approval under application.
+f.
+Following a joint meeting between the applicant and the city, the city shall deny or approve the application within ten calendar days.
+(2)
+Upon final approval, any required permit permitted shall be deemed issued.
+(Ord. No. 2019-06-01 , § 4, 7-9-2019)
+Sec. 33-26. - Related fees.
+(a)
+Any fee imposed by the city to review an application, issue a permit, or perform any other, activity related to a broadband network project shall be reasonable, cost based, and nondiscriminatory to all applicants.
+(b)
+Any application fee that exceeds $100.00 shall be considered unreasonable unless the city can provide documentation justifying such fee based on a specific cost.
+(Ord. No. 2019-06-01 , § 5, 7-9-2019)
+Sec. 33-27. - Other information.
+(a)
+Double fee. No city or county shall require an application or permit(s) when already approved by an authorized state or federal jurisdiction. Provider shall notify and provide a copy of the approved permit to the single-point-of-contact at the city or county prior to access of right-of-way within the city or county jurisdiction.
+(b)
+Application validity timeline. Any approved application shall be valid for six months from the date of approval. Should a provider not commence the service request qualified in the approved application within six months, the application shall expire, and it shall require a new permit approval and any associated fees, as applicable.
+(c)
+Single service drop. A city or county shall not require a permit for a broadband service provider to perform an installation of broadband service at an individual customer's service address as long as the facility being utilized only transverses a de minimis portion of the public right-of-way to reach the customer's property. The provider must still comply with the provisions of O.C.G.A. tit. 25, ch. 9.
+(Ord. No. 2019-06-01 , § 6, 7-9-2019)
+Sec. 33-28. - Acknowledgement.
+(a)
+A Georgia certified broadband ready community has an affirmative duty to notify the Georgia Department of Community Affairs of any changes to the information submitted as part of its application; and
+(b)
+Failure to notify Georgia Department of Community Affairs of changes may result in revocation of City of Hiawassee broadband ready certification, should the certification be granted.
+(Ord. No. 2019-06-01 , § 7, 7-9-2019)
+Secs. 33-29—33-40. - Reserved.
+ARTICLE III. - WIRELESS FACILITIES AND ANTENNAS
+DIVISION 1. - PURPOSE AND COMPLIANCE
+
+Sec. 33-41. - Authorization.
+O.C.G.A. § 32-4-92(a)(10) authorizes the City of Hiawassee, Georgia (the "City") to establish reasonable regulations for the installation, construction, maintenance, renewal, removal, and relocation of pipes, mains, conduits, cables, wires, poles, towers, traffic and other signals, and other equipment, facilities, or appliances in, on, along, over, or under the public roads of the city. Further, 47 U.S.C. § 253(c) provides that the city has authority to manage its public rights-of-way. Finally, the Georgia Streamlining Wireless Facilities and Antennas Act, O.C.G.A. tit. 36, ch. 66C (the "SWFAA"), addresses the placement of small wireless facilities in the public rights-of-way of the city.
+(Ord. No. 2019-09-01 , Art. I, § 1.1, 10-1-2019)
+Sec. 33-42. - Establishment of requirements, specifications and conditions.
+The city finds it is in the best interest of the city and its residents and businesses to establish requirements, specifications reasonable conditions regarding placement of small wireless facilities, poles in the public rights-of-way. These requirements, specifications and conditions are adopted in order to protect the public health, safety and welfare of the residents and businesses of the city and to reasonably manage and protect the public rights-of-way and its uses in the city.
+(Ord. No. 2019-09-01 , Art. I, § 1.2, 10-1-2019)
+Sec. 33-43. - Objectives.
+The objective of this article is to (i) implement the SWFAA and (ii) ensure use of the public rights-of-way is consistent with the design, appearance and other features of nearby land uses, protects the integrity of historic, cultural and scenic resources and does not harm residents' quality of life.
+(Ord. No. 2019-09-01 , Art. I, § 1.3, 10-1-2019)
+Secs. 33-44, 33-45. - Reserved.
+DIVISION 2. - DEFINITIONS
+
+Sec. 33-46. - Definitions.
+Unless defined below, terms used in this article shall have the meanings given them in O.C.G.A. § 36-66C-2.
+(Ord. No. 2019-09-01 , Art. I, § 2.1, 10-1-2019)
+Sec. 33-47. - Conflicts.
+In the event that any federal or state law containing definitions used in this article is amended, the definition in the referenced section, as amended, shall control.
+(Ord. No. 2019-09-01 , Art. II, § 2.2, 10-1-2019)
+Secs. 33-48—33-50. - Reserved.
+DIVISION 3. - PERMITS
+
+Sec. 33-51. - Permit required.
+A permit is required to collocate a small wireless facility in the public right-of-way or to install, modify, or replace a pole or a decorative pole in the public right-of-way. A permit is not required to perform the activities described in O.C.G.A. §§ 36-66C-6(e) or (f).
+(Ord. No. 2019-09-01 , Art. III, § 3.1, 10-1-2019)
+Sec. 33-52. - Application.
+Any person seeking to collocate a small wireless facility in the public right-of-way or to install, modify, or replace a pole or a decorative pole in the public right-of-way shall submit an application to the mayor for a permit. Applications are available from the mayor. Any material change to information contained in an application shall be submitted in writing to the mayor within 30 days after the events necessitating the change.
+(Ord. No. 2019-09-01 , Art. III, § 3.2, 10-1-2019)
+Sec. 33-53. - Application fees.
+Each application for a permit shall include the maximum application fees permitted under O.C.G.A. §§ 36-66C-5(a)(1), (a)(2) and (a)(3). Such maximum application fees shall automatically increase on January 1 of each year beginning January 1, 2021, as provided under O.C.G.A. § 36-66C-5(b).
+(Ord. No. 2019-09-01 , Art. III, § 3.3, 10-1-2019)
+Sec. 33-54. - Application review.
+The Mayor shall review applications for permits according to the timelines and using the procedures identified in O.C.G.A. §§ 36-66C-7 and 36-66C-13.
+(Ord. No. 2019-09-01 , Art. III, § 3.4, 10-1-2019)
+Sec. 33-55. - Application approval.
+Applications for permits shall be approved except as follows.
+(a)
+In order to receive a permit to install a pole or replace a decorative pole, the applicant must have determined after diligent investigation that it cannot meet the service objectives of the permit by collocating on an existing pole or support structure on which: (i) the applicant has the right to collocate subject to reasonable terms and conditions; and (ii) such collocation would not impose technical limitations or significant additional costs. The applicant shall certify that it has made such a determination in good faith, based on the assessment of a licensed engineer, and shall provide a written summary of the basis for such determination.
+(b)
+The mayor may deny an application for a permit upon any of the conditions identified in O.C.G.A. § 36-66C-7(j).
+(c)
+For applications for new poles in the public right-of-way in areas zoned for residential use, the mayor may propose an alternate location in the public right-of-way within 100 feet of the location set forth in the application, and the wireless provider shall use the mayor's alternate location unless the location imposes technical limits or significant additional costs. The wireless provider shall certify that it has made such a determination in good faith, based on the assessment of a licensed engineer, and it shall provide a written summary of the basis for such determination.
+(Ord. No. 2019-09-01 , Art. III, § 3.5, 10-1-2019)
+Sec. 33-56. - Authorization to occupy; limitations.
+A permit issued under this division 3 shall authorize such person to occupy the public rights-of-way to: (i) collocate a small wireless facility on or adjacent to a pole or a support structure that does not exceed the limitations set forth in O.C.G.A. § 36-66C-7(h)(3) or on or adjacent to a decorative pole in compliance with O.C.G.A. § 36-66C-12; and (ii) install, modify, or replace a pole or decorative pole for collocation of a small wireless facility that does not exceed the limitations set forth in O.C.G.A. §§ 36-66C-7(h)(1) and (h)(2).
+(Ord. No. 2019-09-01 , Art. III, § 3.6, 10-1-2019)
+Sec. 33-57. - Annual payment.
+Upon the issuance of a permit under this article, and on each anniversary of such issuance, every person issued a permit shall submit to the city the maximum annual payments permitted under O.C.G.A. §§ 36-66C-5(a)(4) and (a)(5); provided, however, that if such person removes its small wireless facilities form the public rights-of-way pursuant to O.C.G.A. § 36-66C-5(e), then such person shall be responsible for the pro rata portion of the annual payment based on the number of days of occupation since the last annual payment. Upon making such pro rata payment and removal of the small wireless facilities, the person's annual payment obligations under this section shall cease as of the date of the actual removal. The maximum annual payments shall automatically increase on January 1 of each year beginning January 1, 2021, as provided under O.C.G.A. § 36-66C-5(b).
+(Ord. No. 2019-09-01 , Art. III, § 3.7, 10-1-2019)
+Sec. 33-58. - Fees.
+Any person issued a permit shall pay the fees identified in O.C.G.A. §§ 36-66C-5(a)(6) and (a)(7), as applicable.
+(Ord. No. 2019-09-01 , Art. III, § 3.8, 10-1-2019)
+Sec. 33-59. - Permit revoked.
+The city may revoke a permit issued pursuant to this division 3 if the wireless provider or its equipment placed in the public right-of-way under that permit subsequently is not in compliance with any provision of this article or the Georgia Streamlining Wireless Facilities and Antennas Act. Upon revocation, the city may proceed according to section 33-60.
+(Ord. No. 2019-09-01 , Art. III, § 3.9, 10-1-2019)
+Sec. 33-60. - Unpermitted collocation or installation.
+If a wireless provider occupies the public rights-of-way without obtaining a permit required by this division 3 or without complying with the SWFAA, then the city may, at the sole discretion of the city, restore the right-of-way, to the extent practicable in the reasonable judgment of the city, to its condition prior to the unpermitted collocation or installation and to charge the responsible wireless provider the reasonable, documented cost of the city in doing so, plus a penalty not to exceed $1,000.00. The city may suspend the ability of the wireless provider to receive any new permits from the city under this division 3 until the wireless provider has paid the amount assessed for such restoration costs and the penalty assessed, if any; provided, however, that the city may not suspend such ability of any applicant that has deposited the amount in controversy in escrow pending an adjudication of the merits of the dispute by a court of competent jurisdiction.
+(Ord. No. 2019-09-01 , Art. III, § 3.10, 10-1-2019)
+Sec. 33-61. - Permits publicly available.
+All accepted applications for permits shall be publicly available subject to the limitations identified in O.C.G.A. § 36-66C-6(c).
+(Ord. No. 2019-09-01 , Art. III, § 3.11, 10-1-2019)
+Sec. 33-62. - Consolidated applications.
+An applicant may file a consolidated application related to multiple small wireless facilities, poles or decorative poles so long as such consolidated application meets the requirements of O.C.G.A. § 36-66C-13.
+(Ord. No. 2019-09-01 , Art. III, § 3.12, 10-1-2019)
+Sec. 33-63. - Completion.
+Activities authorized under a permit shall be completed within the timelines provided in O.C.G.A. § 36-66C-7(k)(2).
+(Ord. No. 2019-09-01 , Art. III, § 3.13, 10-1-2019)
+Sec. 33-64. - Authorization.
+Issuance of a permit authorizes the applicant to: (i) undertake the collocation, installation, modification or replacement approved by the permit and (ii) operate and maintain the small wireless facilities and any associated pole covered by the permit for a period of ten years.
+(Ord. No. 2019-09-01 , Art. III, § 3.14, 10-1-2019)
+Sec. 33-65. - Renewal.
+Permits shall be renewed following the expiration of the term identified in section 33-64 upon the terms and conditions identified in O.C.G.A. § 36-66C-7(k)(2)(B).
+(Ord. No. 2019-09-01 , Art. III, § 3.15, 10-1-2019)
+Sec. 33-66. - Collocation on authority poles.
+If an application for a permit seeks to collocate small wireless facilities on authority poles in the public rights-of-way, then the city shall, within 60 days of receipt of the completed application: (i) provide a good faith estimate for any make-ready work necessary to enable the authority pole to support the proposed facility; or (ii) notify the wireless provider that the wireless provider will be required to perform the make-ready work. Any make-ready work performed by the city shall be completed pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(n).
+(Ord. No. 2019-09-01 , Art. III, § 3.16, 10-1-2019)
+Secs. 33-67—33-70. - Reserved.
+DIVISION 4. - REMOVAL; RELOCATION; RECONDITIONING; REPLACEMENT; ABANDONMENT
+
+Sec. 33-71. - Removal.
+A person may remove its small wireless facilities from the public rights of according to the procedures of O.C.G.A. § 36-66C-5(e).
+(Ord. No. 2019-09-01 , Art. IV, § 4.1, 10-1-2019)
+Sec. 33-72. - Restoration; penalty.
+In the event of a removal under section 33-71, the right-of-way shall be, to the extent practicable in the reasonable judgment of the city, restored to its condition prior to the removal. If a person fails to return the right-of-way, to the extent practicable in the reasonable judgment of the city, to its condition prior to the removal within 90 days of the removal, the city may, at the sole discretion of the city, restore the right-of-way to such condition and charge the person the city's reasonable, documented cost of removal and restoration, plus a penalty not to exceed $500.00. The city may suspend the ability of the person to receive any new permits under division 3 until the person has paid the amount assessed for such restoration costs and the penalty assessed, if any; provided, however, that the city will not suspend such ability of any person that has deposited the amount in controversy in escrow pending an adjudication of the merits of the dispute by a court of competent jurisdiction.
+(Ord. No. 2019-09-01 , Art. IV, § 4.2, 10-1-2019)
+State Law reference— Penalty authorized under O.C.G.A. § 36-66C-5(e).
+Sec. 33-73. - Relocation.
+If, in the reasonable exercise of police powers, the city determines: (i) a pole or support structure unreasonably interferes with the widening, repair, reconstruction, or relocation of a public road or highway, or (ii) relocation of poles, support structures, or small wireless facilities is required as a result of a public project, the wireless provider shall relocate such poles, support structures, or small wireless facilities pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(l). If the wireless provider fails to relocate a pole, support structure or small wireless facility or fails to provide a written good faith estimate of the time needed to relocate the pole, support structure or small wireless within the time period prescribed in O.C.G.A. § 36-66C-7(l), the city make take the actions authorized by O.C.G.A. § 36-66C-7(o), in addition to any other powers under applicable law.
+(Ord. No. 2019-09-01 , Art. IV, § 4.3, 10-1-2019)
+Sec. 33-74. - Reconditioning and replacement.
+The city shall recondition and replace authority poles consistent with the provisions of O.C.G.A. § 36-66C-7(m). Wireless providers shall accommodate and cooperate with reconditioning and replacement consistent with the provisions of O.C.G.A. § 36-66C-7(m).
+(Ord. No. 2019-09-01 , Art. IV, § 4.4, 10-1-2019)
+Sec. 33-75. - Notification of abandonment.
+A wireless provider must notify the city of its decision to abandon any small wireless facility, support structure or pole pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(p)(1). The wireless provider shall perform all acts and duties identified in O.C.G.A. § 36-66C-7(p) regarding abandonment. The city may take all actions and exercise all powers authorized under O.C.G.A. § 36-66C-7(p) upon abandonment, in addition to any other powers under applicable law.
+(Ord. No. 2019-09-01 , Art. IV, § 4.5, 10-1-2019)
+Secs. 33-76—33-80. - Reserved.
+DIVISION 5. - STANDARDS
+
+Sec. 33-81. - Public right-of-way restrictions.
+Small wireless facilities and new, modified, or replacement poles to be used for collocation of small wireless facilities may be placed in the public right-of-way as a permitted use: (i) upon a receipt of a permit under division 3; (ii) subject to applicable codes; and (iii) so long as such small wireless facilities and new, modified, or replacement poles to be used for collocation of small wireless facilities comply with the appropriate provisions of O.C.G.A. § 36-66C-7(h).
+(a)
+New, modified, or replacement poles installed in the right-of-way in a historic district and in an area zoned primarily for residential use shall not exceed 50 feet above ground level.
+(b)
+Each new, modified, or replacement pole installed in the right-of-way that is not in a historic district or in an area zoned primarily for residential use shall not exceed the greater of:
+a.
+Fifty feet above ground level; or
+b.
+Ten feet greater in height above ground level than the tallest existing pole in the same public right-of-way in place as of January 1, 2019, and located within 500 feet of the new proposed pole;
+(c)
+New small wireless facilities in the public right-of-way and collocated on an existing pole or support structure shall not exceed more than ten feet above the existing pole or support structure.
+(d)
+New small wireless facilities in the public right-of-way collocated on a new or replacement pole under subsections 33-81(a) or (b) may not extend above the top of such poles.
+(Ord. No. 2019-09-01 , Art. V, § 5.1, 10-1-2019)
+Sec. 33-82. - Location of decorative pole.
+A decorative pole should only be located where an existing pole can be removed and replaced, or at a new location where the city has identified that a streetlight is necessary.
+(Ord. No. 2019-09-01 , Art. V, § 5.2, 10-1-2019)
+Sec. 33-83. - Concealment required.
+Unless it is determined that another design is less intrusive, or placement is required under applicable law, small wireless facilities shall be concealed as follows:
+(a)
+Antennas located at the top of poles and support structures shall be incorporated into the pole or support structure, or placed within shrouds of a size such that the antenna appears to be part of the pole or support structure;
+(b)
+Antennas placed elsewhere on a pole or support structure shall be integrated into the pole or support structure, or be designed and placed to minimize visual impacts.
+(c)
+Radio units or equipment cabinets holding radio units and mounted on a pole shall be placed as high as possible, located to avoid interfering with, or creating any hazard to, any other use of the public rights-of-way, and located on one side of the pole. Unless the radio units or equipment cabinets can be concealed by appropriate traffic signage, radio units or equipment cabinets mounted below the communications space on poles shall be designed so that the largest dimension is vertical, and the width is such that the radio units or equipment cabinets are minimally visible from the opposite side of the pole on which they are placed.
+(d)
+Wiring and cabling shall be neat and concealed within or flush to the pole or support structure, ensuring concealment of these components to the greatest extent possible.
+(Ord. No. 2019-09-01 , Art. V, § 5.3, 10-1-2019)
+Sec. 33-84. - Historic district placement.
+Notwithstanding any provision of this article to the contrary, an applicant may collocate a small wireless facility within a historic district, and may place or replace a pole within a historic district, only upon satisfaction of the following: (i) issuance of a permit under division 3 and (ii) compliance with applicable codes.
+(Ord. No. 2019-09-01 , Art. V, § 5.4, 10-1-2019)
+Sec. 33-85. - Decorative pole placement.
+Notwithstanding any provision of this article to the contrary, an applicant may collocate a small wireless facility on a decorative pole, or may replace a decorative pole with a new decorative pole, in the event the existing decorative pole will not structurally support the attachment, only upon satisfaction of the following: (i) issuance of a permit under division 3 and (ii) compliance with applicable codes.
+(Ord. No. 2019-09-01 , Art. V, § 5.5, 10-1-2019)

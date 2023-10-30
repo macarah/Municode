@@ -1,0 +1,165 @@
+DIVISION 2. - BACKFLOW PREVENTION
+
+Sec. 66-51. - Definitions.
+The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Air gap separation means the unobstructed vertical distance through the atmosphere between the lowest opening from any pipe or faucet supplying water to a tank, plumbing fixture or other device and the flood level rim of the receptacle. An approved air-gap separation shall be at least double the diameter of the supply pipe. In no case shall the air gap separation be less than one inch.
+Approved, in reference to backflow prevention assemblies or methods, means those assemblies or methods which have been accepted by the director as an effective means or method to prevent backflow.
+Backflow means any flow of water, liquid, gas or other substances, or any combination thereof, into the distribution piping of a potable water supply from any source or sources.
+Backflow prevention assembly means an approved assembly or method used to prevent backflow from occurring in the potable water supply.
+Backpressure backflow means backflow caused by a pump, elevated tank, boiler, or other means that could create pressure within the system greater than the supply pressure.
+Backsiphonage backflow means a reversal of the normal direction flow in the pipeline due to a negative pressure (vacuum) being created in the supply line with the backflow source subject atmospheric pressure.
+Certified tester means a person who has proven his competency to test, repair, overhaul and prepare reports on backflow prevention assemblies as evidenced by certification of successful completion of a training program approved by the director.
+Consumer/customer means any person using or receiving water from the county utility department.
+Containment means prevention of possible contamination from a private water system by installing an approved backflow prevention assembly.
+Contamination means the degradation of the quality of water so as to constitute a hazard or impair the usefulness of water.
+Cross connection means any physical connection between the county's water supply system and any other source. This includes piping systems, sewer fixtures, containers, or devices whereby water or other liquids, mixtures, or substances may flow into or enter the county's water supply system.
+Cross connection inspector means an employee of the county utility department designated by the director to administer and enforce the provisions of this division.
+Degree of hazard means derived from an evaluation of the health risks, system, plumbing, or pollution hazards.
+Director means the director of the county utility department.
+Double check-detector checkvalve assembly means an assembly composed of an approved double checkvalve assembly with a bypass water meter. The meter shall register accurately for very low flow rates and shall register all flow rates.
+Double checkvalve assembly means an assembly composed of two single, independently acting approved checkvalves, including tightly closing shutoff valves located at each end of the assembly, and suitable connections for testing the watertightness of each checkvalve.
+High hazard means an actual or potential threat of contamination to the public water system or to a private water system to such a degree or intensity that there could be a danger to health.
+Imminent hazard means an actual threat of contamination that presents a danger to the public health with consequences of serious illness or death.
+Moderate hazard means one that presents foreseeable and significant potential for pollution, nuisance, aesthetically objectionable, or other undesirable alterations of the drinking water supply.
+Owner means any person owning fee simple interest in property served by the county utility department.
+Point of delivery means the terminal end of a service connection from the public potable water system, i.e., where the director loses sole jurisdiction over the water; the point where water leaves the public water system and enters a private water system. This point is defined physically as the connection or coupling on the outlet of the water meter or the inlet flange of an approved backflow prevention device on an unmetered fire service connection.
+Potable water means water from any source which has been approved for human consumption by the state environmental protection division (EPD).
+Private water system means a system of pipes or other associated facilities that is not part of the county's public water system and is used to move or receive water, regardless of the source of water in such system.
+Reduced pressure principle assembly means an assembly containing within its structure a minimum of two independently acting, approved checkvalves, together with an automatically operating pressure differential relief valve located between the checkvalves. The first checkvalve reduces the supply pressure a predetermined amount so that during normal flow and at cessation of normal flow, the pressure between the checks shall be less than the supply pressures. In case of leakage of either checkvalve, the differential relief valve, by discharge to the atmosphere, shall operate to maintain the pressure between the checks less than the supply pressure. The assembly must include properly located test cocks and tightly closing shutoff valves at each end of the assembly.
+Reduced pressure principle-detector assembly means an assembly composed of an approved reduced pressure principle backflow prevention assembly with a bypass water meter. The meter shall register accurately for very low flow rates and shall register all flow rates.
+Standards means official printed standards for water and wastewater systems for the county utility department adopted by the board of commissioners.
+Water supply (approved) means any public potable water supply which has been investigated and approved by the state environmental protection division (EPD). The system must be operating under a valid permit.
+(Ord. of 2-1-2000, § 1.02)
+Cross reference— Definitions generally, § 1-4.
+Sec. 66-52. - Right of entry.
+The director or his authorized agent shall have the right to enter any building, structure, or premises during normal working hours to perform any duty imposed upon him by this division. Duties may include sampling and testing water supply. Prior notice will be given unless an imminent hazard has been reported. Refusal to allow entry for these purposes may result in termination of the water service. At the request of the director, the customer shall furnish any pertinent information regarding the piping system and chemical storage on such property where cross connections are deemed possible.
+(Ord. of 2-1-2000, § 1.10)
+Sec. 66-53. - Violations.
+(a)
+At the director's option, a written notice of violation may be given to any person who is determined to be in violation of any provision of this division, which shall set forth the violation and the time period within which the violation must be corrected and after which the customer may be cited for such violation. If the director determines that the violation is occurring on a customer's private water system and that such violation has created or contributed to the existence of an imminent hazard, the customer may be required to correct the violation immediately. Water service may be terminated to a customer if the customer fails to correct a violation or to pay any fine or expense. Termination of water service will be without prejudice to the county's ability to assert any other remedy available to the county against the customer or any other person responsible for the violation. Any person violating any provision of this article shall be subject to punishment as provided in section 1-19. Each subsequent day that a violation continues shall constitute a separate and distinct offense.
+(b)
+Water service may be terminated after a second violation of the same provision within a two-year period. Water service may also be terminated if the customer responsible for the violation fails to pay to the county all expenses incurred by the county in repairing any damage to the public water system caused in whole or in part by such violation, any expense incurred by the county in investigating such violation and any fines levied against the county by regulatory agencies which arise from the actions of such customer.
+(Ord. of 2-1-2000, § 1.13)
+Sec. 66-54. - Right of appeal.
+Upon notice of the backflow prevention method required in this division, the owner may request a hearing to review the selection process with county utility department personnel. If the owner is dissatisfied with the results of this review, a written request for a hearing must be sent to the director within ten days of the departmental review. Within ten days, a formal hearing with the director will be scheduled. A written response will be issued within ten days after the hearing. The owner shall thereafter have the right of further appeal to the board of commissioners, for a period of 30 days after the issuance of the director's written response.
+(Ord. of 2-1-2000, § 1.14)
+Sec. 66-55. - Elimination of cross connections.
+No private water system may be or remain connected in any manner to the public water system unless the requirements of this division and other applicable laws have been satisfied. Only an approved device can be installed to meet the requirements of this division. Any backflow prevention assembly, or the installation of any backflow prevention assembly which is not approved must be replaced with an approved backflow prevention assembly. All costs associated with such backflow prevention assembly and its installation shall be borne by the customer.
+(Ord. of 2-1-2000, § 1.03)
+Sec. 66-56. - Backflow prevention assembly—When required.
+The director may require the installation of the required backflow prevention assembly immediately or within a shorter time period than specified in section 66-59 if he determines that any condition poses a threat of contamination to the public water supply system. All new construction plans and specifications shall be made available to the director for approval and to determine the degree of hazard. All devices required for new construction shall be installed, tested, and inspected by the county utility department prior to release of certificate of occupancy by the county. The director shall be notified by the customer when the nature of the use of property changes so as to change the hazard classification of the property if necessary.
+(Ord. of 2-1-2000, § 1.04)
+Sec. 66-57. - Same—Installation.
+All backflow prevention assemblies shall be installed in accordance with the manufacturer's instructions and the standards adopted by the county utility department. Such standards shall be available in the county utility department office and shall be certified as the currently adopted version by the director of the county utility department. Only backflow preventers approved by the county shall be installed. All backflow prevention assemblies required by this division must be installed and maintained on the customer's premises as part of the customer's water system. Ownership, testing and maintenance of the backflow prevention assembly will be the responsibility and expense of the customer. Each assembly required in this division must be functioning properly at all times.
+(Ord. of 2-1-2000, § 1.04)
+Sec. 66-58. - Same—Testing.
+Testing of backflow prevention assemblies shall be conducted by a certified tester at the customer's expense. Tests shall be conducted upon installation and annually thereafter with a record of all testing and repairs retained by the customer. A copy of the certified record for each test or repair must be sent to the county utility department by such customer within 30 days after the completion of each test or repair. Such records must be maintained on forms approved by the county utility department.
+(Ord. of 2-1-2000, § 1.04)
+Sec. 66-59. - Same—Maintenance.
+Each backflow prevention assembly required under this division must be accessible to the county utility department. When it is not possible to interrupt water service, the customer shall provide for the parallel installation of an approved backflow prevention assembly. The director will not accept an unprotected bypass around a backflow preventer when the assembly is in need of testing, repair or replacement. Any repair to backflow assemblies deemed necessary, whether through annual testing or routine inspection by the owner or by the county, must be completed within a time specified in accordance with the degree of hazard. Repairs on a private water system considered to be an imminent hazard shall be completed within 24 hours, a high hazard shall be completed within ten days, and all other repairs within 20 days. Failure to comply can result in termination of a customer's water service. Upon determination that a backflow prevention assembly is required to be installed on a customer's private water system, the customer will be notified in writing of the approved backflow prevention assembly which is required. On existing systems, the customer will have the following time periods within which to install the specified backflow prevention assembly:
+EXPAND
+(1) Air-gap separation ..... 30 days
+(2) Reduced pressure principle assembly (¾″—24″) ..... 60 days
+(3) Double checkvalve assembly (¾″—24″) ..... 60 days
+(4) Other approved backflow prevention assembly ..... 60 days
+  (Ord. of 2-1-2000, § 1.04)
+Sec. 66-60. - High hazard facilities and methods of correction.
+(a)
+All high hazard facilities must have an approved reduced pressure principle assembly as a minimum containment device. High hazard facilities include, but are not limited to:
+(1)
+Any private water system using or designed to use a pump or which may become pressurized for any reason to the extent that back pressure may occur;
+(2)
+Any private water system which contains water which has been or is being recirculated;
+(3)
+A building with five or more stories aboveground level;
+(4)
+Brewery;
+(5)
+Car wash with recycling system;
+(6)
+Bottling plant;
+(7)
+Chemical plant;
+(8)
+Dentist's office;
+(9)
+Dry cleaning plant;
+(10)
+Fertilizer plant;
+(11)
+Film laboratory;
+(12)
+Fire sprinkler or standpipe system with chemical additives;
+(13)
+Hospital, clinic, medical building;
+(14)
+Irrigation system with chemical additives;
+(15)
+Laboratory;
+(16)
+Commercial laundry (except self-service laundry);
+(17)
+Metal processing plant;
+(18)
+Morgue or mortuary;
+(19)
+Nursing home;
+(20)
+Pharmaceutical plant;
+(21)
+Power plant; swimming pool;
+(22)
+Wastewater treatment plant;
+(23)
+Water treatment plants;
+(24)
+Tire manufacturer;
+(25)
+Veterinary hospital or clinic;
+(26)
+Restaurants;
+(27)
+Battery manufacturers;
+(28)
+Exterminators and lawn care companies;
+(29)
+Dairies;
+(30)
+Canneries;
+(31)
+Dye works; or
+(32)
+Recycling facilities.
+(b)
+If a cross connection inspector does not have sufficient access to every portion of a private water system to permit the complete evaluation of the degree of hazard associated with such private water system, an approved reduced pressure principle assembly must be installed.
+(Ord. of 2-1-2000, § 1.05)
+Sec. 66-61. - Moderate hazard facilities and methods of correction.
+(a)
+Moderate hazard facilities include, but are not limited to:
+(1)
+Fire sprinkler systems without booster pump facilities or chemical additives;
+(2)
+Connections to tanks, lines and vessels that handle nontoxic substances;
+(3)
+Lawn sprinkler systems without chemical injection or booster pumps; or
+(4)
+All industrial and most commercial facilities not identified as high hazard facilities.
+(b)
+All moderate hazard facilities must have a double checkvalve assembly as a minimum containment device.
+(Ord. of 2-1-2000, § 1.06)
+Sec. 66-62. - Lawn irrigation systems.
+All existing lawn irrigation systems must have a double checkvalve assembly as a minimum containment device. All proposed lawn irrigation systems will be served through a separate meter and must have a double checkvalve assembly as a minimum containment device.
+(Ord. of 2-1-2000, § 1.07)
+Sec. 66-63. - Fire sprinkler systems.
+All unmetered fire sprinkler systems without booster facilities or chemical additives must have a double check-detector checkvalve assembly as a minimum containment device. The detector meter assembly shall meet the requirements contained in the water and wastewater system standards for the county. All unmetered fire sprinkler systems with a booster facility or chemical additives must have a reduced pressure principle detector assembly as a minimum containment device.
+(Ord. of 2-1-2000, § 1.08)
+Sec. 66-64. - Imminent hazards.
+If the director determines that a customer's private water system constitutes an imminent hazard, such customer shall install a backflow prevention assembly as may be specified by the director within 24 hours after notice of the director's determination. If the customer fails to take corrective measures in a timely manner or refuses to install the specified assembly, water service to the customer's private water system may be terminated. If the director is unable to give notice to such customer or his representative within 24 hours after the determination that an imminent hazard exists despite reasonable efforts to provide such notice, the director may terminate water service to the private water system until the specified corrected measures are taken. Upon correction of the existing problem and with the director's approval, water service will be continued. All such corrective actions described in this section shall be at the customer's expense.
+(Ord. of 2-1-2000, § 1.09)
+Sec. 66-65. - Responsibility of customer.
+The customer shall be responsible for the elimination of or protection against all cross connections on the customer's premises. The customer shall maintain any backflow prevention assembly within the customer's premises in good operating condition. The customer shall correct any malfunction of the backflow preventer which is revealed by periodic testing. The customer shall be responsible for the payment of all fees for annual testing, retesting in the case that the assembly fails to operate correctly, and repairs. A customer must immediately notify the county if the customer has reason to believe that backflow has occurred from the customer's private water system to the public water system.
+(Ord. of 2-1-2000, § 1.11)
+Sec. 66-66. - Unapproved source of supply.
+No person shall connect or cause to be connected any supply of water not approved by the state and the county to the public water supply system. Where a connection to a county water line is made, and the property owner continues to have a well or other source of water, it shall be unlawful for the plumbing servicing any building upon such property to be so connected that any water outlet in the building may be served with water from any source other than the county connection and it shall also be unlawful to have plumbing cross connected or so installed that water from the county water system or the private water system may in any way become intermingled.
+(Ord. of 2-1-2000, § 1.12)
+Secs. 66-67—66-90. - Reserved.

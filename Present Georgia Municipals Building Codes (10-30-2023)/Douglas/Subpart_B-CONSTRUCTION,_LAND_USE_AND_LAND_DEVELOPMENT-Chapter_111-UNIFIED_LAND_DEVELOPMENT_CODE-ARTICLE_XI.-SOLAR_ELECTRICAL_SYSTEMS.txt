@@ -1,0 +1,250 @@
+ARTICLE XI. - SOLAR ELECTRICAL SYSTEMS
+
+Sec. 111-408. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Ordinance means this solar ordinance.
+Permit means any permit required by federal, state, or local law or regulation, including this ordinance.
+Solar Energy System (SES) means a device or structural design feature that provides for the collection, storage, and distribution of solar energy for electricity generation. For purposes of this ordinance, SES refers only to: (1) photovoltaic SESs that convert solar energy directly into electricity through a semiconductor device; or (2) solar thermal systems that use collectors to convert the sun's rays into useful forms of energy for water heating, space heating, or space cooling. SES as used in this ordinance excludes concentrated solar systems that use mirrors to focus the energy from the sun to create thermal energy that can be used to produce electricity.
+(1)
+Building-integrated solar energy system means an SES where solar materials are used in place of traditional building components such that the SES is structurally an integral part of a house, building, or other structure, for example as a building facade, skylight, or shingles.
+(2)
+Rooftop solar energy system means an SES that is structurally mounted to the roof of a house, building, or other structure.
+(3)
+Ground mounted solar energy system means an SES that is structurally mounted to the ground. For purposes of this ordinance, the acreage of land occupied by a ground mounted solar energy system is calculated by drawing a perimeter around the outermost SES solar panels and auxiliary structures. Substations and transmission lines outside this perimeter shall not be included in the calculation.
+(4)
+Small scale ground mounted solar energy system (small scale SES) means a ground mounted SES that occupies less than three acres.
+(5)
+Intermediate scale ground mounted solar energy system (intermediate scale SES) means a ground mounted SES that occupies between three and 15 acres.
+(6)
+Large scale ground mounted solar energy system (large scale SES) means a ground mounted SES that occupies more than 15 acres.
+Visual buffer means natural vegetation, plantings, earth berms, and/or decorative fencing that provide a visual and lighting barrier between an SES and a residential property. The visual buffer is not part of the SES and shall not be included when: (1) calculating the acreage of land occupied by the SES; or (2) determining whether the SES adheres to applicable setback requirements.
+Zoning authority means the applicable county or city land use decision-making body as determined by local ordinance and appeal procedures.
+(Code 1993, pt. III, ch. 13(1); Ord. No. 05312018 , § 1, 5-31-2018)
+Sec. 111-409. - Requirements.
+The following are types of solar energy systems:
+(1)
+Building-integrated solar energy systems;
+(2)
+Rooftop solar energy systems;
+(3)
+Ground mounted solar energy systems:
+a.
+Small scale solar energy systems—Occupies less than three acres
+b.
+Intermediate scale solar energy systems—Occupies three to 15 acres
+c.
+Large scale solar energy systems—Occupies more than 15 acres
+(Code 1993, pt. III, ch. 13(2); Ord. No. 05312018 , § 2, 5-31-2018)
+Sec. 111-410. - Permissible zoning districts.
+EXPAND
+Residential Commercial Industrial Agricultural
+Building Integrated SES A A A A
+Rooftop SES A A A A
+Ground Mounted SES
+Small Scale A A A A
+Intermediate Scale SUP SAP SAP SAP
+Large Scale SUP SUP SUP SUP
+A: Allowed Use. The SES is allowed in this district.
+SAP: Special Administrative Permit Required. If the applicant first obtains a Special Administrative Permit in accordance with Section 10 of this Ordinance, the SES is allowed in this district.
+SUP: Special Use Permit Required. If the applicant first obtains a Special Use Permit in accordance with the Unified Land Development Code, the SES is allowed in this district.
+  (Code 1993, pt. III, ch. 13(3); Ord. No. 05312018 , § 3, 5-31-2018)
+Sec. 111-411. - Requirements for building-integrated solar energy systems.
+(a)
+Allowed use. A building-integrated SES is an allowed accessory use, regardless of whether the SES is visible from a public right-of-way.
+(b)
+Solar access. A property owner may obtain a solar easement from another property owner for the purpose of ensuring the building-integrated SES adequate exposure to sunlight.
+(Code 1993, pt. III, ch. 13(4); Ord. No. 05312018 , § 4, 5-31-2018)
+Sec. 111-412. - Requirements for rooftop solar energy systems.
+(a)
+Allowed use. A rooftop SES is an allowed accessory use, regardless of whether the SES is visible from a public right-of-way.
+(b)
+Solar access. A property owner may obtain a solar easement from another property owner for the purpose of ensuring the rooftop SES adequate exposure to sunlight.
+(c)
+Safety. A rooftop SES shall have a clear perimeter between the SES and the roofline to ensure emergency access and egress on the roof and to provide smoke ventilation opportunities. A rooftop SES shall not extend beyond the exterior perimeter of the building, unless the SES is explicitly engineered to do so.
+(d)
+Height. A rooftop SES mounted on a flat roof shall be given an equivalent exemption to the underlying zoning district's height standards as roof-mounted mechanical devices or equipment. A rooftop SES mounted on a sloped roof shall not vertically exceed the highest point of the roof to which it is attached.
+(Code 1993, pt. III, ch. 13(5); Ord. No. 05312018 , § 5, 5-31-2018)
+Sec. 111-413. - General requirements for ground mounted solar energy systems.
+The following requirements apply to all small, intermediate, and large scale ground mounted SESs, in addition to the specific requirements in this ordinance that apply to each SES size respectively:
+(1)
+Solar access. A property owner may obtain a solar easement from another property owner for the purpose of ensuring the ground mounted SES adequate exposure to sunlight.
+(2)
+Visual buffer. A ground mounted SES shall require a visual buffer where the SES is visible from residential property. If the visual buffer utilizes natural vegetation or plantings, it shall be of a size and thickness sufficient to provide a visual and lighting barrier between the SES and the residential property within 12 months from the completion of construction of the SES. All other visual buffers shall be in place at the time the SES commences operation.
+(3)
+Impervious surface. An SES shall comply with federal, state, and local stormwater management, erosion, and sediment control provisions and impervious surface coverage requirements. For purposes of compliance with such regulations, an SES shall be considered pervious if it maintains sheet flow and allows for water to infiltrate under and around the panels through a pervious surface and into the subsoil.
+(4)
+Lighting. To reduce light pollution, lighting of a ground mounted SES shall:
+a.
+Be limited to the minimum reasonably necessary for its safe operation;
+b.
+Be directed downward where reasonably feasible;
+c.
+Incorporate full cut-off fixtures; and
+d.
+Reasonably utilize motion sensors.
+(5)
+Tree removal. The removal or destruction of trees or natural vegetation for an SES shall comply with the requirements of the underlying zoning ordinance. If a ground mounted SES is built on a lot with more than 70 percent tree coverage, then no more than 25 percent of the existing tree coverage may be removed and replaced. In a case of hardship due to the lack of sunlight, a variance up to 50 percent of existing trees may be approved by the building inspector.
+(6)
+Maintenance. A ground mounted SES shall be maintained in good working order.
+(7)
+Abandonment. A ground mounted SES shall be considered abandoned if it ceases to produce energy on a continuous basis for more than 12 months without prior approval from the zoning authority.
+(8)
+Decommissioning. If a ground mounted SES has reached the end of its reasonable life or it is abandoned, then:
+a.
+A small scale SES and all structures associated with it shall be removed and all materials shall be recycled or otherwise reused to the extent reasonably practicable; and
+b.
+An intermediate or large scale SES shall be decommissioned in accordance with decommissioning plan in the permit application (see section 111-417(5)).
+(Code 1993, pt. III, ch. 13(6); Ord. No. 05312018 , § 6, 5-31-2018)
+Sec. 111-414. - Specific requirements for small scale solar energy systems.
+A small scale SES is an allowed primary or accessory use.
+(Code 1993, pt. III, ch. 13(7); Ord. No. 05312018 , § 7, 5-31-2018)
+Sec. 111-415. - Specific requirements for intermediate scale solar energy systems.
+(a)
+Permitted use. An intermediate scale SES is a permitted primary or accessory use in any residential zoning district if the Applicant obtains a special use permit from the zoning authority. In any other zoning district, an intermediate scale SES is a permitted primary or accessory use if the applicant obtains a special administrative permit from the zoning authority.
+(b)
+Setbacks. An intermediate scale SES shall comply with the following setback requirements:
+(1)
+The intermediate scale SES shall be located no closer than the lesser of 15 feet from any property line or easement, or the setback standards for the underlying zoning district, if any;
+(2)
+The intermediate scale SES shall be located no closer than the lesser of 20 feet from any public right of way, or the setback standards for the underlying zoning district, if any; and
+(3)
+The intermediate scale SES shall be located no closer than 50 feet from any residential dwelling unit.
+(c)
+Signage. An intermediate scale SES:
+(1)
+Shall have warning signs:
+a.
+Displaying the dangers associated with an intermediate scale SES;
+b.
+Identifying the owner or operator of the intermediate scale SES; and
+c.
+Providing a 24-hour emergency contact phone number;
+(2)
+May have signs that contain educational information about the intermediate scale SES; and
+(3)
+Shall not have signs used for displaying any advertisement except for reasonable identification of the manufacturer or operator of the intermediate scale SES.
+(d)
+Electrical connections. If the intermediate scale SES is connected to the public grid, then reasonable efforts shall be made to place underground all utility connections from the SES, depending on appropriate soil conditions, shape, and topography of the property and any requirements of the utility provider.
+(e)
+Safe installation. The intermediate scale SES shall be installed by a licensed engineer, a certified electrician shall inspect the electrical connections prior to operation, and the appropriate public utility shall inspect any operating connection to the grid.
+(Code 1993, pt. III, ch. 13(8); Ord. No. 05312018 , § 8, 5-31-2018)
+Sec. 111-416. - Specific requirements for large scale solar energy systems.
+(a)
+Permitted use. A large scale SES is a permitted primary or accessory use in any zoning district if the applicant obtains a special use permit from the zoning authority.
+(b)
+Setbacks. A large scale SES shall comply with the following setback requirements:
+(1)
+The large scale SES shall be located no closer than the lesser of 15 feet from any property line or easement, or the setback standards for the underlying zoning district, if any;
+(2)
+The large scale SES shall be located no closer than the lesser of 20 feet from any public right of way, or the setback standards for the underlying zoning district, if any; and
+(3)
+The large scale SES shall be located no closer than 100 feet from any residential dwelling unit.
+(c)
+Signage. A large scale SES:
+(1)
+Shall have warning signs:
+a.
+Displaying the dangers associated with a large scale SES;
+b.
+Identifying the owner or operator of the large scale SES; and
+c.
+Providing a 24-hour emergency contact phone number;
+(2)
+May have signs that contain educational information about the large scale SES; and
+(3)
+Shall not have signs used for displaying any advertisement except for reasonable identification of the manufacturer or operator of the large scale SES.
+(d)
+Electrical connection. If the large scale SES is connected to the public grid, then reasonable efforts shall be made to place underground all utility connections from the large scale SES, depending on appropriate soil conditions, shape, and topography of the property and any requirements of the utility provider.
+(e)
+Safe installation. The large scale SES shall be installed by a licensed engineer, a certified electrician shall inspect the electrical connections prior to operation, and the appropriate public utility shall inspect any operating connection to the grid.
+(Code 1993, pt. III, ch. 13(9); Ord. No. 05312018 , § 9, 5-31-2018)
+Sec. 111-417. - Plans and permits; permit application.
+An application for a special administrative permit or a special use permit shall be submitted to the zoning authority containing the following:
+(1)
+Basic information. The applicant shall submit a document that lists the following:
+a.
+The address of the SES property;
+b.
+The applicant's name, address, telephone number, and email address;
+c.
+The property owner's name, address, telephone number, and email address;
+d.
+If known, the SES operator's name, address, telephone number, and email address;
+e.
+If known, the installation company's name, address, telephone number, email address, and license number; and
+f.
+Evidence of the applicant's control of the property, such as a deed, lease, option agreement with the landowner.
+(2)
+Site plan. The applicant shall submit a site plan that contains the following:
+a.
+A diagram of the property and directly adjacent properties showing the locations of all existing and proposed structures (including solar arrays, inverters, transformers, electrical substations, and buildings), property lines, rights-of-way, roads, required setbacks, required signage, and required visual buffers;
+b.
+A one-line diagram of the SES that has been stamped and signed by a professional engineer licensed in Georgia that shows the configuration of the array, the wiring system, the overcurrent protection, the inverter, and the disconnects;
+c.
+A topographical map from the U.S. Geological Survey, or equivalent, that depicts in detail any vegetative cover, watersheds, floodplains, or wetlands on the property;
+d.
+A topographic drawing of the property that indicates how stormwater currently from the property, identifies the location of discharge points or areas, and identifies any conditions present on the property that may contribute to significant soil erosion;
+e.
+A map from the Georgia Department of Natural Resources that identifies any habitat for state endangered, threatened, or candidate species on or adjacent to the property;
+f.
+A map from the U.S. Department of Fish and Wildlife ("FWS") and/or the National Oceanic and Atmospheric Administration ("NOAA") that identifies any habitat for federally endangered, threatened, or candidate species on or adjacent to the property; and
+g.
+If the SES is located in an agricultural district, a map from U.S. Department of Agriculture Natural Resources Conservation Service ("NRCS") identifying prime farmland and farmland of statewide importance on the property.
+(3)
+Mitigation of impacts. The applicant shall submit a mitigation plan that contains the following:
+a.
+A plan for the prevention and mitigation of stormwater runoff and soil erosion;
+b.
+If the SES is located on prime farmland or farmland of statewide importance (as defined by NRCS), a plan to mitigate damage to the soil quality;
+c.
+If the installation of the SES will result in potentially adverse changes to any state or federally endangered, threatened, or candidate species habitat, a mitigation plan, that includes:
+1.
+A process for minimizing changes to the species habitat, for example through habitat corridors;
+2.
+A plan to relocate and monitor any impacted species; and
+3.
+A plan to restore the original species habitat after the system is decommissioned; and
+d.
+A map of five nautical miles around the property with the location of any airport in the shown space, and, if an airport is present in that area, a glare hazard analysis result by the solar glare hazard analysis tool or its equivalent.
+(4)
+Certifications. The applicant shall submit an affidavit that provides:
+a.
+Construction and operation of the SES will comply with all applicable federal, state and local laws and regulations, including the requirements of the underlying zoning ordinance, unless otherwise expressly stated in this ordinance;
+b.
+Before operation, a fire safety and evacuation plan will be filed with the appropriate fire code and emergency management officials, and will be available in workplace for reference and review by employees working on the premises; and
+c.
+General liability insurance will be maintained throughout the life of the SES project. If the underlying zoning ordinance does not specify the coverage, such general liability insurance will include, but not be limited to, commercial form, premises-operations, products/completed operations hazard, contractual insurance, broad form property damage, and personal injury.
+(5)
+Decommissioning plan. The applicant shall submit a decommissioning plan that, based on the best available information at the time of the application, contains the following:
+a.
+The name, address, telephone number, and e-mail address of the person(s) or entity(ies) responsible for implementing the decommissioning plan;
+b.
+A statement of conditions that require the decommissioning plan to be implemented;
+c.
+As part of decommissioning, a removal plan that identifies all structures, components, and non-utility owned equipment that shall be removed, and includes a plan for recycling or otherwise reusing all materials to the extent reasonably practicable; and
+d.
+As part of decommissioning, a restoration plan to return the property to its condition prior to the installation of the SES or to some other condition reasonably appropriate to the designated land use after the SES is removed, including a tree restoration plan to restore the original tree cover with similar tree types and numbers after the system is decommissioned.
+(Code 1993, pt. III, ch. 13(10); Ord. No. 05312018 , § 10, 5-31-2018)
+Sec. 111-418. - Special administrative permit review.
+(a)
+Upon receiving an application for, the zoning authority shall review the permit application within 60 days and either approve or deny the applicant.
+(b)
+A special administrative permit application maybe approved only if the zoning authority determines that the SES complies with all applicable federal, state, and local laws and regulations, including the requirements of this ordinance.
+(c)
+The applicant's appeal rights are consistent with those rights expressed in the underlying zoning ordinance.
+(Code 1993, pt. III, ch. 13(11); Ord. No. 05312018 , § 11, 5-31-2018)
+Sec. 111-419. - Special use permit review.
+(a)
+Upon receiving an application for an SES, the zoning authority shall:
+(1)
+Provide public notice of the proposed project in accordance with the notice requirements in the Unified Land Development Code;
+(2)
+Schedule and hold a public hearing in accordance with the hearing requirements in the underlying code; and
+(3)
+Issue a determination within seven days of the public hearing on the permit application based on the application and public comments.
+(b)
+A special use permit application may be approved only if the zoning authority determines that the SES complies with all applicable federal, state, and local laws and regulations, including the requirements of this ordinance.
+(c)
+The applicant's appeal rights are consistent with those rights expressed in the underlying Unified Development Code.
+(Code 1993, pt. III, ch. 13(12); Ord. No. 05312018 , § 12, 5-31-2018)
+Secs. 111-420—111-437. - Reserved.

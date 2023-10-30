@@ -1,0 +1,4 @@
+Column header,Document ID,Document,Count,Mean,Mode,Median,Standard deviation,Minimum,Maximum,Skewness,Kurtosis,25% quantile,50% quantile,75% quantile
+Sentence length (in words),1,/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-27-2012_Codes.txt,1142,33.588235294117645,2,30.5,20.430395725945118,2,78,0.5235306397733455,-0.4892372734920354,19.25,30.5,45.5
+Sentence length (in words),2,/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-15-2022_Codes .txt,1259,30.70731707317073,1,28.0,17.940518251208665,1,74,0.45869675124639153,-0.39739175437011864,18.0,28.0,41.0
+Sentence length (in words),3,/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-28-2023_Codes.txt,1241,31.025,1,28.5,18.05190166841582,1,74,0.4175324843014913,-0.4324328347686581,18.5,28.5,41.5

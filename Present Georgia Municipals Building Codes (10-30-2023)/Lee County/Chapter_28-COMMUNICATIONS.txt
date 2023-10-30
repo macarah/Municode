@@ -1,0 +1,361 @@
+Chapter 28 - COMMUNICATIONS
+ARTICLE I. - IN GENERAL
+
+Secs. 28-1—28-25. - Reserved.
+ARTICLE II. - STANDARDS FOR WIRELESS COMMUNICATION FACILITIES
+
+Sec. 28-26. - Purpose and intent.
+The purpose of this article is to establish guidelines for the siting of all wireless communications towers and antennas which will encourage the development of a competitive wireless communications marketplace while protecting the health, safety and welfare of the public and maintaining the aesthetic integrity of the community. The goals of this article are:
+(1)
+To protect residential areas and land uses from potential adverse impact of telecommunications towers, antenna support structures and wireless communications facilities;
+(2)
+To minimize the total number of towers and antennas within the community necessary to provide adequate personal wireless services to residents of the county;
+(3)
+To promote and encourage the joint use of new and existing tower sites among service providers;
+(4)
+To locate telecommunications towers and antennas in areas where adverse impacts on the community are minimized;
+(5)
+To encourage the design and construction of towers and antennas to minimize adverse visual impacts;
+(6)
+To avoid potential damage to property caused by wireless communications facilities by insuring that such structures are soundly and carefully designed, constructed, modified, maintained and removed when no longer used or when determined to be structurally unsound;
+(7)
+To enhance the ability of the providers of wireless communications services to deliver such services to the community effectively and efficiently; and
+(8)
+To preserve those areas of significant scenic or historic merit.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-27. - Definitions.
+Accessory Use. A tower and/or antenna is considered an accessory use if located on a lot or parcel shared with a different existing primary use or existing structure.
+Alternative tower structure. Man-made trees, clock towers, bell steeples, light poles and similar alternative-design mounting structures of a type and quality consistent with structures manufactured by a qualified company that in the opinion of the planning director or his/her designee are compatible with the natural setting and surrounding structures, and effectively camouflage or conceal the presence of antennas or towers.
+Antenna. Any exterior transmitting or receiving devices mounted on a tower, building or structure and used in communications that radiate or capture electromagnetic waves, digital signals, analog signals, radio, wireless, telecommunications signals or other communications signals. Such definition does not include, for purposes of this article, radar antennas, amateur radio antennas, satellite earth stations, MMDS antennas, television receiving antennas and direct broadcast satellite dishes.
+Co-location. The placement of antennas of two or more service providers on the same tower or accessory structure.
+Economically and technically feasible and viable. Capable of being provided:
+(1)
+Through technology which has been demonstrated in actual applications (not simply through tests or experiments) to operate in a workable manner; and
+(2)
+In a manner which has a reasonable likelihood of generating a reasonable profit or other financial benefits, when measured over the term of the lease.
+Height. When referring to a tower or other structure, height means a distance measured from the finished grade of the parcel to the highest point on the tower or other structure, including the base pad and any antenna.
+Historic or scenic views. Geographic areas in the county which have been formally designated on the National Historic Register; have been included in any nature preserve or scenic preservation efforts; have been identified in the county comprehensive plan; or have sufficient historic or scenic merit as determined by the planning and zoning department or the board of commissioners. A scenic view may be from a stationary viewpoint or be seen as one travels along a roadway or path.
+Microcell. A wireless communication facility comprising an antenna extending no more than four feet above the structure to which it is attached, and with an area no larger than 576 square inches (e.g. 3' × 1½' panel antenna or 2' diameter parabolic antenna) as viewed from any one point.
+Preexisting towers and preexisting antenna. Any structure that is designed and constructed primarily for the purpose of supporting one or more antennas, including self-supported or monopole towers. The term includes radio and television transmission towers, microwave towers, common-carrier towers and cellular telephone or PCS towers.
+Principal use. A tower and/or antenna is considered a principal use if located on any lot or parcel of land as the sole or primary structure.
+Tower. Any structure that is designed and constructed primarily for the purpose of supporting one or more antennas, including self-supported or monopole towers. The term includes radio and television transmission towers, microwave towers, common carrier towers, and cellular telephone or PCS towers.
+Wireless transmission facilities. The buildings, cabinets, equipment and property, including but not limited to, generating and switching stations, repeaters, cables, wires, conduits, ducts, pedestals, antennas, towers, alternative tower structures, electronics and other appurtenances used to transmit, receive, distribute, provide or offer low-power mobile voice transmission, data transmission or other wireless communications by linking a wireless network of radio wave transmitting devices through a series of short range, contiguous cells that are part of an evolving cell grid.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-28. - Applicability.
+All new towers and antennas shall be subject to the regulations contained within this article except as provided in subsections (1)—(3), inclusive:
+(1)
+Public property. Nothing in this article shall be read to prohibit a government owned tower from being located at a specific site when the tower is required to protect the public welfare or safety.
+(2)
+Amateur radio, receive-only antennas. This article shall not govern any amateur radio tower, or the installation of any antenna, that is under 70 feet in height and is owned and operated by a federally-licensed amateur radio station operator or is used exclusively for receive only antennas.
+(3)
+Pre-existing towers and antennas. Any tower or antenna for which a permit has been properly issued prior to the effective date of this article shall not be required to meet the provisions of this article, other than the requirements of section 28-32. Any such towers or antennae shall be referred to in this article as "preexisting towers" or "preexisting antennae."
+If additional antennas are co-located upon a pre-existing tower after adoption of this article, then fencing and landscaping requirements shall be met as part of the permitting process.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-29. - General requirements.
+(a)
+An application shall be required for the construction or placement of all new wireless transmission facilities within the county limits. Approval of any application for the construction of a tower or placement of an antenna shall be based on consideration of the following factors:
+(1)
+The proposed height of the tower, if any;
+(2)
+Proximity to residential structures and residential district boundaries;
+(3)
+Nature of uses on adjacent properties;
+(4)
+Surrounding topography, tree coverage and foliage;
+(5)
+Design of the facility, with particular reference to design characteristics which have the effect of reducing or eliminating visual obtrusiveness;
+(6)
+Proposed ingress and egress;
+(7)
+Availability of suitable existing towers, other structures, or alternative technologies (microcells) not requiring the use of towers or structures;
+(8)
+Demonstrated need for the telecommunications facility at the specified site;
+(9)
+Approval of applications for co-location shall be based on all the foregoing factors, but primarily on consideration of factor (8).
+(b)
+All applications submitted to the planning and zoning department shall include a complete inventory of the applicant's existing wireless transmission facilities including towers and receivers/transmitters located within the county and a one-half mile surrounding the county limits, including each asset's location (plane coordinates), height and co-location usage or capabilities, and any special design features. The planning and zoning department shall utilize such information, subject to any restrictions on disclosure requested by the applicant, to promote co-location alternatives for other applicants.
+(c)
+At the time of filing the application for construction or placement of a wireless transmission facility, the applicant shall provide a site plan and information regarding tower or accessory structure location, neighboring uses and proposed landscaping as described below. Additional documentation to be submitted with the site plan and certified by an experienced radio frequency engineer shall delineate coverage and propagation zones, identify types of antenna and mounting location, specify the type of band currently in use and state co-location capabilities.
+(1)
+The scaled site plan shall clearly indicate the location, type and height of the proposed tower or accessory structure to be utilized, on-site land uses and zoning, adjacent land uses and zoning including proximity to historic or scenic view corridors, adjacent roadways, proposed means of access, setbacks for property lines, elevation drawings of the proposed tower, accessory structure and any other structures, topography, parking and other information deemed necessary by the planning director or his/her designee to assess compliance with this article.
+(2)
+Legal description of the parent tract and leased parcel (if applicable).
+(3)
+A definition of the area of coverage and radio frequency goals to be served by the antenna or tower and the extent to which such antenna or tower is needed for coverage and/or capacity.
+(4)
+The setback distance between the proposed wireless transmission facility and the nearest residential unit or residentially used structure if less than 500 feet.
+(5)
+Structural integrity analysis where antennas and equipment will be attached to an existing structure.
+(6)
+Landscaping shall be designed in such a way as to preserve existing mature growth and to provide in the determination of the planning director or his/her designee, a suitable buffer of plant materials that mitigates the view of the telecommunications facility and accessory structures from surrounding property.
+(d)
+Each application shall be accompanied by a fee, determined by the board of commissioners, to offset the costs associated with processing such application. In addition, applicants shall be responsible for independent engineering costs incurred by the county which exceed such fee up to an additional $300.00 and any fees commonly charged for a rezoning if one is required, or for any other required permit fees.
+(e)
+Landscaping plans and the design and placement of the wireless transmission facility on an approved site plan shall require review and approval of the planning director or his/her designee prior to issuance of a building permit to insure compliance with this article.
+(f)
+Prior to issuance of a building permit, compliance with Section 106 of the National Historic Preservation Act, 16 U.S.C. § 461 et. seq. shall be demonstrated.
+(g)
+In approving any application, the planning director may impose additional conditions to the extent determined necessary to minimize adverse effects on adjoining properties.
+(h)
+No application shall be considered to be complete unless written evidence is provided by the applicant that the Federal Aviation Administration ("FAA") has made or issued a "Determination of No Hazard" with respect to the proposed tower.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1); Ord. of 1-12-2021 )
+Sec. 28-30. - Development requirements for towers.
+(a)
+Towers may be located only in the following zoning districts subject to the restrictions and standards contained herein:
+EXPAND
+AG-1 Active Agricultural District
+C-1 Neighborhood Business District
+C-2 General Business District
+I-1 Light Industrial District
+I-2 Heavy Industrial District
+  Wireless transmission facilities in any other zoning districts shall be accessory uses or alternative tower structures only; provided however, towers may be allowed on publicly owned property regardless of zoning district.
+(b)
+Separation. Except in cases of co-location on the same tower or accessory structure, no wireless transmission facilities shall be located within 2,500 feet of any preexisting tower or preexisting antenna within the county unless such facility or preexisting tower or antenna is concealed through use of alternative tower structures or otherwise camouflaged in such a way that the presence of telecommunications equipment is virtually undetectable from any adjoining property.
+(c)
+All applicants seeking to erect a tower must demonstrate that no existing tower or structure can accommodate the proposed antenna(s). Evidence of an engineering nature shall be documented by the submission of a certification by an engineer. Such evidence may consist of the following:
+(1)
+No existing towers or structures are located within the geographic area required to meet applicant's engineering requirements.
+(2)
+No existing structure is of sufficient height to meet the applicant's engineering requirements.
+(3)
+No existing tower or structure has sufficient structural strength to support applicant's proposed antenna(s) and related equipment.
+(4)
+Applicant's proposed antenna(s) would cause electromagnetic interference with the antenna(s) on the existing tower or structure.
+(5)
+That the cost or contractual provisions required by the tower owner to share an existing tower or structure or to adapt an existing tower or structure for sharing are unreasonable. Costs exceeding new tower development are presumed to be unreasonable.
+(6)
+Such other limiting factor(s) as may be demonstrated by the applicant.
+All evidence submitted shall be signed and sealed by appropriate licensed professionals or qualified industry experts. Such evidence shall be subject to independent verification by an engineer of the county's choosing.
+(d)
+Setbacks. Setbacks for towers and above-ground transmission facilities shall be as follows:
+(1)
+All transmission facilities, except buried portions, shall be set back from all adjoining properties zoned non-residential the distance required for that zoning district.
+(2)
+When a tower is adjacent to a residential use, the tower and entire transmission facility must be set back from the nearest residential lot line a distance equal to the height of the tower.
+(3)
+Setbacks may be reduced, at the discretion of the planning and zoning department, to the fall radius of the tower as identified in a fall zone letter prepared by an engineer certified by the State of Georgia.
+(e)
+Unless otherwise specified by the planning director or his/her designee, towers shall be enclosed by vinyl chain link security fencing or other approved alternative not less than six feet in height and shall be equipped with an appropriate anti-climbing device.
+(f)
+All new towers in excess of 100 feet which do not incorporate alternative design features must be designed and built in a manner that allows other entities to co-locate on the structures using the following guidelines:
+Maximum Telecommunications Tower Heights
+EXPAND
+Zoning District Two Users Three Users Four Users
+AG-1 120' 200' 300'
+C-1, C-2 120' 150' 150'
+I-1, I-2 120' 150' 180'
+  (g)
+All towers and their related structures shall maximize the use of building materials, colors, textures, screening and landscaping that, in the opinion of the planning director or his/her designee, effectively blend the tower facilities within the surrounding natural setting and built environment. Where appropriate, towers shall be painted so as to reduce their visual obtrusiveness, subject to any applicable standards of the Federal Aviation Administration (FAA).
+(h)
+If upon receipt of an application for the erection of any tower or alternative tower structure governed by this article, the planning director or his/her designee deems that the proposed structure may interfere with the use of the airways of the county by the public or interfere with the operation of existing or proposed airport facilities, a copy of the application shall be submitted by the planning and zoning department to the airport division of the department of transportation for review and recommendation.
+(i)
+No application shall be approved unless written evidence is provided by the applicant that the Federal Aviation Administration (FAA) has made or issued a "Determination of No Hazard" with respect to the proposed tower.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1); Ord. of 1-12-2021 )
+Sec. 28-31. - Approval process.
+(a)
+Uses subject to administrative approval. Subject to certification by the planning director of compliance with the general requirements, development requirements and standards enumerated above, the following uses may be administratively approved within 30 days of receiving application, supporting engineering certification and lease approval, if any, without the necessity of public hearing.
+(1)
+Antennas or towers located on property owned, leased or otherwise controlled by the county provided accessory structures are located underground where technically feasible and a license, permit or lease authorizing such tower is thereafter approved by the county.
+(2)
+Installing an antenna on an existing structure, so long as said installation is considered to be a stealth technology installation that does not significantly change the profile of the existing structure and so that the installation is not readily noticeable to the untrained eye. Such installations including cables leading to the antennas shall be painted to match the paint and colors on the existing structure and shall not protrude from the existing structure in a noticeable fashion.
+(3)
+Co-location by installing an antenna on any existing tower or alternative tower structure.
+(4)
+Replacing an existing tower with a new tower designed to accommodate two or more users so long as such new tower does not exceed the height limitations of subsection 28-30(f) and setback requirements of this article are met. After the replacement tower is built only one tower shall remain on such site. Support equipment shall, where technically feasible, be located underground.
+(5)
+Locating any alternative tower structures (manmade trees, clock towers, bell steeples, or light poles that, based on staff determination, effectively camouflage or conceal towers and antennas) provided accessory structures are located underground where technically feasible or otherwise incorporated into the alternative structure.
+(6)
+Installing any antenna or tower not to exceed the limitations contained in subsection 28-30(f) and provided accessory structures are located underground where technically feasible or shielded to the satisfaction of the planning director or his/her designee.
+(7)
+Constructing and installing a new tower that will host First Responders Network Authority (FirstNet) or services of similar import that benefit first responders and enhance public safety.
+If the planning director or his/her designee determine that any application for an administratively approved use does not meet the general application requirements, development requirements and/or standards enumerated herein, administrative approval of the application shall be denied provided substantial evidence exists to support such denial. Such evidence shall be summarized for the applicant along with a recommendation as to whether the applicant should pursue a variance or proceed to a public hearing as specified in subsection (b) below. Applicants may appeal the administrative denial to the county board of commissioners pursuant to the procedures described in article XX, policies and procedures, section 70-689, public hearing process, of the zoning chapter. Any other party aggrieved by the decision of the planning director or his/her designee may file an appeal to the board of commissioners including payment of the filing fee. For purposes of this section an aggrieved party is one who demonstrates that his or her property will suffer special damage as a result of the decision complained of rather than merely some damage that is common to all property owners and citizens similarly situated.
+The board of commissioners shall dispense with the appeal by either:
+(8)
+A determination that the application is valid and meets all applicable criteria for an administratively approved use under this article, which shall result in the issuance of a permit.
+(9)
+A determination that the application does not satisfy all applicable criteria for an approved administratively use under this article, but, owing to special conditions, a variance as to separation or setback requirements:
+a.
+Will not be contrary to the public interest;
+b.
+Will relieve unnecessary hardship; and
+c.
+Shall preserve the intent and spirit of this article.
+(10)
+A determination that the application does not satisfy all applicable criteria for an administratively approved use under this article and the deficiencies cannot, subject to the conditions listed above, properly be cured by a variance.
+Applications which do not satisfy all applicable criteria must, as a result, apply for a public hearing before the board of commissioners as specified in subsection (b) below.
+(b)
+Other uses—Public hearing required.
+(1)
+If the proposed tower or antenna is not included under the above described administratively approved uses, or the application does not on its face satisfy the development standards and other criteria specified herein, then a public hearing before the board of commissioners shall be required for the approval of the construction of a wireless transmission facility in all zoning districts. Applicants shall apply for a public hearing through the planning and zoning department and pay the required fee at such time. Applications, when complete, shall be placed on the next available agenda of the board of commissioners. At least 30 days prior to any scheduled hearing, the planning and zoning department shall cause a sign to be posted on the property and the publication of a public notice in a newspaper of general circulation. Said notice shall state the nature of the application, street location of the proposal and height of the proposed structure.
+(2)
+Before approving an application for an "other use," the governing authority may impose conditions to the extent necessary to buffer or otherwise minimize any adverse effect of the proposed tower on adjoining properties. The factors considered in granting such a permit include those enumerated in sections 28-29 and 28-30. The board of commissioners may waive or reduce the burden on the applicant of one or more of these criteria, if, in their discretion doing so will advance the goals of this article as stated in section 28-26.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1); Ord. of 1-12-2021 )
+Sec. 28-32. - Maintenance of facilities.
+(a)
+All wireless transmission facilities and related landscaping shall be maintained by the facility owner in good condition, order, and repair so that they shall not endanger the life or property of any person, nor shall they be a blight upon the property.
+(b)
+To ensure the structural integrity of towers, the applicant of a tower or alternative tower structure shall ensure that it is maintained in compliance with standards contained in applicable local building codes and the applicable standards for towers that are published by the Electronic Industries Association, as amended from time to time. If, upon inspection, the county concludes that a tower fails to comply with all applicable codes and standards, or constitutes a danger to persons or property, then upon receipt of written notice to the applicant, said applicant shall have 15 days to bring the tower into compliance with such standards. If the applicant fails to bring the tower into compliance within the 15 days, the county may remove the tower at the applicant's expense. Prior to removal of any tower, the county may consider detailed plans submitted by the applicant for repair of substandard towers, and may grant a reasonable extension of the above referenced compliance period. Any such removal by the county shall be in the manner provided in O.C.G.A., §§ 41-2-7—41-2-17.
+(c)
+All towers must meet or exceed current standards and regulations of the FAA, the FCC, and any other agency of the federal government with the authority to regulate towers and antennas. If such standards and regulations are changed, the owners of the towers and antennas governed by this article shall bring such towers and antennas into compliance with such revised standards and regulations within six months of the effective date of such standards and regulations unless a more or less stringent compliance schedule is mandated by the controlling federal agency. Failure to bring towers and antennas into compliance with such revised standards and regulations shall constitute grounds for the removal of the tower or antenna at the owner's expense. Any such removal by the county shall be in the manner provided in O.C.G.A., §§ 41-2-7—41-2-17.
+(d)
+All maintenance or construction on wireless transmission facilities shall be performed by persons employed by or under contract to the owner between the hours of 6:00 a.m. and 6:00 p.m. Monday through Friday except in cases of emergency. Access to facilities on county owned property shall be determined on a case-by-case basis by the department responsible for such property. The hours of access to county sites shall not exceed those specified above. Persons may not be present on site unless performing construction or maintenance at such site.
+(e)
+The owner or user of any telecommunications facility shall be required to submit a "facility in use certification" annually to the license and permits department. Any antenna or tower that is not operated for a continuous period of 12 months or is not properly maintained shall be considered abandoned, and the owner of such antenna or tower shall remove same and any structures housing supporting equipment within 90 days of receipt of notice from the governing authority of such abandonment. If such antenna or tower is not removed or returned to good condition within said 90 days, the governing authority may remove such antenna or tower at the owner's expense. If there are two or more users of a single tower, then this provision shall not become effective until all users cease using the tower.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-33. - Waiver of requirements.
+No exception, waiver or variance to the conditions and requirements contained herein shall be granted unless expressly provided for in this article, or the board of commissioners find that the proposed tower or wireless transmission facility is necessary and essential to providing the applicant's service.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Secs. 28-34, 28-35. - Reserved.
+Sec. 28-36. - Facilities lease.
+The board of commissioners may, in its sole discretion which is hereby reserved, approve facilities leases for the location of wireless transmission facilities and other telecommunications facilities upon county-owned property. Neither this section, nor any other provision of this article shall be construed to create an entitlement or vested right in any person or entity of any type.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-37. - Lease application.
+Any person that desires to solicit the board of commissioners' approval of a facilities lease pursuant to this article shall file a lease proposal with the county's planning and zoning department which, in addition to the information required by section 28-29, shall include the following:
+(1)
+A description of the wireless transmission facilities or other equipment proposed to be located upon county property;
+(2)
+A description of the county property upon which the applicant proposes to locate wireless transmission facilities or other equipment;
+(3)
+Preliminary plans and specifications in sufficient detail to identify:
+a.
+The location(s) of existing wireless transmission or telecommunications facilities or other equipment upon the county's property, whether publicly or privately owned.
+b.
+The location and source of electric and other utilities required for the installation and operation of the proposed facilities.
+(4)
+Accurate scaled conceptual drawings and diagrams of sufficient specificity to analyze the aesthetic impacts of the proposed wireless transmission facilities or other equipment;
+(5)
+Whether the applicant intends to provide cable service, video dialtone service or other video programming service from the facility, and sufficient information to determine whether such service is subject to cable franchising;
+(6)
+An accurate map showing the location of any wireless transmission or telecommunications facilities in the county that applicant intends to use or lease;
+(7)
+Such other and further information as may be requested by the county; and
+(8)
+An application fee for lease negotiation in the amount consistent with fee schedule adopted by the board of commissioners.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-38. - Determination by the board of commissioners.
+Recognizing that the board of commissioners is under no obligation to grant a facilities lease for the use of county property, the board of commissioners shall strive to consider and take action on application for facilities leases within 60 days after receiving a complete application for such a lease. When such action is taken, the board of commissioners or their designee shall issue a written determination granting or denying the lease in whole or in part, applying the standards set forth below, or any other such criteria as the board of commissioners may choose to apply. If the lease application is denied, the determination shall include the reason for denial following review of these factors:
+(1)
+The capacity of the county property and public right-of-ways to accommodate the applicant's proposed facilities.
+(2)
+The capacity of the county property and public right-of-ways to accommodate additional utility and wireless transmission or telecommunications facilities if the lease if granted.
+(3)
+The damage or disruption, if any, of public or private facilities, improvements, service, travel or landscaping if the lease is granted.
+(4)
+The public interest in minimizing the cost and disruption of construction upon county property and within the public ways.
+(5)
+The service that applicant will provide to the community and region. The effect, if any, on public health, safety and welfare if the lease requested is approved. The availability of alternate locations for the proposed facilities.
+(6)
+Whether the applicant is in compliance with applicable federal and state telecommunications laws, regulations and policies, including, but not limited to, the registration requirements administered by the state public service commission.
+(7)
+The potential for radio frequency and other interference with existing public and private telecommunications or other facilities located upon the county property.
+(8)
+The potential for radio frequency and other interference or impact upon residential, commercial and other uses located within the vicinity of the county property.
+(9)
+Recommendations of the recreation department with respect to impact on park and recreation activities.
+(10)
+Recommendations of the public works department with respect to maintenance and security of water towers. Such other factors, such as aesthetics, as may demonstrate that the lease to use the county property will serve the community interest.
+(11)
+The maximization of co-location opportunities with other similar uses.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-39. - Agreement.
+No facilities lease shall be deemed to have been granted hereunder until the applicant and the board of commissioners have executed a written agreement setting forth the particular terms and provisions under which the lessee has been granted the right to occupy and use the county property.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-40. - Nonexclusive lease.
+No facilities lease granted under this article shall confer any exclusive right, privilege, license or franchise to occupy or use county property for delivery of telecommunications services or any other purposes nor shall approval of a lease entitle the applicant to a permit to construct or place a wireless transmission facility.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-41. - Term of facilities lease.
+Unless otherwise specified in a lease agreement, a facilities lease granted hereunder shall be valid for an initial term of one year, with the lessee granted a maximum of four one-year renewal options which options shall also be subject to approval of the board of commissioners. The term of any such agreement shall not exceed five years.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-42. - Rights granted.
+No facilities lease granted under this article shall convey any right, title or interest in the county property, but shall be deemed a license only to use and occupy the county property for the limited purposes and term stated in the lease agreement. Further, no facilities lease shall be construed as any warranty of title.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-43. - Interference with other users.
+No facilities lease shall be granted under this article unless it contains a provision which is substantially similar to the following:
+The board of commissioners has previously entered into leases with other tenants for their equipment and wireless transmission facilities. Lessee acknowledges that the board of commissioners is also leasing the county property for the purposes of transmitting and receiving telecommunications signals from the county property. The board of commissioners, however, is not in any way responsible or liable for any interference with lessee's use of the county property which may be caused by the use and operation of any other tenant's equipment, even if caused by new technology. In the event that any other tenant's activities interfere with the lessee's use of the county property, and the lessee cannot work out this interference with the other tenants, the lessee may, upon 30 days' notice to the board of commissioners, terminate this lease and restore the county property to its original condition, reasonable wear and tear excepted. The lessee shall cooperate with all other tenants to identify the causes of and work towards the resolution of any electronic interference problem. In addition, the lessee agrees to eliminate any radio or television interference caused to county-owned facilities or surrounding residences at Lessee's own expense and without installation of extra filters on county-owned equipment. Lessee further agrees to accept such interference as may be received from county operated telecommunications or other facilities located upon the county property subject to this lease.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-44. - Ownership and removal of improvements.
+No facilities lease shall be granted under this article unless it contains a provision which states that all buildings, landscaping and all other improvements, except telecommunications equipment, shall become the property of the board of commissioners upon expiration or termination of the lease. In the event that the board of commissioners requires removal of such improvements, such removal shall be accomplished at the sole expense of the lessee and completed within 90 days after receiving notice from the county manager requiring removal of the improvements. In the event that wireless transmission facilities or other equipment are left upon county property after expiration or termination of the lease, they shall become the property of the board of commissioners, unless otherwise notified. The board of commissioners may require removal of wireless transmission facilities or other equipment by the lessee upon 30 days written notice from the county manager.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1); Ord. of 5-28-2013)
+Sec. 28-45. - Compensation to the board of commissioners.
+(a)
+Each facilities lease granted under this article is subject to the board of commissioners' right, which is expressly reserved, to annually fix a fair and reasonable compensation to be paid for the rights granted to the lessee; provided, nothing in these sections shall prohibit the board of commissioners and a lessee agreeing to the compensation to be paid. Such compensation shall be payable in advance of the effective date of the lease and on or before January 31 of each calendar year. Any payments received after the due date shall include a late payment penalty of two percent of the annual rental fee for each day or part thereof past the due date. The compensation shall be negotiated by the county manager or designee, subject to the board of commissioner's final approval, based on the following criteria:
+(1)
+Comparable lease rates for other public or private property.
+(2)
+In the case land is leased, an appraisal opinion upon which the land and air space is rented.
+(3)
+If structure of another user is involved, any amount needed to reimburse that user, in addition to the above.
+(4)
+A yearly escalator rate commonly used in comparable leases.
+(5)
+The additional rent such structure may generate if leased to additional users.
+(b)
+The county manager is authorized to accept telecommunications services in lieu of cash rental payment; however, such services must constitute substantial benefit to the board of commissioners over retail purchases of said telecommunications services under any applicable government rates offered by the wireless services provider.
+(c)
+Additional fees or charges may be established by the board of commissioners to cover actual costs of processing the application, including engineering review, inspection and appraisal cost, legal, administration of the agreement, providing on-site services and/or other direct or indirect costs.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1); Ord. of 5-28-2013)
+Sec. 28-46. - Amendment of facilities lease.
+Except as provided within an existing lease agreement, a new lease application and lease agreement shall be required of any telecommunications carrier or other entity that desires to significantly expand, modify or relocate its telecommunications facilities or other equipment located upon county property. If ordered by the board of commissioners to locate or relocate its telecommunications facilities or other equipment on the county property, the board of commissioners shall grant a lease amendment without further application.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-47. - Renewal application.
+A lessee that desires to exercise a renewal option in its facilities lease under this article shall, not more than 90 days nor less than 60 days before expiration of the current facilities lease term, file an application with the board of commissioners for renewal of its facilities lease which shall include the following:
+(1)
+The information required pursuant to section 28-37 of this article;
+(2)
+Any information required pursuant to the facilities lease agreement between the board of commissioners and the lessee;
+(3)
+A report certified by a radio frequency engineer that the site is in compliance with current FCC radio emission standards;
+(4)
+All deposits or charges required pursuant to this article; and
+(5)
+An application fee which shall be set by the board of commissioners by resolution.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-48. - Renewal determination.
+Recognizing that the board of commissioners is under no obligation to grant a renewal of a facilities lease for the use of county property, the board of commissioners shall strive to consider and take action on applications for renewal of such leases within 30 days after receiving a complete application for such a lease renewal. When such action is taken, the county manager shall issue a written determination granting or denying the lease renewal in whole or in part, applying the standards set forth below, or any other such criteria as the board of commissioners may choose to apply. If the renewal application is denied, the written determination shall include the reason for denial, if any after review of these factors:
+(1)
+The financial and technical ability of the applicant.
+(2)
+The legal ability of the applicant.
+(3)
+The continuing capacity of the county property to accommodate the applicant's existing facilities.
+(4)
+The applicant's compliance with the requirements of this article and the lease agreement.
+(5)
+Applicable federal, state and local telecommunications laws, rules and policies.
+(6)
+Continued need for the facility in light of technological advances and current industry standards.
+(7)
+Such other factors as may demonstrate that the continued grant to use the county property will serve the community interest.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1); Ord. of 5-28-2013)
+Sec. 28-49. - Obligation to cure as a condition of renewal.
+No facilities lease shall be renewed until any ongoing violations or defaults in the lessee's performance of the lease agreement, or of the requirements of these sections, have been cured, or a plan detailing the corrective action to be taken by the lessee has been approved by the planning director or his/her designee.
+(Ord. 2-5-2001(2); Ord. of 9-15-2003(1))
+Sec. 28-50. - Legal status provisions.
+(a)
+Conflict with other laws. Whenever the regulations of this article require a greater width, depth or size of yard or impose other more restrictive standards than are required in or under any other statue or covenants, the requirements of this article shall govern. Whenever the provisions of any other statute or covenants require more restrictive standards than those of this article, the provisions of such statutes or covenants shall govern.
+(b)
+Severability. In the event any article, section, subsection, sentence, clause or phrase of this article shall be declared or adjudged invalid or unconstitutional, such adjudication shall in no manner affect the other articles, sections, subsections, sentences, clauses or phrases of this article, which shall remain in full force and effect, as if the article, section, subsection, sentence, clause or phrase so declared or adjudged invalid or unconstitutional were not originally a part thereof. The board of commissioners hereby declares that it would have adopted the remaining parts of the article if it had known that such part or parts thereof would be declared or adjudged invalid or unconstitutional.
+(c)
+Repeal of conflicting resolutions. All resolutions and ordinances or portions thereof in conflict with this article are hereby repealed.
+(Ord. of 2-5-2001(2); Ord. of 9-15-2003(1))
+Secs. 28-51—28-80. - Reserved.
+ARTICLE III. - CABLE SERVICE PROVIDER AND VIDEO SERVICE PROVIDER: STATE FRANCHISE FEES
+
+Sec. 28-81. - Established.
+Pursuant to the provisions of O.C.G.A. § 36-76-6, there is hereby established an annual five percent franchise fee payable to Lee County by the holders of state cable service franchises and state video service franchises who operate or provide services within the unincorporated areas of Lee County. Such annual five percent franchise fee shall be paid by the holder of each state cable service franchise and video service franchise upon the gross annual revenues received by such state franchise holder from customers residing in the unincorporated areas of Lee County. Such franchise fees shall be paid directly to Lee County within 30 calendar days after the last day of each calendar quarter. In the event that such franchise fees are not paid in a timely manner, then the local government shall have authority to take such steps as are authorized under O.C.G.A. § 36-76-6(b) in order to collect such franchise fees.
+(Ord. of 1-22-2008)
+Secs. 28-82—28-100. - Reserved.
+ARTICLE IV. - 9-1-1 CHARGE ON PREPAID WIRELESS SERVICE
+
+Sec. 28-101. - 9-1-1 charge on prepaid wireless transactions.
+In accordance with O.C.G.A. § 46-5-134.2, there is hereby imposed a prepaid wireless 9-1-1 charge as defined by O.C.G.A. § 46-5-134.2(a)(4) upon every prepaid wireless retail transaction occurring within the jurisdiction of the public service answering point in the amount of 75 cents.
+(Ord. of 7-26-2011(1), § 1, eff. 1-1-2012)
+Sec. 28-102. - Collection of 9-1-1 charge on prepaid wireless transactions.
+Prepaid wireless 9-1-1 charges collected by sellers shall be remitted to the commissioner of the department of revenue at the times and in the manner provided by O.C.G.A. Chapter 8 of Title 48 with respect to the sales and use tax imposed on prepaid wireless calling service.
+(Ord. of 7-26-2011(1), § 2, eff. 1-1-2012)
+Sec. 28-103. - Administrative provisions.
+The clerk of the county is hereby directed to file with the State Revenue Commissioner a certified copy of the ordinance from which this article was derived and amendments thereto, in accordance with O.C.G.A. § 46-5-134.2(j)(1), within ten days of enactment of the ordinance.
+(Ord. of 7-26-2011(1), § 3, eff. 1-1-2012)
+Sec. 28-104. - Depositing of funds; use of funds.
+In accordance with O.C.G.A. § 46-5-134.2(j)(5), funds received by this county from charges imposed by the ordinance from which this article was derived shall be deposited in the emergency telephone system fund maintained by this county pursuant to O.C.G.A. § 46-5-134 and kept separate from general revenue of the jurisdiction; all such funds shall be used exclusively for the purposes authorized by O.C.G.A. § 46-5-134(f).
+(Ord. of 7-26-2011(1), § 4, eff. 1-1-2012)

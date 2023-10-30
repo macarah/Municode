@@ -1,0 +1,995 @@
+CHAPTER 5-1. - SEWER USE[1]
+
+Footnotes:
+--- (1) ---
+Editor's note— Ord. of 10-2-2018(1), § 1 , amended Ch. 5-1 in its entirety to read as herein set out. Former Ch. 5-1 pertained to similar subject matter and derived from Ord. of 10-3-95, § 1; Ord. of 7-2-96, § 1; Ord. of 7-7-98, § 1; Ord. of 7-6-99, § 1; Ord. of 5-7-2002, §§ 1, 2; Ord. of 5-6-2008, § 1; Ord. of 5-5-2009, § 1; Ord. of 10-6-2009, §§ 1, 2; Ord. of 2-7-2017(3), §§ 1—3; Ord. of 12-5-2017(1), § 1; Ord. of 7-5-2018, §§ 1—3.
+
+Sec. 5-1-1. - General provisions.
+(a)
+Purpose and policy. This chapter sets forth uniform requirements for users of the publicly owned treatment works (POTW) for Athens-Clarke County and enables Athens-Clarke County to comply with all applicable state and federal laws including the Clean Water Act (33 U.S.C. 1251 et seq.), and the General Pretreatment Regulations (40 CFR part 403). The objectives of this chapter are:
+(1)
+To prevent the introduction of pollutants into the POTW that will interfere with the operation of the POTW;
+(2)
+To prevent the introduction of pollutants into the POTW which will pass through the POTW, inadequately treated, into receiving waters or otherwise be incompatible with the POTW;
+(3)
+To ensure that the quality of the wastewater treatment plant sludge is maintained at a level which allows its use and disposal in compliance with applicable statutes and regulations;
+(4)
+To protect POTW personnel who may be affected by wastewater and sludge in the course of their employment and to protect the general public;
+(5)
+To improve the opportunity to recycle and reclaim wastewater and sludge from the POTW, enhancing the prospects for beneficial reuse;
+(6)
+To provide for fees for the equitable distribution of the cost of operation, maintenance and improvements to the POTW;
+(7)
+To enable Athens-Clarke County to comply with its NPDES permit conditions, sludge use and disposal requirements and any other federal or state laws to which the POTW is subject; and
+(8)
+To improve water quality in Athens-Clarke County.
+This chapter shall apply to all users of the POTW. This chapter authorizes the issuance of wastewater discharge permits; authorizes monitoring, compliance and enforcement activities; establishes administrative review procedures; requires user reporting; and provides for the setting of fees for the equitable distribution of costs resulting from the program established herein.
+(b)
+Administration. Except as otherwise provided herein, the public utilities director shall administer, implement and enforce the provisions of this chapter. Any powers granted or duties imposed upon the public utilities director may be delegated by the public utilities director to other public utilities department personnel.
+(c)
+Definitions. Unless a provision explicitly states otherwise, the following terms and phrases, as used in this chapter, shall have the meanings hereinafter designated.
+"Shall" is mandatory; "may" is permissive or discretionary. The use of the singular shall be construed to include the plural and the plural shall include the singular as indicated by the context of its use.
+(1)
+Act or the Act: The Federal Water Pollution Control Act, also known as the Clean Water Act, as amended, 33 U.S.C 1251 et seq.
+(2)
+Athens-Clarke County: The Unified Government of Athens Clarke County.
+(3)
+Authorized representative of the user:
+a.
+If the user is a corporation, authorized representative shall mean:
+1.
+The president, secretary, treasurer, or a vice-president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation;
+2.
+The manager of one or more manufacturing, production, or operation facilities employing more than 250 persons or having gross annual sales or expenditures exceeding $25 million, if authority to sign documents has been assigned or delegated to the manager in accordance with corporate procedures;
+b.
+If the user is a partnership, copartnership, limited liability company, or sole proprietorship, an authorized representative shall mean a general partner, manager or proprietor, respectively;
+c.
+If the user is a federal, state or local governmental facility, an authorized representative shall mean a director or highest official appointed or designated to oversee the operation and performance of the activities of the government facility, or his/her designee;
+d.
+The individuals described in paragraphs a, b, c above may designate another authorized representative if the authorization is in writing, the authorization specifies the individual responsible for the overall operation of the facility from which the discharge originates or having overall responsibility for environmental matters for the company, and the written authorization is submitted to public utilities director.
+(4)
+Biochemical oxygen demand (BOD): The quantity of oxygen utilized in the biochemical oxidation of organic matter under standard laboratory procedure, five (5) days at 20 degrees Celsius expressed in milligrams per liter (mg/l).
+(5)
+Biological substance: A substance from hospitals, medical clinics, medical laboratories, dental laboratories, dental clinics, health care facilities, necropsy facilities, research laboratories, biological research facilities, animal hospitals, veterinarian research facilities, or from other similar facilities, which 1) cannot be treated to acceptable levels by the wastewater treatment process, or 2) may contain either a pathogenic substance or an experimental biological substance.
+(6)
+Building drain: That part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste and other drainage pipes inside the walls of the building and conveys it to the building sewer, beginning five (5) feet outside the inner face of the building wall.
+(7)
+Building sewer: The extension from the building drain to the POTW or other place of disposal, also called house connection.
+(8)
+Categorical pretreatment standard or categorical standard: Any regulation containing pollutant discharge limits promulgated by the U.S. EPA in accordance with sections 307(b) and (c) of the Act (33 U.S.C. 1317) which apply to a specific category of industrial users and which appear in 40 CFR chapter I, subchapter N, parts 405-471.
+(9)
+Chemical oxygen demand (COD): A quantitative measure of the amount of oxygen required for the chemical oxidation of carbonaceous (organic) material in wastewater using inorganic dichromate or permanganate salts as oxidants in a two-hour test.
+(10)
+Color: The optical density at the visual wave length of maximum absorption, relative to distilled water. One hundred percent transmittance is equivalent to zero (0.0) optical density.
+(11)
+Commission: The Mayor and Commission of the Unified Government of Athens-Clarke County.
+(12)
+Composite sample: The sample resulting from the combination of individual wastewater samples taken at selected intervals based on an increment of either flow or time.
+(13)
+Domestic wastewater: Water-carried wastes of human origin, as opposed to commercial or industrial activities.
+(14)
+Easement: An acquired legal right for the specific use of land owned by others.
+(15)
+Effluent: The wastewater or other liquid which flows out of a basin, treatment process, or treatment plant.
+(16)
+Environmental Protection Agency or EPA: The U.S. Environmental Protection Agency or, where appropriate, the term may also be used as a designation for the regional water management division director or other duly authorized official of said agency.
+(17)
+Environmental Protection Division or EPD: The State of Georgia Department of Natural Resources Environmental Protection Division.
+(18)
+Existing source: Any source of discharge, the construction or operation of which commenced prior to the publication of proposed categorical pretreatment standards which will be applicable to such source if the standard is thereafter promulgated in accordance with section 307 of the Act.
+(19)
+Fats, Oils, and Grease or FOG: Free, emulsified, or dissolved material from mineral, animal, or vegetable sources. FOG shall be analyzed using EPA method 1664, latest revision, n-Hexane Extractable Material (HEM, Oil and Grease). Non-polar FOG (associated with mineral sources) shall be analyzed using EPA method 1664, latest revision, Silica-Gel Treated n-Hexane Extractable Material (SGT-HEM, Non-Polar Material). The terms "fats, oils, and grease," "oil and grease," "oil and grease substances," and "grease" shall be included within this definition.
+(20)
+Garbage: Solid wastes from the domestic and commercial preparation, cooking and dispensing of food, and from the handling, storage and sale of produce.
+(21)
+General pretreatment regulations: "The General Pretreatment Regulations for Existing and New Sources of Pollution," published in the Federal Register, 40 CFR 403, on June 26, 1978, and any revisions to same.
+(22)
+Grab sample: A sample which is taken from a waste stream on a one-time basis without regard to the flow in the waste stream and collected over a period of time not exceeding 15 minutes.
+(23)
+Grit: The heavy suspended mineral matter present in water or wastewater such as sand, gravel, or cinders.
+(24)
+Indirect discharge: The introduction of pollutants into the POTW from any nondomestic source regulated under section 307(b), (c) or (d) of the Act.
+(25)
+Industrial wastewater: Water-carried waste of commercial or industrial origin.
+(26)
+Industrial user: An industrial facility, such as a processing or manufacturing plant, discharging wastewaters from domestic, manufacturing, or other process sources to the POTW.
+(27)
+Instantaneous maximum allowable discharge limit: The maximum concentration (or loading) of a pollutant allowed to be discharged at any time, determined from the analysis of any discrete or composite sample collected, independent of the flow rate and the duration of the sampling event.
+(28)
+Interference: A discharge which alone or in conjunction with a discharge or discharges from other sources: 1) Inhibits or disrupts the POTW, its treatment processes or operations or its sludge processes, uses or disposal; and 2) therefore is a cause of a violation of Athens-Clarke County's NPDES permit or of the prevention of sewage sludge use or disposal in compliance with any of the following statutory/regulatory provisions or permits issued thereunder: section 405 of the Clean Water Act; the Solid Waste Disposal Act (SWDA), including Title II commonly referred to as the Resource Conservation and Recovery Act (RCRA); any state regulations contained in any state sludge management plan prepared pursuant to Subtitle D of the SWDA; the Clean Air Act; the Toxic Substances Control Act; and the Marine Protection, Research and Sanctuaries Act.
+(29)
+Mass limit: The weight of material discharged during a given time interval. Unless otherwise specified, the mass limit shall mean pounds per day of the particular constituent or combination of constituents.
+(30)
+Meat packing plants: Plants that carry out both the slaughtering and processing of cattle, calves, hogs, poultry, sheep, fish or other animals for the preparation of meat products and byproducts. The slaughtering of animals includes killing and hide removal in the case of cattle, calves and sheep; and scalding and dehairing for hogs; eviscerating; washing of carcasses; plucking of feathers in the case of fowl; washing of the carcasses and cooling. The processing function shall have as its main product fresh meat as whole, half or quarter carcasses or smaller meat cuts, sausages, cooked meats, cured meats, smoked meats, canned meats, frozen or fresh meat cuts, natural sausage casings and other prepared meats and meat specialties.
+(31)
+Medical waste: Isolation wastes, infectious agents, blood and blood byproducts, pathological wastes, sharps, body parts, fomites, etiologic agents, contaminated bedding, surgical wastes, potentially contaminated laboratory wastes and dialysis wastes.
+(32)
+National Pollutant Discharge Elimination System or NPDES permit: A permit issued to a POTW or an industry pursuant to section 402 of the Act (33 U.S.C. 1342).
+(33)
+New source:
+a.
+Any building, structure, facility or installation from which there is or may be a discharge of pollutants, the construction of which commenced after the publication of proposed pretreatment standards under section 307(c) of the Act (33 U.S.C. 1317) which will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:
+1.
+The building, structure, facility or installation is constructed at a site at which no other source is located; or
+2.
+The building, structure, facility or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or
+3.
+The production or wastewater generating processes of the building, structure, facility or installation are substantially independent of an existing source at the same site. In determining whether these are substantially independent, factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source, should be considered.
+b.
+Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of subsections a.2. or 3. above, but otherwise alters, replaces, or adds to existing process or production equipment.
+c.
+Construction of a new source as defined under this paragraph has commenced if the owner or operator has:
+1.
+Begun, or caused to begin as part of a continuous onsite construction program.
+i.
+Any placement, assembly, or installation of facilities or equipment, or
+ii.
+Significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or
+2.
+Entered into a binding contractual obligation for the purchase of facilities or equipment which are intended to be used in its operation within a reasonable time. Options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this paragraph.
+(34)
+Nonsignificant categorical industrial user: Industrial user subject to categorical pretreatment standards which discharges less than a total of 100 gallons per day of categorical process water.
+(35)
+Pass through: A discharge which exits the POTW into waters of the U.S. in quantities or concentrations which, alone or in conjunction with a discharge or discharges from other sources, is a cause of a violation of any requirement of Athens-Clarke County's NPDES permit (including an increase in the magnitude or duration of a violation).
+(36)
+Person: Any individual, partnership, copartnership, firm, company, corporation, joint stock company, trust, estate, governmental entity or any other legal entity, or their legal representatives, agents or assigns. This definition includes all federal, state or local governmental entities.
+(37)
+pH: A measure of the acidity or alkalinity of a substance, expressed in standard units.
+(38)
+Pollutant: Any dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, medical wastes, chemical wastes, industrial wastes, biological materials, radioactive materials, heat, wrecked or discharged equipment, rock, sand, cellar dirt, agricultural and industrial wastes, and the characteristics of the wastewater (i.e., pH, temperature, TSS, turbidity, color, BOD, COD, toxicity, odor.
+(39)
+Pretreatment: The reduction of the amount of pollutants, the elimination of pollutants, or the alteration of the nature of pollutant properties in wastewater prior to or in lieu of introducing such pollutants into the POTW. This reduction or alteration can be obtained by physical, chemical or biological processes, by processing changes, or by other means, except by diluting the concentration of the pollutants unless allowed by an applicable pretreatment standard.
+(40)
+Pretreatment requirements: Any substantive or procedural requirement related to pretreatment imposed on a user, other than a pretreatment standard.
+(41)
+Pretreatment standard or standards: Pretreatment standards shall mean prohibitive discharge standards, categorical pretreatment standards, and local limits.
+(42)
+Private wastewater disposal system: A wastewater disposal system requiring an absorption field, unless otherwise stated.
+(43)
+Properly shredded garbage: The wastes from the preparation, cooking and dispensing of food that have been shredded to such a degree that all particles will be carried freely under the flow conditions normally prevailing in public sewers, with no particle greater than one-half inch in any dimension.
+(44)
+Prohibited discharge standards or prohibited discharge: Absolute prohibitions against the discharge of certain substances; these prohibitions appear in section 5-1-2(c) of this chapter.
+(45)
+Publicly owned treatment works or POTW: A treatment works as defined by section 212 of the Act (33 U.S.C. 1292), which is owned by the state or municipality. This definition includes any devices or systems used in the collection, storage, treatment, recycling and reclamation of sewage or industrial wastes and any conveyances which convey wastewater to the POTW. The term also means the municipal entity having jurisdiction over the users and responsibility for the operation and maintenance of the treatment works.
+(46)
+Public utilities director: The person designated by Athens-Clarke County to supervise the operations of the POTW, and who is charged with certain duties and responsibilities by this chapter or his duly authorized representative.
+(47)
+Septic tank waste: Any sewage from holding tanks such as vessels, chemical toilets, campers, trailers, and septic tanks.
+(48)
+Sewage: Human excrement and gray water (household showers, dishwashing operations, etc.).
+(49)
+Sewer user charge: The sewer use charge includes the charges established annually by the Commission through which each sanitary sewer user pays for the use of the POTW to dispose of the user's wastewater. The total sewer user charge is the sum of the sewer user charge as defined herein plus the surcharge as defined in subparagraph (56).
+(50)
+Significant user: Any user of the wastewater system that i) discharges an average of 25,000 gpd or more of wastewater, ii) contributes a wastestream which makes up five (5) percent or more of the average dry weather hydraulic or organic capacity of the treatment plant or, iii) is designated as significant by Athens-Clarke County on the basis that the user has a reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement.
+(51)
+Significant noncompliance: Significant noncompliance is defined in section 5-1-9.
+(52)
+Sludge: The accumulated settleable solids separated from liquids, such as water or wastewater, during processing.
+(53)
+Slug load: Any discharge at a flow rate or concentration which could cause a violation of the prohibited discharge standards in section 5-1-2(c) of this chapter or any discharge of a non-routine, episodic nature, including, but not limited to, an accidental spill or a non-customary batch discharge.
+(54)
+Standard Industrial Classification (SIC) Code: A classification pursuant to the Standard Industrial Classification Manual issued by the U.S. Office of Management and Budget.
+(55)
+Stormwater: Any flow occurring during or following any form of natural precipitation, and resulting therefrom, including snowmelt.
+(56)
+Surcharge: A sewer use charge based on pollutant concentrations in excess of the domestic wastewater concentrations contained in Table 5-1-2(f).
+(57)
+Suspended solids: The total suspended matter that floats on the surface of, or is suspended in, water, wastewater, or other liquid, and which is removable by laboratory filtering.
+(58)
+Toxic pollutant: One of the pollutants, or combination of those pollutants, listed as toxic in regulations promulgated by the EPA under the provision of section 307 (33 U.S.C. 1317) of the Act.
+(59)
+Treatment plant effluent: Any discharge of pollutants from the POTW into waters of the state.
+(60)
+User or sewer user: Any source of indirect discharge into the POTW.
+(61)
+Wastewater: Liquid and water-carried industrial wastes, and sewage from residential dwellings, commercial buildings, industrial and manufacturing facilities, and institutions, whether treated or untreated, which are contributed to the POTW.
+(62)
+Wastewater treatment plant or treatment plant: That portion of the POTW designed to provide treatment of sewage and industrial waste.
+(d)
+Abbreviations: The following abbreviations shall have the designated meanings:
+BOD - five-day biochemical oxygen demand
+CFR - Code of Federal Regulations
+COD - chemical oxygen demand
+EPA - U.S. Environmental Protection Agency
+EPD - Georgia Department of Natural Resources Environmental Protection Division
+FOG - Fats, oils, and grease
+Gpd - gallons per day
+mg/l - milligrams per liter
+NPDES - National Pollutant Discharge Elimination System
+O&M - operation and maintenance
+POTW - publicly owned treatment works
+RCRA - Resource Conservation and Recovery Act
+SIC - standard industrial classifications
+SWDA - Solid Waste Disposal Act (42 U.S.C. 6901 et seq.)
+TKN - total Kjeldahl nitrogen
+TP - total phosphorus
+TSS - total suspended solids
+USC - United States Code
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-2. - General sewer use requirements.
+(a)
+Use of public sewers required:
+(1)
+Disposal of human and animal waste required. It shall be unlawful for any person to place, deposit, or permit to be deposited in any unsanitary manner on public or private property within Athens-Clarke County, or in any area under the jurisdiction of Athens-Clarke County, any human or animal excrement or garbage.
+Definition: As used in the exception provided for below, "gray water" means wastewater discharged from residential lavatories, bathtubs, showers, clothes washers, and laundry trays.
+Exception: Private residential direct reuse of gray water shall be lawful if the following conditions are met:
+a.
+Gray water originating from the residence shall be used and contained within the property boundary for household gardening, composting, lawn watering, or landscape irrigation;
+b.
+Gray water shall not be used for irrigation of food plants;
+c.
+The gray water shall not contain hazardous chemicals derived from activities such as cleaning car parts, washing greasy or oily rags, or disposing of waste solutions from home photo labs or similar hobbyist or home occupational activities;
+d.
+The application of gray water shall be managed to minimize standing water on the surface;
+e.
+The application of gray water shall be outside the floodway;
+f.
+The gray water shall not contain water used to wash diapers or similarly soiled or infectious garments unless the gray water is disinfected before irrigation; and
+g.
+The gray water shall be applied only by hand watering using garden watering cans or similar hand-held containers.
+The enforcement and administration of the exception provided for above will be in accordance with enforcement and administrative provisions of Chapter 5-1.
+(2)
+Discharge to natural outlets. It shall be unlawful to discharge to any natural outlet within Athens-Clarke County, or in any area under the jurisdiction of Athens-Clarke County, any wastewater or other polluted waters, except where suitable treatment has been provided in accordance with subsequent provisions of this chapter.
+(3)
+Privy, septic tank, cesspool or other facilities. Except as hereinafter provided, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool or other facility intended or used for the disposal of wastewater.
+(4)
+Toilet facilities and connection to public sewer required. The owner(s) of all houses, buildings or properties used for human and/or animal occupancy, employment, recreation or other purposes, situated within Athens-Clarke County and abutting on any street, alley or right-of-way in which there is now located, or may in the future be located, a public sanitary sewer of said Athens-Clarke County is hereby required at the owner's expense, to install suitable toilet facilities therein and to connect such facilities directly with the proper public sewer in accordance with the provisions of this chapter within 30 days after the date of official notice to do so; provided the public sewer is within 200 feet of the property line.
+(5)
+Maintenance of private building sewers. All sewer users, including all residential sewer users, are required to maintain building sewers and other private sewer lines and laterals in good condition and in accordance with the International Property Maintenance Code Section 506.2. Such private sewers shall be maintained to prevent infiltration and inflow of surface water and/or groundwater, and to prevent sewage from entering the storm sewer system or surface waters.
+(6)
+Force main connections. It shall be unlawful for any person, without the consent of the mayor and commission, to connect to the Athens-Clarke County sanitary sewage system by means of any force main from a pumping facility or apparatus. If any person should desire to connect a force sanitary sewer main with the sewage system of Athens-Clarke County, such person shall make written application to the mayor and commission. Such application shall be accompanied by detailed plans and specifications of such proposal, together with such other pertinent information as may be required by the Athens-Clarke County Public Utilities Department. The mayor and commission shall proceed to act on such application and shall take into consideration whether or not such would impose a burden on Athens-Clarke County, and in this connection shall consider the useful life of the plumbing facility, the replacement cost thereof, maintenance and repairs thereof, power costs, inflationary trends and any other costs or expense factors in connection therewith. After considering such factors, the mayor and commission may require the deposit of a sum of money with Athens-Clarke County by the applicant to compensate Athens-Clarke County for the burden thereof. The mayor and commission may require the conveyance of such pumping facility, together with all appurtenances connected therewith, to Athens-Clarke County, together with such certificates of title or evidence of ownership as might be required by Athens-Clarke County. It is the intent of this provision that such pumping facility should not become a burden to Athens-Clarke County in operating and maintaining the same. The mayor and commission shall then deny or grant such request.
+One-family residences and duplexes containing two-family units are exempted from the provisions of this section; except, that a permit shall be obtained by the owner thereof from the Athens-Clarke County Building Permits and Inspection Department prior to installing a sewage pumping device to any sanitary line which connects with the POTW. The plans and design of any such device shall be approved by the Athens-Clarke County Building Permits and Inspection Department prior to installation.
+Any person who shall violate the provisions of this section may, after notice and hearing before administrative hearing officer, have his sewer and other Athens-Clarke County utility services discontinued, in the discretion of the administrative hearing officer.
+(b)
+Private wastewater disposal systems:
+(1)
+Provisions for private system. Where a public sanitary sewer is not available under the provisions of section 5-1-2(a)(4), building sewers shall be connected to private wastewater disposal systems complying with the provisions of this section. A private wastewater disposal system shall be a wastewater disposal system requiring an absorption field, unless otherwise stated.
+(2)
+Permit and fees. Before commencement of construction of a private wastewater disposal system the owner(s) shall first obtain a written permit signed by the plumbing inspector. The application for such permit shall be made on a form furnished by the Athens-Clarke County Building Permits and Inspection Department, which the applicant shall supplement by any plans, specifications, and other information as are deemed necessary by the plumbing inspector. Permit fees as required by the Athens-Clarke County Plumbing Code shall be paid to Athens-Clarke County at the time the application is filed.
+(3)
+Inspection of construction. A permit for a private wastewater disposal system shall not become effective until the installation is completed to the satisfaction of the plumbing inspector. The plumbing inspector shall be allowed to inspect the work at any stage of construction, and, in any event, the applicant for the permit shall notify the plumbing inspector when the work is ready for final inspection, and before any underground portions are covered. The inspections shall be made in a reasonable length of time by the plumbing inspector.
+(4)
+Design specifications. The type, capacities, location, and layout of a private wastewater disposal system shall comply with all recommendations of the Clarke County Health Department Sanitarian. No permit shall be issued for any private wastewater disposal systems employing subsurface soil disposal where the lot area is less than the minimum requirements specified by the Clarke County Health Department Sanitarian. No septic tank or cesspool shall be permitted to discharge to any natural outlet.
+(5)
+Connecting existing system to the public sewer. At such time as a public sewer becomes available to a property served by a private wastewater disposal system, as provided in section 5-1-2(a)(4), a direct connection shall be made to the public sewer within 30 calendar days in compliance with this chapter; provided, that a person shall be entitled to continue to utilize any private wastewater disposal system which may be in use at the time the public sewer becomes available within 200 feet of property line for so long as such system functions properly for the treatment of wastewater as determined by the public utilities director.
+(6)
+Operation and maintenance. The owner(s) shall operate and maintain the private wastewater disposal facilities in a sanitary manner at all times in accordance with the conditions of the operating permit, at no expense to Athens-Clarke County. All sludges and byproducts of private wastewater facilities shall be disposed of as provided by section 5-1-3(e) of this chapter. Such facilities shall be subject to inspection by the Clarke County Sanitarian at reasonable times. Athens-Clarke County recommends that septic tank disposal systems be inspected on intervals of not less than every five years, and maintenance performed as needed, at the owner's expense.
+(7)
+Requirements of other authorities. No requirement contained in this Article shall be construed to relieve the applicant of any additional requirements that may be imposed by other authorities having legal jurisdiction.
+(c)
+Prohibited discharge standards. No user shall introduce or cause to be introduced into the POTW any pollutant or wastewater which causes pass through or interference. These general prohibitions apply to all users of the POTW whether or not they are subject to categorical pretreatment standards or any other National, State or local pretreatment standards or requirement. Furthermore, no user may contribute the following substances to the POTW:
+(1)
+Pollutants which create a fire or explosive hazard in the POTW, including, but not limited to wastestreams with a closed-cup flashpoint of less than 140 degrees Fahrenheit (60 degrees Celsius) using the test methods specified in 40 CFR 261.21.
+(2)
+Any wastewater having a pH less than 5.5 or more than 10.0, or otherwise causing corrosive structural damage to the POTW or equipment, or endangering Athens-Clarke County personnel.
+(3)
+Solid or viscous substances in amounts which, alone or in conjunction with other pollutants, will cause obstruction of the flow in the POTW resulting in interference, but in no case solids greater than one and one-half (1½) inches in any dimension. This includes, but is not limited to, wastepaper, wood, plastics, sheets, towels, personal wet wipes and other waste that does not disintegrate in the POTW.
+(4)
+Any wastewater containing pollutants, including oxygen-demanding pollutants (BOD, COD, etc.), released in a discharge at a flow rate and/or pollutant concentration which, either singly or by interaction with other pollutants, will cause interference with either the POTW; or any wastewater treatment or sludge process, or which will constitute a hazard to humans or animals.
+(5)
+Any wastewater having a temperature greater than 150 degrees Fahrenheit, or which will inhibit biological activity in the treatment plant resulting in interference, but in no case wastewater which causes the temperature at the introduction into the treatment plant to exceed 104 degrees Fahrenheit.
+(6)
+Petroleum oil, nonbiodegradable cutting oil, or products of mineral oil origin (non-polar FOG), in excess of 100 mg/l.
+(7)
+Any pollutants which result in the presence of toxic gases, vapors or fumes within the POTW in a quantity that may cause acute worker health and safety problems.
+(8)
+Any trucked or hauled pollutants, except at discharge points designated by Athens-Clarke County in accordance with section 5-1-3(e).
+(9)
+Any noxious or malodorous liquids, gases, solids, or other wastewater which, either singly or by interaction with other wastes, are sufficient to create a public nuisance, a hazard to life, or to prevent entry into the sewers for maintenance and repair.
+(10)
+Any wastewater which imparts color which cannot be removed by the POTW treatment process, such as, but not limited to, dye wastes and vegetable tanning solutions, which consequently imparts color to the treatment plant's effluent. Color (in combination with turbidity) shall not cause the treatment plant effluent to reduce the depth of the compensation point for photosynthetic activity by more than ten percent from the seasonably established norm for aquatic life.
+(11)
+Any wastewater which results in secondary effluent from a POTW treatment plant having ultraviolet transmittance less than the design basis for such plant's ultraviolet disinfection process.
+(12)
+Any wastewater containing any radioactive wastes or isotopes except as specifically approved by the public utilities director in compliance with applicable State or Federal regulations.
+(13)
+Stormwater, surface water, ground water, artesian well water, roof runoff, subsurface drainage, condensate, deionized water, and unpolluted industrial wastewater, unless specifically authorized by the public utilities director.
+(14)
+Non-contact cooling tower water may be discharged to the POTW only if the system operates at four or more cycles of concentration. New non-contact cooling towers that discharge to the POTW shall include conductivity controllers, make-up flow meters, and blowdown flow meters.
+(15)
+Any sludges, screenings, or other residues from the pretreatment of wastes.
+(16)
+Any medical wastes or biological substances, except as specifically authorized by the public utilities director.
+(17)
+Any wastewater, alone or in conjunction with other sources, causing the treatment plant's effluent to fail a toxicity test.
+(18)
+Any wastes containing detergents, surface active agents, or other substances which may cause excessive foaming in the POTW.
+(19)
+Any wastewater causing two readings on an explosion hazard meter at the point of discharge into the POTW, or at any point in the POTW, of more than five percent (5%) or any single reading over ten percent (10%) of the Lower Explosive Limit (LEL) of the meter. Materials specifically prohibited from discharge into the POTW include gasoline, kerosene, naphtha, fuel oil, paints, solvents, or any other substance which may cause a fire or explosion hazard to the POTW.
+(20)
+Any garbage that has not been properly shredded; however, the installation and operation of any garbage grinder equipped with a motor of one-half (½) horsepower or greater, or will allow particle size of one-half (½) inch in any dimension or greater to be discharged to the sewer system shall be subject to the review and approval of Athens-Clarke County. Discharge of ground paper products to the sewer system is prohibited.
+(21)
+Non-residential facilities (all facilities except houses and apartments) are prohibited from disposing of medications to the sewer except as authorized by the public utilities director. Residential customers are not prohibited from disposing of medications to the sewer; however, they are encouraged to use alternative disposal practices, including disposal with municipal solid waste facilities or voluntary take-back programs, to the extent that such practices are acceptable to the US Drug Enforcement Agency.
+(22)
+Any hauled waste from facilities that treat, store, or transfer waste from sources outside the facility grounds, such as a centralized waste facility, transfer station, or landfill.
+Wastes prohibited by this section shall not be processed or stored in such a manner that they could be discharged to the POTW. All floor drains located in process or materials storage areas must discharge to the user's pretreatment facility before connecting with the POTW.
+(d)
+Federal categorical pretreatment standards. The national categorical pretreatment standards found at 40 CFR chapter I, subchapter N, parts 405-471 are hereby incorporated. Any amendments thereto are hereby incorporated herein.
+(e)
+Specific pollutant limitations. The following pollutant limits in Table 5-1-2(e) are established to protect against pass through, interference and sludge contamination at the North Oconee and Middle Oconee WRFs. Other than hauled waste, no person shall discharge wastewater containing in excess of the following maximum daily average concentrations and the instantaneous maximum allowable concentration for cyanide unless allowed by a wastewater discharge permit.
+Table 5-1-2(e). Specific Pollutant Limitations for North Oconee
+and Middle Oconee WRF Indirect Discharges
+EXPAND
+Pollutant North Oconee WRF Collection System Middle Oconee WRF Collection System
+Maximum Daily Average Concentration (mg/l) Maximum Instantaneous Concentration (mg/l) Maximum Daily Average Concentration (mg/l) Maximum Instantaneous Concentration (mg/l)
+Arsenic 0.14 0.48
+Cadmium 0.15 0.11
+Chromium 32.6 10
+Copper 3.40 0.91
+Cyanide Not applicable 1.05 Not applicable 1.15
+Lead 2.64 0.48
+Mercury 0.00025 0.0072
+Nickel 8.77 5.7
+Selenium 0.30 1.0
+Silver 0.25 0.76
+Zinc 13.6 16
+Phenol Not applicable 42
+  (1)
+Specific pollutant limitations apply at the point where the waste is discharged to the POTW (or to an upstream collection system such as the one owned and operated by the University of Georgia). All concentrations include soluble and particulate forms and all oxidation states (as applicable) unless indicated otherwise.
+(2)
+The mercury concentration limit for the North Oconee WRF collection system is less than the reporting limit for EPA method 245.7. Compliance must be demonstrated using a "low level" analytical method with reporting limit no higher than the concentration limit.
+(f)
+Conventional pollutant limitations. The conventional pollutant limits in Table 5-1-2(f) are established to protect the POTW throughout the wastewater collection system and at all WRFs. Other than hauled waste, no person shall discharge wastewater containing in excess of the following maximum daily average concentrations.
+Table 5-1-2(f). Conventional Pollutant
+Limitations for All Indirect Discharges
+EXPAND
+Pollutant Domestic Wastewater Concentration (mg/l) Maximum Daily Average Concentration (mg/l)
+5-Day biochemical oxygen demand (BOD) 250 1,100
+Total suspended solids (TSS) 250 1,100
+Total Kjeldahl nitrogen (TKN) 50 180
+Total phosphorus (TP) 6 60
+Polar fats, oils, and grease
+(FOG) 100 200
+Non-polar oils Not applicable 100
+  (g)
+Discharges with pollutant concentrations in excess of those for domestic wastewater stated above may result in a surcharge, as described in Sections 5-1-1(c)(56), 5-1-42 and 5-1-43(c), unless superseded by a mass limit contained in an Industrial Pretreatment Permit issued by Athens-Clarke County.
+(h)
+The concentration limit for oxidized nitrogen (nitrate plus nitrite, as nitrogen) shall be 0.5 mg/l more than the oxidized nitrogen concentration in Athens-Clarke County potable water supply to a facility.
+(i)
+Concentrations apply at the point where the waste is discharged to the POTW. For process discharges less than 25,000 gallons over 24 hours, the public utilities director may impose mass limitations for any parameter identified in subparagraph (e) or (f) calculated at 25,000 gpd in addition to or in place of the concentration-based limitations above, even if the equivalent concentration at flows less than 25,000 gpd exceed the concentration limits stated in subsection (e) or (f).
+(j)
+Athens-Clarke County's right of revision. Athens-Clarke County reserves the right to establish, by ordinance or in wastewater discharge permits, more stringent standards or requirements on discharges to the POTW if deemed necessary to comply with the objectives presented in section 5-1-1 of this chapter or the general and specific prohibitions in section 5-1-2(c) of this chapter.
+(k)
+Special agreement. Athens-Clarke County reserves the right to enter into special agreements with users setting out special terms under which they may discharge to the POTW. In no case will a special agreement waive compliance with a pretreatment standard or requirement. However, the industrial user may request a net gross adjustment to a categorical standard in accordance with 40 CFR 403.15. The user may also request a variance from the categorical pretreatment standard from EPA. Such a request will be approved only if the industrial user can prove that factors relating to its discharge are fundamentally different from the factors considered by EPA when establishing that pretreatment standard. An industrial user requesting a fundamentally different factor variance must comply with the procedural and substantive provisions in 40 CFR 403.13.
+(l)
+Dilution. No user shall ever increase the use of process water, or in any way attempt to dilute a discharge, as a partial or complete substitute for adequate treatment to achieve compliance with a discharge limitation unless expressly authorized by an applicable pretreatment standard or requirement. The public utilities director may impose mass limitations on users which are using dilution to meet applicable pretreatment standards or requirements or in other cases when the imposition of mass limitations is appropriate.
+( Ord. of 10-2-2018(1), § 1 ; Ord. of 5-5-2020(3), §§ 1, 2 )
+Sec. 5-1-3. - Pretreatment of wastewater.
+(a)
+Pretreatment facilities. Users shall provide necessary wastewater treatment as required to comply with this chapter and shall achieve compliance with all categorical pretreatment standards, local limits and the prohibitions set out by the public utilities director, whichever is more stringent. Any facilities required to pretreat wastewater to a level acceptable to Athens-Clarke County shall be provided, operated, and maintained at the user's expense. Detailed plans showing the pretreatment facilities and operating procedures shall be submitted to Athens-Clarke County for review, and shall be acceptable to Athens-Clarke County before construction of the facility. The review of such plans and operating procedures will in no way relieve the user from the responsibility of modifying the facility as necessary to produce an acceptable discharge to the POTW under the provisions of this chapter.
+(b)
+Additional pretreatment measures:
+(1)
+Meat packing plant requirements. No meat packing or allied products plants shall discharge waste or water into the POTW unless the following conditions are met:
+a.
+There shall be a separation of domestic wastewater from the bathrooms and the packing wastewater. The domestic wastewater from all bathrooms may be emptied directly into the POTW. If there are floor drains in the bathroom area, these drains must be so arranged that no byproducts of production can be emptied directly or indirectly into them.
+b.
+All meat packing wastewater, before entering the POTW, must pass through a 30 divisions per inch by 20 divisions per inch mesh vibrating screen or a device that will provide a complete separation of feathers, hair, offal and other packing byproducts. All floor drains or outside drains in pits shall be so connected that they will go through this screening process and no traps left available where covers may be raised and feathers, hair, offal and other packing byproducts emptied to go into the POTW without first going through these screens.
+c.
+All plants shall furnish at their expense a layout showing the arrangement of their wastewater piping or troughs to be approved by Athens-Clarke County.
+d.
+If sufficient fall is not available at the packing plants for effective screening, then a system of pumping of the wastewater to provide the screening must be provided at the owner's expense to adequately accomplish the screening.
+e.
+All meat processors not covered under this meat packing section will be subject to the provisions of section 5-1-2(i).
+(2)
+Control of discharge. As a result of upset to the POTW (existing or potential), the public utilities director may require a user to restrict its discharge during peak flow periods, designate that certain wastewater be discharged only into specific sewers, relocate and/or consolidate points of discharge, separate sewage wastestreams from process wastestreams, and such other conditions as may be necessary to protect the POTW and determine the user's compliance with the requirements of this chapter.
+(3)
+Sand interceptors. Sand interceptors shall be provided when, in the opinion of the public utilities director, they are necessary for the proper handling of wastewater containing excessive amounts of sand; except that such interceptors shall not be required for residential users. All sand interception units shall be of type and capacity approved by the public utilities director and shall be so located to be easily accessible for cleaning and inspection. Such interceptors shall be inspected, cleaned, and repaired regularly, as needed, by the owner at his expense.
+(4)
+Flammable substances. Users with the potential to discharge flammable substances may be required to install and maintain an approved combustible gas detection meter.
+(c)
+Accidental discharge/slug control plans. The public utilities director may require any user to develop and implement an accidental discharge/slug control plan. At least once every two years the public utilities director shall evaluate whether each significant user needs such a plan. Any user required to develop and implement an accidental discharge/control slug plan shall submit a plan which addresses, at a minimum, the following:
+(1)
+Description of discharge practices, including non-routine batch discharges.
+(2)
+Description of stored chemicals.
+(3)
+Procedures for immediately notifying the POTW of any accidental or slug discharge. Such notification must also be given for any discharge which would violate any of the prohibited discharges in section 5-1-2 (c) of this chapter.
+(4)
+Procedures to prevent adverse impact from any accidental or slug discharge. Such procedures include, but are not limited to, inspection and maintenance of storage areas, handling and transfer of materials, loading and unloading operations, control of plant site run-off, worker training, building of containment structures or equipment, measures for containing toxic organic pollutants (including solvents), and/or measures and equipment for emergency response.
+(d)
+Tenant responsibility. Where an owner of property leases premises to any other person as a tenant under any rental or lease agreement, if either the owner or the tenant is an user, either or both may be held responsible for compliance with the provisions of this chapter.
+(e)
+Hauled wastewater:
+(1)
+Septic tank waste may be accepted into the POTW at a designated receiving structure within the treatment plant area, and at such times as are established by the public utilities director, provided such wastes do not cause the WRF to violate its permit, fail a toxicity test, or cause interference or pass through. Wastewater discharge permits for individual vehicles to use such facilities shall be issued by the public utilities director.
+(2)
+The discharge of hauled industrial wastes requires prior approval and a wastewater discharge permit from Athens-Clarke County. Only wastes generated within Athens-Clarke County will be accepted. The public utilities director shall have authority to prohibit the disposal of such waste if such disposal would interfere with the treatment plant operation. Waste haulers are subject to all other sections of this chapter. A manifest system will be utilized for each truckload of industrial waste to document where the industrial waste was generated.
+(3)
+Any person, firm or corporation desiring to discharge or empty any septic tank or portable toilet contents shall be certified in accordance with Rules and Regulations for Individual Sewage Disposal System, chapter 270-5-25, Georgia Department of Human Resources and the Clarke County Board of Health.
+(4)
+Septage and portable toilets: No person, firm or corporation shall discharge or empty any matter or contents of a septic tank and portable toilets into the wastewater system of Athens-Clarke County without paying the charge as established by resolution of the Mayor and Commission and discharging the same at the point hereinafter indicated. The public utilities director shall have the authority to limit or prohibit the disposal of wastes generated outside of Athens-Clarke County if such disposal would interfere with the treatment plant operations.
+The method of payments for utilizing this service shall be based on procedures as approved by the public utilities director. The point of emptying of the same shall be at the Cedar Creek Water Reclamation Facility or as directed by the public utilities director. A manifest system will be utilized for each truckload of septage to document where the septage was generated.
+(5)
+Portable toilet waste shall contain only domestic wastewater and those chemicals approved for use in portable toilets.
+(6)
+No person, firm or corporation shall discharge or empty any matter or contents of grease, oil or sand interceptors into any part of the wastewater collection and treatment system of Athens-Clarke County.
+(7)
+Liquid wastes or byproducts transported over highways or public roads or streets of ACC shall be in watertight and completely covered containers or vehicles.
+(f)
+Vandalism. No person shall maliciously, willfully or negligently break, damage, destroy, uncover, deface, tamper with or prevent access to any structure, appurtenance or equipment, or other part of the POTW. Any person found in violation of this requirement shall be subject to the provisions set out in sections 5-1-10 through 5-1-12.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-4. - Wastewater discharge permit eligibility.
+(a)
+Wastewater survey. When requested by the public utilities director all users must submit information on the nature and characteristics of their wastewater by completing a wastewater survey prior to commencing their discharge. The public utilities director is authorized to prepare a form for this purpose and may periodically require users to update the survey. Failure to complete this survey shall be reasonable grounds for terminating water and sewer service to the user and shall be considered a violation of this chapter.
+(b)
+Wastewater discharge permit requirement:
+(1)
+It shall be unlawful for any significant user to discharge wastewater into the POTW without first obtaining a wastewater discharge permit from the public utilities director. Any violation of the terms and conditions of a wastewater discharge permit shall be deemed a violation of this chapter and subjects the wastewater discharge permittee to the provisions set out in sections 5-1-10 through 5-1-12. Obtaining a wastewater discharge permit does not relieve a permittee of its obligation to comply with all federal and state pretreatment standards or requirements or with any other requirements of federal, state and local law.
+(2)
+The public utilities director may require other users, including liquid waste haulers, to obtain wastewater discharge permits as necessary to carry out the purposes of this chapter.
+(c)
+Wastewater discharge permitting existing connections. Any significant user which discharges waste into the POTW prior to the effective date of this chapter and who wishes to continue such discharges in the future, shall, within 60 calendar days after said date, apply to Athens-Clarke County for a wastewater discharge permit in accordance with subsection 5-1-4(f) below and shall not cause or allow discharges to the POTW to continue after 120 calendar days of the effective date of this chapter except in accordance with a wastewater discharge permit issued by the public utilities director.
+(d)
+Wastewater discharge permitting new connections. Any significant user proposing to begin or recommence discharging wastes into the POTW must obtain a wastewater discharge permit prior to the beginning or recommencing of such discharge. An application for this wastewater discharge permit must be filed at least 60 calendar days prior to the date upon which any discharge will begin.
+(e)
+Wastewater discharge permitting extra-jurisdictional users. All user connections to the POTW which are outside the corporate boundary of Athens-Clarke County shall comply with the prohibitions stated in Section 5-1-2(c) and shall meet the categorical, specific and conventional pollutant limits stated in Section 5-1-2(d), (e) and (f) of this chapter.
+(f)
+Wastewater discharge permit application contents. In order to be considered for a wastewater discharge permit, all significant users required to have a wastewater discharge permit must submit the information required by section 5-1-6(a) of this chapter. The public utilities director shall approve a form to be used as a permit application. In addition, the following information may be requested:
+(1)
+Description of activities, facilities, and plant processes on the premises, including a list of all raw materials and chemicals used or stored at the facility which are, or could accidentally or intentionally be, discharged to the POTW.
+(2)
+Hours of operation, and proposed or actual hours of operation of the facility.
+(3)
+Each product produced by type, amount, process or processes, and rate of production.
+(4)
+Type and amount of raw materials processed (average and maximum per day).
+(5)
+The site plans, floor plans, mechanical and plumbing plans, and details to show all sewers, floor drains, and appurtenances by size, location, and elevation, and all points of discharge.
+(6)
+Plans, specifications, and operating procedures for wastewater pretreatment facilities shall be submitted to the Athens-Clarke County public utilities department for review in accordance with accepted engineering practices.
+(7)
+Time and duration of the discharge.
+(8)
+Average and peak flow rates for all process and nonprocess flows.
+(9)
+Any other information as may be deemed necessary by the public utilities director to evaluate the wastewater discharge permit application.
+Incomplete or inaccurate applications will not be processed and will be returned to the user for revision.
+(g)
+Application signatories and certification. All wastewater discharge permit applications and user reports must contain the following certification statement and be signed by an authorized representative of the user.
+"I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designated to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information submitted is to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations."
+(h)
+Wastewater discharge permit decisions. The public utilities director will evaluate the data furnished by the user and may require additional information. Within 30 days of receipt of a complete wastewater discharge permit application, the public utilities director will determine whether or not to issue a wastewater discharge permit. If no determination is made within this time period, the application will be deemed denied. The public utilities director may deny any application for a wastewater discharge permit.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-5. - Wastewater discharge permit issuance process.
+(a)
+Wastewater discharge permit duration. Wastewater discharge permits shall be issued for a specified time period, not to exceed five (5) years. A wastewater discharge permit may be issued for a period of less than five (5) years, at the discretion of the public utilities director. Each wastewater discharge permit will indicate a specific date upon which it will expire.
+(b)
+Wastewater discharge permit contents. Wastewater discharge permits shall include such conditions as are reasonably deemed necessary by the public utilities director to prevent pass through or interference, protect the quality of the water body receiving the treatment plant's effluent, protect worker health and safety, facilitate sludge management and disposal, protect ambient air quality, and protect against damage to the POTW.
+(1)
+Wastewater discharge permits must contain the following conditions:
+a.
+A statement that indicates wastewater discharge permit duration, which in no event shall exceed five (5) years.
+b.
+A statement that the wastewater discharge permit is nontransferable without prior notification to and approval from Athens-Clarke County and provisions for furnishing the new owner or operator with a copy of the existing wastewater discharge permit.
+c.
+Effluent limits applicable to the user based on applicable standards in federal, state, and local law.
+d.
+Self-monitoring, sampling, reporting, notification, and record keeping requirements. These requirements shall include an identification of pollutants to be monitored, sampling location, sample frequency, and sample type based on federal, state, and local law.
+e.
+Statement of applicable civil, criminal, and administrative penalties for violation of pretreatment standards and requirements, and any applicable compliance schedule. Such schedule may not extend the time for compliance beyond that required by applicable federal, state, or local law.
+(2)
+Wastewater discharge permits may contain, but need not be limited to, the following:
+a.
+Limits on the average and/or maximum rate of discharge, time of discharge, and/or requirements for flow regulation and equalization.
+b.
+Limits on the instantaneous, daily and monthly average and/or maximum concentration, mass, or other measure of identified wastewater pollutants or properties.
+c.
+Requirements for the installation of pretreatment technology, pollution control, or construction of appropriate containment devices, designed to reduce, eliminate, or prevent the introduction of pollutants into the POTW.
+d.
+Development and implementation of spill control plans or other special conditions including management practices necessary to adequately prevent accidental, unanticipated, or nonroutine discharges.
+e.
+Development and implementation of waste minimization plans to reduce the amount of pollutants discharged to the POTW.
+f.
+The unit charge or schedule of user charges and fees for the management of the wastewater discharged to the POTW.
+g.
+Requirements for installation and maintenance of inspection and sampling facilities and equipment.
+h.
+A statement that compliance with the wastewater discharge permit does not relieve the permittee of responsibility for compliance with all applicable federal and state pretreatment standards, including those which become effective during the term of the wastewater discharge permit.
+i.
+Other conditions as deemed appropriate by the public utilities director to ensure compliance with this chapter, and state and federal laws, rules, and regulations.
+(c)
+Wastewater discharge permit appeals. Any person, including any user, may petition Athens-Clarke County in writing to reconsider the terms or the denial of a wastewater discharge permit within 30 calendar days of its issuance. Said petition shall be heard by the administrative hearing officer.
+(1)
+Failure to submit a petition for reconsideration shall be deemed to be a waiver of the administrative appeal.
+(2)
+In its petition, the appealing party must indicate the wastewater discharge permit provisions objected to, the reasons for this objection, and the alternative condition, if any, it seeks to place in the wastewater discharge permit.
+(3)
+The effectiveness, applicability and enforceability of the wastewater discharge permit shall not be stayed pending the appeal.
+(4)
+If Athens-Clarke County fails to act within 30 calendar days of receipt of a petition for reconsideration, such petition for reconsideration shall be deemed to be denied. Decisions not to reconsider a wastewater discharge permit, not to issue a wastewater discharge permit, or not to modify a wastewater discharge permit, shall be considered final administrative action for purposes of judicial review.
+(5)
+Aggrieved parties seeking judicial review of the final administrative wastewater discharge permit decision shall have the right thereof in accordance with law by writ of Certiorari to the Superior Court within 30 days of such final determination.
+(d)
+Wastewater discharge permit modification. The public utilities director may modify the wastewater discharge permit for good cause including, but not limited to, the following:
+(1)
+To incorporate any new or revised federal, state, or local pretreatment standards or requirements.
+(2)
+To address significant alterations or additions to the user's operation, process, or wastewater volume or character since the time of wastewater discharge permit issuance.
+(3)
+A change in the POTW that requires either a temporary or permanent reduction or elimination of the authorized discharge.
+(4)
+Information indicating that the permitted discharge poses a threat to the POTW, Athens-Clarke County personnel, or the receiving waters.
+(5)
+Violation of any terms or conditions of the wastewater discharge permit.
+(6)
+Misrepresentations or failure to fully disclose all relevant facts in the wastewater discharge permit application or in any required reporting.
+(7)
+Revision of or a grant of variance from categorical pretreatment standards pursuant to 40 CFR 403.13.
+(8)
+To correct typographical or other errors in the wastewater discharge permit.
+(9)
+To reflect a transfer of the facility ownership and/or operation to a new owner/operator.
+The filing of a request by the permittee for a wastewater discharge permit modification does not stay any wastewater discharge permit condition.
+(e)
+Wastewater discharge permit transfer. Wastewater discharge permits may be reassigned or transferred to a new owner and/or operator only if the permittee gives at least three business days advance notice, in writing, to the public utilities director and the public utilities director approves the wastewater discharge permit transfer. The notice to the public utilities director must include a written certification by the new owner and/or operator which:
+(1)
+States that the new owner and/or operator has no immediate intent to change the facility's operations and processes.
+(2)
+Identifies the specific date on which the transfer is to occur.
+(3)
+Acknowledges full responsibility for complying with the existing wastewater discharge permit.
+Failure to provide advance notice of a transfer renders the wastewater discharge permit voidable on the date of facility transfer. The responsibility for the pretreatment facility shall remain with the original owner or operator until the above written statement from the new owner or operator is received and approved by the public utilities director.
+(f)
+Wastewater discharge permit revocation. Wastewater discharge permits may be revoked for the following reasons:
+(1)
+Failure to notify the public utilities director of significant changes to the wastewater prior to the changed discharge.
+(2)
+Failure to provide prior notification to the public utilities director of changed condition pursuant to section 5-1-6(e).
+(3)
+Misrepresentation or failure to fully disclose all relevant facts in the wastewater discharge permit application.
+(4)
+Falsifying self-monitoring reports.
+(5)
+Tampering with monitoring equipment.
+(6)
+Refusing to allow Athens-Clarke County timely access to the facility premises and records.
+(7)
+Failure to meet effluent limitations.
+(8)
+Failure to pay fines.
+(9)
+Failure to pay sewer charges.
+(10)
+Failure to meet compliance schedules.
+(11)
+Failure to complete a wastewater survey or the wastewater discharge permit application.
+(12)
+Failure to provide advance notice of the transfer of business ownership of a permitted facility.
+(13)
+Violation of any pretreatment standard or requirement, or any terms of the wastewater discharge permit or this chapter.
+Wastewater discharge permits shall be voidable upon nonuse, cessation of operations, or transfer of business ownership. All wastewater discharge permits are void upon the issuance of a new wastewater discharge permit.
+(g)
+Wastewater discharge permit reissuance. A wastewater discharge permit holder shall apply for reissuance of a wastewater discharge permit by submitting a complete wastewater discharge permit application in accordance with section 5-1-4(f) a minimum of 60 calendar days prior to the expiration of the holder's existing wastewater discharge permit.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-6. - Reporting requirements.
+(a)
+Baseline monitoring report:
+(1)
+Within either 180 calendar days after the effective date of a categorical pretreatment standard, or the final administrative decision on a category determination under 40 CFR 403.6(a)(4), whichever is later, existing users subject to such categorical pretreatment standards, and currently discharging to or scheduled to discharge to the POTW, shall be required to submit to the public utilities director a report which contains the information listed in paragraph (2) below. At least 90 calendar days prior to commencement of their discharge, new sources, and sources that become users subsequent to the promulgation of an applicable categorical standard, shall be required to submit to the public utilities director a report which contains the information listed in paragraph (2) below. A new user shall also be required to report the method of pretreatment it intends to use to meet applicable pretreatment standards. A new user shall also give estimates of its anticipated flow and quantity of pollutants discharged.
+(2)
+The user shall submit the information required by this section including:
+a.
+Identifying information. The name and address of the facility including the name of the operator and owners.
+b.
+Wastewater discharge permits. A list of any environmental control wastewater discharge permits held by or for the facility.
+c.
+Description of operations. A brief description of the nature, average rate of production, and standard industrial classifications of the operation(s) carried out by such user. This description should include a schematic process diagram which indicates points of discharge to the POTW from the regulated processes.
+d.
+Flow measurement. Information showing the measured average daily and maximum daily flow, in gallons per day, to the POTW from regulated process streams and other streams, as necessary, to allow use of the combined wastestream formula set out in 40 CFR 403.6(e).
+e.
+Measurement of pollutants:
+1.
+Identify the categorical pretreatment standards applicable to each regulated process.
+2.
+Submit the results of sampling and analysis identifying the nature and concentration (and/or mass, where required by the standard or by Athens-Clarke County) of regulated pollutants in the discharge from each regulated process. Instantaneous, daily maximum and long term average concentrations (or mass, where required) shall be reported. The sample shall be representative of daily operations and shall be analyzed in accordance with procedures set out in section 5-1-6(j).
+3.
+Sampling must be performed in accordance with procedures set out in section 5-1-6(k).
+f.
+Certification. A statement reviewed by the user's authorized representative and certified by a qualified professional, indicating whether pretreatment standards are being met on a consistent basis and, if not, whether additional O&M and/or additional pretreatment is required to meet the pretreatment standards and requirements.
+g.
+Compliance schedule. If additional pretreatment and/or O&M will be required to meet the pretreatment standards, the shortest schedule by which the user will provide such additional pretreatment and/or O&M shall be required. The completion date in this schedule shall not be later than the compliance date established for the applicable pretreatment standard.
+h.
+All baseline monitoring reports must be signed and certified in accordance with section 5-1-4(g).
+(b)
+Compliance schedule progress report. The following conditions shall apply to the schedule required by subsection (a)(2)g. The schedule shall contain progress increments in the form of dates for the commencement and completion of major events leading to the construction and operation of additional pretreatment required for the user to meet the applicable pretreatment standards (such events include hiring an engineer, completing preliminary and final plans, executing contracts for major components, commencing and completing construction, beginning and conducting routine operation). No increment referred to above shall exceed nine (9) months. The user shall submit a progress report to the public utilities director no later than 14 business days following each date in the schedule and the final date of compliance including, as a minimum, whether or not it complied with the increment of progress, the reason for any delay (and, if appropriate) the steps being taken by the user to return to the established schedule. In no event shall more than nine (9) months elapse between such progress reports to the public utilities director.
+(c)
+Report on compliance with categorical pretreatment standard deadline. Within 90 calendar days following the date for final compliance with applicable categorical pretreatment standards, or in the case of a new source following commencement of the introduction of wastewater into the POTW, any user subject to such pretreatment standards and requirements shall submit to Athens-Clarke County a report containing the information described in subsection (a)(2)d—f. For all users subject to equivalent mass or concentration limits established in accordance with the procedures in 40 CFR 403.6(c), this report shall contain a reasonable measure of the user's long term production rate. For all other users subject to categorical pretreatment standards expressed in terms of allowable pollutant discharge per unit of production (or other measure of operation), this report shall include the user's actual production during the appropriate sampling period. All compliance reports must be signed and certified in accordance with section 5-1-4(g).
+(d)
+Periodic compliance reports:
+(1)
+Any user subject to a categorical standard shall, at a frequency required by its wastewater discharge permit, submit a report indicating the nature and concentration of pollutants in the discharge which are limited by such pretreatment standards and the measured or estimated average and maximum daily flows for the reporting period. All periodic compliance reports must be signed and certified in accordance with section 5-1-4(g).
+(2)
+All wastewater samples must be representative of the user's discharge. Wastewater monitoring and flow measurement facilities shall be properly operated, kept clean, and maintained in good working order at all times. The failure of a user to keep its monitoring facility in good working order shall not be grounds for the user to claim that sample results are unrepresentative of its discharge.
+(3)
+If a user subject to the reporting requirement in and of this section monitors any pollutant more frequently than required by the POTW, using the procedures prescribed in subsection (k) of this section the results of this monitoring shall be included in the report.
+(e)
+Report of changed conditions. Each user is required to notify the public utilities director of any planned significant changes to the user's operations or system which might alter the nature, quality or volume of its wastewater at least 30 calendar days before the change.
+(1)
+The public utilities director may require the user to submit such information as may be deemed necessary to evaluate the changed condition, including the submission of a wastewater discharge permit application under subsection 5-1-4(f).
+(2)
+The public utilities director may issue a wastewater discharge permit under subsection 5-1-4(h) or modify an existing wastewater discharge permit under subsection 5-1-5(d).
+(3)
+No user shall implement the planned changed condition(s) until and unless the public utilities director has responded in writing to the user's notice.
+(4)
+For purposes of this requirement flow increases of 10 percent or greater, and the discharge of any previously unreported pollutants, shall be deemed significant.
+(f)
+Reports of potential problems:
+(1)
+In the case of any discharge including, but not limited to, accidental discharges, discharges of a non-routine, episodic nature, a non-customary batch discharge, or a slug load which may cause potential problems for the POTW (including a violation of the prohibited discharge standards in subsection 5-1-2(c) of this chapter), it is the responsibility of the user to immediately telephone and notify Athens-Clarke County of the incident. This notification shall include the location of discharge, type of waste, concentration and volume, if known, and corrective actions taken by the user.
+(2)
+Within five (5) business days following such discharge, the user shall, unless waived by the public utilities director, submit a detailed written report describing the cause(s) of the discharge and the measures to be taken by the user to prevent similar future occurrences. Such notification shall not relieve the user of any expense, loss, damage, or other liability which may be incurred as a result of damage to the POTW, natural resources, or any other damage to person or property; nor shall such notification relieve the user of any fines, civil penalties, or other liability which may be imposed by this chapter.
+(3)
+Failure to notify Athens-Clarke County of potential problem discharges shall be deemed a separate violation of this chapter.
+(4)
+A notice shall be permanently posted on the user's bulletin board or other prominent place advising employees whom to call in the event of a discharge described in paragraph 1, above. Employers shall ensure that all employees, agents or representatives of users, who may cause or suffer such a discharge to occur, are advised of the emergency notification procedure.
+(g)
+Reports from nonsignificant users. All users not subject to categorical pretreatment standards and not required to obtain a wastewater discharge permit shall provide appropriate reports to Athens-Clarke County as the public utilities director may require.
+(h)
+Notice of violation/repeat sampling and reporting. If sampling performed by a user indicates a violation, the user must notify the Athens-Clarke County public utilities department within 24 hours of becoming aware of the violation. The user shall also repeat the sampling and analysis and submit the results of the repeat analysis to the public utilities department within 30 days after becoming aware of the violation. The user is not required to resample if the POTW performs monitoring at the user's facility at least once a month, or if the POTW performs sampling between the user's initial sampling and when the user receives the results of this sampling.
+(i)
+Notification of the discharge of hazardous waste:
+(1)
+Any user who commences the discharge of hazardous waste shall notify the POTW, the EPA Regional Waste Management Division Director, and state hazardous waste authorities in writing of any discharge into the POTW of a substance which, if otherwise disposed of, would be a hazardous waste under 40 CFR part 261. Such notification must include the name of the hazardous waste as set forth in 40 CFR part 261, the EPA hazardous waste number, and the type of discharge (continuous, batch, or other). If the user discharges more than 100 kilograms of such waste per calendar month to the POTW, the notification shall also contain the following information to the extent such information is known and readily available to the user: an identification of the hazardous constituents contained in the wastes, an estimation of the mass and concentration of such constituents in the waste stream discharged during that calendar month, and an estimation of the mass of constituents in the waste stream expected to be discharged during the following 12 months. All notifications must take place no later than 180 days after the discharge commences. Any notification under this paragraph need be submitted only once for each hazardous waste discharged. However, notifications of changed discharges must be submitted under subsection (e) above. The notification requirement in this section does not apply to pollutants already reported under the self-monitoring requirements of subsections (a), (c), and (d).
+(2)
+Users are exempt from the requirements of paragraph (l) of this section during a calendar month in which they discharge no more than 15 kilograms of hazardous wastes, unless the wastes are acute hazardous wastes as specified in 40 CFR 261.30(d) and 261.33(e). Discharge of more than 15 kilograms of non-acute hazardous wastes in a calendar month, or of any quantity of acute hazardous wastes as specified in 40 CFR 261.30(d) and 261.33(e), requires a one-time notification. Subsequent months during which the user discharges more than such quantities of any hazardous waste do not require additional notification.
+(3)
+In the case of any new regulations under section 3001 of RCRA identifying additional characteristics of hazardous waste or listing any additional substance as a hazardous waste, the user must notify the POTW, the EPA Regional Waste Management Waste Division Director, and state hazardous waste authorities of the discharge of such substance within 90 calendar days of the effective date of such regulations.
+(4)
+In the case of any notification made under this section, the user shall certify that it has a program in place to reduce the volume and toxicity of hazardous wastes generated to the degree it has determined to be economically practical.
+(j)
+Analytical requirements. All pollutant analyses, including sampling techniques, to be submitted as part of a wastewater discharge permit application or report shall be performed in accordance with the techniques prescribed in 40 CFR part 136, unless otherwise specified in an applicable categorical pretreatment standard. If 40 CFR part 136 does not contain sampling or analytical techniques for the pollutant in question, sampling and analyses must be performed in accordance with procedures approved by the EPA.
+(k)
+Sample collection:
+(1)
+Except as indicated in subsection 2 below, the user must collect wastewater samples using flow proportional composite collection techniques. In the event flow proportional sampling is not feasible, the public utilities director may authorize the use of time proportional sampling or through a minimum of eight (8) grab samples of equal volume where the user demonstrates that this will provide a representative sample of the effluent being discharged.
+(2)
+Samples for FOG, temperature, pH, cyanide, toxicity, sulfides, and volatile organic chemicals must be obtained using grab collection techniques. For volatile parameters, specifically cyanide, grab samples shall be collected using EPA-approved techniques that prevent loss of volatile pollutants. Individual grab samples may be analyzed separately, allowing calculation of a single composite result. Alternatively, a single composite sample may be prepared for analysis using EPA-approved techniques that prevent loss of volatile pollutants.
+(l)
+Timing. Written reports will be deemed to have been submitted on the date post-marked. For reports which are not mailed, postage prepaid, into a mail facility serviced by the U.S. Postal Service, the date of receipt of the report shall govern.
+(m)
+Record keeping. Users shall retain, and make available for inspection and copying, all records and information required to be retained under this chapter. These records shall remain available for a period of at least three (3) years. This period shall be automatically extended for the duration of any litigation concerning compliance with this chapter, or where the user has been specifically notified of a longer retention period by the public utilities director.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-7. - Compliance monitoring.
+(a)
+Inspection and sampling. Athens-Clarke County shall have the right to enter the facilities of any user to ascertain whether the purpose of this chapter, and any permit or order issued hereunder, is being met and whether the user is complying with all requirements thereof. Users shall allow the public utilities director or representative ready access to all parts of the premises for the purposes of inspection, sampling, taking photographs, records examination and copying, and the performance of any additional duties.
+(1)
+Where a user has security measures in force which require proper identification and clearance before entry into its premises, the user shall make necessary arrangements with its security guards so that, upon presentation of suitable identification, personnel from Athens-Clarke County, EPD, and EPA will be permitted to enter without delay, for the purposes of performing their specific responsibilities.
+(2)
+Athens-Clarke County, EPD and EPA shall have the right to set up on the user's property, or require installation of, such devices as are necessary to conduct sampling and/or metering of the user's operations.
+(3)
+Athens-Clarke County may require the user to install monitoring equipment as necessary. The facility's sampling and monitoring equipment shall be maintained at all times in a safe and proper operating condition by the user at its own expense. All devices used to measure wastewater flow and quality shall be calibrated per the manufacturer's specifications, but no less than semiannually to ensure their accuracy.
+(4)
+Any temporary or permanent obstruction to safe and easy access to the user's facility to be inspected and/or sampled shall be promptly removed by the user at the request of the public utilities director and shall not be replaced. The costs of clearing such access shall be born by the user.
+(5)
+Unreasonable delays in allowing Athens-Clarke County personnel access to the user's premises shall be a violation of this chapter.
+(6)
+Where Athens-Clarke County holds an easement, duly authorized employees of Athens-Clarke County bearing proper credentials and identification shall be permitted to enter all private properties through which Athens-Clarke County holds a duly negotiated easement for the purposes of, but not limited to, inspection, observation, measurement, sampling, repair and maintenance of any portion of the POTW lying within the easement. All entry and subsequent work, if any, on the easement shall be done in full accordance with the terms of the duly negotiated easement pertaining to the private property involved.
+(7)
+While performing the necessary work on private properties referred to in this section, duly authorized employees of Athens-Clarke County shall observe all reasonable safety rules applicable to the premises established by the Owner.
+(b)
+Search warrants. If the public utilities director has been refused access to a building, structure or property or any part thereof, and if the public utilities director has demonstrated probable cause to believe that there may be a violation of this chapter or that there is a need to inspect as part of a routine inspection program of Athens-Clarke County designed to verify compliance with this chapter or any permit or order issued hereunder, or to protect the overall public health, safety and welfare of the community, then the Athens-Clarke County Attorney shall prepare an application for any local law enforcement official to obtain a search warrant from the judge of the Municipal Court of Athens-Clarke County describing therein the specific location subject to the warrant. The warrant shall specify what, if anything, may be searched and/or seized on the property described. Such warrant shall be served at reasonable hours by the law enforcement officer who obtained same in the company of the public utilities director.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-8. - Confidential information.
+Information and data on a user obtained from reports, surveys, wastewater discharge permit applications, wastewater discharge permits, and monitoring programs, and from Athens-Clarke County inspection and sampling activities, shall be available to the public without restriction, unless the user specifically requests, and is able to demonstrate to the satisfaction of the public utilities director and in accordance with the Georgia Open Records Act, that the release of such information would divulge information, processes or methods of production entitled to protection as trade secrets under applicable state law. When requested and demonstrated by the user furnishing a report that such information should be held confidential, the portions of a report which might disclose trade secrets or secret processes shall not be made available for inspection by the public, but shall be made available immediately upon request to governmental agencies for uses related to the NPDES program or pretreatment program, and in enforcement proceedings involving the person furnishing the report. Wastewater constituents and characteristics and other "effluent data" as defined by 40 CFR 2.302 will not be recognized as confidential information or as a trade secret and will be available to the public without restriction.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-9. - Publication of users in significant noncompliance.
+Athens-Clarke County shall publish annually, in the largest general circulation newspaper published in Athens-Clarke County, a list of the users which, during the previous twelve months, were in significant noncompliance with applicable pretreatment standards and requirements. The term significant noncompliance shall mean:
+(1)
+Chronic violations of wastewater discharge limits, defined here as those in which 66 percent or more of wastewater measurements taken during a six-month period exceed the daily maximum limit or average limit for the same pollutant parameter by any amount;
+(2)
+Technical review criteria (TRC) violations, defined here as those in which 33 percent or more of wastewater measurements taken for each pollutant parameter during a six-month period equals or exceeds the product of the daily maximum limit or the average limit multiplied by the applicable criteria (1.4 for BOD, TSS, FOG, TKN and TP, and 1.2 for all other pollutants except pH);
+(3)
+Any other discharge violation that Athens-Clarke County believes has caused, alone or in combination with other discharges, interference or pass through (including endangering the health of Athens-Clarke County personnel or the general public);
+(4)
+Any discharge of pollutants that has caused imminent endangerment to the public or to the environment, or has resulted in Athens-Clarke County's exercise of its emergency authority to halt or prevent such a discharge;
+(5)
+Failure to meet, within 90 calendar days of the scheduled date, a compliance schedule milestone contained in a wastewater discharge permit or enforcement order for starting construction, completing construction, or attaining final compliance;
+(6)
+Failure to provide within 30-calendar days after the due date, any required reports, including baseline monitoring reports, 90-day compliance reports, periodic self-monitoring reports, and reports on compliance with compliance schedules;
+(7)
+Failure to accurately report noncompliance;
+(8)
+Any other violation(s) which Athens-Clarke County determines will adversely affect the operation or implementation of the local pretreatment program.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-10. - Administrative enforcement remedies.
+(a)
+Notification of violation. Whenever the public utilities director finds that any user has violated or is violating this chapter, a wastewater discharge permit or order issued hereunder, or any other pretreatment requirement, the public utilities director or his agent may serve upon said user a written Notice of Violation. Within 30 days of the receipt of this notice, an explanation of the violation and a plan for the satisfactory correction and prevention thereof, to include specific required actions, shall be submitted by the user to the public utilities director. Submission of this plan in no way relieves the user of liability for any violations occurring before or after receipt of the Notice of Violation. Nothing in this section shall limit the authority of Athens-Clarke County to take any action, including emergency actions or any other enforcement action, without first issuing a Notice of Violation.
+(b)
+Consent orders. The public utilities director is hereby empowered to enter into consent orders, assurances of voluntary compliance, or other similar documents establishing an agreement with any user responsible for noncompliance. Such orders will include specific action to be taken by the user to correct the noncompliance within a time period also specified by the order. Consent Orders shall have the same force and effect as the administrative orders issued pursuant to subsections (d) and (e) below and shall be judicially enforceable.
+(c)
+Show cause hearing. The public utilities director may order any user which causes or contributes to violation(s) of this chapter, wastewater discharge permits, or orders issued hereunder, or any other pretreatment standard or requirement, to appear before the public utilities director and show cause why a proposed enforcement action should not be taken. Notice shall be served on the user specifying the time and place for the meeting, the proposed enforcement action, the reasons for such action, and a request that the user show cause why this proposed enforcement action should not be taken. The notice of the meeting shall be served personally or by registered or certified mail (return receipt requested) at least 10 days prior to the hearing. Such notice may be served on any authorized representative of the user. Whether or not the user appears as ordered, immediate enforcement action may be pursued following the hearing date. A show cause hearing shall not be a prerequisite for taking any other action against the user.
+(d)
+Compliance orders. When the public utilities director finds that a user has violated or continues to violate the ordinance, wastewater discharge permits or orders issued hereunder, or any other pretreatment standard or requirement, he may issue an order to the user responsible for the discharge directing that the user come into compliance within 20 calendar days. If the user does not come into compliance within 20 calendar days, sewer service shall be discontinued unless adequate treatment facilities, devices, or other related appurtenances are installed and properly operated. Compliance orders may also contain other requirements to address the noncompliance, including additional self-monitoring, and management practices designed to minimize the amount of pollutants discharged to the sewer. A compliance order may not extend the deadline for compliance established or a federal pretreatment standard or requirement, nor does a compliance order release the user of liability for any violation, including any continuing violation. Issuance of a compliance order shall not be a prerequisite to taking any other action against the user.
+(e)
+Cease and desist orders. When the public utilities director finds that a user is violating this chapter, the user's wastewater discharge permit, any order issued hereunder, or any other pretreatment standard or requirement, or that the user's past violations are likely to recur, the public utilities director may issue an order to the user directing it to cease and desist all such violations and directing the user to:
+(1)
+Immediately comply with all requirements.
+(2)
+Take such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and/or terminating the discharge.
+Issuance of a cease and desist order shall not be a prerequisite to taking any other action against the user.
+(f)
+Administrative fines:
+(1)
+Notwithstanding any other section of this chapter, any user that is found to have violated any provision of this chapter, its wastewater discharge permit, and orders issued hereunder, or any other pretreatment standard or requirement shall be fined in an amount not to exceed $1,000.00. Such fines shall be assessed on a per-violation, per-day basis. In the case of monthly or other long term average discharge limits, fines shall be assessed for each day during the period of violation.
+(2)
+Assessments may be added to the user's next scheduled sewer service charge and the public utilities director shall have such other collection remedies as may be available for other service charges and fees.
+(3)
+Users desiring to dispute such fines must file a written request for the public utilities director to reconsider the fine along with full payment of the fine amount within 30 calendar days of being notified of the fine. The public utilities director shall convene a hearing on the matter within 30 calendar days of receiving the request from the user. In the event the user's appeal is successful, the payment together with any interest accruing thereto shall be returned to the user. Athens-Clarke County may add the costs of preparing administrative enforcement actions such as notices and orders to the fine.
+(4)
+Issuance of an administrative fine shall not be a prerequisite for taking any other action against the user.
+(g)
+Emergency suspensions. The public utilities director may immediately suspend a user's discharge (after informal notice to the user) whenever such suspension is necessary in order to stop an actual or threatened discharge which reasonably appears to present or cause an imminent or substantial endangerment to the health or welfare of persons. The public utilities director may also immediately suspend a user's discharge (after notice and opportunity to respond) that threatens to interfere with the operation of the POTW, or which presents or may present an endangerment to the environment.
+(1)
+Any user notified of a suspension of its discharge shall immediately stop or eliminate its contribution. In the event of a user's failure to immediately comply voluntarily with the suspension order, the public utilities director shall take such steps as deemed necessary, including immediate severance of the sewer connection, to prevent or minimize damage to the POTW, its receiving stream, or endangerment to any individuals. The public utilities director shall allow the user to recommence its discharge when the user has demonstrated to the satisfaction of Athens-Clarke County that the period of endangerment has passed, unless the termination proceedings set forth in subsection (h) are initiated against the user.
+(2)
+A user that is responsible, in whole or in part, for any discharge presenting imminent endangerment shall submit a detailed statement describing the causes of the harmful contribution and the measures taken to prevent any future occurrence to the public utilities director, prior to the date of any show cause or termination hearing under subsections (c) and (h).
+Nothing in this section shall be interpreted as requiring a hearing prior to any emergency suspension under this section.
+(h)
+Termination of discharge. In addition to those provisions in subsection 5-1-5(f) of this chapter, any user that violates the following conditions of this chapter, wastewater discharge permits, or orders issued hereunder, is subject to discharge termination.
+(1)
+Violation of wastewater discharge permit conditions.
+(2)
+Failure to accurately report the wastewater constituents and characteristics of its discharge.
+(3)
+Failure to report significant changes in operations or wastewater volume, constituents and characteristics prior to discharge.
+(4)
+Refusal of reasonable access to the user's premises for the purpose of inspection, monitoring or sampling.
+(5)
+Violation of the pretreatment standards in section 5-1-2 of this chapter.
+Such user will be notified of the proposed termination of its discharge and be offered an opportunity to show cause under subsection (c) of this section why the proposed action should not be taken.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-11. - Judicial enforcement remedies.
+(a)
+Injunctive relief. Whenever a user has violated a pretreatment standard or requirement or continues to violate the provisions of this chapter, wastewater discharge permits or orders issued hereunder, or any other pretreatment requirement, the public utilities director may petition the Superior Court of Athens-Clarke County through the Athens-Clarke County Attorney for the issuance of a temporary or permanent injunction, as appropriate, which restrains or compels the specific performance of the wastewater discharge permit, order, or the requirement imposed by this chapter or activities of the user. Such other action as appropriate for legal and/or equitable relief may also be sought by Athens-Clarke County. A petition for injunctive relief need not be filed as a prerequisite to taking any other action against a user.
+(b)
+Criminal prosecution:
+(1)
+Any user or representative thereof that willfully or negligently violates any provision of this chapter, any orders or wastewater discharge permits issued hereunder, or any other pretreatment requirement shall, upon conviction, be guilty of a misdemeanor, punishable by a fine of not more than $1,000.00 per violation per day or imprisonment for not more than six (6) months or both.
+(2)
+Any user or representative thereof that willfully or negligently introduces any substance into the POTW which causes personal injury or property damage shall, upon conviction, be guilty of an offense and be subject to a penalty of at least $1,000.00 and/or be subject to imprisonment for six (6) months. This penalty shall be in addition to any other cause of action for personal injury or property damage available under state law.
+(3)
+Any user or representative thereof that knowingly makes or causes to make any false statements, representations, or certifications in any application, record, report, plan or other documentation filed, or required to be maintained, pursuant to this chapter, wastewater discharge permit or order, or who falsifies, tampers with or knowingly renders inaccurate any monitoring device or method required under this chapter shall, upon conviction, be punished by a fine of not more than $1,000.00 per violation per day or imprisonment for not more than six (6) months or both.
+(c)
+Remedies nonexclusive. The provisions in sections 5-1-9 through 5-1-12 are not exclusive remedies. The public utilities director reserves the right to take any, all, or any combination of these actions against a noncompliant user. Enforcement of pretreatment violations will generally be in accordance with Athens-Clarke County's enforcement response plan. However, Athens-Clarke County reserves the right to take other action against any user when the circumstances warrant. Further, the public utilities director is empowered to take more than one enforcement action against any noncompliant user. These actions may be taken concurrently.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-12. - Supplemental enforcement action.
+(a)
+Performance bonds. The public utilities director may decline to reissue a wastewater discharge permit to any user which has failed to comply with the provisions of this chapter, any orders, or a previous wastewater discharge permit issued hereunder, unless such user first files a satisfactory bond, payable to Athens-Clarke County, in a sum not to exceed a value determined by the public utilities director to be necessary to achieve consistent compliance.
+(b)
+Liability insurance. The public utilities director may decline to reissue a wastewater discharge permit to any user which has failed to comply with the provisions of this chapter, any order, or a previous wastewater discharge permit issued hereunder, unless such user first submits proof that it has obtained financial assurance sufficient to restore or repair damage to the POTW caused by its discharge.
+(c)
+Water supply severance. Whenever a user has violated or continues to violate the provisions of this chapter, orders, or wastewater discharge permits issued hereunder, water service to the user may be severed. Service will only recommence, at the user's expense, after it has satisfactorily demonstrated its ability to comply.
+(d)
+Public nuisances. Any violation of this chapter, wastewater discharge permits, FOG requirements, or orders issued hereunder, is hereby declared a public nuisance and shall be corrected or abated as directed by the public utilities director in accordance with applicable Georgia law or Athens-Clarke County ordinance. Any person(s) creating a public nuisance shall be subject to the provisions of Section 3-13-14, Section 5-2-50(b), Chapter 5-4 Article II and this Sewer Use Ordinance, including the reimbursement of Athens-Clarke County for any costs incurred in removing, abating or remedying said nuisance.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-13. - Affirmative defenses to discharge violations.
+(a)
+Upset:
+(1)
+For the purposes of this section, "upset" means an exceptional incident in which there is unintentional and temporary noncompliance with categorical or local pretreatment standards because of factors beyond the reasonable control of the user. An upset does not include noncompliance to the extent caused by operational error, improperly designed treatment facilities, inadequate treatment facilities, lack of preventive maintenance, or careless or improper operation.
+(2)
+An upset shall constitute an affirmative defense to an action brought for noncompliance with categorical pretreatment standards if the requirements of paragraph (3) are met.
+(3)
+A user who wishes to establish the affirmative defense of upset shall demonstrate, through properly signed, contemporaneous operating logs, or other relevant evidence that:
+a.
+An upset occurred and the user can identify the cause(s) of the upset;
+b.
+The facility was at the time being operated in a prudent and workmanlike manner and in compliance with applicable operation and maintenance procedures;
+c.
+The user has submitted the following information to the POTW and treatment plant operator within 24 hours of becoming aware of the upset (if this information is provided orally, a written submission must be provided within five (5) business days):
+1.
+A description of the indirect discharge and cause of noncompliance.
+2.
+The period of noncompliance, including exact dates and times or, if not corrected, the anticipated time the noncompliance is expected to continue.
+3.
+Steps being taken and/or planned to reduce, eliminate and prevent recurrence of the noncompliance.
+(4)
+In any enforcement proceeding, the user seeking to establish the occurrence of an upset shall have the burden of proof.
+(5)
+Users will have the opportunity for a judicial determination on any claim of upset only in an enforcement action brought for noncompliance with categorical pretreatment standards.
+(6)
+The user shall control production of all discharges to the extent necessary to maintain compliance with categorical pretreatment standards upon reduction, loss, or failure of its treatment facility until the facility is restored or an alternative method of treatment is provided. This requirement applies in the situation where, among other things, the primary source of power of the treatment facility is reduced, lost or fails.
+(b)
+General/specific prohibitions. A user shall have an affirmative defense to an enforcement action brought against it for noncompliance with the general and specific prohibitions in subsection 5-1-2 of this chapter if it can prove that it did not know or have reason to know that its discharge, alone or in conjunction with discharges from other sources, would cause pass through or interference and that either: (a) a local limit exists for each pollutant discharged and the user was in compliance with each limit directly prior to, and during, the pass through or interference, or (b) no local limit exists, but the discharge did not change substantially in nature or constituents from the user's prior discharge when Athens-Clarke County was regularly in compliance with its NPDES permit, and in the case of interference, was in compliance with applicable sludge use or disposal requirements.
+(c)
+Bypass:
+(1)
+a.
+"Bypass" means the intentional or unintentional diversion of wastestreams from any portion of a user's treatment facility.
+b.
+"Severe property damage" means substantial physical damage to property, damage to the treatment facilities which causes them to become inoperable, or substantial and permanent loss of natural resources which can reasonably be expected to occur in the absence of a bypass. Severe property damage does not mean economic loss caused by delays in production.
+(2)
+A user may allow any bypass to occur which does not cause pretreatment standards or requirements to be violated, but only if it also is for essential maintenance to assure efficient operation. These bypasses are not subject to the provision of paragraphs (3) and (4) of this section.
+(3)
+a.
+If a user knows in advance of the need for a bypass, it shall submit prior notice to the POTW, at least 10 business days before the date of the bypass if possible.
+b.
+A user shall submit oral notice of an unanticipated bypass that exceeds applicable pretreatment standards to the POTW within 24 hours from the time it becomes aware of the bypass. A written submission shall also be provided within five (5) business days of the time the user becomes aware of the bypass. The written submission shall contain a description of the bypass and its cause; the duration of the bypass, including exact dates and times, and, if the bypass has not been corrected, the anticipated time it is expected to continue; and steps taken or planned to reduce, eliminate, and prevent reoccurrence of the bypass. The POTW may waive the written report on a case-by-case basis if the oral report has been received within 24 hours.
+(4)
+Bypass is prohibited, and the POTW may take enforcement action against a user for a bypass, unless
+a.
+The bypass was unavoidable to prevent loss of life, personal injury, or severe property damage;
+b.
+There were no feasible alternatives to the bypass, such as the use of auxiliary treatment equipment facilities, retention of untreated wastes, or maintenance during normal periods of equipment downtime. This condition is not satisfied if adequate backup equipment should have been installed in the exercise of reasonable engineering judgment to prevent a bypass which occurred during normal periods of equipment downtime or preventive maintenance;
+c.
+The user submitted notices as required under paragraph (3) of this section.
+(5)
+The POTW may approve an anticipated bypass, after considering its adverse effects, if the POTW determines that it will meet the three conditions listed in paragraph (4) of this section.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-14. - Miscellaneous provisions.
+(a)
+Pretreatment charges and fees. Athens-Clarke County may adopt reasonable charges and fees for reimbursement of costs of setting up and operating Athens-Clarke County's Pretreatment Program which may include:
+(1)
+Fees for wastewater discharge permit applications including the cost of processing such applications.
+(2)
+Fees for monitoring, inspection, and surveillance procedures including the cost of collection and analysis of a user's discharge, and reviewing monitoring reports submitted by users.
+(3)
+Fees for reviewing and responding to accidental discharge procedures and construction.
+(4)
+Fees for filing appeals.
+(5)
+Other fees as Athens-Clarke County may deem necessary to carry out the requirements contained herein. These fees relate solely to the matters covered by this chapter and are separate from all other fees, fines and penalties chargeable by Athens-Clarke County.
+( Ord. of 10-2-2018(1), § 1 )
+Secs. 5-1-15—5-1-25. - Reserved.
+Sec. 5-1-26. - Connection fees—Generally.
+(a)
+The wastewater connection fee basic rate shall be as provided in section 5-3-79 of this Code.
+(b)
+Users of the wastewater system shall pay a connection fee before new or additional wastewater service can be made available. Users will be subject to the fee at the time new wastewater service is requested. Users shall also be subject to the fee when their existing wastewater service tap is inadequate to carry the volume of wastewater desired and the wastewater service tap size is increased. All users shall be subject to the connection fee regardless of location of the service tap.
+(c)
+Once a user has paid a connection fee to Athens-Clarke County it shall not be refunded.
+(d)
+Users of the wastewater system shall also be subject to a wastewater connection fee herein described when their existing water meter size is increased. In such event, the amount of the connection fee shall be the difference between the fee stated for the size of the new meter as shown in section 5-3-79 less the fee stated therein for the size of the meter to be replaced.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-27. - Connection fees—Payment.
+Users shall pay the connection fee at the time the application is made with the Building Permits and Inspection Department to increase the size of the existing wastewater service tap or for a new or additional wastewater service tap.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-28. - Revenue restrictions.
+All revenues received from the wastewater system connection fee shall only be used for debt service payments for capital improvements or deposited into the Athens-Clarke County's water and sewer construction fund for construction and purchase of capital improvements.
+( Ord. of 10-2-2018(1), § 1 )
+Secs. 5-1-29—5-1-41. - Reserved.
+Sec. 5-1-42. - Sewer user charges—System for determination generally.
+(a)
+Liability for surcharge, determination of total charge, establishing rate. No person shall discharge or empty any water or waste into the wastewater collection and treatment system of Athens-Clarke County with a concentration in excess of the domestic wastewater concentrations stated in Table 5-1-2(f) without paying the surcharge on sewer user charges imposed under this title. The surcharge assessment will only be based on the concentration in excess of the domestic wastewater concentrations stated in Table 5-1-2(f). The total sewer user charge would then be the normal sewer user charge plus the surcharge. The rates of both the user charge and surcharge shall be established by the public utilities director subject to approval in an ordinance by the mayor and commission.
+(b)
+User charge rate criterion. The minimum criterion for establishment of the user charge rate shall be to recover the annual operation and maintenance cost inclusive of the capital accrual and replacement costs for providing collection and treatment of domestic wastewater. Said operations and maintenance portion of the rate shall be evaluated within a reasonable time prior to the end of each year. If the operation and maintenance portion of the revenues exceeds the operation and maintenance portion of the expenses, said excess revenues shall be credited toward the next year's operation and maintenance portion of the wastewater user's charge.
+(c)
+Surcharge rate criterion. The minimum criterion for establishment of the surcharge rate shall be to recover the additional annual operation and maintenance cost for providing collection and treatment of wastewaters in excess of domestic wastewater concentrations.
+(d)
+Determining persons liable for surcharge. The public utilities director shall determine which users are discharging waters or waste to the wastewater collection and treatment system in excess of acceptable levels. This shall be accomplished by sections 5-1-6 and 5-1-7 and the wastewater monitoring program conducted by the public utilities department.
+(e)
+Billing, payment of surcharge. The surcharge shall be billed monthly by the water business office with the normal user charge, and the conditions for payment and penalties applicable to the normal user charge shall apply to the surcharge.
+(f)
+Unacceptable wastes not subject to surcharge. There shall be no surcharge provisions for toxic pollutants in excess of concentrations defined in sections 5-1-2(c), 5-1-2(d), and 5-1-2(e). This decision is based on the fact that the POTW is not designed to facilitate the removal of the items referred to in this section. Any person in violation of this subsection shall be subject to the provisions set out in sections 5-1-9 through 5-1-12.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-43. - Sewer user charges—Rates; billing and collection; security deposits.
+(a)
+Calculation, applicability of monthly volumetric rate charge. The volumetric rate shall be a cost per unit of wastewater volume. This rate shall be multiplied times the volume of wastewater returned to the sanitary sewer each month by the user. The base volumetric charge shall be applicable to all user classes. In the absence of empirical wastewater flow measurement by meters established for the sole purpose of measuring wastewater flow volume, the wastewater volume shall equal the volume of water usage measured by the water meter serving the premises which discharge to the POTW.
+(b)
+Sewer rates established. Users shall pay the rates as set forth in section 5-3-80 of this Code.
+(c)
+Calculation of monthly surcharge. The surcharge rate shall be a cost per pound of BOD, TSS, TKN, TP, and FOG. This rate shall be multiplied by the pounds of BOD, TSS, TKN, TP, and FOG discharged to the sanitary sewer each month by the user. The poundage shall be based on that concentration of BOD, TSS, TKN, TP and FOG over and above the domestic wastewater concentrations stated in Table 5-1-2(f) and the volume of wastewater discharged during the month. The results shall be the monthly surcharge.
+(d)
+Monthly customer service fee. The monthly customer service fee for active accounts shall be as set forth in section 5-3-80 of this Code.
+(e)
+Determination of volume of wastewater for residential users. A residential user's wastewater volume shall be determined by multiplying the user's monthly water consumption in gallons by 100 percent. Any exception to this requirement shall be in accordance with a policy and procedure adopted by the Mayor and Commission.
+For leaks in the user's waterline which result in the additional water volume not being placed in the wastewater collection system, the wastewater portion of the bill shall be adjusted in accordance with a policy and procedure statement adopted by the Mayor and Commission.
+The user may install an outdoor water use meter under the same rules and conditions as all meters connected to the waterworks system for use exclusively for outdoor water uses where none of the water would be returned to the sanitary sewer system, and no sewer charge would be made on this meter. The water used on the original meter measuring household use would continue to be charged for wastewater usage at 100 percent of the water volume.
+(f)
+Determination of volume of wastewater for non-residential customers. Nonresidential user's wastewater volume shall be determined by taking 100 percent of the user's monthly water consumption in gallons. This percentage shall be reduced if the user provides written proof acceptable to the public utilities director that less than 100 percent of the user's water consumption is returned to the sanitary sewer. If the public utilities director accepts such proof, then the reduced percentage figure shall be used to determine the user's monthly wastewater volume.
+(g)
+Charging system users not utilizing Athens-Clarke County water. Any wastewater system user having as its source of water a supply other than that owned and operated by Athens-Clarke County shall be subject to the charges established in this section. That user shall also install a water meter, approved by the public utilities director, in the user's water supply line between the source and the building or buildings where the water usage occurs and the wastewater discharge originates. A wastewater system user of this type shall be required to pay the base and surcharges described above. The wastewater volumes shall be determined in accordance with a policy and procedure statement adopted by the Mayor and Commission. The provisions of this Code applicable to the installation of water meters, reading of meters, billing, penalties, and termination of service for water shall apply to the meters and charges prescribed by this subsection.
+(h)
+Late payment of bills. For failure of any user of the wastewater system to pay user charges when due, the user shall be subject to the penalties presently authorized, or that may be authorized in the future, by the Mayor and Commission for the failure to pay a water bill when due.
+(i)
+Reinstatement of service. Any property owner whose sewer service by Athens-Clarke County shall have been disconnected pursuant to the provisions of this section shall have such sewer service reinstated upon compliance with the provisions of this article and upon the payment to Athens-Clarke County of a reinstatement fee covering all costs for restoration of sewer service, but not less than an amount specified in section 5-3-83 of this Code.
+(1)
+Security deposits. In the case of mobile home parks, apartments, townhouses, motels or hotels, dwelling units or condominium complexes organized under the provisions of the Apartment Ownership Act or similar act of the General Assembly, the director of finance shall cause or require a security deposit as provided in section 5-3-74 of this Code. A deposit may also be required of any customer that has a record of delinquency for payment of sewer or water accounts or taxes due the county, bankruptcy, insolvency, where a foreclosure proceeding is pending with respect to property served, or where there is a reasonable likelihood that the account would not be paid. The deposit shall be paid at such times and in such amounts as may be specified by the director of finance. A bond with approved security, or other guarantee of payment, may be accepted in lieu of any security deposit.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-44. - Miscellaneous provisions.
+(a)
+Pipeline construction parallel to existing sewers. No person shall lay any main pipe for gas, water or sewage, or conduit for any purpose in any street, within four feet on each side of the centerline of any sewer unless with the permission of the public utilities director.
+(b)
+Transportation of liquid waste over highways. Liquid wastes or byproducts transported over highways or public roads or streets of Athens-Clarke County shall be in watertight and completely covered containers or vehicles.
+( Ord. of 10-2-2018(1), § 1 )
+Sec. 5-1-45. - Fats, oils, and grease management.
+(a)
+Purpose and policy. This section establishes uniform registration, maintenance and monitoring requirements for controlling the discharge of FOG from food service facilities discharging into the POTW. The purpose of this section augments the purpose and policy of Section 5-1-1, with emphasis on the following:
+(1)
+To prevent the introduction of excessive amounts of FOG into the POTW; and
+(2)
+To prevent clogging or blocking of the sanitary sewer system due to grease accumulation. FOG accumulation causes potential sewage backup which can result in overflows which violate NPDES permits, illicit discharges, nuisance conditions, damages to private or public property, loss of business, or flooding of streets, residences, and commercial buildings, all of which impair the public health, safety and welfare.
+(b)
+Definitions. The following definitions supplement those in section 5-1-1(c).
+(1)
+Food service establishment: Any facility that prepares and/or packages food or beverages for sale or consumption, on or off site, with the exception of private residences. Food service facilities shall include, but are not limited to, food courts, food manufacturers, food packagers, restaurants, cafeterias, grocery stores, bakeries, lounges, hospitals, hotels, nursing homes, schools, and all other food service facilities not otherwise listed.
+(2)
+Garbage disposal: A device which shreds or grinds up waste materials into smaller portions for discharge into the POTW.
+(3)
+Grease transporter: A person who collects the contents of a grease interceptor and transports it to an approved recycling or disposal facility.
+(4)
+Grease interceptor: A device located either a) underground and outside or b) inside a food service facility, designed to separate and retain food wastes and grease from the waste stream while allowing the balance of the liquid waste to discharge to the POTW.
+(5)
+Grease removal system: A system consisting of one or more grease interceptors, including ancillary components.
+(c)
+Applicability. This section shall apply to all food service establishments that are connected to the POTW, including those connected to privately-owned upstream collection systems.
+(d)
+Grease removal systems.
+(1)
+Requirements. Food service establishments that discharge to the POTW are required to have a grease removal system. The requirements in this section are in addition to any applicable code requirements. In the event of conflict, the more stringent standard shall govern.
+a.
+New food service establishments. On or after the effective date of this section, food service establishments which are newly proposed or constructed, or existing establishments which will be expanded or renovated to include a food service facility where such did not previously exist, shall be required to install, operate, and maintain a grease interceptor according to the requirements contained in this section.
+1.
+At any food service establishment, indoor grease interceptors may be used upstream of underground outdoor grease interceptors. However, an underground outdoor grease interceptor is required unless, due to space limitations, the public utilities director authorizes an indoor grease interceptor to be installed.
+2.
+Grease interceptors shall be installed prior to the issuance of a certificate of occupancy.
+b.
+Existing food service establishments. For the purposes of sizing and installation of grease interceptors, all food service establishments existing prior to the effective date of this section shall be permitted to operate and maintain existing grease interceptors provided these grease interceptors are in efficient operating condition as demonstrated by compliance with the FOG concentration limit stated in Table 5-1-2(f).
+c.
+The public utilities director may require an existing food service establishment to install, operate, and maintain a grease interceptor that complies with the requirements of this section or to modify or repair any noncompliant plumbing or existing interceptor within 90 days of written notification by the public utilities director when any one or more of the following conditions exist.
+1.
+The food service establishment is found to be contributing FOG in quantities sufficient to cause line blockages, partial blockages or necessitate increased maintenance of the POTW.
+2.
+The food service establishment does not have a grease interceptor.
+3.
+The food service establishment has an undersized, irreparable, or defective grease interceptor, as determined by the Athens-Clarke County public utilities department.
+4.
+Remodeling of the food preparation or kitchen waste plumbing system is performed which requires a plumbing permit to be issued by the Athens-Clarke County Building Permits and Inspection Department.
+5.
+The existing food service establishment does not have plumbing connections to a grease interceptor in compliance with the requirements of this section.
+(2)
+Plumbing connections. Grease interceptors shall be located in the food service establishment's lateral sewer line downstream of all fixtures which may introduce grease, and upstream of the facility's connection to the POTW. Such fixtures shall include, but are not limited to, sinks, dishwashers, garbage disposals, automatic hood wash units, floor drains in food preparation and storage areas, and any other fixture which is determined to be a potential source of fats, oils or grease. Wastewater from sanitary facilities and other similar fixtures shall not be introduced into a grease interceptor under any circumstances.
+(3)
+Design. Grease removal systems shall be designed in accordance with all applicable requirements of the International Plumbing Code (latest edition). Mechanically operated grease interceptors may not be used. Outdoor underground grease interceptors shall have a minimum capacity of 1,500 gallons, two compartments and shall be capable of separation and retention of grease and settleable solids. Interceptor design shall conform to the requirements of the state plumbing code. A control manhole over each compartment for monitoring purposes shall be required and installed at the user's sole expense. Covers shall have a gas-tight fit. The grease interceptor shall be designed, constructed and installed for adequate load-bearing capacity. Flow control devices shall be required where the water flow through the interceptor could otherwise exceed its rated flow. Interceptors shall be installed in a location outside of the building which provides easy access at all times for inspection, cleaning and proper maintenance, including pumping. If space limitations do not permit an outdoor grease interceptor, indoor interceptors may be used with a minimum capacity of 40 pounds.
+Grease removal system designs will be reviewed by the public utilities director as part of a plumbing permit application. In the permit application, the user shall furnish complete information about the food service facility, including description of operations (amount and type of food prepared); hours of operation; number of seats; number, type, and capacities of fixtures that produce grease; and description and capacity of proposed grease separation system components. The application shall include calculations that demonstrate conformance with applicable design standards.
+(4)
+Installation. Grease removal systems shall be installed in accordance with the manufacturer's instructions. To allow for observation, sampling and measurement of wastewaters, a sampling point on the effluent discharge side of the grease interceptor shall be provided at the owner's expense. The sampling point shall be maintained and kept safe and accessible to Athens-Clarke County personnel at all times.
+(5)
+Maintenance. All costs for maintenance of grease removal systems are the responsibility of the user. Grease removal systems shall be maintained so as to be in continuously efficient operation. Outdoor grease interceptor maintenance shall be performed at intervals of not less than once every three months. Indoor grease interceptor maintenance shall be performed at intervals of not less than once every four weeks. However, food service establishments that serve or prepare 500 to 1,000 servings per month may be serviced not less than every six months and those serving fewer than 500 servings per month may be serviced not less than every twelve months. All maintenance frequencies above are contingent on the interceptor discharge concentrations not exceeding permissible FOG concentrations stated in Table 5-1-2(f).
+a.
+Additives. It is specifically prohibited to use any additive including, but not limited to, enzymes, chemicals, or bacteria as a substitute for or in conjunction with grease removal system maintenance.
+b.
+Waste removal. The user shall be responsible for the proper removal and legal disposal of the grease waste per EPD Rule 391-3-6-.24 Regulation of Commercial Waste Originators, Pumpers, Transporters, Processors, and Disposal Facilities. Grease interceptors shall be serviced by a state registered transporter, and a completed manifest shall be kept on site by the user for every service event. Cleaning and maintenance of grease interceptors shall include the complete removal of all contents, including solids and liquids, including from the tank walls, baffles, cross pipes, inlets and outlets, two tee's, and the cover. Top skimming, decanting, or back flushing of the grease interceptor is prohibited. Further, the discharge of liquid, semi-solids, or solids into a grease interceptor from vehicles after servicing is prohibited. Vehicles capable of separating water from grease shall not discharge separated water into the grease interceptor, or POTW.
+c.
+Waste disposal. Grease waste shall not be disposed of to the POTW or stormwater collection system. All grease waste shall be tracked by an Athens-Clarke County approved three-part manifest, and the waste shall be disposed of at a facility permitted and approved to receive such waste.
+d.
+Manifest transmittal. The user shall maintain a legible copy of the completed three-part manifest on site for each service event for a period of at least three years. Failure to provide all manifests for review by Athens-Clarke County may result in a fine.
+(6)
+Repairs. All costs for repair of grease removal systems are the responsibility of the user. The food service facility shall be responsible for scheduling all repairs to its grease removal system. Repairs required by Athens-Clarke County shall be completed within 30 calendar days after the date of written notice of required repairs is received by the facility, unless the public utilities director approves in writing a different schedule.
+(7)
+Inspection. Athens-Clarke County may inspect grease removal systems as necessary to confirm that proper efficiency of the grease removal system is being achieved.
+a.
+Entry. Each food service establishment shall allow Athens-Clarke County personnel access at reasonable times to all parts of the premises for the purpose of inspection, observation, records examination, measurement, sampling, and testing in accordance with the provisions of this section. This includes the taking of photographs to document conditions. The refusal of any food service establishment to allow Athens-Clarke County personnel entry to or upon the facility's premises for the purposes listed shall constitute a violation of this section.
+b.
+Monitoring. Athens-Clarke County personnel shall have the right to sample and analyze the wastewater from any food service establishment at any time to determine levels of FOG contained within a facility's discharge.
+c.
+Failed inspection. If a grease interceptor fails the initial inspection, the inspector may notify the user that the grease interceptor shall be cleaned out within seven calendar days. After seven calendar days, the grease interceptor should be re-inspected.
+d.
+Failed re-inspection. If at the first re-inspection, the grease interceptor is found to be in non-compliance, a notice of violation may be issued, and the user may be told that the grease interceptor shall be cleaned immediately. After three weekdays, the grease interceptor may be re-inspected.
+(8)
+Recordkeeping. It shall be a violation of this section for a user to allow the removal of its grease interceptor waste without documentation using an approved three-part manifest. The user shall be responsible for maintaining a copy of these manifests on site for a period of three years and subject to Athens-Clarke County's review without prior notification. The manifest shall contain the information listed below:
+a.
+Food Service Establishment:
+Facility name, address, and telephone number
+Interceptor type and size
+Date and volume removed from the interceptor
+Authorized signature (verifying the grease interceptor was cleaned and in operable condition)
+b.
+Service Company Information (Waste Transporter):
+Transporter name, address, and telephone number
+Transporter permit number
+Date and volume removed from the interceptor
+Disposal method
+Authorized signature of transporter
+c.
+Disposal Site:
+Facility name, address, and telephone number
+Facility EPD permit number
+Date and volume received
+Authorized signature verifying receipt of waste
+(9)
+Exceptions and variances. Athens-Clarke County may allow variances or exceptions in extenuating circumstances and shall maintain records of any exceptions granted to this section's design or maintenance requirements, including the rationale, signed by the official granting such exception.
+(10)
+Enforcement. Any violations of this section are subject to the enforcement provisions of this chapter.
+( Ord. of 10-2-2018(1), § 1 )

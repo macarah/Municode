@@ -1,0 +1,347 @@
+Chapter 46 - SOLID WASTE[1]
+Footnotes:
+--- (1) ---
+State Law reference— Solid waste management generally, O.C.G.A. § 12-8-20 et seq.; Georgia Comprehensive Solid Waste Management Act, O.C.G.A. § 12-9-1; hazardous waste management, O.C.G.A. § 12-8-79; local and regional solid waste plans, O.C.G.A. § 12-8-31.1; tire disposal restrictions, O.C.G.A. § 12-8-40.1; yard trimmings and disposal restrictions, O.C.G.A. § 12-8-40.2; authorization for local government units to enforce collection of taxes, fees, or assessments for solid waste management, O.C.G.A. § 12-8-39.3; authority of local governments to adopt and enforce local regulations for the handling and disposal of solid waste, O.C.G.A. § 12-8-30.9; Litter Control Law, O.C.G.A. § 16-7-40; transporting garbage or waste across state or county boundaries pursuant to contract, O.C.G.A. § 36-1-16; Resource Recovery Development Authorities Law, O.C.G.A. § 36-63-1 et seq.; littering highways, O.C.G.A. § 40-6-249.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 46-1. - Definitions.
+For the purpose of this chapter, whenever inconsistent with the context, words used in the present tense include the future tense, words in the plural include the singular, words in the singular include the plural, and the use of any gender shall be applicable to all genders whenever the sense requires. The words "shall" and "will" are mandatory and the word "may" is permissive. Words not defined in this section or otherwise in this chapter shall be given their common and ordinary meaning.
+The following words, terms, phrases and their derivations shall, in this chapter, have the meaning given in this section.
+Approved container or approved bag or container or bag means those containers used in the collection of solid waste, as defined in this chapter, which have been approved by the company for use by both residential and commercial customers.
+Area shall mean the area within the boundaries of the incorporated areas of the City of Milton, as they exist as of the effective date in addition to future boundary changes as outlined in the term "city."
+City means the City of Milton, Georgia, an incorporated municipal government in Fulton County, State of Georgia. Boundaries defining the city limits may be changed via ordinances approved by the city council, for which any new boundary created shall be subject to this contract.
+Commercial unit shall mean any structure, whether freestanding or designed to serve multiple tenants, whose primary purpose is for conducting business.
+Company means any organization, firm, person, entity, corporation or other business that contracts with customers to provide for the collection and disposal of solid waste material as defined in this article, and including but not limited to construction/demolition debris, dead animals, garbage, waste, storm debris, yard trimmings, and recyclable material.
+Construction/demolition debris shall have the meaning set forth by the state department of natural resources, environmental protection division (Georgia EPD chapter 391-3-4.01(14)).
+Construction site shall mean any parcel of land or real property having land disturbance, clearing and grading, demolition, improvements and betterments, renovation, remodeling and/or new construction work performed thereon or about the real property or premises whether or not a land disturbance and/or building permit is required.
+Customer shall mean any firm, person, entity, corporation or organization that contracts with a company for the collection and disposal of solid waste material as defined in this chapter, and including, but not limited to, construction/demolition debris, dead animals, garbage, waste, storm debris, yard trimmings, and recyclable material.
+Dead animals shall mean animals or portions thereof equal to or greater than ten pounds in weight that have died from any cause, except those slaughtered or killed for human use.
+Effective date means any contract executed between the city and any company on or after December 1, 2009.
+Environmental laws means all applicable laws, directives, rules, ordinances, codes, guidelines, regulations, governmental, administrative or judicial orders or decrees or other legal requirements of any kind, including, without limitation, common law, whether currently in existence or hereafter promulgated, enacted, adopted or amended, relating to safety, preservation or protection of human health and the environment (including ambient air, surface water, groundwater, land, or subsurface strata) and/or relating to the handling, treatment, transportation or disposal of waste, substances or materials, including, without limitation, any matters related to releases and threatened releases of materials and substances.
+Garbage shall have the meaning set forth at state department of natural resources, environmental protection division ("Georgia EPD chapter 391-3-4-.01(21)).
+Gross receipts shall mean the total amount collected by the company from any and all customers for services rendered under authority of this chapter as a result of charges for service. Gross receipts shall not include the infrastructure maintenance fee identified in this chapter.
+Hazardous materials means any pollutant, contaminant, hazardous or toxic substance, constituent or material, including, without limitation, petroleum products and their derivatives, or other substances, regulated under or pursuant to any environmental laws. The term "hazardous materials" also includes any pollutant, contaminant, hazardous or toxic substance, constituent or material, including, without limitation, petroleum products and their derivatives, or other substance that is, after the date first written above, deemed hazardous be any judicial or governmental entity, body or agency having jurisdiction to make that determination.
+Hazardous waste means any waste regulated under or pursuant to any environmental laws, including, but not limited to, any solid waste which has been defined as a hazardous waste in regulations promulgated by the board of natural resources, chapter 291-3-11. The term "hazardous waste" also includes hazardous materials and any waste that is, after the effective date of this agreement, deemed hazardous by any judicial or governmental entity, board, body or agency having jurisdiction to make that determination. The term "hazardous waste" will be construed to have the broader, more encompassing definition where a conflict exists in the definitions employed by two or more governmental entities having concurrent or overlapping jurisdiction over hazardous waste.
+Recycling shall have the meaning set forth at state department of natural resources, environmental protection division ("Georgia EPD") chapter 391-3-4-.01(57).
+Residential unit shall mean any structure, whether single family, multi-family, or otherwise whose primary purpose is for living.
+Solid waste means the collection of residential and commercial non-recyclable waste, residential and commercial recyclable waste, and residential yard trimmings/waste.
+Term shall mean a period of one year from the effective date.
+Waste means all putrescible and non-putrescible solid, semi-solid, and liquid wastes, including residential or commercial garbage, trash, refuse, paper, rubbish, ashes, manure, vegetable or animal solid and semi-solid wastes, and other discarded solid and semi-solid wastes.
+Yard trimmings shall have the meaning set forth at state department of natural resources, environmental protection division ("Georgia EPD") chapter 391-3-4-.01(77).
+(Ord. No. 06-11-04, § 1, 11-21-2006; Ord. No. 07-11-54, § 1, 11-15-2007; Ord. No. 08-11-30, § 1, 11-17-2008; Ord. No. 10-11-84, § 1, 11-15-2010; Ord. No. 11-11-117, §§ 1—5, 11-21-2011; Ord. No. 12-12-155, § 5(Exh. A), 12-3-2012; Ord. No. 13-12-191, § 5(Exh. A), 12-2-2013; Ord. No. 15-11-263 , § 5(Exh. A), 11-16-2015; Ord. No. 16-12-291 , § 5(Exh. A), 12-5-2016; Ord. No. 17-11-331 , § 5(Exh. A), 11-20-2017; Ord. No. 18-12-385 , § 5, 12-17-2018; Ord. No. 19-12-411 , Exh. A, 12-16-2019)
+Sec. 46-2. - Purpose.
+This chapter regulates the collection and disposal of waste and garbage including, but not limited to, all waste byproducts of manufacturing or commercial establishments, cinders and ashes from commercial boilers, and cardboard and wooden boxes, crates and barrels, as well domestic waste including meat, vegetable and fruit scraps, cans, bottles, paper, cardboard, rags, ashes, and other such waste material ordinarily disposed from residences, churches, schools, small business establishments, and other such places.
+(1)
+The term "garbage" does not include animals, fowl, and fish entrails, bones and carcasses whether in whole or in part, from business establishments such as slaughterhouses and meat and fish markets. Such material means "other waste."
+(2)
+The term "waste" also includes animal, fowl, and fish excrement, entrails, bones, carcasses in whole or in part and dead animals, and any other refuse material not otherwise classified herein.
+(Ord. No. 08-03-04, § 1(ch. 17, art. 1, § 1), 3-17-2008; Ord. No. 11-11-117, §§ 1—5, 11-21-2011; Ord. No. 12-12-155, § 5(Exh. A), 12-3-2012; Ord. No. 13-12-191, § 5(Exh. A), 12-2-2013; Ord. No. 15-11-263 , § 5(Exh. A), 11-16-2015; Ord. No. 16-12-291 , § 5(Exh. A), 12-5-2016 Ord. No. 17-11-331 , § 5(Exh. A), 11-20-2017; Ord. No. 18-12-385 , § 5, 12-17-2018; Ord. No. 19-12-411 , Exh. A, 12-16-2019)
+Sec. 46-3. - Collection fees.
+All fees are listed in section 46-70, contract and rental fees.
+(Ord. No. 08-03-04, § 1(ch. 17, art. 1, § 3), 3-17-2008; Ord. No. 11-11-117, §§ 1—5, 11-21-2011; Ord. No. 12-12-155, § 5(Exh. A), 12-3-2012; Ord. No. 13-12-191, § 5(Exh. A), 12-2-2013; Ord. No. 15-11-263 , § 5(Exh. A), 11-16-2015; Ord. No. 16-12-291 , § 5(Exh. A), 12-5-2016; Ord. No. 17-11-331 , § 5(Exh. A), 11-20-2017; Ord. No. 18-12-385 , § 5, 12-17-2018; Ord. No. 19-12-411 , Exh. A, 12-16-2019)
+Sec. 46-4. - Medical waste to be disposed of according to state and federal regulations.
+Hospitals and health care professionals or other entities disposing of medical waste including, but not limited to, any device used to puncture or lacerate skin, shall be disposed of in a manner consistent with federal and state regulations.
+(Ord. No. 08-03-04, § 1(ch. 17, art. 1, § 4), 3-17-2008; Ord. No. 11-11-117, §§ 1—5, 11-21-2011; Ord. No. 12-12-155, § 5(Exh. A), 12-3-2012; Ord. No. 13-12-191, § 5(Exh. A), 12-2-2013; Ord. No. 15-11-263 , § 5(Exh. A), 11-16-2015; Ord. No. 16-12-291 , § 5(Exh. A), 12-5-2016; Ord. No. 17-11-331 , § 5(Exh. A), 11-20-2017; Ord. No. 18-12-385 , § 5, 12-17-2018; Ord. No. 19-12-411 , Exh. A, 12-16-2019)
+Secs. 46-5—46-23. - Reserved.
+ARTICLE II. - LITTER CONTROL[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Ord. No. 20-11-460 , § 1(Exh. A), adopted Nov. 16, 2020, repealed former art. II and enacted new provisions to read as herein set out. Former art. II, § 46-24, pertained to similar subject matter and derived from Ord. No. 08-03-04, § 1(ch. 17, art. 1, § 5), adopted March 17, 2008; Ord. No. 11-11-117, §§ 1—5, adopted Nov. 21, 2011; Ord. No. 12-12-155, § 5(Exh. A), adopted Dec. 3, 2012; Ord. No. 13-12-191, § 5(Exh. A), adopted Dec. 2, 2013; Ord. No. 14-11-228, § 1, adopted Nov. 17, 2014; Ord. No. 15-11-263 , § 5(Exh. A), adopted Nov. 16, 2015; Ord. No. 16-12-291 , § 5(Exh. A), adopted Dec. 5, 2016; Ord. No. 17-11-331 , § 5(Exh. A), adopted Nov. 20, 2017; Ord. No. 18-12-385 , § 5, adopted Dec. 17, 2018; and Ord. No. 19-12-411 , Exh. A, adopted Dec. 16, 2019.
+
+Sec. 46-24. - General provisions.
+(a)
+Purpose and intent. The purpose of this article is to protect the public health, safety, environment, and general welfare through the regulation and prevention of litter. The objectives of this article are:
+(1)
+Provide for uniform prohibition throughout the City of Milton of any and all littering on public or private property; and
+(2)
+Prevent the desecration of the beauty and quality of life of the City of Milton and prevent harm to the public health, safety, environment, and general welfare, including the degradation of water and aquatic resources caused by litter.
+(b)
+Applicability. This article shall apply to all public and private property within the City of Milton.
+(c)
+Compatibility with other regulations. This article is not intended to interfere with, abrogate, or annul any other article, rule or regulation, stature, or other provision of law. The requirements of this article should be considered minimum requirements, and where any provision of this article imposes restrictions different from those imposed by any other article, rule or regulation, or other provision of law, whichever provisions are more restrictive or impose higher protective standards for human health or the environment shall be considered to take precedence.
+(d)
+Severability. If the provisions of any article, section, subsection, paragraph, subdivision or clause of this article shall be judged invalid by a court of competent jurisdiction, such order of judgment shall not affect or invalidate the remainder of any article, section, subsection, paragraph, subdivision or clause of this article.
+( Ord. No. 20-11-460 , § 1(Exh. A), 11-16-2020)
+Sec. 46-25. - Definitions.
+(a)
+For purposes of this article, the following definitions shall apply:
+(1)
+Litter means any organic or inorganic waste material, rubbish, refuse, garbage, trash, hulls, peelings, debris, grass, weeds, ashes, sand, gravel, slag, brickbats, metal, plastic, and glass containers, broken glass, dead animals or intentionally or unintentionally discarded materials of every kind and description which are not "waste" as such term is defined in O.C.G.A., § 16-7-51, paragraph 6.
+(2)
+Public or private property means the right of way of any road or highway; any body of water or watercourse or the shores thereof; any park, playground, building, refuge, or conservation or recreation area; timberlands or forests; and residential, commercial, industrial, or farm properties.
+( Ord. No. 20-11-460 , § 1(Exh. A), 11-16-2020)
+Sec. 46-26. - Prohibition against littering public or private property or waters.
+(a)
+It shall be unlawful for any person or persons to dump, deposit, throw or leave or to cause or permit the dumping, depositing, placing, throwing or leaving of litter on any public or private property in the City of Milton or any waters in the City of Milton unless:
+(1)
+The property is designated by the state or by any of its agencies or political subdivisions for the disposal of such litter, and such person is authorized by the proper public authority to use such property;
+(2)
+The litter is placed into a receptacle or container installed on such property; or
+(3)
+The person is the owner or tenant in lawful possession of such property, or has first obtained consent of the owner or tenant in lawful possession, or unless the act is done under the personal direction of the owner or tenant, all in a manner consistent with the public welfare.
+(4)
+Construction site operators must control waste such as discarded building materials, concrete truck washout, chemicals, litter, and sanitary waste at the construction site that may cause adverse impacts to water quality.
+( Ord. No. 20-11-460 , § 1(Exh. A), 11-16-2020)
+Sec. 46-27. - Vehicle loads causing litter.
+No person shall operate any motor vehicle with a load on or in such vehicle unless the load on or in such vehicle is adequately secured to prevent the dropping or shifting of materials from such load onto the roadway.
+( Ord. No. 20-11-460 , § 1(Exh. A), 11-16-2020)
+Sec. 46-28. - Violations, enforcement and penalties.
+(a)
+Violations. It shall be unlawful for any person to violate any provision or fail to comply with any of the requirements of this article. Any person who has violated or continues to violate the provisions of this article, may be subject to the enforcement actions outlined in this section or may be restrained by injunction or otherwise sentenced in a manner provided by law.
+(b)
+Evidence.
+(1)
+Whenever litter is thrown, deposited, dropped or dumped from any motor vehicle, boat, airplane, or other conveyance in violation of this article, it shall be prima facie evidence that the operator of the conveyance has violated this article.
+(2)
+Except as provided in subsection (1), whenever any litter which is dumped, deposited, thrown or left on public or private property in violation of this article is discovered to contain any article or articles, including but not limited to letters, bills, publications or other writing which display the name of the person thereon in such a manner as to indicate that the article belongs or belonged to such person, it shall be a rebuttable presumption that such person has violated this article.
+(c)
+Penalties. Any person who violates this article shall be guilty of a violation and, upon conviction thereof, shall be punished as follows:
+(1)
+By a fine of not less than $200.00 and not more than $1,000.00; and
+(2)
+In addition to the fine set out in subsection (1) above, the violator shall reimburse the City of Milton for the reasonable cost of removing the litter when the litter is or is ordered removed by the City of Milton; and
+(3)
+The court may publish the names of persons convicted of violating this article.
+(d)
+Enforcement. All law enforcement agencies, officers and officials of this state or any political subdivision thereof, or any enforcement agency, officer or any official of any commission of this state or any political subdivision thereof, are hereby authorized, empowered and directed to enforce compliance with this article.
+( Ord. No. 20-11-460 , § 1(Exh. A), 11-16-2020)
+Secs. 46-29—46-43. - Reserved.
+ARTICLE III. - COLLECTION SERVICES[3]
+Footnotes:
+--- (3) ---
+Editor's note— Ord. No. 21-05-480 , § 1, adopted May 24, 2021, repealed art. III in its entirety and enacted a new art. III to read as herein set out. Former art. III, §§ 46-63—46-73, 46-93—46-96, 46-116—46-124, pertained to similar subject matter. See the Code Comparative Table for a complete derivation.
+
+DIVISION 1. - GENERALLY
+
+Secs. 46-44—46-62. - Reserved.
+DIVISION 2. - CONTRACTUAL PROVISIONS
+
+Sec. 46-63. - Authority.
+The city is empowered to contract with one or several third parties to collect and dispose of all garbage, waste, commercial waste, and yard waste generated by the city. In addition, the city may sell franchise rights in garbage collection to third parties.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-64. - Grant of nonexclusive contract.
+The city shall hereby grant to companies a nonexclusive contract pursuant to the terms set forth herein to use the public streets, alleys, roads, and thoroughfares within the city for the purpose of operating and engaging in the business of collecting and disposing of waste; including, but not limited to, contracting with customers and providing service pursuant to contract therefore, placing and servicing containers, operating trucks, vehicles, and trailers, and such other operations and activity as are customary and/or incidental to such business and service.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-65. - Term.
+A company shall perform under its contract immediately upon the effective date and throughout the contract term, as set forth more particularly below.
+(a)
+It is the city's intent to provide for one-year contracts under this article to begin on July 1 of the year in which the city council approves a company's application and request to contract ("application"), as defined and set forth more particularly in section 46-123, and terminating at the end of June 30 of the following year. To that end, companies shall annually submit an application in accordance with section 46-123 by June 1 prior to expiration of the then-current contract term. The city may in its discretion approve an application submitted after the June 1 deadline, provided that the term of any such resulting contract shall be for a period of less than one year and shall terminate at the end of the following June 30, as with other contracts under this subsection. Nothing herein shall preclude the city from recovering those fees described in section 46-70 for any period during which a company operates within corporate city limits without a contract.
+(b)
+Unless amended pursuant to subsection (c) of this section, the term of an unexpired contract entered prior to May 10, 2021 shall remain for a period of one year beginning on the effective date of the contract execution and terminating on the first anniversary of said date, with the provisions of said contract remaining the same as set forth in this article as it existed prior to May 10, 2021.
+(c)
+A company with an unexpired contract entered prior to May 10, 2021 may seek to become subject to the provisions of this article, as amended, by submitting by June 1, 2021 an application in accordance with section 46-123 of this article. If such application is approved by the city council, the new termination date for the resulting amended contract shall be at the end of June 30, 2022, and said contract shall be governed by the provisions of this article, as amended.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-66. - Scope and nature of operation.
+(a)
+Residential and commercial refuse and waste. The company may collect and deliver for disposal all residential and commercial refuse and waste accumulated within the corporate limits of the city by the company's customers and the words "refuse," "garbage," "trash," and "waste" when used in this article are used for convenience and, unless the context shows otherwise, refer to yard trimmings, recycling, storm debris, garbage, and construction/demolition debris. The company will furnish the personnel and equipment to collect refuse, provide the services described herein, and as contracted for with its customers, in an efficient and businesslike manner.
+(b)
+Service provided. Company shall provide container, bin, and other collection service for the collection of residential and commercial refuse and waste according to the individual customer agreements and applicable city regulations and shall make provision for the special collection of such refuse and waste upon request. The company shall cause or require its equipment, containers, and bins to be kept and maintained in a manner to not cause or create a threat to the public health and shall keep the same in a good state of repair.
+(c)
+Collection operation. Save and except as provided in this section, collection shall not start before 7:30 a.m. or continue after 7:30 p.m. at any location. Company may request variances to this collection period provided that, in the determination of the city, collections: (i) are made in a manner that does not cause or result in loud noise; and (ii) are made at a location which will not cause the disturbance of persons occupying the premises or neighboring property. All requests for variances of times must be submitted to the city manager, or his designee, and include documentation on the hardship created by the collection operation period. Should such a collection operation variance be granted and the city receives two complaints about the collection operation in any six-month time period, the city shall verify and substantiate the factual basis for any complaints. Should the complaints be substantiated, the collection operation variance will be revoked. The frequency of collection shall be determined by each individual customer agreement.
+(d)
+Holidays. The company shall observe such holidays as it, in its sole discretion, determines appropriate. Notification must be given by the company to its customers of the holidays and resulting collection cycles.
+(e)
+All companies must maintain a local customer service telephone number while conducting business within the city. The telephone number must be publicly listed in a phone book and available through directory assistance. Each company providing trash receptacles, whether commercial or residential, must mark each receptacle with the company's name and telephone number in letters not less than four inches in height. Each company must provide a mechanism to accept, investigate, and respond to customer complaints. Companies are strongly encouraged to use multi-media devices including interactive websites, e-mail, fax, and automated telephone systems. Service calls received by the city as a result of noncompany performance will result in the consideration of revocation of a nonexclusive contract or the city's choice to not renew an existing agreement.
+(f)
+Any invoice, bill, statement, or other device intended to request remittance by the customer to the company of funds for payment of service shall include at a minimum, the company's telephone number and payment methods available to customers.
+(g)
+All companies providing residential service or service to residential multi-family units must provide a recycling program to all customers. This program is intended to promote recycling programs throughout the city by reducing the amount of waste landfilled. Commodities may be commingled by the consumer and collected commingled by the hauler. Recycled commodities which must be offered in all programs are as follows: steel and tin cans; aluminum cans, foil, pie pans, plastic items (#1, #2, and #3); cardboard, cereal boxes, and any non-waxed paper containers; brown paper grocery bags; newspapers; magazines; telephone books; junk mail; office papers; and school papers. Customers shall be charged for the recycling program by the company regardless of utilization of the service. Haulers are to include this service with their residential rate structure; however, the charge for recycling shall be shown separate from other services provided.
+(h)
+All companies providing commercial service must offer and promote a recycling program to all customers. This program is intended to promote recycling programs throughout the city by reducing the amount of waste landfilled.
+(i)
+All companies providing residential service must offer the collection of yard trimmings to all customers. This program is intended to assist in the collection and disposal of grass clippings; leaves; pine cones and needles; twigs, limbs, and trunks of trees meeting size limitations set by company; bushes; brush; and all other general debris generated from the maintenance of residential yards and lawns.
+(j)
+It shall be the company's obligation and responsibility to educate all customers on industry trends and best practices relating to solid waste collection, removal, and disposal. Such education programs must consist of the following elements: recycling; holiday schedules; new customer information; and any service-related items. All companies have the obligation to inform customers of any non-collected trash or items placed for collection by the customer but not covered under the agreement between the customer and the company. Further, it shall be the company's obligation and responsibility to educate customers on days of collection for each specific service provided. All education and communication between the company and customers should promote the placement of residential collectibles at the curb the night before pick-up. Receptacles, containers, or bagged materials shall not be left at the curb for longer than a 24-hour period.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-67. - Vehicles to be covered and identified.
+(a)
+All vehicles used by company for the collection and transportation of refuse shall be covered at all times while loaded and in transit to prevent the blowing or scattering of refuse onto the public streets or properties adjacent thereto, and such vehicles shall be clearly marked with the company's name and telephone number in letters not less than four inches in height.
+(b)
+Company must provide a comprehensive and proactive driver safety education program which encourages safety on city streets. Such program must be demonstrated and conveyed to the city upon request. Company must comply with all other regulatory agencies, both local, state, or otherwise with respect to commercial vehicle operation within the city. Service calls received by the city as a result of noncompany performance will result in the consideration of revoking a nonexclusive contract or the city's choice to not renew an existing agreement.
+(c)
+Company must manage collection services delivered within the city to minimize the number of vehicles on city roads. Coordination between haulers and service providers is strongly encouraged to manage service vehicles on residential streets and neighborhoods.
+(d)
+Should company utilize "scout" trucks to facilitate collection in residential areas where it is not feasible to use standard collection vehicles, such vehicles must be covered at all times while loaded and in transit should they exceed 30 miles per hour or be driven more than 300 yards on a public street.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-68. - Regulation of containers.
+The company may rent, lease, provide, or define specifications for containers to any customer within the corporate limits of the city for refuse storage and collection purposes subject to the following requirements:
+(1)
+All containers shall be constructed and maintained according to industry practice;
+(2)
+All containers shall be equipped with stable covers to prevent blowing or scattering of refuse while being transported for disposal of their contents;
+(3)
+All containers, save and except those being used for the purpose of collecting and storing rubble, building, and scrap construction materials shall be equipped with covers suitable to prevent blowing or scattering refuse and access to the container by animals while the container is at the site designated by customer;
+(4)
+All containers shall be periodically cleaned, maintained, serviced, and kept in a reasonably good state of repair to prevent the unreasonable accumulation of refuse residues, to avoid excessive odor, and to avoid harborage for rodents and flies resulting from excessive residues remaining after collection of containers;
+(5)
+All containers shall be clearly marked with the company's name and telephone number in letters not less than four inches in height;
+(6)
+All containers shall not be on public rights-of-way and shall be located so as to not interfere, block, obstruct, or impede the normal use of any sidewalk, street, alley driveway, or fire lane, or to block, obstruct, or impede sight distance at street, road, or alley intersections;
+(7)
+All containers, bins, or other collection instruments must be kept free from graffiti, rust, broken and nonoperational parts and pieces, and litter in and around the area; and
+(8)
+It shall be the responsibility of each company to educate their customers on the regulations of containers and maintain industry standards, policies, and procedures, which promote an aesthetically pleasing environment in and around all refuse and waste containers and receptacles.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-69. - Disposal of refuse.
+The company will deliver all waste collected by it from its customers within the city, except for materials which the company may select for recovery and recycling, to a disposal facility that is permitted by the EPD to accept such refuse and waste. Rules and regulations governing hours of operation and disposal practices at the disposal facility will be observed and followed by the company while engaged in the disposal of refuse pursuant to this article. Any items collected as part of a recycling program must be delivered to a facility where recovery and reuse occurs.
+Should any company choose to offload or dispose of materials collected by one vehicle into another for transport to the final disposal facility, company shall make every available effort to perform such refuse transfer on property owned by the company or privately owned property where the company has an agreement with the property owner to perform such activity. In the event any transfer occurs on public land, including streets, alleys, rights-of-way, roads, thoroughfares, avenues, parkways, expressways, or other areas designed and designated for public travel, company shall make every effort available to clean the area after completion of the transfer to insure the area is maintained at the same or better level than if the area was not used for this activity. In the event the city receives complaints regarding this practice, company shall be required to cease from this activity at the location of the complaint.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-70. - Fees.
+Infrastructure maintenance fee. The streets, rights-of-way, and public easements to be used by the company in the operation of its business within the boundaries of the city as such boundaries now exist and exist from time to time during the term of this contract, are valuable public properties acquired and maintained by the city at great expense to its taxpayers, and the city will incur costs to regulate and administer this article. In consideration of such benefits, costs and expenses, the company shall through the term of its operations collect an "infrastructure maintenance fee" equal to five percent of the company's gross receipts to customers within the city (exclusive of sales tax). The term "infrastructure maintenance fee" shall be used on all bills, invoices, or statements sent by any company to a customer under this article. This fee is applicable to haulers that are providing trash and recycling collection to residential accounts as well as haulers serving commercial accounts.
+(1)
+Fees paid. The infrastructure maintenance fee shall be payable quarterly to the city and delivered to the city in conjunction with a statement indicating the derivation and calculation of such payment. Each such quarterly payment shall be due on the 15th day of the second month following the end of the quarterly period for which said payment is due. The quarterly payments shall be due on February 15, May 15, August 15, and November 15 of each year during the term hereof, with the February 15 payment being based upon the company's gross receipts during the calendar quarter ending the prior December 31 and being payment for the rights and privileges granted hereunder for said calendar quarter, the May 15 payment being based upon the company's gross receipts during the calendar quarter ending the prior March 31 and being payment for the rights and privileges granted hereunder for said calendar quarter, the August 15 payment being based upon the company's gross receipts during the calendar quarter ending the prior June 30 and being payment for the rights and privileges granted hereunder for said calendar quarter, and the November 15 payment being based upon the company's gross receipts during the calendar quarter ending the prior September 30 and being payment for the rights and privileges granted hereunder for said calendar quarter. During the implementation of this article, all bills generated by companies after December 1, 2006, shall include the infrastructure maintenance fee. The city shall provide material relating to the education and marketing efforts of the infrastructure maintenance fee as well as provide education and training to company employees to ensure a consistent message is conveyed to constituents of the city. For purposes of verifying the amount of such fee, the books of the company shall at all reasonable times be subject to inspection by the duly authorized representatives of the city. If the infrastructure maintenance fee is not paid by the due date as set forth herein, the company from whom the fee was due shall be assessed and shall pay a late fee in the amount of ten percent of the amount not timely paid. In addition, all amounts otherwise due, including late fees, shall accrue interest at the rate of 1.5 percent per calendar month beginning 30 days after the original due date.
+(2)
+No other rental fees. The infrastructure maintenance fee shall be in lieu of any and all other city-imposed rentals or compensation or contract, privilege, instrument, occupation, excise, ordinance, revenue, or other taxes, fees, or charges (except ad valorem property taxes, special assessments for local improvements, city sales tax, and such other charges for utility services imposed uniformly upon persons, firms, or corporations then engaged in business within the city) or any permits upon or relating to the business, revenue, installations and systems, fixtures, and any other facilities of the company and all other property of the company and its activities, or any part thereof, in the city which relate to the operations of the company pursuant to this article; provided, that this shall not be construed to prevent the company from being required to pay any and all applicable fees and charges in effect from time to time for dumping at a landfill or transfer station.
+(3)
+Credit for fees paid. Should the city not have the legal power to agree that the payment of the foregoing sums of money shall be in lieu of city-imposed rentals; compensation; or contract, privilege, instrument, occupation, excise, ordinance, revenue, or other taxes, fees, or charges, then city agrees that it will apply so much of said sums of money paid as may be necessary to company's obligations, if any, to pay any such city-imposed rentals; compensation; or contract, privilege, instrument, occupation, excise, ordinance, revenue, or other taxes, fees, or charges.
+(4)
+Reporting. Any company providing service pursuant to this article or a resulting contract shall from time to time provide the city with the necessary statistics regarding waste collected and disposed which shall allow the city to comply with state reporting requirements. Such information shall be in the manner and format requested by the city and provide adequate details for the city to maintain compliance with local, state, federal, and all other guidelines relating to solid waste collection, removal, and disposal.
+(5)
+Dedicated revenue. The infrastructure maintenance fee collected by the city under this article shall be dedicated to the following: (i) maintenance of the city's streets, corridors, alleys, thoroughfares, and transportation routes; (ii) administration of contract compliance between customers and companies where service is received as provided in this article; and (iii) collection of litter, trash and hazardous waste materials within the city.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-71. - Compliance with law.
+The company shall conduct under this article in compliance with the material provisions of all applicable local, state, and federal laws, rules, and regulations, and with the general specifications contained in this article.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-72. - Insurance provided by company.
+(a)
+Minimum coverage requirements. The company shall maintain throughout the term of its contract property damage coverage, general liability insurance, and automobile liability insurance for any automobile owned or operated by company, with an insurance company authorized and licensed to do business in the state and acceptable to the city, insuring against claims for liability and damages for the benefit of the city. The insurance shall include the city as an additional insured. General liability coverage insurance under this section shall be a minimum of $1,000,000.00 per occurrence with a $2,000,000.00 aggregate. Automobile liability insurance under this section shall, at a minimum, have limits of $1,000,000.00 for each occurrence. Additionally, umbrella coverage of $1,000,000.00 on both automobile liability insurance and general liability insurance is required.
+(b)
+Employer's liability. If the company is required by state statute, the company shall maintain throughout the term of the contract resulting from this article the requisite statutory workers' compensation insurance, and a minimum of $100,000.00 employer's liability insurance. Company shall be required to show compliance to this section by submitting documentation of such coverage from an approved carrier licensed in the state, or documentation explaining the exemption from employer's liability insurance should they not meet the state requirements to carry such coverage.
+(c)
+Certificate of insurance. The insurance policy, or policies, obtained by the company in compliance with this section shall be approved by the city manager or his designee in the city manager's or his designee's reasonable discretion, and the certificate of insurance for the insurance policy shall be filed and maintained with the city during the term of the contract resulting from this article with a copy of the endorsement required under subsection (d) to be attached or made a part of such certificate.
+(d)
+Endorsements. All insurance policies maintained pursuant to this article shall contain the following conditions by endorsement:
+(1)
+Additional insured. The city shall be an additional insured and the term "owner" and "city" shall include all authorities, boards, bureaus, commissions, divisions, departments, and offices of the city and the individual members, officers, employees, and agents thereof in their official capacities and/or while acting on behalf of the city.
+(2)
+Other insurance clause. The policy clause "other insurance" shall not apply to the city when the city is an insured on the policy.
+(3)
+No recourse. Companies issuing the insurance policies shall not have recourse against the city for payment of any premium or assessment.
+(e)
+Increase requirements. The city may choose to amend this article to make reasonable adjustments to the insurance coverage and their limits when deemed necessary and prudent based upon changes in statutory law, court decisions, or the claims history of the industry.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-73. - Indemnification and hold harmless.
+The company agrees to indemnify, defend, and save harmless the city, its agents, officers, and employees against and from any and all claims by or on behalf of any person, firm, corporation, or other entity arising from any negligent act or omission or willful misconduct of the company or any of its agents, contractors, servants, employees, or contractors, and from and against all costs, counsel fees, expenses, and liabilities incurred in or about any such claim or proceeding brought thereon. Promptly after receipt from any third party by city of a written notice of any demand, claim, or circumstance that, immediately or with the lapse of time, would give rise to a claim or the commencement (or threatened commencement) of any action, proceeding, or investigation (an "asserted claim") that may result in losses for which indemnification may be sought hereunder, the city shall give written notice thereof (the "claims notice") to the company provided, however, that a failure to give such notice shall not prejudice the city's right to indemnification hereunder except to the extent that the company is actually and materially prejudiced thereby. The claims notice shall describe the asserted claim in reasonable detail, and shall indicate the amount (estimated, if necessary) of the losses that have been or may be suffered by the city when such information is available. The company may elect to compromise or defend, at its own expense and by its own counsel, any asserted claim. If the company elects to compromise or defend such asserted claim, it shall, within 20 business days following its receipt of the claims notice (or sooner, if the nature of the asserted claim so requires) notify the city of its intent to do so, and the city shall cooperate, at the expense of the company, in the compromise of, or defense against, such asserted claim. If the company elects not to compromise or defend the asserted claim, fails to notify the city of its election as herein provided, or contests its obligation to provide indemnification under this agreement, the city may pay, compromise, or defend such asserted claim with all reasonable costs and expenses borne by the company. Notwithstanding the foregoing, neither the company nor the city may settle or compromise any claim without the consent of the other party; provided, however, that such consent to settlement or compromise shall not be unreasonably withheld. In any event, the city and the company may participate at their own expense, in the defense of such asserted claim. If the company chooses to defend any asserted claim, the city shall make available to the company any books, records, or other documents within its control that are necessary or appropriate for such defense.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Secs. 46-74—46-92. - Reserved.
+DIVISION 3. - TERMINATION OR TRANSFER OF CONTRACT
+
+Sec. 46-93. - Forfeiture and terminating of contract.
+(a)
+Material breach. In addition to all other rights and powers retained by the city under this article or otherwise, the city reserves the right to declare any resulting contract from this article forfeited and to terminate the contract and all rights and privileges of the company hereunder in the event of a material breach of the terms and conditions hereof. A material breach by company shall include, but shall not be limited to, the following:
+(1)
+Fees. Failure to pay the fees set out in section 46-70;
+(2)
+Telephone listings. Failure to keep and maintain a local telephone listing and office or answering service that is available by phone without long distance charge during regular business hours for service to the public, and which telephone or office shall, at minimum, provide and maintain the following services:
+a.
+Coordinate and provide information concerning deposits, payments, and accounts to customers and prospective customers;
+b.
+Respond to customer and prospective customer questions and issues about billings, accounts, deposits, and services;
+c.
+Coordination with the city with respect to private sector and public works projects and issues related to or affecting the company's operation; and
+d.
+Immediate response, upon request, to police, fire, and other emergency situations in which the public health and safety requires action with respect to or assistance regarding company's property.
+(3)
+Failure to provide service. Failure to materially provide the services provided for in this article;
+(4)
+Misrepresentation. Material misrepresentation of fact in the application for or negotiation of any contract pursuant to this article; or
+(5)
+Conviction. Conviction of any director, officer, employee, or agent of the company of the offense of bribery or fraud connected with or resulting in the award of a contract under this article.
+(b)
+Operation information. Material misrepresentation of fact knowingly made to the city with respect to or regarding company's operations, management, revenues, services, or reports required pursuant to this article.
+(c)
+Economic hardship. Company shall not be excused from performance under a contract by mere economic hardship nor by misfeasance or malfeasance of its directors, officers, or employees.
+(d)
+Forfeiture and proceedings. Any unwarranted and intentional neglect, failure, or refusal of the company to comply with any material provision of this article or contract under this article within 30 days after written notice from city setting forth the specific provision and noncompliance, said notice to be mailed to company at its principal place of business by certified mail, return receipt requested, shall be deemed a breach of this article, and the city council, upon notice to company and hearing, may for good cause declare a contract forfeited and exclude company from further use of the streets of the city under this article, and the company shall thereupon surrender all rights in and under this article and contract.
+(1)
+Proceedings. To declare a contract under this article forfeited, the city shall make a written demand that the company comply with any such provision, rule, order, or determination under or pursuant to this article. If such violation by the company continues for a period of 30 days following such written demand without written proof that the corrective action has been taken or is being actively and expeditiously pursued, the council may take under consideration the issue of termination of the company's contract under this article. The city shall cause to be served upon company, at least 20 days prior to the date of such a council meeting, a written notice of intent to request such termination and the time and place of the meeting. Notice shall be given of the meeting and issue which the council is to consider.
+(2)
+Hearing. The council shall hear and consider the issue, hear any person interested therein, and shall determine whether or not any violation by the company has occurred.
+(3)
+Forfeiture. If the council shall determine that the violation by the company was the fault of company and within its control, the council may declare the contract forfeited and terminated, or the council may grant to company a period of time for compliance.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-94. - Transfer, sale or conveyance by company.
+The company shall not transfer, assign, sell, or convey any rights granted under any resulting contract from this article without the prior approval of the city council; provided that this section shall not apply to vehicles, replacements, maintenance, upgrades, or modifications of equipment, machinery, containers, and buildings by company for the purpose of maintaining and continuing its operation within the city; and provided further that company may, in its sole discretion and upon written notice to the city, transfer, assign, sell, or convey their rights under this article to a wholly owned subsidiary of the company or to an affiliated entity that is under common control with company (i.e., has a common parent entity).
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-95. - Foreclosure.
+Upon the foreclosure or other judicial sale of all or a substantial part of the assets and property of the company used for and dedicated to providing service pursuant to this article, the company shall notify the city of such fact, and such notification shall by treated as a notification that a change in control of the company has taken place and the provisions of this article governing the consent of the council to such change in control of the company shall apply. Upon the foreclosure or judicial sale, or the leasing of all or a substantial part of the property and assets of the company dedicated to and used for the purposes of providing service pursuant to this article, without the prior approval of the council, the council may, upon hearing and notice, terminate any contract resulting from this article.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-96. - Receivership and bankruptcy.
+Cancellation option. The council shall have the right to cancel any contract resulting from this article 120 days after the appointment of a receiver or trustee to take over and conduct the business of the company, whether in receivership, reorganization, bankruptcy, other action or preceding, whether voluntary or involuntary, unless such receivership or trusteeship shall have been vacated prior to the expiration of said 120 days, unless:
+(1)
+Trustee compliance. Within 120 days after his election or appointment, such receiver trustee shall have fully complied with all the provisions of this article and remedied all defaults thereunder; or
+(2)
+Trustee agreement. Such receiver or trustee, within 120 days, shall have executed an agreement, duly-approved by the court having jurisdiction, whereby the receiver or trustee assumes and agrees to be bound by each and every provision of this article granted to the company.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-97. - Termination by mutual agreement.
+The council and a company may agree to terminate a contract under this article by mutual written consent signed by the parties and approved at a council meeting; provided, however, that the date of such termination shall be 31 days after the date of approval by the council. On the date following approval by the council of the mutual agreement to terminate, the company shall provide its customers 30 days' advance notice of the impending last date of service. The company shall remain in full compliance with the terms of this article until termination of the contract, and the company shall continue to remit payment of infrastructure maintenance fees for any portion of a quarter in which the company continues to operate in corporate city limits.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Secs. 46-98—46-115. - Reserved.
+DIVISION 4. - ADDITIONAL PROVISIONS
+
+Sec. 46-116. - Retention of city police powers.
+The city retains and reserves all of its police powers and the rights, privileges, and immunities that it now has under the law to regulate, patrol, and police the streets and public ways within the city, and the granting of any contract as a result of this article shall in no way interfere with the improvements to, or maintenance of, any street, alley, or public way, and the rights of the city to use said streets, alleys and public ways.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-117. - Amendments of city ordinances and regulations.
+The city reserves the right and power, pursuant to its police power, after due notice to company, to modify, amend, alter, change or eliminate any rules, regulations, fees, charges, and rates of the city, and to impose such additional conditions that are not inconsistent with the rights granted by this article upon the company and all persons, firms, or entities of the same class as the company as may be reasonably necessary in the discretion of the city council to preserve and protect the public, health, safety, and welfare and/or ensure adequate service to the public.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-118. - Taxes.
+The company shall promptly pay all lawful ad valorem taxes, levies, and assessments, if any, that are imposed upon the company. Absent an administrative or judicial challenge or appeal, the failure to pay any such tax, levy, or assessment shall be a breach of this article.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-119. - Public necessity.
+The council hereby finds and declares that the public welfare, convenience, and necessity require the service which is to be furnished by the company.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-120. - No suspension of laws.
+All provisions of the ordinances of the city as now existing or as may be amended from time to time, and all provisions of the statutes of the state applicable to general law cities shall be a part of any resulting contract from this article as fully as if the same had been expressly stated herein, and said the city retains and may exercise all of the governmental and police powers and all other rights and powers not directly inconsistent with the terms, conditions, and provisions of this article.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-121. - Peaceful employment.
+From and after the effective date of this article, the city and the company shall be and are hereby authorized and entitled to act in reliance upon the terms, conditions, and provisions of this article and any resulting contract and, subject thereto, the company shall collect rates for service, operate and conduct its business and work within the city, and enjoy the benefits and privileges of this article during the term hereof.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-122. - Endorsements and records.
+The city clerk is directed to make endorsements as appropriate over his/her official hand and the seal of the city on the form provided at the conclusion of this article, for the public record and convenience of the citizens, of the date upon which this article is finally passed and adopted.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-123. - Acceptance by company.
+(a)
+All companies operating a residential or commercial refuse waste service shall file with the city its acceptance of the terms and provisions of this article, and request for contract. The acceptance and request for contract (the "application") shall be in writing in a format provided by the city substantially as follows:
+City of Milton
+2006 Heritage Walk
+Milton, GA 30004
+_______(the "Company"), acting by and through an officer who is acting within its official capacity and authority, hereby accepts the City of Milton Solid Waste Ordinance to operate a refuse and solid waste collection and disposal system within the City as said Ordinance is set forth in the City of Milton Code of Ordinances as Part II, Chapter 46 - Solid Waste, Article III - Collection Services, which Ordinance is hereby incorporated herein by reference and as it may be amended from time to time. The Company agrees to be bound and governed by each term, provision, and condition of the Ordinance, to accept and to give the benefits provided by the Ordinance, and to perform each service and duty set forth and provided for in the Ordinance in a businesslike and reasonable manner and in compliance with the Ordinance.
+Company:_______
+By:_______
+Printed Name:_______
+Title:_______
+If the company is a partnership, limited liability company, corporation, or other legal entity, the application must be executed by a duly-authorized officer, manager, member, partner, or shareholder, as applicable. If the company is not a corporate entity, the application must be executed by the person primarily responsible for the operation of the company within corporate city limits. Signatures on the application shall be notarized, and the following information and/or items must be included with the application:
+(1)
+The company's full legal name and any other names, including business or trade names, used by the company in the preceding four years. If the company is a sole proprietor, the company's full legal name must be that of a natural person, and any nicknames or aliases for such person must also be specified.
+(2)
+The company's current business address(es), which shall include at least one physical address, and the address of the company's registered agent for service of process if the company is a corporate entity.
+(3)
+If the company is not a sole proprietor, then the partnership, limited liability company, corporation, or other legal entity shall submit a complete list of its:
+a.
+Officers;
+b.
+Directors;
+c.
+Partners, members, or shareholders holding a ten percent or greater ownership interest in such legal entity, or if there is no shareholder with at least a ten percent interest, the ten shareholders with the greatest ownership interest; and
+d.
+Employee or agent primarily responsible for operation of the company.
+Where a company has an existing contract under this article, the company may omit the information under this subsection (a)(3) for any subsequent applications so long as the company is in compliance with the terms of this article.
+(4)
+A sworn statement of whether the company or any person/entity listed in response to subsection (a)(3) of this section has been an owner, director, officer, partner, member, shareholder, or employee or agent primarily responsible for operation with respect to any company operating a residential or commercial refuse waste service that has, within the preceding four-year period, had a contract pursuant to this article forfeited or terminated (at a time during which the person/entity was so related to the company). Where a company has an existing contract under this article, the company may omit the information under this subsection (a)(4) for any subsequent applications so long as the company is in compliance with the terms of this article.
+(5)
+If the company is a partnership, limited liability company, corporation, or other legal entity, the company must submit sufficient documentation to confirm that the individual signing the application has authority to enter contracts on behalf of the company. Where a company has an existing contract under this article, and so long as the company has not changed those individuals authorized to enter contracts on behalf of the company, the company may omit the information under this subsection (a)(5) for any subsequent applications.
+(6)
+A certificate of insurance and endorsement as set forth in section 46-72 of this article.
+(b)
+If any of a company's information set forth in subsection (a) of this section changes during the contract term, the company must supplement and update such information with the city within ten business days.
+(c)
+Initial applications shall be submitted within 30 days of a company establishing or conducting business within corporate city limits. Subsequent applications to continue conducting business within corporate city limits shall be submitted by June 1 prior to expiration of the then-current term.
+(d)
+Where a company or any person/entity listed in response to subsection (a)(3) of this section has failed to pay infrastructure maintenance fees for any reason during the preceding four-year period, including a failure of the company to renew its contract under this article, it shall be a requirement that the company satisfy such unpaid fees for the preceding four-year period prior to or as part of its application.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)
+Sec. 46-124. - Decal.
+Upon satisfactory compliance with the requirements set forth in this chapter in order to allow the company to collect and/or dispose of waste, garbage and/or refuse, the city shall issue to the company a decal designating the company as an approved city hauler in compliance with the city's solid waste ordinance.
+( Ord. No. 21-05-480 , § 1, 5-24-2021)

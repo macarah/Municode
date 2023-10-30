@@ -1,0 +1,546 @@
+Chapter 155 - SITING AND CONSTRUCTION OF WIRELESS TELECOMMUNICATIONS TOWERS AND FACILITIES
+
+Sec. 155.01. - Purpose and legislative intent.
+The Telecommunications Act of 1996 affirmed the County of Clay's authority concerning the placement, construction and modification of Wireless Telecommunications Facilities. The County finds that Wireless Telecommunications Facilities may pose significant concerns to the health, safety, public welfare, character and environment of the Clay County and its inhabitants. The County also recognizes that facilitating the development of wireless service technology can be an economic development asset to the citizens of Clay County, Georgia and of significant benefit to Clay County and its residents. In order to insure that the placement, construction or modification of Wireless Telecommunications Facilities is consistent with Clay County's land use policies, the Clay County Board of Commissioners is adopting a single, comprehensive, Wireless Telecommunications Facilities application and permit process. The intent of this Local Ordinance is to minimize impact of Wireless Telecommunications Facilities, establish a fair and efficient process for review and approval of applications, assure an integrated, comprehensive review of the visual and environmental impacts of such facilities, and protect the health, safety and welfare of the citizens of Clay County, Georgia.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.02. - Title.
+This Ordinance shall be known and cited as the Wireless Telecommunications Facilities Siting Ordinance for the County of Clay, Georgia.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.03. - Severability.
+(A)
+If any word, phrase, sentence, part, section, subsection, or other portion of this Ordinance or any application thereof to any person or circumstance is declared void, unconstitutional, or invalid for any reason, then such word, phrase, sentence, part, section, subsection, or other portion, or the proscribed Application thereof, shall be severable, and the remaining provisions of this Ordinance, and all applications thereof, not having been declared void, unconstitutional, or invalid, shall remain in full force and effect.
+(B)
+Any Tall Structure Permit or Co-location Permit issued under this Ordinance shall be comprehensive and not severable. If part of a permit is deemed or ruled to be invalid or unenforceable in any material respect, by a competent authority, or is overturned by a competent authority, the permit shall be void in total, upon determination by the Clay County Board of Commissioners.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.04. - Definitions.
+For purposes of this Ordinance, and where not inconsistent with the context of a particular section, the defined terms, phrases, words, abbreviations, and their derivations shall have the meaning given in this section. When not inconsistent with the context, words in the present tense include the future tense, words used in the plural number include words in the singular number and words in the singular number include the plural number. The word "shall" is always mandatory, and not merely directory.
+"Accessory Facility or Structure" means an accessory facility or structure serving or being used in conjunction with Wireless Telecommunications Facilities, and located on the same property or lot as the Wireless Telecommunications Facilities, including but not limited to, utility or transmission equipment storage sheds or cabinets.
+"Antenna" means a system of electrical conductors that transmit or receive electromagnetic waves or radio frequency or other wireless signals.
+"Applicant" means any Wireless service provider submitting an Application for a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities.
+"Application" means all necessary and appropriate documentation that an Applicant submits in order to receive a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities.
+"Board" means the Board of Commissioners of Clay County, Georgia.
+"Co-location" means the use of an existing Tower or structure to support Antenna for the provision of wireless services.
+"Co-location Permit" means the official document or permit by which an Applicant is allowed to file for a building permit to use an existing Tower or structure to support Antenna for the provision of wireless services Wireless Telecommunications Facilities as granted or issued by the Board of Commissioners of Clay County, Georgia.
+"Completed Application" means an Application that contains all information and/or data necessary to enable an informed decision to be made with respect to an Application.
+"County" means Clay County, Georgia.
+"DAS" or "Distributive Access System" means a technology using antenna combining technology allowing for multiple carriers or Wireless Service Providers to us the same set of antennas.
+"FAA" means the Federal Aviation Administration, or its duly designated and authorized successor agency.
+"FCC" means the Federal Communications Commission, or its duly designated and authorized successor agency.
+"Habitable" means fit for human habitation; fit for human/humans to live in.
+"Height" means, when referring to a Tower or structure, the distance measured from the pre-existing grade level to the highest point on the Tower or structure, even if said highest point is an Antenna or lightening protection device.
+"IEEE" means the Institute of Electrical and Electronics Engineers.
+"Impracticability" or "Commercially Impracticable" means the inability to perform an act on terms that are reasonable in commerce; the cause or occurrence of which could not have been reasonably anticipated or foreseen and that jeopardizes the financial efficacy of the project. The inability to achieve a satisfactory financial return on investment or profit, standing alone, shall not deem a situation to be "commercial impracticable" and shall not render an act or the terms of an agreement "commercially impracticable".
+"Modification" or "Modify" means, the addition, removal or change of any of the physical and visually discernable components or aspects of a wireless facility, such as antennas, cabling, equipment shelters, landscaping, fencing, utility feeds, changing the color or materials of any visually discernable components, vehicular access, parking and/or an upgrade or change-out of equipment for better or more modern equipment.
+Adding a new wireless carrier or service provider to a Telecommunications Tower or Telecommunications Site as a co-location is a modification. A Modification shall not include the replacement of any components of a wireless facility where the replacement is identical to the component being replaced or for any matters that involve the normal repair and maintenance of a wireless facility without adding, removing or changing anything.
+"Need" means anything that is technically required for the wireless service to be provided primarily and essentially within the County of Clay with the least physical and visual impact. This does not necessarily mean the internal design standards of the applicant, as companies. standards can vary greatly and normally reflect preferences. Rather, "Need" relates to the ability of the user-equipment to function as designed.
+"NIER" means Non-Ionizing Electromagnetic Radiation.
+"Person" means any individual, corporation, estate, trust, partnership, joint stock company, association of two or more persons having a joint common interest, or any other entity.
+"Personal Wireless Facility" See definition for, Wireless Telecommunications Facilities.
+"Personal Wireless Services" or "PWS" or "Personal Telecommunications Service" or "PTS" shall have the same meaning as defined and used in the 1996 Telecommunications Act.
+"Repairs and Maintenance" means the replacement or repair of any components of a wireless facility where the replacement is identical to the component being replaced or for any matters that involve the normal repair and maintenance of a wireless facility without the addition, removal or change of any of the physical or visually discernable components or aspects of a wireless facility that will add to the visible appearance of the facility as originally permitted.
+"State" means the State of Georgia.
+"Stealth" or "Camouflage" means disguising a tower or wireless telecommunications facility so as to make it less visually obtrusive and not recognizable to the average person as a wireless telecommunications facility.
+"Stealth" or "Stealth Technology" means to minimize adverse aesthetic and visual impacts on the land, property, buildings and other facilities adjacent to, surrounding, and in generally the same area as the requested location of a Wireless Telecommunications Facility, which shall mean using the least visually and physically intrusive facility that is not technologically or commercially impracticable under the facts and circumstances.
+Stealth technology expressly includes such technology as DAS or its functional equivalent.
+"Tall Structure Permit" means the official document or permit by which an Applicant is allowed to file for a building permit to construct and use new Wireless Telecommunications Facilities as granted or issued by the County of Clay.
+"Telecommunication Site" See definition for Wireless Telecommunications Facilities.
+"Telecommunications" means the transmission and/or reception of audio, video, data, and other information by wire, radio frequency, light, and other electronic or electromagnetic systems.
+"Telecommunications Structure" means a structure used in the provision of services described in the definition of Wireless Telecommunications Facilities.
+"Temporary" means temporary in relation to all aspects and components of this Ordinance, something intended to, or that does, exist for fewer than 90 days.
+"Tower" means any structure designed primarily to support an antenna for receiving and/or transmitting a wireless signal.
+"Wireless Telecommunications Facilities" means and includes a "Telecommunications Site" and "Personal Wireless Facility". It means a structure, facility or location designed, or intended to be used as, or used to support Antennas or other transmitting or receiving devices. This includes without limit, Towers of all types, kinds and structures, including, but not limited to buildings, church steeples, silos, water towers, signs or other structures that can be used as a support structure for Antennas or the functional equivalent of such. It further includes all related facilities and equipment such as cabling, equipment shelters and other structures associated with the site. It is a structure and facility intended for transmitting and/or receiving radio, television, cellular, SMR, paging, 911, Personal Communications Services (PCS), commercial satellite services, microwave services and any commercial wireless telecommunication service not licensed by the FCC.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.05. - Overall policy and desired goals for tall structure permit or co-location permits for wireless telecommunications facilities.
+In order to ensure that the placement, construction and modification of Wireless Telecommunications Facilities protects the citizens of Clay County, Georgia's health, safety, public welfare, environmental features, the nature and character of the community and neighborhood and other aspects of the quality of life specifically listed elsewhere in this Ordinance, the Clay County Board of Commissioners hereby adopts an overall policy with respect to a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities for the express purpose of achieving the following goals:
+(A)
+Requiring a Tall Structure Permit or Co-location Permit for any new, co-location or modification of a Wireless Telecommunications Facility.
+(B)
+Implementing an Application process for person(s) seeking a Tall Structure Permit or Colocation Permit for Wireless Telecommunications Facilities.
+(C)
+Establishing a policy for examining an application and issuing a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities that is both fair and consistent.
+(D)
+Promoting and encouraging, wherever possible, the sharing and/or co-location of Wireless Telecommunications Facilities among service providers.
+(E)
+Requiring, promoting and encouraging, wherever possible, the placement, height and quantity of Wireless Telecommunications Facilities in such a manner, including but not limited to, the use of stealth technology, to minimize adverse aesthetic and visual impacts on the land, property, buildings, and other facilities adjacent to, surrounding, and in generally the same area as the requested location of such Wireless Telecommunications Facilities, which shall mean using the least visually and physically intrusive facility that is not technologically or commercially impracticable under the facts and circumstances.
+(F)
+In granting a Tall Structure Permit or Co-location Permit, the Clay County Board of Commissioners has found that the facility shall be the most appropriate site as regards being the least visually intrusive among those available in the County.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.06. - Exceptions from a tall structure permit or co-location permit for wireless telecommunications facilities.
+(A)
+No Person shall be permitted to site, place, build, construct, modify or prepare any site for the placement or use of a Wireless Telecommunications Facility as of the effective date of this Ordinance without having first obtained a Tall Structure Permit or Co-location Permit for a Wireless Telecommunications Facility as defined in Section 155.04 of this Ordinance or an administratively granted authorization granted under Section 155.09 of this Ordinance, whichever is applicable. Notwithstanding anything to the contrary in this section, no Tall Structure Permit or Co-location Permit shall be required for those noncommercial exceptions noted in Section 155.07, unless deemed in the public interest by the Clay County Board of Commissioners.
+(B)
+If constructed as required by permit, all legally permitted Wireless Telecommunications Facilities that existed on or before the effective date of this Ordinance shall be allowed to continue as they presently exist, provided however, that any visible modification of an existing Wireless Telecommunications Facility will require the complete facility, including the tower if applicable, and any new installation to comply with this Ordinance, as will anything changing the structural load.
+(C)
+Any Repair and Maintenance of a Wireless Facility does not require an application for a Tall Structure Permit or Co-location Permit. However, no additional construction or site modification will be permitted.
+(D)
+Notwithstanding any other provisions of this section and all subparts thereof, the colocation and/or shared use of antennas on existing telecommunication towers or other tall structures or compatible use structures, such as utility poles, water towers, and other towers, shall be exempt from the Public Hearing requirement otherwise required for a tower, and shall be subject only to an administrative review process by the Clay County Board of Commissioners and its designee.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.07. - Exclusions.
+The following shall be exempt from this Ordinance:
+(A)
+The Clay County's fire, Sheriff's or other public service facilities owned and operated by the County and/or its employees and constitutional officers.
+(B)
+Any facilities expressly exempt from Clay County's siting, building and permitting authority.
+(C)
+Over-the-Air reception Devices including the reception antennas for direct broadcast satellites (DBS), multi-channel multipoint distribution (wireless or cable) providers (MMDS), television broadcast stations (TVBS) and other customer-end antennas that receive and transmit fixed wireless signals that are primarily used for reception, but not including microwave dishes.
+(D)
+Facilities used exclusively for private, noncommercial radio and television reception and private citizen's bands, licensed amateur radio and other similar noncommercial Telecommunications.
+(E)
+Facilities used exclusively for providing unlicensed spread spectrum technologies, such as IEEE 802.11a, b, g and n services (e.g., Wi-Fi and Bluetooth) where the facility does not require a new tower.
+(F)
+Facilities used exclusively for agricultural telemetry purposes.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.08. - Tall structure permit or co-location permit application and other requirements for a new tower or for increasing the height of the structure to be attached to.
+(A)
+All Applicants for a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities or any modification of such facility shall comply with the requirements set forth in this Ordinance. The Clay County Board of Commissioners is the officially designated agency or body of the County of Clay to whom applications for a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities must be made, and that is authorized to review, analyze, evaluate and make decisions with respect to granting or not granting or revoking Tall Structure Permit or Co-location Permits for Wireless Telecommunications Facilities. The Clay County Board of Commissioners may at its discretion delegate or designate the Clay County Planning Board or other official agencies or officials of the County of Clay or expert consultants to accept, review, analyze, evaluate and make recommendations to the Clay County Commission with respect to the granting or not granting or revoking Tall Structure Permit or Co-location Permits for Wireless Telecommunications Facilities.
+(B)
+The nonrefundable Application fee for construction of a new Tower or other structure increasing the height shall be $500.00.
+(C)
+All Applicants shall closely follow the instructions for preparing an Application that shall be provided prior to the submittal of an Application or at any time upon request. Not closely following the instructions without permission to deviate from such may result in the Application being returned without action and forfeiting the Application fee, but not the escrow deposit.
+(D)
+When placing wireless facilities on government-owned property or facilities, only noncommercial wireless carriers and users are exempt from the permitting requirements of this Ordinance.
+(E)
+The Clay County Board of Commissioners may reject applications not meeting the requirements stated herein or which are otherwise not complete.
+(F)
+No Wireless Telecommunications Facilities shall be installed, constructed or modified until the Application is reviewed and approved by the Clay County Board of Commissioners and the Tall Structure Permit or Co-location Permit has been issued.
+(G)
+Any and all representations made by the Applicant to Clay County on the record during the Application process, whether written or verbal, shall be deemed a part of the Application and will be deemed to have been relied upon in good faith by the County. Any verbal misrepresentation shall be treated as if it were made in writing.
+(H)
+An Application for a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities shall be signed on behalf of the Applicant by the person preparing the same and with knowledge of the contents and representations made therein and attesting to the truth and completeness of the information.
+(I)
+The Applicant must provide documentation to verify it has the right to proceed as proposed on the Site. This requires an executed copy of the lease with the landowner or landlord or a signed letter of agency acknowledging authorization. If the applicant owns the site, a copy of the ownership record is required.
+(J)
+The Applicant shall include a statement in writing:
+(1)
+That the applicant's proposed Wireless Telecommunications Facilities shall be maintained in a safe manner, and in compliance with all conditions of the Tall Structure Permit or Co-location Permit, without exception, unless specifically granted relief by the Clay County Board of Commissioners in writing, as well as all applicable and permissible local codes, ordinances, and regulations, including any and all applicable Clay County, State and Federal Laws, rules, and regulations; and
+(2)
+That the construction of the Wireless Telecommunications Facilities is legally permissible, including, but not limited to the fact that the Applicant is authorized to do business in the State.
+(K)
+In addition to all other required information as stated in this Ordinance, all applications for the construction or installation of new Wireless Telecommunications Facilities or modification of an existing facility shall contain the information hereinafter set forth.
+Note that an Applicant will be granted permission for anything that it can conclusively prove the technical need for, but that there is often a significant difference between need, and want, or desire. For example, an assertion that the "need is based on an Applicant's own design criteria shall not suffice to prove the technological need for what is requested. For purposes of permitting under this Ordinance, "need" shall mean what is technologically needed for the equipment to function as designed by the manufacturer and that anything less will result in prohibiting or acting in a manner that prohibits the provision of service as intended and described in the narrative of the Application.
+Proof of Need for the Facility:
+(1)
+A detailed narrative description and explanation of the specific objective(s) for the new facility, or the modification of an existing wireless facility, expressly including and explaining the purpose and need for the facility, such as coverage and/or capacity needs or requirements, and the specific geographic area of intended coverage;
+(2)
+Technical Documentation that proves the need for the Wireless Telecommunications Facility to provide service primarily and essentially within the County. Such documentation shall include a propagation study of the proposed site and all adjoining planned, proposed or existing sites, that demonstrates a significant gap in coverage and/or, if a capacity issue is involved, to include an analysis of the current and projected usage (traffic studies) using generally accepted industry methods and standards so as to conclusively prove the need for what is proposed. The Board or its designee may require the provision of all technical or engineering data and information used by the Applicant to make it's determination as regards the need for the facility or the change to the existing facility;
+(3)
+All of the modeling information (i.e., data) inputted into the software used to produce the propagation studies, including, but not limited to any assumptions made, such as ambient tree height;
+(4)
+A copy of the FCC license applicable for the intended use of the Wireless Telecommunications Facility, as well as a copy of the five- and ten-year build-out plan required by the FCC;
+(5)
+The frequency, modulation and class of service of radio or other transmitting equipment;
+(6)
+The maximum transmission power capability of all radios, as designed, if the Applicant is a cellular or functional equivalent carrier, or the maximum transmission power capability, as designed, of all transmission facilities if the Applicant is not a cellular or functional equivalent carrier;
+(7)
+The actual intended transmission power stated as the maximum effective radiated power (ERP), both in OHM's and watts; Note: In effect what is needed is the information that the Company used to make its determination as regards the need for the facility in the first place, the need and reason for the requested location and the need for the height requested.
+Ownership and Management:
+(1)
+The Name, address and phone number of the person preparing the Application;
+(2)
+The Name, address, and phone number of the property owner and the Applicant, including the legal name of the Applicant. If the owner of the structure is different than the applicant, the name and all necessary contact information shall be provided;
+(3)
+The Postal address and tax map parcel number of the property;
+(4)
+A copy of the FCC license applicable for the intended use of the Wireless Telecommunications Facilities.
+Land Use and Planning:
+(1)
+The Land Use Pattern of the block or neighborhood in which the property is situated;
+(2)
+The size of the property on which the structure to be attached to is located, stated both in square feet and lot line dimensions, and a survey showing the location of all lot lines;
+(3)
+The location, size and height of all existing and proposed structures on the property on which the structure is located and that is the subject of the Application;
+(4)
+If attaching to an existing Tower, a site plan showing the vertical rendition of the Tower identifying all users and attachments to the Tower and all related fixtures, structures, appurtenances and apparatus, including height above pre-existing grade, materials, color and lighting;
+(5)
+If attaching to a building or other structure, a site plan showing the proposed attachments and all related fixtures, structures, appurtenances and apparatus, including height above the roof or balustrade, whichever is appropriate;
+(6)
+The azimuth, size and centerline height location of all proposed and existing antennae on the supporting structure;
+(7)
+The number, type and model of the Antenna(s) proposed, along with a copy of the specification sheet(s) for the antennas.
+Safety:
+(1)
+If attaching to an existing Tower, the age of the tower in years, including the date of the grant of the original permit or authorization for the Tower;
+(2)
+If attaching to an existing Tower, a description of the type of tower, e.g., guyed, self-supporting lattice or monopole;
+(3)
+If attaching to an existing Tower, the make, model, type and manufacturer of the Tower and the structural design calculations, certified by a Professional Engineer licensed in the State, proving the tower's capability to safely accommodate the facilities of the Applicant without change or modification, taking into account the geotechnical situation and the foundation design;
+(4)
+If any change or modification of the Tower or other structure to be attached to is needed, a detailed narrative explaining what changes are needed, why they are needed and who will be responsible to assure that the changes are made;
+(5)
+If the structure proposed to be attached to is a Tower that has not previously been permitted under this Law, or unless the Applicant can provide proof that this was provided at the time of the initial application for the Tower or other structure, the Applicant shall provide a copy of the installed foundation design, as well as a geotechnical sub-surface soils investigation, evaluation report and foundation recommendation for the tower site or other structure;
+(6)
+If attaching to an existing Tower, a copy of the latest ANSI Inspection Report done pursuant to the latest edition of ANSI-EIA/TIA 222F-Annex E for any self-supporting Tower that is five years old or older or for any guyed Tower that is three years old or older. If an ANSI Inspection report has not been done pursuant to the preceding schedule, an ANSI report shall be done and submitted as part of the Application;
+(7)
+If not attaching to an existing Tower, but rather a different type of structure, a Structural Report signed by a Professional Engineer licensed to do business in the State and bearing that engineer's currently valid stamp, showing the structural adequacy of the structure to accommodate the proposed Wireless Facility(s), including any equipment shelter, unless the equipment shelter is located on the ground or on the lowest floor of a building;
+(8)
+If attaching to a structure other than a Tower, to which the public has or could reasonably have or gain access to, an Applicant shall provide documentation, including all calculations, proving that the potential exposure to RF Radiation (i.e., NIER or Non-Ion Emitting Radiation), will be in compliance with the most recent Federal Communications Commission regulations governing RF Radiation and exposure thereto, and further denoting the minimum distance from any antennas an individual may safely stand without being exposed to RF radiation in excess of the FCC's permitted standards and any portion(s) of the structure that would be exposed to RF radiation in excess of the FCC's permitted standards. In compliance with the FCC's regulations, in such an instance the RF Radiation from all wireless facilities shall be included in the calculations to show the cumulative effect on any area of the building or structure deemed accessible by the public. Such report or analysis shall be signed and sealed by a Professional Engineer licensed in the State; or
+(9)
+In an instance on a Tower where the new Wireless Facilities will be ten meters or more above ground level, signed documentation such as the FCC's "Checklist to Determine whether a Facility may Categorically Excluded" shall be provided to verify that the Wireless Telecommunication Facility with the proposed installation will be in full compliance with the current FCC's RF Emissions regulations. If not categorically excluded, a complete RF Emissions study is required to enable verification of compliance, pursuant to subsection (K)(21) of this section, including providing all calculations so that such may be verified;
+(10)
+If any section or portion of the structure to be attached to is not in compliance with the FCC's regulations regarding RF radiation, that section or portion must be barricaded with a suitable warning barrier to discourage approaching into the area in excess of the FCC's regulations, and be marked off with yellow and black striped warning tape or a suitable warning barrier, as well as placing RF Radiation signs as needed and appropriate to warn individuals of the potential danger;
+(11)
+A signed statement that the Applicant will expeditiously remedy any physical or RF interference with other telecommunications or wireless devices or services.
+(L)
+To protect the nature and character of the area and create the least visually intrusive impact reasonably possible under the facts and circumstances, any attachment to a building or other structure with a facie, the antennas shall be mounted on the facie, unless it can be proven that such will prohibit or have the effect of prohibiting the provision of service, and all such attachments and exposed cabling shall use camouflage or stealth techniques to match as closely as possible the color and texture of the structure to which such equipment is attached.
+(M)
+If attaching to a water tank, mounting on the top of the tank or the use of a corral shall only be permitted if the Applicant can prove that to locate elsewhere will prohibit or have the effect of prohibiting the provision of service. The provisions of the preceding subsection (J) of this section shall also apply to any attachment to a water tank.
+(N)
+The Applicant shall provide a certification by a Professional Engineer licensed in the State, along with documentation (a structural analysis), including calculations, that prove that the tower or other structure and its foundation as proposed to be utilized are designed and were constructed to meet all local State, Federal and ANSI structural requirements for loads, including wind and ice loads and the placement of any equipment on the roof a building after the addition of the proposed new facilities.
+(O)
+If the Application is to attach to or modify existing facilities on a Tower, the applicant shall provide signed documentation of the Tower condition; specifically a report done pursuant to the latest edition of ANSI-EIA/TIA 222F (or 222G if adopted by the State) - Annex E for any self-supporting Tower that is five years old or older or for a guyed Tower that is three years old or older. Any deficiencies, other than strictly cosmetic ones, must be completed or remedied prior to the issuance of a Building Permit for the attachment of any component of the proposed Wireless Facilities.
+(P)
+So as to be the least visually intrusive reasonably possible given the facts and circumstances involved, and thereby have the least adverse visual effect and create the least intrusive or lowest profile or visual silhouette reasonably possible, unless it can be proven that such would be technologically impracticable, all antennas attached to a tower or other structure shall be flush-mounted or as near to flush-mounted as is possible without prohibiting or having the effect of prohibiting the provision of service, or prove technically, with hard data and a detailed narrative, that flush mounting can not be used and would serve to prohibit or have the effect of prohibiting the provision of service.
+(Q)
+Unless it is deemed inappropriate or unnecessary by the County given the facts and circumstances, the Applicant shall demonstrate and provide in writing and/or by drawing how it shall effectively screen from view the base and all related equipment and structures of the proposed Wireless Telecommunications Facility up to a height of ten feet.
+(R)
+The Wireless Telecommunications Facility and any and all accessory or associated facilities shall maximize the use of building materials, colors and textures designed to blend with the structure to which it may be affixed and/or to harmonize with the natural surroundings. This shall include the utilization of stealth, camouflage or concealment technology as may be required by the County and as is not impracticable under the facts and circumstances.
+(S)
+All utilities installed for a new Wireless Telecommunications Facility shall be installed underground and in compliance with all Laws, ordinances, rules and regulations of Clay County, including specifically, but not limited to, the National Electrical Safety Code and the National Electrical Code where appropriate.
+(T)
+If deemed necessary or appropriate, an access road, turn around space and parking shall be provided to assure adequate emergency and service access. Maximum use of existing roads, whether public or private, shall be made to the extent practicable. Road construction shall at all times minimize ground disturbance and the cutting of vegetation. Road grades shall closely follow natural contours to assure minimal visual disturbance and reduce soil erosion and shall comply with any local or State regulations for the construction of roads. If the facility currently has an access road or turn around space, but such is deemed in disrepair or in need of remedial work to make it serviceable and safe and in compliance with any applicable regulations, the Application shall contain a commitment to remedy or restore the road or turn around space so that it is serviceable and safe and in compliance with applicable regulations.
+(U)
+The Applicant, and the owner of record of any structure or tower attached to, shall, jointly or separately, at its cost and expense, be required to place with the County a bond, or other form of security acceptable to the County as to type of security and the form and manner of execution, in an amount of at least $25,000.00 for attaching to an existing structure or existing tower and with such sureties as are deemed sufficient by the County to assure the faithful performance of the terms and conditions of this Law and conditions of any Tall Structure Permit or Co-location Permit issued pursuant to this Law. Said bond or other security shall also serve as a Removal Security to prevent the taxpayers from bearing the cost of removal in the event of the abandonment or cessation of use for more than 90 consecutive days. The full amount of the bond or security shall remain in full force and effect throughout the term of the Tall Structure Permit or Co-location Permit and/or until any necessary site restoration is completed to restore the site to a condition comparable to that which existed prior to the issuance of the original Tall Structure Permit or Co-location Permit.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.09. - Requirements for an application to attach to an existing tower or other structure without increasing the height of the tower or structure being attached to.
+(A)
+The nonrefundable Application fee for attaching to an existing Tower or other structure without increasing the height shall be $300.00.
+(B)
+To prevent the taxpayers from having to pay for the expert technical assistance needed by the County that is necessitated by the application, an Applicant shall be required to place with the County an escrow deposit of no less than $8,500.00. After all invoices have been paid and the Certificate of Completion or Occupancy has been granted, any unexpended balance of the escrow deposit shall be returned to the Applicant upon request.
+(C)
+An application to increase the height of a Tower or other structure shall be deemed a new tower and shall not qualify for treatment as an attachment to an existing Tower or other structure under this Section.
+(D)
+There shall be no public hearing required for an application to attach to an existing tower or other structure or to modify an existing Wireless Telecommunications Facility, as long as there is no proposed increase in the height of the Tower or other structure to be attached to, including attachments thereto, unless for good cause such shall be required by the County Commissioners or Code Enforcement. Instead, the Tall Structure Permit or Co-location Permit or other appropriate authority shall be issued by the appropriate department head.
+(E)
+An Application for a Tall Structure Permit or Co-location Permit for attaching wireless facilities to an existing structure, including but not limited to, cellular or PCS facilities and microwave facilities, shall contain the following information and comply with the following requirements.
+(F)
+Documentation shall be provided proving that the Applicant has the legal right to proceed as proposed on the Site, including an executed copy of the lease with the owner of the facility proposed to be attached to, or a letter of agency, showing the right of the Applicant to attach to the structure.
+(G)
+A Pre-Application meeting shall be held and at or before the Pre-Application meeting, the Applicant shall be provided instructions for completing an Application. Said instructions are to be controlling as regards the form and substance of the issues addressed in the Instructions and must be followed.
+(H)
+The Applicant shall include a written statement that:
+(1)
+The Applicant's proposed Wireless Telecommunications Facility shall be maintained in a safe manner, and in compliance with all conditions of all applicable permits and authorizations, without exception, as well as all applicable and permissible local codes, ordinances, and regulations, including any and all applicable Clay County, State and Federal Laws, rules, and regulations; and
+(2)
+The construction of the Wireless Telecommunications Facilities is legally permissible, including, but not limited to the fact that the Applicant is authorized to do business in the State.
+(I)
+An application for attaching to an existing structure or for modifying an existing facility without increasing the height of the structure shall contain the following information.
+Proof of Need for the Facility:
+(1)
+A detailed narrative description and explanation of the specific objective(s) for the new facility, orthe modification of an existing wireless facility, expressly including and explaining the purpose and need for the facility, such as coverage and/or capacity needs or requirements, and the specific geographic area of intended coverage;
+(2)
+Technical Documentation that proves the need for the Wireless Telecommunications Facility to provide service primarily and essentially within the County. Such documentation shall include a propagation study of the proposed site and all adjoining planned, proposed or existing sites, that demonstrates a significant gap in coverage and/or, if a capacity issue is involved, to include an analysis of the current and projected usage (traffic studies) using generally accepted industry methods and standards so as to conclusively prove the need for what is proposed. The Board or its designee may require the provision of all technical or engineering data and information used by the Applicant to make it's determination as regards the need for the facility or the change to the existing facility;
+(3)
+All of the modeling information (i.e., data) inputted into the software used to produce the propagation studies, including, but not limited to any assumptions made, such as ambient tree height;
+(4)
+A copy of the FCC license applicable for the intended use of the Wireless Telecommunications Facility, as well as a copy of the five- and ten-year build-out plan required by the FCC;
+(5)
+The frequency, modulation and class of service of radio or other transmitting equipment;
+(6)
+The maximum transmission power capability of all radios, as designed, if the Applicant is a cellular or functional equivalent carrier, or the maximum transmission power capability, as designed, of all transmission facilities if the Applicant is not a cellular or functional equivalent carrier;
+(7)
+The actual intended transmission power stated as the maximum effective radiated power (ERP), both in ohms and watts.
+Note: In effect what is needed is the information that the Company used to make its determination as regards the need for the facility in the first place, the need and reason for the requested location and the need for the height requested.
+Ownership and Management:
+(1)
+The Name, address and phone number of the person preparing the Application;
+(2)
+The Name, address, and phone number of the property owner and the Applicant, including the legal name of the Applicant. If the owner of the structure is different than the applicant, the name and all necessary contact information shall be provided;
+(3)
+The Postal address and tax map parcel number of the property;
+(4)
+A copy of the FCC license applicable for the intended use of the Wireless Telecommunications Facilities.
+Land Use and Planning:
+(1)
+The Land Use Pattern of the block or neighborhood in which the property is situated;
+(2)
+The size of the property on which the structure to be attached to is located, stated both in square feet and lot line dimensions, and a survey showing the location of all lot lines;
+(3)
+The location, size and height of all existing and proposed structures on the property on which the structure is located and that is the subject of the Application;
+(4)
+If attaching to an existing Tower, a site plan showing the vertical rendition of the Tower identifying all users and attachments to the Tower and all related fixtures, structures, appurtenances and apparatus, including height above pre-existing grade, materials, color and lighting;
+(5)
+If attaching to a building or other structure, a site plan showing the proposed attachments and all related fixtures, structures, appurtenances and apparatus, including height above the roof or balustrade, whichever is appropriate;
+(6)
+The azimuth, size and center line height location of all proposed and existing antennae on the supporting structure;
+(7)
+The number, type and model of the Antenna(s) proposed, along with a copy of the specification sheet(s) for the antennas.
+Safety:
+(1)
+If attaching to an existing Tower, the age of the tower in years, including the date of the grant of the original permit or authorization for the Tower;
+(2)
+If attaching to an existing Tower, a description of the type of tower, e.g., guyed, self-supporting lattice or monopole;
+(3)
+If attaching to an existing Tower, the make, model, type and manufacturer of the Tower and the structural design calculations, certified by a Professional Engineer licensed in the State, proving the tower's capability to safely accommodate the facilities of the Applicant without change or modification, taking into account the geotechnical situation and the foundation design;
+(4)
+If any change or modification of the Tower or other structure to be attached to is needed, a detailed narrative explaining what changes are needed, why they are needed and who will be responsible to assure that the changes are made;
+(5)
+If the structure proposed to be attached to is a Tower that has not previously been permitted under this Law, or unless the Applicant can provide proof that this was provided at the time of the initial application for the Tower or other structure, the Applicant shall provide a copy of the installed foundation design, as well as a geotechnical sub-surface soils investigation, evaluation report and foundation recommendation for the tower site or other structure;
+(6)
+If attaching to an existing Tower, a copy of the latest ANSI Inspection Report done pursuant to the latest edition of ANSI-EIA/TIA 222F - Annex E for any self-supporting Tower that is five years old or older or for any guyed Tower that is three years old or older. If an ANSI Inspection report has not been done pursuant to the preceding schedule, an ANSI report shall be done and submitted as part of the Application;
+(7)
+If not attaching to an existing Tower, but rather a different type of structure, a Structural Report signed by a Professional Engineer licensed to do business in the State and bearing that engineer's currently valid stamp, showing the structural adequacy of the structure to accommodate the proposed Wireless Facility(s),including any equipment shelter, unless the equipment shelter is located on the ground or on the lowest floor of a building;
+(8)
+If attaching to a structure other than a Tower, to which the public has or could reasonably have or gain access to, an Applicant shall provide documentation, including all calculations, proving that the potential exposure to RF Radiation (i.e., NIER or Non-Ion Emitting Radiation), will be in compliance with the most recent Federal Communications Commission regulations governing RF Radiation and exposure thereto, and further denoting the minimum distance from any antennas an individual may safely stand without being exposed to RF radiation in excess of the FCC's permitted standards and any portion(s) of the structure that would be exposed to RF radiation in excess of the FCC's permitted standards. In compliance with the FCC's regulations, in such an instance the RF Radiation from all wireless facilities shall be included in the calculations to show the cumulative effect on any area of the building or structure deemed accessible by the public. Such report or analysis shall be signed and sealed by a Professional Engineer licensed in the State; or
+(9)
+In an instance on a Tower where the new Wireless Facilities will be ten meters or more above ground level, signed documentation such as the FCC's "Checklist to Determine whether a Facility may Categorically Excluded" shall be provided to verify that the Wireless Telecommunication Facility with the proposed installation will be in full compliance with the current FCC's RF Emissions regulations. If not categorically excluded, a complete RF Emissions study is required to enable verification of compliance, pursuant to this subsection (I) of this section, including providing all calculations so that such may be verified;
+(10)
+If any section or portion of the structure to be attached to is not in compliance with the FCC's regulations regarding RF Radiation, that section or portion must be barricaded with a suitable warning barrier to discourage approaching into the area in excess of the FCC's regulations, and be marked off with yellow and black striped warning tape or a suitable warning barrier, as well as placing RF Radiation signs as needed and appropriate to warn individuals of the potential danger;
+(11)
+A signed statement that the Applicant will expeditiously remedy any physical or RF interference with other telecommunications or wireless devices or services.
+(J)
+To protect the nature and character of the area and create the least visually intrusive impact reasonably possible under the facts and circumstances, any attachment to a building or other structure with a facie, the antennas shall be mounted on the facie, unless it can be proven that such will prohibit or have the effect of prohibiting the provision of service, and all such attachments and exposed cabling shall use camouflage or stealth techniques to match as closely as possible the color and texture of the structure to which such equipment is attached.
+(K)
+If attaching to a water tank, mounting on the top of the tank or the use of a corral shall only be permitted if the Applicant can prove that to locate elsewhere will prohibit or have the effect of prohibiting the provision of service. The provisions of the preceding subsection (J) of this section shall also apply to any attachment to a water tank.
+(L)
+The Applicant shall provide a certification by a Professional Engineer licensed in the State, along with documentation (a structural analysis), including calculations, that prove that the tower or other structure and its foundation as proposed to be utilized are designed and were constructed to meet all local State, Federal and ANSI structural requirements for loads, including wind and ice loads and the placement of any equipment on the roof a building after the addition of the proposed new facilities.
+(M)
+If the Application is to attach to or modify existing facilities on a Tower, the applicant shall provide signed documentation of the Tower condition; specifically a report done pursuant to the latest edition of ANSI-EIA/TIA 222F (or 222G if adopted by the State) - Annex E for any self-supporting Tower that is five years old or older or for a guyed Tower that is three years old or older. Any deficiencies, other than strictly cosmetic ones, must be completed or remedied prior to the issuance of a Building Permit for the attachment of any component of the proposed Wireless Facilities.
+(N)
+So as to be the least visually intrusive reasonably possible given the facts and circumstances involved, and thereby have the least adverse visual effect and create the least intrusive or lowest profile or visual silhouette reasonably possible, unless it can be proven that such would be technologically impracticable, all antennas attached to a tower or other structure shall be flush-mounted or as near to flush-mounted as is possible without prohibiting or having the effect of prohibiting the provision of service, or prove technically, with hard data and a detailed narrative, that flush mounting can not be used and would serve to prohibit or have the effect of prohibiting the provision of service.
+(O)
+Unless it is deemed inappropriate or unnecessary by the County given the facts and circumstances, the Applicant shall demonstrate and provide in writing and/or by drawing how it shall effectively screen from view the base and all related equipment and structures of the proposed Wireless Telecommunications Facility up to a height of ten feet.
+(P)
+The Wireless Telecommunications Facility and any and all accessory or associated facilities shall maximize the use of building materials, colors and textures designed to blend with the structure to which it may be affixed and/or to harmonize with the natural surroundings. This shall include the utilization of stealth, camouflage or concealment technology as may be required by the County and as is not impracticable under the facts and circumstances.
+(Q)
+All utilities installed for a new Wireless Telecommunications Facility shall be installed underground and in compliance with all Laws, ordinances, rules and regulations of Clay County, including specifically, but not limited to, the National Electrical Safety Code and the National Electrical Code where appropriate.
+(R)
+If deemed necessary or appropriate, an access road, turn around space and parking shall be provided to assure adequate emergency and service access. Maximum use of existing roads, whether public or private, shall be made to the extent practicable. Road construction shall at all times minimize ground disturbance and the cutting of vegetation. Road grades shall closely follow natural contours to assure minimal visual disturbance and reduce soil erosion and shall comply with any local or State regulations for the construction of roads. If the facility currently has an access road or turn around space, but such is deemed in disrepair or in need of remedial work to make it serviceable and safe and in compliance with any applicable regulations, the Application shall contain a commitment to remedy or restore the road or turn around space so that it is serviceable and safe and in compliance with applicable regulations.
+(S)
+The Applicant, and the owner of record of any structure or tower attached to, shall, jointly or separately, at its cost and expense, be required to place with the County a bond, or other form of security acceptable to the County as to type of security and the form and manner of execution, in an amount of at least $25,000.00 for attaching to an existing structure or existing tower and with such sureties as are deemed sufficient by the County to assure the faithful performance of the terms and conditions of this Law and conditions of any Tall Structure Permit or Co-location Permit issued pursuant to this Law. Said bond or other security shall also serve as a Removal Security to prevent the taxpayers from bearing the cost of removal in the event of the abandonment or cessation of use for more than 90 consecutive days. The full amount of the bond or security shall remain in full force and effect throughout the term of the Tall Structure Permit or Co-location Permit and/or until any necessary site restoration is completed to restore the site to a condition comparable to that which existed prior to the issuance of the original Tall Structure Permit or Co-location Permit.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.10. - Location of wireless telecommunications facilities.
+(A)
+Applicants for Wireless Telecommunications Facilities shall locate, site and erect said Wireless Telecommunications Facilities in accordance with the following priorities, one being the highest priority and five being the lowest priority:
+(1)
+On publicly-owned properties or facilities.
+(2)
+On existing Towers or other structures without increasing the height of the tower or structure.
+(3)
+On properties in any areas being used for Business use.
+(4)
+On properties in any areas being used for Agricultural use.
+(5)
+On properties in any areas being used for Residential use.
+(B)
+If the proposed site is not proposed for the highest priority listed above, then a detailed explanation and justification must be provided as to why a site of any higher priority designations was not selected. The person seeking such an exception must satisfactorily demonstrate the reason or reasons why such a permit should be granted for the proposed site, and the hardship that would be incurred by the Applicant if the permit were not granted for the Wireless Facility as proposed.
+(C)
+An Applicant may not by-pass sites of higher priority by stating the site proposed is the only site leased or selected or because there is an existing lease with a landowner. An Application shall address co-location as an option. If such option is not proposed, the applicant must explain to the reasonable satisfaction of the County why co-location is commercially impracticable or otherwise impracticable. Agreements between providers limiting or prohibiting co-location shall not be a valid basis for any claim of commercial impracticability or hardship.
+(D)
+Notwithstanding the above, the Clay County Board of Commissioners may approve any site located within an area in the above list of priorities, provided that the Board of Commissioners finds that the proposed site is in the best interest of the health, safety and welfare of the County and its inhabitants and will not have a deleterious effect on the nature and character of the community and neighborhood. Conversely, the Board of Commissioners may direct that the proposed location be changed to another location that is more in keeping with the goals of this Ordinance and the public interest as determined by the Board of Commissioners.
+(E)
+If appropriate, based on selecting a site of lower priority, a detailed written explanation as to why sites of a higher priority were not selected shall be included with the Application, including the technical justification for such.
+(F)
+Notwithstanding that a potential site may be situated in an area of highest priority or highest available priority, the Clay County Board of Commissioners may disapprove an Application for any of the following reasons:
+(1)
+Conflict with safety and safety-related codes and requirements;
+(2)
+Conflict with the historic nature or character of a neighborhood or district;
+(3)
+The use or construction of Wireless Telecommunications Facilities which is contrary to an already stated purpose of a specific land use designation;
+(4)
+The placement and location of Wireless Telecommunications Facilities which would create an unacceptable risk, or the reasonable probability of such, to residents, the public, employees and agents of the County, or employees of the service provider or other service providers;
+(5)
+The placement and location of a Wireless Telecommunications Facility would result in a conflict with, compromise in or change of the nature or character of the surrounding area;
+(6)
+Conflicts with the provisions of this Ordinance;
+(7)
+Failure to submit a complete Application as required under this Ordinance.
+(G)
+Notwithstanding anything to the contrary in this Ordinance, for good cause shown, such as the ability to utilize a shorter or less intrusive facility elsewhere and still accomplish the primary service objective, the Clay County Board of Commissioners may require the relocation of a proposed site, including allowing for the fact that relocating the site chosen by the Applicant may require the use of more than one site to provide substantially the same service if the relocation could result in a less intrusive facility or facilities, singly or in combination, so long as such does not prohibit or serve to prohibit the provision of service.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.11. - Shared use of wireless telecommunications facilities and other structures.
+(A)
+Clay County, as opposed to the construction of a new Tower, requires Wireless Facilities to be located on existing Towers or other suitable structures without increasing the height of the tower or structure, unless such is proven to be technologically impracticable. The Applicant shall submit a comprehensive report inventorying all existing Towers and other suitable structures within one mile of the location of any proposed new Tower, unless the Applicant can show that some other distance is more appropriate and reasonable and demonstrate conclusively why an existing Tower or other suitable structure cannot be used.
+(B)
+An Applicant intending to locate on an existing Tower or other suitable structure shall be required to document the intent of the existing owner to permit its use by the Applicant.
+(C)
+Such shared use shall consist only of the minimum Antenna array technologically required to provide service primarily and essentially within Clay County, to the extent practicable, unless good cause is shown.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.12. - Height of telecommunications tower(s).
+(A)
+All new towers shall be of the monopole type, unless such is able to be proven to be technologically impracticable. No new towers of a lattice or guyed type shall be permitted, unless relief is otherwise expressly granted.
+(B)
+The Applicant shall submit documentation justifying the technical need by the service provider for the total height of any Tower, Facility and/or Antenna requested and the basis therefore. To enable verification of the need for the requested height, documentation in the form of propagation studies must include all backup data used to produce the studies at the height requested and at a minimum of ten feet lower height. Such documentation will be analyzed in the context of the justification of the height needed to provide service primarily and essentially within Clay County, to the extent practicable, unless good cause is shown.
+(C)
+The maximum permitted total height of a new Tower shall be 120 above pre-construction ground level, unless it can be proven that such height would prohibit or have the effect of prohibiting the provision of service in the intended service area. The 120-foot maximum permitted height is not as-of-right height, but rather the maximum permitted height, absent proof of the technological need for a greater height.
+(D)
+Notwithstanding the 120-foot maximum permitted height, Telecommunications Towers and Facilities shall be no taller than the minimum height technologically necessary to enable the provision of wireless service coverage or capacity as needed within Clay County, and only within Clay County.
+(E)
+Spacing or the distance between towers shall be such that the service may be provided without exceeding the maximum permitted height.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.13. - Visibility of wireless telecommunications facilities.
+(A)
+Wireless Telecommunications Facilities shall not be artificially lighted or marked, except as required by Ordinance or State or Federal Regulation.
+(B)
+Stealth: All new Wireless Telecommunications facilities, including but not limited to towers, shall utilize Stealth or Camouflage techniques and technology, unless such can be shown to be either Commercially or Technologically Impracticable.
+(C)
+Dual Mode: In order to minimize the number of antenna arrays and thus the visual impact, Clay County may require the use of dual mode antennas to be used, including by two different carriers, unless it can be proven that such will not work technologically and that such would have the effect of prohibiting the provision of service.
+(D)
+Tower Finish/Color: Towers shall be galvanized and/or painted with a rust-preventive paint of an appropriate color to harmonize with the surroundings and shall be maintained in accordance with the requirements of this Ordinance.
+(E)
+Lighting: If lighting is required, Applicant shall provide a detailed plan for sufficient lighting of as unobtrusive and inoffensive an effect as is permissible under State and Federal regulations. All towers requiring lighting shall be lighted so as to effectively eliminate the ground scatter effect of the lighting and so as to prevent the light from being seen from the ground.
+(F)
+Flush Mounting: All new or replacement antennas, except omni directional whip antennas, shall be flush-mounted on any tower or other structure, unless the Applicant can prove that it is technologically impracticable. If not flush-mounted, the antennas shall be attached so as to create smallest profile reasonably possible under the facts and circumstances, unless it can be proven that to do so would prohibit or have the effect of prohibiting the service.
+(G)
+Placement on Building—Facie: If attached to a building, all antennas shall be mounted on the facia of the building and camouflaged so as to match the color and, if possible, texture of the building or in a manner so as to make the antennas as visually innocuous and undetectable as is possible given the facts and circumstances involved.
+(H)
+Lighting—Preventing Ground Scatter Effect: For any Wireless Facility for which lighting is required under the FAA's regulations, or that for any reason has lights attached, all such lighting shall be affixed with technology that enables the light to be seen as intended from the air, but that prevents the ground scatter effect so that it not able to be seen from the ground to a height of at least 12 degrees vertical for a distance of at least one mile in a level terrain situation. Such device must be compliant with or not in conflict with FAA regulations. A physical shield may be used, as long as the light is able to be seen from the air, as intended by the FAA.
+(I)
+In the event a tower that is lighted is modified, at the time of the modification the Clay County may require that the Tower be retrofitted with the technology set forth in the preceding subsection (F).
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.14. - Security of wireless telecommunications facilities.
+All Wireless Telecommunications Facilities and Antennas shall be located, fenced at a minimum height of eight feet or otherwise secured in a manner that prevents unauthorized access.
+Specifically:
+(A)
+All Antennas, Towers and other supporting structures, including guy anchor points and wires, shall be made inaccessible to individuals and constructed or shielded in such a manner that they cannot be climbed or collided with; and
+(B)
+Transmitters and Telecommunications control points shall be installed in such a manner that they are readily accessible only to persons authorized to operate or service them.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.15. - Signage.
+Wireless Telecommunications Facilities shall contain a sign no larger than four square feet in order to provide adequate notification to persons in the immediate area of the presence of RF Radiation or to control exposure to RF Radiation within a given area. A sign of the same size is also to be installed to contain the name(s) of the owner(s) and operator(s) of the Antenna(s) as well as emergency phone number(s). The sign shall be on the equipment shelter or cabinet of the Applicant and be visible from the access point of the site and must identify the equipment owner of the shelter or cabinet. On tower sites, an FCC registration site, as applicable, is also to be present. The signs shall not be lighted, unless applicable law, rule or regulation requires lighting. No other signage, including advertising, shall be permitted.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.16. - Lot size and setbacks.
+(A)
+All proposed Towers and any other proposed Wireless Telecommunications Facility attachment structures shall be set back from abutting parcels, recorded rights-of-way and road and street lines by the greater of the following distances: A distance equal to the height of the proposed Tower or Wireless Telecommunications Facility structure plus ten percent of the height of the Tower or structure, otherwise known as the Fall Zone, or the existing setback requirement of the underlying land use plan, whichever is greater. Any Accessory structure shall be located so as to comply with the applicable minimum setback requirements for the property on which it is situated. The fall zone or setback shall be measured from the nearest portion of the right-of-way of any public road or thoroughfare and any occupied building or domicile. Further, the nearest portion of any access road to a wireless facility shall be no less than 15 feet from the nearest property line.
+(B)
+There shall be no development of habitable buildings within the Fall Zone or setback area set forth in the preceding subsection (A).
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.17. - Retention of expert assistance and reimbursement by applicant.
+(A)
+Clay County may hire any consultant and/or expert necessary to assist the County in reviewing and evaluating the Application, including the construction and modification of the site, once permitted, and any site inspections.
+(B)
+To prevent the taxpayers from having to bear the cost related to the issue of the regulation of Wireless Telecommunications Facilities, an Applicant shall deposit with Clay County funds sufficient to reimburse the County for all reasonable costs of: i) consulting and expert evaluation and consultation with the County or the Applicant in connection with the submission and/or review of any Application; ii) any lease negotiations, the pre approval evaluation, and including the construction and modification of the site, once permitted. The initial deposit shall be $6,500.00. The placement of the $6,500.00 with the County shall precede the pre-application meeting or any work being done as regards processing an application. The County will maintain a separate escrow account for all such funds. The County's consultants/experts shall invoice the County for its services in reviewing the Application, including the construction and modification of the site, once permitted. If at any time during the process this escrow account has a balance less than $2,500.00, the Applicant shall immediately, upon notification by the County, replenish said escrow account so that it has a balance of at least $5,000.00. Such additional escrow funds shall be deposited with the County before any further action or consideration is taken on the Application. In the event that the amount held in escrow is more than the amount of the actual invoicing at the conclusion of the project, the remaining balance shall be promptly refunded to the Applicant upon written request.
+(C)
+To prevent the taxpayers from having to bear any cost related to the issue of the regulation of Wireless Telecommunications Facilities, no work shall be done on an application for which the full amount of the escrow deposit as set forth in the preceding subsection (B) of this section has not been placed with the County. In the event the escrow deposit minimum balance as set forth in this subsection (B) is not maintained, all work on the Application shall cease until the deposit is replenished as required.
+(D)
+The total amount of the funds needed as set forth in subsection (B) of this section may vary with the scope and complexity of the project, the completeness of the Application, necessary discussions with the Applicant and other information as may be needed to complete the necessary review, analysis and inspection of any construction or modification, upon approval by the County Planning Director.
+(E)
+Records of all outside costs associated with the review and permitting process shall be maintained and available for public inspection, in compliance with applicable Georgia law in the Planning Department.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.18. - Public hearing and notification requirements.
+(A)
+Prior to the approval of any Application for a Tall Structure Permit or Co-location Permit for a new tower or for any facility that increases the height of the structure to which it is to be attached, a public hearing shall be held by the County, notice of which shall be published in the official newspaper (legal organ) of the County no more than 45 days and no less than 15 calendar days prior to the scheduled date of the public hearing. In order that the nearby landowners are aware of the public hearing, the Applicant shall notify all landowners within 1,500 feet of any property line of the lot or parcel on which the new Wireless Telecommunications Facilities are proposed to be located and the Application shall contain the names and address of all such landowners. Such notification shall be by Certified U.S. Mail. Applicant shall provide proof in writing of notification to the County. The notices provided for in this subsection shall state the time, place and purpose of the public hearing as well as the nature of the request provided for in the application.
+(B)
+The County shall schedule the public hearing referred to in Subsection (A) of this section once it finds the Application is complete and is not required to set a date if the Application is not complete. The County, at any stage prior to issuing a Tall Structure Permit or Co-location Permit, may require such additional information as it deems necessary as such relates to the issue of the siting, construction or modification of a Wireless Telecommunications Facility.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.19. - Action on an application for a tall structure permit or co-location permit for wireless telecommunications facilities.
+(A)
+The County will undertake a review of an Application pursuant to this Article in a timely fashion, consistent with its responsibilities, and in accordance with the controlling language and requirement as set forth in Federal Law (the Telecommunications Act of 1996) shall act within a reasonable period of time given the relative complexity of the Application and the circumstances, with due regard for the public's interest and need to be involved, and the Applicant's desire for a timely action on the Application.
+(B)
+The County may refer any Application or part thereof to the Clay County Planning Commission or any advisory or other committee of its choice for a public hearing and/or a nonbinding recommendation.
+(C)
+After the public hearing and after formally considering the Application, the Board of Commissioners may approve, approve with conditions, or deny a Tall Structure Permit or Co-location Permit. Its decision shall be in writing and shall be supported by substantial evidence contained in a written record. The burden of proof for the grant of the permit shall always be upon the Applicant.
+(D)
+If the Board of Commissioners approves the Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities, then the Applicant shall be notified of such approval in writing within ten calendar days of the County's action, and the Tall Structure Permit or Co-location Permit or other appropriate authorization shall be issued within 30 days after such approval. Except for necessary building permits, and subsequent Certificates of Compliance, once a Tall Structure Permit or Co-location Permit has been granted hereunder, no additional permits or approvals from the County, such as site plan approvals, shall be required by the County for the Wireless Telecommunications Facilities covered by the Tall Structure Permit or Co-location Permit.
+(E)
+If the Board of Commissioners denies the Tall Structure Permit or Co-location Permit or other appropriate authorization for Wireless Telecommunications Facilities, then the Applicant shall be notified of such denial in writing within ten calendar days of the Board of Commissioners action and shall set forth in writing the reason or reasons for the denial. Appeals from such decision, if any shall be filed and handled pursuant to the Clay County Land Use Plan Ordinance.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.20. - Extent and parameters of tall structure permit or co-location permit for wireless telecommunications facilities.
+The extent and parameters of a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities shall be as follows:
+(A)
+Such Tall Structure Permit or Co-location Permit shall not be assigned, transferred or conveyed without the express prior written notification to the County.
+(B)
+The facility shall be complete and be operationally ready no later than 120 days after the grant of the Tall Structure Permit or Co-location Permit.
+(C)
+In the event of a violation of this Ordinance, following an opportunity to cure and, if not cured within the timeframe set forth in the notice of violation, a hearing shall be held upon due prior notice to the Applicant. Following such hearing, if found to be in violation of this Ordinance, the Tall Structure Permit or Co-location Permit may be revoked, canceled, or terminated for a violation of the conditions and provisions of the Tall Structure Permit or Co-location Permit, or for a material violation of this Ordinance or other applicable law, rule or regulation.
+(D)
+Notice of a violation and of the date, time and place of a hearing shall be provided by registered mail to the last known address of the holder of the Tall Structure Permit or Co-location Permit.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.21. - Application fee.
+At the time that a person submits an Application for a Tall Structure Permit or Co-location Permit or other appropriate authorization for a new Tower or a co-located facility, such person shall pay a nonrefundable application fee as set forth in the Clay County Fee Schedule, as may be amended or changed from time to time.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.22. - Removal and performance security.
+The Applicant and the owner of record of any proposed Wireless Telecommunications Facilities site shall, at its cost and expense, be jointly required to execute with the Applicant and file with the County a bond, or other form of security acceptable to the County as to type of security and the form and manner of execution, in an amount of at least $75,000.00 for a tower with such sureties as are deemed sufficient by the County to assure the faithful performance of the terms and conditions of this Ordinance and conditions of any Tall Structure Permit or Co-location Permit issued pursuant to this Ordinance. The full amount of the bond or security shall remain in full force and effect throughout the term of the Tall Structure Permit or Co-location Permit and/or until any necessary site restoration is completed to restore the site to a condition comparable to that which existed prior to the issuance of the original Tall Structure Permit or Co-location Permit.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.23. - Reservation of authority to inspect wireless telecommunications facilities.
+In order to verify that the holder of a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities and any and all lessees, renters, and/or licensees of Wireless Telecommunications Facilities, place and construct such facilities, including Towers and Antennas, in accordance with all applicable technical, safety, fire, building, and land use plan, Laws, ordinances and regulations and other applicable requirements, the County may inspect all facets of said permit holder's, renter's, lessee's or licensee's placement, construction, modification and maintenance of such facilities, including, but not limited to, Towers, Antennas and buildings or other structures constructed or located on the permitted site.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.24. - Liability insurance.
+(A)
+A holder of a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities shall secure and at all times maintain public liability insurance for personal injuries, death and property damage, and umbrella insurance coverage, for the duration of the Tall Structure Permit or Co-location Permit in amounts as set forth below:
+(1)
+Commercial General Liability covering personal injuries, death and property damage: $1,000,000.00 per occurrence/$2,000,000.00 aggregate; and
+(2)
+Automobile Coverage: $1,000,000.00 per occurrence/$2,000,000.00 aggregate; and
+(3)
+A $3,000,000.00 Umbrella Coverage; and
+(4)
+Workers Compensation and Disability: Statutory amounts.
+(B)
+For a Wireless Telecommunications Facility on Clay County property, the Commercial General Liability insurance policy shall specifically include the County and its officers, commissioners, employees, committee members, attorneys, agents and consultants as additional insured.
+(C)
+The insurance policies shall be issued by an agent or representative of an insurance company licensed to do business in the State and with a Best's rating of at least A.
+(D)
+The insurance policies shall contain an endorsement obligating the insurance company to furnish the County with at least 30 days prior written notice in advance of the cancellation of the insurance.
+(E)
+Renewal or replacement policies or certificates shall be delivered to the County at least 15 days before the expiration of the insurance that such policies are to renew or replace.
+(F)
+Before construction of a permitted Wireless Telecommunications Facilities is initiated, but in no case later than 15 days after the grant of the Tall Structure Permit or Co-location Permit, the holder of the Tall Structure Permit or Co-location Permit shall deliver to the County a copy of each of the policies or certificates representing the insurance in the required amounts.
+(G)
+A Certificate of Insurance that states that it is for informational purposes only and does not confer rights upon the County shall not be deemed to comply with this Section.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.25. - Indemnification.
+(A)
+Any application for Wireless Telecommunication Facilities that is proposed for Clay County property, pursuant to this Ordinance, shall contain a provision with respect to indemnification. Such provision shall require the applicant, to the extent permitted by the Ordinance, to at all times defend, indemnify, protect, save, hold harmless, and exempt the County, and its officers, boards, employees, committee members, attorneys, agents, and consultants from any and all penalties, damages, costs, or charges arising out of any and all claims, suits, demands, causes of action, or award of damages, whether compensatory or punitive, or expenses arising there from, either at law or in equity, which might arise out of, or are caused by, the placement, construction, erection, modification, location, products performance, use, operation, maintenance, repair, installation, replacement, removal, or restoration of said Facility, excepting, however, any portion of such claims, suits, demands, causes of action or award of damages as may be attributable to the negligent or intentional acts or omissions of the County or its servants or agents. With respect to the penalties, damages or charges referenced herein, reasonable attorneys fees, consultants fees, and expert witness fees are included in those costs that are recoverable by the County.
+(B)
+Notwithstanding the requirements noted in subsection (A) of this section, an indemnification provision will not be required in those instances where the County Government itself applies for and secures a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.26. - Fines.
+(A)
+In the event of a violation of this Ordinance or any Tall Structure Permit or Co-location Permit issued pursuant to this Ordinance, the County may impose and collect, and the holder of the Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities shall pay to the County, fines or penalties as set forth below.
+(B)
+If the holder of a Tall Structure Permit or Co-location Permit fails to comply with provisions of this Ordinance such shall constitute a violation of this Ordinance and shall be subject to a fine not to exceed $1,000.00 per day per violation following due and proper notice and, further, each day or part thereof that a violation remains uncured after proper notice shall constitute a separate violation, punishable separately.
+(C)
+Notwithstanding anything in this Ordinance, the holder of the Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities may not use the payment of fines, liquidated damages or other penalties, to evade or avoid compliance with this Ordinance or any section of this Ordinance. An attempt to do so shall subject the holder of the Tall Structure Permit or Co-location Permit to termination and revocation of the Tall Structure Permit or Co-location Permit. The County may also seek injunctive relief to prevent the continued violation of this Ordinance, without limiting other remedies available to the County.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.27. - Default and/or revocation.
+If a Wireless Telecommunications Facility is repaired, rebuilt, placed, moved, re-located, modified or maintained in a way that is inconsistent or not in compliance with the provisions of this Ordinance or of the Tall Structure Permit or Co-location Permit, then the County shall notify the holder of the Tall Structure Permit or Co-location Permit in writing of such violation. A Permit holder in violation may be considered in default and subject to fines as in Section 155.26 and if a violation is not corrected to the satisfaction of the County in a reasonable period of time the Tall Structure Permit or Co-location Permit is subject to revocation.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.28. - Removal of wireless telecommunications facilities.
+(A)
+The owner of any tower or wireless facility shall be required to provide a minimum of 30 days' written notice to the County Clerk prior to abandoning any tower or wireless facility.
+(B)
+Under the following circumstances, the County may determine that the health, safety and welfare interests of the County warrant and require the removal of Wireless Telecommunications Facilities.
+(1)
+Wireless Telecommunications Facilities with a permit have been abandoned (i.e., not used as Wireless Telecommunications Facilities) for a period exceeding 90 consecutive days or a total of 180 days in any 365-day period, except for periods caused by force majeure or acts of God, in which case, repair or removal shall commence within 90 days;
+(2)
+Permitted Wireless Telecommunications Facilities fall into such a state of disrepair that it creates a health or safety hazard;
+(3)
+Wireless Telecommunications Facilities have been located, constructed, or modified without first obtaining, or in a manner not authorized by, the required Tall Structure Permit or Co-location Permit, or any other necessary authorization and the Special Permit may be revoked.
+(C)
+If the County makes such a determination as noted in subsection (A) of this section, then the County shall notify the holder of the Tall Structure that said Wireless Telecommunications Facilities are to be removed, the County may approve an interim temporary use agreement/permit, such as to enable the sale of the Wireless Telecommunications Facilities.
+(D)
+The holder of the Tall Structure Permit or Co-location Permit, or its successors or assigns, shall dismantle and remove such Wireless Telecommunications Facilities, and all associated structures and facilities, from the site and restore the site to as close to its original condition as is possible, such restoration being limited only by physical or commercial impracticability, within 90 days of receipt of written notice from the County. However, if the owner of the property upon which the Wireless Telecommunications Facilities are located wishes to retain any access roadway to the Wireless Telecommunications Facilities, the owner may do so with the approval of the County.
+(E)
+If Wireless Telecommunications Facilities are not removed or substantial progress has not been made to remove the Wireless Telecommunications Facilities within 90 days after the permit holder has received notice, then the County may order officials or representatives of the County to remove the Wireless Telecommunications Facilities at the sole expense of the owner or Tall Structure Permit or Co-location Permit holder.
+(F)
+If, the County removes, or causes to be removed, Wireless Telecommunications Facilities, and the owner of the Wireless Telecommunications Facilities does not claim and remove it from the site to a lawful location within ten days, then the County may take steps to declare the Wireless Telecommunications Facilities abandoned, and sell them and their components.
+(G)
+Notwithstanding anything in this Section to the contrary, the County may approve a temporary use permit/agreement for the Wireless Telecommunications Facilities, for no more than 90 days, during which time a suitable plan for removal, conversion, or re-location of the affected Wireless Telecommunications Facilities shall be developed by the holder of the Tall Structure Permit or Co-location Permit, subject to the approval of the County, and an agreement to such plan shall be executed by the holder of the Tall Structure Permit or Co-location Permit and the County. If such a plan is not developed, approved and executed within the 90-day time period, then the County may take possession of and dispose of the affected Wireless Telecommunications Facilities in the manner provided in this Section and utilize the bond in Section 155.28.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.29. - Relief.
+Any Applicant desiring relief, waiver or exemption from any aspect or requirement of this Ordinance may request such at the pre-Application meeting; provided that, the relief or exemption is contained in the submitted Application for either a Tall Structure Permit or Co-location Permit, or in the case of an existing or previously granted Tall Structure Permit or Co-location Permit a request for modification of its Tower and/or facilities. Such relief may be temporary or permanent, partial or complete. However, the burden of proving the need for the requested relief, waiver or exemption is solely on the Applicant to prove. The Applicant shall bear all costs of the County in considering the request and the relief, waiver or exemption. No such relief or exemption shall be approved unless the Applicant demonstrates by clear and convincing evidence that, if granted, the relief, waiver or exemption will have no significant affect on the health, safety and welfare of the County, its residents or other service providers.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.30. - Periodic regulatory review by the Clay County Board of Commissioners.
+(A)
+The Clay County Board of Commissioners may at any time conduct a review and examination of this entire Ordinance.
+(B)
+If after such a periodic review and examination of this Ordinance, the Clay County Board of Commissioners determines that one or more provisions of this Ordinance should be amended, repealed, revised, clarified, or deleted, then the Clay County Board of Commissioners may take whatever measures are necessary in accordance with applicable Ordinance in order to accomplish the same. It is noted that where warranted, and in the best interests of the County, the Clay County Board of Commissioners may repeal this entire Ordinance at any time.
+(C)
+Notwithstanding the provisions of subsections (A) and (B) of this Section, the Clay County Board of Commissioners may at any time and in any manner (to the extent permitted by Federal, State, or local law), amend, add, repeal, and/or delete one or more provisions of this Ordinance.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.31. - Adherence to state and/or federal rules and regulations.
+(A)
+To the extent that the holder of a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities has not received relief, or is otherwise exempt, from appropriate State and/or Federal agency rules or regulations, then the holder of such a Tall Structure Permit or Co-location Permit shall adhere to, and comply with, all applicable rules, regulations, standards, and provisions of any State or Federal agency, including, but not limited to, the FAA and the FCC. Specifically included in this requirement are any rules and regulations regarding height, lighting, security, electrical and RF emission standards.
+(B)
+To the extent that applicable rules, regulations, standards, and provisions of any State or Federal agency, including but not limited to, the FAA and the FCC, and specifically including any rules and regulations regarding height, lighting, and security are changed and/or are modified during the duration of a Tall Structure Permit or Co-location Permit for Wireless Telecommunications Facilities, then the holder of such a Tall Structure Permit or Co-location Permit shall conform the permitted Wireless Telecommunications Facilities to the applicable changed and/or modified rule, regulation, standard, or provision within a maximum of 24 months of the effective date of the applicable changed and/or modified rule, regulation, standard, or provision, or sooner as may be required by the issuing entity.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.32. - Conflict with other laws.
+Where this Ordinance differs or conflicts with other Laws, rules and regulations, unless the right to do so is preempted or prohibited by the County, State or federal government, this Ordinance shall apply.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.33. - Effective date.
+This Ordinance shall be effective immediately upon passage, pursuant to applicable legal and procedural requirements.
+(Res. No. 10-085, § 1, 12-7-2010)
+Sec. 155.34. - Authority.
+This Local Ordinance is enacted pursuant to applicable authority granted by the State and federal government.
+(Res. No. 10-085, § 1, 12-7-2010)

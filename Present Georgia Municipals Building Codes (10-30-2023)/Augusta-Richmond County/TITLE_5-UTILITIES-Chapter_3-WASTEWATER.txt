@@ -1,0 +1,1087 @@
+Chapter 3 - WASTEWATER[1]
+
+Footnotes:
+--- (1) ---
+Editor's note— Ord. No. 6557 , adopted October 3, 2002, amended this chapter in its entirety to read as herein set out. Formerly said chapter pertained to similar subject matter.
+
+Sec. 5-3-1. - General provisions.
+This chapter shall be known as Augusta, Georgia Sewer Use Ordinance.
+(a)
+Purpose and Procedure.
+Augusta is a political subdivision of the State of Georgia and operates under enabling legislation enacted by the General Assembly of Georgia (GA Laws 1995, p. 3648) and the authority invested by the Constitution of the State of Georgia. Legal authority is vested in Augusta, Georgia to carry out the provisions of the Ordinance, particularly the Pretreatment Program. The Augusta-Richmond County Commission, on behalf of Augusta, Georgia has full legal authority and power to apply any of the applicable sections of the federal Water Pollution Control Act for purposes of enforcement.
+This ordinance sets forth uniform requirements for users of the Publicly Owned Treatment Works (POTW) for Augusta, Georgia and enables Augusta to comply with all applicable State and Federal laws, including the Clean Water Act (33 USC 1251 et seq.) and the General Pretreatment Regulations (40 CFR Part 403). The objectives of this ordinance are:
+(1)
+To prevent the introduction of pollutants into the POTW that will interfere with the operation of the POTW;
+(2)
+To prevent the introduction of pollutants into the POTW which will pass through the POTW, inadequately treated, into receiving waters or otherwise be incompatible with the POTW;
+(3)
+To ensure that the quality of the wastewater treatment plant sludge is maintained at a level which allows its use and disposal in compliance with applicable statutes and regulations;
+(4)
+To protect POTW personnel who may be affected by wastewater and sludge in the course of their employment and to protect the general public;
+(5)
+To improve the opportunity to recycle and reclaim wastewater and sludge from the POTW;
+This ordinance shall apply to all users of Augusta's POTW, which includes both the James B. Messerly (JBM) and Spirit Creek (SC) Water Pollution Control Plant (WPCP) and all conveyances to same. The ordinance authorizes the issuance of wastewater discharge permits; authorizes monitoring, compliance, and enforcement activities; establishes administrative review procedures; requires user reporting; and provides for the setting of fees for the equitable distribution of costs resulting from the program established herein.
+(b)
+Administration. Except as otherwise provided herein, Augusta's Assistant Director of Utilities shall administer, implement, and enforce the provisions of this ordinance. The Assistant Director of Utilities may delegate any powers granted to or duties imposed upon the Assistant Director of Utilities to other duly authorized representatives or agents.
+(c)
+Definition. Unless a provision explicitly states otherwise, the following terms and phrases, as used in this ordinance, shall have the meanings hereinafter designated.
+(1)
+Act or "the Act". The Federal Water Pollution Control Act, also known as the Clean Water Act, as amended, 33 U.S.C. 1251 et seq.
+(2)
+Administrative Action. An enforcement action authorized by Augusta's legal authority that is taken without the involvement of a court.
+(3)
+Administrative Fine. A punitive monetary charge unrelated to actual treatment costs which is assessed by Augusta rather than a court.
+(4)
+Administrative Order. A document, which orders the violator to perform a specific, act or refrain from an act. For example, the order may require users to attend a show cause meeting, cease and desist discharging or undertake activities pursuant to a compliance schedule.
+(5)
+Applicable Pretreatment Standards. For any specified pollutant, Augusta's prohibitive standards, Augusta's specific pretreatment standards (local limits), or EPA's Categorical Pretreatment Standards (when effective), whichever standard is appropriate or most stringent.
+(6)
+Approval Authority. The State of Georgia, Department of Natural Resources Environmental Protection Division. The Approval Authority is responsible for approval and oversight of Control Authority pretreatment programs including an evaluation of the effectiveness of local enforcement.
+(7)
+Assistant Director of Utilities. The person designated by Augusta to supervise the operation of the POTW, and who is charged with certain duties and responsibilities by this ordinance.
+(8)
+Augusta, Georgia or Augusta. A political subdivision of the State of Georgia governed by Augusta-Richmond County Commission.
+(9)
+Authorized Representative of the User.
+a.
+If the user is a corporation:
+1.
+The president, secretary, treasurer, or a vice-president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation; or
+2.
+The manager of one or more manufacturing, production, or operation facilities employing more than 250 persons or having gross annual sales or expenditures exceeding $25 million (in second-quarter 1980 dollars), if authority to sign documents has been assigned or delegated to the manager in accordance with corporate procedures;
+b.
+If the user is a partnership or sole proprietorship: a general partner or proprietor, respectively;
+c.
+If the user is a Federal, State, or local governmental facility: a director or highest official appointed or designated to oversee the operation and performance of the activities of the government facility, or his/her designee.
+d.
+The individuals described in paragraphs (a) through (c) above may designate another authorized representative if the authorization is in writing, the authorization specifies the individual or position responsible for the overall operation of the facility from which the discharge originates or having overall responsibility for environmental matters for the company, and the written authorization is submitted to Augusta.
+(10)
+Biochemical Oxygen Demand (BOD). The quantity of oxygen utilized in the biochemical oxidation of organic matter under standard laboratory procedures for five (5) days at 20° centigrade, usually expressed as a concentration in milligrams per liter (mg/l).
+(11)
+Board of Health. The Richmond County Board of Health or an authorized agent or representative.
+(12)
+Building Inspector. The chief building inspector of Augusta or his authorized agent or representative.
+(13)
+Building Sewer. The extension from the building drain to the public sewer or other place of disposal also called house connection.
+(14)
+Categorical Pretreatment Standard or Categorical Standard. Any regulation containing pollutant discharge limits promulgated by the U.S. EPA in accordance with Sections 307(b) and (c) of the Act (33 U.S.C. 1317) which apply to a specific category of users and which appeal in 40 CFR Chapter I, Subchapter N, Parts 405-471.
+(15)
+Categorical User. A user covered by one of EPA's Categorical Pretreatment Standards.
+(16)
+Chain-of Custody. A written record of sample possession for all persons who handle (collect, transport, analyze, dispose) a sample, including names, dates and times.
+(17)
+Chemical Oxygen Demand (COD). A measure of the oxygen required to oxidize organic and oxidizable inorganic compounds in water.
+(18)
+Cooling Water. Cooling water may be generated from any use, such as air conditioning, heat exchangers, cooling or refrigeration to which the only pollutant added is heat.
+(19)
+Color. The optical density at the visual wavelength of maximum absorption relative to distilled water. One hundred percent (100%) transmittance is equivalent to zero (0.0) optical density.
+(20)
+Combined Sewer. A sewer intended to receive both wastewater and storm or surface water.
+(21)
+Commission. Augusta-Richmond County Commission.
+(22)
+Community Sewer. Any public sewer containing wastewater from more than one premise.
+(23)
+Compatible Pollutant. BOD, TSS, pH, fecal coliform bacteria, ammonia, and such additional pollutants as are now, or may in the future, be specified and controlled in Augusta's NPDES permit for its wastewater treatment works where said works have been designed and used to reduce or remove pollutants.
+(24)
+Composite Sample. The sample resulting from the combination of individual wastewater samples taken at selected intervals based on an increment of either flow or time.
+(25)
+Control Authority. Augusta's Director of Utilities or his duly authorized representative or agent.
+(26)
+Conventional Pollutants. Pollutants described as BOD, suspended solids pH, fecal coliform bacteria, oil and grease, phosphorus, total Kjeldahl nitrogen and such additional pollutants as are now or may in the future be specified and controlled in Augusta's NPDES for its wastewater treatment works where said works have been designed and used to reduce or remove such pollutant.
+(27)
+Discharge. The discharge of a pollutant or the discharge of pollutants.
+(28)
+Direct Discharge. The discharge of treated or untreated wastewater directly to the Waters of the State of Georgia.
+(29)
+Domestic User (Residential User). Any person who contributes, causes, or allows the contribution of wastewater into Augusta's POTW that is of a similar volume and/or chemical make-up as that of a residential dwelling unit. Discharges from a residential dwelling unit typically do not exceed 200 mg/l of BOD and 200 mg/l of TSS.
+(30)
+Environmental Protection Division (EPD). The State of Georgia Department of Natural Resources, Environmental Protection Division or its duly authorized representative.
+(31)
+Environmental Protection Agency (EPA). The U.S. Environmental Protection Agency or, where appropriate, the Regional Water Management Division Director, or other duly authorized official of said agency.
+(32)
+Existing Source. For a categorical industrial user, an "existing source" is any source of discharge, the construction or operation of which commenced prior to the publication by EPA of proposed categorical pretreatment standards, which will be applicable to such source if the standard is thereafter promulgated in accordance with Section 307 of the Act.
+(33)
+Existing User. For non-categorical users an "existing user" is defined as any user which is discharging wastewater prior to the effective date of this ordinance or include a specific date such as the date the code will become effective.
+(34)
+Flammable. To be defined by existing fire regulations covering Augusta.
+(35)
+Floatable Grease. Grease in a state such that it is insoluble in the liquid waste and will separate from the liquid by gravity in properly operating grease separation facilities.
+(36)
+Flow Proportioned. A composite sample that is collected continuously or discreetly. Discreet sampling may be flow-proportioned by varying the time interval between each aliquot. All composites must be flow-proportioned to each stream flow at time of collection of aliquot or to the total flow since the previous aliquot.
+(37)
+Grab Sample. A sample which is taken from a wastestream on a one-time basis without regard to the flow in the wastestream and without consideration of time.
+(38)
+Grease. Such materials include fats, oils, waxes and related compounds of animal, vegetable of mineral origin.
+(39)
+Hazardous Substance. Any substance designated under 40 CFR Part 261 pursuant to Section 311 of the Clean Water Act.
+(40)
+Holding Tank Waste. Any waste from a holding tank such as vessels, chemical toilets, campers, trailers, septic tanks and vacuum-pump tank trucks utilized to store, treat or transport waste.
+(41)
+Indirect Discharge. The introduction of pollutants into the POTW from any non-domestic source regulated under Section 307(b), (c), or (d) of the Act. The discharge into the POTW is normally by means of pipes, conduits, pumping stations, force mains, constructed drainage ditches, surface water intercepting ditches, and all constructed devices and appliances appurtenant thereto.
+(42)
+Industrial Wastes. The wastewater from industrial processes, trade or business as distinct from domestic or sanitary wastes.
+(43)
+Influent. The wastewaters entering at Augusta's wastewater treatment plant for treatment.
+(44)
+Interference. A discharge which, alone or in conjunction with a discharge or discharges from other sources, either: (1) inhibits or disrupts the POTW, its treatment processes or operations; (2) inhibits or disrupts its sludge processes, use or disposal; or (3) is a cause of a violation of Augusta's NPDES permit or of the prevention of sewage sludge use or disposal in compliance with any of the following statutory/regulatory provisions or permits issued thereunder (or more stringent State or local regulations): Section 405 of the Clean Water Act; the Solid Waste Disposal Act (SWDA), including Title II commonly referred to as the Resource Conservation and Recovery Act (RCRA); any State regulations contained in any State sludge management plan prepared pursuant to Subtitle D of the SWDA; the Clean Air Act; the Toxic Substances Control Act; and the Marine Protection, Research, and Sanctuaries Act.
+(45)
+Legal Authority. The source of Augusta's jurisdiction and regulatory powers.
+(46)
+Maximum Allowable Discharge Limit. The maximum concentration (or loading) of a pollutant allowed to be discharged at any time, determined from the analysis of any discrete or composite sample collected.
+(47)
+Medical Wastes. Isolation wastes, infectious agents, human blood and blood products, pathological wastes, sharps, body parts, contaminated bedding, surgical wastes, potentially contaminated laboratory wastes, and dialysis wastes.
+(48)
+National Pollutant Discharge Elimination System (NPDES). The program for issuing, conditioning and denying permits for the discharge pollutant from point sources into navigable waters pursuant to Section 403 of the Federal Water Pollution Control Act (33 U.S.C. 1342).
+(49)
+New Source.
+a.
+Any building, structure, facility, or installation from which there is (or may be) a discharge of pollutants, the construction of which commenced after the publication of proposed pretreatment standards under Section 307(c) of the Act which will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:
+1.
+The building, structure, facility, or installation is constructed at a site at which no other source is located; or
+2.
+The building, structure, facility, or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or
+3.
+The production or wastewater generating processes of the building, structure, facility, or installation is substantially independent of an existing source at the same site. In determining whether these are substantially independent factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source, should be considered.
+b.
+Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility, or installation meeting the criteria of Section a.1. or 2, above but otherwise alters, replaces, or adds to existing process or production equipment.
+c.
+Construction of a new source as defined under this paragraph has commenced if the owner or operator has:
+1.
+Begun, or caused to begin as part of a continuous onsite construction program
+(i)
+any placement, assembly, or installation of facilities or equipment; or
+(ii)
+significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or
+2.
+Entered into a binding contractual obligation for the purchase of facilities or equipment, which are intended to be used in its operation within a reasonable time. Options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this paragraph.
+(50)
+New User. A "new user" is not a "new-source" and is defined as a user that applies to Augusta for a new building permit or any person who occupies an existing building and plans to discharge wastewater to Augusta's collection system after the effective date of this ordinance or include a specific date such as the date the code will become effective. Any person that buys an existing facility that is discharging non-domestic wastewater will be considered an "existing user" if no significant changes are made in the manufacturing operation.
+(51)
+Non-Contact Cooling Water. Water used for cooling which does not come into direct contact with any raw material, intermediate product, waste product, or finished product.
+(52)
+Pass Through. A discharge which, exits the POTW into waters of the United States in quantities or concentrations which, alone or in conjunction with a discharge or discharges from other sources, is a cause of a violation of any requirement of Augusta's NPDES permit (including an increase in the magnitude or duration of a violation)
+(53)
+Permittee: A person or user issued a wastewater discharge permit.
+(54)
+Person. Any individual, partnership, co-partnership, firm, company, corporation, association, joint stock company, trust, estate, governmental entity, or any other legal entity; or their legal representatives, agents, or assigns. This definition includes all Federal, State, or local governmental entities.
+(55)
+pH. A measure of the acidity or alkalinity of a substance, expressed in standard units.
+(56)
+pH Violation. Where a permittee continuously monitors pH, a violation shall be defined as any 60-minute excursion outside of the permitted range. The total time during which the pH values are outside the required range of pH value shall not exceed 8 hours in any calendar month. Where a permittee analyzes grab samples for pH analyses, a violation shall be defined as any excursion outside of the permitted range.
+(57)
+Pollutant. Any dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, medical wastes, chemical wastes, biological materials, radioactive materials, heat, wrecked or discharged equipment, rock, sand, cellar dirt, agricultural and industrial wastes, and the characteristics of the wastewater [i.e., pH, temperature, TSS, turbidity, color, BOD, Chemical Oxygen Demand (COD), toxicity, or odor].
+(58)
+Pretreatment. The reduction of the amount of pollutants, the elimination of pollutants, or the alteration of the nature of pollutant properties in wastewater prior to (or in lieu of) introducing such pollutants into the POTW. This reduction or alteration can be obtained by physical, chemical, or biological processes; by process changes; or by other means (except by diluting the concentration of the pollutants unless allowed by an applicable pretreatment standard).
+(59)
+Pretreatment Requirements. Any substantive or procedural requirement related to pretreatment imposed on a user, other than a pretreatment standard.
+(60)
+Pretreatment Standards or Standards. Pretreatment standards shall mean prohibited discharge standards, categorical pretreatment standards, and local limits established by Augusta, Georgia.
+(61)
+Priority Pollutant. Any contaminant in water which is identified as being toxic, carcinogenic, mutagenic, teratogenic or is chemically similar to compounds identified as such by EPA. This list includes 129 compounds and such other compounds as may be added from time to time.
+(62)
+Process Wastewater. Any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product or waste product.
+(63)
+Prohibited Discharge Standards or Prohibited Discharges. Absolute prohibitions against the discharge of certain substances; these prohibitions appear in Sections 5-3-5 and 5-3-6 of this ordinance.
+(64)
+Proprietary Information. Information about a commercial chemical, product or process which is considered to be confidential business information or a trade secret by an industrial user because if divulged, the information could put the industrial user at an unfair competitive disadvantage with competitors in the same industry.
+(65)
+Publicly Owned Treatment Works (POTW). A "treatment works," as defined by the Act (33 U.S.C. 1292), which is owned by Augusta. This definition includes any devices or systems used in the collection, storage, treatment, recycling, and reclamation of sewage or industrial wastes of a liquid nature and any conveyances which convey wastewater to a treatment plant. The term also means Augusta.
+(66)
+Self-Monitoring. Sampling analysis of wastewater performed by the industrial user or its designee.
+(67)
+Septic Tank Waste. Any sewage from holding tanks such as vessels, chemical toilets, campers, trailers, and septic tanks.
+(68)
+Sewage. Human excrement and gray water (household showers, dishwashing operations, etc.)
+(69)
+Sewer. Any pipe, conduit ditch, or other device used to collect and transport sewage from the generating source.
+(70)
+Sewerage. The entire system of sewage collection, treatment and disposal.
+(71)
+Shall, May. "Shall" is mandatory, "may" is permissive.
+(72)
+Significant industrial User (SIU).
+a.
+A user subject to categorical pretreatment standards; or
+b.
+A user that:
+1.
+Discharges an average of 25,000 gpd or more of process wastewater to the POTW (excluding sanitary, non-contact cooling, and boiler blowdown wastewater); or
+2.
+Contributes a process wastestream which makes up five (5) percent or more of the average dry weather hydraulic or organic capacity of the POTW treatment plant; or
+3.
+Is designated as such by Augusta on the basis that it has a reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement.
+4.
+Upon a finding that a user meeting the criteria in Subsection two (2) has no reasonable potential for adversely affecting the POTW's operation or for violating any applicable pretreatment standard or requirement, Augusta may at any time, on its own initiative or in response to a petition received from a user and in accordance with procedures in 40 CFR 403.8(f)(6) determine that such user should not be considered a significant industrial user.
+(73)
+Slug Load. Any discharge at a flow rate or concentration which could cause a violation of the discharge standards in Section 5-3-9 of this ordinance or any discharge of a non-routine, episodic nature, including but not limited to, an accidental spill or a non-customary batch discharge.
+(74)
+Standard Industrial Classification (SIC) Code. A classification pursuant to the Standard Industrial Classification Manual issued by the United States Office of Management and Budget.
+(75)
+Storm Water. Any flow occurring during or following any form of natural precipitation, and resulting from such precipitation, including snowmelt.
+(76)
+Surcharge. A charge for treating pollutant loading above design domestic levels.
+(77)
+Total Suspended Solids. The total suspended matter that floats on the surface of, or is suspended in, water, wastewater, or other liquid, and which is removable by laboratory filtering.
+(78)
+Toxic Pollutant. One of 126 pollutants, or combination of those pollutants, listed as toxic in regulations promulgated by EPA under Section 307 (33 U.S.C. 1317) of the Act.
+(79)
+Treatment Plant Effluent. The discharge from the POTW into waters of the United States.
+(80)
+Upset. An exceptional incident in which there is unintentional and temporary noncompliance with categorical Pretreatment Standards because of factors beyond the control of the industrial user. An upset does not include noncompliance to the extent caused by operational error, improperly designed treatment facilities, lack of preventive maintenance, or careless or improper operation.
+(81)
+User or Industrial User. A source of indirect discharge. The source shall not include "domestic user" as defined herein.
+(82)
+Wastewater. Liquid and water-carried industrial wastes and sewage from residential dwellings, commercial buildings, industrial and manufacturing facilities, and institutions, whether treated or untreated, which are contributed to the POTW.
+(83)
+Wastewater Discharge Permit (Industrial Wastewater Discharge Permit, Discharge Permit). An authorization or equivalent control document issued by Augusta to individual users discharging wastewater to the POTW. The permit may contain appropriate pretreatment standards and requirements as set forth in this ordinance.
+(84)
+Wastewater Treatment Plant or Treatment Plant. That portion of the POTW, which is designed to provide treatment of municipal sewage and industrial waste.
+The use of the singular shall be construed to include the plural and the plural shall include the singular as indicated by the context of its use.
+(d)
+Abbreviations. The following abbreviations shall have the designated meanings:
+• ASPP - Accidental Spill Prevention Plan
+• BOD - Biochemical Oxygen Demand
+• CFR - Code of Federal Regulations
+• COD - Chemical Oxygen Demand
+• EPA - U.S. Environmental Protection Agency
+• gpd - gallons per day
+• l - liter
+• LEL - Lower Explosive Limit
+• mg - milligrams
+• mg/l - milligrams per liter
+• NPDES - National Pollutant Discharge Elimination System
+• O&M - Operation and Maintenance
+• POTW - Publicly Owned Treatment Works
+• RCRA - Resource Conservation and Recovery Act
+• SIC - Standard Industrial Classifications
+• SIU - Significant Industrial User
+• SWDA - Solid Waste Disposal Act (42 U.S.C. 6901, et seq.)
+• TSS - Total Suspended Solids
+• USC - United States Code
+• WPCP - Water Pollution Control Plant
+( Ord. No. 6557 , § 1, 10-3-2002; Ord. No. 6939 , § 15, 1-2-2007)
+Sec. 5-3-2. - Use of public sewer.
+(a)
+Unsanitary offensive deposits on property generally. It shall be unlawful for any person to place, deposit or permit to be deposited in any unsanitary manner on public or private property within Augusta or any area under the jurisdiction of said Augusta, any human excrement, garbage or other objectionable waste.
+(b)
+Discharging waste to natural outlets. It shall be unlawful to discharge to any natural outlet within Augusta or in any area under the jurisdiction of said Augusta, any sewage or other polluted waters, except where suitable treatment has been provided in accordance with subsequent provisions of this Ordinance.
+(c)
+Private sewage disposal. Except as hereinafter provided, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool or other facility intended or used for the disposal of sewage.
+(d)
+Sewer connection required if available. The owner of all houses, buildings or properties used for human occupancy, employment, recreation or other purposes, situated within Augusta and abutting on any street, alley or right-of-way in which there is located a public sanitary or combined sewer of Augusta, is hereby required at his expense to install suitable toilet facilities therein and to connect such facilities directly with the proper public sewer in accordance with the provisions of this ordinance, within 90 days after date of official notice to do so, provided that said public sewer is within 200 feet (61 meters) of the property line.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-3. - Private sewage disposal.
+(a)
+Connection to private system. Where a public sanitary or combined sewer is not available under the provisions of Section 5-3-2, the building sewer shall be connected to a private sewage disposal system complying with the provisions of this ordinance.
+(b)
+Refer applications to board of health. Before commencement of construction of a private sewage disposal system, the owner shall first obtain a written permit. The application for such permit shall be made on a form furnished by the Board of Health, which the applicant shall supplement by any plans, specifications and other information as are deemed necessary by the Director of Utilities.
+(c)
+Inspection of private systems. A permit for private sewage disposal system shall not become effective until the installation is completed to the satisfaction of the Board of Health. The Board of Health shall be allowed to inspect the work at any stage of construction and in any event, the applicant for the permit shall notify the Board of Health when the work is ready for final inspection and before any underground portions are covered, excluding the building sewer to private sewer disposal system.
+(d)
+Acceptable private sewage disposal. The type, capacities, location and layout of a private sewage disposal system shall comply with all recommendations of the Department of Human Resources of the State of Georgia. No permit shall be issued for any private sewage disposal system employing subsurface soil absorption facilities where the area of the lot is less than the requirements of Augusta's Groundwater Recharge Ordinance, which provisions are set forth in Augusta-Richmond County Code Title 8, Chapter 6 (Sections 8-6-1 through 8-6-16). No septic tank or cesspool shall be permitted to discharge to any natural outlet.
+(e)
+Connection to public sewer required if available. At such time as a public sewer becomes available to a property served by a private sewage disposal system, as provided in Section 5-3-2, a direct connection shall be made to the public sewer in compliance with this ordinance and any septic tanks, cesspools and similar private sewage disposal facilities shall be abandoned and filled with suitable material. When a public sewer becomes available, the building sewer shall be connected to said sewer within 90 days and the private sewage disposal system shall be cleaned of sludge and filled with clean bank-ran gravel or dirt by the Owner.
+(f)
+Private operation and funding. The owner shall operate and maintain the private sewage disposal facilities in a sanitary manner at all times, at no expense to Augusta.
+(g)
+Board of health. No statement contained in this ordinance shall be construed to interfere with any additional requirements that may be imposed by the Board of Health.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-4. - General requirements.
+(a)
+Prohibited discharge standards.
+(1)
+General prohibitions. No user shall introduce or cause to be introduced into the POTW any pollutant or wastewater, which causes pass through or interference. These general prohibitions apply to all users of the POTW whether or not they are subject to categorical pretreatment standards or any other National, State, or local pretreatment standards or requirements.
+(2)
+Specific prohibitions. No user shall introduce or cause to be introduced into the POTW the following pollutants, substances, or wastewater:
+a.
+Pollutants which create a fire or explosive hazard in the POTW, including, but not limited to, wastestreams with a closed-cup flashpoint of less than 140°F (60°C) using the test methods specified in 40 CFR 261.21. Prohibited substances include, but are not limited to gasoline, kerosene, naphtha, benzene, toluene, xylene, ethers, alcohols, ketones, aldehydes, peroxides, chlorates, perchlorates, bromates, carbides, hydrides, sulfides and any other substances which have been determined to be a fire hazard to the system.
+b.
+Reserved.
+c.
+Wastewater having a pH less than 6.0 or more than 11.0 standard units at any time, or otherwise causing corrosive structural damage or hazard to structures, equipment and/or personnel of the POTW.
+d.
+Solid or viscous substances in amounts which will cause obstruction of the flow in the POTW resulting in interference but in no case solids greater than one-half inch.
+e.
+Pollutants, including oxygen-demanding pollutants (BOD, etc.), released in a discharge at a flow rate and/or pollutant concentration which, either singly or by interaction with other pollutants, will cause interference with the POTW.
+f.
+Wastewater having a temperature which will inhibit biological activity in the treatment plant resulting in interference, but in no case wastewater which causes the temperature at the introduction into the treatment plant to exceed 104°F (40°C) unless the Approval Authority, upon the request of the POTW, approves alternate temperature limits.
+g.
+Pollutants which result in the presence of toxic gases, vapors, or fumes within the POTW in a quantity that may cause acute worker health and safety problems.
+h.
+Trucked or hauled pollutants, except at discharge points designated by Augusta.
+i.
+Noxious or malodorous liquids, gases, solids, or other wastewater which, either singly or by interaction with other wastes, are sufficient to create a public nuisance or a hazard to life, or to prevent entry into the sewers for maintenance or repair.
+j.
+Wastewater which imparts color which cannot be removed by the treatment process, such as, but not limited to, dye wastes and vegetable tanning solutions, which consequently imparts color to the treatment plant's effluent, thereby violating Augusta's NPDES permit. Color, in combination with turbidity, shall not cause the treatment plant effluent to reduce the depth of the compensation point for photosynthetic activity by more than ten percent (10%) from the seasonably established north for aquatic life.
+k.
+Wastewater containing any radioactive wastes or isotopes except as specifically approved by the Assistant Director of Utilities in compliance with applicable State or Federal regulations.
+l.
+Storm water, surface water, ground water, artesian well water, roof runoff, subsurface drainage, swimming pool drainage, condensate, deionized water, non-contact cooling water, and unpolluted wastewater, unless specifically authorized by the Assistant Director of Utilities.
+m.
+Any sludges, screenings, or other residues from the pretreatment of industrial wastes or from industrial processes.
+n.
+Medical wastes, except as specifically authorized by the Assistant Director of Utilities.
+o.
+Wastewater causing alone or in conjunction with other sources the treatment plant's effluent to fail toxicity test. In the event toxicity is found in the POTW, the Assistant Director of Utilities may require industrial users to participate in a Toxicity Reduction Evaluation in accordance with the provisions of the POTW treatment plant's NPDES permit.
+p.
+Detergents, surface-active agents, or other substances which may cause excessive foaming in the POTW.
+q.
+Any liquid, solids, or gases which by reason of their nature or quantity are, or may be, sufficient either alone or by interaction with other substances to cause fire or explosion or be injurious in any other way to the POTW or to the operation of the POTW. At no time shall two (2) successive readings on an explosion meter, at the point of discharge into the system (or at any point in the system), be more than five (5%) per cent nor any single reading over ten (10%) per cent of the lower explosive limit (LEL) of the meter.
+r.
+Grease, animal guts or tissues, paunch manure, bones, hair, hides or fleshings, entrails, whole blood, feathers, ashes, cinders, sand, spent lime, stone or marble dusts, metal, glass, straw, shavings, grass clippings, rags, spent grains, spent hops, waste paper, wood, plastics, gas, tar asphalt residues, residues from refining or processing of fuel or lubricating oil, mud, or glass grindings or polishing wastes.
+s.
+Any substance which, will cause the POTW to violate its NPDES and/or other disposal system permits.
+t.
+Any wastewater, which in the opinion of the Assistant Director of Utilities can cause harm either to the sewers, sewage treatment process, or equipment; have an adverse effect on the receiving stream; or can otherwise endanger life, limb, public property, or constitute a nuisance, unless allowed under special agreement by the Assistant Director of Utilities (except that no special waiver shall be given from categorical pretreatment standards).
+u.
+The contents of any tank or other vessel owned or used by any person in the business of collecting or pumping sewage, effluent, septage, or other wastewater unless said person has first obtained testing and approval as may be generally required by Augusta and paid all fees assessed for the privilege of said discharge.
+v.
+Any hazardous wastes as defined in rules published by the State of Georgia or in EPA regulations 40 CFR Part 261.
+w.
+Persistent pesticides and/or pesticides regulated by the Federal Insecticide Fungicide Rodenticides Act (FIFRA).
+x.
+Any wastewater, which causes hazard to human life, creates a public nuisance or endangers the environment.
+(3)
+Limitations on the use of garbage grinders. Waste from garbage grinders shall not be discharged into a Community Sewer except where generated in preparation of food consumed on the premises. Such grinders must shred the waste to a degree that all particles will be carried freely under normal flow conditions prevailing in the Community Sewers. Garbage grinders shall not be used for the grinding of plastics, paper products, inert materials or garden refuse.
+Pollutants, substances, or wastewater prohibited by this section shall not be processed or stored in such a manner that they could be discharged to the POTW.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-5. - Discharge limits and standards.
+(a)
+Federal categorical pretreatment standards.
+The National Categorical pretreatment standards found at 40 CFR Chapter 1, Subchapter N, Parts 405-471 are hereby incorporated. If federal categorical standards establish limits for a pollutant more stringent than those established in subsection (b) hereof, the categorical pretreatment standard will take precedence.
+In accordance with 40 CFR 403.13, Augusta may adjust a categorical Pretreatment Standard if data specific to that Industrial User indicates it presents factors fundamentally different from those considered by EPA in developing the limit at issue.
+Where process effluent is mixed prior to treatment with wastewater other than those generated by the regulated process, Augusta will derive fixed alternative (mass or concentration) discharge limitations. These limits will be applied to the mixed effluent in accordance with 40 CFR 403.6(e).
+Federal Categorical Pretreatment Standards may be expressed as either concentration or mass limits. Equivalent limits (mass or concentration) will be provided so that local, state or federal authorities responsible for enforcement may use either concentration or mass in accordance with 40 CFR 403(6).
+Augusta may adjust Categorical Pretreatment Standards to reflect the presence of pollutant in the Industrial User's intake water in accordance with 40 CFR 403.15.
+(b)
+Local Limitations. No person or User shall discharge wastewater in excess of the concentrations set forth below unless the wastewater discharge permit of the User provides as a special permit condition a higher interim concentration level and a requirement that the User construct a pretreatment facility or institute changes in operations and maintenance procedures to reduce the concentration of pollutants to levels not exceeding the standards set forth in the discharge permit within a fixed period of time. The following pollutant limits are established to protect both the James B. Messerly and Spirit Creek WPCP against pass through and interference. No person shall discharge wastewater containing concentrations in excess of the following:
+MAXIMUM CONCENTRATION, mg/l
+EXPAND
+Parameter
+Arsenic, total 0.86
+Cadmium, total 0.14
+Chromium, total 1.74
+Chromium, (VI) 1.74
+Copper, total 0.38
+Lead, total 0.60
+Mercury, total 0.002
+Molybdenum, total 0.78
+Nickel, total 0.40
+Selenium, total 0.68
+Silver, total 1.82
+Zinc, total 2.46
+Cyanide, total 0.08
+Phenols 2.13
+Oil and Grease, Total 500
+Petroleum and Mineral 100
+Benzene 5.53
+Carbon tetrachloride 0.14
+Chlorobenzene 0.05
+Chlorodibromethane 2.93
+Methyl chloride 0.16
+1, 1, 2, 2 Tetrachloroethane 0.93
+Tetrachloroethylene 0.89
+1, 1, 2-Trichloroethane 3.62
+Trichloroethylene 0.04
+2, 4-Dimethylphenol 2.69
+Anthracene 0.01
+Bis (2-ethylhexyl) phthalate 0.34
+1, 2-Dichlorobenzene 0.01
+1, 3-Dichlorobenzene 0.98
+1, 4-Dichlorobenzene 0.09
+Di-n-butyl phthalate 0.62
+Fluoranthene 3.48
+Hexachlorobenzene 0.000043
+Hexachlorobutadiene 0.08
+Pyrene 0.01
+Napthalene 3.21
+1, 1-Dichloroethylene 0.22
+1, 3-Dichloropropylene 1.01
+Phenanthrene 0.20
+Acenapthene 1.50
+1, 1-Dichloroethane 0.34
+1, 2-Dichloropropane 3.36
+2-Methy 4, 6-dinitrophenol 0.29
+Hexachloroethane 0.39
+2-Nitrophenol 0.29
+1, 2, 4-Trichlorobenzene 0.22
+  The above limits apply at the point where the wastewater is discharged to the POTW (end-of-the-pipe). All concentrations for metallic substances are for "total" metal unless indicated otherwise. Augusta may limit the discharge of specific substances, listed or not listed above, on a case-by-case basis, if the discharge of that substance is shown to interfere with the operation or performance of the receiving POTW or violates any receiving stream water quality standards. The Assistant Director of Utilities may impose mass limitations in addition to (or in place of) the concentration-based limitations above. Where a user is subject to a categorical pretreatment standard and a local limit for a given pollutant, the more stringent limit or applicable pretreatment standard shall apply.
+(c)
+Notification required. Augusta is required to notify the Georgia Environmental Protection Division immediately when any industry in the Centralized Waste Treatment Point Category under 40 CFR 437 currently discharging to the Publicly Owned Treatment Works changes in the following ways:
+(1)
+The sewer service is terminated.
+(2)
+The industry stops discharging.
+(d)
+Augusta's right of revision. Augusta reserves the right to establish, by ordinance or in wastewater discharge permits, more stringent standards or requirements on discharges to the POTW.
+(e)
+Special agreement. Augusta reserves the right to enter into special agreements with users setting out special terms under which they may discharge to the POTW. In no case will a special agreement waive compliance with a categorical pretreatment standard or federal pretreatment requirement. However, the user may request a net gross adjustment to a categorical standard in accordance with 40 CFR 403.15. They may also request a variance from the categorical pretreatment standard from the Approval Authority in accordance with 403.13.
+(f)
+Dilution. No user shall ever increase the use of process water, or in any way attempt to dilute a discharge, as a partial or complete substitute for adequate treatment to achieve compliance with an applicable pretreatment standard or requirement unless expressly authorized by an applicable pretreatment standard or requirement. The Assistant Director of Utilities may impose mass limitations on users, which he believes may be using dilution to meet applicable pretreatment standards or requirements, or in other cases when the imposition of mass limitations is appropriate.
+(g)
+Pretreatment facilities. Users shall provide necessary wastewater treatment as required to comply with this ordinance and shall achieve compliance with all applicable pretreatment standards and requirements set out in this ordinance within the time limitations specified by the EPA, the State, or the Assistant Director of Utilities, whichever is more stringent. Any facilities required to treat wastewater to a level acceptable to Augusta prior to discharging to the POTW, shall be provided, operated, and maintained at the user's expense. Detailed plans showing the pretreatment facilities and operating procedures shall be submitted to Augusta for review, and shall be acceptable to Augusta before construction of the facility. The review of such plans and operating procedures will in no way relieve the user from the responsibility of modifying the facility as necessary to produce an acceptable discharge to Augusta under the provisions of this ordinance.
+(h)
+Deadline for compliance with applicable pretreatment requirements for existing users. Compliance by existing sources (categorical users) covered by Categorical Pretreatment Standards shall be within 3 years of the date the Standard is effective unless a shorter compliance time is specified in the appropriate Standard. Augusta shall establish a final compliance deadline date for any existing user not covered by Categorical Pretreatment Standards or for any categorical user when the local limits for said user are more restrictive than EPA's Categorical Pretreatment Standards.
+(i)
+Deadline for compliance with applicable pretreatment requirements for new source or new users. New Source dischargers and "New Users" are required to comply with applicable pretreatment standards within the shortest feasible time (not to exceed 90 days from the beginning of discharge). New Sources and "New Users" shall install and have in operating condition, and shall "start-up" all pollution control equipment required to meet applicable pretreatment standards before beginning to discharge.
+(j)
+Compliance schedule for categorical and noncategorical users. Any wastewater discharge permit issued to a categorical user shall not contain a compliance date beyond any deadline date established in EPA's Categorical Pretreatment Standards. Any other existing user or a categorical user that must comply with a more stringent local limit, which is in non-compliance with any local limits shall be provided with a compliance schedule placed in an industrial wastewater permit to ensure compliance within the shortest time feasible.
+(k)
+Additional pretreatment measures.
+(1)
+Whenever deemed necessary, the Assistant Director of Utilities may require users to restrict their discharge during peak flow periods, designate that certain wastewater be discharged only into specific sewers, relocate and/or consolidate points of discharge, separate sewage wastestreams from industrial wastestreams, and such other conditions as may be necessary to protect the POTW and determine the user's compliance with the requirements of this ordinance.
+(2)
+Grease, oil, and sand interceptors shall be provided when, in the opinion of the Assistant Director of Utilities, they are necessary for the proper handling of wastewater containing excessive amounts of grease and oil, or sand; except that such interceptors shall not be required for residential users. All interception units shall be of type and capacity approved by the Assistant Director of Utilities and shall be so located to be easily accessible for cleaning and inspection. Such interceptors shall be inspected, cleaned, and repaired regularly, as needed, by the user at his expense.
+(3)
+Users with the potential to discharge flammable substances may be required to install and maintain an approved combustible gas detection meter.
+(l)
+Accidental discharge/slug control. The Assistant Director of Utilities may require any user to develop and implement an accidental discharge/slug control plan. Where deemed necessary by Augusta, facilities to prevent accidental discharge or slug discharges of pollutants shall be provided and maintained at the user's cost and expense. An accidental spill prevention plan/slug control plan showing facilities and operating procedures to provide this protection shall be submitted to Augusta for review and approval before implementation. Augusta shall determine which user is required to develop a plan and require said plan to be submitted within 30 days after notification by Augusta. Each user shall implement its ASPP as submitted or as modified after such plan has been reviewed and approved by Augusta. Review and approval of such plans and operating procedures by Augusta shall not relieve the user from the responsibility to modify its facility as necessary to meet the requirements of Section 5-3-5.
+(1)
+Any user required to develop and implement an accidental discharge/slug control plan shall submit a plan which addresses, at a minimum, the following:
+a.
+Description of discharge practices, including non-routine batch discharges;
+b.
+Description of stored chemicals;
+c.
+Procedures for immediately notifying the POTW of any accidental or slug discharge. Such notification must also be given for any discharge which would violate any of the standards in Sections 5-3-4 and 5-3-5 of this ordinance; and
+d.
+Procedures to prevent adverse impact from any accidental or slug discharge. Such procedures include, but are not limited to, inspection and maintenance of storage areas, handling and transfer of materials, loading and unloading operations, control of plant site runoff, worker training, building of containment structures or equipment, measures for containing toxic organic pollutants (including solvents), and/or measures and equipment for emergency response.
+(2)
+Users shall notify Augusta immediately upon becoming aware of the occurrence of a "slug" or "accidental discharge" of substances regulated by this Ordinance. The notification shall include location of discharge, date and time thereof, type of waste, concentration and volume, and corrective actions. Any affected user shall be liable for any expense, loss, or damage to the POTW, in addition to the amount of any fines imposed on Augusta on account thereof under state or federal law.
+(3)
+Within five (5) days following an accidental discharge, the user shall submit to the Assistant Director of Utilities a detailed written report describing the cause of the discharge and the measures to be taken by the user to prevent similar future occurrences. Such notification shall not relieve the user of any expense, loss, damage, or other liability which may be incurred as a result of damage to the POTW, fish kills, or any other damage to person or property; nor shall such notification relieve the user of any fines, civil penalties, or other liability which may be imposed by this Ordinance or other applicable law.
+(4)
+Signs shall be permanently posted in conspicuous places on the user's premises advising employees whom to call in the event of a slug or accidental discharge. Employers shall instruct all employees who may cause or discover such a discharge with respect to emergency notification procedures.
+( Ord. No. 6557 , § 1, 10-3-2002; Ord. No. 6764 , § 1, 1-18-2005)
+Sec. 5-3-6. - Hauled waste.
+(a)
+Limitations on point of discharge.
+(1)
+No person shall discharge any substance directly into a manhole or other opening in a community sewer other than through an approved building sewer, unless he shall have been issued a permit by the Assistant Director of Utilities.
+(2)
+Hauled waste may be discharged at the James B. Messerly Water Pollution Control Plant at times and locations established by the Assistant Director of Utilities. The designated receiving structure is located at:
+James B. Messerly Water Pollution Control Plant
+1820 Doug Barnard Parkway
+Augusta, Georgia 30906
+(3)
+No person shall discharge or cause to be discharged to any public sewer or to any public sewer facility or to any private sewer tributary to any public sewer any water and/or waste which has been removed and transported from any pit, sump, portable toilet, holding tank, septic tank, or wastewater treatment facility except as authorized by this ordinance. Such water and/or waste is hereinafter referred to in this ordinance as hauled waste.
+(b)
+Waste hauler permit. Only permitted waste haulers may discharge hauled waste to the designated receiving structure.
+(1)
+Any person wishing to obtain a permit to discharge hauled waste to the designated receiving structure shall satisfy all state and local certification and permitting requirements for hauling and disposing of liquid waste. Local certification is handled through Richmond County Board of Health. The James B. Messerly Water Pollution Control Plant's pretreatment staff carries out the waste hauler discharge permitting process. A permit application form along with the information listed below must be submitted to Augusta's pretreatment staff.
+a.
+Proof of comprehensive general liability and auto liability insurance. The applicant must submit proof that it has obtained financial assurances sufficient to restore or repair damage to the POTW caused by its discharge. Additionally, the applicant must inform Augusta or its designee at least 10 days prior to the time of policy cancellations or renewals. Applicant shall maintain general liability insurance and automobile liability insurance in such amounts as he may, from time to time, deem appropriate.
+b.
+A list of vehicles applicant has in service for transportation of liquid waste. The list shall include the make and model, the state of registration, the state vehicle license number and the tank volume in gallons for each vehicle operated.
+c.
+Proof that waste hauled vehicles, which are to discharge at the James B. Messerly facility, are in compliance with all applicable federal, state and local regulations applicable to waste hauler-servicing Augusta.
+d.
+Volumes and types of waste transported each year for the last three years. A new business shall submit an estimate of volumes for the first year.
+(2)
+Any person who has been permitted to discharge hauled waste at the designated receiving structure shall annually provide proof to the Assistant Director of Utilities of continued liability insurance and proof of continued compliance with applicable federal, state, and local regulations.
+(3)
+The Assistant Director of Utilities may revoke a permit if the hauler is found to be in violation of the provisions of this ordinance.
+(c)
+Discharge of hauled waste.
+(1)
+Under no circumstances may hauled waste which is hazardous waste, as defined in 40 CFR 261, be discharged to Augusta's POTW.
+(2)
+Hauled waste generated at an industrial site may be discharged only if the original source of the waste has received written approval from the Assistant Director of Utilities. The generator of such waste shall submit to the Assistant Director of Utilities waste profile information on a form provided by Augusta. Additionally, prior to granting approval, the Assistant Director of Utilities may require analytical testing. Approval will be either granted or denied on a case-by-case basis.
+(d)
+Hauled waste receipts and samples.
+(1)
+Each hauler will bear the responsibility of proving the origin of the waste being hauled. No person shall discharge or cause to be discharged hauled waste without presenting a completed manifest record on a form provided by the Assistant Director of Utilities. This manifest record must be maintained for not less than one year and must be available for inspection by Richmond County Board of Health. Additionally, a tracking log record must be signed for each load of waste disposed of at the wastewater treatment plant.
+(2)
+Hauled waste subject to prior approval provisions of Section 5-3-6 of this ordinance may be discharged only upon receiving approval from Augusta.
+(3)
+Trucks used for hauling wastes must be equipped with an approved device or method for determining volume of waste in the tank. Trucks not so equipped shall be charged based on tank capacity.
+(4)
+In the event hauled waste is found to be in violation of Section 5-3-5 of this ordinance, it shall not be accepted.
+(e)
+Conditions of discharge. Any person permitted under Section 5-3-6 to discharge hauled waste at the point designated herein and in possession of proper manifest record assents to the conditions hereinafter stated and agrees to be bound by his conditional obligations and duties, to wit:
+(1)
+The hauler will comply with all Augusta's regulations and follow the direction of the James B. Messerly Water Pollution Control Plant employees while on the Augusta's premises.
+(2)
+The hauler agrees to reimburse Augusta from any and all damage and expenses which may be suffered by it by reason of any or all of his acts done on it premises, including but not as a limitation, the discharge of the aforesaid hauled waste which violates any standard or standards of the ordinance.
+(f)
+Refusal of waste. The Assistant Director of Utilities has the right to refuse to accept the discharge of any hauled waste brought to the designated receiving structure. If, in the opinion of the attendant on duty, based on a review of the manifest record, waste profile and analytical testing Augusta may make the following determinations:
+(1)
+The waste does not meet the conditions under which a prior approval was granted, or
+(2)
+The waste could adversely impact Augusta's treatment works and/or processes.
+(g)
+Discharge at other locations unlawful. The discharge of hauled waste into any facility, manhole or other location not approved for such discharge shall be considered unlawful and the person responsible for such discharge shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined not more than one thousand dollar ($1,000.00) or imprisoned in Augusta-Richmond County Detention Center for not more than one year, or by both such fine and imprisonment for each such violation.
+(h)
+Fees for discharge of hauled waste.
+(1)
+Liquid waste hauled to the treatment plant for disposal shall be charged a fee established by Augusta's Commissioners based upon the volume of waste discharged into the wastewater treatment plant and recovery of cost associated with treatment. Haulers shall be billed on a monthly cycle.
+(2)
+For the purpose of billing, waste hauled to the treatment plant for disposal shall be divided into two classes:
+a.
+Class A Septage from single family residence, portable toilets, and any other waste proven to have a total BOD and TSS of 20,000 mg/l or less.
+EXPAND
+Example: BOD = 10,000 mg/l
+TSS = 5,000 mg/l
+Total = 15,000 mg/l, and is therefore classified as Class A.
+  b.
+Class B shall consist of all other waste types and has been further classified as follows:
+1.
+Subpart B-1 includes commercial wastes grease traps and septage from other than single family residence, holding tank waste, etc.
+2.
+Subpart B-2 includes any waste generated as a result of an industrial process.
+(3)
+In order for waste other than septage from single family residences and portable toilets to be classified as Class A, analyses must be performed which indicate the sum of BOD and TSS concentrations is 20,000 mg/l or less. This must be established before the waste is delivered to the treatment plant. (NOTE: BOD analysis requires 5 days.) The waste hauler and company shall be responsible for all expenditures associated with performing laboratory testing.
+(i)
+Charge for late payment. If any charges billed are not paid by the due date indicated on any bill rendered, then an additional late payment charge, based on the percentage established by the ordinance for late payments of wastewater user charge, is imposed for each month or portion thereof the bill remains unpaid beyond the due date.
+(j)
+Termination of service for nonpayment.
+(1)
+When any Waste hauler monthly charge has not been paid and has been delinquent for more that fifteen days after the due date, then Augusta may refuse to accept any further waste discharges from that hauler.
+(2)
+When any bill rendered to a hauler who has hauled waste from a source (i.e. Industrial user) subject to the high strength waste charges (i.e. surcharges) in Section 5-3-17 of this ordinance has not been paid and has been delinquent for more than fifteen days after the due date, Augusta may refuse to accept any further waste discharges from that source.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-7. - Wastewater discharge permit requirements.
+No significant industrial user shall discharge wastewater into the POTW without first obtaining a wastewater discharge permit from the Assistant Director of Utilities. Additionally, no user shall discharge conventional pollutant concentrations in excess of the specific limitations described below without first obtaining a wastewater discharge permit. The Assistant Director of Utilities reserves the right to impose mass limitations for each of the conventional parameters defined below.
+Maximum Discharge, mg/l
+EXPAND
+Parameter
+Biochemical Oxygen Demand 300
+Total Suspended Solids 200
+Ammonia as Nitrogen 52
+Sulfate 22
+  Any violation of the terms and conditions of a wastewater discharge permit shall be deemed a violation of this ordinance and subjects the wastewater discharge permittee to the sanctions set out in this ordinance. Obtaining a wastewater discharge permit does not relieve a permittee of its obligation to comply with all Federal pretreatment standards or requirements or with any other requirements of Federal, and local law. Augusta shall notify industrial users concerning permit expiration at least 90 prior the expiration date. Industrial Users have a duty to reapply for a wastewater discharge permit within 45 days of receiving the notification.
+The Assistant Director of Utilities may require other users, including liquid waste haulers, to obtain wastewater discharge permits (as necessary) to carry out the purposes of this ordinance.
+(a)
+Wastewater discharge permitting. Existing SIU. Any SIU that was discharging wastewater into the POTW prior to the effective date of this ordinance and that wishes to continue such discharges in the future shall, within 60 days after notification by the Assistant Director of Utilities submit a permit application to Augusta in accordance with Section 5-3-7 of this ordinance and shall not cause or allow discharges to the POTW to continue after 180 days of the effective date of this ordinance except in accordance with a wastewater discharge permit issued by the Assistant Director of Utilities.
+(b)
+Wastewater discharge permitting. New Source and "New user." At least 90 days prior to the anticipated start-up, New Sources, sources that become a user subsequent to the promulgation of an applicable categorical pretreatment standard, and "New Users" considered by Augusta to fit the definition of SIU, shall apply for a wastewater discharge permit and will be required to submit to Augusta at least the information listed in paragraphs (1) - (5) of Section 5-3-7. A New Source or "new user" cannot discharge without first receiving a wastewater discharge permit from Augusta. New Sources and "New Users" shall also be required to include in their application information on the method of pretreatment the user intends to use to meet applicable pretreatment standards. New Sources and "New Users" shall give estimates of the information requested in paragraphs (4) and (5) of Section 5-3-7.
+(c)
+Wastewater discharge permit application contents. All users required to obtain a wastewater discharge permit must submit, at a minimum, the following information. The Assistant Director of Utilities shall approve a form to be used as a permit application. Categorical users submitting the following information shall have complied with 40 CFR 403.12(b).
+(1)
+Identifying information. The user shall submit the name and address of the facility including the name of the operator and owners;
+(2)
+Permits. The user shall submit a list of any environmental control permits held by or for the facility;
+(3)
+Description of operations. The user shall submit a brief description of the nature, average rate of production, and Standard Industrial Classification of the operation(s) carried out by such Industrial User, including a list of all raw materials and chemicals used or stored at the facility which are, or could accidentally or intentionally be, discharged to the POTW; number and type of employees; hours of operation; each product produced by type, amount, process or processes, and rate of production; type and amount of raw materials processed (average and maximum per day) and the time and duration of discharges. This description should also include a schematic process diagram which indicates points of discharge to the POTW from the regulated or manufacturing processes. Disclosure of site plans, floor plans, mechanical and plumbing plans and details to show all sewers, sewer connections, inspection manholes, sampling chambers and appurtances by size, location and elevation.
+(4)
+Flow Measurement.
+a.
+Categorical User: The user shall submit information showing the measured average daily and maximum daily flow, in gallons per day, to the POTW from each of the following:
+1.
+Regulated or manufacturing process streams; and
+2.
+Other streams as necessary to allow use of the combined wastestream formula of 40 CFR 403.6(e).
+b.
+Non-Categorical User: The user shall submit information showing the measured average daily and maximum daily flow, in gallons per day, to the POTW from each of the following:
+1.
+Total process flow, wastewater treatment plant flow, total plant flow or individual manufacturing process flow as required by the Assistant Director of Utilities.
+Augusta may allow for verifiable estimates of these flows where justified by cost or feasibility considerations.
+(5)
+Measurements of pollutants.
+a.
+Categorical User:
+1.
+The user shall identify the applicable pretreatment standards for each regulated or manufacturing process.
+2.
+In addition, the user shall submit the results of sampling and analysis identifying the nature and concentration (or mass) where required by the Categorical Pretreatment Standard or as required by Augusta of regulated pollutants (including standards contained in Sections 5-3-4 through 5-3-5, as appropriate) in the discharge from each regulated or manufacturing process. Both daily maximum and average concentration (or mass, where required) shall be reported. The sample shall be representative of daily operations and shall conform to sampling and analytical procedures outlined in Section (5).
+3.
+The user shall take a minimum of one representative sample to compile that data necessary to comply with the requirements of this paragraph.
+4.
+Where an alternate concentration or mass limit has been calculated in accordance with 40 CFR 403.6(e) for a categorical user covered by a categorical pretreatment standard this adjusted limit along with supporting data shall be submitted as part of the application.
+b.
+Non-Categorical User
+1.
+The user shall identify the applicable pretreatment standards for each regulated or manufacturing process.
+2.
+The user shall submit the results of sampling and analysis identifying the nature and concentration (or mass where required by Augusta) of regulated pollutants contained in Sections 5-3-5 as appropriate in the discharge. Both daily maximum and average concentration (or mass, where required) shall be reported. The sample shall be representative of daily operations and shall conform to sampling and analytical procedures outlined in Section 5-3-9.
+3.
+The user shall take a minimum of one representative sample to compile that data necessary to comply with the requirements of this paragraph.
+4.
+Where the Assistant Director of Utilities developed alternate concentration or mass limits because of dilution this adjusted limit along with supporting data shall be submitted as part of the application.
+(6)
+Certification. A statement, reviewed by an authorized representative of the user and certified by a qualified professional as outlined in Section 5-3-7(d), indicating whether the applicable Pretreatment Standards are being met on a consistent basis, and, if not, whether additional operation and maintenance (O and M) and/or additional pretreatment is required for the user to meet the applicable Pretreatment Standards and Requirements;
+(7)
+Compliance Schedule. If additional pretreatment and/or O and M will be required to meet the applicable Pretreatment Standards; the shortest schedule by which the user will provide such additional pretreatment and/or O and M. The user's schedule shall conform with the requirements of Section 5-3-6(d). The completion date in this schedule shall not be later than the compliance date established pursuant to Section 5-3-5(h) of this Ordinance.
+a.
+Where the user's categorical Pretreatment Standard has been modified by a removal allowance (40 CFR 403.7), the combined wastestream formula (40 CFR 403.6(e)), and/or a Fundamentally Different Factors variance (40 CFR 403.13) at the time the user submits the report required by this paragraph, the information required by paragraphs (f) and (g) of this section shall pertain to the modified limits.
+b.
+If the categorical Pretreatment Standard is modified by a removal allowance (40 CFR 403.7), the combined wastestream formula (40 CFR 403.6(e)), and/or a Fundamentally Different Factors variance (40 CFR 403.13) after the user submits the report required by paragraphs (f) and (g) of this section shall be submitted by the user within 60 days after the modified limit is approved.
+8.
+Any other information as may be deemed necessary by the Assistant Director of Utilities to evaluate the wastewater discharge permit application.
+Incomplete or inaccurate applications will not be processed and will be returned to the user for revision.
+(d)
+Signatory and certification requirement. All wastewater discharge permit applications and user reports must be signed by an authorized representative of the user and contain the following certification statement:
+"I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information submitted is to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations."
+(e)
+Wastewater discharge permit decisions. The Assistant Director of Utilities will evaluate the date furnished by the user and may require additional information. Within 30 days of receipt of a complete wastewater discharge permit application, the Assistant Director of Utilities will determine whether or not to issue a wastewater discharge permit. Upon a determination to issue, the permit shall be issued within 30 days of full evaluation and acceptance of the data furnished. The Assistant Director of Utilities may deny any application for a wastewater discharge permit.
+(f)
+Wastewater discharge permit contents. Wastewater discharge permits shall include such conditions as are reasonably deemed necessary by the Assistant Director of Utilities to prevent pass through or interference, protect the quality of the water body receiving the treatment plant's effluent, protect worker health and safety, facilitate sludge management and disposal, and protect against damage to the POTW.
+(1)
+Wastewater discharge permits must contain the following conditions.
+a.
+A statement that indicates wastewater discharge permit duration, which in no event shall exceed five (5) years;
+b.
+A statement that the wastewater discharge permit is non-transferable without prior notification to and approval from Augusta, and provisions for furnishing the new owner or operator with a copy of the existing wastewater discharge permit;
+c.
+Applicable pretreatment standards and requirements, including any special State requirements;
+d.
+Self-monitoring, sampling, reporting, notification, submittal of technical reports, compliance schedules, and record-keeping requirements. These requirements shall include an identification of pollutants to be monitored, sampling location, sampling frequency, and sample type based on Federal, State, and local law;
+e.
+Requirement for immediate notification to Augusta where self-monitoring results indicate non-compliance;
+f.
+Requirement to report a by-pass or upset of a pretreatment facility;
+g.
+Requirement for the SIU who reports non compliance to repeat the sampling and analysis and submit results to Augusta within 30 days after becoming aware of the violation;
+h.
+A statement of applicable civil, criminal, and administrative penalties for violation of pretreatment standards and requirements and any applicable compliance schedule.
+(2)
+Wastewater discharge permits may contain, but need not be limited to, the following conditions:
+a.
+Limits on the average and/or maximum rate of discharge, time of discharge, and/or requirements for flow regulation and equalization;
+b.
+Requirements for the installation of pretreatment technology, pollution control, or construction of appropriate containment devices, designed to reduce, eliminate, or prevent the introduction of pollutants into the treatment works;
+c.
+Requirements for the development and implementation of spill control plans or other special conditions including management practices necessary to adequately prevent accidental, unanticipated, or routine discharges;
+d.
+Development and implementation of waste minimization plans to reduce the amount of pollutants discharged to the POTW;
+e.
+The unit charges or schedule of user charges and fees for the management of the wastewater discharged to the POTW;
+f.
+Requirements for installation and maintenance of inspection and sampling facilities and equipment;
+g.
+A statement that compliance with the wastewater discharge permit does not relieve the permittee of responsibility for compliance with all applicable Federal and State pretreatment standards, including those which become effective during the term of the wastewater discharge permit;
+h.
+Any special agreements the Assistant Director of Utilities chooses to continue or develop between Augusta and user;
+i.
+Other conditions as deemed appropriate by the Assistant Director of Utilities to ensure compliance with this ordinance, and State and Federal laws, rules, and regulations.
+(g)
+Wastewater discharge permit appeals. Any person, including the user, may petition Augusta to reconsider the terms of a wastewater discharge permit within 30 days of its issuance.
+(1)
+Failure to submit a timely petition for review shall be deemed to be a waiver of the administrative appeal.
+(2)
+In its petition, the appealing party must indicate the wastewater discharge permit provisions objected to, the reasons for this objection, and the alternative condition, if any, it seeks to place in the wastewater discharge permit.
+(3)
+The effectiveness of the wastewater discharge permit shall not be stayed pending the appeal.
+(4)
+If Augusta fails to act within 30 days, a request for reconsideration shall be deemed to be denied. Decisions not to reconsider a wastewater discharge permit, not to issue a wastewater discharge permit, or not to modify a wastewater discharge permit, shall be considered final administrative actions for purposes of judicial review.
+(5)
+Aggrieved parties seeking judicial review of the final administrative wastewater discharge permit decision must do so by filing a complaint with the Richmond County Superior Court for Augusta, Georgia.
+(h)
+Wastewater discharge permit duration. Wastewater discharge permits shall be issued for a specified time period, not to exceed five (5) years. A wastewater discharge permit may be issued for a period less than five (5) years, at the discretion of the Assistant Director of Utilities. Each wastewater discharge permit will indicate a specific date upon which it will expire.
+(i)
+Wastewater discharge permit modification. The Assistant Director of Utilities may modify the wastewater discharge permit for good cause including, but not limited to, the following:
+(1)
+To incorporate any new or revised Federal, State, or local pretreatment standards or requirements;
+(2)
+To address significant alterations or additions to the user's operation, processes, or wastewater volume or character since the time of wastewater discharge permit issuance;
+(3)
+A change in the POTW that requires either a temporary or permanent reduction or elimination of the authorized discharge;
+(4)
+Information indicating that the permitted discharge poses a threat to Augusta's POTW, Augusta personnel, or the receiving waters;
+(5)
+Violation of any terms or conditions of the wastewater discharge permit;
+(6)
+Misrepresentations or failure to fully disclose all relevant facts in the wastewater discharge permit application or in any required reporting;
+(7)
+Revision of or a grant of variance from categorical pretreatment standards pursuant to 40 CFR 403.13;
+(8)
+To correct typographical or other errors in the wastewater discharge permit; or
+(9)
+To reflect a transfer of the facility ownership and/or operation to a new owner/operator.
+(j)
+Wastewater discharge permit transfer.
+Wastewater discharge permits may be reassigned or transferred to a new owner and/or operator only if the permittee gives at least 30 days advance notice to the Assistant Director of Utilities and the Assistant Director of Utilities approves the wastewater discharge permit transfer. The notice to the Assistant Director of Utilities must include a written certification by the new owner and/or operator which:
+(1)
+States that the new owner and/or operator has no immediate intent to change the facility's operations and processes;
+(2)
+Identifies the specific date on which the transfer is to occur; and
+(3)
+Acknowledges full responsibility for complying with the existing wastewater discharge permit.
+Failure to provide advance notice of a transfer renders the wastewater discharge permit voidable as of the date of facility transfer.
+Provided that the above occurs and that there were no significant changes to the manufacturing operation or wastewater discharge, the new owner will be considered an existing user and be covered by the existing limits and requirements in the previous owner's permit.
+(k)
+Wastewater discharge permit revocation. Wastewater discharge permits may be revoked for, but not limited to, the following reasons:
+(1)
+Failure to notify Augusta of significant changes to the wastewater prior to the changed discharge;
+(2)
+Failure to provide prior notification to Augusta of changed conditions;
+(3)
+Misrepresentation or failure to fully disclose all relevant facts in the wastewater discharge permits application;
+(4)
+Falsifying self-monitoring reports;
+(5)
+Tampering with monitoring equipment;
+(6)
+Refusing to allow Augusta timely access to the facility premises and records;
+(7)
+Failure to meet discharge limitations;
+(8)
+Failure to pay fines;
+(9)
+Failure to pay sewer charges;
+(10)
+Failure to meet compliance schedules;
+(11)
+Failure to complete a wastewater survey or the wastewater discharge permit application;
+(12)
+Failure to provide advance notice of the transfer of a permitted facility;
+(13)
+If Augusta has to invoke its emergency provision as cited in Section 5-3-13(g) of the Ordinance;
+(14)
+Violation of any pretreatment standard or requirement, or any terms of the wastewater discharge permit or this ordinance.
+Wastewater discharge permits shall be voidable upon cessation of operations or transfer of business ownership. All wastewater discharge permits issued to a particular user are void upon the issuance of a new wastewater discharge permit to that user.
+(l)
+Wastewater discharge permit re-issuance. A user, required to have a wastewater discharge permit, shall apply for wastewater discharge permit re-issuance by submitting a complete wastewater discharge permit application, in accordance with Section 5-3-7(e) of this ordinance, a minimum of 45 days prior to the expiration of the user's existing wastewater discharge permit. A user, whose existing wastewater discharge permit has expired and has submitted its re-application in the time period specified herein, shall be deemed to have an effective wastewater discharge permit until Augusta issues or denies the new wastewater discharge permit. A user, whose existing wastewater discharge permit has expired and who failed to submit its re-application in the time period specified herein, will be deemed to be discharging without a wastewater discharge permit.
+(m)
+Continuation of expired permit. If on the date of expiration of a user's permit, a new permit has not been issued, the requirements and limitations of the existing permit shall continue to be effective and enforceable unless the permittee has received notice of suspension, revocation and/or termination of the permit.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-8. - Reporting requirements section.
+(a)
+Baseline monitoring reports.
+(1)
+Within either one hundred and eighty (180) days after the effective date of a categorical pretreatment standard, or the final administrative decision on a category determination under 40 CFR 403.6(a)(4) (whichever is water) existing categorical users currently discharging to or scheduled to discharge to the POTW, shall be required to submit to Augusta a report which contains the information listed in paragraph (2), below. At least ninety 90 days prior to commencement of their discharge, New Sources, and sources that become categorical users subsequent to the promulgation of an applicable categorical standard, shall be required to submit to Augusta a report which contains the information listed in paragraph 2 a-e, below. A New Source shall also be required to report the method of pretreatment it intends to use to meet applicable categorical standards. A New Source shall also give estimates of its anticipated flow and quantity of pollutants discharged.
+(2)
+Users described above shall submit the information set forth below.
+a.
+Identifying Information. The name and address of the facility, including the name of the operator and owner.
+b.
+Environmental Permits. A list of any environmental control permits held by or for the facility.
+c.
+Description of Operations. A brief description of the nature, average rate of production, and standard industrial classifications of the operation(s) carried out by such user. This description should include a schematic process diagram, which indicates points of discharge to the POTW from the regulated processes.
+d.
+Flow Measurement. Information showing the measured average daily and maximum daily flow, in gallons per day, to the POTW from regulated process streams and other streams, as necessary, to allow use of the combined wastestream formula set out in 40 CFR 403.6(e).
+e.
+Measurement of Pollutants.
+1.
+The categorical pretreatment standards applicable to each regulated process.
+2.
+The results of sampling and analysis identifying the nature and concentration (and/or mass, where required by the standard or by Augusta) of regulated pollutants in the discharge from each regulated process. Instantaneous, daily maximum, and long term average concentrations (or mass, where required) shall be reported. The sample shall be representative of daily operations and shall be analyzed in accordance with procedures set out in Section 5-3-9 of this ordinance.
+3.
+Sampling must be performed in accordance with procedures set out in Section 5-3-9 of this ordinance.
+f.
+Certification. A statement, reviewed by the user's authorized representative and certified by a qualified professional, indicating whether pretreatment standards are being met on a consistent basis, and, if not, whether additional Operation and Maintenance (O&M) and/or additional pretreatment, is required to meet the pretreatment standards and requirements.
+g.
+Compliance Schedule. If additional pretreatment and/or O&M will be required to meet the pretreatment standards, the shortest schedule by which the user will provide such additional pretreatment and/or O&M. The completion date in this schedule shall not be later than the compliance date established for the applicable pretreatment standard. A compliance schedule pursuant to this section must meet the requirements set out in Section 5-3-8(d) of this ordinance.
+h.
+Signature and Certification. All baseline-monitoring reports must be signed and certified in accordance with Section 5-3-7(d) of this ordinance.
+(b)
+Final compliance report (initial compliance report).
+(1)
+Within 90 days following the date for final compliance by the Significant Industrial User with applicable pretreatment standards and requirements set forth in this ordinance, in a wastewater discharge permit, or within 30 days following commencement of the introduction of wastewater into the POTW by a New Source of "New Users" considered by Augusta to fit the definition of SIU, the affected user shall submit to Augusta a report containing the information outlined in Section 5-3-7(c).
+(2)
+For users subject to equivalent mass or concentration limits established by Augusta in accordance with procedures established in 40 CFR 403.6(c), this report shall contain a reasonable measure of the user's long term production rate. For all other users subject to categorical pretreatment standards expressed in terms of allowable pollutant discharge per unit of production (or other measure of operation), this report shall include the user's actual production during the appropriate sampling period.
+(c)
+Periodic compliance report.
+(1)
+Any user that is required to have an industrial waste discharge permit and performs self-monitoring shall submit to Augusta during the months of June and December, unless required on other dates or more frequently by Augusta, a report indicating the nature of the effluent over the previous reporting period. The frequency of monitoring shall be as prescribed within the industrial waste discharge permit. At a minimum, users shall sample their discharge at least twice per year.
+The report shall include a record of the concentrations (and mass if specified in the wastewater discharge permit) of the pollutants listed in the wastewater discharge permit that were measured and a record of all flow measurements (average and maximum) taken at the designated sampling locations, and shall also include any additional information required by this ordinance or the wastewater discharge permit. Production data shall be reported if required by the wastewater discharge permit. Both daily maximum and average concentration (or mass, were required) shall be reported. If a user monitors any pollutant at the location designated in the wastewater discharge permit more frequently than required using approved analytical methods as specified in 40 CFR Part 136, the results of such monitoring shall be included in calculations and reporting of values required during the reporting period. Such increased monitoring frequency shall also be indicated. Augusta may require more frequent monitoring or the monitoring of other pollutants not required in the permit by written notification.
+(2)
+If a user sampled and analyzed more frequently than what was required by Augusta or by this ordinance, using methodologies in 40 CFR Part 136, it must submit all results of sampling and analysis of the discharge during the reporting period.
+(3)
+Any user subject to equivalent mass or concentration limits established by Augusta or by unit production limits specified in the applicable categorical standards, shall report production data as outlined in Section 5-3-8(b).
+(4)
+If Augusta calculated limits to factor out dilution flows or non-regulated flows, the user will be responsible for providing flows from the regulated process flows, dilution flows and non-regulated flows.
+(5)
+Flows shall be reported on the basis of actual measurement; provided, however, that Augusta may accept reports of average and maximum flows estimated by verifiable techniques if Augusta determines that an actual measurement is not feasible.
+(6)
+Sampling shall be representative of the user's daily operations and shall be taken in accordance with the requirements specified in Section 5-3-9.
+(7)
+Augusta may require reporting by users that are not required to have an industrial wastewater discharge permit if information or data is needed to establish a sewer charge, determine the treatability of the effluent or determine any other factor which is related to the operation and maintenance of the sewer system.
+(8)
+Augusta may require self-monitoring by the user or, if requested by the user, may agree to perform the periodic compliance monitoring needed to prepare the periodic compliance report required under this section. If Augusta agrees to perform such periodic compliance monitoring, it may charge the user for such monitoring, based upon the costs incurred by Augusta for the sampling and analyses. Any such charges shall be added to the normal sewer charge and shall be payable as part of the sewer bills. Augusta is under no obligation to perform periodic compliance monitoring for a user.
+(d)
+Compliance schedules for meeting applicable pretreatment standards.
+(1)
+The schedule shall contain increments of progress in the form of dates for the commencement and completion of major events leading to the construction and operation of additional pretreatment required for the user to meet the applicable pretreatment standards (e.g., hiring an engineer, completing preliminary plans, completing final plans, executing contract for major components, commencing construction, completing construction, etc.).
+(2)
+No increment referred to in paragraph (1) of this section shall exceed 9 months.
+(3)
+Net later than 14 days following each date in the schedule and the final date for compliance, the user shall submit a progress report to Augusta including, at a minimum, whether or not it complied with the increment of progress to be met on such date and, if not, the date on which it expects to comply with this increment of progress, the reason for delay, and the steps being taken by the user to return the construction to the schedule established. In no event shall more than 9 months elapse between such progress reports.
+(e)
+Notification of significant production changes. Any user operating under a wastewater discharge permit incorporating equivalent mass or concentration limits shall notify Augusta within 2 business days after the user has a reasonable basis to know that the production level will significantly change within the next calendar month. Any user not providing a notice of such anticipated change will be required to comply with the existing limits contained in its wastewater discharge permit.
+(f)
+Hazardous waste notification.
+(1)
+Industrial user shall notify Augusta, the EPA Regional Waste Management Division Director, and State hazardous waste authorities in writing of any discharge into the POTW of a substance, which, if otherwise disposed of, would be a hazardous waste under 40 CFR part 261. Such notification must include the name of the hazardous waste as set forth in 40 CFR part 261, the EPA hazardous waste number, and the type of discharge (continuous, batch or other). If the industrial user discharge more than 100 kilograms of such waste per calendar month to the POTW, the notification shall also contain the following information to the extent such information is known and readily available to the industrial user; an identification of the hazardous constituents contained in the wastes, an estimation of the mass and concentration of such constituents in the wastestream discharged during the calendar month, and an estimation of the mass of constituents in the wastestream expected to be discharged during the following twelve months. All notifications must take place within 180 days of the effective date of this rule. Industrial users who commence discharging after the effective date of this rule shall provide the notification no later than 180 days after the discharge of the listed characteristic hazardous waste. Any notification under this paragraph need to be submitted only once for each hazardous waste discharged. However, notification of changed discharges must be submitted under 40 CFR 403.12(j), the notification requirement in this section does not apply to pollutants already reported under the self monitoring requirements of 40 CFR 403.12(d), and (e).
+(2)
+Users are exempt from the requirements of paragraph (f) (1) of this section during a calendar month in which they discharge no more than fifteen kilograms of hazardous wastes, unless the wastes are acute hazardous wastes as specified in 40 CFR 261.30(d) and 261.33(e), requires a one-time notification.
+Subsequent months during which the user discharges more than one such quantities of any hazardous waste do not require additional notification.
+(3)
+In the case of any new regulations under section 3001 of RCRA identifying additional characteristics of hazardous waste or listing any additional substance as a hazardous waste, the industrial user must notify Augusta, the EPA Regional Waste Management Waste Division Director, and Georgia's hazardous waste authorities of the discharge of such substance within 90 days of the effective date of such regulations.
+(4)
+In the case of any notification made under this section, the user shall certify that it has a program in place to reduce the volume and toxicity of hazardous waste generated to the degree it has determined to be economically practical.
+Such notification shall include:
+a.
+The name of the hazardous waste as set forth in 40 CFR Part 261,
+b.
+The EPA Hazardous waste number,
+c.
+The type of discharge (continuous, batch, or other),
+d.
+If an industrial user discharges more than 100 kilograms of such waste per calendar per month to the sewer system, the notification shall also contain the following information to the extent it is known or readily available to the industrial user:
+1.
+An identification of the hazardous constituents contained in the wastes,
+2.
+An estimation of the mass and concentration of such constituents in the wastestreams discharged during that calendar month, and
+3.
+An estimation of the mass of constituents in the wastestreams expected to be discharged during the following 12 months.
+(g)
+Notice of potential problems, including accidental spills, slug loadings. Any user shall notify Augusta immediately of all discharges that could cause problems to the POTW, including any slug loadings, as defined in Section 5-3-1. The notification shall include the concentration and volume and corrective action. Steps being taken to reduce any adverse impact should also be noted during the notification. Any user who discharges a "slug" (or slugs) of pollutants shall be liable for any expense, loss, or damage to the POTW, in addition to the amount of any fines imposed on Augusta under state or federal law.
+(h)
+Non-compliance reporting. If sampling performed by a user indicates a violation, the user shall notify Augusta within 24 hours of becoming aware of the violation. The user shall also repeat the sampling within 5 days and submit the results of the repeat analysis to Augusta within 30 days after becoming aware of the violation, except the user is not required to resample if:
+(1)
+Augusta performs sampling at the user at a frequency of at least once per month, or
+(2)
+Augusta performs sampling at the user between the time when the user performs its initial sampling and the time when the user receives the results of this sampling.
+(i)
+Notification of changed discharge. All users shall notify August prior to any substantial change in volume or characteristics of pollutants in their discharge, including significant manufacturing process changes, pretreatment modifications, and the listed or characteristic hazardous wastes for which the user has submitted initial notification under 40 CFR 403.12(p). Formal written notification shall follow within thirty days of such introduction.
+(j)
+TTO reporting. Categorical users which are required by EPA to eliminate and/or reduce the levels of toxic organics (TTOs) discharged into the sewer system must follow the Categorical Pretreatment Standards for that industry. Those users must also meet the following requirements:
+(1)
+Must sample, as part of the application requirements, for all the organics listed under the TTO limit (no exceptions);
+(2)
+No TTOs Used at the Facility, or the user elects to develop a solvent management plan in lieu of continuously monitoring for TTO:
+a.
+The user must routinely submit a certification statement as part of its self-monitoring report that there has been no dumping of concentrated toxic organic into the wastewater and that it is implementing a solvent management plan as approved by Augusta.
+(3)
+Reports from unpermitted users. All users not required to obtain a wastewater discharge permit shall provide appropriate reports to Augusta as the Assistant Director of Utilities may require.
+(k)
+Record keeping. Users subject to the reporting requirements of this ordinance shall retain, and make available for inspection and copying, all records of information obtained pursuant to any monitoring activities required by this ordinance and any additional records of information obtained pursuant to monitoring activities undertaken by the user independent of such requirements. Records shall include the date, exact place, method, and time of sampling and the name of the person(s) taking the samples; the dates analyses were performed; who performed the analyses; the analytical techniques or methods used; and the results of such analyses. These records shall remain available for a period of at least three (3) years. This period shall be automatically extended for the duration of any litigation concerning the user or POTW, or where the Assistant Director of Utilities has specifically notified the user of a longer retention period.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-9. - Sampling and analytical requirements.
+(a)
+Sampling requirements for users.
+(1)
+A minimum of four (4) grab samples must be used for pH, cyanide, total phenols, oil and grease, sulfide, and volatile organics. The Assistant Director of Utilities will determine on a case-by-case whether the user will be able to composite the individual grab samples. For all other pollutants, 24-hour composite samples must be obtained through flow-proportional composite sampling techniques where feasible. Augusta may waive flow-proportional composite sampling for any user that demonstrates that flow-proportional is infeasible. In such cases, samples may be obtained through time-proportional composite sampling techniques or through a minimum of four (4) grab samples where the user demonstrates that this will provide a representative sample of the effluent being discharged.
+(2)
+Samples should be taken immediately downstream from pretreatment facilities if such exist or immediately downstream from the regulated or manufacturing process if no pretreatment exists or as determined by Augusta and contained in the user's wastewater discharge permit. For categorical users, if other wastewaters are mixed with the regulated wastewater prior to pretreatment the user should measure the flows and concentrations necessary to allow use of the combined wastestream formula of 40 CFR 403.6(e) in order to evaluate compliance with the Applicable Categorical Pretreatment Standards. For other SIUs, for which Augusta has adjusted its local limits to factor out dilution flows, the user should measure the flows and concentrations necessary to evaluate compliance with the adjusted pretreatment standard(s).
+(3)
+All sample results shall indicate the time, date and place, of sampling, and methods of analysis, and shall certify that such sampling and analysis is representative of normal work cycles and expected pollutant discharges from the user. If a user sampled and analyzed more frequently than what was required in its wastewater discharge permit, using methodologies in 40 CFR Part 136, it must submit all results of sampling and analysis of the discharge as part of its self-monitoring report.
+(b)
+Analytical requirements. All pollutant analyses, including sampling techniques, shall be performed in accordance with the techniques prescribed in 40 CFR Part 136, unless otherwise specified in an applicable categorical pretreatment standard. If 40 CFR Part 136 does not contain sampling or analytical techniques for the pollutant in question, sampling and analyses must be performed in accordance with procedures approved by the EPA.
+(c)
+Augusta monitoring of user's wastewater. Augusta will follow the same procedures as outlined in Sections 5-3-9(a) and (b). Additionally, industrial users must ensure that appropriate monitoring devices and methods consistent with approved scientific practices shall be selected and used to ensure the accuracy and reliability of measurements of the volume of monitored discharges. The devices shall be installed, calibrated, and maintained to ensure that the accuracy of the measurements are consistent with the accepted capability of that type of device. Flow monitoring devices shall be capable of measuring flows with a less than 10% error from true discharge rate throughout the expected discharge volumes.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-10. - Compliance monitoring.
+(a)
+Inspection and sampling. Augusta shall have the right to enter the facilities of any user to ascertain whether the purpose of this ordinance, and any wastewater discharge permit or order issued hereunder, is being met and whether the user is complying with all requirements thereof. Users shall allow the Assistant Director of Utilities ready access to all parts of the premises for the purposes of inspection, sampling, records examination and copying, and the performance of any additional duties.
+(1)
+Where a user has security measures in force which require proper identification and clearance before entry into its premises, the user shall make necessary arrangements with its security guards so that, upon presentation of suitable identification, the Assistant Director of Utilities will be permitted to enter without delay for the purposes of performing specific responsibilities.
+(2)
+The Assistant Director of Utilities shall have the right to set up on the user's property, or require installation of, such devices as are necessary to conduct sampling and/or metering of the user's operations.
+(3)
+Any temporary or permanent obstruction to safe and easy access to the facility to be inspected and/or sampled shall be promptly removed by the user at the written or verbal request of the Assistant Director of Utilities and shall not be replaced. The costs of clearing such access shall be born by the user.
+(4)
+Unreasonable delays in allowing the Assistant Director of Utilities access to the user's premises shall be a violation of this ordinance.
+(b)
+Monitoring facilities.
+Each user shall provide and operate at its own expense a monitoring facility to allow inspection, sampling, and flow measurements of each sewer discharge to Augusta. In cases where no metering device is installed to measure process flow discharged to the POTW, surcharges and compliance shall be based upon water consumption metering devices. If water is obtained from sources other than Augusta Utilities Department, sewer flow must be measured with a continuous metering device approved by the Assistant Director of Utilities. Each monitoring facility shall be situated on the user's premises, except where such a location would be impractical or cause undue hardship on the user, Augusta may concur with the facility being constructed in the public street or sidewalk area, providing that the facility is located so that it will not be obstructed by landscaping or parked vehicles. The Assistant Director of Utilities, whenever applicable, may required the construction and maintenance of sampling facilities at other locations (for example, at the end of a manufacturing line, wastewater treatment system).
+There shall be ample room in or near such sampling facility to allow accurate sampling and preparation of samples for analysis. The facility, sampling, and measuring equipment shall be maintained at all times in a safe and proper operating condition at the expense of the user. All monitoring facilities shall be constructed and maintained in accordance with all applicable local construction standards and specifications. The Assistant Director of Utilities may require the user to install monitoring equipment as necessary. The user at its own expense shall maintain the facility's sampling and monitoring equipment at all times in a safe and proper operating condition. The permittee must ensure that appropriate monitoring devices and methods consistent with approved scientific practices shall be selected and used to ensure the accuracy and reliability of measurements of the volume of monitored discharges. The devices shall be installed, calibrated, and maintained to ensure that the accuracy of the measurements are consistent with the accepted capability of that type of device. Flow monitoring devices shall be capable of measuring flows with a less than 10% error from true discharge rate throughout the expected discharge volumes. The Assistant Director of Utilities may require the permittee to ensure service and calibration is performed on all monitoring equipment by the manufacturer at least annually.
+(c)
+Search warrants. If the Assistant Director of Utilities has been refused access to a building, structure or property, or any part thereof, and is able to demonstrate probable cause to believe that there may be a violation of this ordinance, or that there is a need to inspect as part of a routine inspection program of Augusta designed to verify compliance with this ordinance or any wastewater discharge permit or order issued hereunder, or to protect the overall public health, safety and welfare of the community, then the Assistant Director of Utilities shall seek issuance of a search and/or seizure warrant from the Richmond County Superior Court or other court of competent jurisdiction. Such warrant shall be served at reasonable hours by the Assistant Director of Utilities in the company of a uniformed law enforcement officer of Augusta.
+(d)
+Vandalism. No person shall willfully or negligently break, damage, destroy, uncover, deface, tamper with, or prevent access to any structure, appurtenance or equipment, or other part of the POTW. Any person found in violation of this requirement shall be subject to the sanctions set out in this ordinance.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-11. - Confidential information.
+Information and data on a user obtained from reports, surveys, wastewater discharge permit applications, wastewater discharge permits, and monitoring programs, and from Augusta inspection and sampling activities, shall be available to the public without restriction, unless the user specifically requests, and is able to demonstrate to the satisfaction of Augusta, that the release of such information would divulge information, processes or methods of production entitled to protection as trade secrets under applicable State law. When requested and demonstrated by the user furnishing a report that such information should be held confidential, the portions of a report which might disclose trade secrets or secret processes shall not be made available for inspection by the public, but shall be made available immediately upon request to governmental agencies for uses related to the NPDES program or pretreatment program, and in enforcement proceedings involving the person furnishing the report. Wastewater constituents and characteristics and other "effluent data" as defined by 40 CFR 2.302 will not be recognized as confidential information and will be available to the public without restriction.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-12. - Publication of users in significant non-compliance.
+Augusta shall publish annually, in the largest daily newspaper published in Augusta, a list of the users which, during the previous 12 months, were in significant non-compliance with applicable pretreatment standards and requirements. The term significant non-compliance shall mean:
+(a)
+Chronic violations of wastewater discharge limits, defined here as those in which 66% or more of wastewater measurements taken during a 6-month period exceed the daily maximum limit or average limit for the same pollutant parameter by any amount;
+(b)
+Technical Review Criteria (TRC) violations, defined here as those in which 33% or more of wastewater measurements taken for each pollutant parameter during a 6 month period equals or exceeds the product of the daily maximum limit or the average limit multiplied by the applicable criteria 1.4 for BOD, TSS, fats, oils and grease, and 1.2 for all other pollutants except pH;
+(c)
+Any other discharge violation that Augusta believes has caused, alone or in combination with other discharges, interference or pass through (including endangering the health of Augusta personnel or the general public);
+(d)
+Any discharge of pollutants that has caused imminent endangerment to the public or to the environment, or has resulted in Augusta's exercise of its emergency authority to halt or prevent such a discharge;
+(e)
+Failure to meet, within 90 days of the scheduled date, a compliance schedule milestone contained in a wastewater discharge permit or enforcement order for starting construction, completing construction, or attaining final compliance;
+(f)
+Failure to provide within 30 days after the due date, any required reports, including baseline monitoring reports, reports on compliance with categorical pretreatment standard deadlines, periodic self-monitoring reports, and reports on compliance with compliance schedules;
+(g)
+Failure to accurately report non-compliance; or
+(h)
+Any other violation(s) which, Augusta determines will adversely affect the operation or implementation of the local pretreatment program.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-13. - Administrative enforcement remedies.
+(a)
+Notification of violation. When the Assistant Director of Utilities finds that a user has violated (or continues to violate) any provision of this ordinance, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, the Assistant Director of Utilities may serve upon that user a written Notice of Violation. Within 30 days of the receipt of this notice, an explanation of the violation and a plan for the satisfactory correction and prevention thereof, to include specific required actions, shall be submitted by the user to the Assistant Director of Utilities. Submission of this plan in no way relieves the user of liability for any violations occurring before or after receipt of the Notice of Violation. Nothing in this section shall limit the authority of Augusta to take any action, including emergency actions or any other enforcement action, without first issuing a Notice of Violation.
+(b)
+Consent orders. The Assistant Director of Utilities may enter into Consent Orders, assurances of voluntary compliance, or other similar documents establishing an agreement with any user responsible for non-compliance. Such documents will include specific action to be taken by the user to correct the non-compliance within a time period specified by the document. Such documents shall have the same force and effect as the administrative orders issued pursuant to Sections 5-3-13(d) and (e) of this ordinance and shall be judicially enforceable. Use of Consent Order shall not be a bar against, or prerequisite for, taking any other action against the user.
+(c)
+Show cause hearing. The Assistant Director of Utilities may order a user which has violated of continues to violate, any provision of this ordinance, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, to appear before the Assistant Director of Utilities and show cause why the proposed enforcement action should not be taken. Notice shall be served on the user specifying the time and place for the meeting, the proposed enforcement action, the reasons for such action, and a request that the user show cause why the proposed enforcement action should not be taken. The notice of the meeting shall be served personally or by registered or certified mail (return receipt requested) at least 30 days prior to the hearing. Such notice may be served on any authorized representative of the user. A show cause hearing shall not be a bar against, or prerequisite for, taking any other action against the user.
+(d)
+Compliance orders. When the Assistant Director of Utilities finds that a user has violated or continues to violate any provision of this ordinance, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, the Assistant Director of Utilities may issue an order to the user responsible for the discharge directing that the user come into compliance within a time specified in the order. If the user does not come into compliance within the time specified in the order, sewer service may be discontinued unless adequate treatment facilities, devices, or other related appurtenances are installed and properly operated. Compliance orders may also contain other requirements to address the non-compliance, including additional self-monitoring, and management practices designed to minimize the amount of pollutants discharged to the sewer. Issuance of a compliance order shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(e)
+Cease and desist. When the Assistant Director of Utilities finds that a user has violated (or continues to violate) any provision of this ordinance, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, or that the user's past violations are likely to recur, the Assistant Director of Utilities may issue an order to the user directing it to cease and desist all such violations and directing the user to:
+(1)
+Immediately comply with all requirements; and
+(2)
+Take such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and/or terminating the discharge.
+Issuance of a cease and desist order shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(f)
+Administrative fines.
+(1)
+When the Assistant Director of Utilities finds that a user has violated or continues to violate any provision of this ordinance, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, the Assistant Director of Utilities may fine such user in an amount not to exceed $1,000.00. Such fines shall be assessed on a per violation, per day basis. In the case of monthly or other long-term average discharge limits, fines shall be assessed for each day during the period of violation.
+(2)
+Unpaid charges, fines, and penalties shall, after 15 calendar days, be assessed an additional penalty of 10% of the unpaid balance. If the user has been disconnected for 30 days and settlement of the account has not been made the user will be reported to the health department as a possible health hazard and the account will be finalized and turned over to collections. Services will not be restored until the outstanding balance has been satisfied.
+(3)
+Users desiring to dispute such fines must file a written request for the Assistant Director of Utilities to reconsider the fine along with full payment of the fine amount within 30 days of being notified of the fine. Where a request has merit, the Assistant Director of Utilities shall convene a hearing on the matter within 30 days of receiving the request from the user. In the event the user's appeal is successful, the payment, together with any interest accruing thereto, shall be returned to the user. Augusta may add the costs of preparing administrative enforcement actions, such as notices and orders, to the fine.
+(4)
+Issuance of an administrative fine shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(g)
+Emergency suspensions. The Assistant Director of Utilities may immediately suspend a user's discharge (after informal notice to the user) whenever such suspension is necessary to stop an actual or threatened discharge, which reasonably appears to present, or cause an imminent or substantial endangerment to the health or welfare of persons. The Assistant Director of Utilities may also immediately suspend a user's discharge (after notice and opportunity to respond) that threatens to interfere with the operation of the POTW, or which presents or may present an endangerment to the environment.
+(1)
+Any user notified of a suspension of its discharge shall immediately stop or eliminate its contribution. In the event of a user's failure to immediately comply voluntarily with the suspension order, the Assistant Director of Utilities shall take such steps as deemed necessary, including immediate severance of the sewer connection, to prevent or minimize damage to the POTW, its receiving stream, or endangerment to any individuals. The Assistant Director of Utilities shall allow the user to recommence its discharge when the user has demonstrated to the satisfaction of Augusta that the period of endangerment has passed, unless the termination proceedings in Section 5-3-13(h) of this ordinance are initiated against the user.
+(2)
+A user that is responsible, in whole or in part, for any discharge presenting imminent endangerment shall submit a detailed written statement, describing the causes of the harmful contribution and the measures taken to prevent any future occurrence, to the Assistant Director of Utilities prior to the date of any show cause or termination hearing under Sections 5-3-13(c) and (g) of this ordinance.
+Nothing in this section shall be interpreted as requiring a hearing prior to any emergency suspension under this section.
+(h)
+Termination of discharge (non-emergency). In addition to the provisions in Section 5-3-7 of this ordinance, any user that violates the following conditions is subject to discharge termination:
+(1)
+Violation of wastewater discharge permit conditions;
+(2)
+Failure to accurately report the wastewater constituents and characteristics of its discharge;
+(3)
+Failure to report significant changes in operations or wastewater volume, constituents and characteristics prior to discharge;
+(4)
+Refusal of reasonable access to the user's premises for the purpose of inspection, monitoring or sampling; or
+(5)
+Violation of the pretreatment standards in Sections 5-3-4 and 5-3-5 of this ordinance.
+Such user will be notified of the proposed termination of its discharge and be offered an opportunity to show cause under Section 5-3-13(c) of this ordinance why the proposed action should not be taken. Exercise of this option by Augusta shall not be a bar to, or a prerequisite for, taking any other action against the user.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-14. - Judicial enforcement remedies.
+(a)
+Injunctive relief. When the Assistant Director of Utilities finds that a user has violated (or continues to violate) any provision of this ordinance, a wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, the Assistant Director of Utilities may petition the Richmond County Superior Court through Augusta's Attorney for the issuance of a temporary or permanent injunction, as appropriate, which restrains or compels the specific performance of the wastewater discharge permit, order, or other requirement imposed by this ordinance on activities of the user. Augusta may also seek such other action as is appropriate for legal and/or equitable relief, including a requirement for the user to conduct environmental remediation. A petition for injunctive relief shall not be a bar against, or a prerequisite for, taking any other action against a user.
+(b)
+Civil penalties.
+(1)
+A user which has violated or continues to violate any provision of this ordinance, a wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement shall be liable to Augusta for a maximum civil penalty of $1,000 per violation, per day. In the case of a monthly or other long-term average discharge limit, penalties shall accrue for each day during the period of the violation.
+(2)
+The Assistant Director of Utilities may recover reasonable attorneys' fees, court costs, and other expenses associated with enforcement activities, including sampling and monitoring expenses, and the cost of any actual damages incurred by Augusta.
+(3)
+In determining the amount of civil liability, the Court shall take into account all relevant circumstances, including, but not limited to, the extent of harm caused by the violation, the magnitude and duration, any economic benefit gained through the user's violation, corrective actions by the user, the compliance history of the user, and any other factor as justice requires.
+(4)
+Filing a suit for civil penalties shall not be a bar against, or a prerequisite for, taking any other action against a user.
+(c)
+Criminal prosecution.
+(1)
+A user which has willfully or negligently violated any provision of this ordinance, a wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement shall, upon conviction, be guilty of a misdemeanor, punishable by a fine of not more than $1,000.00 per violation, per day, or imprisonment for not more than six months or both.
+(2)
+A user which has willfully or negligently introduced any substance into the POTW which causes personal injury or property damage shall, upon conviction, be guilty of a misdemeanor and be subject to a penalty of at least $1,000.00 per day and/or be subject to imprisonment for not more than six months. This penalty shall be in addition to any other cause of action for personal injury or property damage available under State law.
+(3)
+A user which knowingly made any false statements, representations, or certifications in any application, record, report, plan, or other documentation filed, or required to be maintained, pursuant to this ordinance, wastewater discharge permit, or order issued hereunder, or who falsified, tampered with, or knowingly rendered inaccurate any monitoring device or method required under this ordinance shall, upon conviction, be punished by a fine of not more than $1,000.00 per violation per day, or imprisonment for not more than six months, or both.
+(4)
+In the event of a second conviction, a user shall be punished by a fine of not more than $1,000.00 per violation per day, or imprisonment for not more than six month or both. Remedies Non-exclusive. The provisions in Sections 5-3-9 through 5-3-15 of this ordinance are not exclusive remedies. Augusta reserves the right to take any, all, or any combination of these actions against a non-compliant user. Enforcement of pretreatment violations will generally be in accordance with Augusta's enforcement response plan. However, Augusta reserves the right to take other action against any user when the circumstances warrant. Further, Augusta is empowered to take more than one enforcement action against any non-compliant user. These actions may be taken concurrently.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-15. - Supplemental enforcement action.
+(a)
+Performance bonds. The Assistant Director of Utilities may decline to issue or reissue a wastewater discharge permit to any user which has failed to comply with any provision of this ordinance, a previous wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement unless such user first files a satisfactory bond, payable to Augusta, in a sum not to exceed a value determined by the Assistant Director of Utilities to be necessary to achieve consistent compliance.
+(b)
+Liability insurance. The Assistant Director of Utilities may decline to issue or reissue a wastewater discharge permit to any user which has failed to comply with any provision of this ordinance, a previous wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, unless the user first submits proof that it has obtained financial assurances sufficient to restore or repair damage to the POTW caused by its discharge.
+(c)
+Water supply severance. Whenever a user has violated or continues to violate any provision of this ordinance, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, water service to the user may be severed. Service will only recommence, at the user's expense, after it has satisfactorily demonstrated its ability to comply.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-16. - Affirmative defenses to discharge violations.
+(a)
+Upset.
+(1)
+For the purposes of this section, "upset" means an exceptional incident in which there is unintentional and temporary non-compliance with applicable pretreatment standards because of factors beyond the reasonable control of the user. An upset does not include non-compliance to the extent caused by operational error, improperly designed treatment facilities, inadequate treatment facilities, lack of preventive maintenance, or careless or improper operation.
+(2)
+An upset shall constitute an affirmative defense to an action brought for non-compliance with applicable pretreatment standards if the requirements of paragraph (3) are met.
+(3)
+A user who wishes to establish the affirmative defense of upset shall demonstrate, through properly signed, contemporaneous operating logs, or other relevant evidence that:
+a.
+An upset occurred and the user can identify the cause(s) of the upset;
+b.
+The facility was at the time being operated in a prudent and workman-like manner and in compliance with applicable operation and maintenance procedures; and
+c.
+The user has submitted the following information to the POTW and treatment plant operator within 24 hours of becoming aware of the upset [if this information is provided orally, a written submission must be provided within 5 days]:
+1.
+A description of the indirect discharge and cause of non-compliance;
+2.
+The period of non-compliance, including exact dates and times or, if not corrected, the anticipated time the non-compliance is expected to continue; and
+3.
+Steps being taken and/or planned to reduce, eliminate, and prevent recurrence of the non-compliance.
+(4)
+In any enforcement proceeding, the user seeking to establish the occurrence of an upset shall have the burden of proof.
+(5)
+Users will have the opportunity for a judicial determination on any claim of upset only in an enforcement action brought for non-compliance with applicable pretreatment standards.
+(6)
+Users shall control production of all discharges to the extent necessary to maintain compliance with applicable pretreatment standards upon reduction, loss, or failure of its treatment facility until the facility is restored or an alternative method of treatment is provided. This requirement applies in the situation where, among other things, the primary source of power of the treatment facility is reduced, lost, or fails.
+(b)
+Prohibited discharge standards. A user shall have an affirmative defense to an enforcement action brought against it for non-compliance with the prohibitions in Sections 5-3-4 and 5-3-5 if it can prove that it did not know, or have reason to know, that its discharge, alone or in conjunction with discharges from other sources, would cause pass through or interference and that either:
+(1)
+a local limit exists for each pollutant discharged and the user was in compliance with each limit directly prior to, and during, the pass through or interference; or
+(2)
+no local limit exists, but the discharge did not change substantially in nature or constituents from the user's prior discharge when Augusta was regularly in compliance with its NPDES permit, and in the case of interference, was in compliance with applicable sludge use or disposal requirements.
+(c)
+Bypass.
+(1)
+For the purposes of this section,
+a.
+"Bypass" means the intentional diversion of wastestreams from any portion of a user's treatment facility.
+b.
+"Severe property damage" means substantial physical damage to property, damage to the treatment facilities which causes them to become inoperable, or substantial and permanent loss of natural resources which can reasonably be expected to occur in the absence of a bypass. Severe property damage does not mean economic loss caused by delays in production.
+(2)
+A user may allow any bypass to occur which does not cause applicable pretreatment standards or requirements to be violated, but only if it also is for essential maintenance to assure efficient operation. These bypasses are not subject to the provision of paragraphs (3) and (4) of this section.
+(3)
+a.
+If a user knows in advance of the need for a bypass, it shall submit prior notice to the POTW, at least 10 days before the date of the bypass, if possible.
+b.
+A user shall submit oral notice to Augusta of an unanticipated bypass that exceed applicable pretreatment standards within 24 hours from the time it becomes aware of the bypass. A written submission shall also be provided within 5 days of the time the user becomes aware of the bypass. The written submission shall contain a description of the bypass and its cause; the duration of the bypass, including exact dates and times, and, if the bypass has not been corrected, the anticipated time it is expected to continue; and steps stake or planned to reduce, eliminate, and prevent reoccurrence of the bypass. The POTW may waive the written report on a case-by-case basis if the oral report has been received within 24 hours.
+(4)
+a.
+Bypass is prohibited, and the POTW may take an enforcement action against a user for a bypass, unless
+1.
+Bypass was unavoidable to prevent loss of life, personal injury, or severe property damage;
+2.
+There were no feasible alternatives to the bypass, such as the use of auxiliary treatment facilities, retention of untreated wastes, or maintenance during normal periods of equipment downtime. This condition is not satisfied if adequate back-up equipment should have been installed in the exercise of reasonable engineering judgment to prevent a bypass which, occurred during normal periods of equipment downtime or preventive maintenance; and
+3.
+The user submitted notices as required under paragraph (3) of this section.
+b.
+The POTW may approve an anticipated bypass, after considering its adverse effects, if the POTW determines that it will meet the three conditions listed in paragraph (4)(a) of this section.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-17. - Wastewater treatment surcharge rates.
+(a)
+All persons discharging industrial waste into the Augusta, Georgia POTW shall be charged and assessed a surcharge, in addition to any sewer service charges. A surcharge shall be assessed for wastewaters, discharged to the POTW, in BOD concentrations greater than 200 mg/l and TSS concentrations greater than 200 mg/l. At the discretion of the Augusta-Richmond County Commission, pollutants discharged in excess of the permitted ceiling level would be subject to enforcement actions.
+(b)
+Approved analytical procedure. The BOD and TSS content of industrial waste shall be evaluated based upon the procedures outlined in 40 CFR 136 which, cites "Standard Methods" and regulations stated elsewhere in this Chapter.
+(c)
+Surcharge evaluation period. An Industrial User's BOD, TSS and flow data will be evaluated semi-annually in conjunction with the establishment of new surcharge rates. When the average BOD and TSS analyses for the six-month period indicate that the BOD and/or TSS exceeds the typical domestic level, a new surcharge rate will be established and imposed at the discretion of Augusta-Richmond County Commission. Notification will be sent to the user.
+(d)
+Extraneous flows. In the event that a metered water usage is not indicative of the amount of discharge introduced to the POTW, a means of determining the amount of discharge will be installed at the direction of the Assistant Director of Utilities. All proposed discharge metering devices must be submitted for approval and will be installed and maintained at no cost to Augusta. The Assistant Director of Utilities may require annual proof of service and calibration of such devices.
+(e)
+Additional meters.
+1.
+Discharge is less than water usage. In the event that a person discharging industrial waste into Augusta's POTW has a discharge less than his water usage, such person can, at his option, provide a discharge metering device subject to the Assistant Director of Utilities' approval. This device will be installed and maintained at no cost to Augusta. A waste characterization study or certified engineering drawings shall be submitted as proof that all process wastewaters have been segregated and is being metered by the newly installed flow monitoring devices. An additional charge to be determined by the Assistant Director of utilities will be made to cover the actual and administrative costs of reading the meter.
+2.
+Discharge is greater than water usage. In the event that a person discharging industrial waste into Augusta's POTW has a discharge greater than Augusta's water usage meter, the person shall be required to install meters that account for all source waters i.e. wells and others.
+(f)
+Multiple discharge locations. In the event that a person discharging industrial waste into Augusta's POTW through more than one outlet, his discharge Surcharge Rate shall be established based on his highest strength discharge unless all discharges are property metered. If all discharges are properly metered, the wastewater strength used to establish the Surcharge Rate will be computed as follows:
+For BOD:
+EXPAND
+Composite BOD - (B 1 × Q 1 ) + (B 2 × Q 2 ) + (B 3 × Q 3 )
+(Q 1 − Q 2 + Q 3 )
+  Where:
+B n = BOD of Discharge Number n
+Q n = Flow of Discharge Number n
+For Suspended Solids:
+EXPAND
+Composite TSS - (S 1 × Q 1 ) + (S 2 × Q 2 ) + (S 3 × Q 3 )
+(Q 1 + Q 2 + Q 3 )
+  Where:
+S n = Suspended Solids of Discharge Number n
+Q n = Flow of Discharge Number n
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-18. - Miscellaneous provisions.
+(a)
+Severability. If any provision of this ordinance is invalidated by any court of competent jurisdiction, the remaining provisions shall not be effected and shall continue in full force and effect.
+(b)
+Conflicts. All other ordinances and parts of other ordinances inconsistent or conflicting with any part of this ordinance, are hereby repealed to the extent of the inconsistency or conflict.
+( Ord. No. 6557 , § 1, 10-3-2002)
+Sec. 5-3-19. - Effective date.
+This ordinance shall be in full force and effect immediately upon adoption.
+( Ord. No. 6557 , § 1, 10-3-2002)

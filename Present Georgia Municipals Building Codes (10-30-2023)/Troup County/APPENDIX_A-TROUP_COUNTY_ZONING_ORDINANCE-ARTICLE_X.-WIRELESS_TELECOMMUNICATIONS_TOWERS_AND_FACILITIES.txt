@@ -1,0 +1,602 @@
+ARTICLE X. - WIRELESS TELECOMMUNICATIONS TOWERS AND FACILITIES[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Section I of Ord. No. 2010-07 , adopted Dec. 15, 2009, repealed the former Art. X., §§ 10.1—10.11, and enacted a new Art. X as set out herein. The former Art. X pertained to communication tower regulations and derived from Ord. No. 2009-08 , adopted June 2, 2009. See Code Comparative Table for complete derivation.
+
+10.1 - Purpose.
+The Telecommunications Act of 1996 affirmed the authority of Troup County concerning the placement, construction and modification of wireless telecommunications facilities. Troup County finds that wireless telecommunications facilities may pose significant concerns to the health, safety, public welfare, character and environment of the county and its inhabitants. Troup County also recognizes that facilitating the development of wireless service technology can be an economic development asset and of significant benefit to the county and its residents. In order to insure that the placement, construction or modification of wireless telecommunications facilities is consistent with the land use policies, Troup County is adopting a single, comprehensive, wireless telecommunications facilities application and permit process. The intent of this article is to minimize impact of wireless telecommunications facilities, establish a fair and efficient process for review and approval of applications, assure an integrated, comprehensive review of the visual and environmental impacts of such facilities, and protect the health, safety and welfare of the citizens of Troup County.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.2 - Title.
+This article shall be known and cited as "Article 10 Wireless Telecommunications Towers and Facilities."
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.3 - Severability.
+(A)
+If any word, phrase, sentence, part, section, subsection, or other portion of this article or any application thereof to any person or circumstance is declared void, unconstitutional, or invalid for any reason, then such word, phrase, sentence, part, section, subsection, or other portion, or the proscribed application thereof, shall be severable, and the remaining provisions of this article, and all applications thereof, not having been declared void, unconstitutional, or invalid, shall remain in full force and effect.
+(B)
+Any special use permit issued under this article shall be comprehensive and not severable. If part of a permit is deemed or ruled to be invalid or unenforceable in any material respect, by a competent authority, or is overturned by a competent authority, the permit shall be void in total, upon determination by the Troup County Board of Commissioners ("BOC").
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.4 - Definitions.
+For purposes of this article, and where consistent with the context of a particular section, the defined terms, phrases, words, abbreviations, and their derivations shall have the meaning given in this section. When consistent with the context, words in the present tense include the future tense, words used in the plural number include words in the singular number and words in the singular number include the plural number. The word "shall" is always mandatory, and not merely directory.
+Accessory Equipment means any equipment serving or being used in conjunction with a wireless facility or wireless support structure and includes, but is not limited to, utility or transmission equipment, power supplies, generators, batteries, cables, equipment buildings, cabinets, and storage sheds, shelters, or similar structures.
+Accessory Facility or Structure means an accessory facility or structure serving or being used in conjunction with wireless telecommunications facilities, and located on the same property or lot as the Wireless Telecommunications Facilities, including but not limited to, utility or transmission equipment storage sheds or cabinets.
+Antenna means communications equipment that transmits and receives electromagnetic radio signals used in the provision of all types of wireless communication services.
+Applicant means any wireless service provider submitting an application for a special use permit for wireless telecommunications facilities.
+Application means a formal request submitted to the local governing authority to construct or modify a wireless support structure or a wireless facility. An application shall be deemed complete when all documents, information, and fees specifically enumerated in the local governing authority's regulations, ordinances, and forms pertaining to the location, construction, modification, or operation of wireless facilities are submitted by the applicant to the authority.
+Camouflage (or Stealth) means disguising a tower or wireless telecommunications facility so as to make it less visually obtrusive and not recognizable to the average person as a wireless telecommunications facility.
+Co-location means the use of an existing Tower or structure to support Antenna for the provision of wireless services.
+Collocation means the placement or installation of new wireless facilities on previously approved and constructed wireless support structures, including monopoles and towers, both self-supporting and guyed, in a manner that negates the need to construct a new freestanding wireless support structure. Such term includes the placement of accessory equipment within an existing equipment compound.
+Commercial Impracticability or Commercially Impracticable means the inability to perform an act on terms that are reasonable in commerce; the cause or occurrence of which could not have been reasonably anticipated or foreseen and that jeopardizes the financial efficacy of the project. The inability to achieve a financial return on investment or profit deemed satisfactory by an applicant may be considered, but, standing alone, shall not deem a situation to be "commercial impracticable" and shall not in and of itself render an act or the terms of an agreement "commercially impracticable."
+Completed Application means an application that contains all information and/or data necessary to enable an informed decision to be made with respect to an application.
+Commission means the Troup County Board of Commissioners.
+DAS or Distributive Access System means a technology using an antenna combining technology allowing for multiple carriers or wireless service providers to us the same set of antennas.
+Equipment Compound means an area surrounding or adjacent to the base of a wireless support structure within which accessory equipment is located.
+FAA means the Federal Aviation Administration, or its duly designated and authorized successor agency.
+FCC means the Federal Communications Commission, or its duly designated and authorized successor agency.
+Height means, when referring to a tower or structure, the distance measured from the pre-existing grade level to the highest point on the tower or structure, even if said highest point is an antenna or lightening protection device.
+Local Governing Authority means a municipality or county that has adopted land use or zoning regulations for all or the majority of land uses within its jurisdiction or has adopted separate regulations pertaining to the location, construction, modification, or operation of wireless facilities.
+Modification or Modify means the improvement, upgrade, expansion, or replacement of existing wireless facilities on an existing wireless support structure or within an existing equipment compound, provided such improvement, upgrade, expansion, or replacement does not increase the height of the wireless support structure or increase the dimensions of the equipment compound.
+Need means anything that is technically required for the wireless service to be provided primarily and essentially within Troup County and creates the least physical and visual impact. This does not necessarily mean the internal design standards of the applicant, as companies' standards can vary greatly and normally reflect preferences. Rather, need relates to the ability of the user-equipment to function as designed.
+NIER means nonionizing electromagnetic radiation.
+Person means any individual, corporation, estate, trust, partnership, joint stock company, association of two or more persons having a joint common interest, or any other entity.
+Personal Wireless Facility. See definition for "Wireless telecommunications facilities."
+Personal Wireless Services or PWS or Personal Telecommunications Service or PTS shall have the same meaning as defined and used in the 1996 Telecommunications Act.
+Repairs and Maintenance means the replacement or repair of any components of a wireless facility where the replacement is identical to the component being replaced or for any matters that involve the normal repair and maintenance of a wireless facility without the addition, removal or change of any of the physical or visually discernable components or aspects of a wireless facility that will add to the visible appearance of the facility as originally permitted.
+Special Use Permit means the official document or permit by which an applicant is allowed to file for a building permit to construct and use wireless telecommunications facilities as granted or issued by Troup County.
+Stealth, Stealth Technology or Camouflage means to minimize adverse aesthetic and visual impacts on the land, property, buildings and other facilities adjacent to, surrounding, and in generally the same area as the requested location of a wireless telecommunications facility, which shall mean using the least visually and physically intrusive facility that is not technologically or commercially impracticable under the facts and circumstances. Stealth technology expressly includes such technology as DAS or its functional equivalent.
+State means the State of Georgia.
+Stealth (or Camouflage) means disguising a tower or wireless telecommunications facility so as to make it less visually obtrusive and not recognizable to the average person as a wireless telecommunications facility.
+Telecommunications means the transmission and/or reception of audio, video, data, and other information by wire, radio frequency, light, and other electronic or electromagnetic systems.
+Telecommunication Site. See definition for "Wireless telecommunications facilities."
+Telecommunications Structure means a structure used in the provision of services described in the definition of "Wireless telecommunications facilities."
+Temporary means temporary in relation to all aspects and components of this Article, something intended to, or that does, exist for fewer than 90 days.
+Troup County Board of Commissioners. Local Governing Authority of Troup County ("BOC")
+Troup County Board of Zoning Appeals/Planning Commission. The body designated by the BOC to make recommendations on special use permits ("BOZA/PC").
+Tower means any structure designed primarily to support an antenna for receiving and/or transmitting a wireless signal.
+Wireless Facility means the set of equipment and network components, exclusive of the underlying wireless support structure, including antennas, transmitters, receivers, base stations, power supplies, cabling, and accessory equipment, used to provide wireless data and telecommunication services.
+Wireless Support Structure means a freestanding structure, such as a monopole, tower, either guyed or self-supporting, or suitable existing or alternative structure designed to support or capable of supporting wireless facilities. Such term shall not include any electrical utility pole or tower used for the distribution or transmission of electrical service.
+Wireless Telecommunications Facilities means and includes a telecommunications site and personal wireless facility. It means a structure, facility or location designed, or intended to be used as, or used to support antennas or other transmitting or receiving devices. This includes without limit, towers of all types, kinds and structures, including, but not limited to, buildings, church steeples, silos, water towers, signs or other structures that can be used as a support structure for antennas or the functional equivalent of such. It further includes all related facilities and equipment such as cabling, equipment shelters and other structures associated with the site. It is a structure and facility intended for transmitting and/or receiving radio, television, cellular, SMR, paging, 911, personal communications services (PCS), commercial satellite services, microwave services and any commercial wireless telecommunication service not licensed by the FCC.
+( Ord. No. 2010-07 , § I, 12-15-2009; Ord. No. 2011-02 , § I(Exh. A), 10-19-2010)
+10.5 - Overall Policy and Desired Goals for Special Use Permits for Wireless Telecommunications Facilities.
+In order to ensure that the placement, construction, and modification of wireless telecommunications facilities protects the health, safety, public welfare, environmental features, the nature and character of the community and neighborhood and other aspects of the quality of life specifically listed elsewhere in this article, Troup County adopts an overall policy with respect to a special use permit for wireless telecommunications facilities for the express purpose of achieving the following goals:
+(A)
+Requiring a special use permit for any new, co-location or modification of a wireless telecommunications facility.
+(B)
+Implementing an application process for person(s) seeking a special use permit for wireless telecommunications facilities.
+(C)
+Establishing a policy for examining an application and issuing a special use permit for wireless telecommunications facilities that is both fair and consistent.
+(D)
+Promoting and encouraging, wherever possible, the sharing and/or co-location of wireless telecommunications facilities among service providers.
+(E)
+Requiring, promoting and encouraging, wherever possible, the placement, height and quantity of wireless telecommunications facilities in such a manner, including but not limited to the use of stealth technology, to minimize adverse aesthetic and visual impacts on the land, property, buildings, and other facilities adjacent to, surrounding, and in generally the same area as the requested location of such wireless telecommunications facilities, which shall mean using the least visually and physically intrusive facility that is not technologically or commercially impracticable under the facts and circumstances.
+(F)
+In granting a special use permit, the BOC has found that the facility shall be in the most appropriate site as regards being the least visually intrusive among those available in the county.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.6 - Exceptions from a Special Use Permit for Wireless Telecommunications Facilities.
+(A)
+No person shall be permitted to site, place, build, construct, modify or prepare any site for the placement or use of a wireless telecommunications facility as of the effective date of this article without having first obtained a special use permit for a wireless telecommunications facility as defined in section four (10.4) of this article or an administratively granted authorization granted under section nine (10.9) of this article, whichever is applicable. Notwithstanding anything to the contrary in this section, special use permits for wireless telecommunications facilities that existed on or before the effective date of this article shall be allowed to continue as they presently exist, provided however, that any visible modification of an existing wireless telecommunications facility will require the complete facility, including the tower if applicable, and any new installation to comply with this article, as will anything changing the structural load.
+(B)
+Any repair and maintenance of a wireless facility does not require an application for a special use permit. However, no additional construction or site modification will be permitted.
+(C)
+Notwithstanding any other provisions of this section and all subparts thereof, the co-location and/or shared use of antennas on existing telecommunication towers or other tall structures or compatible use structures, such as utility poles, water towers, and other towers, shall be exempt from the public hearing requirement otherwise required for a tower, and shall be subject only to an administrative review process as set forth under section 10.9 of this article.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.7 - Exclusions.
+The following shall be exempt from this article:
+(A)
+The fire, sheriffs or other public service facilities owned and operated by Troup County.
+(B)
+Any facilities expressly exempt from the county's siting, building and permitting authority.
+(C)
+Over-the-air reception devices including the reception antennas for direct broadcast satellites (DBS), multichannel multipoint distribution (wireless cable) providers (MMDS), television broadcast stations (TUBS) and other customer-end antennas that receive and transmit fixed wireless signals that are primarily used for reception, but not including microwave dishes.
+(D)
+Facilities used exclusively for private, noncommercial radio and television reception and private citizen's bands, licensed amateur radio and other similar noncommercial telecommunications.
+(E)
+Facilities used exclusively for providing unlicensed spread spectrum technologies, such as IEEE 802.11a, b, g services (e.g., Wi-Fi and Bluetooth) where the facility does not require a new tower.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.8 - Special Use Permit Application and Other Requirements for a New Tower or for Increasing the Height of the Structure to be Attached to.
+(A)
+All applicants for a special use permit for wireless telecommunications facilities or any modification of such facility shall comply with the requirements set forth in this article. The Troup County Board of Commissioners is the officially designated agency or body of the county whom applications for a special use permit for wireless telecommunications facilities must be made, and that is authorized to review, analyze, evaluate and make decisions with respect to granting or not granting or revoking special use permits for wireless telecommunications facilities. The county may at its discretion delegate or designate the BOZA/PC, other official agencies or officials, or outside expert consultants to accept, review, analyze, evaluate and make recommendations to the BOC with respect to the granting or not granting or revoking special use permits for wireless telecommunications facilities.
+(B)
+The nonrefundable application fee for attaching to an existing tower or other structure without increasing the height shall be as set forth in the schedule of fees as posted in the building and inspection department.
+(C)
+All applicants shall closely follow the instructions for preparing an application that shall be provided prior to the submittal of an application or at any time upon request. Not closely following the instructions without permission to deviate from such may result in the application being returned without action and forfeiting the application fee, but not the escrow deposit.
+(D)
+When placing wireless facilities on government-owned property or facilities, only noncommercial wireless carriers and users are exempt from the permitting requirements of this article.
+(E)
+The county may reject applications not meeting the requirements stated herein or which are otherwise not complete.
+(F)
+No wireless telecommunications facilities shall be installed, constructed or modified until the application is reviewed and approved the special use by the BOC and a building permit has been issued.
+(G)
+Any and all representations made by the applicant to the county on the record during the application process, whether written or verbal, shall be deemed a part of the application and will be deemed to have been relied upon in good faith by Troup County. Any verbal misrepresentation shall be treated as if it were made in writing.
+(H)
+An Application for a special use permit for wireless telecommunications facilities shall be signed on behalf of the applicant by the person preparing the same and with knowledge of the contents and representations made therein and attesting to the truth and completeness of the information.
+(I)
+The applicant must provide documentation to verify it has the right to proceed as proposed on the site. This requires an executed copy of the lease with the landowner or landlord or a signed letter of agency acknowledging authorization. If the applicant owns the site, a copy of the ownership record is required.
+(J)
+The applicant shall include a statement in writing:
+(1)
+That the applicant's proposed wireless telecommunications facilities shall be maintained in a safe manner, and in compliance with all conditions of the special use permit, without exception, unless specifically granted relief by the county in writing, as well as all applicable and permissible local codes, ordinances, and regulations, including any and all applicable county, state and federal laws, rules, and regulations; and
+(2)
+That the construction of the wireless telecommunications facilities is legally permissible including, but not limited to, the fact that the applicant is authorized to do business in the state.
+(K)
+Where a certification is called for in this article, such certification shall bear the signature and seal of a professional engineer licensed in the state.
+(L)
+In addition to all other required information as stated in this article, all applications for the construction or installation of new wireless telecommunications facilities or modification of an existing facility shall contain the information hereinafter set forth. Note that an applicant will be granted permission for anything that it can conclusively prove the technical need for, but that there is often a significant difference between "need" and "want" or "desire." For example, an assertion that the "need" is based on an applicant's own design criteria shall not suffice to prove the technological need for what is requested. For purposes of permitting under this article, "need" shall mean what is technologically needed for the equipment to function as designed by the manufacturer and that anything less will result in prohibiting or acting in a manner that prohibits the provision of service as intended and described in the narrative of the application.
+10.8-1. Proof of Need for the Facility.
+(A)
+A detailed narrative description and explanation of the specific objective(s) for the new facility, or the modification of an existing wireless facility, expressly including and explaining the purpose and need for the facility, such as coverage and/or capacity needs or requirements, and the specific geographic area of intended coverage;
+(B)
+Technical documentation that proves the need for the wireless telecommunications facility to provide service primarily and essentially within the county. Such documentation shall include a propagation study of the proposed site and all adjoining planned, proposed or existing sites, that demonstrates a significant gap in coverage and/or, if a capacity issue is involved, to include an analysis of the current and projected usage (traffic studies) using generally accepted industry methods and standards, so as to conclusively prove the need for what is proposed. A desire to change, upgrade, or improve the technology of the service shall not be deemed a need in the context of this article;
+(C)
+All of the modeling information (i.e., data) inputted into the software used to produce propagation studies including, but not limited to, any assumptions made, such as ambient tree height;
+(D)
+A copy of the FCC license applicable for the intended use of the wireless telecommunications facility, as well as a copy of the five- and ten-year build-out plan required by and filed with the FCC;
+(E)
+The frequency, modulation and class of service of radio or other transmitting equipment;
+(F)
+The maximum transmission power capability of all radios, as designed, if the Applicant is a cellular or functional equivalent carrier, or the maximum transmission power capability, as designed, of all transmission facilities if the applicant is not a cellular or functional equivalent carrier;
+(G)
+The actual intended transmission power stated as the maximum effective radiated power (ERP) both in dBm's and watts.
+10.8-2. Ownership and Management.
+(A)
+The name, address and phone number of the person preparing the application;
+(B)
+The name, address, and phone number of the property owner and the applicant, including the legal name of the applicant. If the owner of the structure is different than the applicant, the name and all necessary contact information shall be provided;
+(C)
+The physical address and tax map parcel number of the property;
+(D)
+A copy of the FCC license applicable for the intended use of the wireless telecommunications facilities.
+10.8-3. Planning and Zoning.
+(A)
+The zoning district or designation in which the property is situated;
+(B)
+The size of the property on which the structure to be attached to is located, stated both in square feet and lot line dimensions, and a survey showing the location of all lot lines;
+(C)
+The location, size and height of all existing and proposed structures on the property on which the structure is located and that is the subject of the application;
+(D)
+If attaching to an existing tower, a site plan showing the vertical rendition of the tower identifying all users and attachments to the tower and all related fixtures, structures, appurtenances and apparatus, including height above pre-existing grade, materials, color and lighting;
+(E)
+If attaching to a building or other structure, a site plan showing the proposed attachments and all related fixtures, structures, appurtenances and apparatus, including height above the roof or balustrade, whichever is appropriate;
+(F)
+The azimuth, size and center line height location of all proposed and existing antennas on the supporting structure;
+(G)
+The number, type and model of the antenna(s) proposed, along with a copy of the specification sheet(s) for the antennas; The type, locations and dimensions of all proposed and existing landscaping, and fencing;
+(H)
+The number, type and design of the telecommunications tower(s) and antenna(s) proposed and the basis for the calculations of the telecommunications tower's capacity to accommodate multiple users;
+(I)
+The applicant shall disclose in writing any agreement in existence prior to submission of the application that would limit or preclude the ability of the applicant to share any new telecommunication tower that it constructs.
+10.8.4. Safety/Requirements.
+(A)
+If attaching to an existing tower, the age of the tower in years, including the date of the grant of the original permit or authorization for the tower;
+(B)
+If attaching to an existing tower, a description of the type of tower, e.g., guyed, self-supporting lattice or monopole;
+(C)
+If attaching to an existing tower, the make, model, type and manufacturer of the tower and the structural design calculations, certified by a professional engineer licensed in the state, proving the tower's capability to safely accommodate the facilities of the applicant without change or modification;
+(D)
+If any change or modification of the tower or other structure to be attached to is needed, a detailed narrative explaining what changes are needed, why they are needed and who will be responsible to assure that the changes are made;
+(E)
+If the structure proposed to be attached to is a tower that has not previously been permitted under this law, or unless the applicant can provide proof that this was provided at the time of the initial application for the tower or other structure, the applicant shall provide a copy of the installed foundation design, as well as a geotechnical sub-surface soils investigation, evaluation report and foundation recommendation for the tower site or other structure;
+(F)
+If increasing the height of an existing structure, or a tower that is five years old or older, or for a guyed tower that is three years old or older, a copy of the latest ANSI report done pursuant to the latest edition of ANSI-EINTIA 222F—Annex E for any self-supporting tower. If an ANSI report has not been done pursuant to the preceding schedule, an ANSI report shall be done and submitted as part of the application. No building permit shall be issued for any wireless facility where the structure being attached to is in need of remediation, unless and until all remediation work needed has been completed or a schedule for the remediation work has been approved by the building department;
+(G)
+If not attaching to an existing tower, a structural report signed by a professional engineer licensed to do business in the state and bearing that engineer's currently valid stamp, showing the structural adequacy of the structure to accommodate the proposed wireless facility(s), including any equipment shelter, unless the equipment shelter is located on the lowest floor of a building;
+(H)
+If attaching to a structure and thereby increasing the height of the structure, other than a tower, to which the public has or could reasonably have or gain access to, documentation shall be provided, including all calculations, proving that the potential exposure to RF radiation (i.e., NIER or non-ion emitting radiation), will be in compliance with the most recent Federal Communications Commission regulations governing RF radiation and exposure thereto, and further denoting the minimum distance from any antennas an individual may safely stand without being exposed to RF radiation in excess of the FCC's permitted standards and any portion(s) of the structure that would be exposed to RF radiation in excess of the FCC's permitted standards . In compliance with the FCC's regulations, in such an instance, the RF radiation from all wireless facilities at that location shall be included in the calculations to show the cumulative effect on any area of the building or structure deemed accessible by the public or workers. Such report or analysis shall be signed and sealed by a professional engineer licensed in the state; or
+(I)
+In an instance involving a tower where the new wireless facilities will be ten meters or more above ground level, signed documentation such as the FCC's "checklist to determine whether a facility may categorically excluded" shall be provided to verify that the wireless telecommunication facility with the proposed installation will be in full compliance with the current FCC's RF emissions regulations. If not categorically excluded, a complete RF emissions study is required to enable verification of compliance, pursuant to subsection (E)(21) of this section, including providing all calculations so that such may be verified;
+(J)
+In certain instances, the may deem it appropriate to have an RF survey of the facility done after the construction or modification and activation of the facility, such to be done under the direction of the county or its designee, and an unredacted copy of the survey results provided, along with all calculations;
+(K)
+If any section or portion of the structure to be attached to is not in compliance with the FCC's regulations regarding RF radiation, that section or portion must be barricaded with a suitable barrier to discourage approaching into the area in excess of the FCC's regulations, and be marked off with yellow and black plastic chain and striped warning tape, as well as placing RF radiation signs as needed and appropriate to warn individuals of the potential danger;
+(L)
+A signed statement that the applicant will expeditiously remedy any physical or RF interference with other telecommunications or wireless devices or services;
+(M)
+The applicant will provide a written copy of an analysis, completed by a qualified individual or organization, to determine if the proposed new tower or existing structure intended to support wireless facilities is in compliance with Federal Aviation Administration Regulation Part 77 and if it requires lighting. This requirement shall also be for any existing structure or building where the application increases the height of the structure or building. If this analysis determines that an FAA determination is required, then all filings with the FAA, all responses from the FAA and any related correspondence shall be provided with the application;
+(N)
+Application for new tower versus co-location.
+(1)
+In the case of a new tower, the applicant shall be required to submit a written report demonstrating its meaningful efforts to secure shared use of existing tower(s) or the use of alternative buildings or other structures within the county that are at or above the surrounding tree height or the tallest obstruction and are within one mile of the proposed tower. Copies of written requests and responses for shared use shall be provided to the county in the application, along with any letters of rejection stating the reason for rejection.
+(2)
+In the case of a new telecommunication tower, to inform the public, the applicant shall hold a "balloon test" prior to the initial public hearing on the application. The applicant shall arrange to fly, or raise upon a temporary mast, a minimum of a ten-foot in length brightly colored balloon at the maximum height of the proposed new tower.
+(3)
+At least 14 days prior to the conduct of the balloon test, a sign shall be erected to be clearly visible from the road nearest the proposed site and shall be removed no later than 14 days alter the conduct of the balloon test. The sign shall be at least four feet by eight feet in size and shall be readable from the road by a person with 20/20 vision.
+(4)
+Such sign shall be placed off, but as near to, the public right-of-way as is possible.
+(5)
+Such sign shall contain the times and date(s) of the balloon test and the date, time and location of the required hearings, as well as a copy of the proposed site plan.
+(6)
+The dates, (including a second date, in case of poor visibility or wind in excess of 15 m.p.h. on the initial date) times and location of this balloon test shall be advertised by the applicant seven and 14 days in advance of the first test date in a newspaper with a general circulation in the county and as agreed to by the county. The applicant shall inform the county in writing, of the dates and times of the test, at least 14 days in advance. The balloon shall be flown for at least four consecutive hours between 10:00 a.m. and 2:00 p.m. on the dates chosen. The primary date shall be on a weekend, but the second date, in case of poor visibility on the initial date, may be on a weekday. A report with pictures from various locations of the balloon shall be provided with the application.
+(7)
+The applicant shall notify all property owners and residents located within 1,500 feet of the nearest property line of the subject property of the proposed construction of the tower and wireless facility and of the date(s) and time(s) of the balloon test. Such notice shall be provided at least 14 days prior to the conduct of the balloon test and shall be delivered by U.S. Certified Mail.
+(8)
+The tower shall be structurally designed to accommodate at least five additional antenna arrays equivalent to those of the applicant as regards the load and stress created on the tower, and located as close to the applicant's antenna as possible without causing interference. A claim of interference because of a need to have greater than six feet of vertical clearance between facilities, measured from the vertical centerline of one array to the vertical centerline of another, must be proven by technical data and not merely verbal or written assertions. This requirement may be waived, provided that the applicant, in writing, demonstrates that the provisions of future shared usage of the tower is not technologically feasible, is commercially impracticable or creates an unnecessary and unreasonable burden, based upon:
+a.
+The kind of wireless telecommunications facilities site and structure proposed;
+b.
+Available space on existing and approved towers;
+c.
+The need for more than six feet of vertical clearance between antenna arrays, measured from the vertical centerline of one array to the vertical centerline of another, such that there would not be adequate vertical space to accommodate a total of four carriers.
+(9)
+The owner of a proposed new tower, and his/her successors in interest, shall negotiate in good faith for the shared use of the proposed tower by other wireless service providers in the future, and shall:
+a.
+Respond within 60 days to a request for information from a potential shared-use applicant;
+b.
+Negotiate in good faith concerning future requests for shared use of the new tower by other telecommunications providers;
+c.
+Allow shared use of the new tower if another telecommunications provider agrees in writing to pay reasonable charges. The reasonable charges may include, but are not limited to, a pro rata share of the cost of site selection, planning, project administration, land costs, site design, construction and maintenance financing, return on equity, less depreciation, and all of the costs of adapting the tower or equipment to accommodate a shared user without causing electromagnetic interference;
+d.
+Failure to abide by the conditions outlined above may be grounds for revocation of the special use permit.
+(O)
+The applicant shall provide certification with documentation (i.e., structural analysis) including calculations that the telecommunication facility tower and foundation and attachments, rooftop support structure, water tank structure, or any other supporting structure as proposed to be utilized are designed and will be constructed to meet all local, state and federal structural requirements for loads, including wind and ice loads and including, but not limited to, all applicable ANSI (American National Standards Institute) guidelines.
+(P)
+All proposed wireless telecommunications facilities shall contain a demonstration that the facility be sited so as to create the least visual intrusiveness reasonably possible given the facts and circumstances involved, and thereby have the least adverse visual effect on the environment and its character, on existing vegetation, and on the residences in the area of the wireless telecommunications facility. The county expressly reserves the right to require the use of stealth or camouflage technology or techniques such as DAS (distributive antenna system technology) or its functional equivalent to achieve this goal and such shall be subject to approval by the BOC.
+(Q)
+If the application is for a new tower, or a new antenna attachment to an existing structure other than a tower, or for a modification, that noticeably changes the appearance of the structure, the applicant shall furnish a visual impact assessment, which shall include:
+(1)
+If a new tower or increasing the height of an existing structure is proposed, a computer generated "zone of visibility map" at a minimum of one-mile radius from the proposed structure shall be provided to illustrate locations from which the proposed installation may be seen, with and without foliage;
+(2)
+Pictorial representations (photo simulations) of "before and after" views from key viewpoints inside of the county as may be appropriate and required including, but not limited to, state highways and other major roads; state and local parks; other public lands; historic districts; preserves and historic sites normally open to the public; and from any other location where the site is visible to a large number of visitors, travelers or residents. Guidance will be provided concerning the appropriate key sites at the pre-application meeting. The applicant shall provide a map showing the locations of where the pictures were taken and the distance(s)of each location from the proposed structure;
+(3)
+A written description of the visual impact of the proposed facility, including, as applicable, the tower base, guy wires, fencing and accessory buildings from abutting and adjacent properties and streets as relates to the need or appropriateness of screening.
+(R)
+The applicant shall demonstrate and provide in writing and/or by drawing how it shall effectively screen from view the base and all related equipment and structures of the proposed wireless telecommunications facility.
+(S)
+The wireless telecommunications facility and any accessory or associated facilities shall maximize the use of building materials, colors and textures designed to blend with the structure to which it may be affixed and/or to harmonize with the natural surroundings. This shall include the utilization of stealth or camouflage or concealment technology as may be required by the county.
+(T)
+All utilities at a wireless telecommunications facilities site shall be installed underground and in compliance with all laws, ordinances, rules and regulations of the county including specifically, but not limited to, the National Electrical Safety Code and the National Electrical Code where appropriate.
+(U)
+At a wireless telecommunications facilities site an access road, turn around space and parking shall be provided to assure adequate emergency and service access. Maximum use of existing roads, whether public or private, shall be made to the extent practicable. Road construction shall at all times minimize ground disturbance and the cutting of vegetation. Road grades shall closely follow natural contours to assure minimal visual disturbance and reduce soil erosion.
+(V)
+All wireless telecommunications facilities shall be constructed, operated, maintained, repaired, provided for removal of, modified or restored in strict compliance with all current applicable technical, safety and safety-related codes adopted by the county, state, or United States including, but not limited to, the most recent editions of the ANSI Code, National Electrical Safety Code and the National Electrical Code, as well as accepted and responsible workmanlike industry practices and recommended practices of the National Association of Tower Erectors. The codes referred to are codes that include, but are not limited to, construction, building, electrical, fire, safety, health, and land use codes. In the event of a conflict between or among any of the preceding, the more stringent shall apply.
+(W)
+A holder of a special use permit granted under this article shall obtain, at its own expense, all permits and licenses required by applicable law, ordinance, rule, regulation or code, and must maintain the same, in full force and effect, for as long as required by the county or other governmental entity or agency having jurisdiction over the applicant.
+(X)
+There shall be a pre-application meeting for all intended applications. The purpose of the pre-application meeting will be to address issues that will help to expedite the review and permitting process and certain issues or concerns the county may have. A pre-application meeting shall also include a site visit, if there has not been a prior site visit for the requested facility. Costs of county consultants to prepare for and attend the pre-application meeting will be borne by the applicant and paid for out of the required escrow deposit.
+(Y)
+An applicant shall submit to the county the number of completed applications determined to be needed at the pre-application meeting. However, applications will not be provided to the county, other than for staff, until the application is deemed complete.
+(Z)
+If the proposed site is within three miles of another municipality or county, written notification of the application shall be provided to the legislative body of all such adjacent municipalities as applicable and/or requested.
+(AA)
+The holder of a special use permit shall notify the county of any intended modification of a wireless telecommunication facility and shall apply to the county to modify, relocate or rebuild a wireless telecommunications facility.
+(BB)
+An application to increase the height of a tower or other structure shall be deemed a new tower and shall not qualify for treatment as an attachment to an existing tower or other structure under this section.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.9 - Requirements for an Application to Attach to an Existing Tower or other Structure without Increasing the Height or Width of the Tower or Structure Being Attached to or Increasing the Dimensions of the Equipment Compound.
+(A)
+The nonrefundable application fee for attaching to an existing tower or other structure without increasing the height shall be as set forth in the county's schedule of fees.
+(B)
+To prevent the taxpayers from having to pay for the expert technical assistance needed by the county that is necessitated by the application, an applicant shall be required to place with the county an escrow deposit of no less than $2,500.00. After all invoices have been paid and the certificate of completion or occupancy has been granted, any unexpended balance of the escrow deposit shall be returned to the applicant upon request.
+(C)
+An application to increase the height or width of a tower or other structure or to increase the dimensions of the equipment compound shall be deemed a new tower and shall not qualify for treatment as an attachment to an existing tower or other structure under this section.
+(D)
+Applications to attach to existing towers or other structures or to modify an existing wireless telecommunications facility, as long as there is no proposed increase in the height or width of the tower or other structure to be attached to, including attachments thereto, nor increase in the dimensions of the equipment compound, shall not generally require a public hearing. However, the BOC or Troup County Planner may for good cause choose to hold a public hearing and decision. If no public hearing is conducted, the modifications may be approved administratively by the Zoning Administrator or the Troup County Planner.
+(E)
+An application for a collocation permit for attaching wireless facilities to an existing structure including, but not limited to, cellular or PCS facilities and microwave facilities, shall contain the following information and comply with the following requirements.
+(F)
+If the applicant is not the owner of the tower or structure being attached to, documentation shall be provided proving that the applicant has the legal right to proceed as proposed on the site, including an executed copy of the lease with the owner of the facility proposed to be attached to, or a letter of agency, showing the right of the applicant to attach to the structure.
+(G)
+A pre-application meeting may be held upon the request of the applicant and at or before the pre-application meeting, the applicant shall be provided instructions for completing an application. Said instructions are to be controlling as regards the form and substance of the issues addressed in the Instructions and must be followed.
+(H)
+The applicant shall include a written statement that:
+(1)
+The applicant's proposed wireless telecommunications facility shall be maintained in a safe manner, and in compliance with all conditions of all applicable permits and authorizations, without exception, as well as all applicable and permissible local codes, ordinances, and regulations, including any and all applicable county, state and federal laws, rules, and regulations; and
+(2)
+The construction of the wireless telecommunications facilities is legally permissible including, but not limited to, the fact that the applicant is authorized to do business in the state.
+(I)
+An application for attaching to an existing structure or for modifying an existing facility without increasing the height or width of the structure or the dimensions of the equipment compound shall contain the information as required in section 10.9-1—10.9-4.
+( Ord. No. 2011-02 , § I(Exh. A), 10-19-2010)
+10.9-1. Proof of Need. Troup County requires co-location wherever possible. Accordingly, proof of need shall not be required as part of and in support of an application for co-location unless the zoning administrator determines that one or more of the following circumstances exist:
+(1)
+The proposed co-location would increase the height or width of the tower or structure being attached to; or
+(2)
+The proposed co-location would increase the amount of land used to accommodate the support structure and related equipment enclosures or cabinets.
+Should the zoning administrator find that one or more of the foregoing circumstances exist, he/she may deem a co-location application to be incomplete and require an applicant to supplement and/or amend its application to satisfy the requirements of section 10.8-1 of this article.
+( Ord. No. 2010-07 , § I, 12-15-2009; Ord. No. 2011-02 , § I(Exh. A), 10-19-2010)
+10.9-2. Ownership and Management.
+(A)
+The name, address and phone number of the person preparing the application;
+(B)
+The name, address, and phone number of the property owner and the applicant, including the legal name of the applicant. If the owner of the structure is different than the applicant, the name and all necessary contact information shall be provided;
+(C)
+The physical and postal address and tax map parcel number of the property;
+(D)
+A copy of the FCC license applicable for the intended use of the wireless telecommunications facilities.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.9-3. Planning and Zoning.
+(A)
+The zoning district or designation in which the property is situated;
+(B)
+The size of the property on which the structure to be attached to is located, stated both in square feet and lot line dimensions, and a survey showing the location of all lot lines;
+(C)
+The location, size and height of all existing and proposed structures on the property on which the structure is located and that is the subject of the application;
+(D)
+If attaching to an existing tower, a site plan showing the vertical rendition of the Tower identifying all users and attachments to the tower and all related fixtures, structures, appurtenances and apparatus, including height above pre-existing grade, materials, color and lighting;
+(E)
+If attaching to a building or other structure, a site plan showing the proposed attachments and all related fixtures, structures, appurtenances and apparatus, including height above the roof or balustrade, whichever is appropriate;
+(F)
+The azimuth, size and center line height location of all proposed and existing antennae on the supporting structure;
+(G)
+The number, type and model of the antenna(s) proposed, along with a copy of the specification sheet(s) for the antennas.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.9-4. Safety/Requirements.
+(A)
+If attaching to an existing tower, the age of the tower in years, including the date of the grant of the original permit or authorization for the tower;
+(B)
+If attaching to an existing tower, a description of the type of tower, e.g., guyed, self-supporting lattice or monopole;
+(C)
+If attaching to an existing tower, the make, model, type and manufacturer of the tower and the structural design calculations, certified by a professional engineer licensed in the state, certifying and adequately demonstrating to the county a tower's capability to safely accommodate the facilities of the applicant without change or modification, taking into account the geotechnical situation and the foundation design; the proposed collocation shall not exceed the applicable weight limits for the wireless support structure, as demonstrated by a letter from a structural engineer licensed to practice in this state;
+(D)
+If any change or modification of the tower or other structure to be attached to is needed, a detailed narrative explaining what changes are needed, why they are needed and who will be responsible to assure that the changes are made;
+(E)
+If the structure proposed to be attached to is a tower that has not previously been permitted under this article, or unless the applicant can provide proof that this was provided at the time of the initial application for the tower or other structure, the applicant shall provide a copy of the installed foundation design, as well as a geotechnical sub-surface soils investigation, evaluation report and foundation recommendation for the tower site or other structure;
+(F)
+If attaching to an existing tower, a copy of the latest ansi inspection report done pursuant to the latest edition of ANSI-EIA/TIA 222F—Annex E for any self-supporting tower that is five years old or older or for any guyed tower that is three years old or older. If an ANSI inspection report has not been done pursuant to the preceding schedule, an ansi report shall be done and submitted as part of the application;
+(G)
+If not attaching to an existing tower, but rather a different type of structure, a structural report signed by a professional engineer licensed to do business in the state and bearing that engineer's currently valid stamp, showing the structural adequacy of the structure to accommodate the proposed wireless facility(ies), including any equipment shelter, unless the equipment shelter is located on the ground or on the lowest floor of a building;
+(H)
+If attaching to a structure other than a tower, to which the public has or could reasonably have or gain access to, an applicant shall provide documentation, including all calculations, proving that the potential exposure to RF radiation (i.e., NIER or non-ion-emitting radiation), will be in compliance with the most recent Federal Communications Commission regulations governing RF radiation and exposure thereto, and further denoting the minimum distance from any antennas an individual may safely stand without being exposed to RF radiation in excess of the FCC's permitted standards and any portion(s) of the structure that would be exposed to RF radiation in excess of the FCC's permitted standards. In compliance with the FCC's regulations, in such an instance the RF radiation from all wireless facilities shall be included in the calculations to show the cumulative effect on any area of the building or structure deemed accessible by the public. Such report or analysis shall be signed and sealed by a professional engineer licensed in the state; or
+(I)
+In an instance on a tower where the new wireless facilities will be ten meters or more above ground level, signed documentation such as the FCC's "checklist to determine whether a facility may categorically excluded" shall be provided to verify that the wireless telecommunication facility with the proposed installation will be in full compliance with the current FCC's RF emissions regulations. If not categorically excluded, a complete RF emissions study is required to enable verification of compliance, pursuant to subsection (E)(21) of this section, including providing all calculations so that such may be verified;
+(J)
+If any section or portion of the structure to be attached to is not in compliance with the FCC's regulations regarding RF radiation, that section or portion must be barricaded with a suitable warning barrier to discourage approaching into the area in excess of the FCC's regulations, and be marked off with yellow and black striped warning tape or a suitable warning barrier, as well as placing RF radiation signs as needed and appropriate to warn individuals of the potential danger;
+(K)
+A signed statement that the applicant will expeditiously remedy any physical or RF interference with other telecommunications or wireless devices or services;
+(L)
+To protect the nature and character of the area and create the least visually intrusive impact reasonably possible under the facts and circumstances, any attachment to a building or other structure with a facie, the antennas shall be mounted on the facie, unless it can be proven that such will prohibit or have the effect of prohibiting the provision of service, and all such attachments and exposed cabling shall use camouflage or stealth techniques to match as closely as possible the color and texture of the structure to which such equipment is attached;
+(M)
+If attaching to a water tank, mounting on the top of the tank or the use of a corral shall only be permitted if the applicant can prove that to locate elsewhere will prohibit or have the effect of prohibiting the provision of service. The provisions of the preceding subsection (J) of this section shall also apply to any attachment to a water tank;
+(N)
+The applicant shall provide a certification by a professional engineer licensed in the state, along with documentation, that prove that the tower or other structure and its foundation as proposed to be utilized are designed and were constructed to meet all local state, federal and ANSI structural requirements for loads, including wind and ice loads and the placement of any equipment on the roof a building after the addition of the proposed new facilities;
+(O)
+If the application is to attach to or modify existing facilities on a tower, the applicant shall provide signed documentation of the tower condition; specifically a report done pursuant to the latest edition of ANSI-EINTIA 222F (or 222G if adopted by the state)—Annex E for any self-supporting tower that is five years old or older or for a guyed tower that is three years old or older. Any deficiencies, other than strictly cosmetic ones, must be completed or remedied prior to the issuance of a building permit for the attachment of any component of the proposed wireless facilities;
+(P)
+So as to be the least visually intrusive as is reasonably possible given the facts and circumstances involved, and thereby have the least adverse visual effect and create the least intrusive or lowest profile or visual silhouette reasonably possible, unless it can be proven that such would be technologically impracticable. So as minimize the visual profile of the antennas all antennas attached to a tower or other structure shall be flush mounted or as near to flush mounted as is possible without prohibiting or having the effect of prohibiting the provision of service, or prove technically, with hard data and a detailed narrative, that flush mounting or other low profile antenna cannot be used and would serve to prohibit or have the effect of prohibiting the provision of service;
+(Q)
+Unless it is deemed inappropriate or unnecessary by the county given the facts and circumstances, the applicant shall demonstrate and provide in writing and/or by drawing how it shall effectively screen from view the base and all related equipment and structures of the proposed wireless telecommunications facility up to a height of ten feet;
+(R)
+The wireless telecommunications facility and all accessory or associated facilities shall maximize the use of building materials, colors and textures designed to blend with the structure to which it may be affixed and/or to harmonize with the natural surroundings. This shall include the utilization of stealth, camouflage or concealment technology as may be required by the county and as is practicable under the facts and circumstances;
+(S)
+All utilities installed for a new wireless telecommunications facility shall be installed underground and in compliance with all laws, ordinances, rules and regulations of the county including specifically, but not limited to, the National Electrical Safety Code and the National Electrical Code where appropriate;
+(T)
+If the facility currently has an access road or turn around space, but such is deemed in disrepair or in need of remedial work to make it serviceable and safe and in compliance with any applicable regulations, the application shall contain a commitment to remedy or restore the road or turn around space so that it is serviceable and safe and in compliance with applicable regulations;
+(U)
+The applicant, and the owner of record of any structure or tower attached to, shall, jointly or separately, at its cost and expense, be required to place with the county a bond, or other form of security acceptable to the county as to type of security and the form and manner of execution, in an amount of at least $25,000.00 for attaching to an existing structure or existing tower and with such sureties as are deemed sufficient by the county to assure the faithful performance of the terms and conditions of this law and conditions of any special use permit issued pursuant to this law. Said bond or other security shall also serve as a removal security to prevent the taxpayers from bearing the cost of removal in the event of the abandonment or cessation of use for more than 90 consecutive days. The full amount of the bond or security shall remain in full force and effect throughout the term of the special use permit and/or until any necessary site restoration is completed to restore the site to a condition comparable to that which existed prior to the issuance of the original special use permit.
+( Ord. No. 2010-07 , § I, 12-15-2009; Ord. No. 2011-02 , § I(Exh. A), 10-19-2010)
+10.10 - Location of Wireless Telecommunications Facilities.
+(A)
+Applicants for wireless telecommunications facilities shall locate, site and erect said wireless telecommunications facilities in accordance with the following priorities, one being the highest priority and five being the lowest priority.
+(1)
+On existing towers or other structures without increasing the height of the tower or structure.
+(2)
+On properties in areas zoned for GI, Ll, CA.
+(3)
+On properties in areas zoned for HC, GC, LC, NHC.
+(4)
+On properties in areas zoned for AG.
+(5)
+On properties in areas zoned for USD, MHP, MFR, RR, AGR, LRR, SFMD, PUD, CRVP, LR.
+(B)
+If the proposed site is not proposed for the highest priority listed above, then a detailed explanation and justification must be provided as to why a site of any higher priority designations was not selected. The applicant seeking a special use permit must satisfactorily demonstrate the reason or reasons why the proposed site was chosen and the reasons why higher priority locations were deemed unfit or undesirable.
+(C)
+An applicant may not bypass sites of higher priority by stating the site proposed is the only site leased or selected or because there is an existing lease with a landowner. An application shall address co-location as an option. If such option is not proposed, the applicant must explain to the reasonable satisfaction of the county why co-location is commercially impracticable or otherwise impracticable. Agreements between providers limiting or prohibiting co-location shall not be a valid basis for any claim of commercial impracticability or hardship.
+(D)
+Notwithstanding the above, the county may approve any site located within an area in the above list of priorities, provided that the county finds that the proposed site is in the best interest of the health, safety and welfare of the county and its inhabitants and will not have a deleterious effect on the nature and character of the community and neighborhood. Conversely, the county may direct that the proposed location be changed to another location that is more in keeping with the goals of this article and the public interest as determined by the BOC.
+(E)
+If appropriate, based on selecting a site of lower priority, a detailed written explanation as to why sites of a higher priority were not selected shall be included with the application, including the technical justification for such.
+(F)
+Notwithstanding that a potential site may be situated in an area of highest priority or highest available priority, the county may disapprove an application for any of the following reasons:
+(1)
+Conflict with safety and safety-related codes and requirements;
+(2)
+Conflict with the historic nature or character of a neighborhood or district;
+(3)
+The use or construction of wireless telecommunications facilities which is contrary to an already stated purpose of a specific zoning or land use designation;
+(4)
+The placement and location of wireless telecommunications facilities which would create an unacceptable risk, or the reasonable probability of such, to residents, the public, employees and agents of the county, or employees of the service provider or other service providers;
+(5)
+The placement and location of a wireless telecommunications facility would result in a conflict with, compromise in or change of the nature or character of the surrounding area;
+(6)
+Conflicts with the provisions of this article;
+(7)
+Failure to submit a complete application as required under this article.
+(G)
+Notwithstanding anything to the contrary in this article, for good cause shown, such as the ability to utilize a shorter or less intrusive facility elsewhere and still accomplish the primary service objective, the county may require the relocation of a proposed site, including allowing for the fact that relocating the site chosen by the applicant may require the use of more than one site to provide substantially the same service if the relocation could result in a less intrusive facility or facilities, singly or in combination, so long as such does not prohibit or serve to prohibit the provision of service.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.11 - Shared use of Wireless Telecommunications Facilities and other structures.
+(A)
+The county, as opposed to the construction of a new tower, requires wireless facilities to be located on existing towers or other suitable structures without increasing the height of the tower or structure, unless such is proven to be technologically impracticable. The applicant shall submit a comprehensive report inventorying all existing towers and other suitable structures within one mile of the location of any proposed new tower, unless the applicant can show that some other distance is more appropriate and reasonable and demonstrate conclusively why an existing tower or other suitable structure cannot be used.
+(B)
+An applicant intending to locate on an existing tower or other suitable structure shall be required to document the intent of the existing owner to permit its use by the applicant.
+(C)
+Such shared use shall consist only of the minimum antenna array technologically required to provide service primarily and essentially within the county, to the extent practicable, unless good cause is shown.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.12 - Height of Telecommunications Tower(s).
+(A)
+All new towers shall be of the monopole type, unless such is able to be proven to be technologically impracticable. No new towers of a lattice or guyed type shall be permitted, unless relief is otherwise expressly granted.
+(B)
+The applicant shall submit documentation justifying the technical need by the service provider for the total height of any tower, facility and/or antenna requested and the basis therefore. To enable verification of the need for the requested height, documentation in the form of propagation studies must include all backup data used to produce the studies at the height requested and at a minimum of ten feet lower height. Such documentation will be analyzed in the context of the justification of the height needed to provide service primarily and essentially within the county, to the extent practicable, unless good cause is shown.
+(C)
+The maximum permitted total height of a new tower shall be 120 feet above pre-construction ground level, unless it can be proven that such height would prohibit or have the effect of prohibiting the provision of service in the intended service area. The 120-foot maximum permitted height is not as-of-right height, but rather the maximum permitted height, absent proof of the technological need for a greater height.
+(D)
+Notwithstanding the 120-foot maximum permitted height, telecommunications towers and facilities shall be no taller than the minimum height technologically necessary to enable the provision of wireless service coverage or capacity as needed within the county and only within the county.
+(E)
+Spacing or the distance between towers shall be such that the service may be provided without exceeding the maximum permitted height.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.13 - Visibility of Wireless Telecommunications Facilities.
+(A)
+Wireless telecommunications facilities shall not be artificially lighted or marked, except as required by the FAA.
+(B)
+Stealth: All new wireless telecommunications facilities, including but not limited to towers, shall utilize stealth or camouflage techniques and technology to the extent practical, unless such can be shown to be either commercially or technologically impracticable.
+(C)
+Dual Mode: In order to minimize the number of antenna arrays and thus the visual impact, the county may require the use of dual mode antennas to be used, including by two different carriers, unless it can be proven that such will not work technologically and that such would have the effect of prohibiting the provision of service.
+(D)
+Tower Finish/Color: Towers shall be galvanized and/or painted with a rust-preventive paint of an appropriate color to harmonize with the surroundings and shall be maintained in accordance with the requirements of this article.
+(E)
+Lighting: If lighting is required, applicant shall provide a detailed plan for sufficient lighting of as unobtrusive and inoffensive an effect as is permissible under state and federal regulations. All towers requiring lighting shall be lighted to effectively eliminate the ground scatter effect of the lighting and to prevent the light from being seen from the ground.
+(F)
+Antenna Profile: All new or replacement antennas, except omnidirectional whip antennas, shall be attached to create the smallest profile reasonably possible under the facts and circumstances, unless it can be proven that to do so would prohibit or have the effect of prohibiting the service.
+(G)
+Placement on Building—Facie: If attached to a building, all antennas shall be mounted on the face of the building and camouflaged to match the color and, if possible, texture of the building or in a manner so as to make the antennas as visually innocuous and undetectable as is possible given the facts and circumstances involved.
+(H)
+Lighting—Preventing Ground Scatter Effect: For any wireless facility for which lighting is required under the FAA's regulations, or that for any reason has lights attached, all such lighting shall be affixed with technology that enables the light to be seen as intended from the air, but that prevents the ground scatter effect so that it not able to be seen from the ground to a height of at least 12 degrees vertical for a distance of at least one mile in a level terrain situation. Such device must be compliant with or not in conflict with FAA regulations. A physical shield may be used, as long as the light can be seen from the air, as intended by the FAA.
+(I)
+In the event a lighted tower is modified, at the time of the modification the county may require that the tower be retrofitted with the technology set forth in the preceding subsection (F).
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.14 - Security of Wireless Telecommunications Facilities.
+All wireless telecommunications facilities and antennas shall be located, fenced or otherwise secured in a manner that prevents unauthorized access. Specifically:
+(A)
+All antennas, towers and other supporting structures, including guy anchor points and wires, shall be made inaccessible to individuals and constructed or shielded in such a manner that they cannot be climbed or collided with; and
+(B)
+Transmitters and telecommunications control points shall be installed in such a manner that they are readily accessible only to persons authorized to operate or service them.
+10.15 - Signage.
+Wireless telecommunications facilities shall contain a sign no larger than four square feet in order to provide adequate notification to persons in the immediate area of the presence of RF radiation or to control exposure to RF radiation within a given area. A sign of the same size installed to contain the name(s) of the owner(s) and operator(s) of the antenna(s) as well as emergency phone number(s). The sign shall be on the equipment shelter or cabinet of the applicant and be visible from the access point of the site and must identify the equipment owner of the shelter or cabinet. On tower sites, an FCC registration site, as applicable, is also to be present. The signs shall not be lighted, unless applicable law, rule or regulation requires lighting. No other signage, including advertising, shall be permitted.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.16 - Lot Size and Setbacks.
+(A)
+All proposed towers and any other proposed wireless telecommunications facility attachment structures shall be set back from abutting parcels, recorded rights-of-way and road and street lines by the greater of the following distances: A distance equal to the height of the proposed tower or wireless telecommunications facility structure plus ten percent of the height of the tower or structure, otherwise known as the "fall zone," or the existing setback requirement of the underlying zoning district, whichever is greater. Any accessory structure shall be located to comply with the applicable minimum setback requirements for the property on which it is situated. The fall zone or setback shall be measured from the nearest portion of the right-of-way of any public road or thoroughfare and any occupied building or domicile. Further, the nearest portion of any access road to a wireless facility shall be no less than 15 feet from the nearest property line.
+(B)
+There shall be no development of habitable buildings within the Fall Zone or setback area set forth in the preceding subsection (A).
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.17 - Retention of Expert Assistance and Reimbursement by Applicant.
+(A)
+The county may hire any consultant and/or expert necessary to assist the county in reviewing and evaluating the application, including the construction and modification of the site, once permitted, and any site inspections. To the extent this article requires the applicant to provide documentation prepared by a trained certified professional licensed to practice in Georgia (professional engineer, architect, radio frequency engineer), the review of such documentation shall be carried out by a similarly qualified professional.
+(B)
+An applicant shall deposit with the county funds sufficient to reimburse the county for all reasonable costs of:
+(1)
+Consulting and expert evaluation and consultation with the county or the applicant in connection with the submission and/or review of any application;
+(2)
+Any lease negotiations, the pre-approval evaluation, and including the construction and modification of the site, once permitted.
+The initial deposit shall be $5,000.00 in the case of a new facility application governed by section 10.8 and $2,500.00 in the case of a co-location or equipment modification application as governed by section 10.9.
+The placement of the initial deposit with the county shall precede the pre-application meeting or any work being done as regards processing an application. The county will maintain a separate escrow account for all such funds. The county's consultants/experts shall invoice the county for its services in reviewing the application, including the construction and modification of the site, once permitted. The initial deposit shall not be increased without action by the application review committee finding that the initial application request has been modified, that the scope of the review is unique, or the applicant has failed to cooperate with the review causing additional staff/consultant time and effort to complete the evaluation of the application. However, if at any time during the process this escrow account has a balance less than $1,000.00, and the application review committee finds that the increase is warranted, the applicant shall immediately, upon notification by the county, replenish said escrow account so that it has a balance of at least $5,000.00 in the case of a new facility application governed by section 10.8 and $2,500.00 in the case of a co-location or equipment modification application governed by section 10.9. The applicant may appeal the decision of the application review committee to require the replenishment of an escrow account to the board of commissioners by providing notice to the zoning administrator within five days of notification of the decision of the application review committee and the decision of the board of commissioners shall be final. Such additional escrow funds shall be deposited with the county before any further action or consideration is taken on the application. In the event that the amount held in escrow is more than the amount of the actual invoicing at the conclusion of the project, the remaining balance shall be promptly refunded to the applicant upon written request.
+(C)
+No work shall be done on an application for which the full amount of the escrow deposit as set forth in the preceding subsection (B) of this section has not been placed with the county. In the event the escrow deposit minimum balance as set forth in this subsection (B) is not maintained, all work on the application shall cease until the deposit is replenished as required.
+(D)
+The total amount of the funds needed as set forth in subsection (B) of this section may vary with the scope and complexity of the project, the completeness of the application, necessary discussions with the applicant and other information as may be needed to complete the necessary review, analysis and inspection of any construction or modification.
+(E)
+Records of all outside costs associated with the review and permitting process shall be maintained and available for public inspection, in compliance with applicable Georgia law.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.18 - Public Hearing and Notification Requirements.
+(A)
+Prior to the approval of any application for a Special Use Permit for a new tower or for any facility that increases the height of the structure to which it is to be attached, a public hearing shall be held by the county, notice of which shall be published in the official newspaper of the county no less than 15 calendar days and no more than 45 days prior to the scheduled date of the public hearing. In order that the nearby landowners are aware of the public hearing, the Applicant shall notify all landowners within 1,500 feet of any property line of the lot or parcel on which the new wireless telecommunications facilities are proposed to be located and the application shall contain the names and address of all such landowners. Such notification shall be by certified U.S. Mail.
+(B)
+The county shall schedule the public hearing referred to in subsection (A) of this section once it finds the application is complete and is not required to set a date if the application is not complete. The county, at any stage prior to issuing a special use permit, may require such additional information as it deems necessary as such relates to the issue of the siting, construction or modification of a wireless telecommunications facility.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.19 - Action on an Application for a Special Use Permit for Wireless Telecommunications Facilities.
+(A)
+The county will undertake a review of an application pursuant to this article in a timely fashion, consistent with its responsibilities, and shall act within a reasonable period of time given the relative complexity of the application and the circumstances, with due regard for the public's interest and need to be involved, and the applicants desire for a timely action on the application.
+(B)
+The county may refer any application or part thereof to any advisory or other committee of its choice for a nonbinding recommendation.
+(C)
+After the public hearing and after formally considering the application, the county may approve, approve with conditions, or deny a special use permit. Its decision shall be in writing and shall be supported by substantial evidence contained in a written record. The burden of proof for the grant of the permit shall always be upon the applicant.
+(D)
+If the county approves the special use permit for wireless telecommunications facilities, then the applicant shall be notified of such approval in writing within ten calendar days of the county's action, and the Special use Permit or other appropriate authorization shall be issued within 30 days after such approval. Except for necessary building permits, once a special use permit has been granted hereunder, no additional permits or approvals from the county, such as site plan or zoning approvals, shall be required by the county for the wireless telecommunications facilities covered by the special use permit.
+(E)
+If the county denies the special use permit or other appropriate authorization for wireless telecommunications facilities, then the applicant shall be notified of such denial in writing within ten calendar days of the county's action and shall set forth in writing the reason or reasons for the denial. Re-application for special permits shall be allowed per the requirements set forth in Article 16 of Appendix "A" to the Troup County Code.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.20 - Extent and Parameters of Special Use Permit for Wireless Telecommunications Facilities.
+The extent and parameters of a special use permit for wireless telecommunications facilities shall be as follows:
+(A)
+Such special use permit shall not be assigned, transferred or conveyed without the express prior written notification to the county.
+(B)
+In the event of a violation of this article, following an opportunity to cure and, if not cured within the time frame set forth in the notice of violation, a hearing shall be held upon due prior notice to the applicant. Following such hearing, if found to be in violation of this article, the special use permit may be revoked, canceled, or terminated for a violation of the conditions and provisions of the special use permit, or for a material violation of this article or other applicable law, rule or regulation.
+(C)
+Notice of a violation and of the date, time and place of a hearing shall be provided by registered mail to the last known address of the holder of the special use permit.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.21 - Application Fee.
+At the time that a person submits an application for a special use permit or other appropriate authorization for a new tower or a co-located facility, such person shall pay a nonrefundable application fee as set forth in the county's fee schedule as may be amended or changed from time to time.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.22 - Removal and Performance Security.
+The applicant and the owner of record of any proposed wireless telecommunications facilities site shall, at its cost and expense, be jointly required to execute with the applicant and file with the county a bond, or other form of security acceptable to the county as to type of security and the form and manner of execution, in an amount of at least $75,000.00 for a tower with such sureties as are deemed sufficient by the county to assure the faithful performance of the terms and conditions of this article and conditions of any special use permit issued pursuant to this article. The full amount of the bond or security shall remain in full force and effect throughout the term of the special use permit and/or until any necessary site restoration is completed to restore the site to a condition comparable to that, which existed prior to the issuance of the original special use permit.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.23 - Reservation of Authority to Inspect Wireless Telecommunications Facilities.
+In order to verify that the holder of a special use permit for wireless telecommunications facilities and any and all lessees, renters, and/or licensees of wireless telecommunications facilities, place and construct such facilities, including towers and antennas, in accordance with all applicable technical, safety, fire, building, and zoning codes, laws, ordinances and regulations and other applicable requirements, the county may inspect all facets of said permit holder's, renter's, lessee's or licensee's placement, construction, modification and maintenance of such facilities including, but not limited to, towers, antennas and buildings or other structures constructed or located on the permitted site.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.24 - Liability Insurance.
+(A)
+All permitted wireless telecommunications facilities shall secure and at all times maintain public liability insurance for personal injuries, death and property damage, and umbrella insurance coverage, for the duration of the permit in amounts as set forth below:
+(1)
+Commercial general liability covering personal injuries, death and property damage: $1,000,000 per occurrence/$2,000,000 aggregate; and
+(2)
+Automobile coverage: $1,000,000.00 per occurrence/ $2,000,000 aggregate; and
+(3)
+A $3,000,000 umbrella coverage; and
+(4)
+Workers compensation and disability: Statutory amounts.
+(B)
+For a wireless telecommunications facility on county property, the commercial general liability insurance policy shall specifically include the county and its officers, commissions, employees, committee members, attorneys, agents and consultants as additional insured.
+(C)
+The insurance policies shall be issued by an agent or representative of an insurance company licensed to do business in the state and with a best's rating of at least A.
+(D)
+The insurance policies shall contain an endorsement obligating the insurance company to furnish the county with at least 30 days' prior written notice in advance of the cancellation of the insurance.
+(E)
+Renewal or replacement policies or certificates shall be delivered to the county at least 15 days before the expiration of the insurance that such policies are to renew or replace.
+(F)
+Before construction of a permitted wireless telecommunications facilities is initiated, but in no case later than 15 days after the grant of the special use permit, the holder of the special use permit shall deliver to the county a copy of each of the policies or certificates representing the insurance in the required amounts.
+(G)
+A certificate of insurance that states that it is for informational purposes only and does not confer rights upon the county shall not be deemed to comply with this section.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.25 - Indemnification.
+(A)
+Any application for wireless telecommunication facilities that is proposed for county property, pursuant to this article, shall contain a provision with respect to indemnification. Such provision shall require the applicant, to the extent permitted by the article, to at all times defend, indemnify, protect, save, hold harmless, and exempt the county and its officers, commissions, employees, committee members, attorneys, agents, and consultants from any and all penalties, damages, costs, or charges arising out of any and all claims, suits, demands, causes of action, or award of damages, whether compensatory or punitive, or expenses arising there from, either at law or in equity, which might arise out of, or are caused by, the placement, construction, erection, modification, location, products performance, use, operation, maintenance, repair, installation, replacement, removal, or restoration of said facility, excepting, however, any portion of such claims, suits, demands, causes of action or award of damages as may be attributable to the negligent or intentional acts or omissions of the county, or its servants or agents. With respect to the penalties, damages or charges referenced herein, reasonable attorneys' fees, consultants' fees, and expert witness fees are included in those costs that are recoverable by the county.
+(B)
+Notwithstanding the requirements noted in subsection (A) of this section, an indemnification provision will not be required in those instances where the county itself applies for and secures a special use permit for wireless telecommunications facilities.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.26 - Fines.
+(A)
+In the event of a violation of this article or any special use permit issued pursuant to this article, the county may impose and collect, and the holder of the special use permit for wireless telecommunications facilities shall pay to the county, fines or penalties as set forth below.
+(B)
+If the holder of a special use permit fails to comply with provisions of this article such shall constitute a violation of this article and shall be subject to a fine not to exceed $350.00 per day per violation following due and proper notice and, further, each day or part thereof that a violation remains uncured after proper notice shall constitute a separate violation, punishable separately.
+(C)
+Notwithstanding anything in this article, the holder of the special use permit for wireless telecommunications facilities may not use the payment of fines, liquidated damages or other penalties, to evade or avoid compliance with this article or any section of this article. An attempt to do so shall subject the holder of the special use permit to termination and revocation of the special use permit. The county may also seek injunctive relief to prevent the continued violation of this article, without limiting other remedies available to the county.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.27 - Default and/or Revocation.
+If a wireless telecommunications facility is repaired, rebuilt, placed, moved, re-located, modified or maintained in a way that is inconsistent or not in compliance with the provisions of this article or of the special use permit, then the county shall notify the holder of the special use permit in writing of such violation. A permit holder in violation may be considered in default and subject to tines as in section 10.24 and if a violation is not corrected to the satisfaction of the county in a reasonable period of time the special use permit is subject to revocation.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.28 - Removal of Wireless Telecommunications Facilities.
+(A)
+The owner of any tower or wireless facility shall be required to provide a minimum of 30 days' written notice to the county clerk prior to abandoning any tower or wireless facility.
+(B)
+Under the following circumstances, the county may determine that the health, safety, and welfare interests of the county warrant and require the removal of wireless telecommunications facilities.
+(1)
+Wireless telecommunications facilities with a permit have been abandoned (i.e., not used as wireless telecommunications facilities) for a period exceeding 90 consecutive days or a total of 180 days in any 365-day period, except for periods caused by force majeure or acts of God, in which case, repair or removal shall commence within 90 days;
+(2)
+Permitted wireless telecommunications facilities fall into such a state of disrepair that it creates a health or safety hazard;
+(3)
+Wireless telecommunications facilities have been located, constructed, or modified without first obtaining, or in a manner not authorized by, the required special use permit, or any other necessary authorization and the special permit may be revoked.
+(C)
+If the county makes such a determination as noted in subsection (A) of this section, then the county shall notify the holder of the special use permit for the wireless telecommunications facilities within 48 hours that said wireless telecommunications facilities are to be removed. The county may approve an interim temporary use agreement/permit, such as to enable the sale of the wireless telecommunications facilities.
+(D)
+The holder of the special use permit, or its successors or assigns, shall dismantle and remove such wireless telecommunications facilities, and all associated structures and facilities, from the site and restore the site to as close to its original condition as is possible. Such restoration limited only by physical or commercial impracticability, within 90 days of receipt of written notice from the county. However, if the owner of the property upon which the wireless telecommunications facilities are located wishes to retain any access roadway to the wireless telecommunications facilities, the owner may do so with the approval of the county.
+(E)
+If wireless telecommunications facilities are not removed or substantial progress has not been made to remove the wireless telecommunications facilities within 90 days after the permit holder has received notice, then the county may order officials or representatives of the county to remove the wireless telecommunications facilities at the sole expense of the owner or special use permit holder.
+(F)
+If, the county removes, or causes to be removed, wireless telecommunications facilities, and the owner of the wireless telecommunications facilities does not claim and remove it from the site to a lawful location within ten days, then the county may take steps to declare the wireless telecommunications facilities abandoned, and sell them and their components.
+(G)
+Notwithstanding anything in this section to the contrary, the county may approve a temporary use permit/agreement for the wireless telecommunications facilities, for no more than 90 days, during which time a suitable plan for removal, conversion, or re-location of the affected wireless telecommunications facilities shall be developed by the holder of the special use permit, subject to the approval of the county, and an agreement to such plan shall be executed by the holder of the special use permit and the county. If such a plan is not developed, approved and executed within the 90-day time period, then the county may take possession of and dispose of the affected wireless telecommunications facilities in the manner provided in this section and utilize the bond in section 10.21.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.29 - Relief.
+Any applicant desiring relief, waiver or exemption from any aspect or requirement of this article may request such at the pre-application meeting, provided that the relief or exemption is contained in the submitted application for either a special use permit, or in the case of an existing or previously granted special use permit a request for modification of its tower and/or facilities. Such relief may be temporary or permanent, partial or complete. However, the burden of proving the need for the requested relief, waiver or exemption is solely on the applicant to prove. The applicant shall bear all costs of the county in considering the request and the relief, waiver or exemption. No such relief or exemption shall be approved unless the applicant demonstrates by clear and convincing evidence that, if granted, the relief, waiver or exemption will have no significant affect on the health, safety and welfare of the county, its residents or other service providers.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.30 - Periodic Regulatory Review by the County.
+(A)
+The county may conduct at any time a review and examination of this entire article.
+(B)
+If after such a periodic review and examination of this article, the county determines that one or more provisions of this article should be amended, repealed, revised, clarified, or deleted, then the county may take whatever measures are necessary in accordance with applicable ordinance in order to accomplish the same. It is noted that where warranted, and in the best interests of the county, the county may repeal this entire ordinance [article] at any time.
+(C)
+Notwithstanding the provisions of subsections (A) and (B) of this section, the county may at any time and in any manner (to the extent permitted by federal, state, or local law), amend, add, repeal, and/or delete one or more provisions of this article.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.31 - Adherence to State and/or Federal Rules and Regulations.
+(A)
+To the extent that the holder of a special use permit for wireless telecommunications facilities has not received relief, or is otherwise exempt, from appropriate state and/or federal agency rules or regulations, then the holder of such a special use permit shall adhere to, and comply with, all applicable rules, regulations, standards, and provisions of any state or federal agency including, but not limited to, the FAA and the FCC. Specifically included in this requirement are any rules and regulations regarding height, lighting, security, electrical and RF emission standards.
+(B)
+To the extent that applicable rules, regulations, standards, and provisions of any state or federal agency including, but not limited to, the FAA and the FCC, and specifically including any rules and regulations regarding height, lighting, and security are changed and/or are modified during the duration of a special use permit for wireless telecommunications facilities, then the holder of such a special use permit shall conform the permitted wireless telecommunications facilities to the applicable changed and/or modified rule, regulation, standard, or provision within a maximum of 24 months of the effective date of the applicable changed and/or modified rule, regulation, standard, or provision, or sooner as may be required by the issuing entity.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.32 - Conflict with Other Laws.
+Where this article differs or conflicts with other laws, rules and regulations, unless the right to do so is preempted or prohibited by the county, state or federal government, this article shall apply.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.33 - Effective Date.
+This article shall be effective immediately upon passage, pursuant to applicable legal and procedural requirement.
+( Ord. No. 2010-07 , § I, 12-15-2009)
+10.34 - Authority.
+This local ordinance is enacted pursuant to applicable authority granted by the State and federal government.
+( Ord. No. 2010-07 , § I, 12-15-2009)

@@ -1,0 +1,566 @@
+Chapter 42 - ENVIRONMENT[1]
+Footnotes:
+--- (1) ---
+Cross reference— Animals, ch. 14; buildings and building regulations, ch. 18; unsafe buildings, § 18-7; floods, ch. 50; health and sanitation, ch. 54; historic preservation, ch. 58; planning, ch. 66; solid waste, ch. 74; streets, sidewalks and other public places, ch. 78; utilities, ch. 90; zoning, app. A.
+
+ARTICLE I. - IN GENERAL
+
+Secs. 42-1—42-30. - Reserved.
+ARTICLE II. - SOIL EROSION, SEDIMENTATION AND POLLUTION CONTROL[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Ord. No. O-1001-001, adopted February 9, 2010, amended article II in its entirety to read as herein set out. Formerly, article II pertained to soil erosion and sedimentation control, and derived from Ord. No. O-0405-016, adopted May 25, 2004.
+Cross reference— Floods, ch. 50.
+State Law reference— Soil and water conservation, O.C.G.A. § 2-6-1 et seq.; control of soil erosion and sediment, O.C.G.A. § 12-7-1 et seq.; certification of locality as permit-issuing authority, O.C.G.A. § 12-7-8.
+
+Sec. 42-31. - Title.
+This article will be known as "The City of Milledgeville Soil Erosion, Sedimentation and Pollution Control Ordinance."
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-32. - Definitions.
+The following definitions shall apply in the interpretation and enforcement of this article, unless otherwise specifically stated:
+Best management practices (BMPs) include sound conservation and engineering practices to prevent and minimize erosion and resultant sedimentation, which are consistent with, and no less stringent than, those practices contained in the "Manual for Erosion and Sediment Control in Georgia" published by the commission as of January 1 of the year in which the land-disturbing activity was permitted.
+Board means the board of natural resources.
+Buffer means the area of land immediately adjacent to the banks of state waters in its natural state of vegetation, which facilitates the protection of water quality and aquatic habitat.
+Certified personnel means a person who has successfully completed the appropriate certification course approved by the Georgia Soil and Water Conservation Commission.
+Commission means the Georgia Soil and Water Conservation Commission (GSWCC).
+CPESC means Certified Professional in Erosion and Sediment Control with current certification by Certified Profession in Erosion and Sediment Control Inc., a corporation registered in North Carolina, which is also referred to as CPESC or CPESC, Inc.
+Cut means a portion of land surface or area from which earth has been removed or will be removed by excavation; the depth below original ground surface to the excavated surface. Also known as "excavation."
+Department means the Georgia Department of Natural Resources (DNR).
+Design professional means a professional licensed by the state in the field of: engineering, architecture, landscape architecture, forestry, geology, or land surveying; or a person that is a Certified Professional in Erosion and Sediment Control (CPESC) with a current certification by Certified Professional in Erosion and Sediment Control, Inc.
+Director means the director of the environmental protection division or an authorized representative.
+District means the Piedmont Soil and Water Conservation District.
+Division means the Environmental Protection Division (EPD) of the department of natural resources.
+Drainage structure means a device composed of a virtually nonerodible material such as concrete, steel, plastic or other such material that conveys water from one place to another by intercepting the flow and carrying it to a release point for storm water management, drainage control, or flood control purposes.
+Erosion means the process by which land surface is worn away by the action of wind, water, ice or gravity.
+Erosion, sedimentation and pollution control plan means a plan required by the Erosion and Sedimentation Act, O.C.G.A. ch. 12-7, that includes, as a minimum protections at least as stringent as the state general permit, best management practices, and requirements in subsection 42-34(c).
+Fill means a portion of land surface to which soil or other solid material has been added; the depth above the original ground surface or an excavation.
+Final stabilization means all soil disturbing activities at the site have been completed, and that for unpaved areas and areas not covered by permanent structures and areas located outside the waste disposal limits of a landfill cell that has been certified by EPD for waste disposal, 100 percent of the soil surface is uniformly covered in permanent vegetation with a density of 70 percent or greater, or equivalent permanent stabilization measures (such as the use of rip rap, gabions, permanent mulches or geotextiles) have been used. Permanent vegetation shall consist of: planted trees, shrubs, perennial vines; a crop of perennial vegetation appropriate for the time of year and region; or a crop of annual vegetation and a seeding of target crop perennials appropriate for the region. Final stabilization applies to each phase of construction.
+Finished grade means the final elevation and contour of the ground after cutting or filling and conforming to the proposed design.
+Grading means altering the shape of ground surfaces to a predetermined condition; this includes stripping, cutting, filling, stockpiling and shaping or any combination thereof and shall include the land in its cut or filled condition.
+Ground elevation means the original elevation of the ground surface prior to cutting or filling.
+Land-disturbing activity means any activity which may result in soil erosion from water or wind and the movement of sediments into state waters or onto lands within the state, including, but not limited to, clearing, dredging, grading, excavating, transporting, and filling of land but not including agricultural practices as described in subsection 42-33(5).
+Larger common plan of development or sale means a contiguous area where multiple separate and distinct construction activities are occurring under one plan of development or sale. For the purposes of this paragraph, "plan" means an announcement; piece of documentation such as a sign, public notice or hearing, sales pitch, advertisement, drawing, permit application, zoning request, or computer design; or physical demarcation such as boundary signs, lot stakes, or surveyor markings, indicating that construction activities may occur on a specific plot.
+Local issuing authority means the governing authority of any county or municipality which is certified pursuant to O.C.G.A. § 12-7-8(a).
+Metropolitan River Protection Act (MRPA) means a state law referenced as O.C.G.A. § 12-5-440 et seq. which addresses environmental and developmental matters in certain metropolitan river corridors and their drainage basins.
+Natural ground surface means the ground surface in its original state before any grading, excavation or filling.
+Nephelometric turbidity units (NTU) mean numerical units of measure based upon photometric analytical techniques for measuring the light scattered by finely divided particles of a substance in suspension. This technique is used to estimate the extent of turbidity in water in which colloidally dispersed or suspended particles are present.
+NOI means a notice of intent form provided by EPD for coverage under the state general permit.
+NOT means a notice of termination form provided by EPD to terminate coverage under the state general permit.
+Operator means the party or parties that have: (A) operational control of construction project plans and specifications, including the ability to make modifications to those plans and specifications; or (B) day-to-day operational control of those activities that are necessary to ensure compliance with an erosion, sedimentation and pollution control plan for the site or other permit conditions, such as a person authorized to direct workers at a site to carry out activities required by the erosion, sedimentation and pollution control plan or to comply with other permit conditions.
+Outfall means the location where storm water in a discernible, confined and discrete conveyance, leaves a facility or site or, if there is a receiving water on site, becomes a point source discharging into that receiving water.
+Permit means the authorization necessary to conduct a land-disturbing activity under the provisions of this article.
+Person means any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, state agency, municipality or other political subdivision of the state, any interstate body or any other legal entity.
+Phase or phased means sub-parts or segments of construction projects where the sub-part or segment is constructed and stabilized prior to completing construction activities on the entire construction site.
+Project means the entire proposed development project regardless of the size of the area of land to be disturbed.
+Properly designed means designed in accordance with the design requirements and specifications contained in the "Manual for Erosion and Sediment Control in Georgia" (manual) published by the state soil and water conservation commission as of January 1 of the year in which the land-disturbing activity was permitted and amendments to the manual as approved by the commission up until the date of NOI submittal.
+Roadway drainage structure means a device such as a bridge, culvert, or ditch, composed of a virtually nonerodible material such as concrete, steel, plastic, or other such material that conveys water under a roadway by intercepting the flow on one side of a traveled roadway consisting of one or more defined lanes, with or without shoulder areas, and carrying water to a release point on the other side.
+Sediment means solid material, both organic and inorganic, that is in suspension, is being transported, or has been moved from its site of origin by wind, water, ice, or gravity as a product of erosion.
+Sedimentation means the process by which eroded material is transported and deposited by the action of water, wind, ice or gravity.
+Soil and water conservation district approved plan means an erosion, sedimentation and pollution control plan approved in writing by the Piedmont Soil and Water Conservation District.
+Stabilization means the process of establishing an enduring soil cover of vegetation by the installation of temporary or permanent structures for the purpose of reducing to a minimum the erosion process and the resultant transport of sediment by wind, water, ice or gravity.
+State general permit means the National Pollution Discharge Elimination System (NPDES) general permit or permits for storm water runoff from construction activities as is now in effect or as may be amended or reissued in the future pursuant to the state's authority to implement the same through federal delegation under the Federal Water Pollution Control Act, as amended, 33 U.S.C. Section 1251, et seq., and O.C.G.A. § 12-5-30(f).
+State waters means any and all rivers, streams, creeks, branches, lakes, reservoirs, ponds, drainage systems, springs, wells, and other bodies of surface or subsurface water, natural or artificial, lying within or forming a part of the boundaries of Georgia which are not entirely confined and retained completely upon the property of a single individual, partnership, or corporation.
+Structural erosion, sedimentation and pollution control practices means practices for the stabilization of erodible or sediment-producing areas by utilizing the mechanical properties of matter for the purpose of either changing the surface of the land or storing, regulating or disposing of runoff to prevent excessive sediment loss. Examples of structural erosion and sediment control practices are riprap, sediment basins, dikes, level spreaders, waterways or outlets, diversions, grade stabilization structures and sediment traps, etc. Such practices can be found in the publication Manual for Erosion and Sediment Control in Georgia.
+Trout streams means all streams or portions of streams within the watershed as designated by the wildlife resources division of the state department of natural resources under the provisions of the Georgia Water Quality Control Act, O.C.G.A. § 12-5-20, in the rules and regulations for Water Quality Control, Chapter 391-3-6 at www.gaepd.org. Streams designated as primary trout waters are defined as water supporting a self-sustaining population of rainbow, brown or brook trout. Streams designated as secondary trout waters are those in which there is no evidence of natural trout reproduction, but are capable of supporting trout throughout the year. First order trout waters are streams into which no other streams flow except springs.
+Vegetative erosion and sedimentation control measures mean measures for the stabilization of erodible or sediment-producing areas by covering the soil with:
+(1)
+Permanent seeding, sprigging or planting, producing long-term vegetative cover;
+(2)
+Temporary seeding, producing short-term vegetative cover; or
+(3)
+Sodding, covering areas with a turf of perennial sod-forming grass.
+Such measures can be found in the publication Manual for Erosion and Sediment Control in Georgia.
+Watercourse means any natural or artificial watercourse, stream, river, creek, channel, ditch, canal, conduit, culvert, drain, waterway, gully, ravine, or wash in which water flows either continuously or intermittently and which has a definite channel, bed and banks, and including any area adjacent thereto subject to inundation by reason of overflow or flood water.
+Wetlands mean those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-33. - Exemptions.
+This article shall apply to any land-disturbing activity undertaken by any person on any land except for the following:
+(1)
+Surface mining, as the same is defined in O.C.G.A. § 12-4-72, "The Georgia Surface Mining Act of 1968";
+(2)
+Granite quarrying and land clearing for such quarrying;
+(3)
+Such minor land-disturbing activities as home gardens and individual home landscaping, repairs, maintenance work, fences, and other related activities which result in minor soil erosion;
+(4)
+The construction of single-family residences, when such construction disturbs less than one acre and is not a part of a larger common plan of development or sale with a planned disturbance of equal to or greater than one acre and not otherwise exempted under this paragraph; provided, however, that construction of any such residence shall conform to the minimum requirements as set forth in O.C.G.A. § 12-7-6 and this paragraph. For single-family residence construction covered by the provisions of this paragraph, there shall be a buffer zone between the residence and any state waters classified as trout streams pursuant to Article 2 of Chapter 5 of the Georgia Water Quality Control Act. In any such buffer zone, no land-disturbing activity shall be constructed between the residence and the point where vegetation has been wrested by normal stream flow or wave action from the banks of the trout waters. For primary trout waters, the buffer zone shall be at least 50 horizontal feet, and no variance to a smaller buffer shall be granted. For secondary trout waters, the buffer zone shall be at least 50 horizontal feet, but the director may grant variances to no less than 25 feet. Regardless of whether a trout stream is primary or secondary, for first order trout waters, which are streams into which no other streams flow except for springs, the buffer shall be at least 25 horizontal feet, and no variance to a smaller buffer shall be granted. The minimum requirements of O.C.G.A. 12-7-6(b) and the buffer zones provided by this paragraph shall be enforced by the local issuing authority;
+(5)
+Agricultural operations as defined in O.C.G.A. § 1-3-3, "Definitions", to include raising, harvesting or storing of products of the field or orchard; feeding, breeding or managing livestock or poultry; producing or storing feed for use in the production of livestock, including but not limited to cattle, calves, swine, hogs, goats, sheep, and rabbits or for use in the production of poultry, including but not limited to chickens, hens and turkeys; producing plants, trees, fowl, or animals; the production of aqua culture, horticultural, dairy, livestock, poultry, eggs and apiarian products; farm buildings and farm ponds;
+(6)
+Forestry land management practices, including harvesting; provided, however, that when such exempt forestry practices cause or result in land-disturbing or other activities otherwise prohibited in a buffer, as established in subsections 42-34(c)(15) and (16), no other land-disturbing activities, except for normal forest management practices, shall be allowed on the entire property upon which the forestry practices were conducted for a period of three years after completion of such forestry practices;
+(7)
+Any project carried out under the technical supervision of the Natural Resources Conservation Service (NRCS) of the United States Department of Agriculture;
+(8)
+Any project involving less than one acre of disturbed area; provided, however, that this exemption shall not apply to any land-disturbing activity within a larger common plan of development or sale with a planned disturbance of equal to or greater than one acre or within 200 feet of the bank of any state waters, and for purposes of this paragraph, "state waters" excludes channels and drainage ways which have water in them only during and immediately after rainfall events and intermittent streams which do not have water in them year-round; provided, however, that any person responsible for a project which involves less than one acre, which involves land-disturbing activity, and which is within 200 feet of any such excluded channel or drainage way, must prevent sediment from moving beyond the boundaries of the property on which such project is located and provided, further, that nothing contained herein shall prevent the local issuing authority from regulating any such project which is not specifically exempted by subsections (1), (2), (3), (4), (5), (6), (7), (9) or (10) of this section;
+(9)
+Construction or maintenance projects, or both, undertaken or financed in whole or in part, or both, by the department of transportation, the state highway authority, or the state road and tollway authority; or any road construction or maintenance project, or both, undertaken by any county or municipality; provided, however, that construction or maintenance projects of the department of transportation or the state road and tollway authority which disturb one or more contiguous acres of land shall be subject to provisions of O.C.G.A. § 12-7-7.1; except where the department of transportation, the state highway authority, or the state road and tollway authority is a secondary permittee for a project located within a larger common plan of development or sale under the state general permit, in which case a copy of a notice of intent under the state general permit shall be submitted to the local issuing authority, the local issuing authority shall enforce compliance with the minimum requirements set forth in O.C.G.A. § 12-7-6 as if a permit had been issued, and violations shall be subject to the same penalties as violations by permit holders;
+(10)
+Any land-disturbing activities conducted by any electric membership corporation or municipal electrical system or any public utility under the regulatory jurisdiction of the public service commission, any utility under the regulatory jurisdiction of the Federal Energy Regulatory Commission, any cable television system as defined in O.C.G.A. § 36-18-1, or any agency or instrumentality of the United States engaged in the generation, transmission, or distribution of power; except where an electric membership corporation or municipal electrical system or any public utility under the regulatory jurisdiction of the public service commission, any utility under the regulatory jurisdiction of the Federal Energy Regulatory Commission, any cable television system as defined in O.C.G.A. § 36-18-1, or any agency or instrumentality of the United States engaged in the generation, transmission, or distribution of power is a secondary permittee for a project located within a larger common plan of development or sale under the state general permit, in which case the local issuing authority shall enforce compliance with the minimum requirements set forth in O.C.G.A. § 12-7-6 as if a permit had been issued, and violations shall be subject to the same penalties as violations by permit holders; and
+(11)
+Any public water system reservoir.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-34. - Minimum requirements for erosion, sedimentation and pollution control using best management practices.
+(a)
+General provisions. Excessive soil erosion and resulting sedimentation can take place during land-disturbing activities if requirements of the ordinance and the NPDES general permit are not met. Therefore, plans for those land-disturbing activities which are not exempted by this article shall contain provisions for application of soil erosion, sedimentation and pollution control measures and practices. The provisions shall be incorporated into the erosion, sedimentation and pollution control plans. Soil erosion, sedimentation and pollution control measures and practices shall conform to the minimum requirements of subsections (b) and (c). The application of measures and practices shall apply to all features of the site, including street and utility installations, drainage facilities and other temporary and permanent improvements. Measures shall be installed to prevent or control erosion, sedimentation and pollution during all stages of any land-disturbing activity in accordance with requirements of this article and the NPDES general permit.
+(b)
+Minimum requirements/BMPs.
+(1)
+Best management practices as set forth in subsections (b) and (c) shall be required for all land-disturbing activities. Proper design, installation, and maintenance of best management practices shall constitute a complete defense to any action by the director or to any other allegation of noncompliance with paragraph (2) of this subsection or any substantially similar terms contained in a permit for the discharge of storm water issued pursuant to of O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act". As used in this subsection the terms "proper design" and "properly designed" mean designed in accordance with the hydraulic design specifications contained in the "Manual for Erosion and Sediment Control in Georgia" specified in O.C.G.A. § 12-7-6(b).
+(2)
+A discharge of storm water runoff from disturbed areas where best management practices have not been properly designed, installed, and maintained shall constitute a separate violation of any land-disturbing permit issued by a local issuing authority or of any state general permit issued by the division pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act", for each day on which such discharge results in the turbidity of receiving waters being increased by more than 25 nephelometric turbidity units for waters supporting warm water fisheries or by more than ten nephelometric turbidity units for waters classified as trout waters. The turbidity of the receiving waters shall be measured in accordance with guidelines to be issued by the director. This paragraph shall not apply to any land disturbance associated with the construction of single-family homes which are not part of a larger common plan of development or sale unless the planned disturbance for such construction is equal to or greater than five acres.
+(3)
+Failure to properly design, install, or maintain best management practices shall constitute a violation of any land-disturbing permit issued by a local issuing authority or of any state general permit issued by the division pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act", for each day on which such failure occurs.
+(4)
+The director may require, in accordance with regulations adopted by the board, reasonable and prudent monitoring of the turbidity level of receiving waters into which discharges from land disturbing activities occur.
+(5)
+The LIA may set more stringent buffer requirements than stated in subsections (c)(15) and (16), in light of O.C.G.A. § 12-7-6(c).
+(c)
+The rules and regulations, ordinances, or resolutions adopted pursuant to O.C.G.A. § 12-7-1 et seq. for the purpose of governing land-disturbing activities shall require, as a minimum, protections at least as stringent as the state general permit; and best management practices, including sound conservation and engineering practices to prevent and minimize erosion and resultant sedimentation, which are consistent with, and no less stringent than, those practices contained in the Manual for Erosion and Sediment Control in Georgia published by the state soil and water conservation commission as of January 1 of the year in which the land-disturbing activity was permitted, as well as the following:
+(1)
+Stripping of vegetation, regrading and other development activities shall be conducted in a manner so as to minimize erosion;
+(2)
+Cut-fill operations must be kept to a minimum;
+(3)
+Development plans must conform to topography and soil type so as to create the lowest practicable erosion potential;
+(4)
+Whenever feasible, natural vegetation shall be retained, protected and supplemented;
+(5)
+The disturbed area and the duration of exposure to erosive elements shall be kept to a practicable minimum;
+(6)
+Disturbed soil shall be stabilized as quickly as practicable;
+(7)
+Temporary vegetation or mulching shall be employed to protect exposed critical areas during development;
+(8)
+Permanent vegetation and structural erosion control practices shall be installed as soon as practicable;
+(9)
+To the extent necessary, sediment in run-off water must be trapped by the use of debris basins, sediment basins, silt traps, or similar measures until the disturbed area is stabilized. As used in this paragraph, a disturbed area is stabilized when it is brought to a condition of continuous compliance with the requirements of O.C.G.A. § 12-7-1 et seq.;
+(10)
+Adequate provisions must be provided to minimize damage from surface water to the cut face of excavations or the sloping of fills;
+(11)
+Cuts and fills may not endanger adjoining property;
+(12)
+Fills may not encroach upon natural watercourses or constructed channels in a manner so as to adversely affect other property owners;
+(13)
+Grading equipment must cross flowing streams by means of bridges or culverts except when such methods are not feasible, provided, in any case, that such crossings are kept to a minimum;
+(14)
+Land-disturbing activity plans for erosion, sedimentation and pollution control shall include provisions for treatment or control of any source of sediments and adequate sedimentation control facilities to retain sediments on-site or preclude sedimentation of adjacent waters beyond the levels specified in subsection (b)(2);
+(15)
+Except as provided in paragraph (16) of this subsection, there is established a 25-foot buffer along the banks of all state waters, as measured horizontally from the point where vegetation has been wrested by normal stream flow or wave action, except where the director determines to allow a variance that is at least as protective of natural resources and the environment, where otherwise allowed by the director pursuant to O.C.G.A. § 12-2-8, where a drainage structure or a roadway drainage structure must be constructed, provided that adequate erosion control measures are incorporated in the project plans and specifications, and are implemented; or along any ephemeral stream. As used in this provision, the term "ephemeral stream" means a stream: that under normal circumstances has water flowing only during and for a short duration after precipitation events; that has the channel located above the groundwater table year round; for which ground water is not a source of water; and for which runoff from precipitation is the primary source of water flow, Unless exempted as along an ephemeral stream, the buffers of at least 25 feet established pursuant to O.C.G.A. tit. 12, ch. 5, art. 5, pt. 6 the "Georgia Water Quality Control Act", shall remain in force unless a variance is granted by the director as provided in this paragraph. The following requirements shall apply to any such buffer:
+a.
+No land-disturbing activities shall be conducted within a buffer and a buffer shall remain in its natural, undisturbed state of vegetation until all land-disturbing activities on the construction site are completed. Once the final stabilization of the site is achieved, a buffer may be thinned or trimmed of vegetation as long as a protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed; provided, however, that any person constructing a single-family residence, when such residence is constructed by or under contract with the owner for his or her own occupancy, may thin or trim vegetation in a buffer at any time as long as protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed; and
+b.
+The buffer shall not apply to the following land-disturbing activities, provided that they occur at an angle, as measured from the point of crossing, within 25 degrees of perpendicular to the stream; cause a width of disturbance of not more than 50 feet within the buffer; and adequate erosion control measures are incorporated into the project plans and specifications and are implemented: (i) stream crossings for water lines; or (ii) stream crossings for sewer lines; and
+(16)
+There is established a 50-foot buffer as measured horizontally from the point where vegetation has been wrested by normal stream flow or wave action, along the banks of any state waters classified as "trout streams" pursuant to O.C.G.A. tit. 12, ch. 5, art. 2, the "Georgia Water Quality Control Act", except where a roadway drainage structure must be constructed; provided, however, that small springs and streams classified as trout streams which discharge an average annual flow of 25 gallons per minute or less shall have a 25-foot buffer or they may be piped, at the discretion of the landowner, pursuant to the terms of a rule providing for a general variance promulgated by the board, so long as any such pipe stops short of the downstream landowner's property and the landowner complies with the buffer requirement for any adjacent trout streams. The director may grant a variance from such buffer to allow land-disturbing activity, provided that adequate erosion control measures are incorporated in the project plans and specifications and are implemented. The following requirements shall apply to such buffer:
+a.
+No land-disturbing activities shall be conducted within a buffer and a buffer shall remain in its natural, undisturbed, state of vegetation until all land-disturbing activities on the construction site are completed. Once the final stabilization of the site is achieved, a buffer may be thinned or trimmed of vegetation as long as a protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed: provided, however, that any person constructing a single-family residence, when such residence is constructed by or under contract with the owner for his or her own occupancy, may thin or trim vegetation in a buffer at any time as long as protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed; and
+b.
+The buffer shall not apply to the following land-disturbing activities, provided that they occur at an angle, as measured from the point of crossing, within 25 degrees of perpendicular to the stream; cause a width of disturbance of not more than 50 feet within the buffer; and adequate erosion control measures are incorporated into the project plans and specifications and are implemented: (i) stream crossings for water lines; or (ii) stream crossings for sewer lines.
+(d)
+Nothing contained in O.C.G.A. § 12-7-1 et seq. shall prevent any local issuing authority from adopting rules and regulations, ordinances, or resolutions which contain stream buffer requirements that exceed the minimum requirements in subsections (b) and (c).
+(e)
+The fact that land-disturbing activity for which a permit has been issued results in injury to the property of another shall neither constitute proof of nor create a presumption of a violation of the standards provided for in this article or the terms of the permit.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-35. - Application/permit process.
+(a)
+General. The property owner, developer and designated planners and engineers shall design and review before submittal the general development plans. The local issuing authority shall review the tract to be developed and the area surrounding it. They shall consult the zoning ordinance, storm water management ordinance, subdivision ordinance, flood damage prevention ordinance, this article, and any other ordinances, rules, regulations or permits, which regulate the development of land within the jurisdictional boundaries of the local issuing authority. However, the owner and/or operator are the only parties who may obtain a permit.
+(b)
+Application requirements.
+(1)
+No person shall conduct any land-disturbing activity within the jurisdictional boundaries of the city without first obtaining a permit from the planning and development department to perform such activity and providing a copy of notice of intent submitted to EPD if applicable.
+(2)
+The application for a permit shall be submitted to the planning and development department and must include the applicant's erosion, sedimentation and pollution control plan with supporting data, as necessary. Said plans shall include, as a minimum, the data specified in subsection (c). Erosion, sedimentation and pollution control plans, together with supporting data, must demonstrate affirmatively that the land disturbing activity proposed will be carried out in such a manner that the provisions of subsections 42-34(b) and (c) will be met. Applications for a permit will not be accepted unless accompanied by three copies of the applicant's erosion, sedimentation and pollution control plans. All applications shall contain a certification stating that the plan preparer or the designee thereof visited the site prior to creation of the plan in accordance with EPD Rule 391-3-7-.10.
+(3)
+In addition to the local permitting fees, fees will also be assessed pursuant to O.C.G.A. § 12-5-23(a)(5), provided that such fees shall not exceed $80.00 per acre of land-disturbing activity, and these fees shall be calculated and paid by the primary permittee as defined in the state general permit for each acre of land-disturbing activity included in the planned development or each phase of development. All applicable fees shall be paid prior to issuance of the land disturbance permit. In a jurisdiction that is certified pursuant to O.C.G.A. § 12-7-8(a), one-half of such fees levied shall be submitted to the division; except that any and all fees due from an entity which is required to give notice pursuant to O.C.G.A. § 12-7-17(9) or (10) shall be submitted in full to the division, regardless of the existence of a local issuing authority in the jurisdiction.
+(4)
+Immediately upon receipt of an application and plan for a permit, the local issuing authority shall refer the application and plan to the district for its review and approval or disapproval concerning the adequacy of the erosion, sedimentation and pollution control plan. The district shall approve or disapprove a plan within 35 days of receipt. Failure of the district to act within 35 days shall be considered an approval of the pending plan. The results of the district review shall be forwarded to the local issuing authority. No permit will be issued unless the plan has been approved by the district, and any variances required by subsections 42-34(c)(15) and (16). has been obtained, all fees have been paid, and bonding, if required as per subsection (b)(6), have been obtained. Such review will not be required if the local issuing authority and the district have entered into an agreement which allows the local issuing authority to conduct such review and approval of the plan without referring the application and plan to the district. The local issuing authority with plan review authority shall approve or disapprove a revised plan submittal within 35 days of receipt. Failure of the local issuing authority with plan review authority to act within 35 days shall be considered an approval of the revised plan submittal.
+(5)
+If a permit applicant has had two or more violations of previous permits, this section, or the Erosion and Sedimentation Act, as amended, within three years prior to the date of filing the application under consideration, the local issuing authority may deny the permit application.
+(6)
+The local issuing authority may require the permit applicant to post a bond in the form of government security, cash, irrevocable letter of credit, or any combination thereof up to, but not exceeding, $3,000.00 per acre or fraction thereof of the proposed land-disturbing activity, prior to issuing the permit. If the applicant does not comply with this section or with the conditions of the permit after issuance, the local issuing authority may call the bond or any part thereof to be forfeited and may use the proceeds to hire a contractor to stabilize the site of the land-disturbing activity and bring it into compliance. These provisions shall not apply unless there is in effect an ordinance or statute specifically providing for hearing and judicial review of any determination or order of the local issuing authority with respect to alleged permit violations.
+(c)
+Plan requirements.
+(1)
+Plans must be prepared to meet the minimum requirements as contained in subsections 42-34(b) and (c), or through the use of more stringent, alternate design criteria which conform to sound conservation and engineering practices. The Manual for Erosion and Sediment Control in Georgia is hereby incorporated by reference into this article. The plan for the land-disturbing activity shall consider the interrelationship of the soil types, geological and hydrological characteristics, topography, watershed, vegetation, proposed permanent structures including roadways, constructed waterways, sediment control and storm water management facilities, local ordinances and state laws. Maps, drawings and supportive computations shall bear the signature and seal of the certified design professional. Persons involved in land development design, review, permitting, construction, monitoring, or inspections or any land disturbing activity shall meet the education and training certification requirements, dependent on his or her level of involvement with the process, as developed by the commission and in consultation with the division and the stakeholder advisory board created pursuant to O.C.G.A. § 12-7-20.
+(2)
+Data required for site plan shall include all the information required from the appropriate erosion, sedimentation and pollution control plan review checklist established by the commission as of January 1 of the year in which the land-disturbing activity was permitted.
+(d)
+Permits.
+(1)
+Permits shall be issued or denied as soon as practicable but in any event not later than 45 days after receipt by the local issuing authority of a completed application, providing variances and bonding are obtained, where necessary and all applicable fees have been paid prior to permit issuance. The permit shall include conditions under which the activity may be undertaken.
+(2)
+No permit shall be issued by the local issuing authority unless the erosion, sedimentation and pollution control plan has been approved by the district and the local issuing authority has affirmatively determined that the plan is in compliance with this article, any variances required by subsection 42-34(c)(15) and (16) are obtained, bonding requirements, if necessary, as per subsection (b)(6) are met and all ordinances and rules and regulations in effect within the jurisdictional boundaries of the local issuing authority are met. If the permit is denied, the reason for denial shall be furnished to the applicant.
+(3)
+Any land-disturbing activities by a local issuing authority shall be subject to the same requirements of this article, and any other ordinances relating to land development, as are applied to private persons and the division shall enforce such requirements upon the local issuing authority.
+(4)
+If the tract is to be developed in phases, then a separate permit shall be required for each phase.
+(5)
+The permit may be suspended, revoked, or modified by the local issuing authority, as to all or any portion of the land affected by the plan, upon finding that the holder or his successor in the title is not in compliance with the approved erosion and sedimentation control plan or that the holder or his successor in title is in violation of this article. A holder of a permit shall notify any successor in title to him as to all or any portion of the land affected by the approved plan of the conditions contained in the permit.
+(6)
+The LIA may reject a permit application if the applicant has had two or more violations of previous permits or the Erosion and Sedimentation Act permit requirements within three years prior to the date of the application, in light of O.C.G.A. § 12-7-7(f)(1).
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-36. - Inspection and enforcement.
+(a)
+The planning and development department will periodically inspect the sites of land-disturbing activities for which permits have been issued to determine if the activities are being conducted in accordance with the plan and if the measures required in the plan are effective in controlling erosion and sedimentation. Also, the local issuing authority shall regulate primary, secondary and tertiary permittees as such terms are defined in the state general permit. Primary permittees shall be responsible for installation and maintenance of best management practices where the primary permittee is conducting land-disturbing activities. Secondary permittees shall be responsible for installation and maintenance of best management practices where the secondary permittee is conducting land-disturbing activities. Tertiary permittees shall be responsible for installation and maintenance where the tertiary permittee is conducting land-disturbing activities. If, through inspection, it is deemed that a person engaged in land-disturbing activities as defined herein has failed to comply with the approved plan, with permit conditions, or with the provisions of this article, a written notice to comply shall be served upon that person. The notice shall set forth the measures necessary to achieve compliance and shall state the time within which such measures must be completed. If the person engaged in the land-disturbing activity fails to comply within the time specified, he shall be deemed in violation of this article.
+(b)
+The local issuing authority must amend its ordinances to the extent appropriate within 12 months of any amendments to the Erosion and Sedimentation Act of 1975.
+(c)
+The planning and development department shall have the power to conduct such investigations as it may reasonably deem necessary to carry out duties as prescribed in this article, and for this purpose to enter at reasonable times upon any property, public or private, for the purpose of investigation and inspecting the sites of land-disturbing activities.
+(d)
+No person shall refuse entry or access to any authorized representative or agent of the local issuing authority, the commission, the district, or division who requests entry for the purposes of inspection, and who presents appropriate credentials, nor shall any person obstruct, hamper or interfere with any such representative while in the process of carrying out his official duties.
+(e)
+The district or the commission or both shall semi-annually review the actions of counties and municipalities which have been certified as local issuing authorities pursuant to O.C.G.A. § 12-7-8(a). The district or the commission or both may provide technical assistance to any county or municipality for the purpose of improving the effectiveness of the county's or municipality's erosion, sedimentation and pollution control program. The district or the commission shall notify the division and request investigation by the division if any deficient or ineffective local program is found.
+(f)
+The division may periodically review the actions of counties and municipalities which have been certified as local issuing authorities pursuant to O.C.G.A. § 12-7-8(a). Such review may include, but shall not be limited to, review of the administration and enforcement of a governing authority's ordinance and review of conformance with an agreement, if any, between the district and the governing authority. If such review indicates that the governing authority of any county or municipality certified pursuant to O.C.G.A. § 12-7-8(a) has not administered or enforced its ordinances or has not conducted the program in accordance with any agreement entered into pursuant to O.C.G.A. § 12-7-7(e), the division shall notify the governing authority of the county or municipality in writing. The governing authority of any county or municipality so notified shall have 90 days within which to take the necessary corrective action to retain certification as a local issuing authority. If the county or municipality does not take necessary corrective action within 90 days after notification by the division, the division shall revoke the certification of the county or municipality as a local issuing authority.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-37. - Penalties and incentives.
+(a)
+Failure to obtain a permit for land-disturbing activity. If any person commences any land-disturbing activity requiring a land-disturbing permit as prescribed in this article without first obtaining said permit, the person shall be subject to revocation of his business license, work permit or other authorization for the conduct of a business and associated work activities within the jurisdictional boundaries of the local issuing authority.
+(b)
+Stop-work orders.
+(1)
+For the first and second violations of the provisions of this article, the director or the local issuing authority shall issue a written warning to the violator. The violator shall have five days to correct the violation. If the violation is not corrected within five days, the director or the local issuing authority shall issue a stop-work order requiring that land-disturbing activities be stopped until necessary corrective action or mitigation has occurred; provided, however, that, if the violation presents an imminent threat to public health or waters of the state or if the land-disturbing activities are conducted without obtaining the necessary permit, the director or the local issuing authority shall issue an immediate stop-work order in lieu of a warning;
+(2)
+For a third and each subsequent violation, the director or the local issuing authority shall issue an immediate stop-work order; and
+(3)
+All stop-work orders shall be effective immediately upon issuance and shall be in effect until the necessary corrective action or mitigation has occurred.
+(4)
+When a violation in the form of taking action without a permit, failure to maintain a stream buffer, or significant amounts of sediment, as determined by the local issuing authority or by the director or his or her designee, have been or are being discharged into state waters and where best management practices have not been properly designed, installed, and maintained, a stop work order shall be issued by the local issuing authority or by the director or his or her designee. All such stop work orders shall be effective immediately upon issuance and shall be in effect until the necessary corrective action or mitigation has occurred. Such stop work orders shall apply to all land-disturbing activity on the site with the exception of the installation and maintenance of temporary or permanent erosion and sediment controls.
+(c)
+Bond forfeiture. If, through inspection, it is determined that a person engaged in land-disturbing activities has failed to comply with the approved plan, a written notice to comply shall be served upon that person. The notice shall set forth the measures necessary to achieve compliance with the plan and shall state the time within which such measures must be completed. If the person engaged in the land-disturbing activity fails to comply within the time specified, he shall be deemed in violation of this article and, in addition to other penalties, shall be deemed to have forfeited his performance bond, if required to post one under the provisions of subsection 42-35(b)(6). The local issuing authority may call the bond or any part thereof to be forfeited and may use the proceeds to hire a contractor to stabilize the site of the land-disturbing activity and bring it into compliance.
+(d)
+Monetary penalties. Any person who violates any provisions of this article, or any permit condition or limitation established pursuant to this article, or who negligently or intentionally fails or refuses to comply with any final or emergency order of the director issued as provided in this article shall be liable for a civil penalty not to exceed $2,500.00 per day. For the purpose of enforcing the provisions of this article, notwithstanding any provisions in any city charter to the contrary, municipal courts shall be authorized to impose penalty not to exceed $2,500.00 for each violation. Notwithstanding any limitation of law as to penalties which can be assessed for violations of county ordinances, any magistrate court or any other court of competent jurisdiction trying cases brought as violations of this article under county ordinances approved under this article shall be authorized to impose penalties for such violations not to exceed $2,500.00 for each violation. Each day during which violation or failure or refusal to comply continues shall be a separate violation.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-38. - Education and certification.
+(a)
+Persons involved in land development design, review, permitting, construction, monitoring, or inspection or any land-disturbing activity shall meet the education and training certification requirements, dependent on their level of involvement with the process, as developed by the commission in consultation with the division and the stakeholder advisory board created pursuant to O.C.G.A. § 12-7-20.
+(b)
+For each site on which land-disturbing activity occurs, each entity or person acting as either a primary, secondary, or tertiary permittee, as defined in the state general permit, shall have as a minimum one person who is in responsible charge of erosion and sedimentation control activities on behalf of said entity or person and meets the applicable education or training certification requirements developed by the commission present on site whenever land-disturbing activities are conducted on that site. A project site shall herein be defined as any land-disturbance site or multiple sites within a larger common plan of development or sale permitted by an owner or operator for compliance with the state general permit.
+(c)
+Persons or entities involved in projects not requiring a state general permit but otherwise requiring certified personnel on site may contract with certified persons to meet the requirements of this article.
+(d)
+If a state general permittee who has operational control of land-disturbing activities for a site has met the certification requirements of O.C.G.A. § 12-7-19(b)(1), then any person or entity involved in land-disturbing activity at that site and operating in a subcontractor capacity for such permittee shall meet those educational requirements specified in O.C.G.A § 12-7-19(b)(4) and shall not be required to meet any educational requirements that exceed those specified in said paragraph.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-39. - Administrative appeal judicial review.
+(a)
+Administrative remedies. The suspension, revocation, modification or grant with condition of a permit by the local issuing authority upon finding that the holder is not in compliance with the approved erosion, sediment and pollution control plan; or that the holder is in violation of permit conditions; or that the holder is in violation of any ordinance; shall entitle the person submitting the plan or holding the permit to a hearing before the mayor and aldermen within 30 days after receipt by the local issuing authority of written notice of appeal.
+(b)
+Judicial review. Any person, aggrieved by a decision or order of the local issuing authority, after exhausting his administrative remedies, shall have the right to appeal de novo to the superior court of Baldwin County.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Sec. 42-40. - Effectivity, validity and liability.
+(a)
+Effectivity. This article shall become effective on the 9th day of February, 2010.
+(b)
+Validity. If any section, paragraph, clause, phrase, or provision of this article shall be adjudged invalid or held unconstitutional, such decisions shall not affect the remaining portions of this article.
+(c)
+Liability.
+(1)
+Neither the approval of a plan under the provisions of this article, nor the compliance with provisions of this article shall relieve any person from the responsibility for damage to any person or property otherwise imposed by law nor impose any liability upon the local issuing authority or district for damage to any person or property.
+(2)
+The fact that a land-disturbing activity for which a permit has been issued results in injury to the property of another shall neither constitute proof of nor create a presumption of a violation of the standards provided for in this article or the terms of the permit.
+(3)
+No provision of this article shall permit any persons to violate the Georgia Erosion and Sedimentation Act of 1975, the Georgia Water Quality Control Act or the rules and regulations promulgated and approved there under or pollute any waters of the state as defined thereby.
+(Ord. No. O-1001-001, Exh. A, 2-9-2010)
+Secs. 42-41—42-75. - Reserved.
+ARTICLE III. - WATER RESOURCE PROTECTION[3]
+
+Footnotes:
+--- (3) ---
+Editor's note— Ord. No. O-01-11, adopted October 9, 2001, did not specify manner of inclusion; hence, inclusion as article III, sections 42-76—42-82 is at the discretion of the editor.
+
+Sec. 42-76. - Purpose.
+The intent of this section is to establish minimum development standards and criteria which will afford reasonable protection of environmentally sensitive natural resources found throughout the city. It has been determined the wise management of these resources as defined in this section is essential to maintaining the health, safety, general welfare and economic well-being of the public.
+(Ord. No. O-01-11, 10-9-2001)
+Sec. 42-77. - Establishment of water resource districts.
+The city's water resource districts shall include the following:
+Groundwater Recharge Area Protection District
+Wetlands Protection District
+Water Supply Watershed Protection District
+River Corridor Protection District
+The boundaries of these water resource districts are shown on a set of maps designated as "Water Resource Districts" and are included as part of the city's official zoning map, which is on file in the building inspector's office located on Wilkinson Street.
+(Ord. No. O-01-11, 10-9-2001)
+Sec. 42-78. - Definitions.
+In addition to the general definitions provided in the ordinance from which this section derives, the following definitions shall apply to this section:
+Aquifer means any stratum or zone of rock beneath the surface of the earth capable of containing or producing water from a well.
+Buffer means a natural or enhanced vegetated area with no or limited minor land disturbances, such as trails and picnic areas, located adjacent to reservoirs or perennial streams within a water supply watershed.
+Corridor means all land within the buffer areas established adjacent to reservoirs or perennial streams within a water supply watershed and within other setback areas specified in section 42-81.
+Drastic means the standardized system for evaluating groundwater pollution potential using the hydrogeologic settings described in the U.S. Environmental Protection Agency Document EPA-600-87-035 (Note: The Drastic methodology is most widely used technique for evaluating pollution susceptibility).
+Generalized wetlands map means the current U.S. Fish and Wildlife Service National Wetlands Inventory Maps for the City of Milledgeville, Georgia.
+Hazardous waste means any solid waste which has been defined as a hazardous waste in regulations promulgated by the administrator of the United States Environmental Protection Agency pursuant to the federal act, which are in force and effect on February 1, 1988, codified as 40 C. F. R. Section 261.3. (Note: This is same definition as used in the Georgia Hazardous Waste Management Act.)
+Impervious surface means a man-made structure or surface that prevents the infiltration of stormwater into the ground below the structure or surface. Examples are buildings, roads, driveways, parking lots, decks, swimming pools, or patios.
+Jurisdictional wetland means an area that needs the definitional requirements for wetlands as determined by the U.S. Army Corps of Engineers.
+Jurisdictional wetland determination means a delineation of jurisdictional wetland boundaries by the U.S. Army Corps of Engineers as required by Section 404 of the Clean Water Act, 33 U.S.C. § 1344, as amended.
+Land-disturbing activity means any grading, scraping, excavating, or filling of land; clearing of vegetation; and any construction, rebuilding, or alteration of a structure. Land-disturbing activity shall not include activities such as ordinary maintenance and landscaping operations, individual home gardens, yard and grounds upkeep, repairs, additions or minor modifications to a single-family dwelling, and the cutting of firewood for personal use.
+Large water supply watershed means a watershed containing 100 square miles or more of land within the drainage basin upstream of a governmentally-owned public drinking water supply intake.
+Natural vegetative buffer or buffer area means a river corridor containing the flora native to that area. The natural floras for specific areas are described in Georgia Geologic Survey Bulletin 114, "the Natural Environments of Georgia." Habitats for endangered and threatened species may require human management of the river corridor in order to maintain those species.
+Perennial river means a river or section of a river that flows continuously throughout the year.
+Perennial stream means a stream that flows throughout the whole year as indicated on a USGS Quad Map.
+Pollution susceptibility means the relative vulnerability of an aquifer to being polluted from spills, discharges, leaks, impoundments, applications of chemicals, injections and other human activities in the recharge area.
+Pollution susceptibility map means the relative vulnerability to pollution prepared by the Department of Natural Resources using the Drastic methodology. (Georgia Department of Natural Resources Hydrologic Atlas 20: Groundwater Pollution Susceptibility Map of Georgia.)
+Protected river means any perennial river or watercourse with an average annual flow of at least 400 cubic feet per second as determined by appropriate U.S. Geological Survey documents. However, those segments of river covered by the Metropolitan River Protection Act or the Coastal Marshlands Protection Act are specifically excluded from the definition of a protected river.
+Recharge area means any portion of the earth's surface where water infiltrates into the ground to replenish an aquifer.
+Regulated activity means any activity which will or which may reasonably be expected to result in the discharge of dredged or fill material into the waters of the U.S. excepting those activities exempted in Section 404 of the Federal Clean Water Act.
+Reservoir boundary means the edge of a water supply reservoir defined by its normal pool level.
+River bank means the rising ground, bordering a river, which serves to confine the water to the natural channel during the normal course of flow.
+River corridor means all the land, inclusive of islands, not regulated under the Metropolitan River Protection Act (O.C.G.A. §§ 12-5-440 through 12-5-457), or the Coastal Marshlands Protection Act (O.C.G.A. §§ 12-5-280 through 12-5-293), in areas of a protected river and being within 100 feet horizontally on both sides of the river as measured from the river banks.
+The 100-foot buffer shall be measured horizontally from the upper most part of the river banks, usually marked by a break-in slope. Although not within the measured 100-foot wide buffer, the area between the top of the bank and the edge of the river shall be treated by the local governments in the same manner as the river corridor and shall be included within the River Corridor Protection District.
+Because stream channels move due to natural processes such as meandering river bank erosion and jumping of channels, the river corridor may shift with time. For the purposes of these standards, the river corridor shall be considered to be fixed at its position at the beginning of each review period for the city comprehensive plan. Any shift in the location of the protected river after the review period will be shown by revision of the boundaries of the river corridor at the time of the next comprehensive plan review by the department of community affairs.
+Sensitive natural area means any area, as identified now or hereafter by the department of natural resources, which contains one or more of the following:
+(1)
+Habitat, including nesting sites, occupied by rare or endangered species;
+(2)
+Rare or exemplary natural communities;
+(3)
+Significant landforms, hydroforms, or geological features; or
+(4)
+Other areas so designated by the department of natural resources and which are sensitive or vulnerable to physical or biological alteration.
+Significant recharge areas means those areas mapped by the state department of natural resources in Hydrologic Atlas 18 (1989 Edition).
+Single-family dwelling means a dwelling structure that is designed for the use of one family.
+Small water supply watershed means a watershed that contains less than 100 square miles of land within the drainage basin upstream of a governmentally-owned public drinking water supply intake.
+Utility means public or private water or sewer piping systems, water or sewer pumping stations, electric power lines, fuel pipelines, telephone lines, roads, driveways, bridges, river/lake access facilities, storm water systems and railroads or other utilities identified by a local government.
+Water resource district means a water resource district is a map overlay which imposes a set of requirements in addition to those of the underlying zoning district.
+Water supply reservoir means a governmentally-owned impoundment of water for the primary purpose of providing water to one or more governmentally-owned public drinking water systems. This excludes the multi-purpose reservoirs owned by the U.S. Army Corps of Engineers.
+Water supply watershed means the area of land upstream of a governmentally-owned public drinking water intake.
+Wetlands means those areas inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs and similar areas. The ecological parameters for designating wetlands include hydric soils, hydrological vegetation and hydrological conditions involving a temporary or permanent source of water to cause soil saturation.
+(Ord. No. O-01-11, 10-9-2001)
+Sec. 42-79. - Groundwater recharge area protection district.
+(a)
+Findings of fact. Recharge areas are vulnerable to urban development activities as well as agricultural activities. Pesticides, herbicides, sprayed on crops, animal waste and septic tank effluents contribute to a deterioration in the groundwater quality and can threaten the health of residents relying on well water. Development usually means an increase in the amount of land covered with impervious surfaces. Paving land in recharge areas can alter or impair their recharge characteristics thereby decreasing groundwater supplies.
+(b)
+Purpose. The purpose of this district is to establish criteria to protect significant groundwater recharge areas from pollution by spills, discharges, leaks, impoundments, application of chemicals, injections and other development pressures.
+(c)
+District delineation. The groundwater recharge area protection district is delineated according to the Georgia Department of Natural Resources' "Most Significant Groundwater Recharge Areas of Georgia Hydrologic Atlas 18 (1989 Edition)." Each recharge area shall be determined to have a pollution susceptibility of high, medium, or low based on the "Georgia Pollution Susceptibility Map Atlas 20, 1992 Edition." Said maps are hereby adopted and made a part of this article.
+(d)
+Permitted uses. All uses allowed in the underlying zoning districts are permitted in the groundwater recharge area protection district. The following are additional requirements for specific uses:
+(1)
+New aboveground chemical or petroleum storage tanks, having a minimum volume of 660 gallons, shall have secondary containment for 110 percent of the volume of such tanks or 110 percent of the volume of the largest tank in a cluster of tanks. Such tanks used for agricultural purposes are exempt provided they comply with all federal requirements.
+(2)
+New agricultural waste impoundment sites shall be lined if they are within:
+a.
+A high pollution susceptibility area;
+b.
+A medium pollution susceptibility area and exceed 15 acre-feet in size; and
+c.
+A low pollution susceptibility area and exceed 50 acre-feet in size.
+As a minimum, the liner shall be constructed of compacted clay having a thickness of one foot and a vertical hydraulic conductivity of less than 5 x 10- 7 cm/sec or other criteria established by the national resource and conservation service.
+(3)
+New homes served by septic tank/drain field systems shall be on lots having the following minimum size limitations as identified on Table MT-1 of the Department of Human Resources' Manual for On-Site Sewage Management Systems (hereafter DHR Table MT-1). The minimum set forth in Table MT-1 may be increased further based on consideration of other factors (set forth in Sections A—F) of the DHR Manual.
+a.
+One hundred fifty percent of the subdivision minimum lot size calculated based on application of DHR Table MT-1 if they are within a high pollution susceptibility area;
+b.
+One hundred twenty-five percent of the subdivision minimum lot size calculated based on application of DHR Table MT-1 if they are within a medium pollution susceptibility area;
+c.
+One hundred ten percent of the subdivision minimum lot size calculated based on application of DHR Table MT-1 if they are within a low pollution susceptibility area.
+(4)
+New manufactured home parks served by septic tank/drain field systems shall have lots or spaces having the following size limitation as identified on Table MT-2 of the Department of Human Resources' (DHR) Manual for On-Site Sewage Management Systems (hereafter DHR Table MT-2). The minimums set forth in Table MT-2 may be increased further based on consideration of other factors (set forth in Sections A—F) of the DHR Manual.
+a.
+One hundred fifty percent of the subdivision minimum lot or space size calculated based on application of DHR Table MT-2 if they are within a high pollution susceptibility area;
+b.
+One hundred twenty-five percent of the subdivision minimum lot or space size calculated based on application of DHR Table MT-2 if they are within a medium pollution susceptibility area; and
+c.
+One hundred ten percent of the subdivision minimum lot size or space size calculated based on application of DHR Table MT-2 if they are within a low pollution susceptibility area.
+(5)
+No construction may proceed on a building or manufactured home to be served by a septic tank unless the Baldwin County Health Department first approves the proposed septic tank installation as meeting the requirements of the Georgia Department of Human Resources Manual for On-Site Sewage Management (hereinafter DHR Manual and subsections (3) and (4) above.
+(6)
+New facilities which handle hazardous materials, of the types (listed in Section 312 of the Resource Conservation and Recovery Act of 1976, excluding underground storage tanks) and in amounts 10,000 pounds or more on any one day shall perform their operations on impervious surfaces and in conformance with any applicable federal spill prevention requirements and any local fire prevention code requirements.
+(7)
+Permanent storm water infiltration basins shall not be constructed in areas having high pollution susceptibility.
+TABLE MT-1
+NEW HOMES MINIMUM LOT SIZES, MINIMUM LOT WIDTHS AND MAXIMUM ALLOWABLE SEWAGE FLOW FOR THE TYPE OF WATER SUPPLY SYSTEM
+EXPAND
+Type of Water Supply System
+Non-Public * (Individual) Public
+Minimum Lot Size 43,560 square feet 21,780 square feet
+Minimum Lot Width 150 feet 100 feet
+Maximum Sewage Flow 600 gpad ** 1,200 gpad
+  * In this context, "non-public" means an individual water supply system or any other water supply system which is not a "public" water supply system.
+** Gpad = gallons per acre per day = gal/acre/day.
+TABLE MT-2
+MANUFACTURED HOME PARKS MINIMUM LOT SIZES, MINIMUM LOT WIDTHS AND MAXIMUM ALLOWABLE SEWAGE FLOW FOR THE TYPE OF WATER SUPPLY SYSTEM
+EXPAND
+Type of Water Supply System
+Non-Public * (Individual) Public
+Minimum Lot Size 43,560 square feet 21,780 square feet
+Minimum Lot Width 150 feet 100 feet
+Maximum Sewage Flow 600 gpad ** 1.200 gpad
+  * In this context, "non-public" means an individual water supply system or any other water supply system which is not a "public" water supply system.
+** Gpad = gallons per acre per day = gal/acre/day.
+Notes to Tables
+Section A. The above minimum lot sizes are for the typical size home (three- or four-bedroom) with basic appurtenances such as: driveway, minimum number of trees and water supply line. If larger homes, swimming pools, tennis courts or outbuildings, etc. are proposed for construction or if trees would interfere with installation of an on-site sewage management system, the Baldwin County Board of Health will require larger lots to assure usable soil area.
+Section B. The Baldwin County Board of Health may also require larger lot sizes when physical factors indicate the need to do so. These factors include, but are not limited to, the availability of sufficient unobstructed land areas for an approved on-site sewage management system and approved replacement system, slope greater than five percent, percolation rates higher than 45 minutes per inch, need for subsurface drainage or adverse topographic features.
+Section C. Lots shall be a minimum width of 100 feet or 150 feet measured within the area where an approved on-site sewage management system and replacement system are to be located when served by a public water supply system or nonpublic water supply system, respectively.
+Section D. The following land areas are not considered as a part of a lot when calculating the required minimum lot size: rights-of-way of roads, easements (such as power line or pipe line) that exclude installation of an on-site sewage management system, bodies of water, land within 50 feet of a lake, river, stream, wetland or other bodies of water and similar limiting factors.
+Section E. There must be an unobstructed area on each lot for installation of an approved on-site sewage management system and an area equal in size for a conventional system or larger area, as appropriate, for an approved replacement system; this will include sufficient area for necessary site modifications for installation of both the initial system and a replacement system. All pertinent county zoning setbacks and other space requirements must also be met.
+Section F. The maximum daily sewage flow for each lot or parcel of land shall not exceed 600 gpad when served by nonpublic or individual water supply system or 1,200 gpad when served by public water supply system. When sewage flows exceed these quantities (600 or 1,200 gpad as indicated) for a given dwelling structure, the minimum lot size or parcel of land shall be increased proportionally. Example: Assume a public water supply exists (so 1,200 gpad maximum sewage flow allowed per minimum required land area of 21,780 square feet), and there is a proposed sewage flow of 5,000 gpd. To determine the square footage of the lot needed, X, use the following formula:
+X =   5,000 gal/day
+1,200 gal/acre/day
+= 4.17 acres
+= 4.17 acres x 43,560 ft 2 /acre
+= 181,500 ft 2 area of land needed.
+Likewise, for a nonpublic (individual) water supply, to determine the square footage of the lot needed, Y, for a proposed sewage flow of 5,000 gpd, use the following formula:
+Y =   5,000 gal/day
+600 gal/acre/day
+= 8.33 acres
+= 8.33 acres x 43,560 ft 2 /acre
+= 363,000 ft 2 area of land needed.
+(e)
+Exemptions. Any lot of record approved prior to the adoption of this article is exempt from the minimum lot size requirements contained in subsections (d)(3) and (4).
+(Ord. No. O-01-11, 10-9-2001)
+Sec. 42-80. - Wetlands protection district.
+(a)
+Findings of fact. The wetlands within the city are indispensable and fragile natural resources with significant development constrains due to flooding, erosion and soil limitations. In their natural state, wetlands serve man and nature. They provide habitat areas for fish, wildlife and vegetation; water quality maintenance and pollution control; flood control; natural resource education; scientific study, and recreational opportunities.
+(b)
+Purpose. The purpose of this district is to promote the wise use of wetlands and protect them from alterations which will significantly affect or reduce the primary functions for water quality, flood plain and erosion control, groundwater recharge, aesthetic natural areas and wildlife habitat areas.
+(c)
+District delineation. The wetlands protection district is hereby established which shall correspond to all lands within the jurisdiction of the city that are mapped as wetland areas by the U.S. Fish and Wildlife National Wetlands Inventory Maps. This map shall be referred to as the generalized wetlands map and is hereby adopted by reference and declared to be part of this article, together with all explanatory matter thereon as attached thereto.
+The generalized wetlands map does not represent the boundaries of jurisdictional wetlands within the city and cannot serve as a substitute for a delineation of wetland boundaries by the U.S. Army Corps of Engineers, as required by Section 404 of the Clean Water Act, as amended. Any local government action under this article does not relieve the landowner from federal or state permitting requirements.
+(d)
+Wetland development permit requirements. No regulated activity or use except those identified in subsection (e) shall be allowed within the wetlands protection district without a development permit from the city. If the area proposed for development is located within 50 feet of a wetlands protection district boundary as determined by the zoning enforcement officer using the generalized wetlands map, a U.S. Army Corps of Engineers determination shall be required. If the corps determines that wetlands are present on the proposed development site, the development permit will not be granted until Section 404 [of the Clean Water Act] Permit or Letter of Permission is issued.
+(e)
+Permitted uses. The following uses are permitted by right within the wetlands protection district to the extent they are not prohibited by any other ordinance or law and provided they do not require structures, grading, fill, draining or dredging as provided herein. (These activities listed in this section are exempted from Section 404 [of the Act] regulations provided they do not have impacts on a navigable waterway that would necessitate acquisition of an individual 404 permit. However, under Section 10 of the Rivers and Harbors Act, a permit may be required in some circumstances.)
+(1)
+Forestry practices applied in accordance with best management practices approved by the state forestry commission and as specified in Section 404 of the Clean Water Act.
+(2)
+Conservation or preservation soil, water, vegetation, fish or other wildlife, provided it does not affect waters of the state or of the United States in such a way that would require an individual 404 permit.
+(3)
+Outdoor passive recreational activities, including fishing, bird watching, hiking, boating, horseback riding and canoeing.
+(4)
+The cultivation of agricultural crops. Agricultural activities shall be subject to best management practices approved by the state department of agriculture.
+(5)
+The pasturing of livestock, provided that riparian wetlands are protected, that soil profiles are not disturbed, and that approved agricultural best management practices are followed.
+(6)
+Education, scientific research and nature trails.
+(f)
+Prohibited uses. The following uses are prohibited in a wetlands protection district:
+(1)
+Receiving areas for toxic or hazardous waste or other contaminants.
+(2)
+Hazardous or sanitary landfills.
+(Ord. No. O-01-11, 10-9-2001)
+Sec. 42-81. - Water supply watershed protection district.
+(a)
+Purpose. In order to provide for the health, safety, and welfare of the public and a healthy economic climate within the city and surrounding communities, it is essential that the quality of public drinking water be assured. The ability of natural systems to filter storm water runoff can be threatened by unrestricted development. Land disturbing activities associated with development can increase erosion and sedimentation that threatens the storage capacity of reservoirs. In addition, storm water runoff, particularly from impervious surfaces, can introduce toxins, nutrients and sediment into drinking water supplies, making water treatment more complicated and expensive and rendering water resources unusable for recreation. Industrial land uses that involve the manufacture, use transport, and storage of hazardous or toxic waste materials result in the potential risk of contamination of nearby public drinking water supplies.
+The purpose of this article is to establish measures to protect the quality and quantity of the present and future water supply of the city; to minimize the transport of pollutants and sediment to the water supply; and to maintain the yield of the water supply watershed. This article shall apply to all existing and proposed water supply watersheds within the city.
+(b)
+Establishment of water supply watershed protection districts. The Oconee River water supply watershed protection districts are hereby designated and shall comprise the land that drains to the city water supply intakes. The boundaries of these overlays are defined by the ridgelines of the respective watersheds and the boundary of a radius of seven miles upstream of the respective public water supply intakes. These overlays shall be further delineated and defined on the water supply watershed protection district map of the city. The map is hereby incorporated into and made a part of this article by reference.
+The following water supply watershed districts are hereby defined, and the boundaries shall be identified on the water supply watershed protection district map.
+The Oconee River watershed is a large water supply watershed. The intakes for the city are located on the river. The water supply watershed does not contain a reservoir.
+(c)
+Protection criteria. The following regulations shall apply to the Oconee water supply watershed identified on the adopted map as a large water supply watershed without a reservoir.
+New facilities, located within seven miles of a water supply intake or water supply reservoir, which handle hazardous materials of the types listed in Section 312 of the Resource Conservation and Recovery Act of 1976 (excluding underground storage tanks) and amounts of 10,000 pounds or more on any one day, shall perform their operations on impervious surfaces and in conformance with any applicable federal spill prevention requirements or the requirements of the Standard Fire Prevention Code.
+(d)
+Exemptions. The following uses shall be exempted:
+(1)
+Land uses existing prior to the adoption of this article.
+(2)
+Mining activities permitted by the department of natural resources under the Surface Mining Act.
+(3)
+Utilities from the stream corridor buffer and setback area provisions in accordance with the following conditions if the utilities to be located in the buffer or setback areas cannot feasibly be located outside these areas:
+a.
+The utilities shall be located as far from the stream bank as reasonably possible.
+b.
+The installation and maintenance of the utilities shall be such to protect the integrity of the buffer and setback areas as best as reasonably possible.
+c.
+The utilities shall not impair the quality of the drinking water stream.
+(4)
+Specific forestry and agricultural activities in the stream corridor buffer and setback areas in accordance with the following conditions:
+a.
+The activity shall be consistent with best management practices established by the state forestry commission or the state department of agriculture.
+b.
+The activity shall not impair the quality of the drinking water stream.
+(Ord. No. O-01-11, 10-9-2001)
+Sec. 42-82. - River corridor protection district.
+(a)
+Purpose. River corridors are the strips of land that flank major rivers in the state. These corridors are of vital importance to the state in that they help preserve those qualities that make a river suitable as a habitat for wildlife, a site for recreation, and a source for clean drinking water. River corridors also allow the free movement of wildlife from area to area within the state, help control erosion and river sedimentation, and help absorb flood waters.
+The Oconee River has been designated as a protected river by the state. The purpose of this article is to establish measures to guide future growth and development in the areas adjacent to the Oconee River as defined herein.
+(b)
+Establishment of Oconee River Corridor protection district. The Oconee River Corridor Protection District is hereby designated and shall comprise all land, inclusive of islands, in areas of the Oconee River within the city and being within 100 feet horizontally on the west side, of the river as measured from the river banks. Also included is the area between the top of the bank and the edge of the river although this strip of land is not included as part of the 100-foot buffer requirement contained in the minimum standards. This district shall be further defined and delineated on the Oconee River Corridor protection district map. The map is hereby incorporated into and made a part of this article by reference.
+(c)
+Protection criteria.
+(1)
+Construction within the buffer area is prohibited except as provided herein.
+(2)
+A natural vegetative buffer shall be maintained at all times in the river corridor, except as otherwise provided herein.
+(3)
+The natural vegetative buffer shall be restored as quickly as possible following any land-disturbing activity.
+(4)
+Septic tank and septic tank drain fields are prohibited in the river corridor, except as expressly provided in subsection (c)(5).
+(5)
+Single-family dwellings including the usual appurtenances are permitted in the buffer area subject to the following conditions:
+a.
+The dwelling shall be in compliance with all local zoning regulations.
+b.
+The dwelling shall be located on a tract of land containing at least two acres. For the purposes of these standards, the size of the tract of the land shall not include any area that lies within the protected river, (that is, for tracts of land that include portions of a protected river, the area between the river banks cannot be counted towards the two-acre minimum size).
+c.
+There shall be only one such dwelling on each two-acre or larger tract of land.
+d.
+A septic tank or tanks serving such a dwelling may be located within the buffer area.
+e.
+Septic tank drainfields shall not be located within the buffer area.
+(6)
+Industrial and commercial land uses existing in the river corridor prior to the promulgation of this article are exempt from the criteria contained herein, provided that:
+a.
+These uses do not impair the drinking quality of the river water.
+b.
+These uses meet all state and federal environmental rules and regulations.
+(7)
+The construction of road crossings and utility crossings is permitted in the river corridor, provided such construction meets all requirements of the Erosion and Sedimentation Control Act of 1975, and all applicable local ordinances on soil erosion and sedimentation control.
+(8)
+The following uses are permitted in the river corridor, provided that such uses do not impair the long-term functions of the protected river or the river corridor.
+a.
+Timber production and harvesting, subject to the following conditions:
+1.
+Forestry activity shall be consistent with best management practices established by the state forestry commission; and
+2.
+Forestry activity shall not impair the drinking quality of the river water as defined by the Federal Clean Water Act, as amended.
+b.
+Wildlife and fisheries management activities consistent with the purposes of O.C.G.A. § 12-2-8.
+c.
+Wastewater treatment.
+d.
+Recreational usage consistent either with the maintenance of a natural vegetative buffer or with river-dependent recreation. For example, a boat ramp would be consistent with this criterion but a hard-surface tennis court would not. Parking lots are not consistent with this criterion. Paths and walkways within the river corridor are consistent with this criterion.
+e.
+Natural water quality treatment or purification.
+f.
+Agricultural production and management, subject to the following conditions:
+1.
+Agricultural activity shall be consistent with best management practices established by the state soil and water conservation commission;
+2.
+Agricultural activity shall not impair the drinking quality of the river water as defined by the Federal Clean Water Act, as amended; and
+3.
+Agricultural activity shall be consistent with all state and federal laws, and all regulations promulgated by the state department of agriculture.
+g.
+Other uses permitted by the department of natural resources or under Section 404 of the Clean Water Act.
+(9)
+Handling areas for the receiving and storage of hazardous waste are prohibited within the river corridor.
+(10)
+Hazardous waste or solid waste landfills are prohibited within the river corridor.
+(11)
+The standards and requirements in this article do not supersede those contained in the Metropolitan River Protection Act, the Coastal Marshlands Protection Act, and the Erosion and Sedimentation Act.
+(d)
+Exemptions. The following uses are exempted from the river corridor protection plan.
+(1)
+Land uses existing prior to the promulgation of the Oconee River Corridor protection district. For the purposes of this article, a pre-existing use is defined as any land use or land-disturbing activity, including all human endeavors directly associated with such use or activity, which, prior to the promulgation of this article falls within one of the following categories. (See section (c)(6) for additional regulations governing pre-existing industrial and commercial uses.)
+a.
+Is completed;
+b.
+Is under construction;
+c.
+Is fully approved by the governing authority;
+d.
+All materials have been submitted for approval by the governing authority; or
+e.
+Is zoned for such use and expenditures in excess of $2,500.00 have been made in preparation for construction in accordance with such zoning.
+(2)
+Mining activities, if permitted by the department of natural resources pursuant to the Georgia Surface Mining Act of 1968, as amended.
+(3)
+Utilities (except as discussed above in subsection (c)(7)), if such utilities cannot feasibly be located outside the buffer area (feasibility shall be decided conservatively by the local government), provided that:
+a.
+The utilities shall be located as far from the river bank as reasonably possible;
+b.
+Installation and maintenance of the utilities shall be such as to protect the integrity of the buffer area as well as is reasonably possible; and
+c.
+Utilities shall not impair the drinking quality of the river water.
+(4)
+Specific forestry and agricultural activities except as discussed above in subsections (c)(8)a. and (c)(8)f. above.
+(Ord. No. O-01-11, 10-9-2001)

@@ -1,0 +1,928 @@
+Chapter 70 - UTILITIES[1]
+Footnotes:
+--- (1) ---
+State Law reference— Municipal power to develop, store, treat, purify, and distribute water, Ga. Const. art. IX, § II, ¶ III(a)(6); Georgia Water Quality Control Act, O.C.G.A. § 12-5-2020 et seq.; municipal authority to acquire, construct, operate and maintain water and sewage systems, O.C.G.A. § 36-34-5; payment of costs of water, gas, or sewer pipe connections, O.C.G.A. § 36-39-7.
+
+ARTICLE I. - IN GENERAL
+
+Secs. 70-1—70-18. - Reserved.
+ARTICLE II. - SEWER SERVICE
+DIVISION 1. - GENERALLY
+
+Sec. 70-19. - Definitions.
+Words and phrases used in this chapter shall have the following meanings, unless otherwise specified:
+Biochemical oxygen demand (BOD) means the quantity of oxygen utilized in the biochemical oxidation of organic matter under standard laboratory procedure in five days at 20 degrees Celsius, expressed in milligrams per liter.
+Building drain means that part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste, and other drainage pipes inside the walls of the building and conveys it to the building sewer, beginning five feet (1.5 meters) outside the inner face of the building wall.
+Building sewer means the extension from the building drain to the public sewer or other place of disposal, also called house connection.
+Code enforcement officer or official means the designated representative of the city charged with the responsibility of inspecting and reviewing health and environmental matters throughout the city, including, but not limited to, existing and proposed sewer and water facilities.
+Combined sewer means a sewer intended to receive both wastewater and stormwater or surface water.
+County health officer or official means the official representatives of the McIntosh County Health Department charged with the responsibility of inspecting and reviewing health and environmental matters throughout the county which includes, but is not limited to, existing and proposed sewer and water facilities.
+Easement means an acquired legal right for the specific use of land owned by others.
+Floatable oil or fat means oil, fat, or grease in a physical state such that it will separate by gravity from wastewater by treatment in an approved pre-treatment facility. Wastewater shall be considered free of floatable fat if it is properly pretreated and the wastewater does not interfere with the collection system.
+Garbage means the animal and vegetable waste resulting from the handling, preparation, cooking, and serving of foods.
+Industrial wastes means the wastewater from industrial processes, trade, or business as distinct from domestic or sanitary wastes.
+Natural outlet means any outlet, including storm sewers and combined sewer overflows, into a watercourse, pond, ditch, lake, or other body of surface water or groundwater.
+pH means the reciprocal of the logarithm of the hydrogen ion concentration. The concentration is the weight of hydrogen ions, in grams, per liter of solution. Neutral water, for example, has a pH value of 7 and a hydrogen ion concentration of 10.
+Properly shredded garbage means the wastes from the preparation, cooking, and dispensing of food that have been shredded to such a degree that all particles will be carried freely under the flow conditions normally prevailing in public sewers, with no particle greater than one-half inch (1.27 centimeters) in any dimension.
+Public sewer means a common sewer controlled by a governmental agency or public utility.
+Sanitary sewer means a sewer that carries liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions together with minor quantities of groundwaters, stormwaters, and surface waters that are not admitted intentionally.
+Sewage or wastewater is the spent water of a community. From the standpoint of source, it may be a combination of the liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions, together with any groundwater, surface water, and stormwater that may be present.
+Sewer means a pipe or conduit that carries wastewater or drainage water.
+Slug means any discharge of water or wastewater which, in concentration of any given constituent or in quantity of flow, exceeds for any period of duration longer than 15 minutes more than five times the average, 24-hour concentration or flows during normal operation and shall adversely affect the collection system and/or performance of the wastewater treatment works.
+Storm drain or storm sewer means a drain or sewer for conveying water or unpolluted water from any source.
+Superintendent means the city manager acting as the superintendent of water and sewer system maintenance of the city, or the person designated and authorized by the city manager to fulfill the requirements of this chapter and be responsible for the operations of the water and sewer systems.
+Suspended solids means total suspended matter that either floats on the surface of, or is in suspension in, water, wastewater, or other liquids, and that is removable by laboratory filtering as prescribed in "Standard Methods for the Examination of Water and Wastewater" and referred to as nonfilterable residue.
+Unpolluted water means water of quality equal to or better than the effluent criteria in effect, or water that would not cause violation of receiving water quality standards and would not be benefited by discharge to the sanitary sewers and wastewater treatment facilities provided.
+Wastewater facilities means the structures, equipment, and processes required to collect, carry away, and treat domestic and industrial wastes and dispose of the effluent.
+Wastewater treatment works means an arrangement of devices and structures for treating wastewater, industrial wastes, and sludge. Such term is sometimes used as synonymous with "waste treatment plant" or "wastewater treatment plant" or "water pollution control plant".
+Water and sewer department means the Darien Water and Sewer Department which is the operating organization working under the policies and direction of the city manager or his designee.
+Watercourse means a natural or artificial channel for the passage of water either continuously or intermittently.
+(Code 1998, § 13-101)
+Sec. 70-20. - Working with other officers.
+The city code enforcement officer shall have the authority to work in conjunction with and may rely upon the advice, expertise and/or recommendation of the county health officer, regarding the inspection and review of existing and proposed sewer and water facilities throughout the city. This authority shall include the ability to issue summons or citations for violations of and to enforce the provisions of this chapter, based upon a complaint or report received from the county health official.
+Sec. 70-21. - Powers and authority of inspectors.
+(a)
+Entering premises. The code enforcement officer, a law enforcement officer, the city manager, or his designee shall be permitted to enter all properties for the purposes of inspection, observation, measurement, sampling, and testing pertinent to discharge to the community system in accordance with the provisions of this chapter.
+(b)
+Obtaining information. The code enforcement officer, a law enforcement officer, the city manager, or his designee is authorized to obtain information concerning industrial processes which have a direct bearing on the kind and source of discharge to the wastewater collection system. The industry may withhold information considered confidential. The industry must establish that the revelation to the public of the information in question might result in an advantage to competitors.
+(c)
+Observation of safety rules. While performing the necessary work on private properties referred to in this chapter, the code enforcement officer, a law enforcement officer, the city manager, or his designee shall observe all safety rules applicable to the premises established by the company, and the company shall be held harmless for injury or death to the city employees, and the city shall indemnify the company against loss or damage to its property by city employees and against liability claims and demands for personal injury or property damage asserted against the company and growing out of the gauging and sampling operation, except as such may be caused by negligence or failure of the company to maintain safe conditions as required in section 70-139.
+(d)
+Entering property with easements. The code enforcement officer, a law enforcement officer, the city manager or his designee shall be permitted to enter all private properties through which the city holds a duly negotiated easement for the purposes of but not limited to, inspection, observation, measurement, sampling, repair, and maintenance of any portion of the wastewater facilities lying within said easement. All entry and subsequent work, if any, on said easement, shall be done in full accordance with the terms of the duly negotiated easement pertaining to the private property involved.
+(Code 1998, §§ 13-701—13-704)
+Sec. 70-22. - Penalties and costs.
+(a)
+Notice. Any person found to be violating any provision of this chapter, except division 6, shall be served by the city water and sewer department with written notice stating the nature of the violation and providing a reasonable time limit for the satisfactory correction thereof. The offender shall, within the period of time stated in such notice, permanently cease all violations.
+(b)
+Continuation of violation Any person who shall continue any violation beyond the time limit provided for in subsection (a) of this section, shall be prosecuted by the city water and sewer department for a misdemeanor, and on conviction thereof shall be punished according to the general penalties described in section 1-8.
+(c)
+Costs. Any person violating any of the provisions of this chapter shall become liable to the city water and sewer department for any expense, loss, or damage occasioned the city water and sewer department by reason of such violation.
+(Code 1998, §§ 13-801—13-803)
+Secs. 70-23—70-43. - Reserved.
+DIVISION 2. - USE OF PUBLIC SEWERS REQUIRED
+
+Sec. 70-44. - Unsanitary disposal of waste.
+It shall be unlawful for any person to place, deposit, or permit to be deposited in any unsanitary manner on public or private property within the city or in any area under the jurisdiction of said city, any human or animal excrement, garbage, or objectionable waste.
+(Code 1998, § 13-201)
+Sec. 70-45. - Disposal of unsanitary or polluted waters.
+It shall be unlawful to discharge to any natural outlet within the city, or in any area under the jurisdiction of said city, any wastewater or other polluted waters, except where suitable treatment has been provided in accordance with subsequent provisions of this chapter.
+(Code 1998, § 13-202)
+Sec. 70-46. - Privies, septic tanks, cesspools.
+Except as hereinafter provided, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool, or other facility intended or used for the disposal of wastewater.
+(Code 1998, § 13-203)
+Sec. 70-47. - Toilet facilities.
+The owners of all houses, buildings, or properties used for human occupancy, employment, recreation, or other purposes, situated within the city and abutting on any street, alley, or right-of-way in which there is now located, or may in the future be located a public sanitary or combined sewer of the city, are hereby required at the owners' expense to install suitable toilet facilities therein, and to connect such facilities directly with the proper public sewer in accordance with the provisions of this chapter within 90 days after date of official notice to do so, provided that said public sewer is within 100 feet of the property line.
+(Code 1998, § 13-204)
+Secs. 70-48—70-67. - Reserved.
+DIVISION 3. - PRIVATE WASTEWATER DISPOSAL
+
+Sec. 70-68. - Private systems.
+Where a public sanitary or combined sewer is not available under the provisions of this chapter, the building sewer shall be connected to a private wastewater disposal system complying with the provisions of this article.
+(Code 1998, § 13-301)
+Sec. 70-69. - Permit requirement.
+Before commencement of construction of a private wastewater disposal system the owners shall first obtain a written permit signed by the city manager or the superintendent as designated by the city manager. The application for such permit shall be made on a form furnished by the city, which the applicant shall supplement by any plans, specifications, and other information as are deemed necessary by the superintendent. A permit and inspection fee of an amount currently set by the water and sewer department shall be paid to the water and sewer department at the time the application is filed. No permit shall be issued under this article without prior written approval of the private wastewater disposal system by the county health official.
+(Code 1998, § 13-302)
+Sec. 70-70. - Effective date.
+A permit for a private wastewater disposal system shall not become effective until the installation is completed to the satisfaction of the superintendent. The superintendent shall be allowed to inspect the work at any stage of construction, and, in any event, the applicant for the permit shall notify the superintendent when the work is ready for final inspection, and before any underground portions are covered. The inspection shall be made within 48 hours of the receipt of notice by the superintendent.
+(Code 1998, § 13-303)
+Sec. 70-71. - State requirements.
+The type, capacities, location, and layout of a private wastewater disposal system shall comply with all recommendations of the state department of human resources application on a special form furnished by the city. The permit application shall be supplemented by any plans, specifications, or other information considered pertinent in the judgment of the superintendent. A permit and inspection fee of an amount currently set by the water and sewer department at the time the application is filed for residential and commercial service, or as currently set for an industrial building sewer connection shall be paid to the water and sewer department at the time the application is filed.
+(Code 1998, § 13-304)
+Sec. 70-72. - Connection to public sewer system.
+(a)
+At such time as a public sewer becomes adjacent to or abuts, but is not separated by a public right-of-way, from any property served by a private wastewater disposal system, as provided in this chapter, a direct connection shall be made to the public sewer within 60 days in compliance with this chapter, and any septic tanks, cesspools, and similar private wastewater disposal facilities shall be cleaned of sludge and filled with suitable material.
+(b)
+Anyone who is required to connect their private wastewater disposal system to the public sewer system pursuant to this article may appeal a decision of the superintendent to the city manager.
+(Code 1998, § 13-305)
+Sec. 70-73. - Sanitary operation of private sewers.
+The owners shall operate and maintain the private wastewater disposal facilities in a sanitary manner at all times, at no expense to the city, and in compliance with the Georgia Water Quality Control Act, O.C.G.A. § 12-5-2020 et seq.
+(Code 1998, § 13-306)
+Sec. 70-74. - Construction.
+No statement contained in this article shall be construed to interfere with any additional requirements that may be imposed by the health officer.
+(Code 1998, § 13-307)
+Secs. 70-75—70-91. - Reserved.
+DIVISION 4. - BUILDING SEWERS AND CONNECTIONS
+
+Sec. 70-92. - Disturbing public sewers.
+No unauthorized person shall uncover, make any connections with or opening into, use, alter, or disturb any public sewer or appurtenance thereof without first obtaining a written permit from the superintendent.
+(Code 1998, § 13-401)
+Sec. 70-93. - Classes of sewer permits.
+There shall be two classes of sewer permits:
+(1)
+For residential and commercial service, and
+(2)
+For service to establishments producing industrial waste.
+In either case, the owners or his agent shall make provisions or in amplification thereof, the materials and procedures set forth in appropriate specifications of the ASTM shall apply.
+(Code 1998, § 13-402)
+Sec. 70-94. - Costs.
+All costs and expenses incidental to the installation and connection of the building sewer shall be borne by the owners. The owners shall indemnify the city from any loss or damage that may directly or indirectly be occasioned by the installation of the building sewer.
+(Code 1998, § 13-403)
+Sec. 70-95. - Separate sewers, exceptions.
+A separate and independent building sewer shall be provided for every building; except where one building stands at the rear of another on an interior lot and no private sewer is available or can be constructed to the rear building through an adjoining alley, court, yard, or driveway, the front building sewer may be extended to the rear building and the whole considered as one building sewer, but the city does not and will not assume any obligation or responsibility for damage caused by or resulting from any such single connection aforementioned.
+(Code 1998, § 13-404)
+Sec. 70-96. - Old building sewers.
+Old building sewers may be used in connection with new buildings only when they are found, on examination and test by the superintendent, to meet all requirements of this article.
+(Code 1998, § 13-405)
+Sec. 70-97. - Construction requirements.
+The size, slope, alignment, materials of construction of a building sewer, and the methods to be used in excavating, placing of the pipe, jointing, testing, and backfilling the trench, shall all conform to the requirements of the building and plumbing codes or other applicable rules and regulations of the city. In the absence of code provisions or in amplification thereof, the materials and procedures set forth in appropriate specifications of the ASTM shall apply.
+(Code 1998, § 13-406)
+Sec. 70-98. - Elevation.
+Whenever possible, the building sewer shall be brought to the building at an elevation below the basement floor. In all buildings in which any building drain is too low to permit gravity flow to the public sewer, sanitary sewage carried by such building drain shall be lifted by an approved means and discharged to the building sewer.
+(Code 1998, § 13-407)
+Sec. 70-99. - Connection to other buildings and drains.
+No person shall make connection of roof downspouts, foundation drains, areaway drains, or other sources of surface runoff or groundwater to a building sewer or building drain which in turn is connected directly or indirectly to a public sanitary sewer unless such connection is approved by the superintendent for purposes of disposal of polluted surface drainage.
+(Code 1998, § 13-408)
+Sec. 70-100. - Conforming to building codes.
+The connection of the building sewer into the public sewer shall conform to the requirements of the building and plumbing codes or other applicable rules and regulations of the city, or the procedures set forth in appropriate specifications of the ASTM. All such connections shall be made gastight and watertight and verified by proper testing. Any deviation from the prescribed procedures and materials must be approved by the superintendent before installation.
+(Code 1998, § 13-409)
+Sec. 70-101. - Inspection.
+The applicant for the building sewer permit shall notify the superintendent when the building sewer is ready for inspection and connection to the public sewer. The connection and testing shall be made under the supervision of the superintendent or his representative.
+(Code 1998, § 13-410)
+Sec. 70-102. - Excavations.
+All excavations for building sewer installation shall be adequately guarded with barricades and lights so as to protect the public from hazard. Streets, sidewalks, parkways, and other public property disturbed in the course of the work shall be restored in a manner satisfactory to the city.
+(Code 1998, § 13-411)
+Secs. 70-103—70-132. - Reserved.
+DIVISION 5. - DISCHARGES INTO PUBLIC SEWERS
+
+Sec. 70-133. - Discharging unpolluted waters.
+(a)
+No person shall discharge or cause to be discharged any unpolluted waters such as stormwater, groundwater, roof runoff, subsurface drainage, or cooling water to any sewer.
+(b)
+Stormwater and all other unpolluted drainage shall be discharged to such sewers as are specifically designated as storm sewers or to a natural outlet approved by the superintendent and other regulatory agencies. Unpolluted industrial cooling water or process waters may be discharged, on approval of the superintendent, to a storm sewer or natural outlet.
+(Code 1998, §§ 13-501, 13-502)
+Sec. 70-134. - Waters and wastes not to be discharged in public sewers.
+No person shall discharge or cause to be discharged any of the following described waters or wastes to any public sewers:
+(1)
+Any gasoline, benzene, naphtha, fuel oil, or other flammable or explosive liquid, solid, or gas.
+(2)
+Any waters containing toxic or poisonous solids, liquids, or gases in sufficient quantity, either singly or by interaction with other wastes, to injure or interfere with any waste treatment process, constitute a hazard to humans or animals, create a public nuisance, or create any hazard in the influent to the wastewater treatment plant.
+(3)
+Any waters or wastes having a pH lower than 6.0 or having any other corrosive property capable of causing damage or hazard to structures, equipment, and personnel of the wastewater works, or any waters or wastes having pH greater than 9.0.
+(4)
+Solid or viscous substances in quantities or of such size capable of causing obstruction to the flow in sewers, or other interference with the proper operation of the wastewater facilities such as, but not limited to, ashes, bones, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood, unground garbage, whole blood, paunch manure, hair and fleshings, entrails, paper dishes, cups, milk containers, etc., either whole or ground by garbage grinders.
+(Code 1998, § 13-503)
+Sec. 70-135. - Allowable concentrations of certain substances.
+The following described substances, materials, waters, or waste shall be limited in discharges to the municipal system to concentrations or quantities which will not harm either the sewers, wastewater treatment process or equipment, will not have an adverse effect on the receiving stream, or will not otherwise endanger lives, limb, public property, or constitute a nuisance. The superintendent may set limitations lower than the limitations established in the regulations below if in his opinion such more severe limitations are necessary to meet the above objectives. In forming his opinion as to the acceptability, the superintendent will give consideration to such factors as the quantity of subject waste in relation to flows and velocities in the sewers, materials of construction of the sewers, the wastewater treatment process employed, capacity of the wastewater treatment process employed, capacity of the wastewater treatment plant, and other pertinent factors. The limitations or restrictions on materials or characteristics of waste or wastewater discharged to the sanitary sewer which shall not be violated without approval of the superintendent are as follows:
+(1)
+Any liquid or vapor having a temperature higher than 150 degrees Farenheit (65 degrees Celsius) or in such quantities that the temperature at the treatment plant influent exceeds 104 degrees Farenheit (40 degrees Celsius), unless the plant is equipped to accommodate such heat.
+(2)
+Wastewater containing petroleum oil, nonbiodegradable cutting oils, or product of mineral oil origin in excess of current federal and/or state regulations for pre-treatment of industrial wastes.
+(3)
+Wastewater from industrial plants containing floatable oils, fat or grease in excess of current federal and/or state regulations for pretreatment of industrial wastes. The maximum allowable limit of oil and grease shall be 100 mg/l.
+(4)
+Any garbage that has not been properly shredded. Garbage grinders may be connected to sanitary sewers from homes, hotels, institutions, restaurants, hospitals, catering establishments, or similar places where garbage originates from the preparation of food in kitchens for the purpose of consumption on the premises or when served by caterers.
+(5)
+Any waters or wastes containing iron, chromium, copper, zinc, or similar objectionable or toxic substance in excess of current federal and/or state regulations for pretreatment of industrial waste. In addition, specific limitations on inhibitory substances are as follows:
+Chromium less than 0.25 mg/l;
+Copper less than 0.5 mg/l;
+Zinc less than 0.1 mg/l;
+Cadmium less than 0.1 mg/l;
+Lead less than 0.5 mg/l; and
+Nickel less than 0.215 mg/l.
+Industrial dischargers shall meet the stricter of the article limits or the pretreatment standards.
+(6)
+Any waters or wastes containing hydrogen sulfide, sulfur dioxide or nitrous oxide, or any other noxious or malodorous gas or substance capable of creating a public nuisance or hazard to life or preventing entrance into sewers for their maintenance, inspection and repair.
+(7)
+Any radioactive wastes or isotopes of such half-life or concentration as may exceed limits established by the superintendent in compliance with applicable state or federal regulations.
+(8)
+Quantities of flow, concentrations, or both which constitute a "slug" as defined herein.
+(9)
+Any waters or wastes having a five-day BOD in excess of 300 parts per million (mg/l) on a 24-hour composite basis. Discharger of wastes with such excessive BOD shall be subject to a surcharge to user cost to compensate the city for the additional cost of treatment.
+(10)
+Waters having suspended solids contents in excess of 300 parts per million (mg/l) on a 24-hour composite basis unless approved by the superintendent. Discharger of wastes with such excessive suspended solids shall be subject to a surcharge to user cost to compensate the city for the additional cost of treatment.
+(11)
+Waters or wastes containing substances which are not amenable to treatment or reduction by the wastewater treatment processes employed, or are amenable to treatment only to such degree that the wastewater treatment plant effluent cannot meet the requirements of other agencies having jurisdiction over discharge to the receiving waters.
+(12)
+Any waters or wastes which, by interaction with other waters or wastes in the public sewer system, release obnoxious gases, form suspended solids which interfere with the collection system, or create a condition deleterious to structures and treatment processes.
+(Code 1998, § 13-504)
+Sec. 70-136. - Rejection of certain wastes.
+If any waters or wastes are discharged or are proposed to be discharged to the public sewers, which waters or wastes contain the substances or possess the characteristics enumerated in section 70-135 and which in the judgment of the superintendent, may have a deleterious effect upon the wastewater facilities, processes, equipment or receiving waters, or which otherwise create a hazard to life or constitute a public nuisance, the superintendent will reject the wastes, until such time as pretreatment facilities are installed to produce an acceptable discharge to the public sewers. If the superintendent permits the pretreatment or equalization of waste flows, the design and installation of the plants and equipment shall be subject to the review and approval of the superintendent, and the Georgia Department of Natural Resources, Environmental Protection Division.
+(Code 1998, § 13-505)
+Sec. 70-137. - Interceptors.
+Grease, oil, and sand interceptors shall be provided when they are necessary for the proper handling of liquid wastes containing floatable grease in excessive amounts, as specified in section 70-135(3), or any flammable wastes, sand, or other harmful ingredients; except that such interceptors shall not be required for private living quarters or dwelling units. All interceptors shall be of a type and capacity approved by the superintendent, and shall be located as to be readily and easily accessible for cleaning and inspection. In the maintaining of these interceptors, the owner shall be responsible for the proper removal and disposal by appropriate means. The means of disposal are subject to review by the superintendent and appropriate regulatory personnel. Any removal and hauling of the collected materials not performed by the owner's personnel must be performed by currently licensed waste disposal firms.
+(Code 1998, § 13-506)
+Sec. 70-138. - Expense of pretreatment and flow-equalizing facilities.
+Where pretreatment or flow-equalizing facilities are provided or required for any waters or wastes, they shall be maintained continuously in satisfactory and effective operation by the owner at his expense.
+(Code 1998, § 13-507)
+Sec. 70-139. - Property owner to install structure requirement for gauging and sampling industrial wastes.
+The owner of any property serviced by a building sewer carrying industrial wastes shall install a suitable structure together with such necessary meters and other appearances in the building sewer to facilitate observation, sampling, and measurement of the wastes. Such structure shall be accessibly and safely located and shall be constructed in accordance with plans approved by the superintendent. The structure shall be installed by the owner at his expense and shall be maintained by him so as to be safe and accessible at all times.
+(Code 1998, § 13-508)
+Sec. 70-140. - Standard for testing.
+(a)
+All measurements, tests, and analysis of the characteristics of waters and wastes to which reference is made in this article shall be determined in accordance with the latest edition of "Standards Methods for the Examination of Water and Wastewater," published by the American Public Health Association. Sampling methods, location, times, duration, and frequencies are to be determined on an individual basis by the superintendent.
+(b)
+All industrial users shall meet pretreatment requirements as specified in 40 CFR 403, entitled, "General Pretreatment Regulations for Existing and New Sources of Pollution," dated January 28, 1981.
+(Code 1998, § 13-509)
+Secs. 70-141—70-163. - Reserved.
+DIVISION 6. - PROTECTION FROM DAMAGE
+
+Sec. 70-164. - Damaging wastewater facility.
+No person shall maliciously, willfully, or negligently break, damage, destroy, uncover, deface, or tamper with any structure, appurtenance or equipment which is a part of the wastewater facilities. Any person violating this provision shall be subject to immediate arrest under charge of disorderly conduct.
+(Code 1998, § 13-601)
+State Law reference— Unlawful to damage, injure, or interfere with the property or equipment of municipal utility services, O.C.G.A. § 16-7-25.
+Secs. 70-165—70-181. - Reserved.
+ARTICLE III. - WATER AND WASTEWATER SERVICE, RATES, FEES AND CHARGES
+
+Sec. 70-182. - Rate schedule.
+The city council shall have the authority to set water rate schedules for all residential, commercial, and industrial users of water under the city water system. This authority extends to all users of the city water system, both within the city limits and outside the city limits. The council shall have the authority to set different rates for residences and businesses, and also for residences and businesses inside the city limits and those outside the city limits.
+(Code 1998, § 12-101; Ord. of 10-18-2005, § 22-21)
+Sec. 70-183. - Charges for initial service; standards.
+(a)
+Water and wastewater tap-in fees shall be charged on the basis of residential units or residential equivalent units according to the tap-in fees listed in appendix B to this Code. Any fractional units resulting from the calculation of residential equivalent units shall be treated as a whole unit. In addition to the tap-in fees, installation fees shall be charged in accordance with schedules listed in appendix B to this Code. Installation fees shall cover only connection to existing mains that are adjacent to the location to be served; the actual costs of any extensions necessary shall be charged in addition to tap-in and installation fees. All fees and charges shall be paid by the customer at whose request the connection is made before the issuance of any building permits.
+(b)
+The director may authorize licensed master plumbers to install connections to water or wastewater facilities upon written application. Water meters shall be supplied to authorized licensed master plumbers at cost; all other related accessories for water or sewer connections may be supplied to authorized licensed master plumbers. The director shall require payment of installation fees as listed in appendix B to this Code or reimbursement of actual costs for any installations not specifically covered. All work done by other than city personnel shall be done only under the supervision of licensed master plumbers authorized to perform such work. The director shall require that all installation is performed in accordance with specifications and/or standards conforming to sound engineering practices. In the event that such installation is not made in accordance with specifications and/or standards, the director may require the installation to be corrected or removed and reinstalled as necessary.
+(c)
+Water installation fees for making taps into the city water mains or water lines and installing water meters or providing water meters for plumbers to install shall be as established by ordinance or resolution of the mayor and council, and available for public examination in the office of the city clerk.
+(d)
+Sewer installation fees for making connections to the city sewerage system and installing service lines shall be as established by ordinance or resolution of the mayor and council, and available for public examination in the office of the city clerk. Installation fees for meters larger than two inches shall be charged on the basis of reimbursement to the city for all actual costs incurred in making the installation.
+(e)
+Installation fees for installations requiring additional facilities including but not limited to manholes or flow metering installations shall be charged on the basis of reimbursement to the city for all actual costs incurred in making the installation.
+(Code 1998, § 12-103; Ord. of 10-18-2005, § 22-21)
+Sec. 70-184. - Deposits.
+(a)
+Deposits shall be 2½ times the monthly bill for all services, as estimated by the director using whatever data may be available, with a minimum deposit of $75.00 per unit for water and $75.00 per unit for sewer.
+(b)
+Deposits may be waived if evidence is produced that the customer has a good record of payment or that the customer would reasonably be expected to pay all bills promptly. In the event a deposit is waived or is less than 2½ times the monthly bill for all services for whatever reason, and that the customer is delinquent in payment of one or more bills, the deposit for that customer's accounts may be required to be increased to 2½ times the monthly bill for all services. Such increased deposits may be required to be paid in full before reconnection of service.
+(Ord. of 10-18-2005, § 22-21)
+Sec. 70-185. - Late fees and disconnection fees.
+(a)
+In the event a utility bill has not been paid by the past due date printed on the bill, the account may be subject to an additional late fee of not more than $5.00. Late fees may be incurred whether or not the service is disconnected.
+(b)
+In the event that service has been cut off for nonpayment of a city utility bill or other Wiaction resulting in unauthorized use of city services, service shall not be restored until the unpaid bill and service fees provided by this section are satisfied. Before service is restored, the following service fees shall be paid by the user cumulatively for each action taken to prevent unauthorized use of city services:
+(1)
+Turn-on after a delinquent cut-off: $25.00
+(2)
+Locking meter: $35.00
+(3)
+Removal of meter: $60.00
+(4)
+Removal of straight line: $80.00
+(5)
+Removal of unauthorized relocated meter: $125.00
+(6)
+Cutting off water at main: $300.00
+(c)
+Payment of these fees shall not exempt any user from any civil or criminal action resulting from violations of this chapter.
+(d)
+In addition to the fees and deposits otherwise provided hereinabove, each applicant for service shall pay in advance an account establishment charge of $15.00 for either new service or transfer of service from one location to another.
+(Ord. of 10-18-2005, § 22-21)
+Sec. 70-186. - Residential equivalent units.
+(a)
+A residential equivalent unit is that portion of a user's facility that has an impact on the water and wastewater system equivalent to a single-family residence. The determination of a facility's residential equivalent units shall be based on estimated water consumption as shown in guidelines below or on square footage. Peak water consumption of 300 gallons per day or a floor space of 3,000 square feet, shall be the equivalent of one residential unit. The method which results in the greater number of equivalent residential units shall be applied. The standards in the table below shall be used in the determination of water consumption. If the table does not provide information for a particular application, the estimated water consumption shall be as calculated by the director in accordance with sound engineering practices using information available from the state EPD, USEPA, or standard reference materials commonly used for estimating flows.
+EXPAND
+Water Usage
+Type of facility Gallons Per Day
+Assembly hall 3 per seat
+Barbershop/beauty parlor 125 per chair
+Boardinghouse 100 per room
+Bowling alley 50 per lane
+Church w/o day care or kindergarten 5 per seat
+Correctional institution 125 per bed
+Country club, recreation facilities only 25 per member
+Day care center, no meals 15 per person
+Dental office 100 per chair
+Department store 25 per employee
+Factory with showers 35 per employee
+Factory without showers 25 per employee
+Food service establishments (toilets and kitchen) 1
+(1) Restaurants, up to 18 hours/day 35 per seat
+(2) Restaurants, that use paper products only 15 per seat
+(3) Restaurants, above 18 hours 50 per seat
+(4) Bar and cocktail lounge 30 per seat
+(5) Drive-in restaurant 35 per car space
+(6) Carry-out only 35 per 100 sq. ft. plus 15 per employee
+Hospital, inpatient 300 per bed
+Hospital, outpatient 300 per bed
+Hotel, no kitchen 100 per room
+Kindergarten, no meals 15 per person
+Laundry, coin 150 per machine
+Laundry, commercial 1000 per machine
+Lodges 50 per bed
+Mobile home park 300 per site
+Motel, no kitchen 100 per room
+Nursing home 100 per bed
+Office 25 per employee
+Physician's office 200 per exam room
+Prison 300 per inmate
+Schools, boarding 100 per person
+Schools, day, restrooms only 12 per person
+Schools, day, restrooms, and cafeteria 16 per person
+Schools, day, restrooms, gyms and cafeteria 20 per person
+Service stations serving any locations: car wash 500 per stall
+Service stations serving interstate, fuel and oil only 150 per pump
+Service stations serving interstate, full service 425 + 150 per pump
+Service stations serving other locations, fuel and oil only 100 per pump
+Service stations serving other locations, full service 300 + 100 per pump
+Shopping center (not including food service or laundry) 10 per 100 sq. ft.
+Stadium 2 per seat
+Theater 5 per seat
+Travel trailer park with independent water and sewer connection 100 per site
+Travel trailer park w/o independent water and sewer connection 35 per site
+Warehouse 10 per 100 sq. ft.
+1 Add 300 gallons per machine to amount indicated if laundry or dishwashing machines are installed.
+  (b)
+In the event a facility is made up of more than one smaller component facility, the determination of residential equivalent units shall be calculated as the sum of all components' residential equivalent units.
+(c)
+Notwithstanding, in a case involving a site utilizing its own private water supply and distribution system to multiple locations, resulting in the production of domestic-type wastewater only, such as employee restrooms and showers, such that reading and maintenance of meters would create excessive costs and hardship in the judgment of the director, the city may bill on flow estimates calculated on the basis of an average flow per employee times the average number of employees at such facility for the recovery of costs of transporting and treating the wastewater.
+(d)
+For any water meter used for purposes of irrigation only, the following table shall be used to determine Residential Equivalent Units (REUs) for purposes of establishing fixed charges on monthly bills:
+EXPAND
+Tap REUs
+¾ inch 1
+1 inch 2
+1½ inch 4
+2 inch 8
+  (Code 1998, § 12-103; Ord. of 10-18-2005, § 22-22)
+Sec. 70-187. - Adjustments in billing.
+The director shall be authorized to make equitable adjustments in billings for wastewater services only in cases where leaks in pipes and plumbing facilities result in increased billings without fault on the part of the customer. Such adjustments shall be made based on an average of prior billings only after repairs have been made as certified by a licensed plumber, and shall be limited to three months' billings.
+(Ord. of 10-18-2005, § 22-23)
+Sec. 70-188. - Discontinuance of service.
+(a)
+The service under any application or contract may be discontinued for any of the following reasons:
+(1)
+For misrepresentation in application as to property or fixtures to be supplied, or the use to be made of the water supply or character of waste discharged into the sanitary wastewater system;
+(2)
+For the use of water for any other property or purpose than that described in the application;
+(3)
+For willful or negligent waste of water through improper or imperfect service pipes, fixtures, meters, private fire protection systems or otherwise;
+(4)
+For failure to protect the connection, service lines and fixtures, or to maintain them in good order;
+(5)
+For nonpayment of any account for water or sewer service furnished or of any scheduled fee or charge as required by the provisions of this chapter, rules and regulations promulgated pursuant to the terms hereof, or any amendments hereto;
+(6)
+For molesting any service pipe, meter, curbstop, seal, or any other appliance of the water and sewerage department controlling or regulating the water supply;
+(7)
+In case of vacancy of premises;
+(8)
+For violation of any provisions of this chapter or amendments thereto;
+(9)
+For violation of any rules or regulations promulgated by the director, and under authority of the provisions of this chapter or amendments thereto;
+(10)
+For turning off or on water at the "water main" or "water connection" or curb stop, by a plumber, owner or other unauthorized person, or for disconnecting or removing the meter, without the prior written consent of the director. Emergency cut-off of such water without damage to any city property shall not be considered a cause of discontinuance of service.
+(b)
+The director shall have authority to order the temporary discontinuance of water or wastewater service in any emergency, under exigent circumstances, or whenever such discontinuance is necessary to protect life, health or property or to prevent immediate interference with the city systems.
+(c)
+In all other circumstances service shall be discontinued only after five days' written notice delivered to an adult person occupying the premises served or posted in a conspicuous place thereon, stating the reason for discontinuance and informing the user of his right to a hearing before the director upon such user's appearance before the director within such five working days during regular business hours.
+(Ord. of 10-18-2005, § 22-24)
+Sec. 70-189. - Application for water service.
+The consumer shall make application for water service, in person, at city hall.
+(Code 1998, § 12-102)
+Sec. 70-190. - City's responsibility and liability.
+The city shall run a service line from its distribution line to the property line where the distribution line exists or is to be constructed, and runs immediately adjacent and parallel to the property to be served. No service charge, other than the connection fee referred to in the municipal fee ordinance attached to this Code as appendix B, will be made for a five-eighths-inch by three-fourths-inch meter. A proportionately greater charge than the connection fee above will be made for a meter of larger dimension.
+(1)
+The city may make connections to service other properties not adjacent to its lines upon payment of reasonable costs for the extensions of its distribution lines as may be required to render such service.
+(2)
+The city may install its meter at or near the property line or, at the city's option, on the consumer's property within three feet of the property line.
+(3)
+The city reserves the right to refuse service unless the consumer's lines or piping are installed in such a manner as to prevent cross-connections or back-flow.
+(4)
+Under normal conditions, the consumer will be notified of any anticipated interruptions of service by the city.
+(Code 1998, § 12-105)
+Sec. 70-191. - Consumer's responsibility and liability.
+Water furnished by the city shall be used for consumption by the consumer, members of his household and employees only. The consumer shall not sell water to any person or permit any other person to use said water. Water shall not be used for irrigation, fire protection, nor other purposes, except when water is available in sufficient quantity without interfering with the regular domestic consumption in the area served. Disregard for this rule shall be sufficient cause for refusal and/or discontinuance of service.
+(1)
+Where meter or meter box is placed on the premises of a consumer, a suitable place shall be provided by the consumer therefor, unobstructed and accessible at all times to the meter reader.
+(2)
+The consumer shall furnish and maintain a private cut-off valve on the consumer's side of the meter.
+(3)
+The consumer's piping and apparatus shall be installed and maintained by the consumer.
+(4)
+In order to be received as a consumer and entitled to receive water for the city's water system, all applicants must offer proof that any private wells located on their property are not physically connected to the lines of the city's water system and all applicants by becoming consumers of the city covenant and agree that so long as they continue to be consumers of the city they will not permit the connection of any private wells on their property to the city's water system.
+(Code 1998, § 12-106)
+Sec. 70-192. - Change of occupancy.
+Not less than three days notice must be given in person or in writing, at city hall to discontinue water service or to change up to the time of departure or the time specified for departure, whichever period is longer. The new occupant shall apply for water service within 48 hours after occupying the premises and failure to do so will make him liable for paying for the water consumed since the last meter reading.
+(Code 1998, § 12-108)
+Sec. 70-193. - Meter reading, billings, collecting.
+Bills to customers for water service shall be mailed out on such day or days of each month as may be determined as desirable by the city. Bills shall be paid at city hall and a failure to receive bills or notices shall not prevent such bills from becoming delinquent nor relieve the consumer from payment of same. The failure of water users to pay charges duly imposed shall result in the automatic imposition of the following penalties:
+(1)
+Nonpayment within 20 days from the due date will be subject to a penalty of ten percent of the delinquent account.
+(2)
+Nonpayment within 40 days from the date due will result in the water being shut off from the water user's property.
+(3)
+Nonpayment for 60 days after original due date will allow the city, in addition to all other rights and remedies, to terminate agreement, and in such event the water user shall not be entitled to receive, nor the city obligated to supply any water under this agreement.
+(4)
+Service disconnected for nonpayment of bills will be restored to the customer liable for usage of the service and payment of the bill only after bills are paid in full, such security deposit as may be required by the mayor and council is made, and a service charge paid for each meter reconnected. Such service charge shall be as established by ordinance or resolution of the mayor and council and made available for public examination in the office of the city clerk.
+(Code 1998, § 12-109)
+State Law reference— Prior customer's debt does not authorize municipality to refuse water service to another customer at location where service debt was incurred, O.C.G.A. § 36-60-17.
+Sec. 70-194. - Suspension of service.
+(a)
+When water service is discontinued and all bills paid, the security deposit shall be refunded to the consumer by the city.
+(b)
+Upon discontinuance of service for nonpayment of bills, the security deposit will be applied by the city toward settlement of the account. Any balance will be refunded to the consumer; however, if the security deposit is insufficient to cover the bill, the city may proceed to collect the balance in the usual way provided by law for collection of debts.
+(Code 1998, § 12-110)
+Sec. 70-195. - Complaints, adjustments.
+If the consumer believes his bill to be in error, he shall present his claim, in person, at city hall before the bill becomes delinquent. Such claim, if made after the bill has become delinquent, shall not be effective in preventing discontinuance of service as heretofore provided. The consumer may pay such bill under protest and said payment shall not prejudice his claim.
+(1)
+Water meters will be tested at the request of the consumer upon payment to the city of the actual costs of making the test, provided, however, that if the meter is found to over-register beyond three percent of the correct volume, no charge will be made.
+(2)
+If the seal of a meter is broken by other than the city's representative or if the meter fails to register correctly or is stopped for any cause, the consumer shall pay an amount estimated from the record of his previous bills and/or from other proper data.
+(Code 1998, § 12-111)
+Sec. 70-196. - Water conservation.
+(a)
+General provisions.
+(1)
+Purpose. The purpose of this section is to provide for the health, safety, and general welfare of the citizens of the City of Darien through water conservation and water efficiency. The objectives of this section are:
+a.
+To regulate outdoor water use in accordance with requirement of the Georgia Environmental Protection Division;
+b.
+To mandate that water be used for lawn and landscape irrigation in a manner that prevents waste, conserves water resources for their most beneficial and vital uses, and protects the public health; and
+c.
+To establish legal authority to carry out all inspection; surveillance and enforcement procedures as necessary to ensure compliance with this section.
+(2)
+Applicability. This section shall apply to all water customers of the City of Darien as permitted by the Georgia Environmental Protection Division (EPD) for water withdrawal or for operation of a drinking water system.
+(3)
+Definitions.
+Address means the "house number" (a numeric or alphanumeric designation) that, together with the street name, describes a physical location of a specific property. "Even numbered address" means a house number ending with the number 0, 2, 4, 6, 8, or no house number. "Odd numbered address" means a house number ending with the number 1, 3, 5, 7, or 9.
+Administrator refers to city manager.
+Declared drought response level means one of four levels of drought that can be declared based on the severity of drought conditions, with one being the least severe and four being the most severe.
+(b)
+Outdoor water use schedule.
+(1)
+Outdoor water use schedule during non-drought periods. Outdoor water use during non-drought periods, other than activities exempted in subsectin (d), shall occur only as follows:
+a.
+Odd-numbered addresses: outdoor water use is allowed on Tuesdays, Thursdays and Sundays.
+b.
+Even-numbered addresses: outdoor water use is allowed on Mondays, Wednesdays and Saturdays.
+(2)
+Outdoor water use schedule during drought response level one. When drought response level one has been declared, outdoor water use may occur on scheduled days within the hours of 12:00 midnight to 10:00 a.m. and 4:00 p.m. to 12:00 midnight.
+a.
+Scheduled days for odd-numbered addresses are Tuesdays, Thursdays and Sundays.
+b.
+Scheduled days for even-numbered addresses are Mondays, Wednesdays and Saturdays.
+c.
+Use of hydrants for any purpose other than firefighting, public health, safety or flushing is prohibited.
+(3)
+Outdoor water use schedule during drought response level two. When drought response level two has been declared, outdoor water use may occur on scheduled days within the hours of 12:00 midnight to 10:00 a.m.
+a.
+Scheduled days for odd-numbered addresses are Tuesdays, Thursdays and Sundays.
+b.
+Scheduled days for even-numbered addresses and golf course fairways are Mondays, Wednesdays and Saturdays.
+c.
+The following uses are prohibited:
+1.
+Using hydrants for any purpose other than firefighting, public health, safety or flushing.
+2.
+Washing hard surfaces, such as streets, gutters, sidewalks and driveways except when necessary for public health and safety.
+(4)
+Outdoor water use schedule during drought response level three. When drought response level three has been declared, outdoor water use may occur on the scheduled day within the hours of 12:00 midnight to 10:00 a.m.
+a.
+The scheduled day for odd-numbered addresses is Sunday.
+b.
+The scheduled day for even-numbered addresses and golf course fairways is Saturday.
+c.
+The following uses are prohibited:
+1.
+Using hydrants for any purpose other than firefighting, public health, safety or flushing.
+2.
+Washing hard surfaces, such as streets, gutters, sidewalks, driveways, except when necessary for public health and safety
+3.
+Filling installed swimming pools except when necessary for health care or structural integrity.
+4.
+Washing vehicles, such as cars, boats, trailers, motorbikes, airplanes, golf carts.
+5.
+Washing buildings or structures except for immediate fire protection.
+6.
+Non-commercial fund-raisers, such as car washes.
+7.
+Using water for ornamental purposes, such as fountains, reflecting pools, and waterfalls except when necessary to support aquatic life.
+(5)
+Restriction during drought response level four. When a drought response level four had been declared, no outdoor water use is allowed, other than for activities exempted in subsection (d), or as the EPD director may order.
+(6)
+Exemptions.
+a.
+This section shall not apply to the following outdoor water uses:
+1.
+Capture and re-use of cooling system condensate or storm water in compliance with applicable local ordinances.
+2.
+Re-use of gray water in compliance with applicable local ordinances.
+3.
+Use of reclaimed wastewater by a designated user from a system permitted by EPD to provide reclaimed wastewater.
+4.
+Irrigation of personal food gardens.
+b.
+Newly (in place less than 30 days) installed landscapes are subject to the following:
+1.
+Irrigation of newly installed landscapes is allowed any day of the week, but only during allowed hours for the drought response level in effect, for a period of 30 days following installation. No watering is allowed during drought response level four.
+2.
+For new landscapes installed by certified or licensed professionals, commercial exemptions apply.
+c.
+The following golf course outdoor water uses are exempt from the outdoor water use schedules of this rule.
+1.
+Use of reclaimed wastewater by a designated user from a system permitted by EPD to provide reclaimed wastewater.
+2.
+Irrigation of fairways during times of non-drought and declared drought response level one.
+3.
+Irrigation of tees during times of non-drought and declared drought response levels one, two and three.
+4.
+Irrigation of greens.
+d.
+The following commercial outdoor water uses are exempt from the outdoor water use schedules of this rule.
+1.
+Professionally certified or licensed landscapers, golf course contractors, and sports turf landscapers: during installation and 30 days following installation only. Professional landscapers must be certified or licensed for commercial exemptions to apply.
+2.
+Irrigation contractors: during installation and as needed for proper maintenance and adjustments only.
+3.
+Sod producers.
+4.
+Ornamental growers.
+5.
+Fruit and vegetable growers.
+6.
+Retail garden centers.
+7.
+Hydro-seeding.
+8.
+Power-washing.
+9.
+Construction sites.
+10.
+Producers of food and fiber.
+11.
+Car washes.
+12.
+Watering-in of pesticides and herbicides on turf.
+(c)
+Rain sensing devices for automatic irrigation systems.
+(1)
+New automatic irrigation systems. Any new irrigation system installed within the City on or after the adoption of this section must be equipped with rain sensing devices approved as to type by the administrator.
+(2)
+Existing automatic irrigation systems as of the adoption of this section.
+Any irrigation system installed before the adoption of this section may not be operated after one year following the date of the adoption of this section without being equipped with rain sensing devices and freeze gauges approved as to number and type by the administrator.
+(d)
+Variances.
+(1)
+Conditions for variance. The administrator may, in special cases, grant variances from certain provisions of subsections (b) or (c) to persons demonstrating extreme hardship and need. The administrator may grant variances only under all of the following circumstances and conditions:
+a.
+Granting of a variance must not cause an immediate significant reduction in the city's water supply.
+b.
+The extreme hardship or need requiring the variance must relate to the health, safety, or welfare of the person requesting it.
+c.
+The health, safety, and welfare of other persons must not be adversely affected by granting the variance.
+(2)
+Process to receive variance. The applicant must sign a compliance agreement on forms provided by the administrator, and approved by the city attorney, agreeing to irrigate or water a lawn or landscape only in the amount and manner permitted by the variance.
+(e)
+Enforcement.
+(1)
+Notice of violation. Whenever the city finds that a person has violated a prohibition or failed to meet a requirement of this section, the city may order compliance by written notice of violation to the responsible party. Such notice will include the nature of the violation, a notice to immediately cease actions in violation of this section, and a schedule to address the violation, if necessary.
+(2)
+Citation. Should the violation not be remedied as ordered, a citation may be issued for an ordinance violation for trial before the Municipal Court of the City of Darien.
+(3)
+Injunctive relief. It shall be unlawful for any person to violate any provision or fail to comply with any of the requirements of this section. If a person has violated or continues to violate the provisions of this section, the city may petition for a preliminary or permanent injunction restraining the person from activities which would create further violations or compelling the person to perform abatement or remediation of the violation.
+(4)
+Criminal prosecution. Any person that has violated or continues to violate this section shall be liable to criminal prosecution to the fullest extent of the law for an ordinance violation, and shall be subject to a criminal penalty of $100.00 per violation per day. The City of Darien may recover all attorneys' fees, court costs and other expenses associated with enforcement of this section, including sampling and monitoring expenses.
+(Ord. of 10-20-2009(3))
+Sec. 70-197. - Damaging water facility.
+No person shall maliciously, willfully, or negligently break, damage, destroy, uncover, deface, or tamper with any structure, appurtenance or equipment which is a part of the water facilities, to include, but not limited to, piping, meters and meter parts, casing, taps, etc. Any person violating this provision shall be subject to a fine of up to $1,000.00 or imprisonment for 60 days or both such fine and imprisonment.
+(Ord. No. 2018-4, § I, 10-16-2018)
+Secs. 70-198—70-205. - Reserved.
+ARTICLE IV. - WELLHEAD PROTECTION
+
+Sec. 70-206. - Purpose.
+The purpose of this article is to ensure the provision of a safe and sanitary drinking water supply for the city by the establishment of wellhead protection zones surrounding the wellheads for all wells which are the supply sources for the city water system and by the designation and regulation of property uses and conditions which may be maintained within such zones.
+(Code 1998, § 12-112(1))
+Sec. 70-207. - Definitions.
+Words and phrases used in this article shall have the following meanings, unless otherwise specified.
+Hazardous waste or material means any waste or material which because of its quantity, concentration or physical, chemical, or infectious characteristics may:
+(1)
+Cause or significantly contribute to an increase in mortality or an increase in serious irreversible or incapacitating reversible illness; or
+(2)
+Pose a substantial present or potential hazard to human health or to the environment when improperly treated, stored, transported, disposed of or otherwise managed.
+Sanitary landfill means a disposal site where solid wastes, including putrescible wastes, or hazardous wastes, are disposed of on land by placing earth cover thereon.
+Wellhead means the upper terminal of a well, including adapters, ports, seals, valves and other attachments.
+(Code 1998, § 12-112(2))
+Sec. 70-208. - Esablishment of wellhead protection zone.
+There is hereby established a use district to be known as a wellhead protection zone, identified and described as all the area within a circle, the center of which is the center of any city water supply wellhead and the radius of which is 100 feet.
+(Code 1998, § 12-112(3))
+Sec. 70-209. - Permitted uses.
+The following use are permitted within wellhead protection zones:
+(1)
+Any use permitted within existing agricultural or single-family residential districts, except that the minimum residential lot size for a lot, any portion of which lies within the wellhead protection zone, shall not be less one acre; and
+(2)
+Any other open land use where any building located on the property is incidental and accessory to the primary open land use.
+(Code 1998, § 12-112(4))
+Sec. 70-210. - Prohibited uses.
+The following uses or conditions shall be and are hereby prohibited within wellhead protection zones, whether or not such use or condition may otherwise be ordinarily included as a part of permitted uses under this article:
+(1)
+Surface use or storage of hazardous material, expressly including commercial use of agricultural pesticides;
+(2)
+Septic tanks or drain fields appurtenant thereto;
+(3)
+Impervious surfaces other than roofs of buildings, and streets, driveways and walks serving buildings permitted under this article;
+(4)
+Sanitary landfills;
+(5)
+Hazardous waste disposal sites;
+(6)
+Stormwater infiltration basins;
+(7)
+Underground storage tanks;
+(8)
+Sanitary sewer lines within 150 feet or applicable EPD required distance of a wellhead.
+(Code 1998, § 12-112(5))
+Sec. 70-211. - Administration.
+The policies and procedures for administration of any wellhead protection zone established under this article, including without limitation those applicable to nonconforming uses, exceptions, enforcement and penalties, shall be the same as provided in appendix A, pertaining to zoning for the city, as the same is presently enacted or may from time to time be amended.
+(Code 1998, § 12-112(6))
+Secs. 70-212—70-300. - Reserved.
+new
+ARTICLE V. - STORMWATER UTILITY
+
+Sec. 70-301. - Stormwater utility established.
+new
+There is established a stormwater utility to be known as the "City of Darien Stormwater Utility," which shall be responsible for stormwater management services, systems and facilities throughout the city, and which shall provide for the management, protection, control, regulation, use and enhancement of the city's stormwater management services, systems and facilities.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-302. - Purpose.
+new
+The city is authorized by the state constitution, including, without limitation, article IX, section II, paragraphs II and III(a)(6) thereof and state law, to provide stormwater management services, systems and facilities throughout the city, which services, systems and facilities contribute to the protection and preservation of the public health, safety and welfare, and protection of the natural resources of the city. The Federal Clean Water Act, as amended by the Water Quality Act of 1987 (33 USC 1251 et seq.), other amendments and rules promulgated by the United States Environmental Protection Agency pursuant to the Act, place increased emphasis on the role of local governments in developing, implementing, conducting and making available to its citizens and property owners stormwater management services which address water quality and volume impacts of stormwater runoff.
+The city council has determined that development in the city to date, and development in the future, has created and will continue to create additional needs for stormwater management services, systems and facilities within the city. The city has engaged a consultant to perform a stormwater utility feasibility study of the city's stormwater management needs and the alternatives available to the city for dealing with stormwater management, and has received, reviewed and considered the results of the consultant's analyses which identify stormwater management needs, propose strategic program goals and priorities, estimate the cost of stormwater management services, systems and facilities, examine reasonable charges by the city for providing such services and facilities and project the rate base available within the city to support such costs. The city council finds and concludes from the stormwater utility feasibility study that it would be desirable to provide for additional stormwater management services, systems and facilities within the city.
+The city council finds and concludes from the stormwater utility feasibility study that a fair and equitable rate structure for those owners of developed property in the city receiving the benefits of stormwater management services, systems and facilities, the proceeds of which will be dedicated to the city stormwater utility for carrying out its purposes, will be essential if the city is to provide the level of stormwater management services, systems and facilities that would be desirable to meet the existing and future stormwater management needs of the city.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-303. - Findings.
+new
+The city council makes the following findings of fact:
+(1)
+The city is authorized by the state constitution, including, without limitation, article IX, section II, paragraphs II and III(a)(6) thereof and state law to provide stormwater management services, systems and facilities throughout the city.
+(2)
+The management of stormwater and other surface water discharges within and beyond the city is a matter that affects the health, safety and welfare of all residents and businesses in the city.
+(3)
+Improper management of stormwater runoff may cause erosion of lands, threaten to potentially damage businesses and residences, and other facilities and may create environmental damage to the rivers, streams and other bodies of water within and adjacent to the city.
+(4)
+A system for the collection, conveyance, storage, treatment and disposal of stormwater provides services to all properties within the city and surrounding areas.
+(5)
+Failure to effectively manage stormwater affects the operations of sanitary sewer operated by the city by, among other things, increasing the likelihood of infiltration and inflow into the sanitary sewer system.
+(6)
+Failure to effectively manage stormwater contributes to the further degradation of the water quality in area waterbodies which may result in higher levels of treatment requirements being imposed on the city's wastewater treatment facilities.
+(7)
+The Federal Clean Water Act, as amended by the Water Quality Act of 1987 (33 USC 1251 et seq.) (the "Act"),and rules promulgated by the United States Environmental Protection Agency pursuant to the Act imposed by regulatory obligations of its national pollutant discharge elimination system (NPDES) permit require the city to reduce pollution in its stormwater discharge and increase water quality to the maximum extent practicable.
+(8)
+Proper management of stormwater is a key element of having clean water with adequate assimilative capacity for treated wastewater discharges and adequate potable drinking water that are essential to support existing and future development in the city. The city has two rivers and streams listed as impaired waters by the Georgia Department of Natural Resources, Environmental Protection Division, or other appropriate authorities pursuant to section 303(d) of the Act.
+(9)
+Compliance with the regulatory obligations of the NPDES permit will substantially increase the cost of stormwater management above that which is currently spent for drainage and flood control.
+(10)
+The cost of operating and maintaining the city stormwater management system and financing necessary repairs, replacements, improvements and extensions thereof should, to the extent practicable, be allocated in relationship to the services received from the system.
+(11)
+In order to protect the health, safety and welfare of the public, the city hereby exercises its authority to establish a stormwater utility and establish rates for stormwater management services.
+(12)
+In promulgating the regulations contained in this section, the city is acting pursuant to authority granted by the Constitution of the State of Georgia and the Charter of the City to provide for stormwater collection and disposal (Ga. Const. art. IX, § II, lll(a)(6)).
+(13)
+The city fully incorporates by reference into these findings the stormwater utility feasibility study, said document is on file in the office of the city manager.
+(14)
+The stormwater utility feasibility study conducted on behalf of and submitted to the city assesses and defines the stormwater management issues, needs, goals, program priorities and operational opportunities of the city.
+(15)
+Given the issues, needs, goals, priorities and operational opportunities identified in the stormwater utility feasibility study submitted to the city, the city determines to establish a stormwater utility within the city that is dedicated specifically to the management, maintenance, protection, control, regulation, use and enhancement of stormwater management services, systems and facilities in the city in concert with other water resource management programs.
+(16)
+Stormwater management is applicable and needed throughout the city. Development in the city has altered the natural hydrology with some natural elements having been replaced or augmented by manmade facilities. Even areas of the city that remain less densely developed and rural in character with natural stormwater drainage predominating, demand services along roads where ditches and culverts have been installed. As a result, stormwater management services systems and facilities needs apply to all areas of the city.
+(17)
+The stormwater needs in the city include, but are not limited to, protecting the public health, safety and welfare. Provision of stormwater management services, systems, facilities and regulation of their use renders and/or results in both service and benefit to individual properties, property owners, citizens and residents of city, and to all properties, property owners, citizens and residents of the city concurrently in a variety of ways as identified in the stormwater utility feasibility study.
+(18)
+The service and benefit rendered or resulting from the provision of stormwater management services, systems and facilities may differ over time depending on many factors and considerations, including, but not limited to, location, demands and impacts imposed upon the stormwater management services, systems and facilities, and risk exposure. It is practical and equitable to allocate the cost of stormwater management among the owners of properties in proportion to the long term demands the properties owned impose on the city's stormwater management services, systems and facilities which render or result in services and benefits to such properties and the owners thereof.
+(19)
+The city presently owns and operates stormwater management systems and facilities which have been developed, installed and acquired through various mechanisms over many years. The future usefulness and value of the existing stormwater management systems and facilities owned and operated by the city, and of future additions and improvements thereto, rests on the ability of the city to effectively manage, protect, control, regulate, use and enhance the stormwater management systems and facilities in the city in concert with the management and regulation of other water resources in the city. In order to do so, the city must have adequate and stable funding for its stormwater management services, systems and facilities.
+(20)
+A stormwater utility provides the most practical and appropriate means of properly delivering stormwater management services, systems and facilities throughout the city, and the most equitable means to regulate the use of a higher level of stormwater management services, systems and facilities in the city through stormwater management charges, user fees and other mechanisms as described more fully herein.
+(21)
+A schedule of stormwater utility management charges based in part on the area of impervious surface located on each property is the most appropriate and equitable means of allocating the cost of stormwater management services, systems and facilities throughout the city. Such charges may be complemented by other types of charges which address specific needs, including, but not limited to, special service fees, special assessments, use of proceeds from special purpose local option sales taxes and other forms of revenue, as deemed appropriate by the city council.
+(22)
+The existence of privately owned and maintained on-site or off-site systems, facilities, activities or assets which significantly reduce or otherwise mitigate the impact of a particular property on the city's stormwater utility's cost of providing stormwater management services and/or stormwater management systems and facilities should be taken into account to reduce the service charge on that property either in the form of a direct reduction or credit, and that such reduction or credit should be conditional upon continuing provision of such services, systems, facilities, activities or assets in a manner complying with the standards and codes as determined by the city and as set forth herein.
+(23)
+The area of impervious surfaces on each property is the most important factor influencing the cost of the stormwater management services, systems and facilities provided by the city or to be provided by the city in the future, and the area of impervious surfaces on each property is therefore the most appropriate parameter for calculating periodic stormwater management charges.
+(24)
+In addition to impervious area, the amount and types of pollutants that are carried by stormwater runoff is closely tied to the use of the property. Sampling of stormwater runoff from across the United States has demonstrated that the runoff from the more heavily used property, such as commercial and industrial developments, contain greater quantities of pollutants than less intensely developed residential properties. The water quality component of the city's stormwater program will concentrate more heavily in those areas where the land use of the properties generates the greatest quantity of pollutants which may be reflected in the stormwater quality charge of those properties.
+(25)
+It is imperative that the proceeds from all charges for stormwater management services, systems and facilities, together with any other revenues raised or otherwise allocated specifically to stormwater management services, systems and facilities, be dedicated solely to those purposes, and the council directs that such proceeds of charges and revenues shall therefore be deposited into the enterprise accounting fund of the city stormwater utility and shall remain in that fund and be disbursed only for stormwater management capital, operating and non-operating costs, lease payments and debt service of bonds or other indebtedness for stormwater management purposes.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-304. - Definitions.
+new
+(a)
+Generally. The following definitions shall apply in the interpretation and enforcement of this chapter, unless otherwise specifically stated or where the context clearly indicates a different meaning:
+Act means and refers to the Clean Water Act, as amended by the Water Quality Act of 1987 {33 USC 1251 et seq.), as amended, and the rules and regulations promulgated by the United States Environmental Protection Agency pursuant thereto.
+Base charge means a charge to all developed property based on the customer's fair share of the annual costs of those program elements needed to manage and maintain the basic drainage system and comply with the general requirements of the stormwater permit. The base charge is based on the ERU methodology.
+Credit means a reduction in the amount of the stormwater service charge to the owner of a particular parcel for privately owned, maintained and operated on-site or off-site stormwater systems or facilities, or activities that reduce or mitigate the city stormwater utility's cost of providing stormwater management services, systems and facilities.
+Customer of record means the customer in the city's utility billing system as receiving one or more municipal services other than stormwater.
+Developed property means a parcel that has been altered from its natural state by the addition of any improvement, such as a building, structure or other impervious surface with a footprint greater than 660 square feet and where a certificate of occupancy has been issued, or upon completion of construction or final inspection if no such certificate is issued; or where construction of an improvement is at least 50 percent complete and construction is halted for a period exceeding three months. Developed property includes but is not limited to, transient rentals (such as hotels and motels), single-family and other residential properties including duplex, triples, and multifamily apartment buildings or condominiums, commercial or industrial developments, institutional schools, hospitals and churches, federal, state, and local governmental properties, and parking parcels.
+Director means the city manager or his designees.
+Duplex means a detached residential structure containing two dwelling units, designed for occupancy by not more than two families living independent of each other. Duplexes shall be treated by the stormwater utility in the same manner as single-family properties.
+Equivalent runoff unit (ERU) means the statistical average horizontal impervious area of a single-family property between 1,884 and 3,743 square feet of impervious area within the city as of the date of adoption of the ordinance from which this article is derived. The average square footage of horizontal impervious surface for a single-family property is determined to be 2,635 square feet.
+Georgia Stormwater Management Manual means the Georgia Stormwater Management Manual Volume II (Technical handbook), dated August 2001, promulgated by the Atlanta Regional Commission, as officially revised and amended by the Atlanta Regional Commission from time to time.
+Impervious area means those areas which prevent or impede the infiltration of stormwater into the soil in the manner in which it entered the soil, in natural conditions, prior to development. Impervious areas include but are not limited to roofs, buildings, patios, concrete or asphalt parking, sidewalks or storage areas and compacted soil or gravel.
+Large single-family means a single-family property with more than 3,743 square feet of impervious area.
+Medium single-family means a single-family property with at least 1,884 square feet, but less than 3,743 square feet of impervious area.
+Other developed property means any developed property which is not a small, medium or large single-family property, a duplex, or a triplex.
+Parcel means a discrete unit of land created by subdivision, which complies with all applicable laws at the time such parcels were created, as identified in the county deed and/or tax records.
+Single-family property means a parcel containing a detached residential dwelling unit functioning as the only residential unit and designed for and occupied by one family only. A residential unit may also include a manufactured or mobile home or an individually metered townhouse or residential condominium.
+Small single-family means a single-family property with less than 1,884 square feet of impervious area.
+Stormwater management services means services provided by the city that may address the quality and/or the quantity of stormwater runoff which relate to the:
+(1)
+Transfer, control, conveyance or movement of stormwater runoff through the city;
+(2)
+Maintenance, repair and replacement of existing stormwater management systems and facilities;
+(3)
+Planning, development, design and construction of additional stormwater management systems and facilities to meet current and anticipated needs;
+(4)
+Regulation of the use of stormwater management services, systems and facilities;
+(5)
+Education of the public as to stormwater issues;
+(6)
+Construction of facilities and other infrastructure as may be needed to properly manage the quality and quantity of stormwater runoff; and
+(7)
+Debt service associated with said facilities or infrastructure.
+Stormwater service charge means a charge to all developed property based on the annual costs of those program elements needed to upgrade and expand the city's stormwater management systems. It represents the city's capital cost that results in properly designed and maintained stormwater management facilities. The stormwater service charge shall be charged based the ERU methodology.
+Stormwater management systems and facilities means those natural and manmade channels, swales, ditches, rivers, streams, creeks, branches, reservoirs, ponds, drainageways, inlets, catchbasins, pipes, head walls, storm sewers, lakes and other physical works, properties and improvements which transfer, control, convey or otherwise influence the movement of stormwater runoff, which are owned by the city or through which the city has an easement or other legally binding right of use for stormwater drainage, and for which the city has the obligation of maintenance for stormwater drainage purposes.
+Temporary customer vacancy shall mean any utility account for which municipal services has been halted by the customer of record and has remained inactive for no more than one year.
+Triplex means a detached residential structure containing three dwelling units, designed for occupancy by not more than three families living independent of each other. Triplexes shall be treated by the stormwater utility in the same manner as single-family properties.
+Undeveloped means a parcel which does not have any improvements such as a building, structure, or impervious surfaces no greater than a total of 660 square feet.
+(b)
+Construction of undefined terms. Terms not herein specifically defined shall be construed in the manner commonly accepted and the interpretation of the same will be furnished by the public works director upon application.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-305. - Enterprise fund established.
+new
+(a)
+Creation. There is established a stormwater utility enterprise fund in the city budgeting and accounting systems for the purpose of dedicating and protecting all funding applicable to the purposes and responsibilities of the stormwater utility, including, but not limited to, rentals, rates, charges, fees and licenses, as may be established by the council from time to time, and other funds that may be transferred or allocated to the stormwater utility. All revenues and receipts of the stormwater utility shall be placed in the stormwater utility enterprise fund, and all expenses and capital investments of the stormwater utility shall be paid from the stormwater utility enterprise fund; provided, however, that other revenues, receipts and resources not accounted for in the stormwater utility enterprise fund may be applied to stormwater management services, systems and facilities as deemed appropriate by the council.
+(b)
+Funding and budget.
+(1)
+The council shall place within the city stormwater utility the responsibility for operation, maintenance and regulation of the existing stormwater management services, systems and facilities previously performed, owned and operated or maintained by city, and other related assets, including, but not limited to, properties, other than road rights-of-way, upon which such stormwater management systems and facilities are located, easements, rights-of-entry and access and certain equipment used solely for stormwater management. This responsibility shall be placed with the city stormwater utility as the council has determined that the city stormwater utility has been sufficiently organized, staffed and funded adequately to carry out such responsibilities. The council shall determine which division of the city's governing body organization in which to place the stormwater utility, and the council may move the stormwater utility to other divisions from time to time as it sees fit.
+(2)
+The finance director or his designee shall prepare an annual budget, which is to include all operation and maintenance costs, debt service and other costs related to the operation of the stormwater utility. The budget is subject to approval by the city council.
+(3)
+The costs shall be spread over the rate classifications as determined by the city council.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-306. - Scope of responsibility for systems and facilities.
+new
+(a)
+The city owns or has rights established by written agreements which allow it to operate, maintain, improve and access those stormwater management systems and facilities which are located:
+(1)
+Within public road rights-of-way and easements;
+(2)
+On public land which is owned by the city or another governmental entity, and to which the city has agreements providing for the operation, maintenance, improvement and access to the stormwater management systems and facilities.
+(b)
+Operation, maintenance and/or improvement of stormwater management systems and facilities which are located on private or public property not owned by the city, and for which there has been no written agreement granting easements, rights-of-entry, rights-of-access, rights-of-use or other form of dedication thereof to the city for operation, maintenance, improvement and access of such stormwater management and systems and facilities, shall be and remain the legal responsibility of the property owner, except as otherwise provided for by the laws of the state and the United States.
+(c)
+It is the express intent of this article to protect the public health, safety and welfare of people and property in general, but not to create any special duty or relationship with any individual person, or to any specific property within or outside the boundaries of the city. The city expressly reserves the right to assert all available immunities and defenses in any action seeking to impose monetary damages or equitable remedies upon the city, its council, officers, employees and agents arising out of any alleged failure or breach of duty or relationship.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-307. - Stormwater management charges.
+new
+(a)
+It shall be the policy of the city that the base charge and the stormwater service charge for stormwater management services, systems and facilities to be provided by the stormwater utility shall be equitably derived through methods which have a demonstrable relationship to the varied demands and impacts imposed on the stormwater management services, systems and facilities by individual properties and/or the level of service rendered by or resulting from the provision of stormwater management services, systems and facilities. Stormwater charges shall be structured so as to be fair and reasonable, and the resultant charges shall bear a substantial relationship to the cost of providing stormwater management services, systems and facilities. Similarly situated properties shall be charged similar rates, charges or fees. Charges shall be coordinated with the use of other rates, charges or fees employed for stormwater management within the city, including, but not limited to, plan review and inspection fees, special fees for services, fees in lieu of regulatory requirements and special assessments. In setting the rentals, rates, charges, fees or licenses for stormwater management services, systems and facilities, the city council shall also take into consideration the impact such property will have in regulating the use of such services, systems and facilities.
+(b)
+The cost of stormwater management services, systems and facilities may include operating expenses, capital investments and reserve accounts.
+(c)
+To the extent practicable, credits against the stormwater service charge and/or other methods of funding stormwater management shall be provided for on-site stormwater control systems and activities constructed, operated, maintained and performed to the city's standards by private property owners which eliminate, mitigate or compensate for the impact that the property or person may have upon stormwater runoff discharged to public stormwater management systems and facilities or to private stormwater management systems and facilities which impact the proper function of public stormwater management systems and facilities.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-308. - Stormwater utility rates.
+new
+(a)
+Stormwater utility rates shall be set and may be modified from time to time by the city council. In setting or modifying such rates it shall be the goal of the city council to establish rates that are fair and reasonable, reflect the value of the stormwater management services, systems and facilities to those property owners who benefit therefrom, and which, together with other sources of support available to the city stormwater utility, are sufficient to support the cost of the stormwater management services, systems and facilities, including, but not limited to, the payment of principal and interest on debt obligations, lease payments, operating expenses, capital outlays, nonoperating expenses, provisions for prudent reserves and other costs as deemed appropriate by the city council.
+(b)
+The basis for computation of the charge for stormwater services to all developed property within the city is established under this section. The amount of charge to be imposed, the establishment of formulas for the calculation of charges, the creation of customer classifications for the imposition of charges, and changes in such charges, formulas and customer classifications may be made by further resolution of the city council. All charges established pursuant to this section shall be fair and reasonable.
+(c)
+The director shall assign a customer classification to all developed property within the city. The director shall be responsible for determining the impervious area, land area, land use or other factors as may be needed for the fair, reasonable and equitable allocation of the stormwater fee based on the best available information, including, but not limited to, date supplied by the county board of assessors, aerial photography, the property owner, tenant or developer. The director may require additional information as necessary to make the determination. The billing amount shall be updated by the director based on any additions to the impervious area as approved through the building permit process.
+(d)
+Charges shall be imposed to recover all or a portion of the costs of the stormwater utility. Such charges, established herein, may include the following components:
+(1)
+Base charge. A base charge may be imposed on all developed property in the city. The base charge represents each customer's fair share of the cost of the management and operation of the city's stormwater management program. The base charge is based on the ERU and is calculated using the formula identified in subsection (e) of this section.
+(2)
+Stormwater service charge. The stormwater service charge may be imposed on all developed property in city. It represents the city's capital cost that results in properly designed and maintained stormwater management facilities. The stormwater service charge shall be charged to collect sufficient revenue to fund the debt service for capital improvements, the capital replacement reserve, and the small/emergency project reserve. The stormwater service charge shall be charged based the ERU and is calculated using the formula identified in subsection (e) of this section.
+(e)
+Calculation of charges.
+(1)
+The monthly stormwater utility charges imposed to recover the cost of the stormwater utility program are as follows:
+EXPAND
+Base Charge ERU x $2.50 per month
+Stormwater Service Charge ERU x $1.00 per month
+Total Stormwater Management Charge $3.50 per ERU per month
+  (2)
+Estimating the equivalent runoff unit:
+a.
+The basis of the stormwater utility fee shall be the equivalent runoff unit (ERU).
+b.
+An ERU will represent 2,635 square feet of impervious area.
+c.
+The director shall be responsible for determining the impervious area and other required information for each developed property in city based on the best available information, including, but not limited to, data supplied by the county assessor, aerial photography, the property owner, developer or other method as may be required. The number of ERUs that will form the basis of the base charge and stormwater service charge shall be established in the following manner and based on the definitions set forth in section 70-304:
+1.
+Small single-family—The charges shall be equal to 0.6 ERUs.
+2.
+Medium single-family—The charges shall be equal to 1.0 ERU.
+3.
+Large single-family—The charges shall be equal to 1.7 ERUs.
+4.
+Other developed property ("other")—The charges shall be equal to the total impervious area of the property divided by the square footage of an ERU.
+5.
+Undeveloped—The charges shall be equal to zero ERUs and will not receive a stormwater utility bill.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-309. - Exemptions.
+new
+Except as provided in this section, no public or private property shall receive a credit or offset against such stormwater management charges. No credit, offset or other reduction in stormwater management charges shall be granted based on the tax status, economic status, race, religion, age or sex of the owner of the property being served, or based on any other condition unrelated to the provision of stormwater management services, systems and facilities. No credit, offset or other reduction in stormwater management charges shall be granted unless the on-site stormwater management and treatment facilities meet or exceed the requirements of the current NPDES permit for the Brunswick Metropolitan Statistical Area. There shall be four categories of exemptions as follows:
+(1)
+Type I exemption. The following parcels shall be automatically exempt from all stormwater management charges (both the base charges and stormwater service charges). Parcel owners do not need to apply for an exemption pursuant to section 70-310.
+a.
+Railroad tracks and the rights-of-way shall be exempt from all stormwater management charges. However, railroad stations, maintenance buildings or other developed land used for railroad purposes shall not be exempt from stormwater management charges.
+b.
+Public roadways, not including driveways, shall be exempt from stormwater service charges.
+(2)
+Type II exemption. The following parcels may be exempt from the stormwater service charges. However, parcel owners must first apply for a credit pursuant to the procedures identified in section 70-310.
+a.
+Water quantity credit. Parcels with on-site stormwater management and treatment facilities that are designed to properly manage the stormwater runoff from impervious surface areas in accordance with one or more of the stormwater criteria described by the Georgia Stormwater Management Manual may be eligible to be exempted from a portion of the stormwater service charge.
+1.
+In order to receive this credit, a maintenance plan must be on file with the department and the facility must be in compliance with the plan.
+2.
+Facilities designed to meet the channel protection standard in accordance with the City Code and the Georgia Stormwater Management Manual, each as may be updated or amended from time to time will be eligible for a ten percent reduction in the stormwater service charge for the property.
+3.
+Facilities designed to meet the channel protection and the over bank standard in accordance with the City Code and the Georgia Stormwater Management Manual, each as may be updated or amended from time to time, will be eligible for a 25 percent reduction in the stormwater service charge for the property.
+4.
+Facilities designed to meet the channel protection, over bank and flood protection standard in accordance with the City Code and the Georgia Stormwater Management Manual, each as may be updated or amended from time to time, will be eligible for a 50 percent reduction in the stormwater service charge for the property.
+b.
+Water quality credit. Parcels with on-site stormwater management and treatment facilities that are designed to properly manage the stormwater runoff from impervious surface areas in accordance with the criteria described by the Georgia Stormwater Management Manual may be eligible to be exempted from a portion of the stormwater service charge.
+1.
+In order to receive this credit, a maintenance plan must be on file with the department and the facility must be in compliance with the plan.
+2.
+Facilities designed to remove no less than 80 percent of the average annual sediment load from stormwater runoff from the site will be eligible for a 50 percent reduction in the stormwater service charge for the property.
+(3)
+Type III exemption.
+a.
+The parcels of subsection (3)b. of this section may be exempt from the stormwater management charge in addition to those described in subsection (2) of this section. However, parcel owners must first apply for a credit pursuant to the procedures identified in section 70-310.
+b.
+Education credit. The owner of property which is used as a site for a public or private school and which agrees to teach a general environmental science curriculum that includes water protection measures at the primary or secondary level will be eligible for a five percent reduction in the stormwater service charge for the property. If a specific water protection program is agreed to be taught in all grades at such school including the Water Wise Program, the River Kids Program, Enviroscape Program, GLOBE (Global Learning and Observation to Benefit the Environment) Program or another such program approved by the director, which will result in benefits to the city as a result of teaching such program, the owner will be eligible for up to an additional 15 percent reduction of the stormwater management charge applicable to the property, totaling a 20 percent total potential educational credit. The amount of credits given shall be as determined by the director based on the number of contact hours and the curriculum being taught. The educational credit may be taken in addition to any other credit available under this section. Prior to July 1 of each year, the superintendent of the McIntosh County School System, or in the case of private schools, the chief executive officer of the school, shall certify to the director, the water protection measures curriculum being taught in each school for which an educational credit is being claimed and the extent to which such curriculum is being taught. For purposes of this educational credit, a public school shall be any school operated by the McIntosh County School District and a private school shall be a school operated by a private entity teaching some or all of the grades K through 12, at which are taught subjects commonly taught in the public schools operated by the McIntosh County School District.
+(4)
+Type IV exemption.
+a.
+The parcels of subsection (4)b. of this section may be exempt from the stormwater service charges. However, parcel owners must first apply for a credit or adjustment pursuant to the procedures identified in section 70-310.
+b.
+Group credit. Groups of single-family properties or groups of other developed property which are developed as part of a common development plan and which share privately owned, maintained or operated stormwater control systems, facilities, assets, services or activities that reduce the city stormwater utility's cost may be eligible for a credit based on attaining and continuing compliance with the technical requirements and performance standards referenced in subsection (2) of this section. Such credits shall be allocated among all properties using such stormwater control systems or facilities, based on the criteria referenced in subsection (2) of this section, and the percent to which the owners contribute to the cost of ownership, operation and maintenance.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-310. - Procedure for applying for credits and adjustments to service charges.
+new
+(a)
+The director shall establish specified technical and procedural criteria by which credits or adjustments will be granted. Copies of such technical and procedural criteria will be maintained by and available from the city's inspections department.
+(1)
+In order to obtain a credit or adjustment, the property owner must make application to the director on forms provided by the director for such purpose.
+(2)
+Customers must apply for any credits or adjustments that they believe apply.
+(3)
+The application for any credit or adjustment must be in writing and must include the information necessary to establish eligibility for the credit or adjustment and, any application fee and be in the format established by the director. Incomplete applications will not be accepted by the director.
+(4)
+Stormwater utility fees may be credited or adjusted retroactively to the date the director received the completed application.
+(b)
+When an application for a credit is deemed complete by the director, the director shall have 30 days from the date the complete application is accepted of either granting the credit in whole, granting the credit in part, or denying the credit. Credits applied for by the property owner in the year 2022, and granted in whole or in part, shall apply to all stormwater service charges accruing in the year 2022. Beginning January 1, 2023, credits applied for by the property owner, and granted in whole or in part, shall apply from the first day of the calendar month immediately following the date on which a complete application for the credit has been filed with the city. The property owner may appeal such determination pursuant to section 70-312.
+(c)
+A property owner shall not have to reapply annually for the credit granted, but the director may review the credit and the basis therefor no more frequently than annually, and may terminate the credit if the director finds grounds therefor. If such credit is terminated, the property owner will be notified in writing and may appeal such determination pursuant to section 70-312, or may, if possible, correct the deficiencies which caused the termination and reapply for the credit.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-311. - Stormwater management charges billing, delinquencies and collections.
+new
+(a)
+Billing.
+(1)
+Stormwater management charges shall begin to accrue September 1, 2022, and shall be billed in arrears. A bill for stormwater management charges may be sent through the United States Postal Service or by alternative means, notifying the owner of the property being billed of the amount of the stormwater management charge, less credits, the date the payment is due and the date when payment is past due. Any newly constructed structure which will normally and ordinarily be assessed a stormwater utility fee shall pay a monthly prorated portion of the fee, as calculated herein, prior to the issuance of a certificate of occupancy. A single day or more shall constitute a whole month for the purposes of this initial proration.
+(2)
+The stormwater management charge may be billed and collected separately, or pre-billed on the annual ad valorem tax bill clearly delineated as a fee, or along with water and sanitary sewer charges, or along with other fees for services, as deemed most effective and efficient by the city manager.
+(3)
+The stormwater management charge may be billed to the customer of record or the owner of the property, as deemed most effective and efficient by the city manager.
+(4)
+Frequency of the billing of stormwater management charges shall be specified by the city manager.
+(5)
+Failure to receive a bill shall not be justification for nonpayment. Regardless of the party to whom the bill is initially directed, the owner of each developed property subject to stormwater management charges shall be obligated to pay the stormwater management charges and any interest on delinquent stormwater management charge payments.
+(6)
+The owner of any property which is occupied by a customer of record shall have the right to examine, during normal business hours, the appropriate records of the city to determine whether such fees and charges have been paid.
+(7)
+If an account is underbilled, or if no bill is sent for a particular tract of developed land, the city stormwater utility may backbill for a period of up to one year, but shall not be entitled to any interest for any delinquency during the backbilled period.
+(b)
+Partial payment. A partial payment by a customer shall be allocated first to the past due amount of the account and then the current amount due for stormwater services, followed by the current amount due wastewater service, followed by the current amount due for sanitation services and finally to the amount due for water.
+(c)
+Delinquencies and collections.
+(1)
+Unpaid stormwater management charges shall be collected by filing suit to collect on an unpaid account and by using all methods allowed by state law to collect on any judgment obtained thereby, including enforcement of any lien resulting from any such judgment. In no instance shall the unpaid stormwater charge constitute a direct lien against the property.
+(2)
+A ten percent penalty will be added for all stormwater service bills that are not paid by the 15th day of the current month's billing and an additional ten percent penalty will be assessed for each 30 days thereafter.
+(3)
+Stormwater management charges that are unpaid due to temporary customer vacancy shall be waived and will not be subject to any penalties or fines. After one year the owner of the property shall become the customer of record and shall be responsible for paying all future stormwater management charges.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)
+Sec. 70-312. - Adjustments/appeals.
+new
+(a)
+Request for adjustments.
+(1)
+All requests for adjustments shall be submitted to the utility supervisor, who shall have the authority to develop and administer the procedures and standards for the adjustment of the stormwater fee.
+a.
+Customers may seek an adjustment of the stormwater fee allocated to a parcel at any time by submitting the request in writing and setting forth in detail the grounds upon which relief is sought.
+b.
+Customers requesting the adjustments may be required, at his, or its own expense, to provide supplemental information to the utility supervisor, including but not limited to survey data approved by a registered professional land surveyor (RPLS) and engineering reports approved by a professional engineer (PE). Failure to provide such information within the time limits established by the utility supervisor, as may be reasonably extended, may result in denial of the adjustments request.
+c.
+Once a completed adjustments request and all required information are received by the utility supervisor, the utility supervisor shall have 30 calendar days within which to render a written decision. Concurrent payment of any charges allocated to the property is not required as a condition precedent to this request for review.
+d.
+In considering an adjustment request, the utility supervisor shall consider whether the calculation of the stormwater fee for the property is correct.
+e.
+The utility supervisor's decision shall be mailed to the address provided on the adjustments request form. Any adjustments due shall be activated prior to mailing of the utility supervisor's decision.
+(2)
+If the result of an appeal is that a refund is due the appellant, the refund will be applied as a credit on the appellant's next stormwater bill.
+(b)
+Appeals to the director.
+(1)
+Any person directly aggrieved by a decision of the utility supervisor shall have the right to appeal to the director.
+(2)
+Prior to any appeal to the director, the aggrieved party shall file a written request for reconsideration with the utility supervisor, who shall act upon the request within 15 days following the receipt of such request.
+(3)
+The written appeal shall specify all grounds for challenge to the utility supervisor decision and shall again state the amount of charge that the appellant considers to be appropriate. The appeal must specifically address the utility supervisor's conclusions and shall not merely repeat the bases for the initial appeal.
+(4)
+The utility supervisor shall forthwith transmit to the director all papers constituting the record upon which the action appealed was taken. The director shall have 30 calendar days within which to render a written decision.
+(5)
+In considering an adjustment request, the director shall consider whether the utility supervisor conclusions were fair, reasonable and consistent with administrative practices.
+(Ord. No. 2022-09, § I(Exh. A), 8-16-2022)

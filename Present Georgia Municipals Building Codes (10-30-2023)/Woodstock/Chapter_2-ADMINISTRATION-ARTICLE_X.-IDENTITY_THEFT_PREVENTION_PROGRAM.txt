@@ -1,0 +1,125 @@
+ARTICLE X. - IDENTITY THEFT PREVENTION PROGRAM
+
+Sec. 2-600. - Short title.
+This article shall be known as the identity theft prevention program.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-601. - Purpose.
+The purpose of this article is to comply with 16 CFR § 681.2 in order to detect, prevent and mitigate identity theft by identifying and detecting identity theft red flags and by responding to such red flags in a manner that will prevent identity theft.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-602. - Definitions.
+For purposes of this article, the following definitions apply:
+City means the City of Woodstock.
+Covered account means (i) An account that a financial institution or creditor offers or maintains, primarily for personal, family, or household purposes, that involves or is designed to permit multiple payments or transactions, such as a credit card account, mortgage loan, automobile loan, margin account, cell phone account, utility account, checking account, or savings account; and (ii) Any other account that the financial institution or creditor offers or maintains for which there is a reasonably foreseeable risk to customers or to the safety and soundness of the financial institution or creditor from identity theft, including financial, operational, compliance, reputation, or litigation risks.
+Credit means the right granted by a creditor to a debtor to defer payment of debt or to incur debts and defer its payment or to purchase property or services and defer payment therefore.
+Creditor means any person who regularly extends, renews, or continues credit; any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit and includes utility companies and telecommunications companies.
+Customer means a person that has a covered account with a creditor.
+Identity theft means a fraud committed or attempted using identifying information of another person without authority.
+Person means a natural person, a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
+Personal identifying information means a person's credit card account information, debit card information bank account information and drivers' license information and for a natural person includes their Social Security number, mother's birth name, and date of birth.
+Red flag means a pattern, practice, or specific activity that indicates the possible existence of identity theft.
+Service provider means a person that provides a service directly to the city.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-603. - Findings.
+(a)
+The city is a creditor pursuant to 16 CFR § 681.2 due to its provision or maintenance of covered accounts for which payment is made in arrears.
+(b)
+Covered accounts offered to customers for the provision of city services include water and sewer utility accounts.
+(c)
+The processes of opening a new covered account, restoring an existing covered account and making payments on such accounts have been identified as potential processes in which identity theft could occur.
+(d)
+The city limits access to personal identifying information to those employees responsible for or otherwise involved in opening or restoring covered accounts or accepting payment for use of covered accounts. Information provided to such employees is entered directly into the city's computer system and is not otherwise recorded.
+(e)
+The city determines that there is a low risk of identity theft occurring in the following way:
+(1)
+Use by an applicant of another person's personal identifying information to establish a new covered account;
+(2)
+Use of a previous customer's personal identifying information by another person in an effort to have service restored in the previous customer's name;
+(3)
+Use of another person's credit card, bank account, or other method of payment by a customer to pay such customer's covered account or accounts;
+(4)
+Use by a customer desiring to restore such customer's covered account of another person's credit card, bank account, or other method of payment.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-604. - Process of establishing a covered account.
+(a)
+As a precondition to opening a covered account in the city, each applicant, whether citizen or legal resident alien, shall provide the city with personal identifying information of the customer in the form of a valid government issued identification card containing a photograph of the customer. Such information shall be entered directly into the city's computer system.
+(b)
+If the customer uses the city's on-line bill payment system, each account shall be assigned an account number and personal identification number (PIN) which shall be unique to that account. The city may utilize computer software to randomly generate assigned PINs and to encrypt account numbers and PINs.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-605. - Access to covered account information.
+(a)
+Access to customer accounts shall be password protected and shall be limited to authorized city personnel.
+(b)
+Such password(s) shall be changed by finance management on a regular basis, shall be at least eight characters in length and shall contain letters, numbers and symbols.
+(c)
+Any unauthorized access to or other breach of customer accounts is to be reported immediately to the chief financial officer and the password changed immediately.
+(d)
+Personal identifying information included in customer accounts is considered confidential and any outside request or demand for such information shall be immediately forwarded to the chief financial officer and the city attorney.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-606. - Credit card payments.
+(a)
+In the event that credit card payments that are made over the Internet are processed through a third party service provider, such third party service provider shall certify that it has an adequate identity theft prevention program in place that is applicable to such payments.
+(b)
+All credit card payments made over the telephone or the city's website will verify that the card name matches the covered account name.
+(c)
+Account statements and receipts for covered accounts shall include only the last four digits of the credit or debit card or the bank account used for payment of the covered account.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-607. - Sources and types of red flags.
+All employees responsible for or involved in the process of opening a covered account, restoring a covered account or accepting payment for a covered account shall check for red flags as indicators of possible identity theft and such red flags may include:
+(1)
+Suspicious documents. Examples of suspicious documents include:
+a.
+Documents provided for identification that appear to be altered or forged;
+b.
+Identification on which the photograph or physical description is inconsistent with the appearance of the applicant or customer;
+c.
+Identification on which the information is inconsistent with information provided by the applicant or customer.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-608. - Prevention and mitigation of identity theft.
+(a)
+In the event that any city employee responsible for or involved in restoring an existing covered account or accepting payment for a covered account becomes aware of red flags indicating possible identity theft with respect to existing covered accounts, such employee shall use his or her discretion to determine whether such red flag or combination of red flags suggests a threat of identity theft. If, in his or her discretion, such employee determines that identity theft or attempted identity theft is likely or probable, such employee shall immediately report such red flags to finance management. If finance management in its discretion determines that further action is necessary, a city employee shall perform one or more of the following responses, as determined to be appropriate by finance management:
+(1)
+Contact the customer;
+(2)
+Make the following changes to the account if, after contacting the customer, it is apparent that someone other than the customer has accessed the customer's covered account:
+a.
+Change any account numbers, passwords, security codes, or other security devices that permit access to an account; or
+b.
+Close the account;
+(3)
+Cease attempts to collect additional charges from the customer and decline to sell the customer's account to a debt collector in the event that the customer's account has been accessed without authorization and such access has caused additional charges to accrue;
+(4)
+Notify the city's debt collector within 24 hours of the discovery of likely or probable identity theft relating to a customer account that has been sold to such debt collector in the event that a customer's account has been sold to a debt collector prior to the discovery of the likelihood or probability of identity theft relating to such account;
+(5)
+Notify law enforcement, in the event that someone other than the customer has accessed the customer's account causing additional charges to accrue or accessing personal identifying information; or
+(6)
+Take other appropriate action to prevent or mitigate identity theft.
+(b)
+In the event that any city employee responsible for or involved in opening a new covered account becomes aware of red flags indicating possible identity theft with respect an application for a new account, such employee shall use his or her discretion to determine whether such red flag or combination of red flags suggests a threat of identity theft. If, in his or her discretion, such employee determines that identity theft or attempted identity theft is likely or probable, such employee shall immediately report such red flags to finance management. If, in his or her discretion, such employee deems that identity theft is unlikely or that reliable information is available to reconcile red flags, the employee shall convey this information to finance management, who may in his or her discretion determine that no further action is necessary. If finance management in his or her discretion determines that further action is necessary, a city employee shall perform one or more of the following responses, as determined to be appropriate by finance management:
+(1)
+Request additional identifying information from the applicant;
+(2)
+Deny the application for the new account;
+(3)
+Notify law enforcement of possible identity theft; or
+(4)
+Take other appropriate action to prevent or mitigate identity theft.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-609. - Program administration.
+The finance manager is responsible for oversight of the program and for program implementation. The chief financial officer is responsible for reviewing reports prepared by staff regarding compliance with red flag requirements and with recommending material changes to the program, as necessary in the opinion of the chief financial officer, to address changing identity theft risks and to identify new or discontinued types of covered accounts. Any recommended material changes to the program shall be submitted to the city council for consideration by the council.
+(1)
+The finance manager will report to the chief financial officer at least annually, on compliance with the red flag requirements. The report will address material matters related to the program and evaluate issues such as:
+a.
+The effectiveness of the policies and procedures of city in addressing the risk of identity theft in connection with the opening of covered accounts and with respect to existing covered accounts;
+b.
+Service provider arrangements;
+c.
+Significant incidents involving identity theft and management's response; and
+d.
+Recommendations for material changes to the program.
+(2)
+The finance manager is responsible for providing training to all employees responsible for or involved in opening a new covered account, restoring an existing covered account or accepting payment for a covered account with respect to the implementation and requirements of the identity theft prevention program. The finance manager shall exercise his or her discretion in determining the amount and substance of training necessary.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Sec. 2-610. - Outside service providers.
+In the event that the city engages a service provider to perform an activity in connection with one or more covered accounts the finance manager shall exercise his or her discretion in reviewing such arrangements in order to ensure, to the best of his or her ability, that the service provider's activities are conducted in accordance with policies and procedures, agreed upon by contract, that are designed to detect any red flags that may arise in the performance of the service provider's activities and take appropriate steps to prevent or mitigate identity theft.
+(Ord. No. 2008-0021, § 1, 11-17-2008)
+Secs. 2-611—2-649. - Reserved.

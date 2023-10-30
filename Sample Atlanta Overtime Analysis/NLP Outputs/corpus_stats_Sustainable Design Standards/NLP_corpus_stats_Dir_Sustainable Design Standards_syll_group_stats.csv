@@ -1,0 +1,4 @@
+Column header,Document ID,Document,Count,Mean,Mode,Median,Standard deviation,Minimum,Maximum,Skewness,Kurtosis,25% quantile,50% quantile,75% quantile
+Number of Syllables in Document,1,"=hyperlink(""/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-27-2012_Codes.txt"")",2695,2695.0,2695,2695.0,,2695,2695,,,2695.0,2695.0,2695.0
+Number of Syllables in Document,2,"=hyperlink(""/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-15-2022_Codes .txt"")",3053,3053.0,3053,3053.0,,3053,3053,,,3053.0,3053.0,3053.0
+Number of Syllables in Document,3,"=hyperlink(""/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-28-2023_Codes.txt"")",3064,3064.0,3064,3064.0,,3064,3064,,,3064.0,3064.0,3064.0

@@ -1,0 +1,300 @@
+I. - WATER DISTRIBUTION SYSTEM
+PART 1 - GENERAL
+
+1.1 - REFERENCE STANDARDS
+A.
+American Waterworks Association (AWWA):
+EXPAND
+C104 Calcium Aluminate Cement Mortar with SealcoatLining for Ductile Iron Pipe and Fittings for Water
+C500 Gate Valves 3" through 48" for Water
+C509 Resilient Seat Wedge Gate Valves
+C600 Installation of Cast Iron Water Mains
+C601 Disinfecting Water Mains
+C800 Threads for Underground Service Line Fittings
+C502 Dry-Barrel Fire Hydrants
+C900 4" Through 12" PVC Pipe
+C905 14" Through 48" PVC Pipe
+C906 Polyethylene Pipe
+  B.
+American National Standards Institute (ANSI):
+EXPAND
+A21.10 Gray-Iron and Ductile Iron Fittings, 3" - 48" for Water and other Liquids
+A21.11 Rubber Gasket Joints for Ductile Iron Pressure Pipe Fittings
+A21.4 Calcium Aluminate Cement Mortar with Sealcoat Lining for Ductile Iron Pipe and Fittings for Water
+A21.5 Polyethylene Encasement for Ductile Iron Pipe
+A21.51 Ductile Iron Pipe, Centrifugally Cast in Metal Molds or Sand-Lined Molds, for Water or other Liquids
+A21.6 Cast Iron Pipe, Centrifugally Cast in Metal Molds, for Water or other liquids
+  C.
+American Society of Testing Materials (ASTM):
+EXPAND
+A47 Malleable Iron Castings
+A48 Gray Iron Castings
+B88 Seamless Copper Water Tube
+D1784 Rigid Poly (Vinyl Chloride) Compounds and Chlorinated Poly (Vinyl Chloride) Compounds
+D2239 Polyethylene (PE) Plastic Pipe (SDR-PR)
+D2241 Poly Vinyl Chloride (PVC) Plastic Pipe (SDR-PR and Class T)
+D3139 Joints for Plastic Pressure Pipe Using Flexible Elastomeric Seals
+  D.
+Rule for Safe Drinking Water, Georgia Environmental Protection Division (EPD): Chapter 391-3-5
+E.
+All materials must be certified as meeting National Sanitation Foundation (NSF) Standard 61 for potable water.
+1.2 - BASIS OF DESIGN
+All water system design will be in accordance with accepted criteria of the Georgia Environmental Protection Division. Specific reference should be "Ten States Standards for Water Works" and "American Water Works Association Standards". All designs are subject to review by the City of Kingsland and the Georgia Environmental Protection Division. Water lines shall be designed and sized to provide adequate fire flow. Design calculations shall be supplied to the City for review and approval prior to construction.
+1.3 - SUBMITTALS
+A.
+Two copies of manufacturer's standard drawings and catalog cuts of the following items shall be submitted for approval by the Municipal Utilities Department:
+1.
+Pipe
+2.
+Fittings
+3.
+Joints and Couplings
+4.
+Hydrants
+1.4 - PRODUCT DELIVERY, STORAGE AND HANDLING
+A.
+Materials delivered to site shall be inspected for damage, unloaded and stored with the minimum of handling. Store materials on site in enclosures or under protective coverings. Store plastic piping and rubber gaskets under cover and protect from exposure to direct sunlight. Store materials above ground. Interior of pipe and fittings shall be kept free of dirt and debris.
+B.
+Pipe, fittings, valves, hydrants and other accessories shall be handled to insure delivery to the point of installation in sound undamaged condition. If coatings or linings of pipe or fittings are damaged, such pipe or fittings shall be removed from the site and new materials furnished at no extra cost to the City of Kingsland. Pipe shall not be left in the sunlight, but shall be protected from exposure to direct sunlight.
+PART 2 - PRODUCTS
+
+2.1 - POLYVINYL CHLORIDE PIPE (PVC)
+A.
+Polyvinyl chloride water main pipe shall conform to Designation ASTM D-2241 and shall consist of Type I, Grade I PVC compound conforming to ASTM D-1784. All pipe shall be minimum Class 160-SDR 26. The standard laying length shall be 20-ft. +/- 1 in. PVC pipe with diameters less than or equal to 3 in. shall be Schedule 40 and connected with Schedule 80 fittings. Solvent cemented joints are not allowed for buried pipes.
+B.
+Pipe shall have integral bell and spigot joints. Provisions shall be made for contraction and expansion at each joint with an elastomeric ring. Threaded or solvent welded type joints shall not be used on pipe of 3" or greater. Bell end pipe and couplings with elastomeric gaskets shall meet the requirements of ASTM D-3139.
+C.
+The Contractor shall install a continuous run of plastic metallic tape above the top of the PVC pipe at 18 to 24 inches below finished grade. Tape shall be suitable for detection with metal pipe location equipment, labeled to identify contents of pipe, and brightly colored to contrast with the soil. In addition to the tape, the contractor shall install a continuous run of tracer wire attached to pipe. On pipe runs greater than 500', this tracer wire shall be attached to a 2" galvanized pipe with a 180 degree bend at top extending 36" above grade for connection to locator equipment.
+D.
+Pipe shall carry National Sanitation Foundation (NSF) seal, and be factory marked with manufacturer's identification, pipe size, material and pressure rating.
+2.2 - DUCTILE IRON PIPE
+A.
+Ductile iron pipe shall conform with the requirements of ANSI Standard A21.51 and shall be of the thickness classes shown below:
+EXPAND
+NORMAL PIPE DIAMETER (INCHES) THICKNESS CLASS
+4 51
+6 50
+8 50
+10 50
+12 50
+16 50
+18 50
+24 52
+  Class designations for the various classes of pipe shall be painted on the outside of each joint of pipe. Weights shall be conspicuously painted in white on each joint of pipe after the bituminous coating has hardened.
+B.
+All joints shall have the same pressure rating as the pipe with which it is used. Joints shall be rubber gasketed push on or mechanical joint. Joints shall meet the requirements of ANSI A21.11.
+C.
+Pipe shall be coated inside and out with a one mil thick bituminous coating conforming to ANSI A21.4.
+D.
+Pipe to have calcium aluminate cement mortar with Sealcoat lining in accordance with ANSI A21.4, amine cured Novalac epoxy 40 mil or approved equivalent.
+2.3 - GALVANIZED STEEL PIPE
+This pipe and fittings shall conform to the requirements of ASTM A120. The pipe shall be "Standard Weight", unless otherwise specified.
+2.4 - POLYETHYLENE PIPE
+The pipe supplied under this specification shall be SDR 17 high performance, high molecular weight, high density polyethylene pipe and shall conform to ASTM D2239. All pipe resin shall be manufactured by the same company that manufactures the pipe itself in accordance with these specifications to insure complete resin compatibility and total product accountability. The fittings supplied in this specification shall be molded or manufactured from a polyethylene compound having a cell classification equal to or exceeding the compound used in the pipe. To insure compatibility of polyethylene resins, all fittings supplied shall be of the same manufacture as the pipe being supplied.
+2.5 - COPPER PIPE OR TUBING
+This pipe shall conform to the requirements of ASTM B88, Type K.
+2.6 - PLASTIC TUBING
+A.
+Plastic pipe shall conform to all the requirements of the "Specifications for Polyethylene (PE) Plastic Pipe (SDR-PR)", as they apply to ASTM D-2239-SDR 7-PE 3408. All plastic tubing shall be sized similar to copper tubing.
+B.
+The hydrostatic design stress shall be 630 psi for water at 23 degrees centigrade (73.4 degrees F) and 500 psi for water at 37.8 degrees C (100 degrees F).
+C.
+The polyethylene extrusion compound from which the pipe is extruded shall meet the requirements of Type III, Grade 3, Class C material as described in "Specifications for Polyethylene Molding and Extrusion Materials", ASTM D-1248, except that melt index shall be determined under a higher temperature than any of the conditions as listed in Section 6 (b) of "Method of Test for Measuring Flow Rates of Thermoplastic by Extrusion Plastometer", ASTM D-1238. The test condition shall be the same as for conditions J, except that the temperature shall be 310 degrees C (590 degrees F), with a load of 12-5 kilograms. Under these conditions, the resin shall extrude at a maximum rate of 0.25 grams per ten (10) minutes. The pipe shall be homogenous throughout and free of visible cracks, holes, foreign inclusions, or other defects. The pipe shall be uniform in color, capacity, density and other physical properties.
+D.
+The size, the type of plastic pipe material, material, dimension ratio, commercial standards with which the pipe complies, the manufacturer's name and the National Sanitation Foundation (NSF) seal of approval shall be conspicuously marked on the outside of the pipe at intervals of not more than five (5) feet.
+2.7 - FITTINGS
+A.
+Ductile iron mechanical joint fittings shall conform to the requirements of ANSI A21.10. The fittings shall be of the lightest class conforming to the pressure rating of the pipe lines in which they are installed; in no case shall the fittings be lighter than Class 200.
+B.
+Fittings for galvanized steel pipe shall be malleable iron conforming to ANSI B16.3 except the nipples and couplings shall be the same material as the pipe. All fittings shall be hot-dip galvanized in accordance with ASTM A120.
+C.
+The mechanical joints shall meet requirements of ANSI A21.11 and shall have the same pressure rating as the fitting of which it is a part. All mechanical joints to be installed using Megalug glands (or approved equal) and shall meet manufacturer installation requirements and torques.
+D.
+Fittings shall be coated inside and out with one mil thick bituminous coating conforming to ANSI A21.4.
+E.
+Fittings shall have calcium aluminate cement mortar with Sealcoat lining in accordance with ANSI A21.4.
+2.8 - VALVES
+A.
+All valves 2" in diameter and smaller shall be constructed of brass or bronze except that the hand wheel that shall be of malleable iron construction with screwed ends. All valves 2-1/2" in diameter and larger shall have flanged ends for interior service and mechanical joints for buried service unless otherwise approved. They shall be iron body, bronze mounted, except that in the smaller sizes the valves may be all bronze.
+B.
+Gate Valves:
+1.
+Gate valves smaller than three inches shall meet the requirements of Fed. Spec. WW-V-54, Class 54, Class A, 125 pounds.
+2.
+Gate valves shall be AWWA C509 resilient seat wedge type.
+3.
+Gate valves 4" and larger shall be resilient wedge type, epoxy coated, ductile iron body; bronze mounted conforming to the requirements of ANSI/AWWA C509. Buried gate valves 16" and larger shall be gear operated.
+4.
+Gate valve ends shall be mechanical joint type. Tapping valves shall be equipped with a flanged end to mate with the tapping sleeve.
+5.
+Gate valves shall be equipped with a ductile iron wrench nut, open counter-clockwise and shall have upper and lower o-ring stem packing seals.
+6.
+Gate valves, including gear operated gate valves shall be non-rising stem type gate valves.
+7.
+Gate valves shall be products manufactured by M&H Valve, Mueller or approved equal.
+8.
+Gate valves shall be installed with heavy roadway screw type valve boxes. The lid shall have the words "WATER VALVE" stamped on it.
+9.
+Valves shall have two inch square operating nut, with the exception that gate valves in altitude valve pits and other similar installations shall have hand wheels.
+10.
+Valves buried in ground or located in vaults or structures shall have suitable extensions for socket operation with top of operating nut located six inches below finished grades.
+2.9 - HYDRANTS
+A.
+All fire hydrants shall conform to AWWA C502.
+B.
+All fire hydrants shall have a 6" mechanical joint inlet connection and be equipped with a 5-1/4 inch valve, two 2-1/2 inch hose nozzles and one 4-1/2 inch pumper connection, all with ANSI (National) standard threads. Operating nuts shall be 1-1/2 inch, pentagon type.
+C.
+All fire hydrants shall be designed for 150 psi working pressure and 300 psi test pressure.
+D.
+All fire hydrants shall be equipped with "O" ring type stem seals.
+E.
+All fire hydrants shall be designed so that clockwise rotation of the stem closes the valve and counterclockwise rotation opens the valve. Hydrant covers shall have the word "OPEN" and an arrow showing the proper rotation of the operating nut cast in or permanently attached.
+F.
+An independent drain shall be provided, completely draining the hydrant after use. The drain shall be activated to the open position by the closing of the hydrant valve. The drain rod shall be easily cleaned. The drain shall have a protective shield integral with the hydrant base to minimize clogging and prevent undermining.
+G.
+All working parts of the hydrant shall be easily removed for inspection or servicing without digging or the use of hoists or derricks or special tools. The hydrant cover and standpipe shall be removable without requiring the water to be shut off.
+H.
+Each fire hydrant shall be equipped with a ground line mounted breakaway flange and cast iron safety stem coupling specially designed so that upon sustaining severe impact the hydrant will shear off at the ground line without loss of water in the main.
+I.
+All fire hydrants shall be Mueller standard, M&H, Clow, American Darling or equal as approved by the Municipal Utilities Department and shall be yellow in color upon installation.
+J.
+The minimum acceptable flow for fire hydrants is 1,000 gpm in residential areas and 1,500 gpm in other districts. In residential areas the maximum distance between hydrants, measured along street centerlines, shall be 500 feet. In business, office, institutional and industrial zoning the maximum distance between hydrants, measured along street centerline, shall be 350 feet. The minimum fire flow pressure is 20 psi.
+K.
+When a fire protection system is proposed, a double check valve assembly shall be installed on the supply side of the sprinkler fire protection line for backflow prevention.
+2.10 - CORPORATION STOPS
+A.
+Corporation stops shall be ball type, made of brass and complete with a compression or flared coupling and AWWA standard threads as per AWWA C800. Taps shall be located at 10:00 and 2:00 o'clock on the circumference of the pipe. Service taps shall be staggered alternating from one side of the water main to the other and at least 12 inches apart. The taps must be a minimum of 24 inches apart if they are on the same side of the pipe. Each corporation stop will be wrapped with Teflon tape for ductile iron pipe water mains. No taps are allowed on a fire hydrant line. No tapping shall be made where rodding is placed.
+2.11 - SERVICE SADDLES
+A.
+Service saddles shall be bronze body (85-5-5 waterworks brass) and double strap for taps over 1 inch with silicon bronze nuts conforming to ASTM A98 and factory installed grade 60 rubber gaskets.
+PART 3 - EXECUTION
+
+3.1 - PIPE INSTALLATION
+A.
+PVC pipe shall be installed in accordance with the Uni-Bell Plastic Pipe Association Guide for installation of polyvinyl chloride plastic pipe for municipal water main distribution system and the printed recommendations of the manufacturer.
+B.
+Ductile iron pipe shall be installed in accordance with AWWA C600.
+C.
+Pipe line alignment and gradient shall be straight, or shall follow true curves as near as practicable. Curvature in pipe lines, where required, shall be well within the allowable laying radius, horizontal and vertical.
+D.
+Excavation, cleaning, laying, jointing and backfilling shall follow as closely as is possible so as to progress the work. In no case shall pipe be left in the trench overnight without completing the jointing. The completed pipeline shall not be left exposed in the trench unnecessarily, and the Contractor shall backfill and compact the trench as soon as is possible after laying and jointing is completed.
+E.
+Each day at the close of work, and at all times when laying is not in progress, the exposed end of the pipe line in the trench shall be closed with a head or barrier of wood or metal. If at any time it becomes necessary to cover the end of any uncompleted pipeline with backfill, the end of that pipe shall be closed with a mechanical joint plug.
+F.
+The Contractor shall keep exposed ends of pipe properly plugged during laying to prevent dirt and other materials from entering the line and shall also, before the system is accepted, thoroughly clean all lines.
+G.
+Thrust Blocks or restrained joints shall be provided as specified in AWWA C600. All exposed pipes, valves, hydrants, etc. shall be securely strapped and all ends and bends braced.
+H.
+Mechanical joints shall be made only by experienced mechanics. Sockets and spigots shall be washed with soapy water before slipping gland and gasket over spigot. The spigot shall be inserted in the socket full depth. The gasket shall be brushed with soapy water, and pushed into position making sure the gasket is evenly seated in the socket. The gland shall then be properly positioned for compressing the gasket. All bolts and nuts shall be tightened alternately 180 degrees apart. Sockets, spigots, glands and bolts shall be kept clean and wet with soapy water until each joint is completed.
+I.
+All water services shall be properly marked above ground with PVC pipe painted blue. Additional markings shall be stamped in the curb or marked on the edge of paving with an approved permanent marker capable of being located by a magnetic locator, such as a nail with cap, if no curb is present.
+J.
+Water main shall be laid at least ten (10) feet horizontally from any existing or proposed sanitary sewer, storm sewer, or sewer manhole. Water mains crossing house sewers, storm sewers or sanitary sewers shall be laid to provide a separation of at least 18 inches between the bottom of the water main (which should be on top) and the top of the sewer. At the crossings, one full length of water pipe shall be so located that both joints will be as far from the sewer as possible. Special structural support for the water and sewer pipes may be required.
+K.
+When local conditions prevent a vertical separation of 18 inches between water and sewer lines, the sewer passing over or under water mains shall be constructed of ductile iron pipe and joints that are equivalent to water main standards of construction and shall be pressure tested to assure water-tightness prior to backfilling.
+L.
+All water mains shall have a minimum cover of 36 inches measured from top of the pipe to the finished grade. When water lines are installed along a roadway which does not have curb and gutter, the water line shall be installed at sufficient depth to prevent conflict with future road improvements or vertical alignment changes.
+3.2 - FIRE HYDRANT INSTALLATION
+A.
+All fire hydrants shall have a 36-inch minimum pipe cover provided for the branch supply line and the nozzles located a minimum of 18 inches above finished grade.
+B.
+Each fire hydrant shall be set on a concrete foundation at least 18 inches square and 6 inches thick and shall be blocked against the end of the trench with concrete and anchored.
+C.
+Hydrant drainage shall be provided by installing around the hydrant at least 1 cubic yard of gravel or crushed stone below the top of the hydrant supply pipe. All Hydrant installations require inspection by a City of Kingsland representative prior to cover up.
+D.
+All hydrants shall be installed plumb. Hydrants shall have hose nozzles parallel with, and the pumper nozzle perpendicular to, the curb line. Hydrants located behind curbs where sidewalks extend close to, or about, the curb shall be set so that pumper or hose nozzle caps will be a minimum of 6 inches and a maximum of 12 inches from the gutter face of the curb. Where set between the curb and the sidewalk, or between the sidewalk and property line, no portion of the hydrant or nozzle cap shall be within 6 inches of the sidewalk.
+E.
+Immediately before installation of a hydrant, the following operations shall be performed:
+1.
+The hydrant shall be thoroughly inspected.
+2.
+The hydrant interior shall be thoroughly cleaned.
+3.
+The hydrant shall be opened and closed to determine that all parts are in proper working order, with valves seating properly and the drain valve operating freely.
+F.
+There shall be a minimum clearance of five (5) feet around the hydrant.
+3.3 - HYDROSTATIC TEST
+A.
+Upon completion of backfilling operations and not less than seven (7) days after the last concrete blocking anchor has been poured; the pipe system shall be subjected to a hydrostatic test.
+B.
+The system shall be filled with water and all air expelled.
+C.
+The Contractor shall pressurize the system to 150% of the design pressure or 150 lbs., whichever is greater, measured at the low point in the system.
+D.
+The test pressure shall be maintained for two hours.
+E.
+If the pressure cannot be maintained, the cause shall be determined, corrected, and test repeated until successful.
+3.4 - LEAKAGE TEST
+A.
+Following the pressure test, the system shall be subjected to a leakage test.
+B.
+Leakage shall be defined as the quantity of water that must be supplied into the pipe to maintain the design working pressure after all air in the pipeline has been expelled and the pipe has been filled with water.
+C.
+Leakage shall not exceed the quantity determined by the formula given below:
+L = SD (Square Root of P) / 133,200
+Where L = allowable leakage in gallons/hr.
+S = length of pipe tested in feet.
+D = nominal diameter of the pipe inches.
+P = average test pressure during leakage test in psig.
+D.
+If leakage exceeds the allowable rate, leaks shall be found and repaired and the test repeated until successful.
+3.5 - DISINFECTION
+A.
+Water mains and accessories shall be disinfected, flushed, and disinfection liquid disposed in accordance with "Rules for Safe Drinking Water" as published by the Georgia Environmental Protection Division and in accordance with AWWA C651 "Standard for Disinfecting Water Mains".
+B.
+The mains shall be flushed before disinfecting by maintaining a velocity of at least 2.5 feet per second for a period of ten minutes.
+C.
+The continuous feed method may be used for any size main or system where satisfactory quantity and quality water is available. The tablet method shall not be acceptable.
+D.
+Following disinfection, the system shall be flushed until chlorine concentration is less than 1 milligram per liter.
+E.
+Discharging of chlorinated water shall be done in such a manner acceptable to the City.
+F.
+Bacteriologic Tests:
+1.
+Samples shall be collected and tested for satisfactory microbiological quality of the water prior to placing the lines into service.
+2.
+Tests shall be performed to detect the presence of coliform organisms on samples taken from the end farthest from the point at which chlorine was introduced into the system and at 1000 feet intervals.
+3.
+If unsatisfactory samples are produced, disinfection shall be repeated until samples are satisfactory.
+4.
+All testing shall be performed by a Certified Testing Laboratory and paid for by the Contractor.
+3.9 - MISCELLANEOUS NOTES
+A.
+Minimum water tap size for dwellings.
+1. 3/4" for one lot or house on lot.
+2. 1" for duplex.
+3. 1-1/2" for triplex.
+B.
+All tracer wire to be mechanically connected at splices.
+C.
+All tracer wire to be attached to curb stops and brought to top of valve boxes.
+D.
+All taps to be inspected by the City before being covered up.
+E.
+All water lines to be looped at cul-de-sacs.
+F.
+All new service taps on existing water lines are the responsibility of the developer or applicant. The City of Kingsland shall incur no cost associated with the taping of existing water lines. All new tap connections made to existing water lines require pressure testing at 150psi for two hours. A representative of the City of Kingsland must be present while testing and taps are being preformed.
+G.
+Only potable water will be used to fill all liens for pressure testing.
+H.
+All water drawn from the City will be metered and billed at appropriate rate set by Council.
+I.
+Any pipe, solder, or flux used in the installation or repair of water lines must be lead-free. Pipes and fittings must not contain more than 8.0% lead. Solders and flux must not contain more than 0.2% galvanized.
+J.
+All distribution mains shall be provided with sufficient earth and other suitable cover to prevent freezing. This shall be not less than 36 inches measured from the top of pipe to the finished grade.
+K.
+All new service connections must be metered.
+1.
+Water meters shall be Sensus Brand with wand readable capability. Meters shall be installed at finished grade.
+2.
+All water meter installations with service connections larger than 3/4 of an inch shall require bypass assemblies with a lockable valve.
+3.
+All meter installations requiring bypass installations require inspection by a City of Kingsland representative prior to cover up.
+L.
+The Municipal Utilities Department must be notified a minimum of 48 hours prior to conducting any testing of the water distribution system.
+M.
+Installation of approved water quality sampling stations shall be required by the City of Kingsland in planned residential developments exceeding three hundred units. Sampling stations shall be installed at a rate of 1 station per 400 units.
+END OF SECTION I
+WATER DISTRIBUTION SYSTEM
+PART B BASIS OF DESIGN AND TECHNICAL SPECIFICATIONS

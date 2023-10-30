@@ -1,0 +1,408 @@
+ARTICLE XVIII. - POST-CONSTRUCTION STORMWATER MANAGEMENT FOR NEW DEVELOPMENT AND REDEVLOPMENT[1]
+
+Footnotes:
+--- (1) ---
+Editor's note— Ord. No. 20-07 , § 1, adopted Dec. 7, 2020, repealed Art. XVIII., §§ 40-451—40-472 in its entirety, and enacted a new Art. XVIII as set out herein. The former Art. XVIII pertained to similar subject matter and derived from Ord. No. 14-02, § 1, adopted Dec. 15, 2014.
+
+Sec. 40-451. - Purpose and intent.
+The purpose of this article is to protect, maintain and enhance the public health, safety, environment and general welfare by establishing minimum requirements and procedures to control the adverse effects of increased post-construction stormwater runoff and nonpoint source pollution associated with new development and redevelopment. Proper management of post-construction stormwater runoff will minimize damage to public and private property and infrastructure, safeguard the public health, safety, environment and general welfare of the public, and protect water and aquatic resources. Additionally, the City of Senoia is required to comply with several state and federal laws, regulations and permits and the requirements of the Metropolitan North Georgia Water Planning District's regional water plan related to managing the water quantity, velocity, and quality of post-construction stormwater runoff.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-452. - Compatibility with other regulations.
+This article is not intended to modify or repeal any other article, rule, regulation or other provision of law. The requirements of this article are in addition to the requirements of any other article, rule, regulation or other provision of law, and where any provision of this article imposes restrictions different from those imposed by any other article, rule, regulation or other provision of law, whichever provision is more restrictive or imposes higher protective standards for human health or the environment shall control.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-453. - Definitions.
+For this article, the terms below shall have the following meanings:
+Administrator means the person appointed to administer and implement this article on post-construction stormwater management for new development and redevelopment in accordance with sec. 40-455.
+Applicant means a person submitting a land development application for approval.
+BMP or best management practice means both structural devices to store or treat stormwater runoff and non-structural programs or practices which are designed to prevent or reduce the pollution of the waters of the State of Georgia.
+BMP landscaping plan means a design for vegetation and landscaping that is critical to the performance and function of the BMP including how the BMP will be stabilized and established with vegetation. It shall include a layout of plants and plant names (local and scientific).
+Channel means a natural or artificial watercourse with a definite bed and banks that conveys continuously or periodically flowing water.
+Conservation easement means an agreement between a landowner and the City of Senoia or other government agency or land trust that permanently protects open space or greenspace on the owner's land by limiting the amount and type of development that can take place, but continues to leave the remainder of the fee interest in private ownership.
+Detention means the temporary storage of stormwater runoff in a stormwater detention facility for the purpose of controlling the peak discharge.
+Detention facility means a structure designed for the storage and gradual release of stormwater runoff at controlled rates.
+Developer means a person who undertakes land development activities.
+Development means new development or redevelopment.
+Drainage easement means an easement appurtenant or attached to a tract or parcel of land allowing the owner of adjacent tracts or other persons to discharge stormwater runoff onto the tract or parcel of land subject to the drainage easement.
+Erosion, sedimentation and pollution control plan means a plan that is designed to minimize the accelerated erosion and sediment runoff at a site during land disturbance activities, as required by the Erosion and Sedimentation Control Act, O.C.G.A. Title 12, Chapter 7 and local ordinance enacted pursuant thereto.
+Extended detention means the storage of stormwater runoff for an extended period of time.
+Extreme flood protection means measures taken to prevent adverse impacts from large low-frequency storm events with a return frequency of 100 years or more.
+Flooding means a volume of surface water that exceeds the banks or walls of a BMP, or channel; and overflows onto adjacent lands.
+GSMM means the latest edition of the Georgia Stormwater Management Manual, Volume 2: Technical Handbook, and its appendices.
+Greenspace or open space means permanently protected areas of the site that are preserved in a natural state.
+Hotspot means a land use or activity on a site that has the potential to produce higher than normally found levels of pollutants in stormwater runoff. As defined by the administrator, hotspot land use may include gasoline stations, vehicle service and maintenance areas, industrial facilities (both permitted under the industrial stormwater general permit and others), material storage sites, garbage transfer facilities, and commercial parking lots with high-intensity use.
+Hydrologic soil group (HSG) means a natural resource conservation service classification system in which soils are categorized into four runoff potential groups. The groups range from group A soils, with high permeability and little runoff produced, to group D soils, which have low permeability rates and produce much more runoff.
+Impervious surface means a surface composed of any material that significantly impedes or prevents the natural infiltration of water into the soil. Impervious surfaces include, but are not limited to, rooftops, buildings, streets and roads, and any concrete or asphalt surface.
+Industrial stormwater general permit means the national pollutant discharge elimination system (NPDES) permit issued by Georgia Environmental Protection Division to an industry for stormwater discharges associated with industrial activity. The permit regulates pollutant levels associated with industrial stormwater discharges or specifies on-site pollution control strategies based on standard industrial classification (SIC) code.
+Infiltration means the process of percolating stormwater runoff into the subsoil.
+Inspection and maintenance agreement means a written agreement providing for the long-term inspection, operation, and maintenance of the stormwater management system and its components on a site.
+Jurisdictional wetland means an area that is inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support a prevalence of vegetation typically adapted for life in saturated soil conditions, commonly known as hydrophytic vegetation.
+Land development means any land change, including, but not limited to, clearing, digging, grubbing, stripping, removal of vegetation, dredging, grading, excavating, transporting and filling of land, construction, paving, and any other installation of impervious cover.
+Land development application means the application for a land development permit on a form provided by City of Senoia along with the supporting documentation required in sec. 40-459.
+Land development permit means the authorization necessary to begin construction-related, land-disturbing activity.
+Land disturbing activity means any activity which may result in soil erosion from water or wind and the movement of sediments into state water or onto lands within the state, including but not limited to clearing, dredging, grading, excavating, and filling of land. Land disturbing activity does not include agricultural practices as described O.C.G.A. 12-7-17(5) or silvicultural land management activities as described O.C.G.A. 12-7-17(6) within areas zoned for these activities.
+Linear feasibility program means a feasibility program developed by the City of Senoia and submitted to the Georgia Environmental Protection Division, which sets reasonable criteria for determining when implementation of stormwater management standards for linear transportation projects being constructed by the City of Senoia is infeasible.
+Linear transportation projects means construction projects on traveled ways including but not limited to roads, sidewalks, multi-use paths and trails, and airport runways and taxiways.
+MS4 Permit means the NPDES permit issued by Georgia Environmental Protection Division for discharges from the City of Senoia' municipal separate storm sewer system.
+New development means land disturbing activities, structural development (construction, installation or expansion of a building or other structure), and/or creation of impervious surfaces on a previously undeveloped site.
+Nonpoint source pollution means a form of water pollution that does not originate from a discrete point such as a wastewater treatment facility or industrial discharge, but involves the transport of pollutants such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials and other contaminants from land to surface water or groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a by-product of land use practices such as agricultural, silvicultural, mining, construction, subsurface disposal and urban runoff sources.
+Nonstructural stormwater management practice or nonstructural practice means any natural or planted vegetation or other nonstructural component of the stormwater management plan that provides or enhances stormwater quantity and/or quality control or other stormwater management benefits and includes, but is not limited to, riparian buffers, open and greenspace areas, overland flow filtration areas, natural depressions, ad vegetated channels.
+Off-site facility means a stormwater management facility located outside the boundaries of the site.
+On-site facility means a stormwater management facility located within the boundaries of the site.
+Overbank flood protection means measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e. flow events that exceed the capacity of the channel and enter the floodplain).
+Owner means the legal or beneficial owner of a site, including but not limited to, a mortgagee or vendee in possession, receiver, executor, trustee, lessee or other person, firm or corporation in control of the site.
+Permit means the permit issued by the City of Senoia to the applicant which is required for undertaking a land development activity.
+Person means any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the State, any interstate body or any other legal entity.
+Post-construction stormwater management means stormwater best management practices that are used on a permanent basis to control and treat runoff once construction has been completed in accordance with a stormwater management plan.
+Post-development means the conditions anticipated to exist on site immediately after completion of the proposed development.
+Pre-development refers to the time period, or the conditions that exist, on a site prior to the commencement of a land development project and at the time that plans for the land development of a site are approved by the plan approving authority. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time prior to the first item being approved or permitted shall establish pre-development conditions.
+Practicability policy means the latest edition of the Metropolitan North Georgia Water Planning District's Policy on Practicability Analysis for Runoff Reduction.
+Pre-development means the conditions that exist on a site immediately before the implementation of the proposed development. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time before the first item being approved or permitted shall establish pre-development conditions.
+Pre-development hydrology means (a) for new development, the runoff curve number determined using natural conditions hydrologic analysis based on the natural, undisturbed condition of the site immediately before implementation of the proposed development; and (b) for redevelopment, the existing conditions hydrograph may take into account the existing development when defining the runoff curve number and calculating existing runoff, unless the existing development causes a negative impact on downstream property.
+Previously developed site means a site that has been altered by paving, construction, and/or land disturbing activity.
+Project means a land development project.
+Redevelopment means structural development (construction, installation, or expansion of a building or other structure), creation or addition of impervious surfaces, replacement of impervious surfaces not as part of routine maintenance, and land disturbing activities associated with structural or impervious development on a previously developed site. Redevelopment does not include such activities as exterior remodeling.
+Regional stormwater management facility or regional facility means stormwater management facilities designed to control stormwater runoff from multiple properties, where the owners or developers of the individual properties may assist in the financing construction, operation and maintenance of the facility, and the requirement for on-site controls is either eliminated or reduced.
+Routine maintenance means activities to keep an impervious surface as near as possible to its constructed condition. This includes ordinary maintenance activities, resurfacing paved areas, and exterior building changes or improvements which do not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution.
+Runoff means stormwater runoff.
+Site means an area of land where development is planned, which may include all or portions of one or more parcels of land. For subdivisions and other common plans of development, the site includes all areas of land covered under an applicable land development permit.
+Stormwater better site design means nonstructural site design approaches and techniques that can reduce a site's impact on the watershed and can provide for nonstructural stormwater management. Stormwater better site design includes conserving and protecting natural areas and greenspace, reducing impervious cover and using natural features for stormwater management.
+Stormwater concept plan means an initial plan for post-construction stormwater management at the site that provides the groundwork for the stormwater management plan including the natural resources inventory, site layout concept, initial runoff characterization, and first round stormwater management system design.
+Stormwater management means the collection, conveyance, storage, treatment and disposal of stormwater runoff in a manner intended to prevent increased flood damage, streambank channel erosion, habitat degradation and water quality degradation, and to enhance and promote the public health, safety and general welfare.
+Stormwater management facility means any infrastructure that controls or conveys stormwater runoff.
+Stormwater management measure means any stormwater management facility or nonstructural stormwater practice.
+Stormwater management plan means a plan for post-construction stormwater management at the site that meets the requirements of sec. 40-458 and is included as part of the land development application.
+Stormwater management standards means those standards set forth in sec. 40-456.
+Stormwater management system means the entire set of non-structural site design features and structural BMPs for collection, conveyance, storage, infiltration, treatment, and disposal of stormwater runoff in a manner designed to prevent increased flood damage, streambank channel erosion, habitat degradation and water quality degradation, and to enhance and promote the public health, safety and general welfare.
+Stormwater retrofit means a stormwater management practice designed for a currently developed site that previously had either no stormwater management practice in place or a practice inadequate to meet the stormwater management requirements of the site.
+Stormwater runoff means flow on the surface of the ground, resulting from precipitation.
+Structural stormwater control means a structural stormwater management facility or device that controls stormwater runoff and changes the characteristics of that runoff including, but not limited to, the quantity and quality, the period of release or the velocity of flow of such runoff.
+Subdivision means the division of a tract or parcel of land resulting in one or more new lots or building sites for the purpose, whether immediately or in the future, of sale, other transfer of ownership or land development, and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or roadway.
+Other terms used but not defined in this article shall be interpreted based on how such terms are defined and used in the GSMM and the City of Senoia's MS4 permit.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-454. - Adoption and implementation of the GSMM; conflicts and inconsistencies.
+(a)
+In implementing this article, the City of Senoia shall use and require compliance with all relevant design standards, calculations, formulas, methods, and other guidance from the GSMM as well as all related appendices.
+(b)
+This article is not intended to modify or repeal any other article, ordinance, rule, regulation or other provision of law, including but not limited to any applicable stream buffers under state and local laws, and the Georgia Safe Dams Act and Rules for Dam Safety. In the event of any conflict or inconsistency between any provision in the City of Senoia's MS4 permit and this article, the provision from the MS4 permit shall control. In the event of any conflict or inconsistency between any provision of this article and the GSMM, the provision from this article shall control. In the event of any other conflict or inconsistency between any provision of this article and any other ordinance, rule, regulation or other provision of law, the provision that is more restrictive or imposes higher protective standards for human health or the environment shall control.
+(c)
+If any provision of this article is invalidated by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of this article.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-455. - Designation of administrator.
+The city manager is hereby appointed to administer and implement the provisions of this article. The city manager is authorized to designate another officer or employee of the city to perform and carry out the duties under this article, provided, such designation is accepted, in writing, by the designee. The city manager or persons designated as administrator shall possess all education, training, and certifications required by law or regulation.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-456. - Applicability criteria for stormwater management standards.
+This article shall be applicable to all land development within the municipal limits of the city on or after March 7, 2014, including future annexations, and including,but not limited to, site plan applications, subdivision applications, and grading applications, unless exempt pursuant to sec. 40-457 below. These standards apply to any new development or redevelopment site that meets one or more of the following criteria:
+(1)
+New development that creates or adds 5,000 square feet or greater of new impervious surface area or that involves land disturbing activity of one acre of land or greater;
+(2)
+Redevelopment (excluding routine maintenance and exterior remodeling) that creates, adds, or replaces 5,000 square feet or greater of new impervious surface area or that involves land disturbing activity of one acre or more;
+(3)
+New development and redevelopment if:
+a.
+Such new development or redevelopment is part of a subdivision or other common plan of development; and
+b.
+The sum of all associated impervious surface area or land disturbing activities that are being developed as part of such subdivision or other common plan of development meets or exceeds the threshold in (a) and (b) above.
+(4)
+Any commercial or industrial new development or redevelopment, regardless of size, that is a hotspot land use as defined in this article; and
+(5)
+Linear transportation projects that exceed the threshold in (a) or (b) above.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-457. - Exemptions from stormwater management standards.
+This article does not apply to the following activities:
+(1)
+Land disturbing activity conducted by local, state, authority, or federal agencies, solely to respond to an emergency need to protect life, limb, or property or conduct emergency repairs; provided, best management practices are followed to the maximum extent practicable;
+(2)
+Individual single-family or duplex residential lots that are not part of a subdivision or phased development project; provided, best management practices are followed to the maximum extent practicable to confine runoff during construction to the individual lot;
+(3)
+Additions or modifications to existing single-family or duplex residential structures;
+(4)
+Land disturbing activity that consists solely of cutting a trench for utility workand related pavement replacement;
+(5)
+Land disturbing activity conducted by local, state, authority, or federal agencies, whose sole purpose is to implement stormwater management or environmental restoration;
+(6)
+Repairs to any stormwater management system deemed necessary by the administrator;
+(7)
+Agricultural practices as described O.C.G.A. 12-7-17(5) within areas zoned for these activities with the exception of buildings or permanent structures that exceed the threshold in sec. 40-456 (a) or (d);
+(8)
+Silvicultural land management activities as described O.C.G.A. 12-7-17(6) within areas zoned for these activities with the exception of buildings or permanent structures that exceed the threshold in sec. 40-456 (a) or (d);
+(9)
+Installations or modifications to existing structures solely to implement Americans with Disabilities Act (ADA) requirements, including but not limited to elevator shafts, handicapped access ramps and parking, and enlarged entrances or exits; and
+(10)
+Linear transportation projects being constructed by the City of Senoia to the extent the administrator determines that the stormwater management standards may be infeasible to apply, all or in part, for any portion of the linear transportation project. For this exemption to apply, an infeasibility report that is compliant with the City of Senoia linear feasibility program shall first be submitted to the administrator that contains adequate documentation to support the evaluation for the applicable portion(s) and any resulting infeasibility determination, if any, by the administrator.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-458. - Stormwater management standards.
+Subject to the applicability criteria in sec. 40-456 and exemptions in sec. 40-457, the following stormwater management standards apply. Additional details for each standard can be found in the GSMM sec. 2.2.2.2:
+(1)
+Design of stormwater management system: The design of the stormwater management system shall be in accordance with the applicable sections of the GSMM as directed by the administrator. Any design which proposes a dam shall comply with the Georgia Safe Dams Act and Rules for Dam Safety as applicable.
+(2)
+Natural resources inventory: Site reconnaissance and surveying techniques shall be used to complete a thorough assessment of existing natural resources, both terrestrial and aquatic, found on the site. Resources to be identified, mapped, and shown on the stormwater management plan, shall include, at a minimum (as applicable):
+a.
+Topography (minimum of 2-foot contours) and steep slopes (i.e., Areas with slopes freater than 15 percent),
+b.
+Natural drainage divides and patterns,
+c.
+Natural drainage features (e.g., swales, basins, depressional areas),
+d.
+Natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers, drinking water wellhead protection areas and river corridors,
+e.
+Predominant soils (including erodible soils and karst areas), and
+f.
+Existing predominant vegetation including trees, high quality habitat and other existing vegetation.
+(3)
+Better site design practices for stormwater management: Stormwater management plans shall preserve the natural drainage and natural treatment systems and reduce the generation of additional stormwater runoff and pollutants to the maximum extent practicable. Additional details can be found in the GSMM sec. 2.3.
+(4)
+Stormwater runoff quality/reduction: Stormwater runoff quality/reduction shall be provided by using the following:
+a.
+The applicant may choose (A) runoff reduction and additional water quality shall not be required. To the extent (A) runoff reduction has been determined to be infeasible for all or a portion of the site using the practicability policy, then (B) water quality shall apply for the remaining runoff from a 1.2 inch rainfall event and must be treated to remove at least 80 percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM.
+1.
+Runoff reduction - The stormwater management system shall be designed to retain the first one inch of rainfall on the site using runoff reduction methods, to the maximum extent practicable.
+2.
+Water quality - The stormwater management system shall be designed to remove at least 80 percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM for runoff from a 1.2-inch rainfall event.
+b.
+If a site is determined to be a hotspot as detailed in sec. 40-453, the City of Senoia may require the use of specific or additional components for the stormwater management system to address pollutants of concern generated by that site.
+(5)
+Stream channel protection: Stream channel protection shall be provided by using all of the following three approaches:
+a.
+24-hour extended detention storage of the 1-year, 24-hour return frequency storm event;
+b.
+Erosion prevention measures, such as energy dissipation and velocity control; and
+c.
+Preservation of any applicable stream buffer.
+(6)
+Overbank flood protection: Downstream overbank flood protection shall be provided by controlling the post-development peak discharge rate to the pre-development rate for the 25-year, 24-hour storm event.
+(7)
+Extreme flood protection: Extreme flood protection shall be provided by controlling the 100-year, 24-hour storm event such that flooding is not exacerbated.
+(8)
+Downstream analysis: Due to peak flow timing and runoff volume effects, some structural components of the stormwater management system fail to reduce discharge peaks to pre-development levels downstream from the site. A downstream peak flow analysis shall be provided to the point in the watershed downstream of the site or the stormwater management system where the area of the site comprises ten percent of the total drainage areain accordance with sec. 3.1.9 of the GSMM. This is to help ensure that there are minimal downstream impacts from development on the site. The downstream analysis may result in the need to resize structural components of the stormwater management system.
+(9)
+Stormwater management system inspection and maintenance: The components of the stormwater management system that will not be dedicated to and formally accepted by the City of Senoia, including all drainage facilities, best management practices, credited conservation spaces, and conveyance systems, shall have an inspection and maintenance agreement, in the form provided by the city, to ensure that they continue to function as designed. All new development and redevelopment sites are to prepare a comprehensive inspection and maintenance agreement for the on-site stormwater management system. This plan shall be written in accordance with the requirements in sec. 40-473.
+(10)
+Modification to off-site facilities: The stormwater management plan for each land development project shall provide for stormwater management measures to be located on the site of the project, unless provisions are made to manage stormwater at an off-site or regional facility. The off-site or regional facility must be located on property legally dedicated to the city for the purpose, and formally accepted by it, must be designed and adequately sized to provide a level of stormwater quantity and quality control that is equal to or greater than that which would be afforded by on-site practices and there must be a legally-obligated entity responsible for long-term operation and maintenance of the off-site or regional stormwater facility. In addition, on-site measures shall be implemented, where necessary, to protect upstream and downstream properties and drainage channels from the site to the off-site facility.
+A stormwater management plan must be submitted to the City of Senoia which shows the adequacy of the off-site or regional facility. To be eligible for a modification, the applicant must demonstrate to the satisfaction of the City of Senoia that the use of an offsite or regional facility will not result in the following impacts to upstream or downstream areas:
+a.
+Increased threat of flood damage to public health, life, and property;
+b.
+Deterioration of existing culverts, bridges, dams, and other structures;
+c.
+Accelerated streambank or streambed erosion or siltation;
+e.
+Degradation of in-stream biological functions or habitat; or
+f.
+Water quality impairment in violation of state water quality standards, and/or violation of any state or federal regulations.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-459. - Permit; application requirements.
+No owner or developer shall perform any land development activities within the City of Senoia without first meeting requirements of this article prior to commencing the proposed activity. Unless specifically exempted by this article, every owner or developer proposing a land development activity shall submit to the City of Senoia a permit application on a form provided by the City of Senoia for that purpose. Unless otherwise exempted by this article, a permit application shall be accompanied by the following items in order to be considered:
+(1)
+Stormwater concept plan and consultation meeting certification in accordance with sec. 40-460.
+(2)
+Stormwater management site plan in accordance with sec. 40-460;
+(3)
+Inspection and maintenance agreement in accordance with sec. 40-473;
+(4)
+Performance bond in accordance with sec. 40-474, if applicable; and
+(5)
+Permit application and plan review fees in accordance with sec. 40-461.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-460. - Pre-submittal meeting, stormwater concept plan, and stormwater management plan requirements.
+(a)
+Before a land development permit application is submitted, an applicant may request a pre-submittal meeting with the City of Senoia. The pre-submittal meeting should take place based on an early step in the development process such as before site analysis and inventory (GSMM sec. 2.4.2.4) or the stormwater concept plan (GSMM sec. 2.4.2.5). The purpose of the pre-submittal meeting is to discuss opportunities, constraints, and ideas for the stormwater management system before formal site design engineering. To the extent applicable, local and regional watershed plans, greenspace plans, trails and greenway plans, and other resource protection plans should be consulted in the pre-submittal meeting. Applicants must request a pre-submittal meeting with the City of Senoia when applying for a determination of infeasibility through the practicability policy.
+(b)
+The stormwater concept plan shall be prepared using the minimum following steps:
+(1)
+Develop the site layout using better site design techniques, as applicable (GSMM sec. 2.3).
+(2)
+Calculate preliminary estimates of the unified stormwater sizing criteria requirements for stormwater runoff quality/reduction, channel protection, overbank flooding protection and extreme flood protection (GSMM sec. 2.2).
+(3)
+Perform screening and preliminary selection of appropriate best management practices and identification of potential siting locations (GSMM sec. 4.1).
+(c)
+The stormwater concept plan shall contain:
+(1)
+Common address and legal description of the site,
+(2)
+Vicinity map, and
+(3)
+Existing conditions and proposed site layout mapping and plans (recommended scale of 1" = 50'), which illustrate at a minimum:
+a.
+Existing and proposed topography (minimum of 2-foot contours);
+b.
+Perennial and intermittent streams;
+c.
+Mapping of predominant soils from USDA soil surveys;
+d.
+Boundaries of existing predominant vegetation and proposed limits of clearing and grading;
+e.
+Location and boundaries of other natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers and other setbacks (e.g., drinking water well setbacks, septic setbacks, etc.);
+f.
+Location of existing and proposed roads, buildings, parking areas and other impervious surfaces;
+g.
+Existing and proposed utilities (e.g., water, sewer, gas, electric) and easements;
+h.
+Preliminary estimates of unified stormwater sizing criteria requirements;
+i.
+Preliminary selection and location, size, and limits of disturbance of proposed BMPs;
+j.
+Location of existing and proposed conveyance systems such as grass channels, swales, and storm drains;
+k.
+Flow paths;
+l.
+Location of the boundaries of the base flood floodplain, future-conditions floodplain, and the floodway (as applicable) and relationship of site to upstream and downstream properties and drainage; and
+m.
+Preliminary location and dimensions of proposed channel modifications, such as bridge or culvert crossings.
+(d)
+The stormwater management plan shall contain the items listed in this part and be prepared under the direct supervisory control of either a registered professional engineer or a registered landscape architect licensed in the state of Georgia. Items (3), (4), (5), and (6) shall be sealed and signed by a registered professional engineer licensed in the state of Georgia. The overall site plan must be stamped by a design professional licensed in the State of Georgia for such purpose. (GSMM sec. 2.4.2.7)
+(1)
+Natural resources inventory.
+(2)
+Stormwater concept plan.
+(3)
+Existing conditions hydrologic analysis.
+(4)
+Post-development hydrologic analysis.
+(5)
+Stormwater management system.
+(6)
+Downstream analysis.
+(7)
+Erosion and sedimentation control plan.
+(8)
+BMP Landscaping plan.
+(9)
+Inspection and maintenance agreement.
+(10)
+Evidence of acquisition of applicable local and non-local permits.
+(11)
+Determination of infeasibility (if applicable).
+(e)
+For redevelopment and to the extent existing stormwater management structures are being used to meet stormwater management standards the following must also be included in the stormwater management plan for existing stormwater management structures.
+(1)
+As-built drawings.
+(2)
+Hydrology reports.
+(3)
+Current inspection of existing stormwater management structures with deficiencies noted.
+(4)
+BMP Landscaping plans.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-461. - Application fee.
+The fee for review of any land development application shall be based on the fee structure established by the mayor and council by resolution, as from time to time amended, and payment shall be made before the issuance of any land disturbance permit or building permit for the development.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-462. - Application procedures.
+Land development applications are handled as part of the process to obtain the land disturbance permit pursuant to land development regulations of the City of Senoia, Georgia or building permit pursuant to building and building regulations, as applicable. Before any person begins development on a site, the owner of the site shall first obtain approval in accordance with the following procedure:
+(1)
+File a land development application with the City of Senoia on the form provided by the City of Senoia for that purpose of application with the following supporting materials:
+a.
+The stormwater management plan prepared in accordance with sec. 40-460 (d). Two copies of the stormwater management plan and inspection and maintenance agreement, if applicable, shall be included.
+b.
+A certification that the development will be performed in accordance with the stormwater management plan once approved, and
+c.
+An acknowledgement that applicant has reviewed the City of Senoia's form of inspection and maintenance agreement and that applicant agrees to sign and record such inspection and maintenance agreement before the final inspection.
+(2)
+The administrator shall inform the applicant whether the application and supporting materials are approved or disapproved.
+(3)
+If the application or supporting materials are disapproved, the administrator shall notify the applicant of such fact in writing. The applicant may then revise any item not meeting the requirements hereof and resubmit the same for the administrator to again consider and either approve or disapprove.
+(4)
+If the application and supporting materials are approved, the City of Senoia may issue the associated land disturbance permit or building permit, provided all other legal requirements for the issuance of such permits have been met. The stormwater management plan included in such applications becomes the approved stormwater management plan.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-463. - Compliance with the approved stormwater management plan.
+All development shall be:
+(1)
+Consistent with the approved stormwater management plan and all applicable land disturbance and building permits, and
+(2)
+Conducted only within the area specified in the approved stormwater management plan.
+No changes may be made to an approved stormwater management plan without review and advanced written approval by the administrator.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-464. - Inspections to ensure plan compliance during construction.
+Periodic inspections of the stormwater management system during construction shall be conducted by certified personnel of the City of Senoia or conducted and certified by a professional engineer who has been approved by the city manager. Inspections shall use the approved stormwater management plan for establishing compliance. All inspections shall be documented with written reports that contain the following information:
+(1)
+The date and location of the inspection;
+(2)
+Whether the stormwater management system is in compliance with the approved stormwater management plan;
+(3)
+Variations from the approved stormwater management plan; and
+(4)
+Any other variations or violations of the conditions of the approved stormwater management plan.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-465. - Final inspection; as-built drawings; delivery of inspection and maintenance agreement.
+Upon completion of the development, the applicant is responsible for:
+(1)
+Certifying that the stormwater management system is functioning properly and was constructed in conformance with the approved stormwater management plan and associated hydrologic analysis;
+(2)
+Submitting as-built drawings showing the final design specifications for all components of the stormwater management system as certified by a professional engineer;
+(3)
+Certifying that the landscaping is established and installed in conformance with the BMP landscaping plan; and
+(4)
+Delivering to City of Senoia a signed inspection and maintenance agreement that has been recorded by the owner in the property record for all parcel(s) that make up the site.
+The required certification under part (a) shall include a certification of volume, or other performance test applicable to the type of stormwater management system component, to ensure each component is functioning as designed and built according to the design specifications in the approved stormwater management plan. This certification and the required performance tests shall be performed by a qualified person and submitted to the City of Senoia with the request for a final inspection. The City of Senoia shall perform a final inspection with applicant to confirm applicant has fulfilled these responsibilities.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-466. - Violations and enforcement.
+Any violation of the approved stormwater management plan during construction, failure to submit as-built drawings, failure to submit a final BMP landscaping plan, or failure of the final inspection shall constitute and be addressed as violations of, or failures to comply with, the underlying land disturbance permit pursuant to land development regulations of the City of Senoia, Georgia or the underlying building permit pursuant to building and building regulations. To address a violation of this article, the City of Senoia shall have all the powers and remedies that are available to it for other violations of building and land disturbance permits, including without limitation the right to issue notices and orders to ensure compliance, stop work orders, and penalties as set forth in the applicable ordinances for such permits.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-467. - Enforcement procedures; in general.
+Any action or inaction which violates the provisions of this article or the requirements of an approved stormwater management site plan or permit, may be subject to the enforcement actions outlined in this article. Any such action or inaction which is continuous with respect to time is deemed to be a public nuisance and may be abated by injunctive or other equitable relief. The imposition of any of the penalties described below shall not prevent such equitable relief.
+(1)
+Notice of violation. If the city manager or his designee determines that an applicant or other responsible person has failed to comply with the terms and conditions of a permit, an approved stormwater management site plan or the provisions of this article, he shall issue a written notice of violation to such applicant or other responsible person. Where a person is engaged in activity covered by this article without having first secured a permit therefore, the notice of violation shall be served on the owner of the property or the responsible person in charge of the activity being conducted on the site.
+The notice of violation shall contain:
+a.
+The name and address of the owner or the applicant or the responsible person;
+b.
+The address or other description of the site upon which the violation is occurring;
+c.
+A statement specifying the nature of the violation;
+d.
+A description of the remedial measures necessary to bring the action or inaction into compliance with the permit, the stormwater management plan or this article and the date for the completion of such remedial action; and
+e. A
+statement of the penalty or penalties that may
+(2)
+Enforcement measures. In the event the remedial measures described in the notice of violation have not been completed by the date set forth for completion in the notice of violation, any one or more of the following actions or penalties may be taken or assessed against the person to whom the notice of violation was directed:
+a.
+Stop work order. The city manager may issue a stop work order which shall be served on the owner or other responsible person. The stop work order shall remain in effect until the owner or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violation or violations described therein, provided the stop work order may be withdrawn or modified to enable the owner or other responsible person to take the necessaiy remedial measures to cure such violation or violations.
+b.
+Withhold certificate of occupancy. The city manager shall refuse to issue a certificate of occupancy for the building or other improvements constructed or being constructed on the site until the owner or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein.
+c.
+Suspension, revocation or modification of permit. The city manager may suspend, revoke or modify the permit authorizing the land development project. A suspended, revoked or modified permit may be reinstated after the owner or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein, provided such permit may be reinstated upon such conditions as the city manager may deem necessary to enable the owner or other responsible person to take the necessary remedial measures to cure such violations.
+(3)
+Civil penalties. In the event the owner or other responsible person fails to take the remedial measures set forth in the notice of violation or otherwise fails to cure the violations described therein within ten days, or such greater period as the city manager shall deem appropriate (except, that in the event the violation constitutes an immediate danger to public health or public safety, 24-hours' notice shall be sufficient) after the city manager has taken one or more of the actions described above, the city manager may file a complaint for nuisance against the applicant or other responsible person in municipal court; upon finding a nuisance to exist by reason of the condition, the court shall order the nuisance abated within a reasonable time. In addition thereto, the court may impose a civil penalty not to exceed $1,000.00 (depending on the severity of the violation) for each day the violation remains unremedied after receipt of the notice of violation.
+(4)
+Criminal penalties. For intentional and willful violations of this article, including engaging in a land disturbing activity without first obtaining the required permit, the city manager may issue a citation to the applicant or other responsible person, requiring such person to appear before the municipal court to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed $1,000.00, imprisonment for six months, or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-468. - Maintenance by owner of stormwater management systems predating current GSMM.
+For any stormwater management systems approved and built based on requirements predating the current GSMM and that is not otherwise subject to an inspection and maintenance agreement with the City of Senoia, such stormwater management systems shall be maintained by the landowner so that the stormwater management systems perform as they were originally designed.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-469. - Inspection and maintenance agreements.[2]
+Prior to the issuance of any permit for a land development activity requiring a stormwater management facility or practice hereunder and for which the City of Senoia requires ongoing maintenance, the applicant or owner of a private site must, unless an onsite stormwater management facility or practice is formally dedicated to and accepted by the City of Senoia, execute an inspection and maintenance agreement, and/or a conservation easement, if applicable, that shall be binding on all subsequent assignees of the site. The inspection and maintenance agreement, if applicable, must be approved by the city attorney prior to plan approval.
+(1)
+The owner shall execute an inspection and maintenance agreement with the City of Senoia obligating the owner to inspect, clean, maintain, and repair the stormwater management system; including vegetation in the final BMP landscaping plan. The form of the inspection and maintenance agreement shall be the form provided by the City of Senoia. After the inspection and maintenance agreement has been signed by the owner and the City of Senoia, the owner shall promptly record such agreement atthe owner's cost in the property record for all parcel(s) that make up the site. A notation or legend on a plat or survey of the owner's intent to publicly dedicate drainage facilities to the city shall not suffice and dedication shall require formal presentment of a correctly drawn warranty deed, with current opinion of title from a competent real estate attorney acceptable to the city.
+(2)
+The inspection and maintenance agreement shall identify by name or official title the person(s) serving as the point of contact for carrying out the owner's obligations under the inspection and maintenance agreement. The owner shall update the point of contact from time to time as needed and upon request by the City of Senoia. Upon any sale or transfer of the site, the new owner shall notify the City of Senoia in writing within 30 days of the name or official title of new person(s) serving as the point of contact for the new owner. Any failure of an owner to keep the point of contact up to date shall, following 30-days' notice, constitute a failure to maintain the stormwater management system.
+(3)
+The inspection and maintenance agreement shall run with the land and bind all future successors-in-title of the site. If there is a future sale or transfer of only a portion of the site, then:
+a.
+The parties to such sale or transfer may enter into and record an assignment agreement designating the owner responsible for each portion of the site and associated obligations under the inspection and maintenance agreement. The parties shall record and provide written notice and a copy of such assignment agreement to the City of Senoia.
+b.
+In the absence of a recorded assignment agreement, all owners of the site shall be jointly and severally liable for all obligations under the inspection and maintenance agreement regardless of what portion of the site they own.
+(4)
+As part of the inspection and maintenance agreement, a schedule shall be developed for when and how often routine inspection and maintenance will occur to ensure proper function of the stormwater management facility or practice. The agreement shall also include plans for periodic inspections to ensure proper performance of the facility between scheduled maintenance and shall also include remedies for the default thereof. In addition to enforcing the terms of the inspection and maintenance agreement, the City of Senoia may also enforce all of the provisions for ongoing inspection and maintenance in sec. 40-477 of this article.
+The City of Senoia, in lieu of an inspection and maintenance agreement, may accept dedication of any existing or future stormwater management facility for maintenance, provided such facility meets all the requirements of this article and includes adequate and perpetual access and sufficient area, by easement or otherwise, for inspection and regular maintenance.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Footnotes:
+--- (2) ---
+Editor's note— Formal acceptance by the city shall require delivery of a deed to the property on which the stormwater facility or improvement is located, either conveying title in fee simple or by perpetual easement, and acceptance thereof at a meeting of the mayor and council at which a resolution is approved accepting the conveyance, which resolution shall be spread upon the official minutes of the meeting. Delivery of a deed of dedication which is not formally accepted under this procedure shall be deemed a mere offer of dedication and not effective.
+
+Sec. 40-470. - Maintenance bonds.
+No stormwater inspection and maintenance agreement shall be approved until the city manager has received a legally binding commercial surety bond or other satisfactory assurance of financial security, in an amount sufficient to provide for the maintenance of all improvements required by this article. The amount of such bond or other assurance of financial security shall be based on reasonable estimate of the cost of routine maintenance, as set forth in the maintenance agreement, based upon prevailing costs of labor, materials and equipment, to perform annual maintenance requirements, as from time to time established by the consulting professional engineer for the storm water department. The city attorney shall approve the bond or other assurance of financial security, as to form and execution, prior to its acceptance. Such evidence of financial security shall remain in force until such time as the city unconditionally accepts dedication of the improvements.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-471. - Right of entry for maintenance inspections.
+The terms of the inspection and maintenance agreement shall provide for the City of Senoia's right of entry for maintenance inspections and other specified purposes. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then the City of Senoia shall have the right to enter and make inspections pursuant to the City of Senoia' general provisions for property maintenance inspections pursuant to land development regulations of the City of Senoia, Georgia.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-472. - Records of maintenance activities.
+Parties responsible for the operation and maintenance of a stormwater management facility shall keep written records of all maintenance and repairs, and provide the same to the City of Senoia, upon request.
+(Ord. No. 20-07 , § 1, 12-7-2020)
+Sec. 40-473. - Owner's failure to maintain the stormwater management system.
+The terms of the inspection and maintenance agreement shall provide for what constitutes a failure to maintain a stormwater management system and the enforcement options available to the City of Senoia. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then:
+(1)
+An owner's failure to maintain the stormwater management system so that it performs as it was originally designed shall constitute and be addressed as a violation of, or failure to comply with, owner's property maintenance obligations pursuant to land development regulations of the City of Senoia, Georgia;
+(2)
+To address such a failure to maintain the stormwater management system, the City of Senoia shall have all the powers and remedies that are available to it for other violations of an owner's property maintenance obligations, including without limitation prosecution, penalties, abatement, and emergency measures; and
+(3)
+If a responsible person fails or refuses to meet the requirements of the inspection and maintenance agreement, the city manager, after ten days' written notice (except, that in the event the violation constitutes an immediate danger to public health or public safety, 24-hours' notice shall be sufficient), may correct a violation of the design standards or maintenance requirements by performing the necessary work to place the facility or practice in proper working condition. The city manager shall specially assess the owner(s) of the facility for the cost of repair work which shall be a lien on the property, and may cause the amount thereof to be placed on the next ad valorem tax bill for such property and collected in the ordinary manner for collection of taxes.
+(Ord. No. 20-07 , § 1, 12-7-2020)

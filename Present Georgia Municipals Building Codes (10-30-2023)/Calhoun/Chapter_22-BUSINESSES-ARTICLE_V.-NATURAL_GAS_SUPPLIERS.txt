@@ -1,0 +1,45 @@
+ARTICLE V. - NATURAL GAS SUPPLIERS
+
+Sec. 22-521. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Base year means the fiscal year ending September 30, 1998.
+Base year franchise fee factor means the total franchise fees paid during the base year, divided by the design day capacity as recorded by the company on the last day of the base year.
+Company means the holder of a franchise issued by the city that authorizes the provision of natural gas service in the city.
+Design day capacity means the sum of the individual capacity in dekatherms (Dt) attributable to all firm customers located within the city limits, as of the last day of the previous fiscal year.
+Firm customers means all residential and business customers who purchase gas service that is not ordinarily subject to interruption or curtailment.
+Fiscal year means the 12 months ending September 30 of each year.
+Inflation index means the percentage change in the Consumer Price Index for All Urban Consumers as published by the Bureau of Labor Statistics, or any successor index, for the period from September 30, 1997, to the beginning of the then-current fiscal year. The percentage shall be reduced by any productivity factor adjustment for the same time period determined by the state public service commission for the company.
+(Ord. No. 648, § 1, 9-28-1998)
+Cross reference— Definitions generally, § 1-2.
+Sec. 22-522. - Calculation of franchise fee.
+The total dollar amount of franchise fees paid by the company to the city shall be calculated as follows: The current fiscal year total franchise fee shall equal the product of the design day capacity and the current franchise fee factor. The current franchise fee factor shall be equal to the product of the base year franchise fee factor and one plus the inflation index expressed as a decimal to three significant digits. The following formula quantifies this payment:
+FF c = FFF by × (1 + (CPI - PFA)) × DDC c
+Where:
+EXPAND
+FF c = Total franchise fees due the city for the current fiscal year.
+FFF by = The base year franchise fee factor.
+CPI -
+PFA = The inflation index based on the cumulative change in the consumer price index less the productivity factor adjustment determined by the state public service commission.
+DDC c = The design day capacity as of the last day of the previous fiscal year.
+FFF by = FF by /DDC by where FF by equals the total franchise fees paid in the base year.
+DDC by = The design day capacity of the base year.
+  (Ord. No. 648, § 2, 9-28-1998)
+Sec. 22-523. - Responsibility for payment of franchise fee; franchise fee to be in lieu of certain other fees and taxes.
+(a)
+The company as the holder of the franchise privilege under this article is responsible for the payment of all franchise fees payable under this article, and shall file such reports and returns as required by the franchise ordinance as modified by this article. In addition, the company shall report annually the names of all gas marketers for which the company is transporting natural gas on the distribution system within the city.
+(b)
+The franchise fee payments required under this article shall be in lieu of any franchise fee, license fee, occupation tax or other payment for use of the rights-of-way by the company for the provision of gas service, but shall not prohibit the levying or imposition of taxes, fees or charges on gas marketers.
+(Ord. No. 648, § 3, 9-28-1998)
+Sec. 22-524. - Quarterly payment of franchise fee.
+(a)
+Effective for the fiscal year 1999, and for each fiscal year thereafter during the term of the franchise ordinance, the company shall remit to the city quarterly franchise fee installments. The installments shall be equal to one-fourth of the total annual franchise fee calculated in accordance with this article.
+(b)
+The quarterly payment is due and payable on or before the 30th day following the last day of each calendar quarter.
+(Ord. No. 648, § 4, 9-28-1998)
+Sec. 22-525. - Annual return.
+The company shall file a return with its first quarterly installment in each fiscal year showing the details of the calculation of the annual franchise fee.
+(Ord. No. 648, § 5, 9-28-1998)
+Sec. 22-526. - Delay of inflation adjustments.
+Notwithstanding any other provision in this article, any inflation adjustments shall be made to the franchise fee only when the company changes its rates.
+(Ord. No. 648, § 6, 9-28-1998)
+Secs. 22-527—22-550. - Reserved.

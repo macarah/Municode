@@ -1,0 +1,944 @@
+Chapter 50 - SUBDIVISIONS[1]
+Footnotes:
+--- (1) ---
+Editor's note— Ord. No. 18-08-368 , § 2(Exh. A), adopted Aug. 6, 2018, repealed ch. 50 in its entirety, and enacted new provisions to read as herein set out. Former ch. 50, §§ 50-1—50-5, 50-43—50-51, 50-71, 50-91—50-94, 50-113—50-117, 50-156—50-161, 50-181—50-188, 50-208—50-210, 50-230—50-234, pertained to similar subject matter and derived from Ord. No. 17-04-314 , § 1, adopted April 24, 2017. See the Code Comparative Table for a complete derivation.
+State Law reference— Municipal annexations, O.C.G.A. § 36-36-1 et seq.; county and municipal urban development, O.C.G.A. § 36-61-1 et seq.; city and county zoning procedures, O.C.G.A. § 36-66-1 et seq.; local zoning proposal review procedures, O.C.G.A. § 36-67-1 et seq.; coordinated and comprehensive planning and service delivery by counties and municipalities, O.C.G.A. § 36-70-1 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 50-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Alley or service drive means a minor, permanent vehicular service access to the back or the side of properties otherwise abutting a street.
+Bike paths means paths that serve to separate bicycle riders from vehicle and pedestrian traffic. Bike paths can meander through wooded areas, traverse the edge of open areas, and may (in many instances) parallel existing roadways or walks.
+Block means a parcel of land or lots entirely surrounded by public or private streets, other than alleys.
+Buildable area means that portion of a lot where buildings and specified structures may be located after all minimum yards, buffers, landscape strips, and other setbacks have been met.
+Building setback line means a graphic representation of the required minimum horizontal distance between a building and the related front, side, or rear property lines which establish the minimum space to be provided between the building and property lines.
+Comprehensive plan means a set of documents approved by the mayor and city council which sets forth desired long range development patterns for the incorporated City of Milton, Georgia.
+Crosswalk means a right-of-way dedicated to public use, four feet or more in width that crosses a street and furnishes a specific area for pedestrian movements at an intersection.
+Cul-de-sac means a street having only one connection to another street and being permanently terminated by a vehicular turn around.
+Cul-de-sac, temporary, means a street having one end open to traffic and being temporarily terminated by a vehicular turnaround. This temporary termination is to provide connectivity to future developments.
+Department means the Community Development Department, City of Milton, Georgia.
+Director means the director of the community development department or his or her designee.
+Driveway, attached single-family residential, access or shared, means a paved area used for the ingress or egress of vehicles, and allowing access from a street to a building, other structure or facility which complies with the access standards established in chapter 48.
+Driveway, detached single-family residential, access or shared (private drive) means a paved or unpaved area used for ingress or egress of vehicles which allows access from a street to a building, other structure or facility for no more than two single-family residential lots.
+Driveway, modified, single-family residential, access or shared (private drive) means a paved or unpaved area used for ingress or egress of vehicles which allows access from a street to a building, other structure or facility and may provide access to any number of single family residential lots provided that the accessed lots are each a minimum of three acres in size.
+Easement means a grant by the property owner for use by the grantee of a portion of land for specified purposes.
+Health and wellness department means the Fulton County Health and Wellness Department or authorized representative thereof.
+Land disturbance permit.
+(1)
+The term "land disturbance permit" means an official authorization issued by the department, allowing defoliation or alteration of a site or the commencement of any construction activities including, but not limited to:
+a.
+Clearing;
+b.
+Grubbing;
+c.
+Dredging;
+d.
+Grading; and
+e.
+Excavating, transporting and filling of land.
+(2)
+The term "land disturbance permit" does not include agricultural practices as defined in the O.C.G.A. § 1-3-3.
+Lot means the basic lawful unit of land, identifiable by a single deed established by plat, subdivision, or as otherwise permitted by law, to be separately owned, used, developed, or built upon. In determining the area and dimension of a lot, no part of the right-of-way of a road or crosswalk may be included.
+Lot, corner means a lot abutting two or more streets at their intersection.
+Lot, double/multiple frontage, means a lot other than a corner lot abutting two or more streets that may or may not intersect at that lot.
+Lot, minimum lot size, means the smallest permissible lot area established by chapter 64 or the conditions of zoning.
+Mayor and city council means the mayor and city council of the City of Milton, Georgia.
+Plat means a map indicating the subdivision or resubdivision of land, intended to be filed for recording.
+Plat, final, means a finished drawing of a subdivision that provides a complete and accurate depiction of all legal and engineering information required by this chapter. Certification is necessary for recording.
+Plat, minor, means a finished drawing of a subdivision of no more than three lots, or if any number of single family residential lots are each a minimum of three acres or more in size, that, at the time of subdivision, does not necessarily, but may involve:
+(1)
+A land disturbance permit;
+(2)
+New streets;
+(3)
+The extension of a utility or other municipal facility; and
+(4)
+Depicts all legal and engineering information required by this chapter.
+Plat, preliminary, means a drawing that shows the proposed layout of a subdivision in sufficient detail to indicate its workability and feasibility, but is not in final form for recording, pursuant to these regulations. The preliminary plat is the first stage in securing a land disturbance permit.
+Right-of-way dedication and reservation plan means an element of the city's comprehensive plan maintained by the public works department which includes guidelines and procedures for the dedication and reservation of rights-of-way along public roadways.
+Standard details means illustrative minimum standards for land development activities authorized under the city's land development regulations. These standards shall not supersede more restrictive prudent design requirements or good engineering practices as applied to specific situations on a case-by-case basis. All construction shall meet or exceed the Fulton County minimum standards established by the Georgia Department of Transportation (GDOT).
+Street classifications means the classification of streets based on functions, from high-traffic arterial roads to low traffic residential streets. The following are definitions intended to distinguish between different street classifications. All roadways are classified per the state department of transportation:
+Collector means a roadway that has partial or no access control and has more emphasis on access to adjacent land over mobility than arterials. The primary purpose is to distribute trips to and from the arterial system and allow access to the local roads.
+Freeway means a multi-lane roadway that has full access control and separation of directional traffic. Freeways accommodate large volumes of high speed traffic and provide efficient movement of vehicular traffic for interstate and major through travel.
+Frontage street means a road that typically runs parallel to a partial access controlled roadway, a full access controlled facility, or a railroad. Frontage roads provide public access to the adjacent parcels, help control access to the major facility, and/or maintain circulation of traffic on each side of the major facility.
+Full access control means preference is given to through traffic by providing access connections only with selected public roads and by prohibiting crossings at grade and direct private connections.
+Housing unit service means the number of housing units served by a street or collection of streets shall be the aggregate number of housing units provided, or potentially to be provided, with driveway access directly from the street plus the number of units utilizing or potentially utilizing the street for through traffic movements. Such calculations shall be made at the beginning and ending of the same street intersection.
+Local means any roadway that has no access control, and places strong emphasis on access to adjacent land over mobility while service to through traffic is discouraged.
+Major subdivision street means a local road internal to a subdivision which serves 50 or more housing units. These units do not have to be directly served by the major subdivision street. Major subdivision streets are roads that serve as collectors for the subdivision traffic. Any residential street which accesses a collector or arterial road shall be considered a major subdivision street for the first 300 feet regardless of housing unit service.
+Minor arterial means a roadway that has partial or no access control and is primarily used for inter-connectivity of principal arterials and placing more emphasis on access to adjacent land over mobility.
+Minor subdivision street means a local road internal to a subdivision which serves fewer than 50 housing units and does not access a collector or arterial road.
+No access control means preference is generally given to access to adjacent land rather than mobility.
+Partial access control means preference is given to through traffic to a degree that, in addition to connection with selected public roads, there may be some crossing at grades, but private connections shall be prohibited.
+Principal arterial means a roadway that has partial or no access control, and is primarily used for fast or large volumes of traffic. Emphasis is placed on mobility rather than access to adjacent land.
+Street, private, means a street or modified, single-family residential, access or shared (private drive) driveway that has not been dedicated to the municipality or other government entity.
+Street, public, means a dedicated and accepted right-of-way for vehicular traffic.
+Street, residential, means streets internal to residential subdivisions. The following definitions are intended to distinguish between different categories of streets internal to residential subdivisions:
+Stub-out street means a street having one end open to traffic and being temporarily terminated at the other. Stub-outs generally do not have a temporary vehicular turnaround. This temporary termination is to provide connectivity to future developments and may be constructed without curb and gutter, provided such stub-out street meets the standards of the Fulton County Fire Department.
+Subdivider means any property owner, person, individual, firm, partnership, association, corporation, estate, trust, agent of property owner, or any other group or combination acting as a unit dividing or proposing to divide land so as to constitute a subdivision.
+Subdivision, major, means a subdivision that does not qualify as a minor subdivision.
+Subdivision, minor, means a subdivision of no more than three lots, or if any number of single family residential lots provided are each a minimum of three acres or more in size, that, at the time of subdivision, does not necessarily, but may involve:
+(1)
+A land disturbance permit;
+(2)
+New streets; or
+(3)
+The extension of a utility or other municipal facility.
+Subdivision, residential and nonresidential, means any division of a lot, tract or parcel, regardless of its existing or future use, into two or more lots, tracts or parcels. The term "subdivision" means the act or process of dividing property, except that, where appropriate to the context, the term "subdivision" may be used in reference to the aggregate of all lots held in common ownership at the time of subdivision.
+Traffic mitigation action plan means a plan that studies and addresses the number of trips a subdivision will produce when such development results in the reduction of the level of service on any roadway currently functioning at "D" or worse in accordance with the county transportation standards.
+(1)
+The term "traffic mitigation action plan" includes, but is not limited to:
+a.
+Roadway improvements; and
+b.
+Other proposals, such as:
+1.
+Providing transit access;
+2.
+Transit use incentives;
+3.
+Car/van pooling;
+4.
+Bicycle path construction;
+5.
+Off-site and internal sidewalk construction; and
+6.
+Lunch trip reduction.
+(2)
+The traffic mitigation action plan shall mitigate the traffic impact in a manner that will show no negative impact on roads with level of service of "D" or worse.
+Trails, pedestrian or others, means extended and usually continuous strips of land established independently of other routes of travel and dedicated, through ownership or easement, to recreational travel including hiking, horseback riding, etc.
+Utility accommodations (guidelines and procedures) means a county program maintained by the public works department which includes:
+(1)
+Installing, maintaining, repairing, operating, or using a pole line, buried cable, pipeline, or miscellaneous utility facility; and
+(2)
+Performing miscellaneous operations authorized by a utility permit.
+Utility permit means an official authorization issued by the public works department, allowing the alteration of land within the right-of-way for the commencement of any construction activities pertaining to utility installation or relocation.
+Zoning ordinance means the Zoning Ordinance of the City of Milton, Georgia, (chapter 64).
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018; Ord. No. 21-03-472 , § 1, 3-1-2021)
+Sec. 50-2. - Penalty.
+(a)
+Civil. Any person violating any provision of this chapter, shall be deemed liable for civil penalties not less than $1,000.00 and not to exceed $2,500.00 and/or imprisonment for 60 days, or as amended by applicable statutes. Each day's continuance of a violation shall be considered a separate offense. The owner of any lands or parts thereof, where anything in violation of this provision shall be placed, or shall exist, and any person who may assist in the separate offense, the city court, or any court of competent jurisdiction, shall have jurisdiction of any offense charged under this section.
+(b)
+Additional remedies. In any case in which any land is, or is proposed to be, used in violation of these regulations or any amendment thereto adopted by the mayor and city council, may, in addition to other remedies provided by law, institute injunction, abatement or any appropriate action, or proceeding to prevent, enjoin or abate such unlawful use.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-3. - Title.
+The title of these regulations shall be known as "the Subdivision Regulations of the City of Milton, Georgia."
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-4. - Purpose.
+These rules and regulations are intended to serve the following purposes, among others:
+(1)
+To protect and promote the health, safety and general welfare of the city's residents.
+(2)
+To encourage economically sound and stable land developments.
+(3)
+To ensure the adequate provision of streets, access, utilities, and other facilities and services to new land developments in conformance with public improvement standards and regulations of the city.
+(4)
+To ensure the adequate provision of safe and convenient traffic access, connectivity to other developments or facilities, and efficient circulation (both vehicular and pedestrian) in new land developments.
+(5)
+To ensure the provision of needed open space and building sites in new land developments through dedication or reservation of land for recreational, educational, environmental, green space, bikeways and pedestrian trails, and other public purposes.
+(6)
+To ensure equitable handling of all requests for the subdivision of land by providing uniform procedures and standards for the subdivider.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-5. - Conflicts.
+Where conflicts exist between this chapter and other city regulations and policies, either the most restrictive or the city's written interpretation shall prevail.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-6—50-42. - Reserved.
+ARTICLE II. - AUTHORITY AND APPLICATION
+
+Sec. 50-43. - Portions of state constitution adopted.
+These subdivision rules and regulations are adopted under the authority of the following portions of the 1983 Constitution of the State of Georgia:
+(1)
+Article IX, section II, paragraph I; and
+(2)
+Article IX, section II, paragraph IV.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-44. - Preliminary plat required.
+Any subdivider of land, except for land subdivided for minor subdivisions or proposed subdivisions of land approved through the zoning process, within the incorporated city shall submit to the director of the community development department a preliminary plat of the proposed subdivision conforming to all the requirements set forth in these regulations and any other applicable county, state and federal regulations. The director of the community development department shall approve or deny the preliminary plat based on the planning commission recommendations in accordance with the process described in section 50-91. Once the preliminary plat is approved, a final plat must be filed which conforms to all requirements set forth in these regulations.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-45. - Unlawful to sell or transfer subdivided land without minor or final plat confirmation.
+No person, firm, corporation, owner, agent or subdivider shall sell, transfer or agree to sell any subdivided land without the minor or final plat of that subdivision having been confirmed by the mayor and city council.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-46. - Approval and permits required prior to construction.
+No subdivider shall proceed with any construction work on the proposed subdivision, including clearing, grading or grubbing, before obtaining the appropriate approvals and permits.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-47. - Approval and confirmation required prior to dedicating, extending or accepting public street.
+No land shall be dedicated, opened, extended or accepted as a public street or for any other public purpose before obtaining final approval from the director and confirmation by the mayor and city council. The approval shall be entered in writing on the final plat by the director. Any subdivider of property for public purpose (other than streets) shall be transferred by deed.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-48. - No building permit issued unless legal access to street approved.
+No building permit shall be issued within the incorporated area of the city unless legal access is provided to a public street or a private street approved under the terms of these rules and regulations.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-49. - Residential subdivision building permit issued only after approval and confirmation of minor or final plat.
+In residential subdivisions, building permits may be issued on the basis of any approved minor plat or final plat only after the approval of the mayor and city council's confirmation.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-50. - Court ordered divisions of property excepted from this chapter.
+The divisions of property by court order including, but not limited to, judgments of foreclosure or consolidation and disbursement of existing lots by deed or other recorded instruments, shall not be considered a subdivision for purposes of, and shall not obviate the necessity for compliance with, these regulations.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-51. - Model home regulations.
+(a)
+The subdivider shall be allowed one building permit for a model home for each 15 lots located in the proposed subdivision; provided the subdivider provides an agreement to install improvements for a cash surety equal to 125 percent of the cost for the remaining infrastructure improvements, based on written estimates by the design professional for the project. Notwithstanding the permitted rate for model homes, the maximum number of building permits for model homes to be allowed in any one subdivision shall not exceed ten.
+(b)
+The following shall apply for lots where model homes are allowed:
+(1)
+The lots shall be located within 300 feet of an active fire hydrant;
+(2)
+Main sewer and water lines for these lots shall be installed by the developer and be subject to review and approval by Fulton County; installation of these lines shall take place prior to issuance of the certificate of occupancy; and
+(3)
+The lots shall have a minimum 20-foot wide fire access road extending from a paved public street to within 100 feet of the proposed structure.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-52—50-70. - Reserved.
+ARTICLE III. - REQUIREMENTS
+DIVISION 1. - GENERALLY
+
+Sec. 50-71. - Compliance with city procedures and guidelines required.
+All proposals to subdivide combine or recombine parcels of land under the provision of these regulations shall be in compliance with the City of Milton's Standard Procedures and Guidelines for Subdividing Property.
+(1)
+All final plats, replats and minor plats shall have the consent of the owners of all affected lots shown on said plat. Replats or new plats showing modifications to common areas shall require the consent of owners of all lots shown in the original final plat.
+(2)
+Proposals for the subdivision, combination or recombination of lawful previously platted lots or parcels, or portions thereof, shall be in compliance with the zoning ordinance (chapter 64).
+(3)
+If construction activity contemplated results in the disturbance of an area of 5,000 square feet or more, a land disturbance permit must be approved along with any building permit prior to construction.
+(4)
+Where a proposed lot fronts an existing public street, the subdivider shall improve the street along the lot's frontage to the applicable standards of these regulations and any standard details as determined by the director.
+(5)
+All slope, drainage and utility easements, as well as necessary right-of-way widths (as determined by the director) on an existing public street, paved or unpaved, shall be provided by the subdivider at no cost to the city.
+(6)
+Each proposed lot shall comply with the requirements of the Fulton County Department of Health, whose certification of approval shall accompany the submission of the final plat to the director.
+(7)
+A minor plat proposal, as defined in section 50-1, may be exempt from traffic and drainage studies, when an analysis is submitted and concludes that the development would have no negative impact on traffic or drainage.
+(8)
+Each lot created under the provisions of a minor plat shall not subsequently be re-subdivided pursuant to the provisions of a minor plat. Notwithstanding the foregoing prohibition, if a re-subdivision of a lot does not create any lots with an area less than three acres, the community development director may approve the minor plat when the community development director finds the proposed re-subdivision to be in the best interest of the city.
+(9)
+For the division of land in the AG-1 (Agricultural) zoning district adjacent to or has access to unpaved roads, the following rules shall apply:
+a.
+Each proposed lot shall contain a minimum area of three acres.
+b.
+Each proposed lot shall provide at least 100 feet of road frontage, the minimum dimension of which shall be maintained to the building line of the lot.
+c.
+Each proposed lot shall provide at least 200 feet of lot width at the building line.
+(10)
+For the division of land in O-I, C-1, C-2, MIX, and M1-A, M-1 and M-2 zoning districts, after initial development of the property, the following standards shall also apply:
+a.
+A proposed lot fronting an existing public street shall contain the necessary frontage required by the zoning ordinance (chapter 64).
+b.
+The subdivider shall submit documentation of the necessary easements providing for access to a public street for proposed lots that front only on an existing, documented, paved private street or driveway.
+c.
+All slope, drainage and utility easements, as well as necessary street rights-of-way (as determined by the director) shall be provided by the subdivider at no cost to the city.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-72—50-90. - Reserved.
+DIVISION 2. - PROCESS
+
+Sec. 50-91. - Preliminary plat approval.
+(a)
+All preliminary plat applications shall be reviewed by the community development department staff for completeness. A preliminary plat application shall be deemed to be complete if the application complies with all applicable city, county, state and federal regulations. If staff determines that an application is not complete, the applicant will be notified of any deficiencies and provided the opportunity to revise the plat to correct the identified deficiencies without the need for the filing of a new application. If staff determines that previously identified deficiencies remain in any corrected preliminary plat, staff may reject the application entirely or request that the applicant submit a new corrected preliminary plat.
+(1)
+For preliminary plats, after staff determines that the application is complete, the community development director shall forward the application to the planning commission for public hearing, review, comment and recommendation.
+(2)
+The planning commission shall conduct a public hearing and shall review the preliminary plat at its next available regularly scheduled meeting and shall provide comments and make recommendations regarding the plat to the community development director.
+a.
+Notification of planning commission meeting.
+1.
+The applicant or agent shall post a sign as directed by the community development department in a conspicuous location on each street frontage of the subject property at least 14 days prior to the planning commission meeting. It will be the applicant's responsibility to ensure the posting remains in a conspicuous location on site until after the scheduled planning commission meeting.
+2.
+The department shall give notice of the planning commission meeting by regular mail to all property owners or current residents within 500 feet of the boundaries of the subject property and a minimum of 75 owners who appear on the city tax records as retrieved by the city's geographic information system in the surrounding area around the subject property, which 75 owners may include those located within 500 feet of the subject property. The notices shall be mailed a minimum of 14 days prior to the planning commission meeting.
+3.
+The mailed notices shall contain the time, place, and purpose of the planning commission meeting, the location of the property, and description of the proposed subdivision. The posted sign shall include all of the items required in the mailed notice except the location of the property.
+(3)
+Upon receipt of the comments and recommendations of the planning commission with respect to the preliminary plat, the community development director shall implement the comments and recommendations of the planning commission by either approving the preliminary plat, denying the preliminary plat, or returning the preliminary plat to the applicant for revision consistent with the comments and recommendations of the planning commission.
+(b)
+Preliminary plat approval shall continue in effect for a period as follows or for as long as construction activity is continuous and at least 25 percent of the land area within the preliminary plat has received final plat approval, whichever is longer:
+(1)
+Two years for subdivisions of 50 lots or less.
+(2)
+Three years for subdivisions of more than 50, but less than 300 lots.
+(3)
+Four years for subdivisions of more than 300 lots.
+Accordingly, if the preliminary plat approval expires, a new application must be submitted and shall be subject to the regulations in effect at the time of such submission.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-92. - Land disturbance permit.
+(a)
+Following preliminary plat approval, site development plans shall be submitted for approval prior to any defoliation or the commencement of development activities on the subject property. Approval of such plans shall result in the issuance of a duly authorized land disturbance permit which, along with the approved plans, must be maintained on the site until all site work, as proposed and approved, is completed.
+(b)
+An application for a permit for any proposed work shall be deemed to have been abandoned 180 days after the date of filing, unless such application has been pursued in good faith or a permit has been issued, except that the director is authorized to grant a maximum of two extensions of time not exceeding 90 days each. The extension shall be requested in writing and justifiable cause demonstrated.
+(c)
+Prior to the issuance of a land disturbance permit, an indemnity agreement form must be filed by the subdivider protecting the city against damage, repair or maintenance claims and liability arising out of drainage problems. The director, or his or her designee, is hereby authorized to execute such agreements on the city's behalf.
+(d)
+Every permit issued shall become invalid unless the work on the site authorized by such permit is commenced within 180 days after its issuance, or if the work authorized on the site by such permit is suspended or abandoned for a period of 180 days after the time the work is commenced. The director is authorized to grant, in writing, a maximum of two extensions of time, for periods not more than 180 days each. The extension shall be requested in writing and justifiable cause demonstrated.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-93. - Final plat approval.
+(a)
+Whenever the provisions of these rules and regulations have been complied with and while the preliminary plat approval is in effect, the subdivider may submit to the community development director an application for final plat review and approval pursuant to these regulations. All required infrastructure shall be completed and approved, or performance bonds for a portion of such improvements shall be filed in accordance with subsection (c) of this section prior to filing for final plat approval.
+(b)
+The final plat shall be submitted and drawn to the specifications of the Georgia Plat Act and the standards of the city.
+(c)
+Prior to the approval of a final plat, the following must be provided by the subdivider, or his or her designee:
+(1)
+Cash assurance in an amount equal to 125 percent of the cost of infrastructure improvements not yet in compliance. Said cash bond shall be maintained until the improvements have been approved by the city;
+(2)
+Maintenance bond to ensure the viability of infrastructure improvements;
+(3)
+Drawings demonstrating the "as-built" conditions of the site, or cash assurance that such will be provided within 30 days;
+(4)
+An electronic format acceptable to the public works department containing data about the sanitary sewer and water systems where available;
+(5)
+Signed release of the project by the development inspector; and
+(6)
+Recorded deed to the city for any dedicated space.
+(d)
+All final plat applications shall be reviewed by the community development department staff for completeness. A final plat application shall be deemed to be complete if the application complies with all applicable city, county, state and federal regulations. If staff determines that an application is not complete, the applicant will be notified of any deficiencies and provided the opportunity to revise the plat to correct the identified deficiencies without the need for the filing of a new application. If staff determines that previously identified deficiencies remain in any corrected final plat application, staff may reject the application entirely or request that the applicant submit a new corrected final plat.
+(e)
+For all final plats, after staff determines that the application is complete and signed accordingly, the community development director shall forward the application to the mayor and city council for consideration and approval. The mayor and city council shall review the final plat at their next regularly scheduled meeting and shall approve the plat unless the plat substantially differs from the previously approved preliminary plat or is inconsistent with any specific adopted plans or policies.
+(f)
+A final plat application may be denied without prejudice, thereby allowing the applicant to resubmit a revised plat for consideration without the necessity of paying a new application fee, if the application is found to be substantially different from the previously approved preliminary plat, inconsistent with any specific adopted plans or policies, or inconsistent with the public health, safety and welfare.
+(g)
+The final plat shall be considered approved upon the vote of approval by the mayor and city council.
+(h)
+After being approved by the mayor and city council, the city shall cause the final plat to be recorded with the clerk of the superior court of Fulton County.
+(i)
+Should the final plat application be denied, the basis for the denial shall be stated in writing to the applicant. The subdivider may file an appeal in accordance with section 50-232.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-94. - Minor plat approval.
+(a)
+For a minor plat, after staff determines that the application is complete, the community development director shall review the minor plat and shall approve the plat unless the plat is inconsistent with any specific adopted plans or policies, or is inconsistent with the public health, safety and welfare.
+(1)
+Should the community development director not approve the minor plat, the basis for the denial shall be stated in writing to the applicant. The subdivider may file an appeal in accordance with section 50-233.
+(b)
+After the review and approval by the community development director, a minor plat shall be placed on the consent agenda of the mayor and city council meeting.
+(c)
+After being confirmed by the mayor and city council, the city shall cause the final plat to be recorded with the clerk of the superior court of Fulton County.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-95—50-112. - Reserved.
+ARTICLE IV. - GENERAL PRINCIPLES OF THE LAND
+
+Sec. 50-113. - Suitability of the land.
+Land subject to flooding, improper drainage, erosion, and deemed unsuitable for development in accordance with the city's standards shall not be platted for any use that may continue such conditions or increase the danger to health, safety, life, or property unless steps are taken to eliminate the hazards mentioned in this section.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-114. - Access.
+(a)
+Unless otherwise herein noted, every subdivision shall be accessed by publicly dedicated streets, private streets or modified, single-family residential, access or shared (private drive) driveways in accordance with the following:
+(1)
+The proposed access shall meet the city's standards and regulations.
+(2)
+No access road intended to be private is to be extended to serve property outside that development unless approved by the public works department.
+(3)
+In residential subdivisions, any private access shall be maintained by a mandatory homeowners' association and documents of incorporation shall be submitted to the director of community development for review and approval prior to the recording of the final plat.
+(4)
+The subdivider shall provide all necessary easements for ingress and egress for police, fire, emergency vehicles and all operating utilities.
+(5)
+The final plat of any subdivision that contains private streets or access shall clearly state that such streets or access are private.
+(6)
+In subdivisions approved under the provisions of a minor plat and where the minimum lot size is three acres or greater the lots may be served by a modified, single-family residential, access or shared (private drive) driveway designed to fire department access standards. When such access is provided the minor plat shall clearly indicate the necessary access easements. The access easements shall be privately maintained.
+(b)
+When land is subdivided, the created parcels shall be arranged and designed so as to allow for the opening of future streets and provide access to those areas not presently served by streets.
+(c)
+No subdivision shall be designed so as to completely eliminate street access to adjoining parcels of land without current street access.
+(d)
+Lots may share access as stipulated herein. Lot frontage and access do not necessarily have to be along or front the same public street, if approved by the director.
+(e)
+The director shall have the right to encourage design of the subdivision in a manner that will:
+(1)
+Enhance traffic circulation and other community needs;
+(2)
+Encourage pedestrian traffic to schools, parks, existing and planned greenspace corridors, and neighborhood shopping centers;
+(3)
+Reduce impacts on streams and lakes;
+(4)
+Reduce unwanted noise, lights on neighboring lots; and
+(5)
+Discourage vehicular speeding on local streets.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018; Ord. No. 21-03-472 , § 1, 3-1-2021)
+Sec. 50-115. - Conformance to city comprehensive plan.
+(a)
+All proposed subdivisions shall conform to the city comprehensive plan and development policies in effect at the time of submission.
+(b)
+The director shall not approve plats when such planned features, as specified by the comprehensive plan, are not incorporated into the plat.
+(c)
+Whenever the plat proposes the dedication of land for public use and the director or the appropriate agency finds that such land is not acquired consistent with the appropriate agency plans, policies, or priorities, the director may either refuse to approve the plat, or require the rearrangement of lots to include such land.
+(d)
+If a development is proposed within one mile of any roadway operating at a level of service "D" or worse, in accordance with the county transportation standards, a traffic mitigation action plan must be submitted and approved by the director prior to the issuance of a land disturbance permit.
+(e)
+The term "greenspace," as referred to in this chapter, means a permanently protected land including agricultural and forestry land that is in its undeveloped, natural state or that has been developed only to the extent consistent with, or is restored to be consistent with, one or more of the following purposes:
+(1)
+Water quality protection for rivers, streams, and lakes;
+(2)
+Flood protection;
+(3)
+Wetlands protection;
+(4)
+Reduction of erosion through protection of steep slopes, areas with erodible soils, and stream banks;
+(5)
+Protection of riparian buffers and other areas that serve as natural habitat and corridors for native plant and animal species;
+(6)
+Scenic protection;
+(7)
+Protection of archaeological and historic resources;
+(8)
+Provision of recreation in the form of boating, hiking, camping, fishing, hunting, running, jogging, biking, walking, and similar outdoor activities; and
+(9)
+Connection of existing or planned areas contributing to the purposes set out in this section.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-116. - Zoning and other regulations.
+(a)
+No subdivision shall be created or recorded that does not comply with the standards of the zoning ordinance (chapter 64) and the approved conditions of zoning for the property.
+(b)
+Whenever there is a discrepancy between minimum standards or dimensions noted herein and those contained in the zoning regulations, building codes, or other official regulations or resolutions, the most restrictive shall apply unless set forth in the conditions of zoning.
+(c)
+All proposed subdivisions shall comply with the city stormwater design manual.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-117. - Amendments.
+(a)
+Modifications of the provisions set forth in these regulations may be approved by the director when granting of such modification will not adversely affect the general public or nullify the intent of these regulations.
+(b)
+Should the director deny a request to modify in accordance with subsection (a) of this section, the applicant may appeal the director's decision in accordance with section 50-231.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-118—50-136. - Reserved.
+ARTICLE V. - CONSERVATION SUBDIVISION
+
+Secs. 50-137—50-155. - Reserved.
+ARTICLE VI. - DESIGN STANDARDS
+
+Sec. 50-156. - Compliance with this article required.
+All applicable design standards as set forth in this article and the standard details shall be observed in all plats as approved by the director.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-157. - Streets.
+All streets, public or private, shall be constructed to the construction standards of the city's public works department.
+(1)
+The arrangement, character, extent, width, grade, and location of all streets shall conform to the city comprehensive plan and shall consider their relation to existing and planned streets, topographical conditions, and appropriate relation to the proposed uses of the land to be served by such streets.
+(2)
+The streets serving residential subdivisions shall be arranged and designed such that their use for through traffic will be discouraged.
+(3)
+Where a subdivision contains a dead-end street or stub-street other than a cul-de-sac, the subdivider shall provide a temporary cul-de-sac within the right-of-way. Where a temporary cul-de-sac is required, the subdivider shall be responsible for maintaining and for the construction of the final street connection or turnaround as required.
+(4)
+Where a subdivision abuts or contains an existing or proposed street classified as a collector street or higher, the director may require frontage streets. Double frontage lots may be required to have screening and no access easements along lot lines fronting on arterials or collector streets. Deep lots with rear service drives, or other treatment as may be necessary for adequate protection of residential properties, may be required to afford separation of through and local traffic.
+(5)
+Where a subdivision borders on or contains a railroad right-of-way, or a full or partial access control facility right-of-way, the director may require a street approximately parallel to and on each side of the right-of-way.
+(6)
+Street right-of-way widths for major streets shall be dedicated as specified in the city comprehensive transportation plan and the right-of-way dedication and reservation plan. Other street right-of-way widths shall be not less than as specified under section 50-160.
+(7)
+Where a subdivision abuts an existing street, the subdivider shall dedicate additional right-of-way on the existing streets to meet the requirements as set forth in the right-of-way dedication and reservation plan.
+(8)
+New road grades should be as indicated in the following table:
+EXPAND
+Street Type New Road
+Grade
+(maximum)
+Collector 8%
+Major subdivision street 12% (1)
+Minor subdivision street 14%
+Driveway, modified, single-family residential, access or shared (private drive) 10% (2)
+  EXPAND
+Notes— (1)  Grades exceeding 12 percent shall not exceed a length of 250 feet.
+(2)  Or as approved by the City of Milton Fire Marshal.
+  (9)
+Interparcel access shall be provided to adjacent properties upon determination by the director that such access is in the best interest of the public health, safety, or welfare. In residential subdivisions, where private streets are proposed, the director may require a public street for interparcel connection purposes; the director may also require a shared access.
+(10)
+Alignment.
+a.
+Minimum vertical. All local roads with 25 miles per hour designs shall be connected by vertical crest curves of a minimum length not less than 12 times the algebraic difference between the rates of grade, expressed in feet per hundred. All local roads with a 25 miles per hour design speed shall be connected by vertical sag curves of minimum length not less than 26 times the algebraic difference between the rates of grade, expressed in feet per 100. In any case, the sight distance shall meet the minimum requirements of this article.
+1.
+In proposed approaches of new streets to intersections with existing streets, there shall be a suitable leveling of the street at a grade not exceeding three percent and for a distance of not less than 50 feet as measured from the back of the curb of the intersecting street.
+2.
+In approaches to intersections internal to residential subdivisions, there shall be a suitable leveling of the street at a grade not exceeding five percent and for a distance of not less than 50 feet as measured from the center point of the intersection.
+b.
+Minimum horizontal; radii of centerline curvature. The minimum horizontal shall be not less than the following:
+1.
+Major subdivision street designed for 35 miles per hour: 200 feet.
+2.
+Other major subdivision street: 100 feet.
+3.
+Minor subdivision street: 100 feet.
+c.
+Tangents; between reverse curves. The minimum tangents shall be not less than the following:
+1.
+Major subdivision streets designed for 35 miles per hour: 100 feet.
+2.
+Other major subdivision street: 50 feet.
+3.
+Minor subdivision street, where there is no super-elevation: 50 feet.
+d.
+Intersection visibility requirements.
+1.
+Roadways and their intersections shall be designed such that the proper sight distance is maintained.
+2.
+Minimum sight distance shall be determined by the operating speed of the road as determined by the public works department.
+3.
+Intersection sight distance shall be no less than the following:
+EXPAND
+Minimum Sight Distance
+Feet Speed (in mph)
+280 25
+335 30
+390 35
+445 40
+500 45
+610 55
+  4.
+Minimum horizontal visibility shall be measured on the centerline.
+5.
+When a proposed curb cut intersects an existing roadway, the minimum visibility shall be provided as follows:
+(i)
+When measuring in the horizontal plane, the intersection sight distance is determined with the following assumptions.
+A.
+The driver's eye location is to be assumed at the centerline of the exiting lane of the proposed curb cut behind the stop bar.
+B.
+The object location is to be assumed at the centerline of the closest oncoming lane for each direction.
+(ii)
+When measuring in the vertical plane, intersection sight distance is determined with an assumed height of driver's eye and an assumed height of the object of three and one-half feet.
+(iii)
+When measuring in either plane, the line of sight must remain in the proposed dedicated right-of-way, unless sufficient easements, maintenance agreements, indemnifications agreements are provided, or additional right-of-way is dedicated.
+e.
+Stopping sight distance visibility requirements.
+1.
+Roadways and their intersections shall be designed such that proper stopping sight distance is maintained.
+2.
+Minimum sight distance shall be determined by the design speed of the proposed road as determined by the public works department.
+3.
+Stopping sight distance along a roadway shall be no less than the following:
+EXPAND
+Stopping Sight Distance Visibility
+Requirements
+Feet Speed (in mph)
+155 25
+200 30
+250 35
+  4.
+Minimum vertical visibility for stopping sight distance along the roadway shall be determined by measuring between two points of which the height of the driver's eye shall be assumed at three and one-half feet to an assumed object which is two feet in height. The line of sight must remain within the proposed dedicated right-of-way, unless sufficient easements, maintenance agreements, and indemnification agreements are provided, or additional right-of-way is dedicated.
+5.
+Minimum horizontal visibility for stopping sight distance shall be measured on the centerline.
+(11)
+Street intersections shall be as nearly at right angles as possible, and no intersection shall be at an angle less than 80 degrees. Detailed designs of intersections shall be required to include all striping and pedestrian crosswalks. Pedestrian crossing signs and signals may be required.
+(12)
+The curbline radius at street intersections shall parallel the right-of-way radius.
+(13)
+Right-of-way radius. The right-of-way radius at street intersections shall be at least 20 feet, and where the angle of intersection is less than 90 degrees, the public works department may require a greater radius.
+(14)
+The centerline offsets on streets internal to a residential subdivision shall not be less than 200 feet. The centerline offsets for all other streets and curb cuts providing access to developments shall not be less than 300 feet, except greater centerline offsets may be required by the director.
+(15)
+Cul-de-sac streets shall be designed so that the maximum desirable length shall be 600 feet.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-158. - Blocks.
+(a)
+The lengths, widths, and shapes of blocks shall be determined with due regard to:
+(1)
+Provisions of adequate building sites suitable to the special needs of the type of use contemplated;
+(2)
+Zoning requirements as to lot sizes and dimensions unless a planned unit development is contemplated;
+(3)
+Needs for convenient access, circulation, control and safety of street traffic; and
+(4)
+Limitations and opportunities of topography.
+(b)
+Residential blocks shall be wide enough to provide two tiers of lots, except where fronting on streets classified as a collector street or higher or prevented by topographical conditions or size of the property. The director may require or approve a single tier of lots of minimum depth.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-159. - Lots.
+(a)
+The size, shape, arrangement, orientation of every lot shall be subject to the director's approval for the type of development and use contemplated. Proposed internal lot lines (not on the street side) shall not be curved.
+(b)
+Every lot shall conform to the dimension, area, and size requirements of the zoning ordinance (chapter 64) and conditions of zoning.
+(c)
+Lots not served by a public sewer or community sanitary sewerage system and public water shall meet the dimension and area requirements of the department of health.
+(d)
+Double frontage lots shall be prohibited, except as approved by the director provided that such lots are essential to provide separation of residential development from traffic arteries or to overcome specific disadvantages of topography, orientation, and property size. A planted screen may be required along lot lines abutting a traffic artery or other use that would have potential negative impact.
+(e)
+The creation of remnant lots that are below minimum standards shall be prohibited unless such lots are designated as common area on the final plat and maintained by the homeowners' association or some other entity approved by the city.
+(f)
+Each lot shall have direct access to an abutting, existing public street or to a street contained within the proposed subdivision. A connection through an approved private drive may be permitted by the director.
+(g)
+The subdividing of land adjacent to or surrounding an existing or proposed lake where lots abutting the lake shall be drawn to the centerlines of the lake or identified a common area, maintained by the homeowner's association.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-160. - Subdivision streets.
+(a)
+The minimum requirements for major subdivision streets shall be as follows:
+(1)
+Right-of-way: 50 feet.
+(2)
+Pavement width: 24 feet back of the curb to back of the curb.
+(3)
+Cul-de-sac:
+a.
+Right-of-way: 50-foot radius with a ten-foot radius landscape island.
+b.
+Pavement width: 40-foot radius to back of the curb.
+(4)
+Sidewalks. In accordance with section 50-182(d).
+(5)
+Street trees. If required by the director, street trees shall be installed on both sides at a spacing approved by the city arborist.
+(b)
+The minimum requirements for minor subdivision streets shall be as follows:
+(1)
+Right-of-way: 44 feet.
+(2)
+Pavement width: 22 feet back of the curb to back of the curb.
+(3)
+Cul-de-sac:
+a.
+Right-of-way: 42-foot radius with a eight-foot radius landscape island.
+b.
+Pavement width: 32-foot radius to back of the curb.
+(4)
+Sidewalks. In accordance with section 50-182(d).
+(5)
+Street trees. If required by the director, street trees shall be installed on both sides at a spacing approved by the city arborist.
+(c)
+For streets other than mentioned in subsections (a) and (b) of this section, the director shall determine the required cross section. For modified, single-family residential, access or shared (private drive) driveways the design standards shall comply with the standards set forth herein and the Appendix D-Fire Apparatus Roads of the International Fire Code (latest edition). The City of Milton Fire Marshal may approve variances from these design standards provided the public health, safety and welfare is protected and the variance is in the best interest of the City of Milton.
+(d)
+All residential subdivision streets shall be designed for a maximum of 25 miles per hour. The director may require that subdivision streets that will not provide direct residential access be designed for up to 35 miles per hour.
+(e)
+Where streets are longer than 600 feet, traffic calming devices shall be incorporated to include green space, islands, residential roundabouts, or other traffic calming devices as approved by the director. Where traffic calming devices such as speed bumps are used, they shall not exceed six inches in height. The minimum distance between individual devices shall not be less than 500 feet, and shall not be more than 900 feet. All services must conform to the city's design standards.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-161. - Gated communities.
+Gates installed in subdivisions with more than one lot shall comply with the following:
+(1)
+Plan approval and a permit shall be obtained prior to installing of any gates. The permit fee shall be calculated in accordance with applicable building permit fees. Gates shall not prohibit public access to dedicated areas as defined within these regulations.
+(2)
+No gate shall be installed within the city's right-of-way.
+(3)
+The gate shall not create a dead end street without first installing a cul-de-sac conforming to the city's standards on a dead-end street exceeding 250 feet in length.
+(4)
+Gates shall provide for stacking distance, turnaround and emergency vehicle access as required by the city.
+(5)
+Gate permits may be denied based on traffic conditions, interconnectivity needs, and when not in compliance with adopted guidelines.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-162—50-180. - Reserved.
+ARTICLE VII. - REQUIRED IMPROVEMENTS
+
+Sec. 50-181. - Utility improvements required by this article.
+Every subdivider shall be required to install or have installed the appropriate public utility and improvements referred to in this article as found in the following documents:
+(1)
+Department of Public Works: Standard Plans.
+(2)
+Fulton County Comprehensive Storm Drainage and Criteria Manual.
+(3)
+Sewer Regulations of Fulton County.
+(4)
+City of Milton Tree Preservation Ordinance.
+(5)
+Utility Accommodation: Guidelines and Procedures.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-182. - Streets.
+(a)
+Grading. The required improvements for street grading shall be as follows:
+(1)
+All street rights-of-way shall be cleared and graded to standards of the public works department.
+(2)
+Finished grades shall be at levels approved in accordance with the standard plans.
+(3)
+When property adjacent to the street is not owned by the subdivider, he or she shall obtain the necessary easements of sloping banks before submitting for a land disturbance permit (LDP).
+(b)
+Street paving/striping. The required improvements for street paving/striping shall be as follows:
+(1)
+All street paving widths shall be in conformance with standards set forth in article VI.
+(2)
+Street pavement shall be installed according to standards adopted by the mayor and city council.
+(3)
+Striping shall be installed according to standards adopted by the mayor and city council.
+(4)
+On all roads adjacent to a development, the adjacent lane of the road must be widened to provide a 12-foot lane. The road must be milled and repaved throughout the subdivision frontage and along the roadway improvements, whichever is greater. The road must either be resurfaced from edge to edge, or it must be milled and repaved to the centerline. No more than one inch vertical drop may be allowed at the pavement/gutter joint and a maximum of six inches of exposed curb must be retained.
+(5)
+No striping should be provided on subdivision streets designed for 25 miles per hour, except for stop bars and 50 feet of double yellow centerlines, to be located at each entrance to the subdivision.
+(c)
+Curbs and gutters. The required improvements for curbs and gutters shall be as follows:
+(1)
+Curbs and gutters shall be installed on all streets except noted herein. Installations shall be in accordance with standards adopted by the mayor and city council.
+(2)
+Curbs and gutters shall be of a straight or standard construction on one or both sides where sidewalks are required.
+(3)
+Curbs and gutters may be waived by the director if the sidewalk along the same portion of the roadway is set back a minimum of 12 feet from the edge of pavement and drainage is adequately addressed. Setbacks greater than 12 feet may be required by the director.
+(d)
+Sidewalks. The required improvements for sidewalks shall be as follows:
+(1)
+Introduction.
+a.
+Purpose. The objective is to provide facilities that ensure safe pedestrian movement in the city.
+b.
+Intent. Sidewalks are intended to provide a safe pedestrian connection between the subdivision/development and nearby destinations. Pedestrians consist of children walking to and from school and neighborhood activities, as well as adults walking to and from neighborhood shopping and transit stops. In addition to the need for sidewalks for circulation and safety, sidewalks can be important elements in the recreational system of this community. They can also serve as walking and hiking trails.
+(2)
+Performance approach.
+a.
+Performance factors. The performance approach shall be applied in determining the need for sidewalks. In this case, the decision to require a development to provide sidewalks shall be made on a case-by-case basis.
+b.
+Several basic factors shall be used in applying the performance approach. These are street classification and current/potential future volume of pedestrian traffic; residential land use/development density; relation to residential areas; proximity of schools, school bus stops, shopping areas; and proximity of parks, libraries, bike paths/pedestrian trails, greenspace corridors, and other land uses, zoning overlay districts or form based code areas.
+1.
+Street classification and volume of pedestrian traffic. As traffic volume and road speeds increase, there is more need for separate pedestrian ways to ascertain safety. Sidewalks shall be provided along local streets, collectors, arterials, and private roads according to the density standards in subsection (d)(2)b.2. of this section.
+2.
+Residential land use and development density.
+(i)
+Sidewalks shall be provided along both sides of all local streets where the residential land use designation in the comprehensive plan is three units/acre or higher density.
+(ii)
+Sidewalks shall be provided along at least one side of all local streets where the residential land use designation in the comprehensive plan is one to two units/acre. Residential land use designation of one unit or less shall be decided on a case-by-case basis using the other factors contained in subsection (d)(2)b. of this section.
+3.
+Relation to residential areas. In general, sidewalks are intended to be within the street right-of-way. This traditional location of sidewalks may be replaced in cluster developments by a flexible pedestrian circulation system. Such a system would connect individual dwelling units with other units, off-street parking, open space systems, and recreational facilities. Also, this system may be permitted to meander through the development within prescribed sidewalk easements. If the sidewalk leaves the right-of-way, an easement and indemnification agreement must be provided for public access and maintenance.
+4.
+Schools, active parks, zoning overlay districts or from based code districts.
+(i)
+Sidewalks shall be required in subdivisions located within one-half mile of an existing or proposed school or active park on both sides of any street that provides access to such school or active park. Minor plats may be exempted from the requirement to provide sidewalks internal to the subdivision if the community development director determines that the public health, safety and welfare is protected and such exemption would be in the best interest of the City of Milton. Subdivisions at each side of the street shall provide sidewalks along the corresponding frontage in accordance with section 48-562.
+(ii)
+Sidewalks shall be provided where required within all zoning overlay districts and form based code districts as may be specified within those regulations.
+5.
+Sidewalks are needed in areas where the following nonresidential land use designations exist:
+(i)
+Sidewalks shall be required along both sides of all streets in commercial, living-working, and business park land use designation areas.
+(ii)
+Sidewalks may be required in industrial subdivisions.
+(iii)
+Sidewalks may be required within a distance of up to one mile along both sides of the streets leading to or going through places of public assembly/transit facilities/other congested areas and other similar places deemed proper by the director of community development for public necessity and safety.
+6.
+Relation to established pattern of sidewalks. Notwithstanding the locational requirement for sidewalks in subsection (d)(2) of this section, their future location should follow the already established pattern of existing sidewalks (e.g., on one side of the street, on both sides, etc.).
+(3)
+General specifications.
+a.
+Sidewalks shall be provided by the subdivider at no cost to the city.
+b.
+Sidewalks shall have a minimum width of five feet indicated by a note on the preliminary plat.
+c.
+Sidewalks along roadways shall not be adjacent to street curbs without a minimum two-foot landscape strip.
+d.
+For nonresidential developments, sidewalks shall be a minimum of six feet wide.
+e.
+Sidewalks must be provided on or adjacent to an individual lot prior to the issuance of a certificate of occupancy.
+f.
+Prior to the recording of the final plat, 125 percent of the cost of the internal sidewalks for any residential subdivision must be performance bonded. This bond will be released when all sidewalks internal to the development have been constructed and approved. All required sidewalks must be provided internal to any residential subdivision within two years of the recording of the final plat, otherwise, the bond is forfeited and the city will use the funds to complete the sidewalk construction.
+(4)
+Review guidelines. The director of community development may issue guidelines to facilitate the application of the performance-based approach of subsection (d)(2) of this section including, but not limited to, a point system. The intent is to ascertain fairness and consistency in the application of this section.
+(5)
+Exception. When the developer requests to install (within a development) sidewalks that are not required by this chapter and at no cost to the city, the director of community development may approve a reduction to a minimum width of four feet.
+(e)
+Street trees. The required improvements for street trees shall be as follows:
+(1)
+Street trees and other shrubbery that may be retained or planted shall not obstruct sight distances and shall be subject to the director's approval.
+(2)
+Street trees that may be required by the director along the street shall be of a species approved as street trees in accordance with section 50-160.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-183. - Water supply.
+(a)
+Where a public water supply is within 300 feet, the subdivider shall install or have installed a system of water mains and connect to such supply. The installation of mains and connections to each lot shall be installed prior to the paving of the street, if possible. The installation shall include services and meter boxes if it is connected to the North Fulton Water System.
+(b)
+Where a public water supply is not available, each lot in a subdivision shall be furnished with a water supply system approved by the health department.
+(c)
+A separate water service connection shall be provided for each residential unit. Meters shall be located as specified by the utility company.
+(d)
+Fire hydrants shall be located and set in accordance with Fulton County and the City of Milton Standard Plans, where applicable. In addition, the fire hydrants shall be serviced by the following:
+(1)
+Not less than an eight-inch diameter main if the system is looped.
+(2)
+Not less than an eight-inch diameter main if the system is not looped or the fire hydrant is installed on a dead-end main exceeding 300 feet in length. Automatic flushing valves may be required by Fulton County.
+(e)
+When required by the public works department, a reuse water irrigation distribution system to each lot shall be installed. This system shall consist of an eight-inch diameter ductile iron pipe identified as "nonpotable water," painted purple in accordance with standard pipe identification schedules, and installed on the south or east shoulder of the right-of-way limit. All pipes and appurtenances must be in accordance with the Fulton County Water Reuse Standards. Each property owner requesting an irrigation meter shall connect to the reuse water main, if activated.
+(f)
+If a subdivision is replatted and the originally platted lots' configuration is changed after the water service lines have been installed, the water system shall be modified to properly serve each lot in accordance with the Fulton County water specifications.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-184. - Sanitary sewerage system management.
+(a)
+When public sanitary sewers are within 300 feet of the subdivision, the subdivider shall provide sanitary sewer services to each lot within the bounds of the subdivision. All street sewers serving lots in the subdivision shall be installed by the subdivider. A formula may be developed by the public works department to provide for a sharing of the costs of sewerage facilities needed to serve the subdivision and other subdivisions in the same drainage basin.
+(b)
+When, in the written opinion of the health and wellness department and the public works department, a public sanitary sewer is not accessible, an alternate method of sewage disposal for each lot or a community sewerage disposal system may be used, when in compliance with the standards of the health and wellness department and the Fulton County sewerage regulations.
+(c)
+When the operation of a temporary sanitary sewerage system requires land to be set aside for a disposal plant, the property owner shall give the county title to the property for as long as the plant is in operation. The title may carry a reversionary clause returning the property to the owner when the site is no longer necessary for the operation of the plant.
+(d)
+In a drainage basin, which at the time of plat application is scheduled for a public sewerage system, all subdivisions shall be provided with a temporary community sewerage disposal system as approved by the public works department and the health and wellness department. The system shall include permanent sewerage outfall lines, plus a temporary treatment plant to be installed by the subdivider.
+(e)
+Whenever the installation of a sanitary sewer is required, as provided by these rules and regulations, no new street shall be paved without the sewer being first installed in accordance with the requirements of the sewer specifications of the city's public works department and the Fulton County sewerage regulations.
+(f)
+If a subdivision is replatted and the originally platted lots configuration is changed after the sewer service lines have been installed, the sewer system shall be modified to properly serve each lot in accordance with Fulton County sewer specifications.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-185. - Stormwater provisions.
+(a)
+Stormwater management. Engineering and construction on any land within the city shall be carried out in a manner as to maintain water quality and rate of runoff to protect neighboring persons and property from damage or loss resulting from excessive stormwater runoff, pollution, soil erosion, or deposition upon private property or public streets of water-transported silt and debris.
+(1)
+Proper drainage plans shall be submitted for review by the department. These plans shall be prepared by a professional engineer or landscape architect, currently registered to practice in the state, with stamp affixed.
+(2)
+The plans shall be accompanied by profiles of natural and proposed drainageways, including:
+a.
+Storm pipes;
+b.
+Cross sections;
+c.
+Drainage swales; and
+d.
+Downstream analysis.
+(b)
+Design for stormwater management.
+(1)
+Grading and drainage plans required by this section must be accompanied by a hydrology study that complies with the stormwater management ordinance.
+(2)
+The purpose of the hydrology study is as follows:
+a.
+Identify the surface water runoff quantity, quality and rate;
+b.
+Establish runoff management control requirements for the development;
+c.
+Furnish all design calculations for the management control facilities, surface water conveyance systems (before and after development runoff); and
+d.
+Furnish design calculations for the volume of storage required.
+(3)
+A schedule indicating the timing for planting or mulching for temporary or permanent ground cover shall be submitted with these grading and drainage plans.
+(4)
+Erosion control devices must be installed prior to the initiation of grading and construction; the engineer must state this requirement on the engineering drawings.
+(5)
+In order to ensure full compliance with the approved construction plans, final plat approval will be withheld until "as-built" drawings, prepared by a professional engineer or landscape architect currently registered in the state, have been submitted and approved by the department in accordance with section 50-93. No occupancy permit shall be issued until released by the department.
+(6)
+The owner shall be responsible for the maintenance of the storm drainage facilities during grading and construction, and for a 15-month period following final plat approval. Maintenance will be construed to include preserving the enclosing walls or impounding embankment of the detention basin and permanent sedimentation ponds and security fences, in good conditions; ensuring structural soundness, functional adequacy, and freedom from sediment of all drainage structures; and rectifying any unforeseen erosion problems.
+(c)
+Detention/retention design.
+(1)
+General provisions.
+a.
+Installation of properly functioning detention facilities, including outflow control devices, shall be the responsibility of the owner. If any control devices are damaged or destroyed during grading or construction, all processes shall cease until such devices are restored to their functioning capability. The owner, through application for grading or construction permits, accepts the responsibility of maintenance of the control devices.
+b.
+When serving more than three lots, except when all the single family residential lots are each a minimum of three acres in size, detention ponds, retention ponds, and water quality features (including all required access easements, landscape strips, and fences) shall be located on a separate parcel where no home can be constructed. This parcel shall be owned and maintained by the homeowners' association or the owners of the lots being served by this pond. The parcel shall have a minimum 20-foot-wide continuous access to a public or private road in a manner that allows access and maintenance of this parcel. In addition, this parcel will not be required to meet the normal lot standard.
+(2)
+Layout design standards. The ponds layout shall provide for the following minimums:
+a.
+Twenty-foot graded access easement;
+b.
+Twenty-foot landscape strip for screening purposes;
+c.
+Ten-foot access easement for maintenance; and
+d.
+Six-foot-high fence.
+(3)
+Alternative design standards. Applicants are encouraged to carry out innovative detention/retention layout that is intended to make such facilities an attractive amenity or focal point to the subdivision. To achieve that, the director may approve the following alternative design standards in lieu of those in subsections (c)(1) and (c)(2) of this section:
+a.
+Such alternative design should provide for attractive layout and means for detaining/retaining/moving water.
+b.
+The design should follow the natural land forms around the perimeter of the basin. The basin should be shaped to emulate a naturally formed depression.
+c.
+Redistributing soils from basin construction to create natural landforms around the perimeter of the basin is encouraged. These forms should be located strategically to filter views or redirect and soften the views from residential areas.
+d.
+Side slopes of basins must not exceed one foot vertical for every four-foot horizontal. Where possible, side slopes should be varied to imitate natural conditions. Associated natural landforms should have side slopes no greater than one foot vertical for every three-foot horizontal to accommodate lawn maintenance equipment. Varied slopes will be encouraged.
+e.
+The applicant should consider the use of plant materials that naturally grow in the area. Trees and shrubs should be grouped in informal patterns to emulate the natural environment. The intent is to soften the views of these basins.
+(4)
+Design guidelines. The director may issue design guidelines illustrating details of the standards in subsection (c)(3) of this section.
+(d)
+Storm drain system stenciling/identification.
+(1)
+All residential subdivision and commercial entity storm drainage structures or facilities (e.g., catch basins, storm sewer inlets, culverts, impoundment facilities, manholes, and other facilities that convey stormwater runoffs) shall be properly identified.
+(2)
+Each drainage structure shall be identified with the use of durable and reusable Mylar stencils (stencils will not be provided by the county) that measure 20 inches by 30 inches with two-inch lettering and an environmentally formulated, water base, but soluble striping paint (color blue). The message on the stencil shall read:
+"DUMP NO WASTE"
+(Picture of a trout)
+"DRAINS TO STREAM"
+(e)
+Sanitary and storm sewer easement.
+(1)
+All permanent easements shall be 20 feet in width. When access for maintenance purposes is required, the maximum longitudinal slope along the easement shall be 30 percent at grade in the steepest direction.
+(2)
+No fill shall be placed on a sanitary or storm sewer easement without approval by the public works director. All sanitary manholes must extend to the ground surface. All easements terminating on a parcel shall extend to the property line.
+(3)
+No retaining wall, building, pole, sign or other vertical structure shall be constructed in sanitary and storm sewer easements, including vehicular access easements around structures, without approval from the public works director. No fence shall be placed across sanitary or storm sewer easements without gates to which the public works department has full access. No planting shall take place in a sanitary or storm sewer easement that will impede vehicular access along the easement or endanger the pipeline. No surface water shall be impounded on a sanitary sewer easement. No other pipeline or utility shall be placed in a sanitary or storm sewer easement without approval by the public works director.
+(4)
+Each lot or parcel of land in a subdivision shall have a separate sewer connection terminating at the easement limit or right-of-way limit with a vertical cleanout pipe. No connection of the public sewerage system shall be made except at a sewer connection approved by the public works director.
+(5)
+No surface water, groundwater, storm drain, gutter, downspout, or other conveyance of surface water or groundwater shall be discharged into the sanitary sewer.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018; Ord. No. 21-03-472 , § 1, 3-1-2021)
+Sec. 50-186. - Plans and construction.
+(a)
+No sanitary sewer shall be accepted by the county without an "as-built" drawing showing the horizontal and vertical alignment of the sewer system, the locations of all manholes, sewer connections, piping materials, required easement limits and junctions, and property lines. This should be provided in the form of plans, profiles, and plats; when possible, an electronic copy of the required data, compatible with the city's geographical information system (GIS), should be submitted.
+(b)
+No storm sewer shall be accepted by the city without an "as-built" drawing showing the horizontal and vertical alignment of the sewer system; the locations of all manholes, junctions, detention ponds, retention ponds, and sewer system outfalls discharging into ditches or creeks; sewer connections, piping materials, required easement limits; and property lines. This information shall be provided in the form of plans, profiles, details, sections and plats and, when possible, in an electronic form compatible with the city's geographical information system (GIS) and the applicable department of public works' database.
+(c)
+In the case of single-family residential subdivisions, by written application, the owner may request that the city assume partial maintenance responsibility of drainage facilities, effective after the expiration of the initial maintenance 15 months. Within 60 days after receipt of such application, the director shall respond in writing to the owner/applicant. Such response shall set forth additional terms and conditions for acceptance. However, maintenance by the city shall be limited to ensuring the functional adequacy of such drainage structures. The maintenance responsibility shall remain partially with the homeowners' association unless and until, and only to the extent that, the homeowners' association is expressly relieved of such responsibility pursuant to and in accordance with a written instrument signed by the director. Appropriate easements shall be executed and recorded pursuant to this subsection. For all other types of development, responsibility for maintenance of storm sewer system and detention ponds including, but not limited to, periodic silt removal to maintain functional integrity, will remain the owner's responsibility. Maintenance responsibility shall constitute an obligation running with the land and shall be binding upon the owner's executors, administrators, heirs, successors, and successors-in-title. The owner/developer shall provide stabilization, including vegetation, and installation of security fences for safety purposes at detention facilities, as prescribed, prior to approval of the final plat by the director.
+(d)
+Any single-family detached home which involves less than 10,000 square feet of cleared area, or all impervious surface areas combined, shall be exempted from the provisions of a hydrology study. In no such case, however, shall grading involve over 25 percent of the total land area.
+(e)
+All engineering and construction, regardless of whether such engineering or construction is being accomplished on public land or on public easements, shall meet the minimum requirements of these regulations.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-187. - Monuments and iron pipes.
+(a)
+Permanent monuments shall be accurately set and established to tie with the county GIS monuments or as required by the director.
+(b)
+The monuments shall consist of two, two-inch iron pipes, 16 inches in length, or T bars, 24 inches in length, or other approved materials. The monuments shall be set so that the top of the pipe shall be six inches above the ground level, unless otherwise approved by the public works department.
+(c)
+The accurate location, material, and size of all existing monuments shall be shown, on the final plat, as well as the future location of monuments to be placed after street improvements have been completed.
+(d)
+Iron pipes at least one-half inch by 16 inches shall be used and shall be set two inches above the finished grade.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-188. - Underground utilities.
+(a)
+All existing and proposed utilities, including all electrical, telephone, television and other communication lines, both main and service connections, serving or having capacity of 69 KV or less, abutting or located within a requested land disturbance area, shall be installed under ground in a manner approved by the applicable utility provider and in compliance with the city's right-of-way and erosion control regulations, if applicable.
+(b)
+Lots that abut existing easements or public rights-of-way, where overhead electrical or telephone distribution supply lines and service connections have previously been installed, may be supplied with electric and telephone service from those overhead lines, but the service connections from the utilities' overhead lines shall be installed underground. Should a road widening or an extension of service, or other such conditions, occur as a result of the subdivision and necessitate the replacement or relocation of such utilities, such replacement or relocation shall be under ground.
+(c)
+Contractors or developers of subdivisions shall:
+(1)
+Submit drawings of the subdivision layout showing locations of underground electrical cable, transformers, and other related fixtures, in accordance with the standard plans. These drawings must be approved by the city before installation of the underground utility and before a building permit can be issued.
+(2)
+Pay all cost for poles, fixtures, or any related items of materials necessary for the installation to the utility company.
+(3)
+Submit proof of payment for complete installation.
+(4)
+Have an agreement with the appropriate power company for complete maintenance of all installations and provide proof of payment.
+(d)
+Streetlights and pedestrian lighting.
+(1)
+Streetlights and pedestrian lights shall be provided by the developers of all new subdivisions, except land subdivided under the provisions of a minor plat. All subdivisions shall be required to install street lights where those street lights are required along the frontage of a property based on the requirements of the zoning district. At the time of, and as a requirement of, submission of a final plat, the developer shall:
+a.
+Submit a drawing of the subdivision's layout showing locations of streetlights and required pedestrian lights. This drawing must be approved by the director prior to obtaining any building permit within the subdivision. The layout shall be shown on the land disturbance permit. Fixtures and standards/poles installed or used shall be approved by the city and by the utility company which shall be responsible for the maintenance of the facilities.
+1.
+Streetlight fixtures shall be mounted 30 feet above the ground and shall have appropriate arm length to place the light over the street. No arm shall be less than five feet long. Post-top luminaries may be permitted when approved by the city, providing same are in compliance with the requirements of the zoning ordinance (chapter 64). Fixtures shall be located no more than 300 feet apart and at least one light shall be located at each street intersection within the subdivision. When a subdivision is located in a zoning overlay district, light standards shall comply with the requirements of the overlay district.
+2.
+Pedestrian lights shall be installed as required by the overlay district or the specific zoning case.
+b.
+Pay all costs for standards/poles, fixtures and any other related items or material necessary for installation.
+c.
+Submit proof of payment for complete installation to the director.
+d.
+Submit a copy of an executed agreement with the utility company for complete maintenance of all installations.
+(2)
+When street lighting is requested by existing residents, these residents shall:
+a.
+Submit a petition to the public works department from the residents affected showing a 90-percent support for the request. The affected residents shall be all residents whose properties are located, in whole or in part, within 150 feet of a proposed streetlight.
+b.
+The request to the city for streetlights shall include a sketch indicating the individual location of lights within the subdivision, along with the residential location of each signatory to the petition.
+c.
+If standards/poles within the subdivision for the placement of these lights do not exist, or do not meet utility company requirements, it shall be the petitioners' responsibility to have these standards/poles placed prior to installation of the streetlights, at their cost. Installation of poles within the county's right-of-way shall be subject to the approval of the public works director. The streetlight fixtures are to be installed at the expense of the petitioners.
+(3)
+When each of the applicable items in subsection (c) of this section has been completed, the City of Milton shall:
+a.
+Assume maintenance responsibility and make the monthly payments to the utility company for electrical energy for each streetlight when at least 50 percent of the dwelling units in the subdivision have been occupied.
+b.
+Pay only the current monthly negotiated amount for electrical energy for each streetlight.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-189—50-207. - Reserved.
+ARTICLE VIII. - FEES
+
+Sec. 50-208. - Required with submission of application.
+Every application for a preliminary plat, final plat, or other plat submitted pursuant to these regulations shall be submitted to the director along with such fees as may be established from time to time by the mayor and city council. Failure to pay such fees as required shall cause the plat to be returned to the applicant, without acceptance for review or consideration by the city.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-209. - Fees associated with preliminary plat.
+Following the approval of a preliminary plat and prior to authorization to begin construction, the developer shall pay the required inspection, water and sewer connection, curb cut, and street sign fees as may be established from time to time by the mayor and city council.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-210. - Bond costs associated with final plat approval.
+Prior to approval of a final plat and as a prerequisite for acceptance of any such final plat, the developer shall provide such performance bonds, maintenance bonds, or cash assurances as required by these regulations and as established from time to time by the mayor and city council.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Secs. 50-211—50-229. - Reserved.
+ARTICLE IX. - ADMINISTRATION AND ENFORCEMENT
+
+Sec. 50-230. - Authority of director.
+These subdivision regulations shall be administered and enforced by the director of community development.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-231. - Denial; appeal procedure for preliminary plat.
+Should the director deny a preliminary plat, a written explanation shall be provided to the subdivider stating the basis for the denial. Within 30 days of the date of said written explanation, the owner of record or the subdivider may file with the community development department a letter appealing the decision which, together with a report from the director, shall be forwarded to the mayor and city council for consideration pursuant to article 22 of chapter 64.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-232. - Denial; appeal procedure for final plat.
+Should the director or city council deny any final plat, a written explanation shall be provided stating the basis for the denial. The owner of record or the subdivider may file a writ of certiorari filed with the Superior Court of Fulton County within 30 days of the date of the mayor and city council's decision.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-233. - Denial; appeal for directors review comments or minor plat.
+(a)
+Should an applicant disagree with the director's review comments with respect to or denial of a minor plat, concluding factual or interpretive errors have been made, the following appeal procedure is intended to resolve the issues:
+(1)
+Submit to the director within 30 days of the comments at issue, a letter clearly defining the nature of the disagreement, the specific reference to the article of this chapter at issue, and the applicant's opinion.
+(2)
+The director shall submit the request to the technical staff review committee. The technical staff review committee shall be selected by the director and formed from the appropriate departments' staff, relative to the subject appeal.
+(3)
+The technical staff review committee shall provide comments and a written recommendation to the director within ten working days.
+(4)
+Should the director, after review of the applicant's statement and the recommendation of the technical staff review committee, conclude that these provisions would not be violated, the director shall modify his or her comments accordingly.
+(5)
+Should the director conclude that these regulations would be violated, the director shall provide the applicant with a written letter of denial and advise the applicant of the appeal process to the board of zoning appeals.
+(6)
+The board of zoning appeals shall, after receiving a report from the director, decide the issue. The decision shall constitute the final administrative appeal.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)
+Sec. 50-234. - Appeal hearing; variance to design standards (article VI) and required improvements (article VII).
+The board of zoning appeals may issue a variance to the provisions of articles VI and VII of this chapter in accordance with the procedures for primary variances described in chapter 64. The board of zoning appeals shall base its decision on hardships as described in chapter 64.
+( Ord. No. 18-08-368 , § 2(Exh. A), 8-6-2018)

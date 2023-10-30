@@ -1,0 +1,309 @@
+Chapter 2 - ADMINISTRATION[1]
+Footnotes:
+--- (1) ---
+Cross reference— Any ordinance promising or guaranteeing the payment of money for the county, or authorizing the issuance of any bonds for the county, or any evidence of the county's indebtedness, or any contract or obligation assumed by the county saved from repeal, § 1-7(2); any ordinance establishing salaries or compensation of county officers or employees not in this Code saved from repeal, § 1-7(9); any ordinance approving the budget saved from repeal, § 1-7(10); administration and enforcement of floods, § 22-41 et seq.; taxation, ch. 34.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 2-1. - Safety belt use by county employees required.
+All county employees shall use available safety belts when riding in or driving a motor vehicle on the job. Any employee found in violation of this section shall be issued a warning for a first offense. Second or additional offenses shall result in disciplinary action, which may include dismissal or demotion, in accordance with the county personnel policy.
+(Ord. of 10-21-1996)
+Secs. 2-2—2-20. - Reserved.
+ARTICLE II. - IDENTITY THEFT PREVENTION PROGRAM[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Ord. of Dec. 7, 2009, § 1, enacted provisions which did not specify manner of inclusion. To facilitate indexing, said provisions have been codified herein as Art. II, §§ 2-21—2-32.
+
+Sec. 2-21. - Short title.
+This article shall be known as the identity theft prevention program.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-22. - Purpose.
+The purpose of this article is to comply with 16 CFR § 681.2 in order to detect, prevent and mitigate identity theft by identifying and detecting identity theft red flags and by responding to such red flags in a manner that will prevent identity theft.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-23. - Definitions.
+For purposes of this article, the following definitions apply:
+County means Talbot County, Georgia.
+Covered account means:
+(1)
+An account that a financial institution or creditor offers or maintains, primarily for personal, family, or household purposes, that involves or is designed to permit multiple payments or transactions, such as credit card account, mortgage loan, automobile loan, margin account, cell phone account, covered account, checking account, or savings account; and
+(2)
+Any other account that the financial institution or creditor offers or maintains for which there is a reasonably foreseeable risk to customers or to the safety and soundness of the financial institution or creditor from identity theft, including financial, operational, compliance, reputation, or litigation risks.
+Credit means the right granted by a creditor to a debtor to defer payment of debt or to incur debts and defer its payment or to purchase property or services and defer payment therefore.
+Creditor means any person who regularly extends, renews, or continues credit, any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit and includes covered companies and telecommunications companies.
+Customer means a person that has a covered account with a creditor.
+Identity theft means a fraud committed or attempted using identifying information of another person without authority.
+Person means a natural person, a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
+Personal identifying information means a person's credit card account information, debit card information, bank account information and drivers' license information and for a natural person includes their Social Security Number, mother's birth name, and date of birth.
+Red flag means a pattern, practice, or specific activity that indicates the possible existence of identity theft.
+Service provider means a person that provides a service directly to the county.
+(Ord. of 12-7-2009, § 1)
+Note— Other than "county" and "personal identifying information", definitions provided in this section are based on the definitions provided in 16 CFR § 681.2.
+Sec. 2-24. - Findings.
+(1)
+The county is a creditor pursuant to 16 CFR § 681.2 due to its provision or maintenance of covered accounts for which payment is made in arrears.
+(2)
+Covered accounts offered to customers for the provision of the county services include water services.
+(3)
+The county's previous experience with identity theft related to covered accounts is as follows:
+No such identity theft has occurred from county accounts.
+(4)
+The processes of opening a new covered account, restoring an existing covered account, and making payments on such account, have been identified as potential processes in which identity theft could occur.
+(5)
+The county limits access to personal identifying information to those employees responsible for or otherwise involved in opening or restoring covered accounts or accepting payment for use of covered account information provided to such employees is entered directly into the county's computer system and is not otherwise recorded.
+(6)
+The county determines that there is a low risk of identity theft occurring in the following ways:
+a.
+Use by an applicant of another person's personal identifying information to establish a new covered account;
+b.
+Use of a previous customer's personal identifying information by another person in an effort to have service restored in the previous customer's name;
+c.
+Use of another person's credit card, bank account or other method of payment by a customer to pay such customer's covered account or accounts;
+d.
+Use by a customer desiring to restore such customer's covered account of another person's credit card, bank account, or other method of payment.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-25. - Process of establishing a covered account.
+(1)
+As a precondition to opening a covered account in the county, each applicant shall provide the county with personal identifying information of the customer to include a valid government issued identification card containing a photograph of the customer or, for customers who are not natural persons, a photograph of the customer's agent opening the account. Such applicant shall also provide any information necessary for the department providing the service for which the covered account is created to access the applicant's consumer credit report. Such information shall be entered directly into the county's computer system and shall not otherwise be recorded.
+(2)
+Each account shall be assigned an account number and personal identification number (PIN) which shall be unique to that account. The county may utilize computer software to randomly generate assigned PINs and to encrypt account numbers and PINs.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-26. - Access to covered account information.
+(1)
+Access to customer accounts shall be password protected and shall be limited to authorized county personnel.
+(2)
+Such password(s) shall be changed by the director of the department providing the service for which the covered account is created, or by the director of information technology on a regular basis, shall be at least eight characters in length and shall contain letters, numbers and symbols.
+(3)
+Any unauthorized access to or other breach of customer accounts is to be reported immediately to the county manager and the password changed immediately.
+(4)
+Personal identifying information included in customer accounts is considered confidential and any request or demand for such information shall be immediately forwarded to the county manager and the county attorney.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-27. - Credit card payments.
+(1)
+In the event that credit card payments that are made over the internet are processed through a third party service provider, such third party service provider shall certify that it has an adequate identity theft prevention program in place that is applicable to such payments.
+(2)
+All credit card payments made over the telephone or the county's website shall be entered directly into the customer's account information in the computer data base.
+(3)
+Account statements and receipts for covered accounts shall include only the last four digits of the credit or debit card or the bank account used for payment of the covered account.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-28. - Sources and types of red flags.
+All employees responsible for or involved in the process of opening a covered account, restoring a covered account or accepting payment for a covered account shall check for red flags as indicators of possible identity theft and such red flags may include:
+(1)
+Alerts from consumer reporting agencies, fraud detection agencies or service providers. Examples of alerts include but are not limited to:
+a.
+A fraud or active duty alert that is included with a consumer report;
+b.
+A notice of credit freeze in response to a request for a consumer report;
+c.
+A notice of address discrepancy provided by a consumer reporting agency;
+d.
+Indications of a pattern of activity in a consumer report that is inconsistent with the history and usual pattern of activity of an applicant or customer, such as:
+1.
+A recent and significant increase in the volume of inquiries;
+2.
+An unusual number of recently established credit relationships;
+3.
+A material change in the use of credit, especially with respect to recently established credit relationships; or
+4.
+An account that was closed for cause or identified for abuse of account privileges by a financial institution or creditor.
+(2)
+Suspicious documents. Examples of suspicious documents include:
+a.
+Documents provided for identification that appear to be altered or forged;
+b.
+Identification on which the photograph or physical description is inconsistent with the appearance of the applicant or customer;
+c.
+Identification on which the information is inconsistent with information provided by the applicant or customer;
+d.
+Identification on which the information is inconsistent with readily accessible information that is on file with the financial institution or creditor, such as a signature card or a recent check; or
+e.
+An application that appears to have been altered or forged, or appears to have been destroyed and reassembled.
+(3)
+Suspicious personal identification, such as suspicious address change. Examples of suspicious identifying information include:
+a.
+Personal identifying information that is inconsistent with external information sources used by the financial institution or creditor. For example:
+1.
+The address does not match any address in the consumer report; or
+2.
+The Social Security Number (SSN) has not been issued, or is listed on the Social Security Administration's death master file.
+b.
+Personal identifying information provided by the customer is not consistent with other personal identifying information provided by the customer, such as a lack of correlation between the SSN range and date of birth.
+c.
+Personal identifying information or a phone number or address, is associated with known fraudulent applications or activities as indicated by internal or third-party sources used by the financial institution or creditor.
+d.
+Other information provided, such as fictitious mailing address, mail drop addresses, jail addresses, invalid phone numbers, pager numbers or answering services, is associated with fraudulent activity
+e.
+The SSN provided is the same as that submitted by other applicants or customers.
+f.
+The address or telephone number provided is the same as or similar to the account number or telephone number submitted by an unusually large number of applicants or customers.
+g.
+The applicant or customer fails to provide all required personal identifying information on an application or in response to notification that the application is incomplete.
+h.
+Personal identifying information is not consistent with personal identifying information that is on file with the financial institution or creditor.
+i.
+The applicant or customer cannot provide authenticating information beyond that which generally would be available from a wallet or consumer report.
+(4)
+Unusual use of or suspicious activity relating to a covered account. Examples of suspicious activity include:
+a.
+Shortly following the notice of a change of address for an account, county receives a request for the addition of authorized users on the account.
+b.
+A new revolving credit account is used in a manner commonly associated with known patterns of fraud patterns. For example:
+1.
+The customer fails to make the first payment or makes an initial payment but no subsequent payments.
+c.
+An account is used in a manner that is not consistent with established patterns of activity on the account. There is, for example:
+1.
+Nonpayment when there is no history of late or missed payments;
+2.
+A material change in purchasing or spending patterns;
+d.
+An account that has been inactive for a long period of time is used (taking into consideration the type of account, the expected pattern of usage and other relevant factors).
+e.
+Mail sent to the customer is returned repeatedly as undeliverable although transactions continue to be conducted in connection with the customer's account.
+f.
+The county is notified that the customer is not receiving paper account statements.
+g.
+The county is notified of unauthorized charges or transactions in connection with a customer's account.
+h.
+The county is notified by a customer, law enforcement or another person that it has opened a fraudulent account for a person engaged in identity theft.
+(5)
+Notice from customers, law enforcement, victims or other reliable sources regarding possible identity theft or phishing relating to covered accounts.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-29. - Prevention and mitigation of identity theft.
+(1)
+In the event that any county employee responsible for or involved in restoring an existing covered account or accepting payment for a covered account becomes aware of red flags indicating possible identity theft with respect to existing covered accounts, such employee shall use his or her discretion to determine whether such red flag or combination of red flags suggests a threat of identity theft. If, in his or her discretion, such employee determines that identity theft or attempted identity theft is likely or probable, such employee shall immediately report such red flags to the county manager. If, in his or her discretion, such employee deems that identity theft is unlikely or that reliable information is available to reconcile red flags, the employee shall convey this information to the county manager, who may in his or her discretion determine that no further action is necessary. If the county manager in his or her discretion determines that further action is necessary, a county employee shall perform one or more of the following responses, as determined to be appropriate by the county manager:
+a.
+Contact the customer;
+b.
+Make the following changes to the account if, after contacting the customer, it is apparent that someone other than the customer has accessed the customer's covered account:
+1.
+Change any account numbers, passwords, security codes, or other security devices that permit access to an account; or
+2.
+Close the account;
+c.
+Cease attempts to collect additional charges from the customer and decline to sell the customer's account to a debt collector in the event that the customer's account has been accessed without authorization and such access has caused additional charges to accrue;
+d.
+Notify a debt collector within 24 hours of the discovery of likely or probable identity theft relating to a customer account that has been sold to such debt collector in the event that a customer's account has been sold to a debt collector prior to the discovery of the likelihood or probability of identity theft relating to such account;
+e.
+Notify law enforcement, in the event that someone other than the customer has accessed the customer's account causing additional charges to accrue or accessing personal identifying information; or
+f.
+Take other appropriate action to prevent or mitigate identity theft.
+(2)
+In the event that any county employee responsible for or involved in opening a new covered account becomes aware of red flags indicating possible identity theft with respect an application for a new account, such employee shall use his or her discretion to determine whether such red flag or combination of red flags suggests a threat of identity theft. If, in his or her discretion, such employee determines that identity theft or attempted identity theft is likely or probable, such county employee shall immediately report such red flags to the county manager. If, in his or her discretion, such employee deems that identity theft is unlikely or that reliable information is available to reconcile red flags, the employee shall convey this information to the county manager, who may in his or her discretion determine that no further action is necessary. If the county manager in his or her discretion determines that further action is necessary, a county employee shall perform one or more of the following responses, as determined by the county manager:
+a.
+Request additional identifying information from the applicant;
+b.
+Deny the application for the new account;
+c.
+Notify law enforcement of possible identity theft; or
+d.
+Take other appropriate action to prevent or mitigate identity theft.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-30. - Updating the program.
+The board of commissioners of the county shall annually review and, as deemed necessary by the commission, update the identity theft prevention program along with any relevant red flags in order to reflect changes in risks to customers or to the safety and soundness of the city and its covered accounts from identity theft. In so doing, the board of commissioners shall consider the following factors and exercise its discretion in amending the program:
+(1)
+The county's experiences with identity theft;
+(2)
+Updates in methods of identity theft;
+(3)
+Updates in customary methods used to detect, prevent, and mitigate identity theft;
+(4)
+Updates in the types of accounts that the county offers or maintains; and
+(5)
+Updates in service provider arrangements.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-31. - Program administration.
+The county manager is responsible for oversight of the program and for program implementation. The county manager is responsible for reviewing reports prepared by staff regarding compliance with red flag requirements and with recommending material changes to the program, as necessary in the opinion of the county manager, to address changing identity theft risks and to identify new or discontinued types of covered accounts. Any recommended material changes to the program shall be submitted to the county commission for consideration.
+(1)
+The county manager will report to the commissioners at least annually, on compliance with the red flag requirements. The report will address material matters related to the program and evaluate issues such as
+a.
+The effectiveness of the policies and procedures of county in addressing the risk of identity theft in connection with the opening of covered accounts and with respect to existing covered accounts;
+b.
+Service provider arrangements;
+c.
+Significant incidents involving identity theft and management's response; and
+d.
+Recommendations for material changes to the program.
+(2)
+The county manager is responsible for providing training to all employees responsible for or involved in opening a new covered account, restoring an existing covered account or accepting payment for a covered account with respect to the implementation and requirements of the identity theft prevention program. The county manager shall exercise his or her discretion in determining the amount and substance of training necessary.
+(Ord. of 12-7-2009, § 1)
+Sec. 2-32. - Outside Service Providers.
+In the event that the county engages a service provider to perform an activity in connection with one or more covered accounts the county manager shall exercise his or her discretion in reviewing such arrangements in order to ensure, to the best of his or her ability, that the service provider's activities are conducted in accordance with policies and procedures, agreed upon by contract, that are designed to detect any red flags that may arise in the performance of the service provider's activities and take appropriate steps to prevent or mitigate identity theft.
+(Ord. of 12-7-2009, § 1)
+Secs. 2-33—2-40. - Reserved.
+ARTICLE III. - ADDRESS DISCREPANCIES[3]
+
+Footnotes:
+--- (3) ---
+Editor's note— Ord. of Dec. 7, 2009, § 2, enacted provisions which did not specify manner of inclusion. To facilitate indexing, said provisions have been codified herein as Art. III, §§ 2-41—2-46.
+
+Sec. 2-41. - Short title.
+Treatment of address discrepancies.
+(Ord. of 12-7-2009, § 2)
+Sec. 2-42. - Purpose.
+Pursuant to 16 CFR § 681.1, the purpose of this article is to establish a process by which the county will be able to form a reasonable belief that a consumer report relates to the consumer about whom it has requested a consumer credit report when the county has received a notice of address discrepancy.
+(Ord. of 12-7-2009, § 2)
+Sec. 2-43. - Definitions.
+For purposes of this article, the following definitions apply:
+Notice of address discrepancy means a notice sent to a user by a consumer reporting agency pursuant to 15 U.S.C. § 1681(c)(h)(1), that informs the user of a substantial difference between the address for the consumer that the user provided to request the consumer report and the address(es) in the agency's file for the consumer.
+County means Talbot County, Georgia.
+(Ord. of 12-7-2009, § 2)
+Note— See CFR § 681.1(b)
+Sec. 2-44. - Policy.
+In the event that the county receives a notice of address discrepancy, the county employee responsible for verifying consumer addresses for the purpose of providing the county service or account sought by the consumer shall perform one or more of the following activities, as determined to be appropriate by such employee:
+(1)
+Compare the information in the consumer report with:
+a.
+Information the county obtains and uses to verify a consumer's identity in accordance with the requirements of the customer information program rules implementing 31 U.S.C. § 5318(1);
+b.
+Information the county maintains in its own records, such as applications for service, change of address notices, other customer account records or tax records; or
+c.
+Information the county obtains from third-party sources that are deemed reliable by the relevant city employee; or
+(2)
+Verify the information in the consumer report with the consumer.
+(Ord. of 12-7-2009, § 2)
+Sec. 2-45. - Furnishing consumer's address to consumer reporting agency.
+(1)
+In the event that the county reasonably confirms that an address provided by a consumer to the county is accurate, the county is required to provide such address to the consumer reporting agency from which the county received a notice of address discrepancy with respect to such consumer. This information is required to be provided to the consumer reporting agency when:
+a.
+The county is able to form a reasonable belief that the consumer report relates to the consumer about whom the city requested the report;
+b.
+The county establishes a continuing relation with the consumer; and
+c.
+The county regularly and in the ordinary course of business provides information to the consumer reporting agency from which it received the notice of address discrepancy.
+(2)
+Such information shall be provided to the consumer reporting agency as part of the information regularly provided by the county to such agency for the reporting period in which the county establishes a relationship with the customer.
+(Ord. of 12-7-2009, § 2)
+Sec. 2-46. - Methods of confirming consumer addresses.
+The county employee charged with confirming consumer addresses may, in his or her discretion, confirm the accuracy of an address through one or more of the following methods:
+(1)
+Verifying the address with the consumer;
+(2)
+Reviewing the county's records to verify the consumer's address;
+(3)
+Verifying the address through third party sources; or
+(4)
+Using other reasonable processes.
+(Ord. of 12-7-2009, § 2)
+Secs. 2-47—2-60. - Reserved.
+ARTICLE IV. - 9-1-1 CHARGE ON PREPAID WIRELESS TRANSACTIONS[4]
+
+Footnotes:
+--- (4) ---
+Editor's note— Ord. of Jan. 1, 2012 enacted provisions which did not specify manner of inclusion. To facilitate indexing, said provisions have been codified herein as Art. IV, §§ 2-61—2-65.
+
+Sec. 2-61. - 9-1-1 Charge on prepaid wireless transactions.
+In accordance with O.C.G.A. § 46-5-134.2, there is hereby imposed a prepaid wireless 9-1-1 charge as defined by O.C.G.A. § 46-5-134.2(a)(d) upon every prepaid wireless retain transaction occurring within the jurisdiction of the public service answering point in the amount of 75 cents.
+(Ord. of 1-1-2012)
+Sec. 2-62. - Collection of 9-1-1 Charge on prepaid wireless transactions.
+Prepaid wireless 9-1-1 charges collected by sellers shall be remitted to the commissioner of the department of revenue at the times and in the manner provided by O.C.G.A. Title 48, Chapter 8 with respect to the sales and use tax imposed on prepaid wireless calling service.
+(Ord. of 1-1-2012)
+Sec. 2-63. - Administrative provisions.
+The clerk of the county is hereby directed to file with the state revenue commissioner a certified copy of this article and amendments thereto, in accordance with O.C.G.A. § 46-5-134.2(j)(1), within ten days of enactment of this article.
+(Ord. of 1-1-2012)
+Sec. 2-64. - Depositing of funds; use of funds.
+In accordance with O.C.G.A. § 46-5-134.2(j)(5), funds received by this county from charges imposed by this article shall be deposited in the emergency telephone system fund maintained by the county pursuant to O.C.G.A. § 46-5-134 and kept separate from general revenue of the jurisdiction; all such funds shall be used exclusively for the purposes authorized by O.C.G.A. § 46-5-134(f).
+(Ord. of 1-1-2012)
+Sec. 2-65. - Repealer.
+All ordinances and parts of ordinances in conflict with this article are hereby repealed.
+(Ord. of 1-1-2012)

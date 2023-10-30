@@ -1,0 +1,225 @@
+ARTICLE VII. - SOLAR REGULATIONS
+DIVISION 1. - GENERALLY
+
+Sec. 110-268. - Purpose.
+(a)
+This article aims to promote the accommodation of distributed, on-site residential and nonresidential solar energy systems installed to reduce on-site energy consumption and associated equipment, as well as adequate access to sunlight necessary for such systems.
+(b)
+This article permits solar energy systems, while protecting the safety and welfare of adjacent and surrounding land uses through appropriate zoning and land use controls. In an effort to ensure that solar development is safe and adheres to policies and requirements, this article shall require zoning approval and building permits for solar farms.
+(c)
+A solar energy system shall be permitted in any zoning district as an accessory use, subject to specific criteria as set forth below. Where general standards and specific criteria overlap, specific criteria shall supersede general standards.
+(d)
+Utility scale solar farms and commercial scale solar farms which are considered to be the principal use for the property ranges in size from three acres and up shall be considered the same for the purpose of this article.
+(Ord. of 2-3-2015, § 14.1.0)
+Sec. 110-269. - Applicability.
+(a)
+This article applies to all distributed solar systems installed and constructed after the effective date of the ordinance from which this article is derived. For purposes of this article, the term "solar energy system" means a distributed solar energy system as defined herein.
+(b)
+Solar energy systems constructed prior to the effective date of the ordinance from which this article is derived shall not be required to meet the requirements of this article.
+(c)
+All solar energy systems shall be designed, erected, and installed in accordance with applicable local, state, utility, and national codes, regulations, and standards.
+(Ord. of 2-3-2015, § 14.2.0)
+Sec. 110-270. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Accessory use means a use customarily incidental and subordinate to the primary use or building and located on the same lot therewith. A use which dominates the primary use or building in area, extent, or purpose shall not be considered an accessory use.
+Battery back-up means a battery system that stores electrical energy from a solar photovoltaic ( PV) system, making the electricity available for future use.
+Combiner or junction box means a device that combines the inputs (electrical flows) from multiple strings of solar panels (or micro-inverters) into one output circuit.
+Crystalline silicon cells means solar photovoltaic cells fashioned from either mono-crystalline, multi-crystalline, or ribbon silicon capable of converting sunlight into electricity.
+Distributed solar means solar energy systems located on-site and designed to provide solar thermal energy or solar PV electricity to a property owner, occupant, and/or facilities.
+Electrical equipment means any device associated with a solar energy system, such as an outdoor electrical unit/control box, that transfers the energy from the solar energy system to the intended on-site structure.
+Electricity generation (production, output) means the amount of electric energy produced by transforming other forms of energy, commonly expressed in kilowatt-hours (kWh) or megawatt-hours (MWh).
+Grid-tied solar means a solar PV system that is interconnected with the utility grid via net metering and interconnection agreements with the utility.
+Grid-tied solar photovoltaic systems (grid-tied PV, on-grid, grid-connected, utility-interactive, grid-intertied, or grid-direct) means solar photovoltaic electricity generation systems designed to serve the electricity needs of the building to which it is connected, thus offsetting a home's or business's electricity usage. Any excess electricity generated is sent to the electric utility grid, and credited via a customer's net metering agreement with their local utility.
+Ground-mount system means a solar energy system that is directly installed on specialized solar racking systems, which are attached to an anchor in the ground, and wired to connect to an adjacent home or building.
+Hybrid solar photovoltaic systems (grid-tied PV with battery back-up) means solar photovoltaic electricity generation systems designed to serve the electricity needs of the building to which it is connected, thus offsetting a home's or business's electricity usage, while also utilizing a battery back-up in the event of a power outage.
+International residential code (IRC) means part of the International Building Code (IBC) which sets building standards for residential structures.
+Inverter means a device that converts the direct current (DC) electricity produced by a solar photovoltaic system to useable alternating current (AC).
+Kilowatt (kW) means a measure of the use of electrical power; equal to 1000 watts.
+Kilowatt-hour (kWh) means a unit of energy equivalent to one kilowatt (one kW) of power expended for one hour of time.
+Megawatt (MW) means a measure of the use of electrical power; equal to 1000 kilowatts.
+Megawatt-hour (MWh) means a unit of energy equivalent to one megawatt (one MW) of power expended for one hour of time.
+Mounting means the manner in which a solar PV system is affixed to the roof or ground (i.e. roof mount, ground mount, pole mount).
+National Electrical Code (NEC) means a code that sets standards and best practices for wiring and electrical systems.
+Net meter means a device, typically provided and installed by the local utility, used to measure the flow of electricity from the solar system for the purposes of net metering on-grid solar PV systems connected to the utility grid.
+Net metering means a billing arrangement that allows customers with grid-connected solar electricity systems to receive credit for any excess electricity generated on-site and provided to the utility grid.
+Off-grid solar photovoltaic systems with battery back-up means solar photovoltaic electricity systems designed to operate independently from the local utility grid and provide electricity to a home, building, boat, or recreational vehicle (or remote agricultural pumps, gates, traffic signs, etc.). These systems typically require a battery bank to store the solar electricity for use during nighttime or cloudy weather (and/or other back-up generation).
+Orientation ( or azimuth) . In the northern hemisphere, true solar south is the optimal direction for maximizing the power output of a solar photovoltaic (PV) system. Although, systems can be oriented east, southeast, southwest, and west, while still providing 75-85 percent of maximum production, depending on the tilt.
+Passive solar means techniques, design, and materials designed to take advantage of the sun's position throughout the year (and the local climate) to heat, cool, and light a building with the sun. Passive solar incorporates the following elements strategically to maximize the solar potential of any home or building (namely, maximizing solar heat gain in winter months and minimizing solar heat gain in summer months to reduce heating/cooling demand, and maximizing the use of day lighting to reduce demand for electricity for lighting):
+(1)
+Strategic design and architecture.
+(2)
+Building materials.
+(3)
+East-west and building lot orientation.
+(4)
+Windows.
+(5)
+Landscaping.
+(6)
+Awnings.
+(7)
+Ventilation.
+Photovoltaic (PV) system means a solar energy system that produces electricity by the use of semiconductor devices, called photovoltaic cells, which generate electricity when exposed to sunlight. A PV system may be roof-mounted, ground-mounted, or pole-mounted.
+Pole-mount system means a solar energy system that is directly installed on specialized solar racking systems, which are attached to a pole, which is anchored and firmly affixed to a concrete foundation in the ground, and wired underground to an attachment point at the building's meter. Unlike ground-mount systems, pole-mount systems are elevated from the ground.
+Power means the rate at which work is performed (the rate of producing, transferring, or using energy). Power is measured in watts (W), kilowatts (kW), megawatts (MW), etc.
+PV-direct systems means the simplest of solar photovoltaic electric systems with the fewest components (no battery back-up and not interconnected with the utility) designed to only provide electricity when the sun is shining. Typical system components include PV panels, required electrical safety gear, and wiring.
+Racking means securely attaching and anchoring solar energy systems to structural sections of the roof-mounted or pole-mounted systems. Specially designed metal plates called flashings prevent leaks and are placed under shingles and over bolts to create a water-tight seal.
+Roof-mount system (rooftop-mounted, building-mounted) means a solar energy system consisting of solar panels that is installed directly on the roof of a home, commercial building, and/or an accessory structure, such as a garage, pergola, and/or shed. Solar panels are mounted and secured using racking systems specifically designed to minimize the impact on the roof and prevent any leaks or structural damage. Roof-mount systems can be mounted flush with the roof or tilted toward the sun at an angle.
+Solar access means the ability of one property to continue to receive sunlight across property lines without obstruction from another's property (buildings, foliage or other impediment). Solar access is calculated using a sun path diagram.
+Solar array means multiple solar panels combined together to create one system.
+Solar collector means a solar PV cell, panel, or array, or solar thermal collector device that relies upon solar radiation as an energy source for the generation of electricity or transfer of stored heat.
+Solar easement means an easement recorded pursuant to O.C.G.A. § 44-9-20 et seq., the purpose of which is to secure the right to receive sunlight across the real property of another for the continued access to sunlight necessary to operate a solar energy system.
+Solar energy system means a system capable of collecting and converting solar radiation into heat or mechanical or electrical energy, and transferring these forms of energy by a separate apparatus to storage or to a point of use, including, but not limited to, water heating, space heating or cooling, electric energy generation, or mechanical energy generation. The term "solar energy system" shall include solar thermal, photovoltaic, and passive solar systems.
+Solar glare means the potential for solar panels to reflect sunlight, with an intensity sufficient to cause annoyance, discomfort, or loss in visual performance and visibility.
+Solar panel (or module) means a device for the direct conversion of sunlight into useable solar energy (including electricity or heat).
+Solar photovoltaic (solar PV) systems means solar systems consisting of photovoltaic cells, made with semiconducting materials, that produce electricity (in the form of direct current) when they are exposed to sunlight. A typical PV system consists of PV panels (or modules) that combine to form an array; other system components may include mounting racks and hardware, wiring for electrical connections, and power conditioning equipment, such as an inverter and/or batteries. For the purposes of this article, a solar PV system is defined as generating capacity of not more than 25 kilowatts for residential facilities, and not more than two megawatts for nonresidential facilities.
+Solar process heat means technologies that provide industrial specific applications, including ventilation air preheating, solar process heating, and solar cooling.
+Solar-ready means the concept of planning and building with the purpose of enabling future use of solar energy generation systems. Solar-ready buildings, lots, and developments make it easier and more cost-effective to utilize passive solar techniques and adopt active solar technologies in the future. Solar-ready buildings are built anticipating future installation of active solar energy systems (including structural reinforcement, pre-wiring or plumbing for solar, and east-west building orientation). Solar-ready lots are oriented to take maximal advantage of a location's solar resource. Solar-ready developments expand this concept to entire subdivisions.
+Solar thermal system (solar hot water or solar heating systems) means a solar energy system that directly heats water or other liquid using sunlight. A solar thermal system consists of a series of tubes that concentrate light to heat either water or a heat-transfer fluid (such as food-grade propylene glycol, a nontoxic substance) in one of two types of collectors (flat-plate collectors and evacuated tube collectors). The heated liquid is used for such purposes as space heating and cooling, domestic hot water, and heating pool water.
+Thin film solar PV means thin film solar PV cells capable of generating electricity from the sun, consisting of layers of semiconductor materials (made from amorphous silicon, cadmium telluride, and copper indium gallium diselenide, among other materials) a few micrometers thick, which allow for greater flexibility. Thin film is made by depositing one or more thin layers of photovoltaic material on a substrate; products include rooftop shingles and tiles, building facades, the glazing for skylights, and other building integrated materials.
+Tilt means the angle of the solar panels and/or solar collector relative to their latitude. The optimal tilt to maximize solar production is perpendicular, or 90 degrees, to the sun's rays at true solar noon. True solar noon is when the sun is at its highest during its daily east-west path across the sky (this is also known as 0 degrees azimuth). Solar energy systems can be manually or automatically adjusted throughout the year. Alternatively, fixed-tilt systems remain at a static tilt year-round
+Watts (W) means a measure of the use of electrical power (power (watts) = voltage (volts) X current (amps)).
+Wiring. Specified by electrical codes, solar PV system wires are routed from the panels or micro-inverters through conduit into the inverter and buildings meter.
+(Ord. of 2-3-2015, § 14.3.0)
+Secs. 110-271—110-288. - Reserved.
+DIVISION 2. - SOLAR ENERGY SYSTEM REQUIREMENTS
+
+Sec. 110-289. - Accommodation encouraged.
+To the extent practicable, and in accordance with the Long County-City of Ludowici Land Development Code, the accommodation of solar energy systems and associated electrical equipment, and the protection of access to sunlight for such, shall be encouraged in the application of the various review and approval provisions of the Long County-City of Ludowici Land Development Code.
+(Ord. of 2-3-2015, § 14.4.1)
+Sec. 110-290. - Where permitted.
+Solar energy systems are permitted in all zoning districts as an accessory use to permitted, conditional, and special exception uses.
+(Ord. of 2-3-2015, § 14.4.2)
+Sec. 110-291. - Uses.
+A solar energy system shall provide power for the principal use and/or accessory use of the property on which the solar energy system is located.
+(Ord. of 2-3-2015, § 14.4.3)
+Sec. 110-292. - Roof-mount systems.
+The installation and construction of a roof-mount solar energy system shall be subject to the following development and design standards:
+(1)
+A roof- or building-mounted solar energy system may be mounted on a principal or accessory building.
+(2)
+Any height limitations of the Long County-City of Ludowici Land Development Code shall not be applicable to solar collectors provided that such structures are erected only to such height as is reasonably necessary to accomplish the purpose for which they are intended to serve, and that such structures do not obstruct solar access to neighboring properties.
+(3)
+Placement of solar collectors on flat roofs shall be allowed by right, provided that panels do not extend horizontally past the roofline.
+(Ord. of 2-3-2015, § 14.4.4)
+Sec. 110-293. - Ground-mount or pole-mount systems.
+The installation and construction of a ground-mount or pole-mount solar energy system shall be subject to the following development and design standards:
+(1)
+The height of the solar collector and any mounts shall not exceed 20 feet when oriented at maximum tilt.
+(2)
+The surface area of a ground- or pole-mounted system, regardless of the mounted angle, shall be calculated as part of the overall lot coverage.
+(3)
+The minimum solar energy system setback distance from the property lines shall be equivalent to the building setback or accessory building setback requirement of the underlying zoning district.
+(4)
+All power transmission lines from a ground-mounted solar energy system to any building or other structure shall be located underground and/or in accordance with the building electrical code, as appropriate.
+(Ord. of 2-3-2015, § 14.4.5)
+Sec. 110-294. - Electrical equipment.
+All electrical equipment associated with and necessary for the operation of solar energy systems shall comply with the setbacks specified for accessory structures in the underlying zoning district.
+(Ord. of 2-3-2015, § 14.4.6)
+Sec. 110-295. - Solar panel placement.
+Solar panels are designed to absorb (not reflect) sunlight, and, as such, solar panels are generally less reflective than other varnished or glass exterior housing pieces. However, solar panel placement should be prioritized to minimize or negate any solar glare onto nearby properties or roadways, without unduly impacting the functionality or efficiency of the solar system.
+(Ord. of 2-3-2015, § 14.4.7)
+Sec. 110-296. - Prohibitions.
+A solar energy system shall not be used to display permanent or temporary advertising, including signage, streamers, pennants, spinners, reflectors, banners or similar materials. The manufacturer and equipment information, warning, or indication of ownership shall be allowed on any equipment of the solar energy system provided they comply with the prevailing sign regulations.
+(Ord. of 2-3-2015, § 14.4.8)
+Sec. 110-297. - Permit approval required.
+A solar energy system shall not be constructed until a building/zoning permit has been approved and issued.
+(Ord. of 2-3-2015, § 14.4.9)
+Secs. 110-298—110-327. - Reserved.
+DIVISION 3. - SAFETY AND INSPECTIONS
+
+Sec. 110-328. - Conformity to standards; permit.
+The design of the solar energy system shall conform to applicable local, state and national solar codes and standards. A building permit reviewed by department staff shall be obtained for a solar energy system. All design and installation work shall comply with all applicable provisions in the National Electrical Code (NEC), the International Residential Code (IRC), International Commercial Building Code, state fire code, and any additional requirements set forth by the local utility (for any grid-connected solar systems).
+(Ord. of 2-3-2015, § 14.5.1)
+Sec. 110-329. - Structural compliance.
+The solar energy system shall comply with all applicable Long County-City of Ludowici ordinances and codes so as to ensure the structural integrity of such solar energy system. The existing roof structure and the weight of the solar energy system shall be taken into consideration when applying for a solar energy system permit.
+(Ord. of 2-3-2015, § 14.5.2)
+Sec. 110-330. - Electrical connection inspection.
+Prior to operation, electrical connections must be inspected by an appropriate electrical inspection person or agency, as determined by Long County-City of Ludowici.
+(Ord. of 2-3-2015, § 14.5.3)
+Sec. 110-331. - Approval.
+Any connection to the public utility grid must be approved by the appropriate public utility.
+(Ord. of 2-3-2015, § 14.5.4)
+Sec. 110-332. - Solar storage batteries.
+If solar storage batteries are included as part of the solar collector system, they must be installed according to all requirements set forth in the National Electrical Code and state fire code when in operation. When no longer in operation, the batteries shall be disposed of in accordance with the laws and regulations of Long County and the City of Ludowici, and any other applicable laws and regulations relating to hazardous waste disposal.
+(Ord. of 2-3-2015, § 14.5.5)
+Sec. 110-333. - Owner's responsibility; maintenance.
+Unless otherwise specified through a contract or agreement, the property owner of record will be presumed to be the responsible party for owning and maintaining the solar energy system.
+(Ord. of 2-3-2015, § 14.5.6)
+Secs. 110-334—110-354. - Reserved.
+DIVISION 4. - ABANDONMENT AND REMOVAL
+
+Sec. 110-355. - Restoration of disturbed land upon removal.
+If a ground-mounted solar energy system is removed, any earth disturbance as a result of the removal shall be landscaped in accordance with local rules.
+(Ord. of 2-3-2015, § 14.6.1)
+Sec. 110-356. - Repair or removal of abandoned systems.
+A ground-mounted or pole-mounted solar energy system is considered to be abandoned or defective if it has not been in operation for a period of 12 months. If abandoned, the solar energy system shall be repaired by the owner to meet federal, state, and local safety standards, or be removed by the owner within the time period designated by a county or city building code official. If the owner fails to remove or repair the defective or abandoned solar energy system, the county or city may pursue a legal action to have the system removed at the owner's expense.
+(Ord. of 2-3-2015, § 14.6.2)
+Secs. 110-357—110-385. - Reserved.
+DIVISION 5. - APPEALS
+
+Sec. 110-386. - Violation; appeal.
+If the owner of a solar energy system is found to be in violation of the provisions of this article, appeals should be made in accordance with the established procedures of the Long County-City of Ludowici Land Development Code.
+(Ord. of 2-3-2015, § 14.7.1)
+Sec. 110-387. - Permit denial; consideration for appeal.
+If a building permit for a solar energy system is denied because of a conflict with other goals of Long County or the City of Ludowici, the applicant may seek relief from the Long County-City of Ludowici board of zoning appeals, which shall regard solar energy as a factor to be considered, weighed, and balanced along with other factors.
+(Ord. of 2-3-2015, § 14.7.2)
+Secs. 110-388—110-417. - Reserved.
+DIVISION 6. - SOLAR-READY ZONING
+
+Sec. 110-418. - Orientation of new structures; solar access; impact.
+New structures will, to the extent possible and insofar as practical, be situated on the lot to take advantage of solar access, including the orientation of proposed buildings with respect to sun angles, the shading and windscreen potential of existing and proposed vegetation on and off the site, and the impact of solar access to adjacent uses and properties.
+(Ord. of 2-3-2015, § 14.8.1)
+Sec. 110-419. - New street orientation for optimal solar access.
+To permit maximum solar access to proposed lots and future buildings, wherever reasonably feasible and where consistent with other appropriate design considerations, new streets shall be located on an east-west axis to encourage building siting with the maximum exposure of roof and wall area to the sun.
+(Ord. of 2-3-2015, § 14.8.2)
+Sec. 110-420. - Street tree locations; solar access; shading.
+Tree-planting programs shall take into account the impact of street trees on the solar access of surrounding properties and, where possible, efforts shall be made to avoid shading possible locations of solar collectors.
+(Ord. of 2-3-2015, § 14.8.3)
+Sec. 110-421. - Proposed construction considerations.
+When the planning/zoning board reviews and acts upon applications for subdivision approval or site plan approval, it shall take into consideration whether the proposed construction would block access to sunlight for existing ground-mount, pole-mount, or roof-mount solar energy collectors, or for solar energy collectors for which a permit has been issued.
+(Ord. of 2-3-2015, § 14.8.4)
+Sec. 110-422. - New subdivisions; solar access.
+Where reasonable and appropriate, new subdivisions should be platted so as to preserve or enhance solar access for either passive or active systems, consistent with the other requirements of the Long County-City of Ludowici Land Development Code.
+(Ord. of 2-3-2015, § 14.8.5)
+Sec. 110-423. - Cluster subdivisions.
+The plan for development of any site within cluster subdivisions shall be designed and arranged in such a way as to promote solar access for all dwelling units. Considerations may include the following:
+(1)
+In order to maximize solar access, the higher density dwelling units should be placed on a south-facing slope and lower-density dwelling units sited on a north-facing slope.
+(2)
+Subject to the Long County-City of Ludowici setback requirements, structures should be sited as close to the north lot line as possible to increase yard space to the south for reduced shading of the south face of a structure.
+(3)
+A tall structure should be sited to the north of a short structure.
+(Ord. of 2-3-2015, § 14.8.6)
+Sec. 110-424. - Solar-ready zoning; in general.
+Solar-ready zoning should be considered as one among multiple considerations in planning new developments.
+(Ord. of 2-3-2015, § 14.8.7)
+Secs. 110-425—110-446. - Reserved.
+DIVISION 7. - UTILITY SCALE OR COMMERCIAL SCALE SOLAR FARMS
+
+Sec. 110-447. - Design and installation; decommissioning.
+Utility scale solar farms and commercial scale solar farms, which are considered to be the principal use for property ranges in size from three acres and up, shall be considered the same for the purpose of this division.
+(1)
+Design and installation.
+a.
+All on-site utility and transmission lines shall, to the extent feasible, be placed underground.
+b.
+All large solar energy production facilities shall be designed and located in order to prevent reflective glare toward any inhabited buildings on adjacent properties, as well as adjacent street rights-of-way.
+c.
+A clearly visible warning sign concerning voltage must be placed at the base of all pad-mounted transformers and substations.
+d.
+Use of public roads or state roads has been secured and approved for access points for project roads and parking areas for the site.
+e.
+Liability insurance shall be maintained covering bodily injury and property damage with limits of at least $1,000,000.00 per occurrence and $1,000,000.00 in the aggregate.
+(2)
+Decommissioning. The applicant agrees to the following conditions for a land use permit:
+a.
+If the applicant ceases operation of the energy project or begins operations, but does not complete operations, the applicant shall restore the site according to a plan approved by the planning and zoning board;
+b.
+The owner is required to notify the county immediately upon cessation or abandonment of the operation. The owner shall be responsible for the removal of the facility within six months from the date the applicant ceases use of the facility or the facility becomes obsolete. The owner will then have 12 months to dismantle/remove all other components of the energy production facility.
+c.
+Permit. At the time of issuance of a permit, the owner shall provide financial security in the form of a letter of credit in accordance with section 118-236 to secure the expense of dismantling and removing the structure.
+d.
+Fees. No fees shall apply to an accessory structure; however, see fee schedule for large scale solar farms/arrays, commercial and/or utility scale and electrical inspection fees.
+(Ord. of 2-3-2015, § 14.9)
+Secs. 110-448—110-477. - Reserved.

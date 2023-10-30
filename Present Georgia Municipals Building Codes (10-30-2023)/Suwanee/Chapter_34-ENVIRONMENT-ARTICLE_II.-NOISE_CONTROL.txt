@@ -1,0 +1,185 @@
+ARTICLE II. - NOISE CONTROL[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— An ordinance adopted Nov. 15, 2005(2), § 1, repealed the former Art. II, §§ 34-31—34-50, and enacted a new Art. II as set out herein. The former Art. II pertained to similar subject matter.
+
+Sec. 34-31. - Purpose.
+modified
+(a)
+The City of Suwanee finds that excessive sound is a serious hazard to the public health, welfare, safety, and the quality of life; and, a substantial body of science and technology exists by which excessive sound may be substantially abated; and, the people have a right to, and should be ensured an environment free from excessive sound, it is the policy of the City of Suwanee to prevent excessive sound that may jeopardize the health, welfare, or safety of the citizens or degrade the quality of life.
+(b)
+This article shall apply to the control of sound originating within the limits of the City of Suwanee.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-32. - Definitions.
+modified
+The following words and terms, when used in this article, shall have the following meanings unless the context clearly indicates otherwise.
+Ambient sound level is the total sound pressure level in the area of interest including the noise source of interest.
+A-weighting is the electronic filtering in sound level meters that models human hearing frequency sensitivity.
+Background sound level is the total sound pressure level in the area of interest excluding the noise source of interest.
+Commercial area is a group of commercial facilities and the abutting public right-of-way and public spaces.
+Commercial facility is any premises, property, or facility involving traffic in goods or furnishing of services for sale or profit.
+Construction is any site preparation, assembly, erection, repair, alteration or similar action, or demolition of buildings or structures.
+C-weighting is the electronic filtering in sound level meters that models a flat response (output equals input) over the range of maximum human hearing frequency sensitivity.
+dBA is the A-weighted unit of sound pressure level.
+dBC is the C-weighted unit of sound pressure level.
+Decibel (dB) is the unit of measurement for sound pressure level at a specified location.
+Emergency work is any work or action necessary to deliver essential services including, but not limited to, repairing water, gas, electric, telephone, sewer facilities, or public transportation facilities, removing fallen trees on public rights-of-way, or abating life-threatening conditions.
+Impulsive sound is a sound having a duration of less than one second with an abrupt onset and rapid decay.
+Industrial facility is any activity and its related premises, property, facilities, or equipment involving the fabrication, manufacture, warehousing, distribution or production of durable or nondurable goods.
+Legal holiday is a City of Suwanee legal holiday as established by the city each year.
+Measuring instrument is an instrument such as a sound level meter, integrating sound level meter or dosimeter used to measure sound pressure levels conforming to Type 1 or Type 2 standards as specified in the latest version of ANSI Standard Sl.4-1983.
+Motor vehicle is any vehicle that is propelled or drawn on land by an engine or motor.
+Muffler is a sound-dissipative device or system for attenuating the sound of escaping gases of an internal combustion engine.
+Multiunit building is any building wherein there are two or more dwelling units.
+The municipality is the City of Suwanee.
+Noise is any sound of such level and duration as to be or tend to be injurious to human health or welfare, or which would unreasonably interfere with the enjoyment of life or property throughout Suwanee or in any portions thereof, but excludes all aspects of the employer-employee relationship concerning health and safety hazards within the confines of a place of employment.
+Noise investigator is a City of Suwanee Police Officer, Inspections Division Staff Member, or Codes Enforcement officer assigned to investigate and enforce the provisions of this article.
+Noise disturbance is any sound that (a) endangers the safety or health of any person, (b) disturbs a reasonable person of normal sensitivities, or (c) endangers personal or real property.
+Person is any individual, corporation, company, association, society, firm partnership, joint stock company, or any political subdivision, agency or instrumentality of.
+Public right-of-way is any street, avenue, boulevard, road, highway, sidewalk, or alley that is leased, owned, or controlled by a governmental entity.
+Public space is any real property or structures thereon that is owned, leased, or controlled by a governmental entity.
+Real property line is either (a) the imaginary line, including its vertical extension, that separates one parcel of real property from another, or (b) the vertical and horizontal boundaries of a dwelling unit that is one in a multiunit building.
+Residential area is a group of residential properties and the abutting public rights-of-way and public spaces.
+Residential property is property legally used for human habitation, except for hotels and motels which are commercial establishments.
+Sound level is the instantaneous sound pressure level measured in decibels with a sound level meter set for A-weighting on slow integration speed, unless otherwise noted.
+Sound pressure level (SPL) is 20 multiplied by the logarithm, to the base 10, of the measured sound pressure divided by the sound pressure associated with the threshold of human hearing, in units of decibels.
+Weekday is any day, Monday through Friday, that is not a legal holiday.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-33. - Powers and duties.
+modified
+The provisions of this article shall be enforced by the City of Suwanee Police Department and/or City of Suwanee Inspections Department as appropriate.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-34. - Duties and responsibilities of other departments.
+modified
+All departments and agencies of the City of Suwanee shall carry out their programs according to law.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-35. - Sound measurement procedures.
+modified
+(a)
+Insofar as practicable, sound will be measured while the source under investigation is operating at normal, routine conditions.
+(b)
+All tests shall be conducted in accordance with the following procedures:
+(1)
+The noise investigator shall, to the extent practicable, identify all sources contributing sound to the point of measurement.
+(2)
+Measurements shall be taken at or within the property line of the affected person, except when the affected party is in a multiunit residential building. In such a case the sound level is measured from any point inside the affected unit.
+(3)
+The measuring instrument must be calibrated using a calibrator recommended by the measuring instrument manufacturer before and after each series of readings.
+(4)
+No outdoor measurements shall be taken:
+a.
+When wind speeds (including gusts) exceed 15 mph;
+b.
+Without a windscreen, recommended by the measuring instrument manufacturer, properly attached to the measuring instrument;
+c.
+Under any condition that allows the measuring instrument to become wet (e.g., rain, snow, or condensation); or
+d.
+When the ambient temperature is out of the range of the tolerance of the measuring instrument.
+(c)
+Prior to taking noise measurements the noise investigator shall explore the vicinity of the source in question to identify any other sound sources that could affect measurements, to establish the approximate location and character of the principal sound source, and to select suitable locations from which to measure the sound from the source in question.
+(d)
+When measuring continuous sound, or sound that is sustained for more than one second at a time, the measuring instrument shall be set for A-weighting, slow response, and the range (if the measuring instrument is designed to read levels over different ranges) shall be set to that range in which the meter reads closest to the middle of the scale. The minimum and maximum readings shall be recorded to indicate the range of monitored values along with the central tendency average most often displayed.
+(e)
+The measuring instrument shall be placed at a minimum height of three feet above the ground or from any reflective surface. When handheld, the microphone shall be held at arm's length and pointed at the source at the angle recommended by the measuring instruments manufacturer.
+(f)
+If extraneous sound sources, such as aircraft flyovers or barking dogs, that are unrelated to the measurements increase the monitored sound levels, the measurements should be postponed until these extraneous sounds have become of such a level as not to increase the monitored sound levels of interest.
+(g)
+The monitoring session should last for a period of time sufficient to ensure that the sound levels measured are typical of the source in question.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-36. - Sound level limitations.
+modified
+(a)
+Except as authorized elsewhere in this article, no person shall cause, allow, or permit the operation of any sound source on a particular category of property or any public space or right-of-way in such a manner as to create a sound level that exceeds the sound level limits set forth below unless otherwise noted. Such a sound constitutes a noise disturbance.
+TABLE 1 SOUND LEVEL LIMITS BY RECEIVING PROPERTY
+EXPAND
+Receiving Property Time Sound Level Limit
+Residential, public space, institutional, or noise sensitive facility 7:00am—10:00pm
+10:00pm—7:00am 60 dBA
+55 dBA
+Commercial or business 7:00am—10:00pm
+10:00pm—7:00am 65 dBA
+60 dBA
+Industrial or manufacturing At all times 75 dBA
+  (1)
+If the noise is an impulsive sound, the fast response setting shall be used and the daytime (7:00 a.m. to 10:00 p.m.) limits of Table 1 shall be increased by ten dBA.
+(2)
+In residential multiunit buildings, the limit between 7:00 a.m. and 10:00 p.m. is 55 dBA and between 10:00 p.m. and 7:00 a.m. is 45 dBA, for sounds originating in another dwelling within the same building.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-37. - Exemptions.
+modified
+(a)
+The following are exempt from the sound level limits of section 34-36:
+(1)
+Noise from public safety vehicles and emergency signaling devices;
+(2)
+Noise from celebrations and events with amplified or unamplified sound that are operating within the parameters set forth for approved and permitted special events at Town Center Park between the hours of 7:00 a.m. and 10:15 p.m., or as otherwise allowed by the Suwanee City Council;
+(3)
+Noise from any practice or performance sponsored by or associated with the educational process administered by a recognized institution of learning, including, but not limited to, band, choir, and orchestral performances;
+(4)
+Noise that results from the activities of a sports league between the hours of 7:00 a.m. and 11:59 p.m.;
+(5)
+Noise from a vehicle alarm or exterior burglar alarm of any building provided such alarm shall terminate its operation within five minutes of its activation;
+(6)
+Noise from domestic power tools, lawn mowers, and agricultural equipment when operated between 7:00 a.m. and 10:00 p.m., provided such use generates less than 85 dBA at or within any real property line of a residential property;
+(7)
+Sound from bells and chimes while being used in conjunction with a governmental facility, religious observance or service;
+(8)
+Noise from construction activity, including the operation of tools or equipment used in construction, drilling, earthmoving, excavating, or demolition work between the hours of 7:00 a.m. and 8:00 p.m. on a weekday or when the following day is a weekday, and between 8:00 a.m. and 8:00 p.m. on a weekend day or legal holiday or when the following day is a weekend day or legal holiday, except for emergency work, by a waiver issued pursuant to section 34-39, or when the sound level does not exceed any applicable limit specified in section 34-36;
+(9)
+Noise from snow blowers, snow throwers, and snow plows when operated with a muffler for the purpose of snow removal;
+(10)
+Noise from emergency work;
+(11)
+Noise from surface carriers engaged in commerce by railroad;
+(12)
+Noise from garbage cans, refuse, or similar collection, or the compacting of refuse by persons engaged in garbage collection, whether private or municipal, between the hours of 7:00 a.m. and 8:00 p.m. on a weekday or when the following day is a weekday, and between 8:00 a.m. and 8:00 p.m. on a weekend day or legal holiday or when the following day is a weekend day or legal holiday, or when the sound level does not exceed any applicable limit specified in section 34-36;
+(13)
+Noise from a commercial vehicle in motion on a public roadway unless otherwise addressed herein. Nothing in this Code section nor any regulation based thereon shall conflict with the Georgia Traffic Code, Georgia Public Service Commission, or Georgia Board of Public Safety regulations applying to the securing of loads and the regulating of equipment on motor vehicles.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-38. - Specific prohibited acts.
+modified
+(a)
+No person shall cause, allow, or permit to be made verbally or mechanically any noise disturbance, as defined in section 34-36.
+(b)
+Notwithstanding the provisions of section 34-36, no person shall cause, suffer, allow, or permit the following acts:
+(1)
+Operating, playing, or permitting the operation or playing of any radio, television, phonograph, or similar device that reproduces or amplifies sound in such a manner as to create a noise disturbance (as defined in section 34-36) for any person other than the operator of the device;
+(2)
+Owning, possessing, or harboring any animal or bird that, frequently or for continued duration, generates sounds that create a noise disturbance (as defined in section 34-36) across a residential property line;
+(3)
+Loading, unloading, opening, closing, or other handling of boxes, crates, containers, building materials, liquids, or similar objects, or the pneumatic or pumped loading or unloading of bulk materials in liquid, gaseous, powder, or pellet form, between 9:00 p.m. and 7:00 a.m. on a weekday or when the following day is a weekday, and between 9:00 p.m. and 9:00 a.m. on a weekend day or legal holiday or when the following day is a weekend day or legal holiday, when the sound therefrom creates a noise disturbance (as defined in section 34-36) across a residential property line;
+(4)
+Operating or permitting the operation of any motor vehicle whose manufacturer's gross weight rating is in excess of 10,000 pounds, or any auxiliary equipment attached to such a vehicle, for a period of longer than five minutes in any hour while the vehicle is stationary, for reasons other than traffic congestion or emergency work, on a public right-of way or public space within 150 feet of a residential area between 7:00 p.m. and 7:00 a.m.
+(5)
+Muffler and/or exhaust system noise. Use, Operate or cause to be used or operated any motor vehicle equipped (or the failure to be equipped) with an engine, muffler, muffler cutout, muffler bypass, bypass, muffler system, or exhaust system or similar device which causes a noise or sound which is plainly audible at a distance of 100 feet or more from the motor vehicle.
+(6)
+Brake Compression/Jake Braking. It shall be unlawful for the driver of any vehicle to use or operate or cause to be used or operated within the city, any engine brake, compression brake or mechanical exhaust device designed to aid in the braking or deceleration of any vehicle unless such use is necessary to avoid imminent danger. Such devices are commonly referred to as "air brakes," "Jacob's brakes" or "jake brakes."
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-39. - Temporary relief.
+modified
+(a)
+Any person may apply to the city for a temporary relief from one or more of the provisions of this article. Temporary waivers not exceeding 30 consecutive days may be administratively approved the Suwanee City Manager, or designee. Extended waivers, those exceeding 30 consecutive days, but in no case longer than 12 consecutive months, shall be reviewed and considered by the Suwanee City Council. The city shall establish rules and procedures for reviewing any waiver. Applications for a permit of variance shall supply information including, but not limited to:
+(1)
+The nature, time and location of the noise source for which such application is made;
+(2)
+The reason for which the permit of variance is requested, including the hardship that will result to the applicant or the public if the permit of variance is not granted;
+(3)
+The level of noise that will occur during the period of the variance.
+(b)
+Waivers may be revoked if there is a violation of conditions of the waiver, misrepresentation of fact by the applicant, or material change in any of the circumstances surrounding the application.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-40. - Penalties.
+modified
+Each violation under this article shall constitute a separate and distinct offense. Such offense shall be punishable by a fine not to exceed $1,000.00, imprisonment in the city or county jail not exceeding six months, or both a fine and sentence of imprisonment; and all sentences may be in the alternative and fines may be imposed with the alternative of sentence to imprisonment if the fines are not paid.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-41. - Severability.
+modified
+If any provision of this article is held to be unconstitutional, preempted by federal law, or otherwise invalid by any court of competent jurisdiction, the remaining provisions of this article shall not be invalidated.
+(Ord. of 11-15-2005(2), § 2; Ord. of 4-25-2023 , Exh. A)
+Sec. 34-42. - State law preemption.
+new
+Nothing herein shall waive, diminish, or modify O.C.G.A. 25-10-2 "Prohibited fireworks activities; application of noise ordinances."
+( Ord. of 4-25-2023 , Exh. A)
+Secs. 34-43—34-80. - Reserved.
+new

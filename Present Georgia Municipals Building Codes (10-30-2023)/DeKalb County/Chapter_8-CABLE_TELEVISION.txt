@@ -1,0 +1,608 @@
+Chapter 8 - CABLE TELEVISION[1]
+Footnotes:
+--- (1) ---
+Cross reference— Business licenses and occupational taxes, § 15-26 et seq.; licensing of broadcast subscription television systems, § 15-35(3); permit, etc., required to install poles, pipes, etc., on public roads or alleys, § 23-6.
+State Law reference— General constitutional grant of home rule powers, Ga. Const. art. IX, § II, ¶ I; authority to regulate cable television systems, O.C.G.A. § 36-18-1 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 8-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Access channels means cable television channels available for use by citizens, government and educational institutions, including but not limited to the cablecast of meetings, hearings and programs of federal, state and local government and community organizations.
+Additional services means cable television service provided in addition to basic services on an optional basis, including, but not limited to, pay TV, home security, data transmission, facsimile reproduction, meter reading and home shopping.
+Applicant means any person submitting an application for a cable television franchise under this chapter and the terms and conditions set forth in any franchise ordinance entered into by the county and the applicant.
+Automated channels means cable television channels available for carrying time, weather, news, stock market quotations and community messages.
+Basic services means the cable television services available to all subscribers for a regular monthly service charge, excluding additional services for which a separate charge is made.
+Board of commissioners means the present governing authority of the county or any successor to the legislative powers of the present governing authority.
+Cable television system or CATV system means any nonbroadcast facility consisting of a set of transmission paths and associated signal generation, reception and control equipment, under common ownership and control, that distributes or is designed to distribute to subscribers the signals of one (1) or more television broadcast stations, but such term shall not include any such facility that serves or will serve only subscribers in one (1) or more multiple unit dwellings under common ownership, control or management.
+CATV means cable television.
+Channel means a frequency band capable of carrying audio or video signals to subscribers.
+Channel capacity means the number of activated channels to be offered to subscribers.
+Converter means an electronic tuning device which makes it possible for an ordinary television set to receive cable television service.
+County means the unincorporated areas of the county.
+FCC means the Federal Communications Commission or any successor agency having jurisdiction or regulatory power over cable television service.
+Franchise or CATV franchise means the privilege granted by the board of commissioners to a grantee under this chapter and a franchise ordinance to use the streets of the county to construct, equip and operate a CATV system in a designated area or areas in the county.
+Franchise area means the area of the county within which a CATV franchise is granted, whether such area is the entire county or a part of the county.
+Franchise ordinance means an ordinance adopted by the board of commissioners, consistent with this chapter, granting a CATV franchise to a particular grantee, and includes a confirming ordinance as defined in section 8-9.
+Grantee means the person to whom a CATV franchise is granted by the board of commissioners or any person to whom the interest of a grantee is assigned or transferred in accordance with the provisions of this chapter and the franchise ordinance.
+Gross revenue means all revenue derived directly or indirectly by a grantee from its CATV system within the county, including but not limited to charges for basic services and additional services, connection and reconnection, leased channels, converter rentals, studio rental, production equipment and personnel, and advertising revenues. Any taxes on cable television services imposed directly upon subscribers but collected by a grantee shall not be included in the gross revenue.
+Installation means the connection or reconnection of a CATV system feeder or trunk cable to a subscriber's terminal.
+Local origination means programs of local origin.
+Monitoring means observing a communications signal carried on a CATV system, or the absence of such a signal, by any person without regard to whether such observation is by visual or electronic means. Monitoring shall not include systemwide, nonindividually addressed sweeps of the CATV system for purposes of verifying the integrity of the system, controlling subscriber transmissions or billing for additional services.
+Pay TV means optional audio or video programs available to subscribers for a separate charge for each program or channel selected by the subscriber.
+Person means any person, firm, partnership, association, corporation, company or organization of any kind.
+Rates means all rates, fees or charges paid by residential or nonresidential subscribers for basic services, the installation of the CATV system to subscriber terminals, and additional services to the extent that county regulation thereof would be consistent with applicable state and federal law.
+Streets means the surface of and the space above and below any public street, road, highway, freeway, lane, path, public way, or place, alley, court, boulevard, parkway, drive, sidewalk or other easement or right-of-way now or hereafter held by the county.
+Subscriber means a recipient of CATV service.
+Two-way channels means CATV channels which allow subscribers to transmit audio, video or other signals.
+(Code 1976, § 7-6003)
+Cross reference— Definitions and rules of construction generally, § 1-2.
+Sec. 8-2. - Purpose.
+The purpose of this chapter is to provide the citizens of the county with a cable television and communications system equal to the highest state of the art and to promote variety in television and communication services by assuring a sufficient number of channels for entertainment, information and education.
+The terms of this chapter shall not apply if such an application would create an inequitable regulatory environment such that one cable or video provider operating within DeKalb County is subject to the terms of this chapter while another cable or video provider operating within DeKalb County is not. In all cases, a cable or video provider operating within DeKalb County shall be subject to the terms of its franchise agreement as well as all federal and state regulations and local police powers.
+(Code 1976, § 7-6001; Ord. No. 13-12 , Pt. I, 6-11-13)
+Sec. 8-3. - Funding of administrative expenses.
+All expenses incurred by the county with respect to administering this chapter and any franchise ordinance shall be funded out of the franchise fees collected pursuant to this chapter.
+(Code 1976, § 7-6136)
+Sec. 8-4. - Grantee has no recourse against county enforcement; franchise acceptance is acceptance of terms, conditions.
+(a)
+No grantee shall have recourse whatsoever against the county for any loss, cost or expenses or damage arising out of the provisions or requirements of the franchise or because of the enforcement thereof by the county.
+(b)
+Each grantee expressly acknowledges that upon accepting a CATV franchise, it does so relying upon its own investigation and understanding of the power and authority of the county to grant the franchise.
+(c)
+Each grantee, by acceptance of a CATV franchise, acknowledges that it has not been induced to enter into the franchise by any understanding or promise or other statement, whether verbal or written, by or on behalf of the county or by any other third person concerning any term or condition of the franchise not expressed in this chapter.
+(d)
+Each grantee further acknowledges by acceptance of the CATV franchise that it has carefully read the terms and conditions thereof and is willing to and does accept all of the risks of the meaning of these terms and conditions.
+(Code 1976, § 7-6137)
+Sec. 8-5. - Failure of county to enforce franchise does not excuse compliance.
+No grantee shall be excused from complying with any of the terms and conditions of this chapter or a franchise ordinance by any failure of the county to insist upon or to seek compliance with any terms or conditions.
+(Code 1976, § 7-6138)
+Sec. 8-6. - Failure to perform act within prescribed time period.
+Whenever this chapter or a franchise ordinance shall set forth any time for any act to be performed by or on behalf of a grantee, this time shall be deemed of the essence and any failure of a grantee to perform within the time allotted shall always be sufficient grounds for the county to invoke the remedies available under the terms and conditions of this chapter and the franchise ordinance.
+(Code 1976, § 7-6139)
+Sec. 8-7. - Grantee may not contest validity of franchise after acceptance.
+Each grantee agrees by the acceptance of a CATV franchise that it will not at any time set up against the county, in any claim or proceeding, any condition or term of the franchise as unreasonable, arbitrary or void or that the county had no power or authority to make such term or condition, but shall be required to accept the validity of the terms and conditions of the franchise in their entireties.
+(Code 1976, § 7-6140)
+Sec. 8-8. - Rights reserved by county.
+Without limitation upon the rights which the county might otherwise have, the county does hereby expressly reserve the following:
+(1)
+To exercise its governmental powers to the full extent that these powers may be vested in or granted to the county.
+(2)
+To determine through the board of commissioners any question of fact relating to the meaning, terms, obligations or other factors of the franchise.
+(Code 1976, § 7-6141)
+Sec. 8-9. - Existing CATV system.
+(a)
+All the terms and conditions of this chapter shall apply to any CATV system now in operation in the county under a valid franchise, except as the board of commissioners may otherwise provide by resolution or ordinance, except that the existing CATV systems shall be given a reasonable time to bring their systems into compliance herewith.
+(b)
+No existing CATV system may be expanded or extended into any part of the county beyond the limits of service lines existing and in operation on June 24, 1980, unless granted the privilege to do so by a franchise ordinance executed by the board of commissioners in accordance with all the terms and conditions of this chapter.
+(c)
+The board of commissioners may confirm the validity of the CATV franchise for any existing CATV system by enactment of an appropriate ordinance (confirming ordinance) setting forth the amount of the letter of credit required under section 8-71, its franchise area (based upon the existing CATV system's claims to its franchise areas under previous ordinances and such other factors as the board of commissioners deems appropriate), the remaining term of its franchise and its present status with respect to compliance to the terms hereof.
+(d)
+Notwithstanding the repeal (the 1976 CATV ordinance) by enactment of this chapter, and except to the extent as otherwise provided in a confirming ordinance, the validity and geographical extent of the franchise of any existing CATV system shall be determined by reference to the 1976 CATV ordinance.
+(Code 1976, § 7-6142)
+Sec. 8-10. - Citizens' advisory board.
+(a)
+There is hereby created a CATV citizens' advisory board which shall consist of nine (9) members as follows:
+(1)
+One (1) member appointed by the county board of education for a term not to exceed four (4) years.
+(2)
+Each commissioner on the board of commissioners and the chief executive shall appoint one (1) member and the term of appointment for such member shall correspond to the term of office of the appointing commissioner or the chief executive.
+(b)
+A chairperson shall be elected by the members of the CATV citizens' advisory board, and such chairperson shall serve in that capacity for a term of one (1) year.
+(c)
+Any member of the advisory board missing two (2) consecutive meetings without just cause shall be relieved of duties and a replacement named.
+(d)
+All members of the CATV citizens' advisory board shall serve without compensation and no member or any direct relative of any member shall have any interest, as a shareholder or the holder of a debt instrument, in any grantee.
+(e)
+It shall be the duty of the CATV citizens' advisory board to advise the board of commissioners regarding utilization and coordination of the CATV system's facilities, equipment and access channels which are made available for use by citizens, government and educational institutions under the franchise ordinances granted hereunder.
+(f)
+Meetings of the CATV citizens' advisory board shall be held as needed at the call of the chairperson, but not less than once a year, with such financial and staff support as may be fixed by the board of commissioners.
+(Code 1976, § 7-6143; Ord. No. 88-01a, § 1,7-12-88)
+Sec. 8-11. - Impossibility of performance.
+Without limiting or restricting the applicability of the law relating to and governing the impossibility of performance of contracts, each grantee shall be relieved of and from undertakings, duties and responsibilities imposed upon such grantee by virtue of the terms of this chapter or any franchise ordinance where the performance of same has been prevented, curtailed or delayed by virtue of circumstances beyond the party's control, including but not limited to strikes, war (whether declared or not), acts of God, or changes of law (whether the result of legislative, executive, administrative or judicial action). Under such circumstances, the affected grantee shall not be deemed to have committed a breach of or be in default under the pertinent term or terms of this chapter or the franchise ordinance.
+(Code 1976, § 7-6144)
+Sec. 8-12. - Regulating authority of county.
+(a)
+Each grantee shall construct, operate and maintain its CATV system subject to the supervision of all of the authorities of the county which have jurisdiction in these matters and in strict compliance with all laws, ordinances and department rules and regulations.
+(b)
+The CATV system and all parts thereof shall be subject to the right of periodic inspection by the county.
+(c)
+The chief executive may from time to time issue such reasonable rules and regulations concerning the construction, operation and maintenance of the CATV system as are consistent with the provisions of this chapter and the franchise ordinance, including, without limitation, rules and regulations for implementation of the complaint procedures set forth in section 8-169.
+(Code 1976, § 7-6081)
+Sec. 8-13. - Corrective action by county; recovery of costs.
+If a grantee should violate any of the terms of this chapter or the franchise ordinance, the chief executive shall give to the grantee written notice to correct such violation. If the grantee fails to correct such violation, make any repair, remove or relocate any part of its CATV system, or otherwise perform its obligations within thirty (30) days after the date of such written notice, or fails to justify the need for any further delay to the satisfaction of the chief executive, the county may cause the necessary work to be completed or services to be provided or other corrective action to be taken, and the grantee shall pay the county the costs thereof within ten (10) days of receipt of an itemized account of such costs.
+(Code 1976, § 7-6091)
+Sec. 8-14. - Assessment of liquidated damages.
+For the violation of any of the following provisions of this chapter, the board of commissioners may assess liquidated damages, as follows:
+(1)
+For failure to provide CATV service in accordance with article III of this chapter, unless the board of commissioners specifically approves the delay by resolution, due to the occurrence of conditions beyond grantee's control, the grantee shall pay two hundred dollars ($200.00) per day for each day or part thereof that the delay continues.
+(2)
+For failure to provide data, documents, reports and information as required by this chapter, the grantee shall pay fifty dollars ($50.00) per day that each violation occurs or continues.
+(3)
+For failure to test, analyze and report on the performance of the system following a request pursuant to section 8-130, the grantee shall pay fifty dollars ($50.00) per day for each day or part thereof that such noncompliance continues.
+(4)
+For failure to comply with the technical and operational standards set forth in article IV of this chapter following the county's resolution directing the grantee to make improvements pursuant to section 8-127, the grantee shall forfeit two hundred dollars ($200.00) per day or part thereof that the violation continues.
+(Code 1976, § 7-6092)
+Sec. 8-15. - Notice of public hearings.
+(a)
+Notice of any public hearing shall be by publication at least once in a newspaper of general circulation published in the county, at least ten (10) days prior to the meeting, posting at the county courthouse and, if in connection with an existing CATV franchise, by all of the following methods:
+(1)
+By announcement on at least two (2) primary channels of the grantee's CATV system between the hours of 7:00 p.m. and 9:00 p.m., for five (5) consecutive days immediately prior to the meeting.
+(2)
+By a statement included in any billings delivered to subscribers before the date set for the public hearing.
+(b)
+In this section "primary channels" means those channels which have the largest viewing audience as determined from time to time by recognized industry surveys. "Primary channels" does not include any channels on which a grantee is prohibited by law, contract or usage of trade from making public announcements, by reservation of time or otherwise.
+(Code 1976, § 7-6133)
+Secs. 8-16—8-30. - Reserved.
+ARTICLE II. - FRANCHISES
+DIVISION 1. - GENERALLY
+
+Sec. 8-31. - Required.
+(a)
+It shall be unlawful to construct, operate or service a CATV system in the unincorporated area within the boundaries of the county unless granted a privilege to do so by a franchise ordinance as provided in this chapter.
+(b)
+No CATV franchise shall be granted except by the board of commissioners by adoption of a franchise ordinance pursuant to this chapter. Each franchise ordinance shall designate a particular grantee and the franchise area to be served by the grantee. No person shall construct, operate or service a CATV system in the unincorporated area within the boundaries of the county unless granted a privilege to do so by a franchise ordinance.
+(Code 1976, §§ 7-6011, 7-6127)
+Sec. 8-32. - Term.
+Each CATV franchise shall be for a term of fifteen (15) years and may be renewed only in accordance with the provisions of this chapter.
+(Code 1976, § 7-6012)
+Sec. 8-33. - Nonexclusiveness.
+Each CATV franchise shall be nonexclusive, and the county may grant more than one (1) CATV franchise for the same franchise area.
+(Code 1976, § 7-6013)
+Sec. 8-34. - Granting does not confer property rights.
+No grantee of a CATV franchise shall acquire any right of property in the streets or in other property owned by the county, and the county shall have no obligation to any grantee for maintenance of the streets or other property owned by the county.
+(Code 1976, § 7-6014)
+Sec. 8-35. - Annual franchise fee.
+(a)
+Each grantee shall initially pay to the county an annual franchise fee equal to three (3) percent of its annual gross revenue; provided, however, such annual franchise fee may be increased up to a maximum of five (5) percent of a grantee's annual gross revenue at any time by resolution of the board of commissioners. Any increase in the annual franchise fee shall apply equally to all grantees and shall take effect immediately upon adoption of the enacting resolution unless otherwise specified by the board of commissioners. If the existing FCC limitation on franchise fees is raised or removed, then the annual franchise fee shall be as set by the board of commissioners.
+(b)
+The annual franchise fee shall be paid to the county in monthly installments not later than fifteen (15) days after the end of each month on the basis of gross revenue received during the preceding month. At the end of its fiscal year and following the filing of the annual financial report required in section 8-168, each grantee shall remit any additional sums due as a result of such report.
+(c)
+The annual franchise fee shall not be considered in the nature of a tax but shall be in addition to any and all taxes which are required to be paid by any law of the United States, the state or the county.
+(d)
+The county shall have the right to inspect records of the grantee and the right to audit and to recompute any amounts determined to be due and payable by the grantee. Any such audit shall be performed within thirty-six (36) months following the close of each fiscal year of the grantee. Any additional amount due to the county as a result of the audit shall be paid within thirty (30) days following written notice to the grantee by the county, which notice shall include a copy of the audit report.
+(e)
+If any franchise fee, cost or penalty is not paid on or before the due date to the county, a late charge and interest shall be assessed as specified in section 2-112.
+(f)
+If a grantee serves areas outside the county and receives revenue for advertising both within and without the county, such advertising revenue shall be prorated to the county on a direct ratio between the number of subscribers within the county, and the total number of subscribers within and without the county, except as may be otherwise provided in a franchise ordinance.
+(g)
+If a grantee is delinquent in any of its obligations under this section for a period of ninety (90) days, the grantee shall be considered in violation of this chapter and its CATV franchise may be terminated in accordance with the procedures set forth in this chapter, unless an extension is granted by the board of commissioners. Any such extension shall be limited to a period of sixty (60) days, and late charges and interest shall not be waived.
+(h)
+No acceptance of any payment shall be construed as a release or as an accord and satisfaction of any claim the county may have for further or additional sums due and payable by the grantee or for the performance of any other obligation of the grantee.
+(Code 1976, § 7-6041; Ord. No. 88-32, 6-14-88)
+Sec. 8-36. - Subject to police powers.
+(a)
+By accepting a CATV franchise, the grantee:
+(1)
+Acknowledges that its privileges are subject to the police power of the county to adopt and enforce measures necessary to the safety, health and welfare of the public.
+(2)
+Agrees to comply with all applicable general laws and ordinances enacted by the county pursuant to such power.
+(b)
+Any conflict between the provisions of a CATV franchise and any other present or future lawful exercise of the county's police powers shall be resolved in favor of the latter, except that any such exercise that is not of general application in the county or applies exclusively to the grantee or CATV systems which contain provisions inconsistent with the franchise shall prevail only if upon such exercise the county finds an emergency exists constituting a danger to health, safety, property or general welfare or such exercise is mandated by law.
+(Code 1976, § 7-6131)
+Sec. 8-37. - County use of grantee's facilities.
+The county shall have the right, during the term of a CATV franchise, to install and maintain free of charge upon the poles, towers or other equipment of the grantee any wire and fixtures that do not interfere with the operations of the CATV system.
+(Code 1976, § 7-6132)
+Secs. 8-38—8-50. - Reserved.
+DIVISION 2. - ISSUANCE PROCEDURES
+
+Sec. 8-51. - Outline of stages.
+The board of commissioners shall follow a five-stage process in granting each CATV franchise other than those granted pursuant to the terms of section 8-9. During the first stage, the board of commissioners shall solicit and receive applications for a CATV franchise. During the second stage, the board of commissioners shall designate one (1) or more applicants for detailed review of the application and negotiation of such matters as the type and extent of services to be offered. During the third stage, the board of commissioners and each designated applicant shall negotiate and draft a proposed franchise ordinance. The fourth stage shall consist of the grant of a CATV franchise by the board of commissioners by adoption of a franchise ordinance designating the proposed grantee and the franchise area to be served by the proposed grantee. The fifth stage shall consist of the following:
+(1)
+Written acceptance of the franchise ordinance by the proposed grantee.
+(2)
+A written franchise certificate issued by the chief executive to a proposed grantee evidencing a franchise granted under this article.
+(Code 1976, § 7-6021)
+Sec. 8-52. - Stage I, applications.
+(a)
+The board of commissioners shall grant no CATV franchise without first soliciting applications by public notice in a form approved and adopted by resolution of the board of commissioners. Such public notice shall state the place and time during which application forms may be obtained, the place and deadline for filing of applications, a description of the proposed franchise area, and the amount of a nonrefundable application fee to be paid to the county concurrently with the filing of each application. The application forms shall be approved by the chief executive and shall require such information as the chief executive determines appropriate including, but not limited to, the following:
+(1)
+If the applicant is not a corporation, its application shall contain the names and addresses of persons (including corporations) having a proprietary or equitable interest in its business operation and/or any proposed CATV franchise sought by the applicant. In this paragraph "equitable interest" includes all assignments for value, as well as all contingent assignments of any right or privilege under the proposed CATV franchise, and also includes any benefit, payment or emolument whatsoever resulting from the grant of a CATV franchise.
+(2)
+If the applicant is a corporation not publicly held, as defined by the rules and regulations of the United States Securities and Exchange Commission, the statement shall furnish, additionally, the names and addresses of its officers, directors and shareholders, together with the number of shares held by each shareholder.
+(3)
+If the applicant is a corporation publicly held, as defined by the rules and regulations of the United States Securities and Exchange Commission, the statement shall contain the states in which the applicant is incorporated and/or qualified to do business and the names and addresses of its officers and directors.
+(4)
+The form of ownership of the facilities to be used in exercising the proposed CATV franchise.
+(5)
+Any cable television system currently owned or operated by the applicant, its experience in operating and constructing such systems, any application pending for any other system, and the general financial resources of the applicant, as well as those specifically available for construction and operation of the proposed CATV system.
+(6)
+Proposed services, including channel capacity, the number of channels and types of services to be included in basic services, the number of channels and types of services to be included in additional services, the number of two-way channels, the number of access channels and automated channels, facilities for local origination and a list of any additional service or facility to be made available to the county and other public, institutional and community organizations.
+(7)
+A schedule of the subscriber rates for each of the proposed services.
+(8)
+The equipment to be included in the CATV system, the general routes of the feeder or trunk cables, the number and location of signal amplifiers to be used in redistributing signals, the proposed franchise area and the service schedule for the proposed franchise area.
+(9)
+The design and construction plans and standards to be used in constructing or renovating the CATV system and the proposed construction and service schedule.
+(b)
+All applications shall be open to public inspection during reasonable business hours.
+(c)
+Any material misrepresentation in an application or the omission of any material representation, which omission renders the included representations misleading, whether done negligently or intentionally, shall be grounds for rejection of the application or termination of any CATV franchise granted on the basis of such application.
+(Code 1976, § 7-6022)
+Sec. 8-53. - Stage II, selection of designated applicant.
+After the close of the filing period for applications for a CATV franchise, the board of commissioners shall hold an evening public hearing, review the applications submitted and, after considering the applicant's character, financial, technical and other qualifications and the adequacy and feasibility of its construction arrangements, by one (1) or more resolutions, designate one (1) or more applicants for participation in stage III of the selection process. Such designating resolution shall grant no rights, privileges or franchise of any kind, but shall be limited to designating one (1) or more applicants for stage III negotiations.
+(Code 1976, § 7-6023)
+Sec. 8-54. - Stage III, negotiation of proposed franchise ordinance.
+Upon designation pursuant to stage II of the procedures set out in this division, the board of commissioners and the designated applicant shall proceed to negotiate and draft the terms and conditions of a proposed franchise ordinance. At any time, the board of commissioners may do one (1) of the following:
+(1)
+Terminate negotiations with the designated applicant and initiate or continue negotiations with any other designated applicant.
+(2)
+By resolution designate another applicant from the original applicants for stage III negotiations.
+(3)
+Return to stage I and reopen the time for the filing of new applications.
+(Code 1976, § 7-6024)
+Sec. 8-55. - Stage IV, grant of franchise.
+At any time after the date of the resolution designating a designated applicant pursuant to this division, the board of commissioners may grant a CATV franchise by adoption of a franchise ordinance naming a designated applicant as a proposed grantee. Such grant of a CATV franchise shall be conditioned upon the proposed grantee delivering the franchise acceptance documents described.
+(Code 1976, § 7-6025)
+Sec. 8-56. - Stage V, acceptance of franchise.
+(a)
+Within thirty (30) days after the date of the adoption of the franchise ordinance pursuant to stage IV of the procedures set out in this division, the proposed grantee shall deliver the following documents (the franchise acceptance documents) to the chief executive:
+(1)
+A written acceptance of the CATV franchise in such form as is acceptable to the chief executive.
+(2)
+A written indemnification agreement or its equivalent satisfying the requirements of section 8-73.
+(3)
+The letter of credit described in section8-71.
+(4)
+The insurance policies or certificates therefor described in section 8-72.
+(5)
+A certified check written to the order of the county in such amount as shall be set by the board of commissioners as compensation to the county for costs incurred by the county in preparing and awarding the CATV franchise.
+(6)
+A certified check written to the order of the county in such amount as shall be set by the board of commissioners to be held by the county and applied as a credit toward payment of the annual franchise fees by the grantee.
+(b)
+Upon receiving the franchise acceptance documents, the chief executive shall have five (5) days to review same and determine whether or not they are in proper order and have been validly executed. If the franchise acceptance documents are deficient in any respect, the chief executive shall notify the proposed grantee of such deficiencies and the proposed grantee shall thereafter have five (5) days to remedy such deficiencies.
+(c)
+If the proposed grantee fails to execute and deliver all the franchise acceptance documents within the thirty-day period provided in subsection (a) of this section or fails to remedy any deficiency in the franchise acceptance documents within the five-day period set forth in subsection (b) of this section:
+(1)
+The franchise ordinance relating to the proposed grantee shall be null and void and of no further force and effect and the proposed grantee shall acquire no rights, privileges or franchise thereunder.
+(2)
+The board of commissioners, by resolution, may designate another applicant from the original applicants for stage III negotiations, or may return to stage I and reopen the time for filing of new applications.
+(d)
+If the franchise acceptance documents have been properly executed and delivered in accordance with this section, the chief executive shall issue a franchise certificate to the grantee evidencing the grantee's CATV franchise as of the date of such certificate.
+(Code 1976, § 7-6026)
+Secs. 8-57—8-70. - Reserved.
+DIVISION 3. - COLLATERAL DOCUMENTS
+
+Sec. 8-71. - Letter of credit.
+(a)
+Concurrently with the delivery of the franchise acceptance documents, and as a part thereof, each grantee shall deliver to the county a letter or letters of credit in such amount as shall be set by the board of commissioners (the letter of credit). The letter of credit shall guarantee the faithful performance by the grantee of all provisions of this chapter and the franchise ordinance, including, without limitation, the grantee's obligations to construct, extend and improve its CATV system and the payment of civil penalties, claims, liens and taxes due the county. The letter of credit shall be issued in favor of the county by such financial institution and in such form and content as shall be required by the franchise ordinance and be approved by the chief executive.
+(b)
+Each letter of credit shall be renewed or maintained continually during the entire term of the franchise ordinance or any renewal thereof at the dollar level set by the board of commissioners.
+(c)
+The rights of the county under the letter of credit shall be in addition to all other rights of the county, whether granted by this chapter, the franchise ordinance or otherwise by law, and no action, proceeding or exercise of a right with respect to the letter of credit shall affect any other right the county may have.
+(Code 1976, § 7-6031)
+Sec. 8-72. - Insurance policies.
+(a)
+During the term of the CATV franchise, each grantee shall obtain, pay all premiums for and file with the chief executive executed duplicate copies and receipts evidencing the payment of premiums for the following:
+(1)
+A general comprehensive public liability insurance policy indemnifying, defending and saving harmless the county, its officers, boards, commissions, agents or employees, from any and all claims by any person whatsoever on account of injury to or death of a person or persons occasioned, or alleged to have been occasioned, by the operations of a grantee, or alleged to have been so caused or occurred, with a minimum liability of five hundred thousand dollars ($500,000.00) for personal injury or death of any one (1) person and one million dollars ($1,000,000.00) for personal injury or death of any two (2) or more persons in any one (1) occurrence.
+(2)
+Property damage insurance indemnifying, defending and saving harmless the county, its officers, boards, commissions, agents and employees, from and against all claims by any person whatsoever for property damage occasioned, or alleged to have been occasioned, by the operation of grantee or alleged to have been so caused or occurred with a minimum liability for property damage of five hundred thousand dollars ($500,000.00) to any one (1) person and one million dollars ($1,000,000.00) for property damage to two (2) or more persons in any one (1) occurrence.
+(3)
+Builders' risk completed value form insuring the grantee's CATV system during construction thereof against fire, lightning and all other risks covered by the uniform standard extended covereage endorsement in its broadest form then in use in the state to the full insurable value of the CATV system, upon the repair or replacement basis.
+(4)
+Hazard insurance insuring the grantee's CATV system during operation thereof against fire, lightning and all other risks covered by the uniform standard extending coverage endorsement in its broadest form then in use in the state to the full insurable value of the CATV system, upon the repair or replacement basis.
+(5)
+Workers' compensation insurance at all times during the acquisition, renovation, construction or equipping of the grantee's CATV system.
+(b)
+Such forms of insurance shall be kept in full force and effect by a grantee during the existence of and until after the removal of all poles, wires, cables, underground conduits, manholes and other conductors and fixtures incident to the maintenance and operation of its CATV system as defined in its franchise ordinance.
+(c)
+Each insurance policy shall:
+(1)
+Be nonassessable and issued and maintained by companies authorized to do business in the state which are acceptable to the chief executive.
+(2)
+Require thirty (30) days' written notice of any cancellation to both the county and the grantee herein.
+(3)
+Be in such form as shall be acceptable to the chief executive.
+(d)
+The insurance policies required under this section or duplicate copies thereof and insurance certificates with respect thereto shall be filed with the chief executive.
+(Code 1976, § 7-6032)
+Sec. 8-73. - Indemnification agreement.
+(a)
+Each grantee shall execute an indemnification agreement prior to obtaining a franchise providing that it shall, at its sole cost and expense, fully indemnify, defend and hold harmless the county, its officers, boards, commissions, employees and agents against any and all claims, suits, actions, liability and judgments for damages to persons or property, in any way arising out of or through the acts or omissions of a grantee, its servants, agents or employees.
+(b)
+These damages shall include but not be limited to damages arising out of copyright infringement and all other damages arising out of the installation, operation or maintenance of the CATV system, whether any act or omission complained of is authorized, allowed or prohibited by this chapter or the franchise ordinance.
+(c)
+By acceptance of a CATV franchise or acceptance of the confirmation of an existing CATV franchise pursuant to section 8-9, each grantee expressly agrees that it will pay all expenses incurred by the county in defending itself with regard to all damages mentioned above. These expenses shall include, but not be limited to, all out-of-pocket expenses such as attorneys' fees and all other costs of litigation.
+(d)
+No recovery by the county of any sum by reason of the letter of credit acquired in section 8-71 shall be any limitation upon the liability of the grantee to the county under the terms of this section, except that any sum so received by the county shall be deducted from any recovery which the county might have against the grantee under the terms of this section.
+(e)
+By acceptance of a CATV franchise or acceptance of the confirmation of an existing franchise pursuant to section 8-9, each grantee expressly agrees that the county shall not be liable in excess of actual replacement costs for any damage occurring to the property of the grantee caused by employees of the county in the performance of their duties; nor shall the county be held liable for the interruption of services by the action of its employees in the performance of their duties.
+(Code 1976, § 7-6033)
+Secs. 8-74—8-85. - Reserved.
+DIVISION 4. - RENEWAL, TRANSFER, ETC.
+
+Sec. 8-86. - Renewal procedures.
+(a)
+A CATV franchise may be renewed by the board of commissioners in accordance with applicable laws and the following procedures:
+(1)
+Procedures for the renewal of any existing CATV franchise shall be governed by the provisions of the Cable Communications Policy Act of 1984 (47 U.S.C. § 546).
+(2)
+The board of commissioners shall hold at least one (1) public hearing on each application for renewal after giving public notice in the manner required by section 8-15.
+(3)
+If the board of commissioners finds the grantee's performance satisfactory, an existing CATV franchise may be renewed for an additional period of ten (10) years by amendment of the franchise ordinance in accordance with this section on such terms and conditions as the board of commissioners determines to be appropriate.
+(b)
+Renewal for additional periods of ten (10) years may be applied for by the grantee and granted by the county in accordance with procedures outlined in this section for the first renewal.
+(c)
+If the board of commissioners fails to renew an existing CATV franchise before its expiration date, all rights, privileges and powers of the grantee in and to such CATV franchise shall terminate as of the expiration date, except as stated below:
+(1)
+At all times from the expiration or revocation of a franchise and until a grantee transfers to the county or other succeeding operator of the CATV system all of its rights, title and interests to all assets, real and personal, related to its CATV system, the grantee shall have a duty to such successor as a trustee holding such assets for the benefit of such successor, and the grantee shall not sell any of the system assets nor shall the grantee make any physical, material or administrative operational changes that would tend to do any of the following:
+a.
+Degrade the quality of service to the subscribers.
+b.
+Decrease income.
+c.
+Materially increase expenses without the expressed permission, in writing, of the county.
+The grantee shall at all times operate the CATV system in accordance with the terms of this chapter and the terms of the franchise as if the franchise had not expired or had not been revoked.
+(2)
+In the event of expiration or revocation of a franchise, this section shall not be construed to give a grantee any vested or other franchise right, but the right of the grantee in such circumstances shall exist only on a day-to-day basis until the transfer is effected.
+(3)
+For its management services during this interim period as a trustee, the grantee shall be entitled to receive as compensation the net profit generated during the period between the expiration or revocation of the franchise, as the case by be, and the transfer of the grantee's assets to the county or a successor, minus all operating expenses and franchise fees.
+(d)
+This section does not limit the power of the county, upon expiration or revocation of a franchise, to require the grantee to cease all operations whatsoever and/or remove its facilities, or otherwise exercise any rights the county would otherwise have.
+(Code 1976, § 7-6111)
+Sec. 8-87. - Transfer of ownership or control.
+(a)
+No CATV franchise and no rights or privileges thereunder shall be assigned or transferred, either in whole or in part, or leased, sublet or mortgaged in any manner, nor shall title thereto, either legal or equitable, or any right, interest or property therein, pass to or vest in any person without the prior written consent of the board of commissioners.
+(b)
+No change, transfer or acquisition of control of a grantee shall occur without the prior written consent of the board of commissioners. A transfer of control will be deemed to occur upon the acquisition or accumulation by any person or an affiliated group of persons of fifty (50) percent or more of the voting stock of the grantee or of a percentage of the voting stock of the grantee which is larger than any other block of voting stock that is held by any one (1) person or an affiliated group of persons; provided, however, the transfer of a deceased stockholder's shares upon death, the transfer of a stockholder's shares to members of the stockholder's immediate family or to a trust benefiting members of the stockholder's immediate family, or the acquisition or accumulation of shares in an employee pension fund or such other similar fund shall not be deemed a change, transfer or acquisition of control.
+(c)
+Notwithstanding anything else contained in this section, no consent shall be required for any mortgage, transfer or assignment of part or all of a CATV system and the rights or privileges under a CATV franchise, or control of a grantee by trust deed, deed to secure debt, pledge or other hypothecation in favor of a bank, savings and loan association or other financial institution regularly engaged in the business of lending money, in order to secure an indebtedness incurred as part of a bona fide financing transaction entered into for the purpose of obtaining funds for the operation, acquisition, construction or improvement of a grantee's CATV system; provided, however, that any foreclosure upon such security shall be in accordance with section 8-88.
+(d)
+Any consent or approval of the board of commissioners granted pursuant to subsection (a) or (b) of this section shall not constitute a waiver or release of the rights of the county in and to the streets. All transfers approved by the board of commissioners pursuant to this section shall, by their terms, be expressly subordinate to the terms and conditions of this chapter and the franchise ordinance.
+(e)
+In determining whether to approve a transfer pursuant to subsections (a) and (b) of this section, the board of commissioners may request that the proposed transferee supply such information, documents and proposals as it deems appropriate and may consider the entire purchase price or consideration to be paid by any proposed transferee, including the allocations of value which may affect subscriber rates, as well as the proposed transferee's character, experience and financial condition. The board of commissioners may condition its approval of any transfer so as to limit the portion of such purchase price which may be taken into consideration in setting subscriber rates.
+(f)
+No transfer of ownership or control shall be valid without the successor in interest, if such successor in interest constitutes a separate legal entity, assuming in writing all the obligations and duties of the grantee under this chapter and the grantee's franchise ordinance and delivering to the chief executive the franchise acceptance documents within thirty (30) days after the date of such transfer in accordance with the procedures set forth in section 8-56.
+(Code 1976, § 7-6112)
+Sec. 8-88. - Foreclosure.
+Upon the foreclosure or other judicial sale of all or a part of a CATV system, or upon the termination of any lease covering all or a part of a CATV system, the grantee shall notify the chief executive of such event. A foreclosure or other judicial sale of all or a part of a CATV system, except a foreclosure or judicial sale to the holder of a mortgage, trust deed, deed to secure debt, pledge or other hypothecation acquired pursuant to subsection (c) of section 8-87, shall be treated as a change in control of the grantee, and the provisions of this chapter governing the consent of the county to such change in control shall apply.
+(Code 1976, § 7-6113)
+Sec. 8-89. - Termination due to substantial violation.
+(a)
+The board of commissioners may terminate any CATV franchise and all rights and privileges of a grantee thereunder in the event of a substantial violation of the terms and conditions of either this chapter or the franchise ordinance. A substantial violation shall include, but shall not be limited to, any of the following:
+(1)
+Willful failure, refusal or neglect to comply with the provisions of this chapter or a franchise ordinance or any rule, order or regulation made pursuant to this chapter or a franchise ordinance.
+(2)
+Any fraud or deceit, or attempted fraud or deceit, by a grantee in its conduct or relations under its CATV franchise with the county, subscribers or potential subscribers.
+(3)
+Failure to meet the service schedule required under Article III of this chapter.
+(4)
+Failure to restore service after ninety-six (96) consecutive hours of interrupted service, except when approved before such interruption or after by the chief executive.
+(5)
+Material misrepresentation of facts or the omission of material facts necessary to make the facts stated not misleading in the application for a CATV franchise negotiation of a franchise ordinance or the delivery and execution of franchise acceptance documents.
+(6)
+Failure to pay within sixty (60) days after final assessment of any civil penalty or liquidated damages.
+(b)
+None of the foregoing shall constitute a substantial violation if such violation was without fault of the grantee or as a result of circumstances beyond the control of the grantee. A grantee shall not be excused by mere economic hardship or by misfeasance or malfeasance of its directors, officers, employees or agents.
+(c)
+If a substantial violation occurs, the chief executive may initiate termination proceedings by making a written demand that the grantee correct such violation. If such violation continues for a period of thirty (30) days following such written demand, without the grantee's providing justification satisfactory to the chief executive for the delay, the chief executive may place the issue of termination before the board of commissioners for determination at a public hearing.
+(d)
+If the board of commissioners determines that a substantial violation has occurred, the board of commissioners may, by resolution, do any of the following:
+(1)
+Declare the CATV franchise of the grantee terminated.
+(2)
+Assess civil penalties against the grantee.
+(3)
+Extend the time for correction of the violation.
+(4)
+Take such other action as the board of commissioners considers necessary and appropriate.
+(Code 1976, § 7-6093)
+Sec. 8-90. - Termination for appointment of receiver or trustee.
+The board of commissioners may terminate a CATV franchise one hundred twenty (120) days after the appointment of a receiver or trustee to take over and conduct the business of the grantee, whether in receivership, reorganization, bankruptcy or other action or proceeding, unless within such time all of the following occur:
+(1)
+Such receivership or trusteeship has been vacated.
+(2)
+Such receiver or trustee has fully complied with all the provisions of this chapter and the franchise ordinance and remedied all defaults under either.
+(3)
+Such receiver or trustee has executed and delivered a written agreement, approved by a court of proper jurisdiction, under which such receiver or trustee assumes and agrees to be bound by each and every provision of this chapter and the franchise ordinance.
+(Code 1976, § 7-6094)
+Sec. 8-91. - County purchase of system upon termination for cause.
+(a)
+Upon termination for cause of a CATV franchise, the county, at its option, may purchase the CATV system from the grantee at a price not to exceed the adjusted fair market value.
+(b)
+Nothing in this chapter shall affect the right of eminent domain, and the option of the county to purchase a CATV system under the provisions of this chapter shall be in addition to, and not in derogation of, any other methods of acquisition of property interests available to the county.
+(c)
+In this section "adjusted fair market value" means fair market value:
+(1)
+Reduced by the costs and damages incurred by the county as a result of the breach of the grantee's obligations which resulted in the termination, if the purchase occurs upon a termination of a CATV franchise by the county; and
+(2)
+With no value allocated to the grantee's franchise.
+(d)
+Upon exercise of the option of the county to purchase the CATV system and the payment of the purchase price, the grantee shall:
+(1)
+Transfer to the county possession and title to all facilities and property, real and personal, of the CATV system, free from any and all liens and encumbrances not agreed to be assumed by the county.
+(2)
+Execute such warranty deeds or other instruments of conveyance to the county as shall be necessary for this purpose.
+(Code 1976, §§ 7-6101—7-6103)
+Sec. 8-92. - Removal of CATV system upon expiration or termination of franchise.
+Upon the expiration or termination of a CATV franchise, the board of commissioners may require the grantee to immediately remove at the grantee's expense its CATV system from all streets and public property within the county. If the grantee fails to do so, the county may perform the work at the grantee's expense. Any property remaining in place in the streets or on public property one hundred twenty (120) days after expiration or termination shall be considered abandoned by the grantee, and ownership to such property shall, at the option of the board of commissioners, be considered transferred to the county.
+(Code 1976, § 7-6095)
+Secs. 8-93—8-105. - Reserved.
+ARTICLE III. - SERVICE SCHEDULE
+
+Sec. 8-106. - Initial service area.
+(a)
+Each franchise ordinance shall designate the part of the franchise area (the initial service area) where CATV service shall be available to all subscribers within the times specified below after the date of the adoption of the franchise ordinance, as follows:
+(1)
+Within one (1) year to at least twenty (20) percent of the dwelling units within the initial service area.
+(2)
+Within two (2) years to at least fifty (50) percent of the dwelling units within the initial service area.
+(3)
+Within three (3) years to all dwelling units within the initial service area.
+(b)
+If the connection from a trunk or feeder cable to any dwelling unit would require more than a standard one-hundred-fifty-foot aerial drop line, or its underground equivalent, the grantee may charge the subscriber the actual cost of the connection for the distance exceeding one hundred fifty (150) feet.
+(Code 1976, § 7-6051)
+Sec. 8-107. - Extensions of service.
+(a)
+Each grantee shall extend its CATV system and make CATV service available beyond the initial service area as follows:
+(1)
+Within one (1) year after completion of construction within the initial service area, along streets or parts of streets reaching a minimum density of forty (40) dwelling units per street mile beginning at the boundary of the initial service area and any line extension beyond the initial service area; and otherwise in accordance with the provisions of the franchise ordinance concerning extensions of service.
+(2)
+If the connection from a trunk or feeder cable to any dwelling unit within the areas provided for in paragraph (1) of this subsection would require more than a standard one-hundred-fifty-foot aerial drop line, or its underground equivalent, the grantee may charge the subscriber the actual cost of the connection for the distance exceeding one hundred fifty (150) feet.
+(3)
+Service shall be provided to any person or persons outside the initial service area or the areas provided for in paragraph (1) of this subsection, if requested, upon payment to the grantee by such person or persons of all costs of extension, including, without limitation, costs of materials, labor and easements.
+(b)
+Units under construction or for which building permits have been issued shall be considered a dwelling unit.
+(Code 1976, § 7-6052)
+Sec. 8-108. - Requests for service.
+Each grantee shall fill all requests for CATV service which are consistent with the foregoing schedule for service within thirty (30) days after the date of each request. A record of all service requests shall be kept for at least three (3) years and shall be available for public inspection at the local office of the grantee during regular office hours.
+(Code 1976, § 7-6053)
+Sec. 8-109. - Delay in meeting service schedule.
+Any substantial delay by a grantee in meeting the schedule for CATV service, unless specifically approved by the board of commissioners, shall be a violation of this chapter, subject to remedies provided in sections 8-13, 8-14, 8-89, 8-90 and 8-92.
+(Code 1976, § 7-6054)
+Secs. 8-110—8-125. - Reserved.
+ARTICLE IV. - STANDARDS FOR CONSTRUCTION AND OPERATION OF CATV SYSTEM
+
+Sec. 8-126. - Compliance with laws, regulations and ordinances.
+Each grantee shall construct, install, operate and maintain its CATV system in a manner consistent with this chapter, the franchise ordinance and all laws, ordinances, construction standards, governmental requirements and FCC technical standards.
+(Code 1976, § 7-6061)
+Sec. 8-127. - Construction and technical standards.
+(a)
+Each grantee shall comply with all county building and construction codes and such other construction and technical standards as shall be specified in the franchise ordinance.
+(b)
+Each grantee shall maintain equipment capable of providing such signal quality and system reliability as shall be specified in the franchise ordinance.
+(c)
+Each grantee shall incorporate into its CATV system a capacity to permit the county, in times of emergency, to override simultaneously the audio of all channels and shall designate a single channel for emergency broadcast of both audio and video signals.
+(d)
+Each grantee shall construct and operate its CATV system so as not to interfere with emergency radio services and aeronautical navigation signals, and each grantee shall periodically check its CATV system for radio frequency (RF) leakage.
+(e)
+Each grantee shall construct and operate its CATV system so as not to interfere with television reception of nonsubscribers or to interfere with, obstruct or hinder in any manner the operation of the various utilities serving county residents.
+(f)
+Except for subscriber installation, no grantee shall make any excavation or attachment, erect any pole, install any wire and no construction of any kind shall be commenced without a permit issued by the county. Such permit may be issued after approval of layout maps and construction standards of the CATV system authorized by a franchise ordinance showing all equipment and routing or any utility poles to be used by the grantee, the location of all trunk and distribution lines and line amplifiers and the manner or method in which any such installation or construction shall be accomplished.
+(g)
+If the board of commissioners by resolution declares that a grantee has failed to maintain the technical standards and quality of service required by this chapter or its franchise ordinance, the grantee shall immediately make such improvements as may be necessary. Failure to make such improvements within ninety (90) days after the date of such resolution or, if such improvements cannot be completed within such period, failure to institute timely action to do so within such period and diligently proceed to completion, shall constitute a violation of this chapter.
+(Code 1976, § 7-6062)
+Sec. 8-128. - Use of streets.
+(a)
+All transmissions and distribution structures, lines and equipment erected by a grantee within the county shall be so located so as not to interfere with the proper use of the streets or the rights and reasonable convenience of owners of adjacent property.
+(b)
+Except when necessary to service a subscriber, and then only when expressly permitted in writing by the county under such conditions as it shall prescribe, a grantee shall not erect any poles or facilities within the streets but shall use the existing poles and other equipment of utility companies under such an agreement as a grantee may negotiate with these companies.
+(c)
+Whenever the county or the state shall require the relocation or reinstallation of any property of a grantee on the rights-of-way of the county, it shall be the obligation of a grantee, upon notice of such requirement, to immediately remove, relocate or reinstall such property as may be reasonably necessary to meet the requirements of the county or state. Such relocation, removal or reinstallation by a grantee shall be at the sole cost of a grantee.
+(d)
+Whenever, in any place within the county, all the electric and telephone utilities are located underground, the grantee shall locate its property underground within such places. If the electric utilities or telephone utilites are located underground in any place within the county after a grantee has previously installed its property, the grantee shall, at the same time or immediately thereafter, also remove and relocate its property underground in such places. Facilities of a grantee placed underground at the property owner's request in any area where electric utilities or telephone utilities are aerial shall be installed with the additional expense paid by the property owner.
+(e)
+Each grantee may trim trees overhanging the streets so as to prevent the branches of such trees from coming in contact with its wires and cables. All trimming shall be done under the supervision and direction of the county and at the expense of the grantee.
+(f)
+Each grantee shall, at its own cost and expense and in a manner approved by the county, replace and restore any disturbed street in as good a condition as before the work involving such disturbance was done; provided, that where a cut or disturbance is made in a section of sidewalk paving, rather than replacing only the area cut, a grantee shall replace the full width of the existing walk and length of the section or sections cut, a section being determined as that area marked by expansion joints or scoring.
+(g)
+Each grantee shall maintain, repair and keep in good condition for a period of one (1) year following such disturbance all portions of a sidewalk or street disturbed by it or its agents, provided such maintenance and repairs shall be made necessary because of defective workmanship or materials supplied by the grantee.
+(h)
+Each grantee shall, on the request of any person holding a building moving permit issued by the county, temporarily raise or lower its wires to permit the moving of such building. The expense of such temporary removal or raising or lowering of the wires shall be paid by the person making the request, and each grantee may require such payment in advance. Each grantee shall be given not less than forty-eight (48) hours' advance notice to arrange for such temporary wire changes. Any disagreement between a grantee and a holder of a permit shall be resolved by the county.
+(i)
+If at any time in case of fire or disaster in the county it shall become necessary, in the judgment of the person having charge of the disaster or fire or such person's designated agent, to cut or move any of the wire cables, amplifiers, appliances or other fixtures of a grantee, this may be done, and the repairs rendered necessary thereby shall be made by a grantee, at its own cost and expense, without charge against the county.
+(j)
+The work of each grantee while in progress shall be properly executed at all times with suitable barricades, flags, lights, flares or other devices as are reasonably required to protect all members of the public having occasion to use the portion of the rights-of-way involved, or adjacent property.
+(Code 1976, § 7-6063)
+Sec. 8-129. - Operational standards.
+(a)
+Each grantee shall put, keep and maintain all parts of its CATV system in good condition and repair during the term of the CATV franchise.
+(b)
+Each grantee shall render efficient service, make repairs promptly, and interrupt service only for good cause. Such interruptions, insofar as possible, shall be preceded by notice and shall occur during periods of minimum system use. Failure of a grantee to operate all or part of its CATV system for fifteen (15) consecutive days or a total of thirty (30) days in any calendar year without prior approval of the board of commissioners shall be unlawful.
+(Code 1976, § 7-6064)
+Sec. 8-130. - Technical performance tests.
+(a)
+The county may require a grantee to test and report on the technical performance of its CATV system; provided, however, that the county reserves the right to conduct its own tests upon reasonable notice to the grantee, and if noncompliance is found, the expense thereof shall be borne by the grantee. The county will endeavor to arrange its request for such special test so as to minimize hardship or inconvenience to a grantee or to subscribers.
+(b)
+Each grantee shall provide the county with a written report on the results of its annual proof of performance tests conducted pursuant to FCC standards and requirements.
+(Code 1976, § 7-6065)
+Sec. 8-131. - Areawide interconnection of CATV systems.
+(a)
+Each grantee, if ordered to do so by resolution of the board of commissioners, shall interconnect access channels of its CATV system with all other CATV systems in adjacent areas within or without the county.
+(b)
+Upon receiving an order to interconnect, the grantee shall make a good faith effort to obtain agreement for the sharing of interconnection costs among all interconnecting companies. The board of commissioners may extend the time to interconnect or may rescind its order to interconnect upon finding that the grantee has made a good faith effort but has been unable to obtain a reasonable interconnection agreement or that the cost of the interconnection would cause an unreasonable increase in rates.
+(c)
+Each grantee shall cooperate with any entity established for the purpose of regulating, financing or otherwise providing for the interconnection of CATV systems.
+(d)
+The county may require a grantee to provide local origination equipment that is compatible with that used by other CATV systems.
+(Code 1976, § 7-6066)
+Sec. 8-132. - Regulation of basic service rates and charges of CATV systems.
+(a)
+The county will follow the FCC Rate Regulations in its regulation of the basic service rates and charges of all cable television systems operating in the county, notwithstanding any different or inconsistent provisions in the franchise ordinance or existing franchise agreements to the contrary.
+(b)
+In connection with such regulation, the county will ensure a reasonable opportunity for consideration of the views of interested parties.
+(c)
+The board of commissioners, or its designated cable administrator, is authorized to execute on behalf of the county and file with the FCC such certification forms or other instruments as are now or may hereafter be required by the FCC Rate Regulations in order to enable the county to regulate basic service rates and charges.
+(Ord. No. 93-16, § 1, 11-23-93)
+Secs. 8-133—8-165. - Reserved.
+ARTICLE V. - MISCELLANEOUS PROVISIONS
+
+Sec. 8-166. - Local office; resident manager.
+Each grantee shall maintain an office open to the public during reasonable business hours within the county and shall designate a resident manager to act for the grantee. The authority of the resident manager to act for the grantee with regard to operations of the CATV system shall be full and complete except as may be stated otherwise in the franchise ordinance. For matters in which the resident manager is not authorized to act for the grantee, a corporate officer having such authority shall be available to the county by phone.
+(Code 1976, § 7-6082)
+Sec. 8-167. - Rules and regulations of grantee.
+Each grantee may promulgate such rules and regulations governing the conduct of its business as shall be reasonably necessary to enable the grantee to exercise its CATV franchise to perform its obligations to assure uninterrupted service to its customers. All such rules and regulations shall be subject to and consistent with the provisions of this chapter and the franchise ordinance.
+(Code 1976, § 7-6083)
+Sec. 8-168. - Records and reports.
+(a)
+Each grantee shall file annually the following records and reports with the county not later than three (3) months after the end of its fiscal year:
+(1)
+The report to its stockholders, if any.
+(2)
+An annual financial report in a form approved by the chief executive containing balance sheet, statement of income, statement of changes in retained earnings, statement of changes in ownership equity, notes to financial statements and supplementary schedules reconciled to the foregoing identifying revenues, expenses and income applicable to the operation of its CATV system. Such statements shall be prepared in accordance with generally accepted accounting principles applied on a consistent basis and shall be audited by an independent certified public accountant.
+(3)
+A schedule of property used in its CATV system showing book value on the basis of original cost, less depreciation, with such supporting information as the chief executive may require.
+(4)
+A facilities report setting forth the total physical miles of cable installed and the facilities currently in operation.
+(5)
+A copy of proof of performance tests required under FCC regulations and standards.
+(6)
+If a corporation is not publicly held, as defined by the rules and regulations of the United States Securities and Exchange Commission, a list of all current shareholders and bondholders both of record or beneficial. If a corporation is publicly held, as so defined, a list of all shareholders who individually or as a concerted group hold five (5) percent or more of the voting stock of the corporation.
+(7)
+A current list of all its officers and directors, including addresses and telephone numbers.
+(8)
+A list of all pertinent agreements or contracts, including pole use agreements, entered into by the grantee during the fiscal year in the conduct of its business under a franchise granted hereunder; actual copies of contracts shall be supplied upon request.
+(9)
+The names and both business and residential addresses and phone numbers of the franchisee's resident manager, engineer and/or consultant.
+(10)
+Copies of all rules and regulations promulgated by the grantee during the fiscal year in the conduct of its business.
+(b)
+The grantee shall file quarterly with the county, within forty-five (45) days of the end of each quarter, the following:
+(1)
+Quarterly financial statements containing the same information required for annual financial statements under paragraph (a)(2) above which shall be prepared in accordance with generally accepted accounting principles applied on a consistent basis and shall be accompanied by a certificate of the grantee's chief financial officer attesting to their completeness and accuracy.
+(2)
+A list of all complaints and CATV system down time received or experienced during the quarter. Such list shall also include complaint disposition and response time. For the purpose of this paragraph, certified copies of a complaint logbook reflecting all such incidents will suffice. The county shall have the right to review this complaint book at any time during the period.
+(c)
+All such reports and records shall be available for inspection by the public at the county courthouse, and such other locations as the board of commissioners may designate.
+(d)
+Each grantee shall simultaneously file with the chief executive a copy of each petition, application and communication transmitted by the grantee to, or received by the grantee from, any federal, state, local or other regulatory commissions or agencies having regulatory jurisdiction over any matters affecting cable television.
+(Code 1976, § 7-6084)
+Sec. 8-169. - Complaint procedure.
+(a)
+Each grantee shall maintain a business office in the county for the purpose of receiving complaints regarding the lack of service (including that for which advance payments were made under section 8-128), the quality of service, equipment malfunctions and similar matters, which office shall be open during regular business hours. Each grantee shall provide reasonable means to accept complaint calls on a twenty-four-hour basis. All service complaints shall be investigated and acted upon promptly. A subscriber's account shall be adjusted for loss or lack of service on a per-day basis for loss or lack of service in excess of forty-eight (48) hours. Each grantee shall keep a complaint record indicating the nature of each complaint, the date received, the disposition of the complaint and the date. This record shall be made available for inspection by the county upon request.
+(b)
+Each grantee shall furnish appropriate information to its subscribers concerning the procedures for making inquiries or complaints, including the address and local telephone number of both the grantee's representative and the county official to whom such inquiries or complaints are to be directed.
+(c)
+A complaint may be submitted to the chief executive containing the name and address of the complainant, the name of the grantee against which the complaint is made and a statement of facts upon which the complaint is based. The chief executive shall forward a copy to the grantee or may take the question up by correspondence with the grantee. Within such time as is prescribed by the chief executive, the grantee shall satisfy the complaint or advise the chief executive of its refusal or inability to do so. If the grantee satisfied the complaint, it shall so notify the chief executive. The chief executive will forward a copy of the notice of satisfaction to the complainant. If the system refuses or is unable to satisfy the complaint, it shall so notify the chief executive, and the chief executive will forward a copy of this notice to the complainant, with a statement of the procedure to be followed to further prosecute the complaint.
+(d)
+If a grantee satisfied any complaint brought to its attention by the chief executive, a statement must be filed with the chief executive setting forth when and how the complainant has been satisfied. When a complaint has not been satisfied, the complainant may file a complaint with the board of commissioners within six (6) months from the date of the notice from the chief executive. The board of commissioners may take such action with regard to the complaint as it considers appropriate. If no complaint is filed with the board of commissioners within the six-month period, the complainant will be deemed to have abandoned.
+(Code 1976, § 7-6085)
+Sec. 8-170. - Performance evaluation sessions.
+(a)
+Cable communications is a new and rapidly changing field and many regulatory, technical, financial, marketing and legal changes are anticipated. To assure an advanced and modern system for the county, each grantee shall participate in performance evaluation sessions relating to service rate structures, free or discontinued service, application of new technologies, system performances, services provided, programming offered, customer complaints, subscriber privacy, two-way channels, proposed amendments to this chapter or the franchise ordinance, underground progress, and judicial and FCC rulings. Other subjects may be added by resolution of the board of commissioners.
+(b)
+The county and each grantee shall hold a performance evaluation session within thirty (30) days after the third, sixth, ninth and twelfth anniversary dates of the adoption of the franchise ordinance.
+(c)
+Special performance evaluation sessions may be held at any time set by resolution of the board of commissioners.
+(d)
+All performance evaluation sessions shall be open to the public and notice thereof shall be made in accordance with section 8-15.
+(Code 1976, § 7-6086)
+Sec. 8-171. - Employment program of grantee.
+A grantee shall not refuse to hire or employ, nor bar or discharge from employment, nor discriminate against any person in compensation or in terms, conditions or privileges of employment because of sex, race, creed, color, age, physical condition or national origin. Each grantee shall implement an affirmative action program of equal opportunity or employment for all qualified persons.
+(Code 1976, § 7-6121)
+Sec. 8-172. - Preferential or discriminatory rates.
+A grantee shall not as to rates, charges, service facilities, rules, regulations or any other respect make or grant any undue preference or advantage to any person or subject any person to any undue prejudice or disadvantage; provided, however, installation and service charges may be waived or modified during promotional campaigns of the grantee. Notwithstanding the foregoing, charges to commercial subscribers and bulk subscribers may be on a negotiated or other basis as established by grantee from time to time.
+(Code 1976, § 7-6122)
+Sec. 8-173. - Monitoring of subscribers.
+Monitoring of the viewing patterns, selections or return path transmissions of any subscriber shall be prohibited without the written permission of the subscriber. Such written permission shall be contained in a separate document. Such written permission may be revoked at any time by the subscriber. Notwithstanding the foregoing, the grantee may conduct systemwide or individually addressed sweeps for the purpose of verifying system integrity, controlling return-path transmission or billing for pay services.
+(Code 1976, § 7-6123)
+Sec. 8-174. - Subscriber lists.
+A grantee shall not sell or otherwise make available to any person a list of the names or addresses of subscribers or a list which identifies the viewing habits or return-path transmissions of subscribers without the written permission of each subscriber whose name or address is listed; provided, however, that nothing contained herein shall prohibit a grantee from making the names, addresses and/or telephone numbers of individual subscribers available to collection agencies and/or others authorized by the grantee to collect delinquent payments owed to the grantee.
+(Code 1976, § 7-6124)
+Sec. 8-175. - Editorial control.
+No editorial control may be exercised by a grantee with regard to any access channel.
+(Code 1976, § 7-6125)
+Sec. 8-176. - Sale or repair of television receivers.
+Neither the grantee nor any of its officers, agents, employees and consultants shall directly or indirectly engage in the sale or leasing of television receivers, radio receivers or television or radio parts except such parts and accessories required for cable connection, such as converters and connection plugs and accessories, individually or with any person anywhere in the county, whether for charge or not and whether in the performance of duties of the grantee or otherwise.
+(Code 1976, § 7-6126)

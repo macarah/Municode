@@ -1,0 +1,444 @@
+Article 21.2 - Standards for Wireless Communication Facilities
+
+Section 21.2.1 - Purpose and Intent.
+The purpose of this ordinance is to establish guidelines for the siting of all wireless communications towers and antennas which will encourage the development of wireless communications while protecting the health, safety, and welfare of the public and maintaining the aesthetic integrity of the community. The goals of this ordinance are:
+(a)
+To protect residential areas and land uses from potential adverse impact of telecommunications towers, antenna support structures and wireless communications facilities;
+(b)
+To minimize the total number of towers and antennas within the community necessary to provide adequate personal wireless services to residents of Roswell;
+(c)
+To locate telecommunications towers and antennas in areas where adverse impacts on the community are minimized;
+(d)
+To encourage the design and construction of towers and antennas to minimize adverse visual impacts;
+(e)
+To avoid potential damage to property caused by wireless communications facilities by insuring that such structures are soundly and carefully designed, constructed, modified, maintained, and removed when no longer used or when determined to be structurally unsound;
+(f)
+To preserve those areas of significant scenic or historic merit;
+(g)
+To facilitate implementation of a master siting plan for the City of Roswell;
+(h)
+To promote and encourage the joint use of new and existing tower sites among service providers;
+(i)
+To enhance the ability of the providers of wireless communications services to deliver such services to the community effectively and efficiently.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.2 - Definitions.
+Accessory use. A tower and/or antenna is considered a principal use if located on any lot or parcel of land as the sole or primary structure, and is considered an accessory use if located on a lot or parcel shared with a different existing primary use or existing structure.
+Alternative tower structure means man-made trees, clock towers, bell steeples, light poles and similar alternative-design mounting structures, that in the opinion of council, are compatible with the natural setting and surrounding structures, and effectively camouflage or conceal the presence of antennas or towers.
+Antenna shall mean any exterior transmitting or receiving devices mounted on a tower, building or structure and used in communications that radiate or capture electromagnetic waves, digital signals, analog signals, radio, wireless telecommunications signals or other communications signals. Such definition does not include, for purposes of this article, radar antennas, amateur radio antennas, satellite earth stations, MMDS antennas, television receiving antennas and direct broadcast satellite dishes.
+Co-location is the placement of antennas of two (2) or more service providers on the same tower or accessory structure.
+Height when referring to a tower or other structure, means distance measured from the finished grade of the parcel to the highest point on the tower or other structure, including the base pad and any antenna.
+Historic or scenic views mean geographic areas in Roswell which have been formally designated as part of the historic district; have been included in any nature preserve or scenic preservation efforts; or have sufficient historic or scenic merit as determined by council and the historic preservation commission so as to require preservation. A scenic view may be from a stationary viewpoint or be seen as one travels along a roadway or path.
+Master siting plan refers to the siting map developed by council and approved by city council to identify appropriate sites for the location of wireless transmission facilities as may be amended from time to time. Such map may be derived from propriety information submitted by wireless providers.
+Microcell means a wireless communication facility comprised of antennas extending no more than four (4) feet above the structure to which it is attached, and with an area no larger than five hundred seventy-six (576) square inches (e.g. 3' x 1½') panel antenna or a two-foot diameter parabolic antenna as viewed from any one point.
+Preexisting towers and preexisting antennas mean any tower or antenna for which a building permit or special use permit has been properly issued prior to the effective date of this ordinance, including permitted towers or antennas that have not yet been constructed so long as such approval is current and not expired.
+Technically feasible and viable means capable of being provided through technology which has been demonstrated in actual applications (not simply through tests or experiments) to operate in a workable manner.
+Tower means any structure that is designed and constructed primarily for the purpose of supporting one (1) or more antennas, including self-supported or monopole towers. The term includes radio and television transmission towers, microwave towers, common-carrier towers, and cellular telephone or PCS towers.
+Wireless transmission facilities shall mean the buildings, cabinets, equipment and property, including but not limited to, generating and switching stations, repeaters, cables, wires, conduits, ducts, pedestals, antennas, towers, alternative tower structures, electronics and other appurtenances used to transmit, receive, distribute, provide or offer low-power mobile voice transmission, data transmission or other wireless communications by linking a wireless network of radio wave transmitting devices through a series of short range, contiguous cells that are part of an evolving cell grid.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.3 - Applicability.
+All new towers and antennas shall be subject to the regulations contained within this article except as provided in subsections (a) through (c), inclusive:
+(a)
+Public Property. Nothing in this article shall be read to prohibit a government owned tower from being located at a specific site when the tower is required to protect the public welfare or safety.
+(b)
+Amateur Radio; Receive-Only Antennas. This ordinance shall not govern any amateur radio tower, or the installation of any antenna, that is under seventy (70) feet in height and is owned and operated by a federally-licensed amateur radio station operator or is used exclusively for receive only antennas.
+(c)
+Pre-Existing Towers and Antennas. Any tower or antenna for which a permit has been properly issued prior to the effective date of this ordinance shall not be required to meet the provisions of this ordinance, other than the requirements of section 21.2.7. Any such towers or antennas shall be referred to in this ordinance as "preexisting towers" or "preexisting antennas." However, in the event a preexisting tower or antenna ceases to function, then the subject tower, antenna and related equipment shall be removed from the subject property within ninety (90) days.
+(2003-07-17, Amended, 07/07/2003, (c))
+Section 21.2.4 - General Requirements.
+(a)
+An application shall be required for the construction or placement of all new wireless transmission facilities and new co-location facilities, antennas or towers within the city limits. Approval of any application for the construction of a tower or placement of an antenna shall be based on consideration of the following factors:
+(1)
+Proximity to residential structures and residential district boundaries;
+(2)
+The proposed height of the tower;
+(3)
+Nature of uses on adjacent properties;
+(4)
+Surrounding topography, tree coverage and foliage;
+(5)
+Design of the facility, with particular reference to design characteristics which have the effect of reducing or eliminating visual obtrusiveness;
+(6)
+Proposed ingress and egress;
+(7)
+Availability of suitable existing towers, other structures, or alternative technologies (microcells) not requiring the use of towers or structures;
+(8)
+Demonstrated need for the telecommunications facility at the specified site;
+(9)
+Utilization of the City of Roswell Master Siting Plan, as amended.
+(b)
+All applications submitted to the community development department shall include a complete inventory of the applicant's existing wireless transmission facilities including towers and receivers/transmitters located within the City of Roswell or a one-half-mile radius surrounding the city limits, including each asset's location (plane coordinates), height and co-location usage or capabilities, and any special design features. The city shall utilize such information, subject to any restrictions on disclosure requested by the applicant, to promote co-location alternatives for other applicants.
+(c)
+At the time of filing the application for construction or placement of a wireless transmission facility, the applicant shall provide a site plan and information regarding tower or accessory structure location, neighboring uses and proposed landscaping as described below. Additional documentation to be submitted with the site plan and certified by an experienced radio frequency engineer shall delineate coverage and propagation zones, identify type of antenna and mounting location, specify type of band currently in use, and state co-location capabilities.
+(1)
+The scaled site plan shall clearly indicate the location, type and height of the proposed tower or accessory structure to be utilized, on-site land uses and zoning, adjacent land uses and zoning including proximity to historic or scenic view corridors, adjacent roadways, proposed means of access, setbacks for property lines, elevation drawings of the proposed tower, accessory structure and any other structures, topography, parking, and other information deemed necessary by council to assess compliance with this ordinance.
+(2)
+Legal description of the parent tract and leased parcel (if applicable).
+(3)
+A definition of the area of coverage and radio frequency goals to be served by the antenna or tower and the extent to which such antenna or tower is needed for coverage and/or capacity.
+(4)
+The setback distance between the proposed wireless transmission facility and the nearest residential unit or residentially used structure.
+(5)
+Structural integrity analysis where antennas and equipment will be attached to an existing structure
+(6)
+Landscaping shall be designed in such a way as to preserve existing mature growth and to provide in the determination of the design review board, a suitable buffer of plant materials that mitigates the view of the telecommunications facility and accessory structures from surrounding property.
+(d)
+Each application shall be accompanied by a fee of $1,000.00 to offset the costs associated with processing such application. In addition, applicants shall be responsible for independent engineering costs incurred by the city which exceed such fee up to an additional $2,000.00, if requested by the city. The applicant shall be responsible for additional fees throughout the process as described further within this ordinance. All fees are subject to change as amended by the mayor and city council by resolution.
+(e)
+Landscaping plans and the design and placement of the wireless transmission facility on an approved site shall require review and approval of the Roswell Design Review Board prior to issuance of a building permit to insure architectural and aesthetic compatibility with the surrounding area.
+(f)
+Prior to issuance of a building permit, compliance with Section 106 of the National Historic Preservation Act, 16 U.S.C. § 461 et seq. shall be demonstrated.
+(g)
+In approving any application, the zoning director, design review board, or council may impose additional conditions to the extent determined necessary to minimize adverse effects on adjoining properties.
+(Ord. No. 2014-02-03, § 1, Amended 2/24/2014; 2003-07-17, Amended, 07/07/2003)
+Section 21.2.5 - Development Requirements for Towers.
+(a)
+Towers may be located only in the following zoning districts subject to the restrictions and standards contained herein:
+AG-43, CX, CC, CH, IX, IL or CIV
+Wireless transmission facilities in OP, the other districts shall be alternative tower structures only; provided however, towers may be allowed on publicly owned property regardless of Unified Development Code (UDC) district.
+(b)
+No new wireless transmission facilities shall be located within two thousand five hundred (2,500) feet of any preexisting wireless transmission site unless such new facility is concealed through use of alternative tower structures or is otherwise camouflaged, and a variance is granted by the Mayor and Council of the City of Roswell.
+(c)
+All applicants seeking to erect a tower must demonstrate that no existing tower or structure can accommodate the proposed antenna(s). Evidence of an engineering nature shall be documented by the submission of a certification by an engineer. Such evidence may consist of the following:
+(1)
+No existing towers or structures are located within the geographic area required to meet applicant's engineering requirements.
+(2)
+No existing structure is of sufficient height to meet the applicant's engineering requirements.
+(3)
+No existing tower or structure has sufficient structural strength to support applicant's proposed antenna(s) and related equipment.
+(4)
+Applicant's proposed antenna(s) would cause electromagnetic interference with the antenna(s) on the existing tower or structure.
+(5)
+Such other limiting factor(s) as may be demonstrated by the applicant and verified by an engineer of the city's choosing.
+(d)
+Setbacks: Setbacks for towers and above-ground transmission facilities shall be as follows:
+(1)
+All transmission facilities, except buried portions, shall be set back from all adjoining properties zoned non-residential a distance equal to the underlying setback requirement in the applicable zoning district.
+(2)
+When a tower is adjacent to a residential use, the tower and entire transmission facility must be set back from the nearest residential lot line a distance equal to the height of the tower.
+(e)
+Unless otherwise specified by community development staff and the design review board, towers shall be enclosed by vinyl chain link security fencing not less than six (6) feet in height and shall be equipped with an appropriate anti-climbing device.
+(f)
+All new towers in excess of one hundred (100) feet which do not incorporate alternative design features must be designed and built in a manner that allows other entities to co-locate on the structure using the following guidelines:
+MAXIMUM TELECOMMUNICATIONS TOWER HEIGHTS
+EXPAND
+Zoning District Two Users Three Users Four Users
+I-1 120' 150' 180'
+C-3 120' 150' 150'
+  (g)
+All towers and their related structures shall maximize the use of building materials, colors, textures, screening and landscaping that, in the opinion of the design review board and staff, effectively blend the tower facilities within the surrounding natural setting and built environment. Where appropriate, towers shall be painted so as to reduce their visual obtrusiveness, subject to any applicable standards of the Federal Aviation Administration (FAA).
+(Ord. No. 2014-02-03, § 1, Amended 2/24/2014; 2003-12-32, Amended, 12/08/2003, (a) amended; 2003-07-17, Amended, 07/07/2003)
+Section 21.2.6 - Approval Process.
+(a)
+Subject to certification by the zoning director of compliance with the general requirements and standards enumerated above and with the consent of council, the following uses are subject to expedited approval, which shall be defined as approval within thirty (30) days of receiving applications, supporting engineering certifications and lease approval, if any, without the necessity of public hearing:
+(1)
+Antennas or towers located on property owned, leased, or otherwise controlled by the City of Roswell provided accessory structures are located underground, where technically feasible, and a license, permit or lease authorizing such tower is thereafter approved by City of Roswell.
+(2)
+Installing an antenna on an existing structure, so long as said installation is considered to be a stealth technology installation that does not significantly change the profile of the existing structure and so that the installation is not readily noticeable to the untrained eye. Such installations including cables leading to the antennas shall be painted to match the paint and colors on the existing structure and shall not protrude from the existing structure in a noticeable fashion.
+(3)
+Co-location by installing an antenna on any existing tower or alternative tower structure.
+(4)
+Replacing an existing tower with a new tower designed to accommodate two (2) or more users so long as such new tower does not exceed the height limitations of subsection 21.2.5(f) and setback requirements of this article are met. After the replacement tower is built, only one (1) tower shall remain on such site. Support equipment shall, where technically feasible, be located underground.
+(5)
+Locating any alternative tower structures provided accessory structures are located underground, where technically feasible, or otherwise incorporated into the alternative structure.
+(6)
+Installing any antenna or tower not to exceed the limitations contained in subsection 21.2.5(f) in any area zoned AG-43, CX, CC, CH, OP, IX, IL or CIV and provided accessory structures are located underground, where technically feasible, or shielded to the satisfaction of the design review board.
+(7)
+Installing any antenna or tower in a location identified on the City of Roswell Master Siting Plan, as amended, provided accessory structures are located underground where technically feasible, or shielded to the satisfaction of the design review board.
+If council determines that any application does not meet the general application requirements, development requirements and/or standards enumerated herein, or such application conflicts with the Master Siting Plan, approval of the application shall be denied provided substantial evidence exists to support such denial. Any aggrieved party may appeal the denial to the Fulton County Superior Court. For purposes of this section, an aggrieved party is one who demonstrates that his or her property will suffer special damage as a result of the decision complained of rather than merely some damage that is common to all property owners and citizens similarly situated.
+(b)
+If the proposed tower or antenna is not included under the above described expedited approval uses, or the application does not on its face satisfy the development standards and other criteria specified herein, then a public hearing before the mayor and council shall be required for the approval of the construction of a wireless transmission facility in all Unified Development Code (UDC) districts. Applicants shall apply for a public hearing through the community development department and pay the required $500.00 fee at such time. Applications, when complete, shall be placed on the next available agenda of the mayor and council at which Unified Development Code (UDC) matters are considered. At least thirty (30) days prior to any scheduled hearing, the community development department shall cause a sign to be posted on the property and the publication of a public notice in a newspaper of general circulation and notice sent to surrounding property owners as shown on the county tax records within one thousand (1,000) feet of the proposed tower or antenna. Said notice shall state the nature of the application, street location of the proposal and height of the proposed structure.
+Before approving an application for an "other use," the governing authority may impose Unified Development Code (UDC) conditions to the extent necessary to buffer or otherwise minimize any adverse effect of the proposed tower on adjoining properties. The factors considered in granting such a permit include those enumerated in sections 21.2.4 and 21.2.5. The mayor and council may waive one (1) or more of these criteria, if, in their discretion doing so will advance the goals of this article as stated in section 21.2.1. Approved applications shall be valid for one (1) year from the date of the approval by the mayor and council.
+(Ord. No. 2014-02-03, § 1, Amended 2/24/2014; 2010-03-06, § 10, Amended, 03/08/2010; 2003-07-17, Amended, 07/07/2003)
+Section 21.2.7 - Maintenance of Facilities.
+(a)
+All wireless transmission facilities and related landscaping shall be maintained by the facility owner in good condition, order, and repair so that they shall not endanger the life or property of any person, nor shall they be a blight upon the property.
+(b)
+All maintenance or construction on wireless transmission facilities shall be performed by persons employed by or under contract to the owner between the hours of 8:30 a.m. and 5:30 p.m. Monday through Friday except in cases of emergency or when an after-hours permit is obtained pursuant to section 5.1.13 of the City of Roswell Code of Ordinances. Access to facilities on city owned property shall be determined on a case-by-case basis by the department responsible for such property. The hours of access to city sites shall not exceed those specified above. Persons may not be present on site unless performing construction or maintenance at such site.
+(c)
+The owner or user of any telecommunications facility shall be required to submit a "facility in use certification" annually to the community development department. Any antenna or tower that is not operated for a continuous period of twelve (12) months or is not properly maintained shall be considered abandoned, and the owner of such antenna or tower shall remove same and any structures housing supporting equipment within ninety (90) days of receipt of notice from the governing authority of such abandonment. If such antenna or tower is not removed or returned to good condition within said ninety (90) days, the governing authority may remove such antenna or tower at the owner's expense.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.8 - Waiver of Requirements.
+No exception, waiver or variance to the conditions and requirements contained herein shall be granted unless expressly provided for in this ordinance, or the mayor and council find that the proposed tower or wireless transmission facility is necessary and essential to providing the wireless service.
+(2003-07-17, Amended, 07/07/2003)
+Sections 21.2.9, 21.2.10 - Reserved.
+Section 21.2.11 - Facilities Lease.
+The city council may approve facilities leases for the location of wireless transmission facilities and other telecommunications facilities upon city owned property. Neither this section, nor any other provision of this article shall be construed to create an entitlement or vested right in any person or entity of any type.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.12 - Lease Application.
+Any person that desires to solicit the city's approval of a facilities lease pursuant to this article shall file a lease proposal with the city's community development department which, in addition to the information required by section 21.2.4, shall include the following:
+(a)
+A description of the wireless transmission facilities or other equipment proposed to be located upon city property;
+(b)
+A description of the city property upon which the applicant proposes to locate wireless transmission facilities or other equipment;
+(c)
+Preliminary plans and specifications in sufficient detail to identify:
+(1)
+The location(s) of existing wireless transmission or telecommunications facilities or other equipment upon the city property, whether publicly or privately owned;
+(2)
+The location and source of electric and other utilities required for the installation and operation of the proposed facilities;
+(d)
+Accurate scaled conceptual drawings and diagrams of sufficient specificity to analyze the aesthetic impacts of the proposed wireless transmission facilities or other equipment;
+(e)
+Whether the applicant intends to provide cable service, video dialtone service or other video programming service from the facility, and sufficient information to determine whether such service is subject to cable franchising;
+(f)
+An accurate map showing the location of any wireless transmission or telecommunications facilities in the city that applicant intends to use or lease;
+(g)
+A landscaping bond in an amount to be determined by the city arborist;
+(h)
+Such other and further information as may be requested by the city; and
+(i)
+An application fee for lease negotiation in the amount of $250.00.
+Section 21.2.13 - Determination by the City.
+Recognizing that the city is under no obligation to grant a facilities lease for the use of city property, the city shall strive to consider and take action on applications for facilities leases within sixty (60) days after receiving a complete application for such a lease. When such action is taken, the city shall issue a written determination granting or denying the lease in whole or in part, applying the standards set forth below, or any other such criteria as the mayor and city council may choose to apply. If the lease application is denied, the determination shall include the reason for denial following review of these factors:
+(a)
+The capacity of the city property and public rights-of-way to accommodate the applicant's proposed facilities.
+(b)
+The capacity of the city property and public rights-of-way to accommodate additional utility and wireless transmission or telecommunications facilities if the lease is granted.
+(c)
+The damage or disruption, if any, of public or private facilities, improvements, service, travel or landscaping if the lease is granted.
+(d)
+The public interest in minimizing the cost and disruption of construction upon city property and within the public ways.
+(e)
+The service that applicant will provide to the community and region. The effect, if any, on public health, safety, and welfare if the lease requested is approved. The availability of alternate locations for the proposed facilities.
+(f)
+Whether the applicant is in compliance with applicable federal and state telecommunications laws, regulations and policies, including, but not limited to, the registration requirements administered by the Georgia Public Service Commission.
+(g)
+The potential of radio frequency and other interference with existing public and private telecommunications or other facilities located upon the city property.
+(h)
+The potential for radio frequency and other interference or impact upon residential, commercial, and other uses located within the vicinity of the city property.
+(i)
+Recommendations of the recreation commission with respect to impact on park and recreation activities.
+(j)
+Recommendations of the public works department with respect to maintenance and security of water towers.
+(k)
+Such other factors, such as aesthetics, as those factors may impact the community.
+(l)
+The maximization of co-location opportunities with other similar uses.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.14 - Agreement.
+No facilities lease shall be deemed to have been granted hereunder until the applicant and the city have executed a written agreement setting forth the particular terms and provisions under which the lessee has been granted the right to occupy and use the city property.
+Section 21.2.15 - Nonexclusive Lease.
+No facilities lease granted under this article shall confer any exclusive right, privilege, license, or franchise to occupy or use city property for delivery of telecommunications services or any other purposes nor shall approval of a lease entitle the applicant to a permit to construct or place a wireless transmission facility.
+Section 21.2.16 - Term of Facilities Lease.
+Unless otherwise specified in a lease agreement, a facilities lease granted hereunder shall be valid for a term of up to five (5) years, with the lessee granted a maximum of three (3) five-year renewal options which options shall also be subject to approval of council. The term of any such agreement shall not exceed twenty (20) years.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.17 - Rights Granted.
+No facilities lease granted under this article shall convey any right, title or interest in the city property, but shall be deemed a license only to use and occupy the city property for the limited purposes and term stated in the lease agreement. Further, no facilities lease shall be construed as any warranty of title.
+Section 21.2.18 - Interference with Other Users.
+No facilities lease shall be granted under this article unless it contains a provision which is substantially similar to the following:
+The city has previously entered into leases with other tenants for their equipment and wireless transmission facilities. Lessee acknowledges that the city is also leasing the city property for the purposes of transmitting and receiving telecommunication signals from the city property. The city, however, is not in any way responsible or liable for any interference with lessee's use of the city property which may be caused by the use and operation of any other tenant's equipment, even if caused by new technology. In the event that any other tenant's activities interfere with the lessee's use of the city property, and the lessee cannot work out this interference with the other tenants, the lessee may, upon thirty (30) days' notice to the city, terminate this lease and restore the city property to its original condition, reasonable wear and tear excepted. The lessee shall cooperate with all other tenants to identify the causes of and work towards the resolution of any electronic interference problem. In addition, the lessee agrees to eliminate any radio or television interference caused to city-owned facilities or surrounding residences at lessee's own expense and without installation of extra filters on city-owned equipment. Lessee further agrees to accept such interference as may be received from city operated telecommunications or other facilities located upon the city property subject to this lease.
+Section 21.2.19 - Ownership and Removal of Improvements.
+No facilities lease shall be granted under this article unless it contains a provision which states that all buildings, landscaping, and all other improvements, except telecommunications equipment, shall become the property of the city upon expiration or termination of the lease. In the event that the city requires removal of such improvements, such removal shall be accomplished at the sole expense of the lessee and completed within ninety (90) days after receiving notice from the city requiring removal of the improvements. In the event that wireless transmission facilities or other equipment are left upon city property after expiration or termination of the lease, they shall become the property of the city if not removed by the lessee upon thirty (30) days' written notice from the city.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.20 - Compensation to the City.
+Each facilities lease granted under this article is subject to the city's right, which is expressly reserved, to annually fix a fair and reasonable compensation to be paid for the rights granted to the lessee; provided, nothing in these sections shall prohibit the city and a lessee from agreeing to the compensation to be paid. Such compensation shall be payable in advance of the effective date of the lease and on or before January 31 of each calendar year. Any payments received after the due date shall include a late payment penalty of two (2) percent of the annual rental fee for each day or part thereof past the due date. The compensation shall be negotiated by the city administrator or designee, subject to the city council's final approval, based on the following criteria:
+(1)
+Comparable lease rates for other public or private property;
+(2)
+In the case land is leased, an appraisal opinion upon which the land and air space is rented;
+(3)
+If structure of another user is involved, any amount needed to reimburse that user; in addition to the above;
+(4)
+A yearly escalator rate commonly used in comparable leases;
+(5)
+The additional rent such structure may generate if leased to additional users (the city should be entitled to rent as a result of a sublease); and
+(6)
+Additional fees or charges may be established by the city to cover actual costs of processing the application, including engineering review, inspection and appraisal cost, legal, administration of the agreement, providing on-site services, and/or other direct or indirect costs.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.21 - Amendment of Facilities Lease.
+Except as provided within an existing lease agreement, a new lease application and lease agreement shall be required of any telecommunications carrier or other entity that desires to expand, modify, or relocate its telecommunications facilities or other equipment located upon city property. If ordered by the city to locate or relocate its telecommunications facilities or other equipment on the city property, the city shall grant a lease amendment without further application. Such amendment must be approved by council.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.22 - Renewal Application.
+A lessee that desires to exercise a renewal option in its facilities lease under this article shall, not more than one hundred eighty (180) days nor less than one hundred twenty (120) days before expiration of the current facilities lease term, file an application with the city for renewal of its facilities lease which shall include the following:
+(a)
+The information required pursuant to section 21.2.12 of this article;
+(b)
+Any information required pursuant to the facilities lease agreement between the city and the lessee;
+(c)
+A report certified by a radio frequency engineer that the site is in compliance with current FCC radio emission standards;
+(d)
+All deposits or charges required pursuant to this article; and
+(e)
+An application fee which shall be set by the city council as referenced in this ordinance or as amended from time to time by resolution.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.23 - Renewal Determination.
+Recognizing that the city is under no obligation to grant a renewal of a facilities lease for the use of city property, the city shall strive to consider and take action on applications for renewal of such leases within thirty (30) days after receiving a complete application for such a lease renewal. When such action is taken, the city shall issue a written determination granting or denying the lease renewal in whole or in part, applying the standards set forth below, or any other such criteria as the city council may choose to apply. If the renewal application is denied, the written determination shall include the reason for denial, such denial may be made after review of these factors or on other grounds as determined by mayor and council:
+(a)
+The financial and technical ability of the applicant.
+(b)
+The legal ability of the applicant.
+(c)
+The continuing capacity of the city property to accommodate the applicant's existing facilities.
+(d)
+The applicant's compliance with the requirements of this article and the lease agreement.
+(e)
+Applicable federal, state and local telecommunications laws, rules and policies.
+(f)
+Continued need for the facility in light of technological advances and current industry standards.
+(g)
+Such other factors as may demonstrate that the continued grant to use the city property will serve the community interest.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.24 - Obligation to Cure as a Condition of Renewal.
+No facilities lease shall be renewed until any ongoing violations or defaults in the lessee's performance of the lease agreement, or of the requirements of these sections, have been cured, or a plan detailing the corrective action to be taken by the lessee has been approved by the city. In no event shall a facilities lease be renewed if lessee fails to cure.
+(2003-07-17, Amended, 07/07/2003)
+Section 21.2.25 - Small Cell Technology.
+(a)
+Purpose and compliance. O.C.G.A. §§ 32-4-92(a)(10) and 32-4-42(6) authorizes the City of Roswell, Georgia (the "city") to establish reasonable regulations for the installation, construction, maintenance, renewal, removal, and relocation of pipes, mains, conduits, cables, wires, poles, towers, traffic and other signals, and other equipment, facilities, or appliances in, on, along, over, or under the public roads of the city. Further, 47 U.S.C. § 253(c) provides that the city has authority to manage its public rights-of-way. Finally, the Georgia Streamlining Wireless Facilities and Antennas Act., O.C.G.A. tit. 36, ch. 66C (the "SWFAA"), addresses the placement of small wireless facilities in the public rights-of-way of the city.
+The city finds it is in the best interest of the city and its residents and businesses to establish requirements, specifications reasonable conditions regarding placement of small wireless facilities, poles in the public rights-of-way. These requirements, specifications and conditions are adopted in order to protect the public health, safety and welfare of the residents and businesses of the city and to reasonably manage and protect the public rights-of-way and its uses in the city.
+The objective of this ordinance is to (i) implement the SWFAA and (ii) ensure use of the public rights-of-way is consistent with the design, appearance and other features of nearby land uses, protects the integrity of historic, cultural and scenic resources and does not harm residents' quality of life.
+(b)
+Definitions. Unless defined below, terms used in this ordinance shall have the meanings given them in O.C.G.A. § 36-66C-2.
+(1)
+Antenna means: (i) communications equipment that transmits, receives, or transmits and receives electromagnetic radio frequency signals used in the provision of wireless services or other wireless communications; or (ii) communications equipment similar to equipment described in part (i) used for the transmission, reception, or transmission and reception of surface waves. Such term shall not include television broadcast antennas, antennas designed for amateur radio use, or satellite dishes for residential or household purposes.
+(2)
+Applicable codes means uniform building, fire, safety, electrical, plumbing, or mechanical codes adopted by a recognized national code organization to the extent such codes have been adopted by the State of Georgia or the city or are otherwise applicable in the city.
+(3)
+Applicant means any person that submits an application.
+(4)
+Application means a written request submitted by an applicant to the city for a permit to: (i) collocate a small wireless facility in a right-of-way; or (ii) install, modify, or replace a pole or decorative pole in a right-of-way on which a small wireless facility is or will be located.
+(5)
+Authority pole means a pole owned, managed, or operated by or on behalf of the city. Such term shall not include poles, support structures, electric transmission structures, or equipment of any type owned by an electric supplier.
+(6)
+Collocate or collocation means to install, mount, modify, or replace a small wireless facility on or adjacent to a pole, decorative pole, or support structure.
+(7)
+Communications facility means the set of equipment and network components, including wires and cables and associated equipment and network components, used by a communications service provider to provide communications services.
+(8)
+Communications service provider means a provider of communications services.
+(9)
+Communications services means cable service as defined in 47 U.S.C. § 522(6); telecommunications service as defined in 47 U.S.C. § 153(53); information service as defined in 47 U.S.C. § 153(24), as each such term existed on January 1, 2019; or wireless services.
+(10)
+Consolidated application means an application for the collocation of multiple small wireless facilities on existing poles or support structures or for the installation, modification, or replacement of multiple poles and the collocation of associated small wireless facilities.
+(11)
+Decorative pole means an authority pole that is specially designed and placed for aesthetic purposes.
+(12)
+Electric supplier means any electric light and power company subject to regulation by the Georgia Public Service Commission, any electric membership corporation furnishing retail service in this state, and any municipality which furnishes such service within this state.
+(13)
+Eligible facilities request means an eligible facilities request as set forth in 47 C.F.R. § 1.40001(b)(3), as it existed on January 1, 2019.
+(14)
+FCC means the Federal Communications Commission of the United States.
+(15)
+Fee means a one-time, nonrecurring charge based on time and expense.
+(16)
+Historic district means: (i) any district, site, building, structure, or object included in, or eligible for inclusion in, the National Register of Historic Places maintained by the secretary of the interior of the United States in accordance with Section VI.D.1.a.i—v of the Nationwide Programmatic Agreement codified by 47 C.F.R. Part 1; (ii) any area designated as a historic district under Article 2 of Chapter 10 of Title 44, the Georgia Historic Preservation Act; or (iii) any area designated as a historic district or property by the City of Roswell prior to April 26, 2019.
+(17)
+Law means and includes any and all federal, state, or local laws, statutes, common laws, codes, rules, regulations, orders, or ordinances.
+(18)
+Micro wireless facility means a small wireless facility not larger in dimension than twenty-four (24) inches in length, fifteen (15) inches in width, and twelve (12) inches in height that has an exterior antenna, if any, no longer than eleven (11) inches.
+(19)
+Permit means a written authorization, in electronic or hard copy format, required to be issued by the city to initiate, continue, or complete the collocation of a small wireless facility or the installation, modification, or replacement of a pole or decorative pole upon which a small wireless facility is collocated.
+(20)
+Person means an individual, corporation, limited liability company, partnership, association, trust, or other entity or organization, including an authority.
+(21)
+Pole means a vertical pole such as a utility, lighting, traffic, or similar pole made of wood, concrete, metal, or other material that is lawfully located or to be located within a right-of-way, including without limitation a replacement pole and an authority pole. Such term shall not include a support structure, decorative pole, or electric transmission structure.
+(22)
+Rate means a recurring charge.
+(23)
+Reconditioning work means the activities associated with substantially painting, reconditioning, improving, or repairing authority poles.
+(24)
+Replace, replacement or replacing means to replace a pole or decorative pole with a new pole or a new decorative pole, similar in design, size, and scale to the existing pole or decorative pole consistent with 47 C.F.R. § 1.40001(b)(7) as it existed on January 1, 2019, in order to address limitations of, or change requirements applicable to, the existing pole to structurally support the collocation of a small wireless facility.
+(25)
+Replacement work means the activities associated with replacing an authority pole.
+(26)
+Right-of-way means, generally, property or any interest therein, whether or not in the form of a strip, which is acquired for or devoted to a public road; provided, however, that such term shall apply only to property or an interest therein that is under the ownership or control of the city and shall not include property or any interest therein acquired for or devoted to an interstate highway or the public rights, structures, sidewalks, facilities, and appurtenances of buildings for public equipment and personnel used for or engaged in administration, construction, or maintenance of public roads or research pertaining thereto or scenic easements and easements of light, air, view and access.
+(27)
+Small wireless facility means radio transceivers; surface wave couplers; antennas; coaxial, fiber optic, or other cabling; power supply; backup batteries; and comparable and associated equipment, regardless of technological configuration, at a fixed location or fixed locations that enable communication or surface wave communication between user equipment and a communications network and that meet both of the following qualifications: (i) each wireless provider's antenna could fit within an enclosure of no more than six (6) cubic feet in volume; and (ii) all other wireless equipment associated with the facility is cumulatively no more than twenty-eight (28) cubic feet in volume, measured based upon the exterior dimensions of height by width by depth of any enclosure that may be used. The following types of associated ancillary equipment are not included in the calculation of the volume of all other wireless equipment associated with any such facility: electric meters; concealment elements; telecommunications demarcation boxes; grounding equipment; power transfer switches; cut-off switches; and vertical cable runs for connection of power and other services. Such term shall not include a pole, decorative pole, or support structure on, under, or within which the equipment is located or collocated or to which the equipment is attached and shall not include any wireline backhaul facilities or coaxial, fiber optic, or other cabling that is between small wireless facilities, poles, decorative poles, or support structures or that is not otherwise immediately adjacent to or directly associated with a particular antenna.
+(28)
+State means the State of Georgia.
+(29)
+Support structure means a building, billboard, water tank, or any other structure to which a small wireless facility is or may be attached. Such term shall not include a decorative pole, electric transmission structure, or pole.
+(30)
+Wireless infrastructure provider means any person, including a person authorized to provide telecommunications services in this state, that builds, installs, or operates small wireless facilities, poles, decorative poles, or support structures on which small wireless facilities are or are intended to be used for collocation but that is not a wireless services provider.
+(31)
+Wireless provider means a wireless infrastructure provider or a wireless services provider.
+(32)
+Wireless services means any services provided to the public using licensed or unlicensed spectrum, including the use of Wi-Fi, whether at a fixed location or mobile.
+(33)
+Wireless services provider means a person that provides wireless services.
+(34)
+Wireline backhaul facility means an aboveground or underground wireline facility used to transport communications data from a telecommunications demarcation box associated with small wireless facility to a network.
+In the event that any federal or state law containing definitions used in this ordinance is amended, the definition in the referenced section, as amended, shall control.
+(c)
+Permits.
+(1)
+A permit is required to collocate a small wireless facility in the public right-of-way or to install, modify, or replace a pole or a decorative pole in the public right-of-way. A permit is not required to perform the activities described in O.C.G.A. § 36-66C-6(e) or (f).
+(2)
+Any person seeking to collocate a small wireless facility in the public right-of-way or to install, modify, or replace a pole or a decorative pole in the public right-of-way shall submit an application to City of Roswell Transportation Department for a permit. Applications are available from the City of Roswell Transportation Department. Any material change to information contained in an application shall be submitted in writing to the City of Roswell Transportation Department within thirty (30) days after the events necessitating the change.
+(3)
+Each application for a permit shall include the maximum application fees permitted under O.C.G.A. § 36-66C-5(a)(l), (a)(2) and (a)(3). Such maximum application fees shall automatically increase on January 1 of each year beginning January 1, 2021, as provided under O.C.G.A. § 36-66C-5(b).
+(4)
+The City of Roswell Transportation Department shall review applications for permits according to the timelines and using the procedures identified in O.C.G.A. §§ 36-66C-7 and 36-66C-13.
+(5)
+Applications for permits shall be approved except as follows:
+a.
+In order to receive a permit to install a pole or replace a decorative pole, the applicant must have determined after diligent investigation that it cannot meet the service objectives of the permit by collocating on an existing pole or support structure on which: (i) the applicant has the right to collocate subject to reasonable terms and conditions; and (ii) such collocation would not impose technical limitations or significant additional costs. The applicant shall certify that it has made such a determination in good faith, based on the assessment of a licensed engineer, and shall provide a written summary of the basis for such determination.
+b.
+The City of Roswell Transportation Department may deny an application for a permit upon any of the conditions identified in O.C.G.A. § 36-66C-70.
+c.
+For applications for new poles in the public right-of-way in areas zoned for residential use, the City of Roswell Transportation Department may propose an alternate location in the public right-of-way within one hundred (100) feet of the location set forth in the application, and the wireless provider shall use the City of Roswell Transportation Department proposed alternate location unless the location imposes technical limits or significant additional costs. The wireless provider shall certify that it has made such a determination in good faith, based on the assessment of a licensed engineer, and it shall provide a written summary of the basis for such determination.
+(6)
+A permit issued under this section shall authorize such person to occupy the public rights-of-way to: (i) collocate a small wireless facility on or adjacent to a pole or a support structure that does not exceed the limitations set forth in O.C.G.A. § 36-66C-7(h)(3) or on or adjacent to a decorative pole in compliance with O.C.G.A. § 36-66C-12; and (ii) install, modify, or replace a pole or decorative pole for collocation of a small wireless facility that does not exceed the limitations set forth in O.C.G.A. § 36-66C-7(h)(1) and (h)(2).
+(7)
+Upon the issuance of a permit under this ordinance, and on each anniversary of such issuance, every person issued a permit shall submit to the city the maximum annual payments permitted under O.C.G.A. § 36-66C-5(a)(4) and (a)(5); provided, however, that if such person removes its small wireless facilities form the public rights-of-way pursuant to O.C.G.A. § 36-66C-5(e), then such person shall be responsible for the pro rata portion of the annual payment based on the number of days of occupation since the last annual payment. Upon making such pro rata payment and removal of the small wireless facilities, the person's annual payment obligations under this section shall cease as of the date of the actual removal. The maximum annual payments shall automatically increase on January 1 of each year beginning January 1, 2021, as provided under O.C.G.A. § 36-66C-5(b).
+(8)
+Any person issued a permit shall pay the fees identified in O.C.G.A. § 36-66C-5(a)(6) and (a)(7), as applicable.
+(9)
+The city may revoke a permit issued pursuant to this section if the wireless provider or its equipment placed in the public right-of-way under that permit subsequently is not in compliance with any provision of this ordinance or the Georgia Streamlining Wireless Facilities and Antennas Act. Upon revocation, the city may proceed according to this ordinance.
+(10)
+If a wireless provider occupies the public rights-of-way without obtaining a permit required by this section or without complying with the SWFAA, then the City may, at the sole discretion of the city, restore the right-of-way, to the extent practicable in the reasonable judgment of the city, to its condition prior to the unpermitted collocation or installation and to charge the responsible wireless provider the reasonable, documented cost of the city in doing so, plus a penalty not to exceed one thousand dollars ($1,000.00). The city may suspend the ability of the wireless provider to receive any new permits from the city under this section until the wireless provider has paid the amount assessed for such restoration costs and the penalty assessed, if any; provided, however, that the city may not suspend such ability of any applicant that has deposited the amount in controversy in escrow pending an adjudication of the merits of the dispute by a court of competent jurisdiction.
+(11)
+All accepted applications for permits shall be publicly available subject to the limitations identified in O.C.G.A. § 36-66C-6(c).
+(12)
+An applicant may file a consolidated application related to multiple small wireless facilities, poles or decorative poles so long as such consolidated application meets the requirements of O.C.G.A. § 36-66C-13.
+(13)
+Activities authorized under a permit shall be completed within the timelines provided in O.C.G.A. § 36-66C-7(k)(2).
+(14)
+Issuance of a permit authorizes the applicant to: (i) undertake the collocation, installation, modification or replacement approved by the permit and (ii) operate and maintain the small wireless facilities and any associated pole covered by the permit for a period of ten (10) years.
+(15)
+Permits shall be renewed following the expiration of the term identified in [subsection] (14) upon the terms and conditions identified in O.C.G.A. § 36-66C-7(k)(2)(B).
+(16)
+If an application for a permit seeks to collocate small wireless facilities on authority poles in the public rights-of-way, then the city shall, within sixty (60) days of receipt of the completed application: (i) provide a good faith estimate for any make-ready work necessary to enable the authority pole to support the proposed facility; or (ii) notify the wireless provider that the wireless provider will be required to perform the make-ready work. Any make-ready work performed by the city shall be completed pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(n).
+(d)
+Removal; relocation; reconditioning; replacement; abandonment.
+(1)
+A person may remove its small wireless facilities from the public rights of according to the procedures of O.C.G.A. § 36-66C-5(e).
+(2)
+In the event of a removal under this section, the right-of-way shall be, to the extent practicable in the reasonable judgment of the city restored to its condition prior to the removal. If a person fails to return the right-of-way, to the extent practicable in the reasonable judgment of the city to its condition prior to the removal within ninety (90) days of the removal, the city may, at the sole discretion of the city, restore the right-of-way to such condition and charge the person the city's reasonable, documented cost of removal and restoration, plus a penalty not to exceed five hundred dollars ($500.00). The city may suspend the ability of the person to receive any new permits under this section until the person has paid the amount assessed for such restoration costs and the penalty assessed, if any; provided, however, that the city will not suspend such ability of any person that has deposited the amount in controversy in escrow with the city pending an adjudication of the merits of the dispute by a court of competent jurisdiction.
+(3)
+If, in the reasonable exercise of police powers, the city determines: (i) a pole or support structure unreasonably interferes with the widening, repair, reconstruction, or relocation of a public road or highway, or (ii) relocation of poles, support structures, or small wireless facilities is required as a result of a public project, the wireless provider shall relocate such poles, support structures, or small wireless facilities pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(l). If the wireless provider fails to relocate a pole, support structure or small wireless facility or fails to provide a written good faith estimate of the time needed to relocate the pole, support structure or small wireless within the time period prescribed in O.C.G.A. § 36-66C-7(l), the city make take the actions authorized by O.C.G.A. § 36-66C-7(o), in addition to any other powers under applicable law.
+(4)
+The city shall recondition and replace authority poles consistent with the provisions of O.C.G.A. § 36-66C-7(m). Wireless providers shall accommodate and cooperate with reconditioning and replacement consistent with the provisions of O.C.G.A. § 36-66C-7(m).
+(5)
+A wireless provider must notify the city of its decision to abandon any small wireless facility, support structure or pole pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(p)(1). The wireless provider shall perform all acts and duties identified in O.C.G.A. § 36-66C-7(p) regarding abandonment. The city may take all actions and exercise all powers authorized under O.C.G.A. § 36- 66C-7(p) upon abandonment, in addition to any other powers under applicable law.
+(e)
+Standards.
+(1)
+Small wireless facilities and new, modified, or replacement poles to be used for collocation of small wireless facilities may be placed in the public right-of-way as a permitted use: (i) upon a receipt of a permit under this section; (ii) subject to applicable codes; and (iii) so long as such small wireless facilities and new, modified, or replacement poles to be used for collocation of small wireless facilities comply with the appropriate provisions of O.C.G.A. § 36-66C-7(h).
+(2)
+New, modified, or replacement poles installed in the right-of-way in a historic district and in an area zoned primarily for residential use shall not exceed fifty (50) feet above ground level.
+(3)
+Each new, modified, or replacement pole installed in the right-of-way that is not in a historic district or in an area zoned primarily for residential use shall not exceed the greater of:
+a.
+Fifty (50) feet above ground level; or
+b.
+Ten (10) feet greater in height above ground level than the tallest existing pole in the same public right-of-way in place as of January 1, 2019, and located within five hundred (500) feet of the new proposed pole;
+(4)
+New small wireless facilities in the public right-of-way and collocated on an existing pole or support structure shall not exceed more than ten (10) feet above the existing pole or support structure.
+(5)
+New small wireless facilities in the public right-of-way collocated on a new or replacement pole under this section may not extend above the top of such poles.
+(6)
+A decorative pole should only be located where an existing pole can be removed and replaced, or at a new location where the city has identified that a streetlight is necessary.
+(7)
+Unless it is determined that another design is less intrusive, or placement is required under applicable law, small wireless facilities shall be concealed as follows:
+a.
+Antennas located at the top of poles and support structures shall be incorporated into the pole or support structure, or placed within shrouds of a size such that the antenna appears to be part of the pole or support structure;
+b.
+Antennas placed elsewhere on a pole or support structure shall be integrated into the pole or support structure, or be designed and placed to minimize visual impacts.
+c.
+Radio units or equipment cabinets holding radio units and mounted on a pole shall be placed as high as possible, located to avoid interfering with, or creating any hazard to, any other use of the public rights-of-way, and located on one (1) side of the pole. Unless the radio units or equipment cabinets can be concealed by appropriate traffic signage, radio units or equipment cabinets mounted below the communications space on poles shall be designed so that the largest dimension is vertical, and the width is such that the radio units or equipment cabinets are minimally visible from the opposite side of the pole on which they are placed.
+d.
+Wiring and cabling shall be neat and concealed within or flush to the pole or support structure, ensuring concealment of these components to the greatest extent possible.
+(8)
+Notwithstanding any provision of this ordinance to the contrary, an applicant may collocate a small wireless facility within a historic district, and may place or replace a pole within a historic district, only upon satisfaction of the following: (i) issuance of a permit under this section and (ii) compliance with applicable codes.
+(9)
+Notwithstanding any provision of this ordinance to the contrary, an applicant may collocate a small wireless facility on a decorative pole, or may replace a decorative pole with a new decorative pole, in the event the existing decorative pole will not structurally support the attachment, only upon satisfaction of the following: (i) issuance of a permit under this section and (ii) compliance with applicable codes.
+( Ord. No. 2019-10-31 , Amended, 10/28/2019; 2016-10-19 , § 1, Added 10-10-2016)

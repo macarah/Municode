@@ -1,0 +1,132 @@
+ARTICLE VIII. - WIRELESS FACILITIES AND ANTENNAS
+
+Sec. 98-227. - Purpose and compliance.
+(a)
+O.C.G.A. § 32-4-92(a)(10) authorizes the city, a municipality organized and existing under the laws and authorities of the State of Georgia (the "city") to establish reasonable regulations for the installation, construction, maintenance, renewal, removal, and relocation of pipes, mains, conduits, cables, wires, poles, towers, traffic and other signals, and other equipment, facilities, or appliances in, on, along, over, or under the public roads of the city. Further, 47 U.S.C. § 253(c) provides that the city has authority to manage its public rights of way. Finally, the Georgia Streamlining Wireless Facilities and Antennas Act., O.C.G.A. Title 36, Chapter 66C (the "SWFAA"), addresses the placement of small wireless facilities in the public rights of way of the city.
+(b)
+The city finds it is in the best interest of the city and its residents and businesses to establish requirements, specifications and reasonable conditions regarding placement of small wireless facilities, and poles in the public rights of way. These requirements, specifications and conditions are adopted in order to protect the public health, safety and welfare of the residents and businesses of the city and to reasonably manage and protect the public rights of way and its uses in the city.
+(c)
+The objective of this article is to (i) implement the SWFAA and (ii) ensure use of the public rights of way is consistent with the design, appearance and other features of nearby land uses, protects the integrity of historic, cultural and scenic resources and does not harm residents' quality of life. [4]
+(Ord. No. 2019-02 , art. I(exh. A), 9-10-2019)
+Footnotes:
+--- (4) ---
+Note— 1 This list of considerations comes from ¶ 86 of FCC 2018 Small Cell Order.
+
+Sec. 98-228. - Definitions.
+(a)
+Unless defined below, terms used in this article shall have the meanings given them in O.C.G.A. § 36-66C-2.
+(b)
+In the event that any federal or state law containing definitions used in this article is amended, the definition in the referenced section, as amended, shall control.
+(Ord. No. 2019-02 , art. I(exh. A), 9-10-2019)
+Sec. 98-229. - Permits.
+(a)
+A permit is required to collocate a small wireless facility 2 in the public right of way or to install, modify, or replace a pole or a decorative pole in the public right of way. A permit is not required to perform the activities described in O.C.G.A. § 36-66C-6(e) or (f).
+(b)
+Any person seeking to collocate a small wireless facility [5] in the public right of way or to install, modify, or replace a pole or a decorative pole in the public right of way shall submit an application to the planning and development office of the city, located at 215 N. Broad Street, Monroe, Georgia, 30655, (the "authority") for a permit. Applications are available from the authority. Any material change to information contained in an application shall be submitted in writing to the authority within 30 days after the events necessitating the change.
+(c)
+Each application for a permit shall include the maximum application fees permitted under O.C.G.A. § 36-66C-5(a)(1), (a)(2) and (a)(3). Such maximum application fees shall automatically increase on January 1 of each year beginning January 1, 2021, as provided under O.C.G.A. § 36-66C-5(b).
+(d)
+The authority shall review applications for permits according to the timelines and using the procedures identified in O.C.G.A. §§ 36-66C-7 and 36-66C-13.
+(e)
+Applications for permits shall be approved except as follows:
+(1)
+In order to receive a permit to install a pole or replace a decorative pole, the applicant must have determined after diligent investigation that it cannot meet the service objectives of the permit by collocating on an existing pole or support structure on which: (i) the applicant has the right to collocate subject to reasonable terms and conditions; and (ii) such collocation would not impose technical limitations or significant additional costs. The applicant shall certify that it has made such a determination in good faith, based on the assessment of a licensed engineer, and shall provide a written summary of the basis for such determination.
+(2)
+The authority may deny an application for a permit upon any of the conditions identified in O.C.G.A. § 36-66C-7(j).
+(3)
+For applications for new poles in the public right of way in areas zoned for residential use, the authority may propose an alternate location in the public right of way within 100 feet of the location set forth in the application, and the wireless provider shall use the authority proposed alternate location unless the location imposes technical limits or significant additional costs. The wireless provider shall certify that it has made such a determination in good faith, based on the assessment of a licensed engineer, and it shall provide a written summary of the basis for such determination.
+(f)
+A permit issued under this section 98-229 shall authorize such person to occupy the public rights of way to: (i) collocate a small wireless facility on or adjacent to a pole or a support structure that does not exceed the limitations set forth in O.C.G.A. § 36-66C-7(h)(3) or on or adjacent to a decorative pole in compliance with O.C.G.A. § 36-66C-12; and (ii) install, modify, or replace a pole or decorative pole for collocation of a small wireless facility that does not exceed the limitations set forth in O.C.G.A. § 36-66C-7(h)(1) and (h)(2).
+(g)
+Upon the issuance of a permit under this article, and on each anniversary of such issuance, every person issued a permit shall submit to the city the maximum annual payments permitted under O.C.G.A. § 36-66C-5(a)(4) and (a)(5); provided, however, that if such person removes its small wireless facilities form the public rights of way pursuant to O.C.G.A. § 36-66C-5(e), then such person shall be responsible for the pro rata portion of the annual payment based on the number of days of occupation since the last annual payment. Upon making such pro rata payment and removal of the small wireless facilities, the person's annual payment obligations under this section shall cease as of the date of the actual removal. The maximum annual payments shall automatically increase on January 1 of each year beginning January 1, 2021, as provided under O.C.G.A. § 36-66C-5(b).
+(h)
+Any person issued a permit shall pay the fees identified in O.C.G.A. § 36- 66C-5(a)(6) and (a)(7), as applicable.
+(i)
+The city may revoke a permit issued pursuant to this section 98-229 if the wireless provider or its equipment placed in the public right of way under that permit subsequently is not in compliance with any provision of this article or the Georgia Streamlining Wireless Facilities and Antennas Act. Upon revocation, the city may proceed according to section 98-229.
+(j)
+If a wireless provider occupies the public rights of way without obtaining a permit required by section 98-229 or without complying with the SWFAA, then the city may, at the sole discretion of the city, restore the right of way, to the extent practicable in the reasonable judgment of the city, to its condition prior to the unpermitted collocation or installation and to charge the responsible wireless provider the reasonable, documented cost of the city in doing so, plus a penalty not to exceed $1,000.00. [6] The city may suspend the ability of the wireless provider to receive any new permits from the city under section 98-229 until the wireless provider has paid the amount assessed for such restoration costs and the penalty assessed, if any; provided, however, that the city may not suspend such ability of any applicant that has deposited the amount in controversy in escrow pending an adjudication of the merits of the dispute by a court of competent jurisdiction.
+(k)
+All accepted applications for permits shall be publicly available subject to the limitations identified in O.C.G.A. § 36-66C-6(c).
+(l)
+An applicant may file a consolidated application related to multiple small wireless facilities, poles or decorative poles so long as such consolidated application meets the requirements of O.C.G.A. § 36-66C-13.
+(m)
+Activities authorized under a permit shall be completed within the timelines provided in O.C.G.A. § 36-66C-7(k)(2).
+(n)
+Issuance of a permit authorizes the applicant to: (i) undertake the collocation, installation, modification or replacement approved by the permit and (ii) operate and maintain the small wireless facilities and any associated pole covered by the permit for a period of ten years.
+(o)
+Permits shall be renewed following the expiration of the term identified in section 98-229(14) upon the terms and conditions identified in O.C.G.A. § 36-66C-7(k)(2)(B).
+(p)
+If an application for a permit seeks to collocate small wireless facilities on authority poles in the public rights of way, then the city shall, within 60 days of receipt of the completed application: (i) provide a good faith estimate for any make-ready work necessary to enable the authority pole to support the proposed facility; or (ii) notify the wireless provider that the wireless provider will be required to perform the make-ready work. Any make-ready work performed by the city shall be completed pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(n).
+(Ord. No. 2019-02 , art. I(exh. A), 9-10-2019)
+Footnotes:
+--- (5) ---
+Note— 2 Under SWFAA, collocation can be on or adjacent to: (i) a pole or decorative pole or (ii) a support structure. By definition, poles and decorative poles are in the right of way. Support structures may be located outside of the right of way. Permitting of support structures is not part of this process. See O.C.G.A. § 36-66C-6(l).
+
+--- (6) ---
+Note— 3 Penalty authorized under O.C.G.A. § 36-66C-6(b).
+
+Sec. 98-230. - Removal; relocation; reconditioning; replacement; and abandonment.
+(a)
+A person may remove its small wireless facilities from the public rights of according to the procedures of O.C.G.A. § 36-66C-5(e).
+(b)
+In the event of a removal under section 98-230(1), the right of way shall be, to the extent practicable in the reasonable judgment of the city, restored to its condition prior to the removal. If a person fails to return the right of way, to the extent practicable in the reasonable judgment of the city, to its condition prior to the removal within 90 days of the removal, the city may, at the sole discretion of the city, restore the right of way to such condition and charge the person the city's reasonable, documented cost of removal and restoration, plus a penalty not to exceed $500.00. [7] The city may suspend the ability of the person to receive any new permits under section 98-229 until the person has paid the amount assessed for such restoration costs and the penalty assessed, if any; provided, however, that the city will not suspend such ability of any person that has deposited the amount in controversy in escrow pending an adjudication of the merits of the dispute by a court of competent jurisdiction.
+(c)
+If, in the reasonable exercise of police powers, the city determines: (i) a pole or support structure unreasonably interferes with the widening, repair, reconstruction, or relocation of a public road or highway, or (ii) relocation of poles, support structures, or small wireless facilities is required as a result of a public project, the wireless provider shall relocate such poles, support structures, or small wireless facilities pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(l). If the wireless provider fails to relocate a pole, support structure or small wireless facility or fails to provide a written good faith estimate of the time needed to relocate the pole, support structure or small wireless within the time period prescribed in O.C.G.A. § 36-66C-7(l), the city make take the actions authorized by O.C.G.A. § 36-66C-7(o), in addition to any other powers under applicable law.
+(d)
+The city shall recondition and replace authority poles consistent with the provisions of O.C.G.A. § 36-66C-7(m). Wireless providers shall accommodate and cooperate with reconditioning and replacement consistent with the provisions of O.C.G.A. § 36-66C-7(m).
+(e)
+A wireless provider must notify the city of its decision to abandon any small wireless facility, support structure or pole pursuant to and in accordance with the provisions of O.C.G.A. § 36-66C-7(p)(1). The wireless provider shall perform all acts and duties identified in O.C.G.A. § 36-66C-7(p) regarding abandonment. The city may take all actions and exercise all powers authorized under O.C.G.A. § 36-66C-7(p) upon abandonment, in addition to any other powers under applicable law.
+(Ord. No. 2019-02 , art. I(exh. A), 9-10-2019)
+Footnotes:
+--- (7) ---
+Note— 4 Penalty authorized under O.C.G.A. § 36-66C-5(e).
+
+Sec. 98-231. - Standards.
+(a)
+Small wireless facilities and new, modified, or replacement poles to be used for collocation of small wireless facilities may be placed in the public right of way as a permitted use: (i) upon a receipt of a permit under section 98-229; (ii) subject to applicable codes; and (iii) so long as such small wireless facilities and new, modified, or replacement poles to be used for collocation of small wireless facilities comply with the appropriate provisions of O.C.G.A. § 36-66C-7(h).
+(1)
+New, modified, or replacement poles installed in the right of way in a historic district and in an area zoned primarily for residential use shall not exceed 50 feet above ground level.
+(2)
+Each new, modified, or replacement pole installed in the right of way that is not in a historic district or in an area zoned primarily for residential use shall not exceed the greater of:
+a.
+Fifty feet above ground level; or
+b.
+Ten feet greater in height above ground level than the tallest existing pole in the same public right of way in place as of January 1, 2019, and located within 500 feet of the new proposed pole;
+(3)
+New small wireless facilities in the public right of way and collocated on an existing pole or support structure shall not exceed more than ten feet above the existing pole or support structure.
+(4)
+New small wireless facilities in the public right of way collocated on a new or replacement pole under section 98-231(a) or section 98-231(b) may not extend above the top of such poles.
+(b)
+A decorative pole should only be located where an existing pole can be removed and replaced, or at a new location where the city has identified that a streetlight is necessary.
+(c)
+Unless it is determined that another design is less intrusive, or placement is required under applicable law, small wireless facilities shall be concealed as follows:
+(1)
+Antennas located at the top of poles and support structures shall be incorporated into the pole or support structure, or placed within shrouds of a size such that the antenna appears to be part of the pole or support structure;
+(2)
+Antennas placed elsewhere on a pole or support structure shall be integrated into the pole or support structure, or be designed and placed to minimize visual impacts.
+(3)
+Radio units or equipment cabinets holding radio units and mounted on a pole shall be placed as high as possible, located to avoid interfering with, or creating any hazard to, any other use of the public rights of way, and located on one side of the pole. Unless the radio units or equipment cabinets can be concealed by appropriate traffic signage, radio units or equipment cabinets mounted below the communications space on poles shall be designed so that the largest dimension is vertical, and the width is such that the radio units or equipment cabinets are minimally visible from the opposite side of the pole on which they are placed.
+(4)
+Wiring and cabling shall be neat and concealed within or flush to the pole or support structure, ensuring concealment of these components to the greatest extent possible.
+(d)
+Notwithstanding any provision of this section to the contrary, within a historic district, an applicant may collocate a small wireless facility and may place or replace a pole, only upon satisfaction of the following:
+(1)
+The issuance of a permit under O.C.G.A. § 36-66C-6(a); and
+(2)
+a.
+Compliance with the then current objective, reasonable, and nondiscriminatory aesthetic and structural requirements of small wireless facilities and decorative poles that are on file and have been made publicly available by the authority, in the office of the authority, at least 30 days prior to the filing of the application for a permit; or
+b.
+In the absence of any such requirements, a replacement pole shall be a substantially similar decorative pole in height and appearance to the pole being replaced.
+(e)
+The city shall not permit the installation or construction of poles, decorative poles, small wireless facility(ies) or antenna(s) where the city's development regulations or zoning ordinances require underground utilities or buried facilities, or where underground utilities or buried facilities already exist in a developed area. Except as mandated under the appropriate provisions of O.C.G.A. § 36-66C-7(i)(1)(A-C).
+(f)
+If the wireless provider desires to install or construct in an area where the city has adopted undergrounding requirements, the city shall:
+(1)
+Allow a wireless provider to maintain in place any previously collocated small wireless facilities subject to any applicable pole attachment agreement; or
+(2)
+Either allow the wireless provider to replace the pole associated with previously collocated small wireless facilities at the same location or propose an alternate location within 50 feet of the prior location, which the wireless provider shall use unless such alternate location imposes technical limits or significant additional costs.
+(g)
+Notwithstanding any provision of this section to the contrary, an applicant may collocate a small wireless facility on a decorative pole, or may replace a decorative pole with a new decorative pole, in the event the existing decorative pole will not structurally support the attachment, only upon satisfaction of the following: (i) issuance of a permit under section 98-229 and (ii) compliance with applicable codes.
+(h)
+A wireless provider and the city may directly contract outside of this article, for the purpose of installing or constructing poles, decorative poles, small wireless facility(ies) or antenna(s) when the requirements or stipulations for such installations are not specifically delineated by this article or pursuant to O.C.G.A. § 36-66C.
+(Ord. No. 2019-02 , art. I(exh. A), 9-10-2019)

@@ -1,0 +1,728 @@
+ARTICLE IV. - PRETREATMENT REGULATIONS
+DIVISION 1. - GENERALLY
+
+Sec. 40-80. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Act or the Act means the Federal Water Pollution Control Act, now known as the Clean Water Act, as amended, 33 USC 1251 et seq.
+Approval authority means the environmental protection division of the state department of natural resources.
+Authorized or duly authorized representative of the user means:
+(1)
+If the user is a corporation:
+a.
+The president, secretary, treasurer, or a vice-president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation; or
+b.
+The manager of one or more manufacturing, production, or operating facilities, provided the manager is authorized to make management decisions that govern the operation of the regulated facility including having the explicit or implicit duty of making major capital investment recommendations, and initiate and direct other comprehensive measures to ensure long-term environmental compliance with environmental laws and regulations; can ensure that the necessary systems are established or actions taken to gather complete and accurate information for wastewater discharge permit requirements; and where authority to sign documents has been assigned or delegated to the manager in accordance with corporate procedures.
+(2)
+If the user is a partnership or sole proprietorship, a general partner or proprietor, respectively.
+(3)
+If the user is a federal, state, or local governmental facility, a director or highest official appointed or designated to oversee the operation and performance of the activities of the government facility, or their designee.
+(4)
+The individuals described in subsections (1) through (3) of this definition may designate a duly authorized representative, if the authorization is in writing, the authorization specifies the individual or position responsible for the overall operation of the facility from which the discharge originates or having overall responsibility for environmental matters for the company, and the written authorization is submitted to the city.
+Best management practices or BMPs means schedules of activities, prohibitions of practices, maintenance procedures, and other management practices to implement the prohibitions listed in 40 CFR 403.5(a)(1) and (b). BMPs include treatment requirements, operating procedures, and practices to control plant site runoff, spillage or leaks, sludge or waste disposal, or drainage from raw materials storage.
+Categorical industrial user means an industrial user subject to a categorical pretreatment standard or categorical standard.
+Categorical pretreatment standard or categorical standard means any regulation containing pollutant discharge limits promulgated by the EPA in accordance with sections 307(b) and (c) of the Act (33 USC 1317(b), (c)) that apply to a specific category of users and that appear in 40 CFR ch. I, subch. N, parts 405—471.
+Control authority means the city.
+Daily maximum means the arithmetic average of all effluent samples for a pollutant collected during a calendar day.
+Daily maximum limit means the maximum allowable discharge limit of a pollutant during a calendar day. Where daily maximum limits are expressed in units of mass, the daily discharge is the total mass discharged over the course of the day. Where daily maximum limits are expressed in terms of a concentration, the daily discharge is the arithmetic average measurement of the pollutant concentration derived from all measurements taken that day.
+Environmental Protection Agency (EPA) means the U.S. Environmental Protection Agency or, where appropriate, the Regional Water Management Division Director, the Regional Administrator, or other duly authorized official of said agency.
+Existing source means any source of discharge that is not a new source.
+Grab sample means a sample that is taken from a wastestream without regard to the flow in the wastestream and over a period of time not to exceed 15 minutes.
+Indirect discharge or discharge means the introduction of pollutants into the POTW from any nondomestic source.
+Instantaneous limit means the maximum concentration of a pollutant allowed to be discharged at any time, determined from the analysis of any discrete or composited sample collected, independent of the industrial flow rate and the duration of the sampling event.
+Interference means a discharge that, alone or in conjunction with a discharge from other sources, inhibits or disrupts the POTW, its treatment processes or operations or its sludge processes, use or disposal; and therefore, is a cause of a violation of the city's NPDES permit or of the prevention of sewage sludge use or disposal in compliance with any of the following statutory/regulatory provisions or permits issued thereunder, or any more stringent state or local regulations: section 405 of the Act; the Solid Waste Disposal Act, including Title II, commonly referred to as the Resource Conservation and Recovery Act (RCRA); any state regulations contained in any state sludge management plan prepared pursuant to subtitle D of the Solid Waste Disposal Act; the Clean Air Act; the Toxic Substances Control Act; and the Marine Protection, Research, and Sanctuaries Act.
+Local limit means specific discharge limits developed and enforced by the city upon industrial or commercial facilities to implement the general and specific discharge prohibitions listed in 40 CFR 403.5(a)(1) and (b).
+Medical waste means isolation wastes, infectious agents, human blood and blood products, pathological wastes, sharps, body parts, contaminated bedding, surgical wastes, potentially contaminated laboratory wastes, and dialysis wastes.
+Monthly average means the sum of all daily discharges measured during a calendar month divided by the number of daily discharges measured during that month.
+Monthly average limit means the highest allowable average of daily discharges over a calendar month, calculated as the sum of all daily discharges measured during a calendar month divided by the number of daily discharges measured during that month.
+New source.
+(1)
+The term "new source" means any building, structure, facility, or installation from which there is (or may be) a discharge of pollutants, the construction of which commenced after the publication of proposed pretreatment standards under section 307(c) of the Act that will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:
+a.
+The building, structure, facility, or installation is constructed at a site at which no other source is located;
+b.
+The building, structure, facility, or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or
+c.
+The production or wastewater generating processes of the building, structure, facility, or installation are substantially independent of an existing source at the same site. In determining whether these are substantially independent, factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source, should be considered.
+(2)
+Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility, or installation meeting the criteria of subsection (1)b or c of this definition but otherwise alters, replaces, or adds to existing process or production equipment.
+(3)
+Construction of a new source has commenced if the owner or operator has:
+a.
+Begun, or caused to begin, as part of a continuous onsite construction program:
+1.
+Any placement, assembly, or installation of facilities or equipment; or
+2.
+Significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or
+b.
+Entered into a binding contractual obligation for the purchase of facilities or equipment which are intended to be used in its operation within a reasonable time. Options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this subsection.
+Noncontact cooling water means water used for cooling that does not come into direct contact with any raw material, intermediate product, waste product, or finished product.
+Pass through means a discharge which exits the POTW into waters of the United States in quantities or concentrations which, alone or in conjunction with a discharge or discharges from other sources, is a cause of a violation of any requirement of the city's NPDES permit, including an increase in the magnitude or duration of a violation.
+Person means any individual, partnership, co-partnership, firm, company, corporation, association, joint stock company, trust, estate, governmental entity, or any other legal entity; or their legal representatives, agents, or assigns. The term "person" includes all federal, state, and local governmental entities.
+Pollutant means dredged spoil, solid waste, incinerator residue, filter backwash, sewage, garbage, sewage sludge, munitions, medical wastes, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt, municipal, agricultural and industrial wastes, and certain characteristics of wastewater (e.g., pH, temperature, TSS, turbidity, color, BOD, COD, toxicity, or odor).
+Pretreatment means the reduction of the amount of pollutants, the elimination of pollutants, or the alteration of the nature of pollutant properties in wastewater prior to, or in lieu of, introducing such pollutants into the POTW. This reduction or alteration can be obtained by physical, chemical, or biological processes; by process changes; or by other means, except by diluting the concentration of the pollutants unless allowed by an applicable pretreatment standard.
+Pretreatment requirements means any substantive or procedural requirement related to pretreatment imposed on a user, other than a pretreatment standard.
+Pretreatment standards or standards means prohibited discharge standards, categorical pretreatment standards, and local limits.
+Prohibited discharge standards or prohibited discharges means absolute prohibitions against the discharge of certain substances, as defined in this article.
+Publicly owned treatment works or POTW means a treatment works, as defined by section 212 of the Act (33 USC 1292), which is owned by the city. The term "publicly owned treatment works" includes any devices or systems used in the collection, storage, treatment, recycling, and reclamation of sewage or industrial wastes of a liquid nature and any conveyances, which convey wastewater to a treatment plant.
+Septic tank waste means any sewage from holding tanks such as vessels, chemical toilets, campers, trailers, and septic tanks.
+Significant industrial user (SIU) means, except as provided in subsection (3) of this definition:
+(1)
+An industrial user subject to categorical pretreatment standards;
+(2)
+An industrial user that:
+a.
+Discharges an average of 20,000 gpd or more of process wastewater to the POTW (excluding sanitary, noncontact cooling and boiler blowdown wastewater);
+b.
+Contributes a process wastestream which makes up five percent or more of the average dry weather hydraulic or organic capacity of the POTW treatment plant; or
+c.
+Is designated as such by the city on the basis that it has a reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement.
+(3)
+Upon a finding that a user meeting the criteria in subsection (2) of this definition has no reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement, the city may, at any time, on its own initiative or in response to a petition received from an industrial user, and in accordance with procedures in 40 CFR 403.8(f)(6), determine that such user should not be considered a significant industrial user.
+Slug load or slug discharge means any discharge at a flow rate or concentration, which could cause a violation of the prohibited discharge standards in this article. The term "slug discharge" means any discharge of a nonroutine, episodic nature, including, but not limited to, an accidental spill or a noncustomary batch discharge, which has a reasonable potential to cause interference or pass through, or in any other way violate the POTW's regulations, local limits or permit conditions.
+Stormwater means any flow occurring during or following any form of natural precipitation, and resulting from such precipitation, including snowmelt.
+User orindustrial user means a source of indirect discharge.
+(Ord. of 1-5-2015(1), § 1.1)
+Sec. 40-81. - Purpose and policy.
+(a)
+This article sets forth uniform requirements for users of the publicly owned treatment works for the city and enables the city to comply with all applicable state and federal laws, including the Clean Water Act (33 USC 1251 et seq.) and the General Pretreatment Regulations (40 CFR part 403). The objectives of this article are:
+(1)
+To prevent the introduction of pollutants into the publicly owned treatment works that will interfere with its operation;
+(2)
+To prevent the introduction of pollutants into the publicly owned treatment works that will pass through the publicly owned treatment works, inadequately treated, into receiving waters, or otherwise be incompatible with the publicly owned treatment works;
+(3)
+To protect both publicly owned treatment works personnel who may be affected by wastewater and sludge in the course of their employment and the general public;
+(4)
+To promote reuse and recycling of industrial wastewater and sludge from the publicly owned treatment works;
+(5)
+To provide for fees for the equitable distribution of the cost of operation, maintenance, and improvement of the publicly owned treatment works; and
+(6)
+To enable the city to comply with its National Pollutant Discharge Elimination System permit conditions, sludge use and disposal requirements, and any other federal or state laws to which the publicly owned treatment works is subject.
+(b)
+This article shall apply to all users of the publicly owned treatment works. The article authorizes the issuance of wastewater discharge permits; provides for monitoring, compliance, and enforcement activities; establishes administrative review procedures; requires user reporting; and provides for the setting of fees for the equitable distribution of costs resulting from the program established herein.
+(Ord. of 1-5-2015(1), § 1.2)
+Sec. 40-82. - Administration.
+Except as otherwise provided in this article, the city manager shall administer, implement, and enforce the provisions of this article. Any powers granted to or duties imposed upon the city manager may be delegated by the city manager to a duly authorized city employee.
+(Ord. of 1-5-2015(1), § 1.3)
+Sec. 40-83. - Sewer use ordinance and other regulations.
+Whenever there is a discrepancy between the minimum standards or provisions required by this article and those contained in the sewer use ordinance or other codes, regulations, or ordinances, the most restrictive shall apply.
+(Ord. of 1-5-2015(1), § 1.4)
+Sec. 40-84. - Abbreviations.
+The following abbreviations, when used in this article, shall have the designated meanings:
+EXPAND
+BOD Biochemical oxygen demand
+BMP Best management practice
+BMR Baseline monitoring report
+CFR Code of Federal Regulations
+CIU Categorical industrial user
+COD Chemical oxygen demand
+EPA U.S. Environmental Protection Agency
+gpd gallons per day
+IU Industrial user
+mg/L milligrams per liter
+NPDES National pollutant discharge elimination system
+NSCIU Nonsignificant categorical industrial user
+POTW Publicly owned treatment works
+RCRA Resource Conservation and Recovery Act
+SIU Significant industrial user
+SNC Significant noncompliance
+TSS Total suspended solids
+USC United States Code
+  (Ord. of 1-5-2015(1), § 1.5)
+Secs. 40-85—40-111. - Reserved.
+DIVISION 2. - GENERAL SEWER USE REQUIREMENTS
+
+Sec. 40-112. - Prohibited discharge standards.
+(a)
+Only waters or wastes complying with the pretreatment ordinance and the sewer use ordinance of the city shall be introduced or caused to be introduced into the POTW. These general prohibitions and the specific prohibitions in the pretreatment ordinance and the sewer use ordinance of the city apply to each user introducing pollutants into a POTW whether or not the user is subject to other national pretreatment standards or any national, state, or local pretreatment standards or requirements.
+(1)
+General prohibitions. No user shall introduce, or cause to be introduced, into the POTW any pollutant or wastewater which causes pass through or interference.
+(2)
+Specific prohibitions. No user shall introduce, or cause to be introduced, into the POTW the following pollutants, substances, or wastewater:
+a.
+Sludges, screenings, or other residues from the pretreatment of industrial wastes;
+b.
+Medical wastes, except as specifically authorized by the city manager in an individual wastewater discharge permit;
+c.
+Wastewater causing, alone or in conjunction with other sources, the treatment plant's effluent to fail toxicity test;
+d.
+Detergents, surface-active agents, or other substances which that might cause excessive foaming in the POTW.
+(b)
+Pollutants, substances, or wastewater prohibited by this section shall not be processed or stored in such a manner that they could be discharged to the POTW.
+(Ord. of 1-5-2015(1), § 2.1)
+Sec. 40-113. - National Categorical Pretreatment Standards.
+Users must comply with the categorical pretreatment standards found at 40 CFR ch. I, subch. N, parts 405—471.
+(1)
+Where a categorical pretreatment standard is expressed only in terms of either the mass or the concentration of a pollutant in wastewater, the city manager may impose equivalent concentration or mass limits in accordance with 40 CFR 403.6(c).
+(2)
+When wastewater subject to a categorical pretreatment standard is mixed with wastewater not regulated by the same standard, the city manager shall impose an alternate limit in accordance with 40 CFR 403.6(e).
+(3)
+A user may obtain a variance from a categorical pretreatment standard if the user can prove, pursuant to the procedural and substantive provisions in 40 CFR 403.13, that factors relating to its discharge are fundamentally different from the factors considered by the EPA when developing the categorical pretreatment standard.
+(4)
+A CIU may obtain a net/gross adjustment to a categorical pretreatment standard in accordance with 40 CFR 403.15.
+(Ord. of 1-5-2015(1), § 2.2)
+Sec. 40-114. - State pretreatment standards.
+Users must comply with the Georgia Pretreatment and Permit Requirements, Rule 391-3-6-.08 (Ga. Comp. Rules and Regs. R. 391-3-6-.08).
+(Ord. of 1-5-2015(1), § 2.3)
+Sec. 40-115. - Local limits.
+(a)
+The city manager is authorized to establish local limits pursuant to 40 CFR 403.5(c).
+(b)
+The pollutant limits established to protect against pass through and interference are shown in the table below. No person shall discharge wastewater containing in excess of the daily maximum or monthly average limits as shown in this table.
+(c)
+The attached limits apply at the point where the wastewater is discharged to the POTW. All concentrations for metallic substances are for total metal unless indicated otherwise. The city manager may impose mass limitations in addition to the concentration-based limitations.
+(d)
+The city manager may develop best management practices (BMPs), by ordinance or in individual wastewater discharge permits, to implement local limits and the requirements of section 40-112.
+Table 40-115. Local Limits for Each POTW
+EXPAND
+Westside Plant Southside Plant
+Parameter Daily
+Maximum
+(mg/L) Monthly
+Average
+(mg/L) Daily
+Maximum
+(mg/L) Monthly
+Average
+(mg/L)
+Cadmium 0.043 0.03 0.000 0.00
+Chromium 13.690 9.13 6.059 4.04
+Copper 1.582 1.05 0.336 0.22
+Lead 0.116 0.08 0.116 0.08
+Nickel 9.435 6.29 4.358 2.91
+Selenium 0.461 0.31 0.205 0.14
+Zinc 1.372 0.91 0.785 0.52
+Arsenic 1.667 1.11 1.047 0.70
+Silver 0.019 0.01 0.019 0.01
+Mercury 0.002 0.00 0.002 0.00
+Cyanide 0.082 0.05 0.082 0.05
+Aluminum 2.000 1.30
+Benzo(a)Anthracene 0.0310 0.02
+Benzo(a)Pyrene 0.0310 0.02
+3,4-Benzofluoranthene 0.0310 0.02
+Benzo(ghi)Perylene 0.0000 0.00
+Benzo(k)Fluoranthene 0.0310 0.02
+Bis(2-Ethylhexyl)Phthalate 21.0837 14.06 5.21 3.47
+Chlordane 0.0002 0.00
+Chrysene 0.0310 0.02
+Fluoranthene 369 246
+Pyrene 78,351 52,234
+Phenol 61.37 40.91
+BOD 5 225 150 300 200
+TSS 225 150 300 200
+COD 450 300 500 333
+Phosphorous-P 10 7 10 7
+Ammonia-N 12 8 12 8
+  Note: monthly limit = 66% of daily limit
+(Ord. of 1-5-2015(1), § 2.4, exh. A)
+Sec. 40-116. - City's right of revision.
+The city reserves the right to establish, by ordinance or in wastewater discharge permits, more stringent standards or requirements on discharges to the POTW consistent with the purpose of this division.
+(Ord. of 1-5-2015(1), § 2.5)
+Sec. 40-117. - Dilution.
+No user shall ever increase the use of process water, or in any way attempt to dilute a discharge, as a partial or complete substitute for adequate treatment to achieve compliance with a discharge limitation unless expressly authorized by an applicable pretreatment standard or requirement. the city manager may impose mass limitations on users who are using dilution to meet applicable pretreatment standards or requirements, or in other cases when the imposition of mass limitations is appropriate.
+(Ord. of 1-5-2015(1), § 2.6)
+Secs. 40-118—40-147. - Reserved.
+DIVISION 3. - PRETREATMENT OF WASTEWATER
+
+Sec. 40-148. - Pretreatment facilities.
+Users shall provide wastewater treatment as necessary to comply with this division and shall achieve compliance with all categorical pretreatment standards, local limits, and the prohibitions set out in section 40-112 within the time limitations specified by the EPA, the state, or the city manager, whichever is more stringent. Any facilities necessary for compliance shall be provided, operated, and maintained at the user's expense. Detailed plans describing such facilities and operating procedures shall be submitted to the city manager for review, and shall be acceptable to the city manager before such facilities are constructed. The review of such plans and operating procedures shall in no way relieve the user from the responsibility of modifying such facilities as necessary to produce a discharge acceptable to the city under the provisions of this division.
+(Ord. of 1-5-2015(1), § 3.1)
+Sec. 40-149. - Additional pretreatment measures.
+(a)
+Whenever deemed necessary, the city manager may require users to restrict their discharge during peak flow periods, designate that certain wastewater be discharged only into specific sewers, relocate and/or consolidate points of discharge, separate sewage wastestreams from industrial wastestreams, and such other conditions as may be necessary to protect the POTW and determine the user's compliance with the requirements of this division.
+(b)
+The city manager may require any person discharging into the POTW to install and maintain, on their property and at their expense, a suitable storage and flow-control facility to ensure equalization of flow. A wastewater discharge permit may be issued solely for flow equalization.
+(c)
+Grease, oil, and sand interceptors shall be provided when, in the opinion of the city manager, they are necessary for the proper handling of wastewater containing excessive amounts of grease and oil, or sand; except that such interceptors shall not be required for residential users. All interception units shall be of a type and capacity approved by the city manager and shall be so located to be easily accessible for cleaning and inspection. Such interceptors shall be inspected, cleaned, and repaired regularly, as needed, in accordance with the city's sewer use ordinance, by the user at their expense.
+(d)
+Users with the potential to discharge flammable substances may be required to install and maintain an approved combustible gas detection meter.
+(Ord. of 1-5-2015(1), § 3.2)
+Sec. 40-150. - Accidental discharge/slug discharge control plans.
+At least once every two years, the city manager shall evaluate whether each SIU needs an accidental discharge/slug discharge control plan or other action to control slug discharges. The city manager may require any user to develop, submit for approval, and implement such a plan or take such other action that may be necessary to control slug discharges. An accidental discharge/slug discharge control plan shall address, at a minimum, the following:
+(1)
+Description of discharge practices, including nonroutine batch discharges;
+(2)
+Description of stored or discharged chemicals that need to be controlled, based upon their potential to harm the POTW;
+(3)
+Which industrial user practices are actual or potential sources of slug loadings, including handling, storage and disposal of chemicals;
+(4)
+Locations of floor drains in proximity to chemicals being handled and stored;
+(5)
+Procedures for immediately notifying the city manager of any accidental or slug discharge, as required by section 40-237;
+(6)
+Procedures to prevent adverse impact from any accidental or slug discharge. Such procedures include, but are not limited to, inspection and maintenance of storage areas, handling and transfer of materials, loading and unloading operations, control of plant site runoff, worker training, building of containment structures or equipment, measures for containing toxic organic pollutants, including solvents, and/or measures and equipment for emergency response; and
+(7)
+Whether existing programs or practices sufficiently address any actual or potential threats.
+(Ord. of 1-5-2015(1), § 3.3)
+Sec. 40-151. - Hauled wastewater.
+(a)
+Septic tank waste shall not be introduced into the city's POTW nor into the city's sewer system.
+(b)
+Industrial waste haulers shall not discharge into the city's POTW nor into the city's sewer system.
+(Ord. of 1-5-2015(1), § 3.4)
+Sec. 40-152. - Duty to halt or reduce activity.
+Upon reduction of efficiency of operation, or loss or failure of all or part of the treatment facility, the user shall, to the extent necessary to maintain compliance with its permit, control its production or discharges (or both) until operation of the treatment facility is restored or an alternative method of treatment is provided. This requirement applies, for example when the primary source of power of the treatment facility fails or is reduced. It shall not be a defense for a user in an enforcement action that it would have been necessary to halt or reduce the permitted activity in order to maintain compliance with the conditions of its permit.
+(Ord. of 1-5-2015(1), § 3.5)
+Secs. 40-153—40-172. - Reserved.
+DIVISION 4. - INDIVIDUAL WASTEWATER DISCHARGE PERMITS
+
+Sec. 40-173. - Wastewater analysis.
+When requested by the city manager, a user must submit information on the nature and characteristics of its wastewater within 30 days of the request. The city manager is authorized to prepare a form for this purpose and may periodically require users to update this information.
+(Ord. of 1-5-2015(1), § 4.1)
+Sec. 40-174. - Individual wastewater discharge permit requirement.
+(a)
+No significant industrial user shall discharge wastewater into the POTW without first obtaining an individual wastewater discharge permit from the city manager, except that a significant industrial user that has filed a timely application pursuant to section 40-175 may continue to discharge for the time period specified therein.
+(b)
+The city manager may require other users to obtain individual wastewater discharge permits as necessary to carry out the purposes of this division.
+(c)
+Any violation of the terms and conditions of an individual wastewater discharge permit shall be deemed a violation of this division and subjects the wastewater discharge permittee to the sanctions set out in divisions 10 through 12 of this article. Obtaining an individual wastewater discharge permit does not relieve a permittee of its obligation to comply with all federal and state pretreatment standards or requirements or with any other requirements of federal, state, and local law.
+(Ord. of 1-5-2015(1), § 4.2)
+Sec. 40-175. - Individual wastewater discharge permitting—Existing connections.
+Any user required to obtain an individual wastewater discharge permit who was discharging wastewater into the POTW prior to the effective date of the ordinance from which this division is derived, and who wishes to continue such discharges in the future, shall, within 30 days after said date, apply to the city manager for an individual wastewater discharge permit in accordance with section 40-177, and shall not cause or allow discharges to the POTW to continue after 60 days of the effective date of the ordinance from which this division is derived, except in accordance with an individual wastewater discharge permit issued by the city manager.
+(Ord. of 1-5-2015(1), § 4.3)
+Sec. 40-176. - Individual wastewater discharge permitting—New connections.
+Any user required to obtain an individual wastewater discharge permit who proposes to begin or recommence discharging into the POTW must obtain such permit prior to the beginning or recommencing of such discharge. An application for this individual wastewater discharge permit, in accordance with section 40-177, must be filed at least 60 days prior to the date upon which any discharge will begin or recommence.
+(Ord. of 1-5-2015(1), § 4.4)
+Sec. 40-177. - Individual wastewater discharge permit application contents.
+(a)
+All users required to obtain an individual wastewater discharge permit must submit a permit application. The city manager may require users to submit all or some of the following information as part of a permit application:
+(1)
+Identifying information.
+a.
+The name and address of the facility, including the name of the operator and owner.
+b.
+Contact information, description of activities, facilities, and plant production processes on the premises.
+(2)
+Environmental permits. A list of any environmental control permits held by or for the facility.
+(3)
+Description of operations.
+a.
+A brief description of the nature, average rate of production (including each product produced by type, amount, processes, and rate of production), and standard industrial classifications of the operation carried out by such user. This description should include a schematic process diagram, which indicates points of discharge to the POTW from the regulated processes;
+b.
+Types of wastes generated, and a list of all raw materials and chemicals used or stored at the facility which are, or could accidentally or intentionally be, discharged to the POTW;
+c.
+Number and type of employees, hours of operation, and proposed or actual hours of operation;
+d.
+Type and amount of raw materials processed (average and maximum per day);
+e.
+Site plans, floor plans, mechanical and plumbing plans, and details to show all sewers, floor drains, and appurtenances by size, location, and elevation, and all points of discharge;
+f.
+Engineering reports, plans, specifications and other submittals in support of a pretreatment system, bearing the seal of a licensed professional engineer competent in the field of industrial wastewater treatment.
+(4)
+Time and duration of discharges.
+(5)
+The location for monitoring all wastes covered by the permit.
+(6)
+Flow measurement. Information showing the measured average daily and maximum daily flow, in gallons per day, to the POTW from regulated process streams and other streams, as necessary, to allow use of the combined wastestream formula set out in 40 CFR 403.6(e).
+(7)
+Measurement of pollutants.
+a.
+The categorical pretreatment standards applicable to each regulated process and any new categorically regulated processes for existing sources.
+b.
+The results of sampling and analysis identifying the nature and concentration, and/or mass, where required by the standard or by the city manager, of regulated pollutants in the discharge from each regulated process.
+c.
+Instantaneous, daily maximum, and long-term average concentrations, or mass, where required, shall be reported.
+d.
+The sample shall be representative of daily operations and shall be analyzed in accordance with procedures set out in section 40-241. Where the standard requires compliance with a BMP or pollution prevention alternative, the user shall submit documentation as required by the city manager or the applicable standards to determine compliance with the standard.
+e.
+Sampling must be performed in accordance with procedures set out in section 40-242.
+(8)
+Any other information as may be deemed necessary by the city manager to evaluate the permit application.
+(b)
+Incomplete or inaccurate applications will not be processed and will be returned to the user for revision.
+(Ord. of 1-5-2015(1), § 4.5)
+Sec. 40-178. - Application signatories and certifications.
+(a)
+All wastewater discharge permit applications, user reports and certification statements must be signed by an authorized representative of the user and contain the certification statement in section 40-245.
+(b)
+If the designation of an authorized representative is no longer accurate because a different individual or position has responsibility for the overall operation of the facility or overall responsibility for environmental matters for the company, a new written authorization satisfying the requirements of this section must be submitted to the city manager prior to or together with any reports to be signed by an authorized representative.
+(Ord. of 1-5-2015(1), § 4.6)
+Sec. 40-179. - Individual wastewater discharge permit decisions.
+The city manager will evaluate the data furnished by the user and may require additional information. Within 90 days of receipt of a complete permit application, the city manager will determine whether to issue an individual wastewater discharge permit. The city manager may deny any application for an individual wastewater discharge permit.
+(Ord. of 1-5-2015(1), § 4.7)
+Secs. 40-180—40-196. - Reserved.
+DIVISION 5. - INDIVIDUAL WASTEWATER DISCHARGE PERMIT ISSUANCE
+
+Sec. 40-197. - Individual wastewater discharge permit duration.
+An individual wastewater discharge permit shall be issued for a period of one year from the effective date of the permit. Each individual wastewater discharge permit will indicate a specific date upon which it will expire.
+(Ord. of 1-5-2015(1), § 5.1)
+Sec. 40-198. - Individual wastewater discharge permit contents.
+An individual wastewater discharge permit shall include such conditions as are deemed reasonably necessary by the city manager to prevent pass through or interference, protect the quality of the water body receiving the treatment plant's effluent, protect worker health and safety, facilitate sludge management and disposal, and protect against damage to the POTW.
+(1)
+Individual wastewater discharge permits must contain:
+a.
+A statement that indicates the wastewater discharge permit duration, expiration date and effective date;
+b.
+A statement that the wastewater discharge permit is nontransferable without prior notification to the city in accordance with section 40-201, and provisions for furnishing the new owner or operator with a copy of the existing wastewater discharge permit;
+c.
+Effluent limits, including best management practices, based on applicable pretreatment standards;
+d.
+Self-monitoring, sampling, reporting, notification, and recordkeeping requirements. These requirements shall include an identification of pollutants or best management practice to be monitored, sampling location, sampling frequency, and sample type based on federal, state, and local law;
+e.
+A statement of applicable civil and criminal penalties for violation of pretreatment standards and requirements, and any applicable compliance schedule. Such schedule may not extend the time for compliance beyond that required by applicable federal, state, or local law;
+f.
+Requirements to control slug discharge, if determined by the city manager to be necessary.
+(2)
+Individual wastewater discharge permits may contain, but need not be limited to, the following conditions:
+a.
+Limits on the average and/or maximum rate of discharge, time of discharge, and/or requirements for flow regulation and equalization;
+b.
+Requirements for the installation of pretreatment technology, pollution control, or construction of appropriate containment devices, designed to reduce, eliminate, or prevent the introduction of pollutants into the treatment works;
+c.
+Requirements for the development and implementation of spill control plans or other special conditions including management practices necessary to adequately prevent accidental, unanticipated, or nonroutine discharges;
+d.
+Development and implementation of waste minimization plans to reduce the amount of pollutants discharged to the POTW;
+e.
+The unit charge or schedule of user charges and fees for the management of the wastewater discharged to the POTW;
+f.
+Requirements for installation and maintenance of inspection and sampling facilities and equipment, including flow measurement devices;
+g.
+A statement that compliance with the individual wastewater discharge permit does not relieve the permittee of responsibility for compliance with all applicable federal and state pretreatment standards, including those which become effective during the term of the individual wastewater discharge permit; and
+h.
+Other conditions as deemed appropriate by the city manager to ensure compliance with this division, and state and federal laws, rules, and regulations.
+(Ord. of 1-5-2015(1), § 5.2)
+Sec. 40-199. - Discharge permit appeals.
+The city manager shall provide public notice of the issuance of an individual wastewater discharge permit. Any person, including the user, may petition the city manager to reconsider the terms of an individual wastewater discharge permit within 30 days of notice of its issuance.
+(1)
+Failure to submit a timely petition for review shall be deemed to be a waiver of the administrative appeal.
+(2)
+In its petition, the appealing party must indicate the individual wastewater discharge permit provisions objected to, the reasons for this objection, and the alternative condition, if any, it seeks to place in the individual wastewater discharge permit.
+(3)
+The effectiveness of the individual wastewater discharge permit shall not be stayed pending the appeal.
+(4)
+If the city manager fails to act within 60 days, a request for reconsideration shall be deemed to be denied. Decisions not to reconsider an individual wastewater discharge permit, not to issue an individual wastewater discharge permit, or not to modify an individual wastewater discharge permit shall be considered final administrative actions for purposes of judicial review.
+(5)
+Aggrieved parties seeking judicial review of the final administrative individual wastewater discharge permit decision must do so by filing a complaint with the city commission within 30 days of the determination of the city manager. The city commission will consider the appeal for final action in the normal course of business of the commission.
+(Ord. of 1-5-2015(1), § 5.3)
+Sec. 40-200. - Wastewater discharge permit modification.
+The city manager may modify an individual wastewater discharge permit for good cause, including, but not limited to, the following reasons:
+(1)
+To incorporate any new or revised federal, state, or local pretreatment standards or requirements;
+(2)
+To address significant alterations or additions to the user's operation, processes, or wastewater volume or character since the time of the individual wastewater discharge permit issuance;
+(3)
+A change in the POTW that requires either a temporary or permanent reduction or elimination of the authorized discharge;
+(4)
+Information indicating that the permitted discharge poses a threat to city's POTW, city personnel, or the receiving waters;
+(5)
+Violation of any terms or conditions of the individual wastewater discharge permit;
+(6)
+Misrepresentations or failure to fully disclose all relevant facts in the wastewater discharge permit application or in any required reporting;
+(7)
+Revision of or a grant of variance from categorical pretreatment pursuant to 40 CFR 403.13;
+(8)
+To correct typographical or other errors in the individual wastewater discharge permit; or
+(9)
+To reflect a transfer of the facility ownership or operation to a new owner or operator where requested in accordance with section 40-201.
+(Ord. of 1-5-2015(1), § 5.4)
+Sec. 40-201. - Individual wastewater discharge permit transfer.
+(a)
+Individual wastewater discharge permits may be transferred to a new owner or operator only if the permittee gives at least 60 days' advance notice to the city manager and the city manager approves the individual wastewater discharge permit transfer. The notice to the city manager must include a written certification by the new owner or operator which:
+(1)
+States that the new owner and/or operator has no immediate intent to change the facility's operations and processes;
+(2)
+Identifies the specific date on which the transfer is to occur; and
+(3)
+Acknowledges full responsibility for complying with the existing individual wastewater discharge permit.
+(b)
+Failure to provide advance notice of a transfer renders the individual wastewater discharge permit void as of the date of facility transfer.
+(Ord. of 1-5-2015(1), § 5.5)
+Sec. 40-202. - Individual wastewater discharge permit revocation.
+(a)
+The city manager may revoke an individual wastewater discharge permit for good cause, including, but not limited to, the following reasons:
+(1)
+Failure to notify the city manager of significant changes to the wastewater prior to the changed discharge;
+(2)
+Failure to provide prior notification to the city manager of changed conditions pursuant to section 40-236;
+(3)
+Misrepresentation or failure to fully disclose all relevant facts in the wastewater discharge permit application;
+(4)
+Falsifying self-monitoring reports and certification statements;
+(5)
+Tampering with monitoring equipment;
+(6)
+Refusing to allow the city manager timely access to the facility premises and records;
+(7)
+Failure to meet effluent limitations;
+(8)
+Failure to pay fines;
+(9)
+Failure to pay sewer charges and/or fees;
+(10)
+Failure to pay industrial pretreatment application fees;
+(11)
+Failure to meet compliance schedules;
+(12)
+Failure to complete a wastewater survey or the wastewater discharge permit application;
+(13)
+Failure to provide advance notice of the transfer of business ownership of a permitted facility; or
+(14)
+Violation of any pretreatment standard or requirement, or any terms of the wastewater discharge permit, the city's approved industrial pretreatment program or this division.
+(b)
+Individual wastewater discharge permits shall be voidable upon cessation of operations or transfer of business ownership. All individual wastewater discharge permits issued to a user are void upon the issuance of a new individual wastewater discharge permit to that user.
+(Ord. of 1-5-2015(1), § 5.6)
+Sec. 40-203. - Individual wastewater discharge permit reissuance.
+A user with an expiring individual wastewater discharge permit shall apply for individual wastewater discharge permit reissuance by submitting a complete permit application, in accordance with section 40-177, a minimum of 60 days prior to the expiration of the user's existing individual wastewater discharge permit.
+(Ord. of 1-5-2015(1), § 5.7)
+Sec. 40-204. - Regulation of waste received from other jurisdictions.
+Wastewater received from other jurisdictions into the POTW shall be subject to all provisions of this division.
+(Ord. of 1-5-2015(1), § 5.8)
+Secs. 40-205—40-231. - Reserved.
+DIVISION 6. - REPORTING REQUIREMENTS
+
+Sec. 40-232. - Baseline monitoring reports.
+(a)
+Within either 180 days after the effective date of a categorical pretreatment standard, or the final administrative decision on a category determination under 40 CFR 403.6(a)(4), whichever is later, existing categorical industrial users currently discharging to or scheduled to discharge to the POTW shall submit to the city manager a report which contains the information listed in subsection (b) of this section. At least 90 days prior to commencement of their discharge, new sources, and sources that become categorical industrial users subsequent to the promulgation of an applicable categorical standard, shall submit to the city manager a report which contains the information listed in subsection (b) of this section. A new source shall report the method of pretreatment it intends to use to meet applicable categorical standards. A new source also shall give estimates of its anticipated flow and quantity of pollutants to be discharged.
+(b)
+Users described in subsection (a) of this section shall submit the following information:
+(1)
+All information required in section 40-177(a)(1)a, (a)(2), (a)(3) and (a)(6).
+(2)
+Measurement of pollutants.
+a.
+The user shall provide the information required in section 40-177(a)(7);
+b.
+The user shall take a minimum of one representative sample to compile that data necessary to comply with the requirements of this subsection;
+c.
+Samples should be taken immediately downstream from pretreatment facilities if such exist or immediately downstream from the regulated process if no pretreatment exists. If other wastewaters are mixed with the regulated wastewater prior to pretreatment the user should measure the flows and concentrations necessary to allow use of the combined wastestream formula in 40 CFR 403.6(e) to evaluate compliance with the pretreatment standards. Where an alternate concentration or mass limit has been calculated in accordance with 40 CFR 403.6(e) this adjusted limit along with supporting data shall be submitted to the control authority;
+d.
+Sampling and analysis shall be performed in accordance with section 40-241;
+e.
+The city manager may allow the submission of a baseline report which utilizes only historical data so long as the data provides information sufficient to determine the need for industrial pretreatment measures;
+f.
+The baseline report shall indicate the time, date and place of sampling and methods of analysis, and shall certify that such sampling and analysis is representative of normal work cycles and expected pollutant discharges to the POTW.
+(3)
+Compliance certification. A statement, reviewed by the user's authorized representative, as defined in section 40-80, and certified by a qualified professional, indicating whether pretreatment standards are being met on a consistent basis, and, if not, whether additional operation and maintenance (O&M) and/or additional pretreatment is required to meet the pretreatment standards and requirements.
+(4)
+Compliance schedule. If additional pretreatment and/or O&M will be required to meet the pretreatment standards, the shortest schedule by which the user will provide such additional pretreatment and/or O&M must be provided. The completion date in this schedule shall not be later than the compliance date established for the applicable pretreatment standard. A compliance schedule pursuant to this section must meet the requirements set out in section 40-233.
+(5)
+Signature and report certification. All baseline monitoring reports must be certified in accordance with section 40-245 and signed by an authorized representative, as defined in section 40-80.
+(Ord. of 1-5-2015(1), § 6.1)
+Sec. 40-233. - Compliance schedule progress reports.
+The following conditions shall apply to the compliance schedule required by section 40-232(b)(4):
+(1)
+The schedule shall contain progress increments in the form of dates for the commencement and completion of major events leading to the construction and operation of additional pretreatment required for the user to meet the applicable pretreatment standards (such events include, but are not limited to, hiring an engineer, completing preliminary and final plans, executing contracts for major components, commencing and completing construction, and beginning and conducting routine operation);
+(2)
+No increment referred to in subsection (1) of this section shall exceed nine months;
+(3)
+The user shall submit a progress report to the city manager no later than 14 days following each date in the schedule and the final date of compliance including, as a minimum, whether or not it complied with the increment of progress, the reason for any delay, and, if appropriate, the steps being taken by the user to return to the established schedule; and
+(4)
+In no event shall more than three months elapse between such progress reports to the city manager.
+(Ord. of 1-5-2015(1), § 6.2)
+Sec. 40-234. - Reports on compliance with categorical pretreatment standard deadline.
+Within 90 days following the date for final compliance with applicable categorical pretreatment standards, or in the case of a new source following commencement of the introduction of wastewater into the POTW, any user subject to such pretreatment standards and requirements shall submit to the city manager a report containing the information described in sections 40-177(a)(6) and 40-232(b)(2). For users subject to equivalent mass or concentration limits established in accordance with the procedures in section 40-113, this report shall contain a reasonable measure of the user's long-term production rate. For all other users subject to categorical pretreatment standards expressed in terms of allowable pollutant discharge per unit of production (or other measure of operation), this report shall include the user's actual production during the appropriate sampling period. All compliance reports must be signed and certified in accordance with section 40-245. All sampling will be done in conformance with section 40-242.
+(Ord. of 1-5-2015(1), § 6.3)
+Sec. 40-235. - Periodic compliance reports.
+All significant industrial users must, at a frequency determined by the city manager submit no less than twice per year (June and December) reports indicating the nature, concentration of pollutants in the discharge which are limited by pretreatment standards and the measured or estimated average and maximum daily flows for the reporting period. In cases where the pretreatment standard requires compliance with a best management practice (BMP) or pollution prevention alternative, the user must submit documentation required by the city manager or the pretreatment standard necessary to determine the compliance status of the user. All compliance reports must be signed and certified in accordance with section 40-245.
+(Ord. of 1-5-2015(1), § 6.4)
+Sec. 40-236. - Reports of changed conditions.
+Each user must notify the city manager of any significant changes to the user's operations or system which might alter the nature, quality, or volume of its wastewater at least 60 days before the change.
+(1)
+The city manager may require the user to submit such information as may be deemed necessary to evaluate the changed condition, including the submission of a wastewater discharge permit application under section 40-177.
+(2)
+The city manager may issue an individual wastewater discharge permit under section 40-203 or modify an existing wastewater discharge permit under section 40-200 in response to changed conditions or anticipated changed conditions.
+(3)
+For purposes of this requirement, significant changes include, but are not limited to, flow increases of 10,000 gallons per day or greater, and the discharge of any previously unreported pollutants.
+(Ord. of 1-5-2015(1), § 6.5)
+Sec. 40-237. - Reports of potential problems.
+(a)
+In the case of any discharge, including, but not limited to, accidental discharges, discharges of a nonroutine, episodic nature, a noncustomary batch discharge, a slug discharge or slug load, that might cause potential problems for the POTW, the user shall immediately telephone and notify the city manager of the incident. This notification shall include the location of the discharge, type of waste, concentration and volume, if known, and corrective actions taken by the user.
+(b)
+Within five days following such discharge, the user shall submit a detailed written report describing the cause of the discharge and the measures to be taken by the user to prevent similar future occurrences. Such notification shall not relieve the user of any expense, loss, damage, or other liability which might be incurred as a result of damage to the POTW, natural resources, or any other damage to person or property; nor shall such notification relieve the user of any fines, penalties, or other liability which may be imposed pursuant to this article. The report shall specify:
+(1)
+Description and cause of the upset, slug load or accidental discharge, the cause thereof, and the impact on the user's compliance status. The description should also include location of discharge, type, concentration and volume of waste.
+(2)
+Duration of noncompliance, including exact elates and times of noncompliance and, if the noncompliance is continuing, the time by which compliance is reasonably expected to occur.
+(3)
+All steps taken or to be taken to reduce, eliminate, and/or prevent reoccurrence of such an upset, slug load, accidental discharge, or other conditions of noncompliance.
+(c)
+A notice shall be permanently posted on the user's bulletin board or other prominent place advising employees who to call in the event of a discharge described in subsection (a) of this section. Employers shall ensure that all employees, who could cause such a discharge to occur, are advised of the emergency notification procedure.
+(d)
+Significant industrial users are required to notify the city manager immediately of any changes at its facility affecting the potential for a slug discharge.
+(Ord. of 1-5-2015(1), § 6.6)
+Sec. 40-238. - Reports from unpermitted users.
+All users not required to obtain an individual wastewater discharge permit shall provide appropriate reports to the city manager as the city manager may require.
+(Ord. of 1-5-2015(1), § 6.7)
+Sec. 40-239. - Notice of violation/repeat sampling and reporting.
+If sampling performed by a user indicates a violation, the user must notify the city manager within 24 hours of becoming aware of the violation. The user shall also repeat the sampling and analysis and submit the results of the repeat analysis to the city manager within 30 days after becoming aware of the violation. Resampling by the industrial user is not required if the city performs sampling at the user's facility at least once a month, or if the city performs sampling at the user between the time when the initial sampling was conducted and the time when the user or the city receives the results of this sampling, or if the city has performed the sampling and analysis in lieu of the industrial user.
+(Ord. of 1-5-2015(1), § 6.8)
+Sec. 40-240. - Discharge prohibited.
+Discharge of hazardous wastes to the city's POTW is prohibited.
+(Ord. of 1-5-2015(1), § 6.9)
+Sec. 40-241. - Analytical requirements.
+All pollutant analyses, including sampling techniques, to be submitted as part of a wastewater discharge permit application or report shall be performed in accordance with the techniques prescribed in 40 CFR part 136 and amendments thereto, unless otherwise specified in an applicable categorical pretreatment standard. If 40 CFR part 136 does not contain sampling or analytical techniques for the pollutant in question, or where the EPA determines that the part 136 sampling and analytical techniques are inappropriate for the pollutant in question, sampling and analyses shall be performed by using validated analytical methods or any other applicable sampling and analytical procedures, including procedures suggested by the city manager or other parties approved by EPA.
+(Ord. of 1-5-2015(1), § 6.10)
+Sec. 40-242. - Sample collection.
+Samples collected to satisfy reporting requirements must be based on data obtained through appropriate sampling and analysis performed during the period covered by the report, based on data that is representative of conditions occurring during the reporting period.
+(1)
+Except as indicated in subsections (2) and (3) of this section, the user must collect wastewater samples using 24-hour flow-proportional composite sampling techniques, unless time-proportional composite sampling or grab sampling is authorized by the city manager. Where time-proportional composite sampling or grab sampling is authorized by the city, the samples must be representative of the discharge. Using protocols (including appropriate preservation) specified in 40 CFR part 136 and appropriate EPA guidance, multiple grab samples collected during a 24-hour period may be composited prior to the analysis as follows: for cyanide, total phenols, and sulfides the samples may be composited in the laboratory or in the field; for volatile organics and oil and grease, the samples may be composited in the laboratory. Composite samples for other parameters unaffected by the compositing procedures as documented in approved EPA methodologies may be authorized by the city, as appropriate. In addition, grab samples may be required to show compliance with instantaneous limits.
+(2)
+Samples for oil and grease, temperature, pH, cyanide, total phenols, sulfides, and volatile organic compounds must be obtained using grab collection techniques.
+(3)
+For sampling required in support of baseline monitoring and 90-day compliance reports required in sections 40-232 and 40-234, and 40 CFR 403.12(b) and (d), a minimum of four grab samples must be used for pH, cyanide, total phenols, oil and grease, sulfide and volatile organic compounds for facilities for which historical sampling data do not exist; for facilities for which historical sampling data are available, the city manager may authorize a lower minimum. For the reports required by section 40-235 and 40 CFR 403.12(e) and (h), the industrial user is required to collect the number of grab samples necessary to assess and ensure compliance by with applicable pretreatment standards and requirements.
+(Ord. of 1-5-2015(1), § 6.11)
+Sec. 40-243. - Date of receipt of reports.
+Written reports will be deemed to have been submitted on the date postmarked. For reports, which are not mailed, postage prepaid, into a mail facility serviced by the United States Postal Service, the date of receipt of the report shall govern.
+(Ord. of 1-5-2015(1), § 6.12)
+Sec. 40-244. - Recordkeeping.
+Users subject to the reporting requirements of this division shall retain, and make available for inspection and copying, all records of information obtained pursuant to any monitoring activities required by this division, any additional records of information obtained pursuant to monitoring activities undertaken by the user independent of such requirements, and documentation associated with best management practices. Records shall include the date, exact place, method, and time of sampling, and the name of the person taking the samples; the dates analyses were performed; who performed the analyses; the analytical techniques or methods used; and the results of such analyses. These records shall remain available for a period of at least three years. This period shall be automatically extended for the duration of any litigation concerning the user or the city, or where the user has been specifically notified of a longer retention period by the city manager.
+(Ord. of 1-5-2015(1), § 6.13)
+Sec. 40-245. - Certification of permit applications, user reports and initial monitoring waiver.
+The following certification statement is required to be signed and submitted by users submitting permit applications in accordance with section 40-179; users submitting baseline monitoring reports under section 40-232(b)(5); users submitting reports on compliance with the categorical pretreatment standard deadlines under section 40-234; and users submitting periodic compliance reports required by section 40-235, the following certification statement must be signed by an authorized representative, as defined in section 40-80:
+"I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to ensure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of the person who manage the system, or those persons directly responsible for gathering the information, the information submitted is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations."
+(Ord. of 1-5-2015(1), § 6.14)
+Secs. 40-246—40-268. - Reserved.
+DIVISION 7. - COMPLIANCE MONITORING
+
+Sec. 40-269. - Right of entry; inspection and sampling.
+The city manager shall have the right to enter the premises of any user to determine whether the user is complying with all requirements of this article and any individual wastewater discharge permit or order issued under this division. Users shall allow the city manager ready access to all parts of the premises for the purposes of inspection, sampling, records examination and copying, and the performance of any additional duties.
+(1)
+Where a user has security measures in force which require proper identification and clearance before entry into its premises, the user shall make necessary arrangements with its security guards so that, upon presentation of suitable identification, the city manager shall be permitted to enter without delay for the purposes of performing specific responsibilities.
+(2)
+The city manager shall have the right to set up on the user's property, or require installation of, such devices as are necessary to conduct sampling and/or metering of the user's operations.
+(3)
+The city manager may require the user to install monitoring equipment as necessary. The facility's sampling and monitoring equipment shall be maintained at all times in a safe and proper operating condition by the user at its own expense. All devices used to measure wastewater flow and quality shall be calibrated at least quarterly to ensure their accuracy.
+(4)
+Any temporary or permanent obstruction to safe and easy access to the facility to be inspected and/or sampled shall be promptly removed by the user at the written or verbal request of the city manager and shall not be replaced. The costs of clearing such access shall be borne by the user.
+(5)
+Unreasonable delays in allowing the city manager access to the user's premises shall be a violation of this section.
+(Ord. of 1-5-2015(1), § 7.1)
+Sec. 40-270. - Search warrants.
+If the city manager has been refused access to a building, structure, or property, or any part thereof, and is able to demonstrate probable cause to believe that there may be a violation of this article, or that there is a need to inspect and/or sample as part of a routine inspection and sampling program of the city designed to verify compliance with this article or any permit or order issued hereunder, or to protect the overall public health, safety, and welfare of the community, the city manager may seek issuance of a search warrant from the Gwinnett or Hall County superior court, as appropriate.
+(Ord. of 1-5-2015(1), § 7.2)
+Secs. 40-271—40-288. - Reserved.
+DIVISION 8. - CONFIDENTIAL INFORMATION
+
+Sec. 40-289. - Disclosure of public records, trade secrets, etc.
+Information and data on a user obtained from reports, surveys, wastewater discharge permit applications, individual wastewater discharge permits, and monitoring programs, and from the city manager's inspection and sampling activities, shall be available to the public without restriction, unless the user specifically requests, and is able to demonstrate to the satisfaction of the city manager, that the release of such information would divulge information, processes, or methods of production entitled to protection as trade secrets under applicable state law. Any such request must be asserted at the time of submission of the information or data. When requested and demonstrated by the user furnishing a report that such information should be held confidential, the portions of a report which might disclose trade secrets or secret processes shall not be made available for inspection by the public, but shall be made available immediately upon request to governmental agencies for uses related to the NPDES program or pretreatment program, and in enforcement proceedings involving the person furnishing the report. Wastewater constituents and characteristics and other effluent data, as defined in 40 CFR 2.302, shall not be recognized as confidential information and shall be available to the public without restriction.
+(Ord. of 1-5-2015(1), art. 8)
+Secs. 40-290—40-311. - Reserved.
+DIVISION 9. - PUBLICATION OF NAMES OF USERS IN SIGNIFICANT NONCOMPLIANCE
+
+Sec. 40-312. - Significant noncompliance defined; publication of users in such state.
+The city manager shall publish annually, in the largest daily newspaper located in Gwinnett or Hall Counties, a list of the users which, at any time during the previous 12 months, were in significant noncompliance with applicable pretreatment standards and requirements. The term "significant noncompliance" shall be applicable to all significant industrial users (or any other industrial user that violates subsection (3), (4) or (8) of this section) and means:
+(1)
+Chronic violations of wastewater discharge limits, defined here as those in which 66 percent or more of all the measurements taken for the same pollutant parameter taken during a six-month period exceed (by any magnitude) a numeric pretreatment standard or requirement, including instantaneous limits, as provided in division 2 of this article;
+(2)
+Technical review criteria (TRC) violations, defined here as those in which 33 percent or more of wastewater measurements taken for each pollutant parameter during a six-month period equals or exceeds the product of the numeric pretreatment standard or requirement including instantaneous limits, as provided in division 2 of this article, multiplied by the applicable criteria (1.4 for BOD, TSS, fats, oils and grease, and 1.2 for all other pollutants except pH);
+(3)
+Any other violation of a pretreatment standard or requirement, as provided in division 2 of this article (daily maximum, long-term average, instantaneous limit, or narrative standard) that the city manager determines has caused, alone or in combination with other discharges, interference or pass through, including endangering the health of POTW personnel or the general public;
+(4)
+Any discharge of a pollutant that has caused imminent endangerment to the public or to the environment, or has resulted in the city manager's exercise of its emergency authority to halt or prevent such a discharge;
+(5)
+Failure to meet, within 90 days of the scheduled date, a compliance schedule milestone contained in an individual wastewater discharge permit or enforcement order for starting construction, completing construction, or attaining final compliance;
+(6)
+Failure to provide within 30 days after the due date, any required reports, including baseline monitoring reports, reports on compliance with categorical pretreatment standard deadlines, periodic self-monitoring reports, and reports on compliance with compliance schedules;
+(7)
+Failure to accurately report noncompliance; or
+(8)
+Any other violation, which may include a violation of best management practices, which the city manager determines will adversely affect the operation or implementation of the local pretreatment program.
+(Ord. of 1-5-2015(1), art. 9)
+Secs. 40-313—40-342. - Reserved.
+DIVISION 10. - ADMINISTRATIVE ENFORCEMENT REMEDIES
+
+Sec. 40-343. - Notification of violation.
+When the city manager finds that a user has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, the city manager may serve upon that user a written notice of violation. Within 30 days of the receipt of such notice, an explanation of the violation and a plan for the satisfactory correction and prevention thereof, to include specific required actions, shall be submitted by the user to the city manager. Submission of such a plan in no way relieves the user of liability for any violations occurring before or after receipt of the notice of violation. Nothing in this section shall limit the authority of the city manager to take any action, including emergency actions or any other enforcement action, without first issuing a notice of violation.
+(Ord. of 1-5-2015(1), § 10.1)
+Sec. 40-344. - Consent orders.
+The city manager may enter into consent orders, assurances of compliance, or other similar documents establishing an agreement with any user responsible for noncompliance. Such documents shall include specific action to be taken by the user to correct the noncompliance within a time period specified by the document. Such documents shall have the same force and effect as the administrative orders issued pursuant to sections 40-346 and 40-347 and shall be judicially enforceable.
+(Ord. of 1-5-2015(1), § 10.2)
+Sec. 40-345. - Show cause hearing.
+The city manager may order a user which has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, to appear before the city manager and show cause why the proposed enforcement action should not be taken. Notice shall be served on the user specifying the time and place for the meeting, the proposed enforcement action, the reasons for such action, and a request that the user show cause why the proposed enforcement action should not be taken. The notice of the meeting shall be served personally or by registered or certified mail (return receipt requested) at least seven days prior to the hearing. Such notice may be served on any authorized representative of the user, as defined in section 40-80 and required by section 40-179. A show cause hearing shall not be a bar against, or prerequisite for, taking any other action against the user.
+(Ord. of 1-5-2015(1), § 10.3)
+Sec. 40-346. - Compliance orders.
+When the city manager finds that a user has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, the city manager may issue an order to the user responsible for the discharge directing that the user come into compliance within a specified time. If the user does not come into compliance within the time provided, sewer service may be discontinued unless adequate treatment facilities, devices, or other related appurtenances are installed and properly operated. Compliance orders also may contain other requirements to address the noncompliance, including additional self-monitoring and management practices designed to minimize the amount of pollutants discharged to the sewer. A compliance order may not extend the deadline for compliance established for a pretreatment standard or requirement, nor does a compliance order relieve the user of liability for any violation, including any continuing violation. Issuance of a compliance order shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(Ord. of 1-5-2015(1), § 10.4)
+Sec. 40-347. - Cease and desist orders.
+When the city manager finds that a user has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, or that the user's past violations are likely to recur, the city manager may issue an order to the user directing it to cease and desist all such violations and directing the user to:
+(1)
+Immediately comply with all requirements; and
+(2)
+Take such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and/or terminating the discharge. Issuance of a cease and desist order shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(Ord. of 1-5-2015(1), § 10.5)
+Sec. 40-348. - Administrative fines.
+(a)
+When the city manager finds that a user has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, the city manager may fine such user in an amount not to exceed $1,000.00. Such fines shall be assessed on a per-violation, per-day basis. In the case of monthly or other long-term average discharge limits, fines shall be assessed for each day during the period of violation.
+(b)
+Unpaid charges, fines, and penalties shall, after 30 calendar days, be assessed an additional penalty of ten percent of the unpaid balance, and interest shall accrue thereafter at a rate of 1.5 percent per month. A lien against the user's property shall be sought for unpaid charges, fines, and penalties.
+(c)
+Users desiring to dispute such fines must file a written request for the city manager to reconsider the fine along with full payment of the fine amount within seven days of being notified of the fine. Where a request has merit, the city manager may convene a hearing on the matter. In the event the user's appeal is successful, the payment, together with any interest accruing thereto, shall be returned to the user. The city manager may add the costs of preparing administrative enforcement actions, such as notices and orders, to the fine.
+(d)
+Issuance of an administrative fine shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(Ord. of 1-5-2015(1), § 10.6)
+Sec. 40-349. - Emergency suspensions.
+(a)
+The city manager may immediately suspend a user's discharge, after informal notice to the user, whenever such suspension is necessary to stop an actual or threatened discharge, which reasonably appears to present, or cause an imminent or substantial endangerment to the health or welfare of persons. The city manager may also immediately suspend a user's discharge, after notice and opportunity to respond, that threatens to interfere with the operation of the POTW, or which presents, or may present, an endangerment to the environment.
+(b)
+Any user notified of a suspension of its discharge shall immediately stop or eliminate its contribution. In the event of a user's failure to immediately comply voluntarily with the suspension order, the city manager may take such steps as deemed necessary, including immediate severance of the sewer connection, to prevent or minimize damage to the POTW, its receiving stream, or endangerment to any individuals. The city manager may allow the user to recommence its discharge when the user has demonstrated to the satisfaction of the city manager that the period of endangerment has passed, unless the termination proceedings in section 40-350 are initiated against the user.
+(c)
+A user that is responsible, in whole or in part, for any discharge presenting imminent endangerment shall submit a detailed written statement, describing the causes of the harmful contribution and the measures taken to prevent any future occurrence, to the city manager prior to the date of any show cause or termination hearing under section 40-345 or 40-350.
+(d)
+Nothing in this section shall be interpreted as requiring a hearing prior to any emergency suspension under this section.
+(Ord. of 1-5-2015(1), § 10.7)
+Sec. 40-350. - Termination of discharge.
+(a)
+In addition to the provisions in section 40-202, any user who violates the following conditions is subject to discharge termination:
+(1)
+Violation of individual wastewater discharge permit conditions;
+(2)
+Failure to accurately report the wastewater constituents and characteristics of its discharge;
+(3)
+Failure to report significant changes in operations or wastewater volume, constituents, and characteristics prior to discharge;
+(4)
+Refusal of reasonable access to the user's premises for the purpose of inspection, monitoring, or sampling; or
+(5)
+Violation of the pretreatment standards in division 3 of this article.
+(b)
+Such user will be notified of the proposed termination of its discharge and be offered an opportunity to show cause under section 40-345 why the proposed action should not be taken. Exercise of this option by the city manager shall not be a bar to, or a prerequisite for, taking any other action against the user.
+(Ord. of 1-5-2015(1), § 10.8)
+Secs. 40-351—40-373. - Reserved.
+DIVISION 11. - JUDICIAL ENFORCEMENT REMEDIES
+
+Sec. 40-374. - Injunctive relief.
+When the city manager finds that a user has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, the city manager may petition the city court, Gwinnett County superior court or Hall County superior court, as appropriate, through the city attorney for the issuance of a temporary or permanent injunction, as appropriate, which restrains or compels the specific performance of the individual wastewater discharge permit, order, or other requirement imposed by this article on activities of the user. The city manager may also seek such other action as is appropriate for legal and/or equitable relief, including a requirement for the user to conduct environmental remediation. A petition for injunctive relief shall not be a bar against, or a prerequisite for, taking any other action against a user. Nothing herein shall prevent the city from prosecuting any violations in municipal court where jurisdiction is appropriate.
+(Ord. of 1-5-2015(1), § 11.1)
+Sec. 40-375. - Civil penalties.
+(a)
+A user who has violated, or continues to violate, any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement shall be liable to the city for a maximum civil penalty of $1,000.00 per violation, per day. In the case of a monthly or other long-term average discharge limit, penalties shall accrue for each day during the period of the violation.
+(b)
+The city may recover reasonable attorneys' fees, court costs, and other expenses associated with enforcement activities, including sampling and monitoring expenses, and the cost of any actual damages incurred by the city.
+(c)
+In determining the amount of civil liability, the court shall take into account all relevant circumstances, including, but not limited to, the extent of harm caused by the violation, the magnitude and duration of the violation, any economic benefit gained through the user's violation, corrective actions by the user, the compliance history of the user, and any other factor as justice requires.
+(d)
+Filing a suit for civil penalties shall not be a bar against, or a prerequisite for, taking any other action against a user.
+(Ord. of 1-5-2015(1), § 11.2)
+Sec. 40-376. - Criminal prosecution.
+(a)
+A user who willfully or negligently violates any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement shall, upon conviction, be punished by a fine of not more than $1,000.00 per violation, per day, or imprisonment for not more than six months, or both.
+(b)
+A user who willfully or negligently introduces any substance into the POTW which causes personal injury or property damage shall, upon conviction, be guilty of a violation of this Code and be subject to a penalty of not more than $1,000.00 per violation, per day, or be subject to imprisonment for not more than six months, or both. This penalty shall be in addition to any other cause of action for personal injury or property damage available under state law.
+(c)
+A user who knowingly makes any false statements, representations, or certifications in any application, record, report, plan, or other documentation filed, or required to be maintained, pursuant to this article, individual wastewater discharge permit, or order issued hereunder, or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under this article shall, upon conviction, be punished by a fine of not more than $1,000.00 per violation, per day, or imprisonment for not more than six months, or both.
+(d)
+In the event of a second conviction, a user shall be punished by a fine of not more than $1,000.00 per violation, per day, or imprisonment for not more than one six months, or both.
+(Ord. of 1-5-2015(1), § 11.3)
+Sec. 40-377. - Remedies nonexclusive.
+The remedies provided for in this article are not exclusive. The city manager may take any, all, or any combination of these actions against a noncompliant user. Enforcement of pretreatment violations will generally be in accordance with the city's enforcement response plan. However, the city manager may take other action against any user when the circumstances warrant. Further, the city manager is empowered to take more than one enforcement action against any noncompliant user.
+(Ord. of 1-5-2015(1), § 11.4)
+Secs. 40-378—40-397. - Reserved.
+DIVISION 12. - SUPPLEMENTAL ENFORCEMENT ACTION
+
+Sec. 40-398. - Performance bonds.
+The city manager may decline to issue or reissue an individual wastewater discharge permit to any user who has failed to comply with any provision of this article, a previous individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, unless such user first files a satisfactory bond, payable to the city, in a sum not to exceed a value determined by the city manager to be necessary to achieve consistent compliance.
+(Ord. of 1-5-2015(1), § 12.1)
+Sec. 40-399. - Liability insurance.
+The city manager may decline to issue or reissue an individual wastewater discharge permit to any user who has failed to comply with any provision of this article, a previous individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, unless the user first submits proof that it has obtained financial assurances sufficient to restore or repair damage to the POTW caused by its discharge.
+(Ord. of 1-5-2015(1), § 12.2)
+Sec. 40-400. - Water supply severance.
+Whenever a user has violated or continues to violate any provision of this article, an individual wastewater discharge permit, or order issued hereunder, or any other pretreatment standard or requirement, water service to the user may be severed. Service will recommence, at the user's expense, only after the user has satisfactorily demonstrated its ability to comply.
+(Ord. of 1-5-2015(1), § 12.3)
+Sec. 40-401. - Public nuisances.
+A violation of any provision of this article, an individual wastewater discharge permit, or order issued under this article, or any other pretreatment standard or requirement is hereby declared a public nuisance and shall be corrected or abated as directed by the city manager. Any person creating a public nuisance shall be subject to the provisions of this Code governing such nuisances, including reimbursing the city for any costs incurred in removing, abating, or remedying said nuisance.
+(Ord. of 1-5-2015(1), § 12.4)
+Secs. 40-402—40-430. - Reserved.
+DIVISION 13. - INDUSTRIAL PRETREATMENT PROGRAM CHARGES AND FEES
+
+Sec. 40-431. - Fees and service charges established.
+It is hereby determined necessary to fix and collect service charges and fees from sewer service users. Such charges shall be established by the city commission and shall be published separate from this article. The revenue received shall be used for operation, monitoring and other authorized expenses of the industrial pretreatment program.
+(Ord. of 1-5-2015(1), art. 13)
+Secs. 40-432—40-460. - Reserved.

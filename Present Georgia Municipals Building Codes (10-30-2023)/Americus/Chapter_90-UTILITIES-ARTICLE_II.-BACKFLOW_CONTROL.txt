@@ -1,0 +1,132 @@
+ARTICLE II. - BACKFLOW CONTROL[1]
+
+Footnotes:
+--- (1) ---
+Editor's note— Ord. No. O-11-11-25, exh. A, adopted Nov. 17, 2011, amended art. II in its entirety to read as herein set out, with the exception of § 90-32, which remains unchanged. Former art. II, §§ 90-23—90-32, pertained to similar subject matter and derived from: Code 1986, §§ 13-40—13-48; Ord. No. O-85-07-16, §§ 1—3, adopted June 27, 1985; and Ord. No. O-95-11-35, adopted Nov. 30, 1995.
+
+Sec. 90-23. - Definitions.
+The definitions found in the city plumbing code for backflow, cross-connections, and backflow prevention devices shall be those used in this article. In addition, the following definitions shall apply:
+Air gap means a physical separation sufficient to prevent backflow between the free-flowing discharge end of the potable water system and any other system. Physically defined as a distance equal to twice the diameter of the supply side pipe diameter but never less than one inch.
+Approved means accepted by the director of public works as meeting an applicable specification stated or cited in this regulation, or as suitable for the proposed use.
+Auxiliary water supply means any water supply on or available to the premises other than the city's approved public water supply. These auxiliary waters may include water from another purveyor's public potable water supply or any natural sources such as a well, spring, river, stream, harbor, etc., or used waters or industrial fluids. These waters may be contaminated or polluted or they may be objectionable and constitute an unacceptable water source over which the city does not have sanitary control.
+Backflow means the flow of water or other liquids, mixtures, or substances under positive or reduced pressure in the distribution pipes of a potable water supply from any source other than its intended source.
+Backflow preventer means a device or means designed to prevent backflow or backsiphonage. Most commonly categorized as air gap, reduced pressure principal assembly, double-check valve assembly, pressure vacuum breaker, atmospheric vacuum breaker, hose bibb vacuum breaker, residential dual check and barometric loop.
+Containment means a method of backflow prevention which requires a backflow preventer at the water service entrance.
+Contaminant means a substance that will impair the quality of the water to a degree that it creates a serious health hazard to the public, leading to poisoning or the spread of disease.
+Contamination means an impairment of the quality of the potable water by sewage, industrial fluids or waste liquids, compounds or other materials to a degree which creates an actual or potential hazard to the public health through poisoning or through the spread of disease.
+Cross-connection means a connection or potential connection between any part of a potable water system and any other environment containing other substances in a manner that, under any circumstances, would allow such substances to enter the potable water system. Other substances may be gases, liquids or solids, such as chemicals, waste products, steam, water from other sources (potable or nonpotable), or any other matter that may change the color and/or add odor to the water.
+Cross-connection control by containment means the installation of an approved backflow prevention device at the water service connection to any customer's premises where it is physically and economically infeasible to find and permanently eliminate or control all actual or potential cross-connections within the customer's water system; or, it shall mean the installation of an approved backflow prevention device on the service line leading to and supplying a portion of a customer's water system where there are actual or potential cross-connections which cannot be effectively eliminated or controlled at the point of the cross-connection.
+Cross-connection, controlled means a connection between a potable water system and a nonpotable water system with an approved backflow prevention device properly installed and maintained so that it will continuously afford the protection commensurate with the degree of hazard.
+Customer means a person or entity receiving water or sewer services from the City of Americus Public Works Department.
+Department means the City of Americus Public Works Department.
+Double-check backflow preventer means an assembly of two independently operating spring-loaded check valves with tightly-closing shut off valves on each side of the check valves and properly located test cocks allowing for the testing of each check valve on each line, specifically a double-check valve assembly (DCVA) or a double-check detector assembly (DCDA).
+Hazard assessment means a hazard determination conducted pursuant to Section 608 of the Georgia State Minimum Standard Plumbing Code.
+Hazard, degree of, means the term is derived from an evaluation of the potential risk to public health and the adverse effect of the hazard upon the potable water system.
+Hazard, health, means any condition, device, or practice in the water supply system and its operation which could create, or in the judgment of the building official, may create a danger to the health and well-being of the water consumer.
+Hazard, plumbing, means a plumbing-type cross-connection in a consumer's potable water system that has not been properly protected by an approved air gap or approved backflow prevention device.
+Hazard, pollutional, means an actual or potential threat to the physical properties of the water system or to the potability of the public or the consumer's potable water system but which would constitute a nuisance or be aesthetically objectionable or could cause damage to the system or its appurtenances, but would not be dangerous to health.
+Hazard, system, means an actual or potential threat of severe damage to the physical properties of the public potable water system or the consumer's potable water system or of a pollution or contamination which would have a protracted effect on the quality of the potable water in the system.
+Industrial fluids system means any system containing a fluid or solution which may be chemically, biologically or otherwise contaminated or polluted in a form or concentration such as would constitute a health, system, pollutional or plumbing hazard if introduced into an approved water supply. This may include, but is not limited to: Polluted or contaminated waters; all types of process waters and used waters originating from the public potable water system which may have deteriorated in sanitary quality; chemicals in fluid form; plating acids and alkalies; circulating cooling water connected to an open cooling tower and/or cooling towers that are chemically or biologically treated or stabilized with toxic substances; contaminated natural waters such as from wells, springs, streams, rivers, bays, harbors, seas, irrigation canals or systems, etc.; oils, gases, glycerine, paraffins, caustic and acid solutions and other liquid and gaseous fluids used in industrial or other purposes or for firefighting purposes.
+Owner means any person who has legal title to, or license to operate or inhabit, a property upon which a cross-connection inspection is to be made or upon which a cross-connection is deemed likely by the City of Americus Public Works.
+Permit means a document issued by the department which allows the installation of a backflow preventer.
+Person means any individual, partnership, company, public or private corporation, political subdivision or agency of the state department, agency or instrumentality or the United States or any other legal entity.
+Pollutant means a foreign substance that, if permitted to get into the public water system, will degrade its quality so as to constitute a moderate hazard or impair the usefulness or quality of the water to a degree that does not create an actual hazard to the public health, but which does adversely and unreasonably affect such water for domestic use.
+Reduced pressure principle backflow preventer means an assembly consisting of two independently operating approved check valves with an automatically operating differential relief valve located between the two check valves, tightly-closing shut-off valves on each side of the check valves and properly located test cocks allowing for the testing of the check valves and the relief valve on each line, specifically a reduced pressure principal assembly (RP) or a reduced pressure principal detector assembly (RPDA).
+Residential dual check means an assembly of two spring loaded, independently operating check valves without tightly closing shut-off valves or test cocks. Generally employed immediately downstream of the water meter to act as a containment device.
+Water service connection means the terminal end of a service connection from the public potable water system, i.e., where the water purveyor loses jurisdiction and sanitary control over the water at its point of delivery to the customer's water system. If a meter is installed at the end of the service connection, then the term "service connection" shall mean the downstream end of the meter. There shall be no unprotected takeoffs from the service line ahead of any meter or backflow prevention device located at the point of delivery to the customer's water system. Service connection shall also include water service connection from a fire hydrant and all other temporary or emergency water service connections from the public potable water system.
+Water used means any water supplied by the city from the public potable water system to a consumer's water system after it has passed through the point of delivery and is no longer under the sanitary control of the city water department.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-24. - Purpose.
+The purpose of this article is to:
+(1)
+Protect the public potable water supply of the city from the possibility of contamination or pollution by containing within the customer's internal distribution systems or the customer's private water systems such contaminates or pollutants which could backflow into the public water system through an undiscovered or uncontrolled cross-connection on said premises;
+(2)
+Promote the elimination or control of existing cross-connections, actual or potential, between the customer's in-plant potable water systems and nonpotable water systems, plumbing fixtures and industrial piping systems; and
+(3)
+Provide for the maintenance of a continuing program of cross-connection control which will systematically attempt to prevent the contamination or pollution of all potable water systems.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-25. - Protection of system; fees and charges; installation of assemblies.
+(a)
+In accordance with the Federal Safe Drinking Water Act of 1974, and the Georgia Rules for Safe Drinking Water Section 391-3-5-.13, the Water Purveyor, City of Americus Public Works, has the primary responsibility for preventing water from unapproved sources, or any other substances, from entering the public potable water system.
+(b)
+The City of Americus is authorized to charge a nominal fee to water customers for the purpose of funding the cross-connection control program. The City of Americus is also authorized to charge an additional fee to businesses for funding the cross-connection control program and the associated inspections. Should a water customer fail to comply with the requirements set out herein, the City of Americus has the authority to install, test, and repair backflow prevention assemblies and pass on costs to the customer associated with the work, including, but not limited to, labor, parts and administration. The City of Americus Public Works Department has the authority to hire or designate an on-call or consulting engineer to offer support with tasks associated with upkeep of the cross-connection control program.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-25.1. - Obligations and responsibilities.
+The following obligations shall be undertaken and performed by the named persons or entities:
+(1)
+Purveyor. The Director of Public Works for the City of Americus, Georgia, or a designee on his or her behalf, as authorized through this article, is primarily responsible for preventing contamination and pollution of the public water supply by instituting the cross-connection control program, as approved by the Georgia Environmental Protection Division. Such responsibility begins at the point of origin for the public potable water supply, includes all of the distribution system, and terminates at the service connection for the customer's water system. In addition, the director shall exercise reasonable vigilance to ensure that the customer adheres to this policy and these procedures as stated and outlined herein.
+(2)
+Customer. The business and residential customers will be responsible for all work and costs related to installing, certifying and maintaining the required backflow assemblies. The required customer-supplied backflow prevention assembly at the service connection shall provide maximum protection for locations deemed "high hazard" (reduced pressure principal backflow preventer — RP, RPDA or air gap), or minimum protection for locations deemed "low hazard" (double-check backflow preventer — DCVA, DCDA) as directed by the department or an authorized representative thereof.
+(3)
+Building code official. The building inspection department is primarily responsible for enforcing the State of Georgia Plumbing Code to prevent contamination and pollution within the customer's water system in accordance with applicable plumbing and building codes requiring that all outlets terminate through an approved air gap or be controlled by an approved mechanical backflow prevention device. Such responsibility begins at the service connection to the premises and extends to the extremities of the customer's potable water supply.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011; Ord. No. O-12-04-09, 4-19-2012)
+Sec. 90-26. - Water system components.
+The water system shall be considered as made up of two parts: The utility system and the customer system.
+(1)
+Utility system. The utility system shall consist of the source facilities and the distribution system and shall include all those facilities of the water system under the complete control of the city, up to the point where the customer's system begins.
+a.
+Source facilities. The source shall include all components of the facilities utilized in the production, treatment, storage and delivery of water to the distribution system.
+b.
+Distribution system. The distribution system shall include the network of conduits used for the delivery of water from the source to the customer's system.
+(2)
+Customer's system. The customer's system shall include those parts of the facilities beyond the termination of the utility distribution system which are utilized in conveying utility-delivered domestic water to points of use.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-27. - Connection policy.
+(a)
+No water service connection to any premises shall be installed or maintained by the city unless the water supply is protected as required by state law and regulations and this article. The City of Americus shall either discontinue service of water to any premises or take appropriate steps by installing, testing or maintaining a backflow prevention assembly if one is required by this article and state law and has not been tested and maintained, or if it is found that a required backflow prevention assembly has been removed or bypassed, or if an unprotected cross-connection exists on the premises. In the event of disconnection, service will not be restored until such conditions or defects are corrected. Compliance with applicable requirements for backflow prevention shall be verified by the department before water service is reinstated.
+(b)
+The customer's system shall be open for inspection at all reasonable times to the department or authorized representatives of the department to determine whether cross-connections or other structural or sanitary hazards, including violations of these regulations, exist. When such a condition becomes known, the department shall either immediately discontinue service to the premises by providing for a physical break in the service line until the customer has corrected the conditions in conformance with state statutes and city ordinances relating to plumbing and water supplies, and the regulations adopted pursuant thereto, or take appropriate steps by installing, testing or maintaining the assembly to correct the conditions in conformance with state statutes and city ordinances relating to plumbing and water supplies, and the regulations adopted pursuant thereto. All costs incurred shall be passed directly to the customer.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-28. - Installation of assembly in service line.
+An approved backflow prevention assembly shall also be installed on each service line to a customer's water system at or near the property line or immediately inside the building being served; but, in all cases, before the first branch line leading off the service line wherever the following conditions exist:
+(1)
+Auxiliary water supply. In the case of premises having an auxiliary water supply which is not or may not be of safe bacteriological or chemical quality and which is not acceptable as an additional source by the building official, the public water system shall be protected against backflow from the premises by eliminating the connection between the two systems.
+(2)
+Industrial fluid or hazardous substances. In the case of premises on which any industrial fluid or any other objectionable substance is handled in such a fashion as to create an actual or potential hazard to the public water system, the public system shall be protected against backflow from the premises by installing an approved backflow prevention assembly in the service line appropriate to the degree of hazard. This shall include the handling of process waters and waters originating from the utility system which have been subject to deterioration in quality.
+(3)
+Connection issues. In the case of premises having:
+a.
+Internal cross-connections that cannot be permanently corrected and controlled;
+b.
+Intricate plumbing and piping arrangements; or
+c.
+Where entry to all portions of the premises is not readily accessible for inspection purposes, making it impracticable or impossible to ascertain whether or not dangerous cross-connections exist.
+The public water system shall be protected against backflow from the premises by installing an approved backflow prevention assembly in the service line.
+(4)
+Water heating or pressure producing device. In the case of premises having any water heating device or any other pressure-producing device connected to the customer's system, a thermal protection device, either a thermal expansion tank or a calibrated pressure-relief valve set at 80 psi, will be required in order to protect against damage caused by thermal expansion of a system closed with backflow preventer.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-29. - Type of assembly.
+The type of protective assembly required under subsections 90-28(1)—(3) shall depend upon the degree of hazard which exists as follows:
+(1)
+Auxiliary water supply. In the case of any premises where there is an auxiliary water supply as stated in subsection 90-28(1) and it is not subject to any of the following rules, the public water system shall be protected by an approved air gap separation or an approved reduced pressure principle backflow prevention assembly.
+(2)
+Objectionable substances. In the case of any premises where there is water or substance that would be objectionable, but not hazardous to health, if introducted into the public water system, the public water system shall be protected by an approved double-check valve assembly.
+(3)
+Hazardous substances. In the case of any premises where there is any material dangerous to health which is handled in such a fashion as to create an actual or potential hazard to the public water system, the public water system shall be protected by an approved air gap separation or any approved reduced pressure principle backflow prevention assembly. Examples of premises where these conditions will exist include sewage treatment plants, sewage pumping stations, chemical manufacturing plants, hospitals, mortuaries and plating plants.
+(4)
+Connection issues. In the case of any premises where there are uncontrolled cross-connections, either actual or potential, the public water system shall be protected by an approved air gap separation or an approved reduced pressure principle backflow prevention assembly at the service connection.
+(5)
+Other prohibitions or restrictions. In the case of any premises where, because of security requirements or other prohibitions or restrictions, it is impossible or impractical to make a complete in-plant cross-connection survey, the public water system shall be protected against backflow from the premises by either an approved air gap separation or an approved reduced pressure principle backflow prevention assembly on each service to the premises.
+(6)
+Unknown hazards. In the case of any premises where there is no known pollutional or contaminant hazard, as described or covered in subsections (1) through (5) of this section, the public water system shall be protected by an approved residential dual-check valve at the service connection.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-30. - Approved backflow prevention assembly.
+Any backflow prevention assembly device assembly required herein shall be a model and size approved by the building official. The term "approved backflow prevention assembly" shall mean an assembly that has been manufactured in full conformance with the standards established in the city and state plumbing codes.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-31. - Tests; repair of assemblies.
+(a)
+Periodic testing. Annual testing shall be performed by a tester certified by one of the approved programs. This testing will be coordinated by the owner and performed at the owner's expense. Assemblies shall also be tested immediately following installation, repair or relocation of an assembly. Test reports must be submitted within seven days from the date that the test is performed. Any backflow preventer that fails during a periodic test will be repaired or replaced. When repairs are necessary, upon completion of the repair, the assembly will be retested at the customer's expense to insure correct operation. In situations where the public water system is not deemed by the department to be immediately threatened by a health or pollutional hazard, a compliance date of not more than 30 days after the test date will be established. If a customer does not comply with installation, testing or repair within 60 days of notifications, the department may perform installation, testing or repair and bill the customer for the cost of the work, parts, and any associated administrative costs.
+(b)
+Backflow assembly testers. In accordance with the State of Georgia Environmental Protection Division requirements, backflow testers for the City of Americus must be certified by one of the State of Georgia approved agencies in order to test backflow assemblies. Certification is valid for up to three years or until such time as his or her certification expires, whichever comes first. In order to certify backflow prevention assemblies for the City of Americus, testers must complete an application, including, but not limited to, a copy of his or her current tester certificate from one of the approved agencies, a copy of the current calibration certificate of the approved backflow gauge to be used by the tester, and the business license under which he or she will be practicing. A list of testers will be published and made available to customers who require a backflow assembly test.
+(c)
+Backflow assembly repairs. All backflow assembly repairs shall be performed by a person or persons working under a current plumber's license.
+(d)
+Backflow assembly installation. In accordance with State of Georgia's Cross-Connection Control requirements, all installations of backflow assemblies shall be performed by a person or persons working under a current plumber's license.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-31.1. - Installation of residential dual-checks.
+Residential dual-checks shall be installed by the department or a designee thereof.
+(Ord. No. O-11-11-25, exh. A, 11-17-2011)
+Sec. 90-32. - Nonconforming devices.
+All presently installed backflow prevention devices which do not meet the requirements of this section, but were approved devices for the purposes described herein at the time of installation and which have been properly maintained, shall, except for the inspection and maintenance requirements under section 90-31, be excluded from the requirements of these rules so long as the building official is assured that they will satisfactorily protect the utility system. Whenever the existing device is moved from the present location or requires more than minimum maintenance or when the building official finds that the maintenance constitutes a hazard to health, the unit shall be replaced by an approved backflow prevention device meeting the requirements of this section.
+(Code 1986, § 13-49; Ord. No. O-85-07-16, § 3.2.7, 6-27-1985; Ord. No. O-95-11-35, 11-30-1995)
+Secs. 90-33—90-52. - Reserved.

@@ -1,0 +1,455 @@
+Chapter 36 - SOLID WASTE
+ARTICLE I. - IN GENERAL
+
+Sec. 36-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Approved receptacle for residential solid waste means a receptacle allowed pursuant to the regulations of the county for residential solid waste. All containers shall be waterproof. Oil or grease drums, paint cans and similar salvaged containers shall not be acceptable.
+Approved receptacle for yard debris trimmings means a biodegradable paper bag, empty cardboard box, clean galvanized metal container or durable plastic container with a capacity of not less than 20 gallons and no more than 40 gallons. Containers shall have two durable handles on the sides thereof or a bail by which it may be lifted. Oil or grease drums, paint cans and similar salvaged containers shall not constitute an approved receptacle for yard debris trimmings.
+Collector means a person who, under agreements, verbal or written, with or without compensation, does the work of collecting or transporting solid waste from industries, offices, retail outlets, businesses, institutions or similar locations or from residential dwellings; provided, however, that this definition shall not include an individual collecting or transporting waste from the individual's own single-family dwelling unit.
+Commercial container means a manufactured container suitable for emptying by mechanical equipment and approved by the director. The following general standards are prescribed for commercial containers:
+(1)
+All containers must be steel, continuous welded and properly reinforced.
+(2)
+All lids will be flanged and reinforced for strength.
+(3)
+Pickup side of container shall be reinforced inside or outside at point of torque tub contact.
+(4)
+Inside reinforcement shall be pressed steel angel.
+(5)
+Bottoms shall be reinforced with 1½-inch drain plug installed flush to bottom.
+(6)
+All containers shall be primed and finished with enamel and epoxy paint.
+(7)
+Body dimensions as to length and height of container can vary with the size of container; however, all container widths will be 70 inches. Minimum gauges of steel shall be as follows:
+EXPAND
+Walls 12 gauge
+Ends 12 gauge
+Bottoms 12 gauge for 4 cu. ft. and below
+10 gauge for all over 4 cu. ft.
+Lids 16 gauge
+Doors 14 gauge
+  Commercial establishment means any hotel, motel, apartment house, roominghouse, business, industrial, public or semipublic establishment of any nature or kind whatsoever other than a single dwelling unit/residential unit and condominiums.
+Commercial front loader container means a manufactured container suitable for emptying by mechanical equipment and approved by the director.
+Commercial/industrial solid waste means solid waste from commercial establishments that includes, but is not limited to, material from industrial processes, manufacturing canneries, slaughterhouses, packing plants, poultry processing plants or similar industries, and food waste.
+Compactor container means a manufactured commercial container of any size with a self-contained compacting mechanism or an external compactor which is designed to be used in conjunction with the individual home appliance.
+Compactor front loader container means a manufactured commercial container of any size with an external mechanical compacting system that detaches in order to be serviced by driving forward to the container using a commercial front loader vehicle.
+Compactor roll-off container means a manufactured commercial container of any size with an internal or external mechanical compacting system that either detaches or is fully self-contained and is serviced by backing up to the container and hoisting it onto a commercial roll-off container vehicle.
+Condominium means individual ownership units in a multifamily structure with a front and back entrance to each unit on the ground level.
+Construction and demolition solid waste means solid waste from construction and demolition projects that include, but are not limited to, remodeling, repair operations on houses, commercial buildings, multiple dwellings and other structures such as concrete, bricks, plaster, stone, earth, lumber, roofing materials, gutters, shavings and sawdust.
+Conveyance means any automobile, plane, train, bus, bicycle, motorcycle or other method of transporting persons from one place to another.
+Department means the public works department or its contractors.
+Director means the director of the public works department or his designee.
+Discard means to throw, abandon, place, deposit, discharge, dump, bury, burn or dispose of a substance.
+Disposal facility means any facility or location where any treatment, utilization, processing or deposition of solid waste occurs.
+Finance director means the director of the department of finance.
+Garbage means waste, including, but not limited to, food waste, including waste accumulation of animal or vegetable matter used or intended for use as food, or that attends the preparation, use, cooking, dealing in or storing of meat, fish, fowl, fruit or vegetables.
+Hazardous waste means solid or liquid waste that does not meet the toxic characteristic leachate procedure requirements and includes, but is not limited to, highly flammable or explosive wastes; toxic wastes; industrial sludge; and other waste material that the director determines to be a likely hazard to the public health, safety or environment, except radioactive waste materials.
+Incinerator means the high temperature waste combustion unit designed to dispose of pathological matter.
+Landfill means a method of disposing of solid wastes, other than putrescible wastes or hazardous wastes, on land by placing an earth cover thereon.
+Litter means, but is not limited to, any organic or inorganic waste material, rubbish, refuse, garbage, trash, yard debris, hulls, peelings, debris, grass, weeds, ashes, sand, gravel, slag, brickbats, metal, plastic, and glass containers, broken glass, dead animals or intentionally or unintentionally discarded materials of every kind and description but the term "litter" does not include the term "waste" as is defined in O.C.G.A. § 16-7-51(6).
+Multiple dwelling means a building designed for and containing two or more dwelling units.
+Municipal solid waste means, but is not limited to, any solid waste derived from households, including garbage, trash and solid waste from single-family and multifamily residences, hotels and motels, bunkhouses, campgrounds, picnic grounds, and day use recreation areas. The term includes yard debris not separated for recycling and commercial solid waste but does not include solid waste from mining, agricultural, or silvicultural operations or industrial processes or operations.
+Noncombustible trash means, but is not limited to, materials which are unburnable in the incinerator or at incinerator temperature of 800 to 1,800 degrees Fahrenheit such as mineral water, metal furniture, large metal scraps and wires, auto bodies or parts, and other similar materials.
+Owner means any person or entity that generates solid waste on real property in the city or who is designated by the records of the office of tax commissioner as the owner of such real property within the city.
+Plastic bag means a polyethylene or other heavy-duty plastic bag meeting the National Sanitation Foundation standard of at least 1½ mils and not exceeding a 32-gallon capacity.
+Public or private property means the right-of-way of any road or highway; any body of water or watercourse or the shores or beaches thereof; any park, playground, building, refuge, or conservation or recreation area; timberlands or forests; and land used for business, residential, commercial, industrial, or farm purposes.
+Putrescible waste means wastes that are capable of being decomposed by microorganisms. Examples of putrescible wastes include, but are not necessarily limited to, kitchen wastes, animal manure, offal, hatchery and poultry processing plant wastes, and garbage.
+Recycle means any process by which materials that would otherwise become solid waste are collected, separated or processed and reused or returned to use in the form of raw materials or products.
+Refuse means garbage, rubbish or commercial refuse.
+Residential unit means any freestanding structure or shelter or any part thereof used or constructed for use as a residence for one family.
+Sanitary landfill means a method of disposing of putrescible waste on land for final disposition or management.
+Sanitation or sanitary district means designated service areas established by this Code or by a contract with a municipality.
+Scavenge means uncontrolled picking from discarded solid waste materials.
+Solid waste means any garbage or refuse; sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility; and other discarded materials including solid, liquid, semisolid, or contained gaseous material resulting from industrial, commercial, mining, and agricultural operation materials; solid or dissolved matters in domestic sewage; solid or dissolved materials in irrigation return flows or industrial discharges that are point sources subject under 33 USC 1342; or source, special nuclear, or by-product material as defined by the federal Atomic Energy Act of 1954 and as defined by O.C.G.A. § 12-8-22(33).
+Special industrial waste container means any container such as a metal box, bucket, an open bed container or special container used for transporting chemicals, paint, metals, glass, oil products, plastics or any type of material that requires special handling and cannot be incinerated.
+Stationary compactor means an object of refuse container system which compacts refuse at the site of generation into a pull-on detachable container.
+Tax commissioner means the constitutional officer charged with collecting both state, county and special taxes.
+Yard debris means leaves, brush, grass clippings, shrub and tree prunings, discarded Christmas trees, nursery and greenhouse vegetative residuals, and vegetative matter resulting from landscaping development and maintenance other than mining, agricultural, and silvicultural operations.
+(Ord. No. 2017-11-78, exh. (22-1), 11-27-2017)
+Sec. 36-2. - Applicability.
+This chapter applies to the preparation and storage, collection, transportation and disposal of all refuse in the incorporated area of the city. This chapter prescribes rules and regulations therefor, regulates the collection of garbage and refuse, provides for the licensing and regulation of private garbage and refuse collection, prescribes rules and regulations for hauling garbage, refuse and other waste material within the city, and prohibits the unlawful deposit of litter within the city.
+(Ord. No. 2017-11-78, exh. (22-2), 11-27-2017)
+Sec. 36-3. - Private transportation of refuse.
+(a)
+It is unlawful for any person including refuse collectors and sanitary contractors to haul, convey or cause to be conveyed any refuse, including discarded building material or discarded furniture, upon or along the public streets and roadways within the city except when the material transported is adequately secured in such a manner as to prevent it from falling, leaking or being blown from transporting vehicles. The operator or owner of the offending vehicle shall be personally responsible for any violation of this section.
+(b)
+It is unlawful for any person not licensed by the city to collect and haul any refuse other than that arising from such person's own accumulation within any areas of the city in which refuse collection service is maintained by the city.
+(Ord. No. 2017-11-78, exh. (22-3), 11-27-2017)
+Sec. 36-4. - Disposal of refuse and garbage generally.
+(a)
+It is unlawful for any person to dump or to cause to be dumped any garbage, refuse, litter, junk, appliances, equipment, cans, bottles, paper, lumber, trees, tree limbs, brush or parts thereof anywhere in the city except as may be permitted by city regulations.
+(b)
+The provisions of subsection (a) of this section do not apply to the dumping on private property with the owner's permission of sand, dirt, broken dirt, blocks, broken pavement or other suitable material for use as a fill to raise the elevation of the land, provided it is not maintained in an unsightly condition and provided the owner or owners of the property on which such material is dumped agrees to level such dumped material with appropriate grading equipment and assess the cost thereof against the real property on which such material was dumped.
+(c)
+If any of the matter or material dumped in violation of the provisions of subsection (a) of this section can be identified as having last belonged to, been in the possession of, sent to or received by, or to have been the property of any person prior to its being dumped as prohibited therein, this identification shall be presumed to be prima facie evidence that the owner dumped or caused to be dumped such matter and material in violation of this chapter.
+(d)
+For information leading to the arrest and conviction of any person violating the provisions of this chapter or the provisions of any state law prohibiting the dumping of garbage, refuse or litter on any public or private property within the city, the city shall pay a reward in the amount established by action of the city council, a copy of which is on file in the office of the city clerk, to the person furnishing such information leading to such arrest and conviction and such monies as may be a necessary cost of the operation and administration of the city.
+(e)
+All compactors containing combustible materials emptied at a disposal facility will pay the price per ton established in section 36-36.
+(Ord. No. 2017-11-78, exh. (22-4), 11-27-2017)
+Sec. 36-5. - Operation of private landfills.
+No sanitary landfill or dump shall be operated within the city without written approval of the city and the state. Sanitary landfill and landfill hours of operation shall be limited to 18 hours each day, from 6:00 a.m. to 12:00 midnight, unless daily cover is applied and utilized in the manner described in the sanitary landfill's or landfill's design and operating plan approved by the state environmental protection division.
+(Ord. No. 2017-11-78, exh. (22-5), 11-27-2017)
+Secs. 36-6—36-28. - Reserved.
+ARTICLE II. - COLLECTION AND DISPOSAL SERVICE
+
+Sec. 36-29. - Notice to owner, occupant of unacceptable container or area.
+The city, upon determining that a can, container or area is becoming or has become unserviceable or unsanitary or likely to cause an unsanitary condition, shall issue a notice to the owner or occupant of the premises upon which the can, container or condition exists to inform such person of the condition existing.
+(Ord. No. 2017-11-78, exh. (22-26), 11-27-2017)
+Sec. 36-30. - Pickup routes and districts established.
+The city shall divide the incorporated areas of the city into pickup routes, which routes shall be plainly outlined on a map of the city and numbered numerically. The city shall prepare a list of the names of all the streets, roads, alleys, drives, highways and other public thoroughfares within each route; shall keep the map and lists for public inspection; and shall furnish a copy of the map showing any particular route along with a list of the names of the public thoroughfares therein to any person who requests them upon the payment of the actual cost for the reproduction of the map and list by either a city or commercial facility, whichever is available.
+(Ord. No. 2017-11-78, exh. (22-27), 11-27-2017)
+Sec. 36-31. - Preparation and storage of residential refuse for collection; placement; unacceptable refuse.
+It is the duty of the occupant or owner of any premises to keep all refuse pending collection and disposal as follows:
+(1)
+All garbage shall be free from liquid and initially placed in watertight plastic bags with the tops of such bags securely closed. The owner shall then place the closed plastic bags in an approved receptacle for residential solid waste for collection and removal.
+(2)
+Other household refuse will be containerized in disposable containers (box, watertight or plastic bag) except that tree branches and heavy brush which will not fit into containers shall be cut in lengths not exceeding four feet in length and stacked in a compact pile on the parkway in front of the residence adjoining the curb, but these piles shall not extend into the street. Sticks, hedge clippings and small brush shall be gathered into bundles and tied securely so that each bundle does not exceed four feet in length nor weigh more than 50 pounds. The city will not collect logs and limbs over four inches in diameter or over four feet long.
+(3)
+Noncombustible trash and liquids will not be collected by the city and shall be disposed of by other means.
+(4)
+All refuse receptacles, except single-use paper or plastic bags, single-use paper or cardboard boxes, shall be kept clean and free of accumulated waste and shall be treated with an effective insecticide if necessary to prevent nuisance.
+(5)
+It is the duty of the occupant of any single residential unit, condominium or multiple residential unit not serviced by a commercial container to place refuse receptacles, watertight paper or plastic bags securely tied, rubbish and bundles, on assigned collection days, at a front curbside location in such a manner as not to obstruct passage; except that the residential superintendent may require it to be placed on any side of a property for the reasons of topography or efficiency. It shall also be the duty of the occupant to place the refuse at an appropriate curbside location at or before 8:00 a.m. or prior to the arrival of the sanitation truck; this placement shall not be made before 5:00 p.m. on the day prior to collection day. Any refuse placed on the curb after the departure of the pickup crew shall be at the peril of the owner and the owner shall be subject to prosecution for violation of this chapter should the street become littered from the refuse.
+(6)
+It is the duty of the occupant to remove containers from the curbside location to the storage location, which storage location shall be nearer to the residential unit located on the premises than to any street abutting the premises; the removal shall be accomplished not later than 9:00 p.m. on the day the contents are emptied and collected.
+(7)
+Each owner shall prevent the continued, excessive and unsightly accumulation of refuse upon the property such person occupies or the public thoroughfares adjoining the property.
+(8)
+It is unlawful to place or cause to be placed in any refuse can or container for collection any acid, explosive material, inflammable liquid or dangerous or corrosive material of any kind.
+(9)
+Inoperative, privately used or worn out household appliances (refrigerators, stoves, washing machines, dryers, discarded furniture) will be collected at the curb on an on-call basis to the department.
+(10)
+Commercial waste generated from the conduct of business or commercial enterprise carried on from residential units will not be collected except on a special fee basis.
+(Ord. No. 2017-11-78, exh. (22-28), 11-27-2017)
+Sec. 36-32. - Preparation and storage of commercial and multiple dwelling refuse for collection.
+(a)
+Before a building permit shall be issued for construction of a commercial establishment, condominium or multiple dwelling, arrangements for the storage of refuse and location of containers must be approved by the city.
+(b)
+Commercial containers at existing commercial establishments and multiple dwellings shall be placed at locations approved by the city for collection. The city will not collect refuse from commercial establishments or multiple dwellings unless it is placed in commercial containers, properly located. Cardboard boxes shall be flattened and placed in containers.
+(c)
+Where the occupants of two or more commercial establishments share the use of a refuse can or commercial container, it is the joint responsibility of the users to maintain the area surrounding such cans or containers clean and free of accumulations of refuse.
+(d)
+The occupant, or occupants, of commercial establishments and the management of multiple dwellings serviced by commercial containers shall be responsible for maintaining the area surrounding such commercial containers clean and free of accumulations of refuse.
+(e)
+All garbage and rubbish shall be free of liquid and placed in watertight paper or plastic bags with the tops secured prior to placing in commercial containers.
+(f)
+Commercial containers containing any of the following items will not be emptied:
+(1)
+Large household or industrial appliances.
+(2)
+Furniture.
+(3)
+Tires.
+(4)
+Wooden crates.
+(5)
+Logs or limbs over four feet in length or four inches in diameter.
+(6)
+Bed springs.
+(7)
+Rock, dirt, concrete blocks, etc.
+(8)
+Uncontainerized garbage, yard debris and household trash.
+(g)
+Normal household appliances will be collected on a special fee basis at multiple dwellings served by commercial containers, when placed adjacent to the commercial container and reported to the department.
+(h)
+It is unlawful to place or cause to be placed in any refuse can or container for collection any acid, explosive material, inflammable liquids or dangerous or corrosive material of any kind.
+(Ord. No. 2017-11-78, exh. (22-29), 11-27-2017)
+Sec. 36-33. - Collection of refuse generally; conditions for collection.
+(a)
+Refuse may be collected for disposal by the city, or by persons or commercial sanitation firms licensed by the city.
+(b)
+The city and its licensed scavengers will collect refuse under the following conditions:
+(1)
+Refuse will be collected at least once each week from residential units except for exceptionally large piles of limbs which may require an excessive period of time to load.
+(2)
+Refuse will be collected as often as six times a week from commercial establishments.
+(3)
+Dead animals (other than dogs and house pets) will not be collected, and dead dogs and house pets will be collected only from animal hospitals, curbsides and public rights-of-way. Dead house pets shall be in a plastic bag and placed at the curb. They will be collected on a special fee basis and on an on-call basis by the city. Large dead animals shall be disposed of by burying on the individual's property to whom the animal belongs as the city has no responsibility to supply service for the removal and disposal of large dead animals.
+(4)
+Collection service shall be discontinued where garbage or trash cans or commercial containers are inadequate or have been condemned as unfit by an inspector and notice has been given to the owner or occupant of the premises who has refused to correct the situation then existing.
+(c)
+The city shall not be responsible for collecting or hauling discarded building material, dirt, rock or discarded furniture and appliances from private property, nor shall it be responsible for collecting or hauling trees, bushes or other vegetation from commercial tree trimmers, landscapers or building contractors except on a special fee basis.
+(Ord. No. 2017-11-78, exh. (22-30), 11-27-2017)
+Sec. 36-34. - Garbage collection for disabled persons.
+(a)
+Any person who is a full-time resident of a residential unit who is disabled to the extent of being incapable of moving refuse and shall obtain a physician's certificate as to this disability shall not be required to place the refuse at curbside. This section does not apply unless all of the persons in a residential unit are disabled and obtain a physician's certificate. These certificates will be mailed to the director for appropriate notification of pickup crews. This subsection also applies to temporary disability not to exceed 90 days (extensions are required).
+(b)
+Residential cans shall not be placed more than 150 feet from the curb or road edge, nor will refuse cans be picked up if any of the following conditions exist:
+(1)
+Gates are locked.
+(2)
+Gates are wired or tied shut.
+(3)
+Dogs are loose in yard.
+(4)
+Cans are in carports or garages.
+(Ord. No. 2017-11-78, exh. (22-31), 11-27-2017)
+Sec. 36-35. - Billing for sanitary services, sanitary docket.
+(a)
+Commercial establishments.
+(1)
+It is the duty of the finance director or authorized designee to prepare and mail to each owner or lessee of a commercial establishment in the sanitary districts of the city a monthly billing for sanitary services. These monthly payments shall be paid in advance by the owner or lessee of the commercial establishment property. It is the duty of the finance director to enforce the collection of commercial establishment fees and assessments imposed by this chapter. Failure by the owner or lessee of a commercial establishment to pay any amount due for the collection and disposal of refuse or lawful fee imposed is unlawful and an offense in violation of this Code. Failure by any owner or lessee or a commercial establishment to pay any amount due for the collection and disposal of refuse or lawful fee imposed may be treated by the city as a debt for which an action at law may be brought in the same manner as any other charge, assessment or debt, including a late payment penalty and interest thereon as provided by law.
+(2)
+It is the duty of the finance director or authorized designee thereof to prepare, maintain and keep for public inspection a complete record of the name of each commercial establishment owner, the address or by tax map reference if no street address is available, the amount due for the calendar year, the amount of each monthly payment and an entry showing when each payment was made. This record shall be called the commercial establishment sanitary docket and shall be prepared monthly in advance. Each monthly docket shall be cumulative of all unpaid monthly installments.
+(3)
+Upon the request of any person interested in examining the title of any parcel of real estate in the sanitary districts of the city, the person in charge of the maintenance of the commercial establishment sanitary docket under the supervision of the finance director or authorized designee thereof shall furnish to such person a form statement showing the information required in this section, which form statement shall be signed by the person maintaining the docket and the finance director or an authorized designee as to the correctness of the information contained therein.
+(4)
+On premises being served by the department where there is a delinquent sanitary installment, after the owner or lessee of a commercial establishment thereof has been notified by the inclusion of the amount of the past due installment in a current statement or on a separate bill or other notice and the owner or lessee of a commercial establishment refuses to promptly pay it, the city may refuse sanitary pickup at those premises and sanitary service shall not be restored until these delinquent and current installments are paid in full.
+(b)
+Residential units.
+(1)
+All fees for sanitary services assessed against residential units shall be assessed upon the tax commissioner's books for each year and shall be collected by the tax commissioner. After collection, the tax commissioner shall transfer the sanitary fees to the city treasury according to the same schedule as city taxes. In collection of these sanitary fees, the tax commissioner shall be allowed to resort to any remedy or right allowed by law for the collection and payment of city taxes.
+(2)
+It is the duty of the tax commissioner to prepare and mail to each owner of a residential unit in the sanitary districts of the city an annual billing for sanitary services. This sanitary billing will appear as a separate line item assessment on the owner's annual property tax bill and shall become due and payable at the same time that city taxes are due and payable. If such sanitary billing remains unpaid, the tax commissioner or authorized designee, shall have the authority to issue a fi. fa. or execution against the property served, which fi. fa. or execution shall have the same lien dignity and priority as fi. fas. or executions issued for city taxes. Each annual installment shall become a lien against the property served on January 1 of each year in the same manner that a lien attaches for city taxes, and such lien shall cover the property of the owner until such billing for sanitary services is paid. Any sanitary billing amount that remains unpaid shall accrue penalty, interest and fi. fa. charges in the same manner and at the same rate as delinquent city taxes.
+(Ord. No. 2017-11-78, exh. (22-32), 11-27-2017)
+Sec. 36-36. - Fee.
+The fees for the collection and disposal of refuse and providing such services and to construct and maintain facilities therefor shall be as established by action of the city council, a copy of which is on file in the office of the city clerk.
+(Ord. No. 2017-11-78, exh. (22-33), 11-27-2017)
+Sec. 36-37. - Burning combustible materials in containers owned or used by the city.
+No person shall burn or attempt to burn or cause to be burned in any container belonging to or used by the city for refuse collection purposes any combustible material of any nature.
+(Ord. No. 2017-11-78, exh. (22-34), 11-27-2017)
+Sec. 36-38. - Yard trimmings disposal restrictions.
+(a)
+Notwithstanding any other provision of this chapter to the contrary, all yard trimmings shall be subject to the provisions of this subsection.
+(b)
+Yard trimmings shall not be placed in or mixed with municipal solid waste.
+(c)
+Yard trimmings shall not be disposed of at municipal solid waste disposal facilities having liners and leachate collection systems or requiring vertical expansion.
+(d)
+Yard trimmings shall be sorted and stored for collection in such a manner as to facilitate collection, composting, or other handling.
+(e)
+Yard trimmings shall be sorted and stockpiled or chipped, composted, used as mulch, or otherwise beneficially reused or recycled to the maximum extent feasible.
+(f)
+It is the duty of the occupant or owner of any premises to separate yard trimmings from all other municipal solid waste.
+(g)
+Yard trimmings shall not be placed in a plastic bag but shall be placed in an approved receptacle for yard trimmings. All other requirements of this chapter regarding containing yard trimmings and refuse shall apply.
+(Ord. No. 2017-11-78, exh. (22-35), 11-27-2017)
+Secs. 36-39—36-64. - Reserved.
+ARTICLE III. - PRIVATE SERVICES
+
+Sec. 36-65. - Definition.
+In this article, the term "commercial sanitation firm" includes any person engaged in the business of operating a sanitary compactor.
+(Ord. No. 2017-11-78, exh. (22-51), 11-27-2017)
+Sec. 36-66. - License.
+(a)
+No person shall engage in the business of operating a commercial sanitation firm without a license issued by the city. A license application in compliance with this section shall be submitted to the department for approval or other disposition.
+(b)
+Applications are available and may be submitted at the sanitation building on Camp Road during working hours (8:00 a.m. to 4:30 p.m.) Monday through Friday.
+(c)
+Each application shall have attached a list showing the type, size and location of stationary compactors, stationary compactor containers or industrial waste materials to be serviced by the applicant. A commercial sanitation firm applying for a permit to operate stationary compactors, stationary compactor containers or industrial waste containers shall certify at the time of application that the applicant or any corporate officer of the firm is not engaged in any illegal servicing of any commercial containers or refuse collection of any type in the sanitation district.
+(d)
+Approved licenses shall become effective on the first day of the calendar year. The fee to be paid to the city for each approved application shall be as established by action of the city council, a copy of which is on file in the office of the city clerk. The fee shall be prorated for the remainder of the calendar year from the day this license is approved.
+(Ord. No. 2017-11-78, exh. (22-52), 11-27-2017)
+Sec. 36-67. - Performance bond.
+Each authorized commercial sanitation firm shall post a performance bond with the city in the amount established by action of the city council, a copy of which is on file in the office of the city clerk.
+(Ord. No. 2017-11-78, exh. (22-53), 11-27-2017)
+Sec. 36-68. - Monthly charge for each container in use.
+In addition, each authorized commercial sanitation firm shall pay a monthly charge in the amount established by action of the city council, a copy of which is on file in the office of the city clerk, for each stationary compactor container or industrial waste container in use on the last day of each month. This fee shall be paid on or before the 15th day of each succeeding month for which the service was rendered. A schedule of the location of each stationary compactor shall accompany the payment of the fees.
+(Ord. No. 2017-11-78, exh. (22-54), 11-27-2017)
+Sec. 36-69. - Decals on trucks.
+Each truck used by a commercial sanitation firm to collect and transport combustible solid waste shall bear a decal issued by the department. The issuance and placement of the decal must be accomplished at the county sanitation office building by the county.
+(Ord. No. 2017-11-78, exh. (22-55), 11-27-2017)
+Sec. 36-70. - Decals, identification on compactors, containers.
+Each stationary compactor and industrial waste container shall carry in a conspicuous spot a decal issued by the city which shows it has been properly permitted to operate in the city. In addition each stationary compactor, stationary compactor container or industrial waste container shall carry in a conspicuous spot the name, telephone number and address of the firm permitted to service the stationary compactor, stationary compactor container or industrial waste container. Any arrangement between firms to service another's units must receive written approval from the city.
+(Ord. No. 2017-11-78, exh. (22-56), 11-27-2017)
+Sec. 36-71. - Installation of stationary compactor unit; prior approval of plans.
+Plans and specifications for installing a stationary compactor unit shall be approved prior to the installation. All stationary compactor shredders and stationary compactor containers shall be installed on Class A, 3,000 psi concrete pads of not less than six inches thickness. All installations shall comply with the requirements of the city and county mechanical code, fire code and health regulations.
+(Ord. No. 2017-11-78, exh. (22-57), 11-27-2017)
+Sec. 36-72. - Special permit for handling special industrial waste.
+Special permits shall be granted to firms holding stationary compactor permits for the installation of special industrial waste containers to handle refuse requiring special handling or special equipment. No special industrial waste container shall be emptied at the incinerator.
+(Ord. No. 2017-11-78, exh. (22-58), 11-27-2017)
+Sec. 36-73. - Establishment contracting services exempt from sanitary assessment.
+A commercial establishment which contracts with a firm licensed to operate a stationary compactor service shall not be required to pay a city sanitary assessment while it uses the stationary compactor service, provided additional service is not supplied by the city.
+(Ord. No. 2017-11-78, exh. (22-59), 11-27-2017)
+Sec. 36-74. - Disposal of collected refuse.
+Licensees under this article may dispose of their stationary compactor refuse and all acceptable industrial waste container refuse at an authorized disposal facility at a fee in the amount established by action of the city council, a copy of which is on file in the office of the city clerk.
+(Ord. No. 2017-11-78, exh. (22-60), 11-27-2017)
+Secs. 36-75—36-91. - Reserved.
+ARTICLE IV. - SCRAP TIRE ENFORCEMENT
+
+Sec. 36-92. - Intent and purpose.
+The city council finds that protection of the environment is vital to the health, safety, welfare and economic progress of the city and its citizens. Therefore, it is the intent of this article to develop regulations and procedures that govern scrap tires from the point of generation to the point of disposal.
+(Ord. No. 2017-11-78, exh. (22-62), 11-27-2017)
+Sec. 36-93. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Dump means to throw, discard, place, deposit, discharge, bury, burn, or dispose of a substance.
+End user means the last person who uses the scrap tires, chips, crumb rubber, or similar materials to make a product with economic value, or in the case of energy recovery, the person who utilizes the heat content or other forms of energy from the incineration or pyrolysis of waste tires, chips or similar materials.
+Environmental code enforcement officer means a city code enforcement officer or an officer of the county authorized by the county to write official warnings and citations to ensure compliance with the scrap tire and solid waste code. The term "environmental code enforcement officer" includes anyone designated by the city or county as a sanitation inspector.
+Manifest means a document used to identify the quantity and composition and the origin, routing, and destination of scrap tires during transportation from the point of generation, through any intermediate points, to an end user, processor or disposer approved by the state department of natural resources, environmental protection division, hereinafter referred to as EPD.
+Mixed tires means a heterogeneous group of tires consisting of used, retreadable casings and scrap tires.
+Recycle means any process by which materials which would otherwise become solid waste are collected, separated, or processed and reused or returned to use in the form of raw materials or products.
+Retreadable casing means a tire suitable for retreading.
+Reused tire means a tire used for purposes, approved by the EPD, other than intended, such as playground equipment, offshore reefs, and erosion control.
+Scrap tire means a tire that is no longer suitable for its originally intended purpose because of wear, damage, or defect.
+Scrap tire carrier means any person engaged in picking up or transporting scrap tires, not otherwise exempted, for the purpose of removal to a scrap tire processor, end use, or disposal facility.
+Scrap tire generator means any person who generates scrap tires. Generators may include, but are not limited to, retail tire dealers, retreaders, scrap tire processors, automobile dealers, private company vehicle maintenance shops, garages and service stations.
+Scrap tire processing means any method, system, or other treatment designed to change the physical form, size, or chemical content of scrap tires and includes all aspects of its management (administration, personnel, land, equipment, building, and other elements) and includes processing by shredding, chopping, chipping, baling, splitting, recycling or sorting of scrap tires.
+Scrap tire processor means any person who is approved by the EPD to receive tires from scrap tire generators, scrap tire carriers or the general public for the purpose of scrap tire processing.
+Scrap tire sorter means any person, other than the original scrap tire generators, who handles mixed tires by separating used tires and retreadable casing from scrap tires.
+Solid waste means any garbage or refuse; sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility; and other discarded material including solid, liquid, semisolid, or contained gaseous material resulting from industrial, commercial, mining, and agricultural operation materials; solid or dissolved matters in domestic sewage; solid or dissolved materials in irrigation return flows or industrial discharges that are point sources subject to permit under 33 USC 1342; or source, special nuclear, or by-product material as defined by the federal Atomic Energy Act of 1954 and as defined by O.C.G.A. § 12-8-22(33).
+Tire means a continuous, solid or pneumatic covering designed for encircling the wheel of a vehicle that is not permanently attached to the vehicle or a part of the vehicle as original equipment.
+Tire handling business means any person that derives 15 percent or more of its gross income from the sale, processing, transporting or disposal of tires.
+Tire retailer means any person engaged in the business of selling new replacement tires.
+Tire retreader means any person actively engaged in the business of retreading scrap tires by scarifying the surface to remove the old surface tread and attaching a new tread to make a usable tire.
+Ultimate consumer means the last person who receives and uses a new replacement tire. Ultimate consumers may be, but are not limited to, individuals, leasing and private companies purchasing tires from retail dealers for their vehicle fleets and government agencies.
+Used tire means a tire which has a minimum of two-thirty-seconds foot of road tread and which is still suitable for its original purpose. It must be inventoried and marketed in substantially the same fashion as a new tire, and the dealer must be able to provide satisfactory evidence to the city that a market exists, and that the used tires are in fact being marketed.
+(Ord. No. 2017-11-78, exh. (22-63), 11-27-2017)
+Sec. 36-94. - General.
+It is unlawful to dump scrap tires or cause, suffer or allow the dumping of scrap tires at any place in the city including the following:
+(1)
+Any public highway, road, street, alley, or thoroughfare, including any portion of the right-of-way thereof, or on any other public lands except in containers or areas lawfully provided for such dumping; and
+(2)
+Any river, canal, stream, creek, or fresh water lake; and
+(3)
+Any public property or private property not owned or maintained by the alleged violator.
+(Ord. No. 2017-11-78, exh. (22-64), 11-27-2017)
+Sec. 36-95. - Scrap tire storage, handling, and disposal.
+(a)
+O.C.G.A. § 12-8-20 et seq., is hereby incorporated in this section as if fully set forth herein.
+(b)
+It is the responsibility of the owner or occupant of property to store all scrap tires in a manner that will not adversely affect the public health and safety.
+(c)
+It is the responsibility of the owner or occupant of property to store all scrap tires in a manner that is consistent with federal, state and local law.
+(Ord. No. 2017-11-78, exh. (22-65), 11-27-2017)
+Sec. 36-96. - Accumulation.
+(a)
+No person may store more than 100 scrap tires anywhere in the city. Any person storing in excess of 100 scrap tires shall be deemed to be in violation of this article. The following exceptions shall apply:
+(1)
+A solid waste disposal site permitted by the division if the permitted by the EPD if the permit authorizes the storage of scrap tires prior to their disposal;
+(2)
+A tire retailer with not more than 3,000 scrap tires in storage;
+(3)
+A tire retreader with not more than 1,500 scrap tires in storage so long as the scrap tires are of the type that the retreader is actively retreading;
+(4)
+An auto salvage yard with not more than 500 scrap tires in storage; and
+(5)
+A scrap tire processor approved by the division so long as the number of scrap tires in storage do no exceed the quantity approved by the EPD.
+(b)
+It is unlawful for any person to store scrap tires except in a container, located outside of an authorized business, enclosed on all four sides by a solid screen and having a secure top cover to prevent the accumulation of water in the container.
+(Ord. No. 2017-11-78, exh. (22-66), 11-27-2017)
+Sec. 36-97. - Compliance.
+(a)
+Scrap tire generator. Any person who generates scrap tires shall obtain a scrap tire generator identification number issued by EPD and shall maintain copies of manifests for any scrap tires that have been shipped or removed from the business location within the past 36 months. Separate identification numbers are required for each generator having multiple generation locations.
+(1)
+The manifests shall include the following information:
+a.
+Name and identification number of the generator;
+b.
+Number and total tonnage (accurate to within ten percent of actual number) of scrap tires to be transported;
+c.
+Name and permit number of the scrap tire carrier;
+d.
+Date of transport;
+e.
+Destination of scrap tires; and
+f.
+Signatures of the scrap tire generator, scrap tire carrier and scrap tire processor.
+(2)
+The completed manifests and the scrap tire generator identification number shall be made available to the environmental code enforcement officer upon request.
+(3)
+Scrap tire generator identification numbers are not transferable; and each generator shall ensure that the scrap tire section of the EPD approves the carrier being used to transport scrap tires.
+(b)
+Scrap tire carrier. It is the responsibility of the carrier to return a completed copy of the manifest to the scrap tire generator within 30 days from the date on which the scrap tire carrier takes possession of the scrap tires. The date the scrap tire carrier takes possession of the scrap tires shall be indicated on the manifest.
+(c)
+Tire handling businesses. All tire handling businesses shall maintain an accurate inventory of all new and used tires received at the place of business, sold to a consumer, sent to another tire handling businesses, or shipped to an approved processor. Inventory and quarterly transport reports shall be kept on-site and made available for inspection by environmental code enforcement officers. Quarterly reports shall be sent to the county director of public works and shall include the following information:
+(1)
+Name of company that transported tires;
+(2)
+Name of owner of company and driver of transport vehicle;
+(3)
+Telephone number of transport company;
+(4)
+Valid environmental protection division scrap tire program transportation identification number;
+(5)
+Type of vehicle used to transport tires; and
+(6)
+Quarterly tire transport report shall be mailed to the county director of public works.
+(Ord. No. 2017-11-78, exh. (22-67), 11-27-2017)
+Sec. 36-98. - Enforcement.
+(a)
+Enforcement of this article is the responsibility of the county public works director or his designee and city code enforcement officers.
+(b)
+The environmental code enforcement officers are authorized to enforce this article on behalf of the city, and shall be empowered to enter private property, with the owner's consent, at reasonable times in order to inspect the property for violation of this article. If the owner does not consent to such entry on private property for inspection, such officer shall obtain a warrant to enter upon the property.
+(Ord. No. 2017-11-78, exh. (22-68), 11-27-2017)
+Sec. 36-99. - Violations and penalties.
+Any person violating any portion of this article shall be guilty of an ordinance violation and upon conviction thereof, shall be punished as set forth in section 1-7. For a first offense, the penalty shall be a fine not less than $100.00 or more than $1,000.00 or up to 30 days imprisonment, or both. Upon conviction, the court may also order the convicted person to remove any scrap tires that have been accumulated in violation of this article from the property.
+(Ord. No. 2017-11-78, exh. (22-69), 11-27-2017)
+Secs. 36-100—36-126. - Reserved.
+ARTICLE V. - LITTER CONTROL
+
+Sec. 36-127. - Purpose and objectives.
+The purpose of this article is to protect the public health, safety, environment, and general welfare through the regulation and prevention of litter. The objectives of this article are:
+(1)
+To provide for uniform prohibition of littering on public or private property throughout the city;
+(2)
+To prevent harm to the public health, safety, environment, and general welfare, including the degradation of water and aquatic resources caused by litter; and
+(3)
+To preserve the value of the many unique natural resources and enhance the beauty and quality of life enjoyed by the citizens of the city.
+(Ord. No. 2017-11-78, exh. (22-71), 11-27-2017)
+Sec. 36-128. - Applicability.
+This article shall apply to all public and private property within the city.
+(Ord. No. 2017-11-78, exh. (22-72), 11-27-2017)
+Sec. 36-129. - Compatibility with other regulations.
+This article is not intended to interfere with, abrogate, or annul any other ordinance, rule or regulation, statute, or other provision of law. The requirements of this article should be considered minimum requirements, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule or regulation, or other provision of law, whichever provisions are more restrictive or impose higher protective standards for human health or the environment shall be considered to take precedence and shall control.
+(Ord. No. 2017-11-78, exh. (22-73), 11-27-2017)
+Sec. 36-130. - Prohibition against littering public or private property or waters.
+It is unlawful for any operator of a conveyance or any person to dump, deposit, throw or leave or to cause or permit the dumping, depositing, placing, throwing or leaving of litter on any public or private property or in any waters within the city unless:
+(1)
+The property is designated by the state or by any of its agencies or political subdivisions for the disposal of such litter, and such person is authorized by the proper public authority to leave or deposit litter on such property; or
+(2)
+The litter is placed into an approved receptacle or container installed on such property.
+(Ord. No. 2017-11-78, exh. (22-74), 11-27-2017)
+Sec. 36-131. - Litter control responsibilities.
+Owners must place all of their residential solid waste within durable plastic bags and securely tie the plastic bag prior to placing it in an approved receptacle for residential solid waste.
+(Ord. No. 2017-11-78, exh. (22-75), 11-27-2017)
+Sec. 36-132. - Vehicle loads causing litter; commercial front loader containers.
+(a)
+No person shall operate any motor vehicle with a load on or in such vehicle unless the load on or in such vehicle is adequately secured to prevent the dropping or shifting of materials from such load onto the roadway.
+(b)
+All commercial front loader containers must meet all of the following requirements:
+(1)
+Containers must be steel, continuously welded and properly reinforced according to manufacturer's specifications;
+(2)
+Lids must be constructed of durable plastic and reinforced for strength;
+(3)
+The pickup side of the container shall be reinforced inside or outside at the point of torque tub contact;
+(4)
+The inside reinforcement of the container shall be pressed steel angle;
+(5)
+The bottoms of the containers shall be reinforced with a 1½-inch drain plug installed flush to the bottom;
+(6)
+All containers shall be primed and finished with enamel and epoxy paint;
+(7)
+Body dimensions as to length and height of container can vary with the size of container; however, all container widths shall be 70 inches; and
+(8)
+Minimum gauges of steel for such containers shall be as follows:
+EXPAND
+Walls 12 gauge
+Ends 12 gauge
+Bottoms 12 gauge for 4 cu. ft. and below
+10 gauge for all over 4 cu. ft.
+Lids 16 gauge
+Doors 14 gauge
+  (Ord. No. 2017-11-78, exh. (22-77), 11-27-2017)
+Sec. 36-133. - Evidence.
+(a)
+Whenever litter is thrown, deposited, dropped or dumped from any motor vehicle, boat, airplane, or other conveyance in violation of this article, it shall be a rebuttable presumption that the operator of the conveyance has violated this article.
+(b)
+Except as provided in subsection (a) of this section, whenever any litter which is dumped, deposited, thrown or left on public or private property in violation of this article is discovered to contain any article or articles, including, but not limited to, letters, bills, publications or other writing which display the name of the person thereon in such a manner as to indicate that the article belongs or belonged to such person, it shall be a rebuttable presumption that such person has violated this article.
+(Ord. No. 2017-11-78, exh. (22-78), 11-27-2017)
+Sec. 36-134. - Violations, enforcement and penalties.
+(a)
+Any person that does anything prohibited or fails to do anything required by this article, upon conviction of the violation in a court of competent jurisdiction, shall be subject to fine or imprisonment in accordance with section 1-7. Where any offense or violation continues from day-to-day, each day's continuance thereof shall be deemed a separate offense.
+(b)
+Upon conviction of any violation of this article, the court shall impose a fine of not less than $100.00 in addition to any other penalty or punishment imposed by the court.
+(c)
+Upon conviction, the court may order the convicted person to pick up and remove from any public street or highway or public right-of-way for a distance not to exceed one mile any litter the convicted person has deposited and any and all litter deposited thereon by anyone else prior to the date of the sentence.
+(d)
+Upon conviction, the court may order the convicted person to pick up and remove any and all litter from any public property, private right-of-way, or with prior permission of the legal owner or tenant in lawful possession of such property, any private property upon which it can be established by competent evidence that he has deposited litter. Pick up and removal shall include any and all litter deposited thereon by anyone prior to the date of the sentence.
+(e)
+Upon conviction, the court may publish the names of persons convicted of violating this article in the legal organ of the city.
+(f)
+All city and county law enforcement agencies and officers are authorized, empowered and directed to enforce compliance with this article. Primary enforcement responsibilities for litter control are shared by the code enforcement officers of the city, county police department and officers/employees of the sanitation division of the county public works department. The officers and employees of the sanitation division are primarily responsible for enforcement on public property and along public rights-of-way and easements while the officers and employees of the code enforcement division are responsible for enforcement of this article on private property.
+(Ord. No. 2017-11-78, exh. (22-79), 11-27-2017)

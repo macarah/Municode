@@ -1,0 +1,840 @@
+Chapter 66 - SEWERS[1]
+Footnotes:
+--- (1) ---
+Cross reference— Water and sewer advisory board, § 2-256 et seq.; buildings and building regulations, ch. 18; health and sanitation, ch. 34; manufactured homes, ch. 42; planning and development, ch. 54; roads, ch. 62; water, ch. 74; development regulations, app. B, sanitary sewer system specifications, app. B, § 7.1 et seq.; flood damage prevention, app. B, § 10.1 et seq.; manufactured homes, app. C.
+State Law reference— Dumping certain wastes in storm or sanitary sewers prohibited, O.C.G.A. § 12-8-2; authority to provide stormwater, sewage collection and disposal systems, Ga. Const. art. IX, § II, ¶ III(a)(6).
+
+ARTICLE I. - IN GENERAL
+
+Secs. 66-1—66-30. - Reserved.
+ARTICLE II. - SEWAGE DISPOSAL
+
+Sec. 66-31. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Human excreta means the bowel and kidney discharges of human beings.
+Sanitary privy means any privy which is so built, rebuilt, constructed or reconstructed as to conform with the plans and specifications promulgated and recommended by the state board of health, which plans and specifications are hereby adopted by the county.
+Sanitary water closet means any flush toilet properly connected with a public sewer system or a septic tank.
+Septic tank means an underground cavity with watertight walls into which flows the effluent of sanitary water closets and from which the effluent does not come to the surface of the ground. The term "septic tank" shall be construed to mean a structure built in strict accordance with the plans and specifications as set forth in the state board of health regulations. These plans and specifications are hereby adopted by the county.
+(Code 1987, § 10-1)
+Cross reference— Definitions generally, § 1-4.
+Sec. 66-32. - Required facilities.
+It shall be unlawful to maintain or use any residence, place of business or other building or place where persons reside, congregate, or are employed, which is not provided with means for the disposal of human excreta, either by a flush toilet connected to a public sanitary sewer system approved by the state board of health or an approved septic tank or private plant or by an approved sanitary privy.
+(Code 1987, § 10-2)
+Sec. 66-33. - Connection to public sewer line.
+Every residence, place of business, or other building or place where persons reside, congregate, or are employed, which is within 200 feet of a public sanitary sewer line, shall be properly connected to the sewer line by the owner or agent of the premises. Separate plumbing fixtures shall be provided for each building or place.
+(Code 1987, § 10-3)
+Sec. 66-34. - Connection to septic tank, private plant, etc.
+(a)
+Every residence, place of business, or other building or place where persons reside, congregate, or are employed, which is more than 200 feet from a public sanitary sewer line, shall either connect to the public sewer, or shall be provided with a private sanitary water closet or a sanitary privy by the owner or agent of the premises. Wherever a private water flush toilet is employed for human excreta disposal for not more than ten persons, a septic tank shall be employed. Before septic tank construction, a permit must be obtained from the county health department, and after construction is completed an inspection must be obtained and approval granted by a representative of the county health department. Wherever a sanitary privy is employed, this privy will be constructed and installed in accordance with plans and specifications as required in this article. These plans and specifications can be obtained from the county health department without charge.
+(b)
+At any residence, place of business, or other building where a private water flush toilet is employed for human excreta disposal for more than ten persons, there shall be installed a sewage disposal plant, the plans and construction of which, in each separate case, shall be approved by the county health department.
+(Code 1987, § 10-4)
+Sec. 66-35. - Correction of defects; right-of-entry of officer.
+(a)
+All privy buildings shall be kept in a clean condition at all times, and their sanitary safety shall be judged by a representative of the county health department.
+(b)
+Any defect that might occur in any type of human excreta disposal device which, in the opinion of the representative of the county health department, would cause it in any way to fail to, meet the requirements as provided above, shall be immediately corrected by the owner or agent of the premises on which the defect has occurred.
+(c)
+It shall be the duty of the health officer to enforce these rules and regulations, and in the performance of this duty the health officer or such officer's duly authorized agent is hereby authorized to enter, at any reasonable hour, any premises as may be necessary for enforcement.
+(Code 1987, § 10-5)
+Secs. 66-36—66-60. - Reserved.
+ARTICLE III. - SEWER USE
+DIVISION 1. - GENERALLY
+
+Sec. 66-61. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Biochemical oxygen demand (BOD) means the quantity of oxygen utilized in the biochemical oxidation of organic matter under EPA approved laboratory procedures in five days at 20 degrees Celsius expressed in milligrams per liter.
+Building drain means that part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste, and other drainage pipes inside the walls of buildings and conveys it to the building sewer, beginning five feet outside the inner face of the building wall.
+Building sewer means the extension from the building drain to the public sewer or other place of disposal, also called "house connection" or "service connection."
+Combined sewer means a sewer receiving both surface runoff and sewage.
+Customer means every person who is responsible for contracting with the county in obtaining, having, or using sewer connections with, or sewer tap to, the sewer system of the county and in obtaining, having, or using water and other related services furnished by the county for the purpose of disposing of wastewater and sewage through such system. The term "customer" shall include the occupants of each unit of multiple-family dwelling unit building as a separate and distinct customer.
+Director means the county water system director.
+Easement means an acquired legal right for the specific use of land owned by others.
+Floatable oil means oil, fat or grease in a physical state such that it will separate by gravity from wastewater by treatment in an approved pretreatment facility. Wastewater shall be considered free of floatable oil if it is properly pretreated and the wastewater does not interfere with the collection system.
+Flush toilet means the common sanitary flush commode in general use for the disposal of human excrement.
+Garbage means the animal and vegetable waste resulting from the handling, preparation, cooking, and serving foods.
+Health officer means the director of the county board of health or other persons designated by the board of commissioners and their duly appointed assistants.
+Industrial wastes means the wastewater from industrial processes as distinct from domestic or sanitary wastes.
+Infiltration/inflow means groundwater and surface water which leaks into the sewers through cracked sanitary wastes.
+Natural outlet means any outlet, including storm sewers and combined sewer over flows, into a watercourse, pond, ditch, lake, or other body of surface or groundwater.
+Normal wastewater means wastewater discharged into the sanitary sewers in which the average concentration of total suspended solids is not more than 250 milligrams per liter, BOD5 is not more than 250 milligrams per liter, total phosphorous is not more than 15 milligrams per liter, total Kjeldahl nitrogen is not more than 20 milligrams per liter, and the total flow is not more than 25,000 gallons per day.
+pH means the logarithm of the reciprocal of the hydrogen ion concentration.
+Pit privy means a shored, vertical pit in the earth completely covered with a flytight slab on which is securely located a flytight riser cover with hinged flytight seat and lid.
+Premises means any house, residence, building, or other facility either used as a dwelling or a place of business.
+Properly shredded garbage means the waste from the preparation, cooking, and dispensing of food that has been shredded to such a degree that all particles will be carried freely under the flow conditions normally prevailing in public sewers, with no particle greater than one-half inch in any dimension.
+Public sewer means a common sewer controlled by a governmental agency or public utility.
+Sanitary sewer means a sewer that carries liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions, together with minor quantities of ground, storm, and surface waters that are not intentionally admitted.
+Septic tank means a subsurface impervious tank designed to retain on a temporary basis sewage or similar waterborne wastes together with:
+(1)
+A sewer line constructed with solid pipe, with the joints sealed, connecting the impervious tank with a plumbing stub out; and
+(2)
+A subsurface system of trenches, piping, and other materials constructed to drain the clarified discharge from the tank and distribute it underground to be absorbed or filtered.
+Sewage means the spent water of a community. The equivalent term is "wastewater."
+Sewage works means all facilities for collecting, pumping, treating, and disposing of sewage. The equivalent term is "sewerage."
+Sewer means a pipe or conduit that carries wastewater, and shall include the county sanitary sewer system.
+Slug means any discharge of water or wastewater which is concentration of any given constituent or in quantity of flow exceeds for any period of duration longer than 15 minutes more than five times the average 24-hour concentration of flows during normal operation and/or shall adversely affect the collection system and/or performance of the wastewater facilities.
+Storm drain means a drain or sewer for conveying water, groundwater, subsurface water, or unpolluted water from any source and excluding sewage and industrial wastes other than unpolluted cooling water.
+Suspended solids means total suspended matter that either floats on the surface or is in suspension in, water, wastewater, or other liquids, and that is removable by laboratory filtration as approved by EPA and referred to as nonfilterable residue.
+Unpolluted water means water of quality equal to or better than the effluent criteria in effect or water that would not cause violation of receiving water quality standards and would not be benefitted by discharge to the sanitary sewers and wastewater treatment facilities provided.
+Wastewater means the spent water of a community. From the standpoint of source, it may be a combination of the liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions, together with any groundwater, surface water, and stormwater that may be present.
+Wastewater facilities means the structures, equipment, and processes required to collect, carry away, and treat domestic and industrial wastes and dispose of the effluent.
+Watercourse means a natural or artificial channel for the passage of water either continuously or intermittently.
+(Code 1987, § 18-2; Res. No. 00-25, §§ I, II, 9-12-2000; Res. No. 07-08, § 2, 2-27-2007)
+Cross reference— Definitions generally, § 1-4.
+Sec. 66-62. - Use of public sewers required.
+(a)
+All premises shall be provided by the owner thereof with at least one flush toilet. All flush toilets shall be kept clean and in a sanitary working condition.
+(b)
+No person shall dispose of human excrement except in a flush toilet.
+(c)
+It shall be unlawful to discharge to any natural outlet within the county or in any area under the jurisdiction of the county, any wastewater or other polluted waters, including septic tank effluent or cesspool overflow to any open drain or well penetrating, water bearing formation, except where suitable treatment has been provided in accordance with subsequent provisions of this chapter.
+(d)
+Except as provided in this article, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool, or other facility intended or used for the disposal or wastewater.
+(e)
+All sinks, dishwashing machines, lavatories, basins, shower baths, bathtubs, laundry tubs, washing machines, and other similar plumbing fixtures or appliances shall be connected to the public sewer; provided that where no sewer is available, septic tanks or other private subsurface disposal facilities approved by the health officer shall be used.
+(Code 1987, § 18-3; Res. No. 00-25, § III, 9-12-2000)
+Sec. 66-63. - Private wastewater disposal.
+(a)
+Where a public sanitary sewer is not available under the provisions of section 66-62, the building sewer shall be connected to a private wastewater disposal system complying with the regulations of the county and the state department of human resources.
+(b)
+Septic tanks shall be constructed, repaired, altered, enlarged and maintained in accordance with plans and specifications approved by the health officer. Septic tanks shall be maintained in sanitary working order.
+(c)
+No person shall construct, repair, alter, or enlarge any septic tank unless he shall hold a valid permit for such work issued by the health officer. The health office may withhold the issuance of such a permit pending the inspection of the proposed work. Before any septic tank or any part thereof may be covered after it has been constructed, repaired, altered, or enlarged, it shall be inspected and approved by the health officer.
+(d)
+The type, capacity, location, and layout of a private wastewater disposal system shall comply with all recommendations of the state department of human resources. No permit shall be issued for any private wastewater disposal systems employing subsurface soil absorption facilities where the area of the lot is less than that required by the health officer. No septic tank or cesspool shall be permitted to discharge to any natural outlet.
+(e)
+No septic tank or other subsurface disposal facility shall be installed where a public sewer is accessible to the premises involved, nor in any place where the health officer deems the use of such septic tank or other subsurface disposal facility to be a menace to human health or well-being.
+(f)
+At such time as a public sewer becomes available to a property served by a private wastewater disposal system, a direct connection shall be made to the public sewer within 30 days after notice except that by special petition to the county, the private disposal system may remain in operation until such time as it malfunctions. Any property serviced by both public sewer and by public water shall receive one monthly bill which shall include charges for both sewer service and water service.
+(g)
+The owner shall operate and maintain the private wastewater disposal facilities in a sanitary manner at all times, at no expense to the county.
+(h)
+No subsurface disposal facilities shall be installed in any place where the health officer deems the use of such facilities to be a menace to human health or well-being.
+(i)
+Every flush toilet shall be connected to a public sewer where available or to a septic tank. Flush toilets shall be provided at all times with sufficient running water under pressure to flush the toilet clean after each use.
+(j)
+No pit privy shall be installed in the following locations:
+(1)
+Where a public sewer is accessible to the premises involved;
+(2)
+In areas where the health officer deems the use of pit privies to constitute a nuisance or menace to the public health;
+(3)
+Where a pit privy may pollute any water supply; or
+(4)
+Where the use of pit privies is not in keeping with the standard of sanitation in adjacent areas.
+(k)
+It shall be unlawful to empty, dump, throw or otherwise discharge into any manhole, catchbasin or other opening into the county sewer system or any system connected with and discharging into the sewer system, the contents of any septic tank, sludge, sewage, or other similar matter or material, except as provided in section 66-64.
+(l)
+Any premises that has a septic tank, privy, or any other sewage, industrial waste, or liquid waste disposal system located thereon which does not function in a sanitary manner shall be corrected within 30 days from the receipt of written notification from the health officer that such system is not functioning in a sanitary manner and ordering that such system be corrected.
+(m)
+Premises with private water system shall not be connected with the public sewerage system.
+(n)
+No statement contained in this section shall be construed to interfere with any additional requirements which may be imposed by the health officer.
+(Code 1987, § 18-4)
+Sec. 66-64. - Discharge from septic tank pump trucks.
+(a)
+Discharge of sewage, waste, matter, and other waste material into the sewer system of the county from septic tank pump trucks or similar tank pump trucks used for the removal of waste matter and sewage from holding tanks and similar devices, and other discharges which are not through an existing sewer connection, shall be permitted subject to the following regulations:
+(1)
+All discharges must be made at the county water treatment facility. The director may permit discharges into a sewer manhole if he in his sole discretion, taking into consideration the size and content of the proposed discharged, considers such discharge to be such as will not endanger the public health of the citizens of the county or likely to damage the sewage system of the county. Such permission must be granted in writing by the director and shall be valid for no more than 30 days.
+(2)
+The county water treatment facility shall accept only sewage and other waste materials by septic tank pump trucks that are removed from residential, commercial or industrial establishments which are located within the county, and such sewage and/or other waste materials shall be limited to an amount of 2,000 gallons that may be discharged at any one time.
+(3)
+All septic tank pump trucks or vehicles used in discharge operations must be duly licensed by the county health department prior to making a discharge into the county sewage system.
+(4)
+There is hereby imposed a discharge fee as set forth in the schedule of fees and charges on file in the office of the county clerk. Collections shall be made by either of the two methods listed as follows. The selection of the collection method shall be solely at the option of the county.
+a.
+Method 1: Payment in advance of each discharge to the county clerk. Upon payment, the county clerk will issue a receipt which shall be shown to the director of the water treatment facility or the operator in charge prior to the proposed discharge.
+b.
+Method 2: Any person licensed with the county to discharge the contents of septic tanks and seeking to do so (the user) shall deposit with the county the sum of $150.00 at the time of registration. A monthly statement will be mailed by the county for all discharges made by such user during the previous month which shall be payable within ten days after the date of the statement. If the statement is not paid at the end of such ten-day period, the deposit made at the time of the initial registration shall be applied toward the payment thereof. If the application of the deposit does not satisfy the outstanding charges, or should the deposit with the county be less than $150.00, the certificate of registration of such user shall stand revoked instantly, and no further discharge into the sewage system of the county shall be permitted by such user until such charges shall be paid in full.
+(5)
+All discharges shall take place between the hours of 7:30 a.m. and 4:30 p.m., Monday—Friday. It shall be unlawful to make discharges between the hours of 4:30 p.m. and 7:30 a.m. during the week and at any time on Saturday or Sunday.
+(6)
+The director is hereby authorized to allow any discharge into the sewage system of the county which he feels, in his sole discretion, might impair the proper operation of the sewage disposal system or be injurious to the health of the citizens of the county. Prior to each discharge operation, the director will be told by the person seeking to make the discharge the contents of such discharge, and based upon such information and the considerations set out in this section, the director shall decide if the discharge into the sewage system shall be made. A sample of each discharge will be taken and held to enable the director to test for improper disclosure of the contents of each discharge. It shall be unlawful to knowingly communicate false information to the county concerning the nature and contents of a discharge into the sewage system of the county.
+(7)
+Every person convicted of a violation of any provision of this article shall be punished as set out in section 66-68.
+(Code 1987, § 18-5)
+Sec. 66-65. - Malicious damage.
+No person shall maliciously, willfully, or negligently break, damage, destroy, uncover, deface, or tamper with any structure, appurtenance, or equipment which is a part of the wastewater facilities. Any person violating this provision shall be subject to citation under section 66-68.
+(Code 1987, § 18-8)
+Sec. 66-66. - Powers and authority of inspectors.
+(a)
+Duly authorized employees or agents of the board of commissioners bearing proper credentials and identification shall be permitted to enter all properties for the purposes of inspection, observation, measurement, sampling, and testing, pertinent to discharge to the public sewerage system in accordance with the provisions of this article.
+(b)
+While performing the necessary work on private properties referred to in this section, the authorized employees or agents of the board of commissioners shall observe all safety rules applicable to the premises established by the company, and the company shall be held harmless for injury or death to the employees, and the board shall indemnify the company against loss or damage to its property by such employees or agents and against liability claims and demands for personal injury or property damage asserted against the company, except as such may be caused by negligence or failure of the company to maintain safe conditions as required by this article.
+(c)
+Duly authorized employees or agents of the commission bearing proper credentials and identification shall be permitted to enter all private properties through which the county holds an easement for the purposes of, but not limited to, inspection, observation, measurement, sampling, repair and maintenance, of any portion of the wastewater facilities lying within such easement. All entry and subsequent work, if any, of such easement, shall be done in full accordance with the terms of the duly negotiated easement pertaining to the private property involved.
+(Code 1987, § 18-9)
+Sec. 66-67. - Compliance with regulatory requirements.
+The provisions of this article shall not be deemed as alleviating compliance with applicable state and federal regulations. Specific user charge and industrial cost recovery requirements, promulgated pursuant to Public Law 92-500, shall be considered as a part of this chapter upon official adoption. All nonresidential users will be required to comply with the pretreatment standards as outlined in 40 CFR 403.
+(Code 1987, § 18-10)
+Sec. 66-68. - Violations.
+(a)
+Violations of this article shall be a misdemeanor punishable as provided in section 1-19 of this Code. Each day of continuing violation, shall be considered a separate offense. Any person violating any of the provisions of this article shall become civilly liable to the county for any expense, loss, or damage occasioned the county by reason of violation.
+(b)
+Upon violation of this article, the health officer or authorized employees may verbally instruct the owner as to the necessary corrective action. If the owner fails to carry out verbal instructions in a timely manner or if a serious violation or hazard to public health exists, the health officer or the board of commissioners may issue to the owner a written order stating the nature of the violation, the corrective action, and the time limit for completing the corrective action. The record of the mailing of such notice or order shall be prima facie evidence thereof and failure of such owner or owners to receive such notice or order shall in no way affect the validity of any proceedings conducted pursuant to this article.
+(c)
+Failure to comply with any written order duly issued by the health officer or the board of commissioners pursuant to this article will constitute a separate misdemeanor and upon conviction thereof shall be punishable as provided by the laws of the state. Provided further, that compliance with this article is required notwithstanding the fact that a written order might not have been issued.
+(d)
+The violation of any provision of this article as now existing or as may be hereinafter amended, may be enjoined by instituting appropriate proceedings for injunction in the courts of competent jurisdiction in this state. Any public nuisance which is injurious to the public health, safety, or comfort may be abated by instituting appropriate proceedings for injunction in the court of competent jurisdiction in this state. Such actions may be maintained notwithstanding the fact that such violation also constitutes a crime and notwithstanding that other adequate remedies at law exist. Such actions may be instituted in the name of the county.
+(e)
+Upon receipt of a notice of a violation of this article and/or an order of the board of commissioners requiring an act or thing to be done or to cease, the owner or owners of a premises then in question may, in writing, demand a hearing before the board to present the evidence challenging in the validity of the board's order. The owner may appear in person, by agent, or by attorney. Such demand must be filed with the clerk of the board of commissioners and be made within five days from the receipt of the order being challenged. Upon receipt of a demand for a hearing, the board will set a date, time, and place for such hearing, to be held not less than 21 days from the date of filing such demand. The hearing as provided in this section shall apply to any customer's complaint, dispute, or challenge of the board of commissioner's rules, regulations, resolutions, ordinances, or policies. Upon customer's written complaint filed with the clerk, the board shall set a hearing as provided in this section or at a time agreed upon by the parties.
+(f)
+Evidence before the board of commissioners of any hearing pursuant to subsection (e) of this section shall be admitted in accordance with the rules of evidence of the state administrative procedures act; provided, however, that the board may take official notice of any order, rule, regulation, or any other document, record or entry, contained in its official record or minutes for evidentiary purposes.
+(g)
+For the purposes of this article, the decisions of the board of commissioners will prevail in any instance in which there is a conflict between it and the health officer on any issue of sanitation, or the lack of it, and its effect on human health or well-being.
+(Code 1987, § 18-11)
+Sec. 66-69. - Rates and service charges.
+(a)
+The county shall charge and each owner or customer or person who uses the county sewer system shall pay a rate equal to 100 percent of the amount billed for water usage. This rate may be changed from time to time by the director and the county, and the applicable rate when adopted shall be published to every customer.
+(b)
+It is hereby determined necessary to fix and collect sewer service charges from customers. Such charges shall be published separate from this article and the revenue received shall be used for operation, maintenance, debt retirement, and other authorized expenses.
+(Code 1987, § 18-12)
+Sec. 66-70. - Authority to disconnect service; notification.
+(a)
+The board of commissioners reserves the right to terminate water and wastewater disposal services and disconnect a customer from the system when:
+(1)
+Acids or chemicals damaging to sewer lines or treatment process are released into the public sewer causing rapid deterioration of these structures or interfering with proper conveyance and treatment of wastewater;
+(2)
+A governmental agency informs the commission that the effluent from the wastewater treatment plant is no longer of a quality permitted for discharge into a water course or allowed to be sprayed into the irrigation field and it is found that the customer is discharging wastewater into the public sewer that cannot be sufficiently treated or requires treatment that is not provided by the commission as normal domestic treatment; or
+(3)
+The customer:
+a.
+Discharges industrial waste or wastewater that is in violation of the permit issued by the approving authority;
+b.
+Discharges wastewater at an uncontrolled, variable rate in sufficient quantity to cause an imbalance in the wastewater treatment process;
+c.
+Fails to pay monthly bills for sanitary sewer services and/or surcharges and fines when due; or
+d.
+Repeats a discharge of prohibited wastes into public sewers.
+(b)
+The notification process for discontinuance of service is set forth in section 66-163.
+(Code 1987, § 18-13)
+Sec. 66-71. - Industrial pretreatment program.
+(a)
+All industrial use dischargers to the county sewerage system shall be issued a permit to discharge by the board of commissioners. Such permit shall specify concentrations and quantities of pollutants and shall specify average and maximum flow rates and shall normally be issued on an annual basis. No new industrial discharges or increases of pollutant or flows of existing industries will be allowed without the issuance of a new permit except as may be provided for shortterm temporary modification.
+(b)
+Any permit which is issued may be revoked or revised at any time because of noncompliance, changes in federal categorical standards, changes in standards for new or existing point source discharges, or changes in or noncompliance with the county's NPDES permit.
+(c)
+The board of commissioners shall provide written rules and regulations for the industrial pretreatment program and shall establish the permit concentration and flow conditions for each industry and shall establish the surcharge and fine amounts for discharges of waste in excess of those allowed by the industrial pretreatment program.
+(d)
+Changes in the industrial pretreatment program rules shall be submitted to the state environmental protection division for approval.
+(Code 1987, § 18-14)
+Secs. 66-72—66-90. - Reserved.
+DIVISION 2. - BUILDING SEWERS AND CONNECTIONS
+
+Sec. 66-91. - Permit required.
+No person shall uncover, use, alter, disturb, or make any connections with or opening into any public sewer or appurtenance thereof without first obtaining a written permit from the director.
+(Code 1987, § 18-6(a))
+Sec. 66-92. - Permit application.
+The owner or his agent shall make application on a special form furnished by the county. The permit application shall be supplemented by any plans, specifications, or other information considered pertinent in the judgment of the director. A permit and inspection fee as set forth in the schedule of fees and charges on file in the office of the county clerk shall be paid at the time the application is filed.
+(Code 1987, § 18-6(b))
+Sec. 66-93. - Liability for expenses.
+All costs and expenses incidental to the installation and connection or the building sewer shall be borne by the owner. The owner shall indemnify the county from any loss or damage that may directly or indirectly be occasioned by the installation of the building sewer.
+(Code 1987, § 18-6(c))
+Sec. 66-94. - Separate building sewers required; exception.
+A separate and independent building sewer shall be provided for every building; except where one building stands at the rear of another on an interior lot and no private sewer is available or can be constructed to the rear building through an adjoining alley, court, yard, or driveway, the front building sewer may be extended to the rear building and the whole considered as one building sewer, but the county does not and will not assume any obligation or responsibility for damage caused by or resulting from any such single connection.
+(Code 1987, § 18-6(d))
+Sec. 66-95. - Use of old sewers.
+Old building sewers may be used in connection with new buildings only when they are found, on examination and test by the director, to meet all requirements of this article.
+(Code 1987, § 18-6(e))
+Sec. 66-96. - Specifications generally.
+The size, slope, alignment, materials of construction of a building sewer, and the methods to be used in construction shall all conform to the requirements of the building and plumbing code or other applicable rules and regulations of the county. In the absence of code provisions or in amplification thereof, the materials and procedures set forth in appropriate specifications of the American Society for Testing and Materials (ASTM) and the Water Pollution Control Federation (WPCF) Manual of Practice No. 9 shall apply. Additionally, the following materials and methods shall apply to building sewers within county supervision:
+(1)
+The building sewer shall be cast iron soil pipe, ASTM Specification A74, latest revision or equal; ductile iron pipe, American National Standards Institute (ANSI) Specification A21.51, latest revision, or equal or polyvinyl chloride (PVC) sewer pipe, ASTM Specification D3034, latest revision. All joints shall be tight and waterproof. Any part of the building sewer that is located within ten feet of a water service pipe shall be constructed of cast iron soil pipe of ductile iron pipe. Bolted mechanical joints may be required by the director where the sewer is exposed to damage by tree roots. If installed in filled or unstable ground, the building sewer shall be of cast iron soil pipe except that plastic pipe may be acceptable if laid on a suitable concrete bed or cradle as approved by the director.
+(2)
+The size and slope of the building sewer shall be subject to the approval of the director, but in no event shall the diameter be less than four inches. The slope of such four-inch pipe shall not be less than one-eighth inch per foot. Furthermore, the appropriate requirements of the Occupational Health and Safety Act (OSHA) shall be followed.
+(3)
+The depth shall be sufficient to afford protection from frost, and the building sewer shall be laid at uniform grade and with straight alignment insofar as possible. Changes in direction shall be made only with properly curved pipe and fittings. Building sewers shall not be placed in the same trench with water service lines.
+(4)
+An excavation required for the installation of a building sewer shall be open trench work unless otherwise approved by the director. Pipe laying and backfilling shall be performed in accordance with ASTM Specification C12, latest revision, except that no backfill shall be placed until the work has been inspected and approved.
+(5)
+All joints and connections shall be made gastight and watertight. Push-on joints for cast iron soil pipe shall have neoprene gaskets in accordance with the requirements of ASTM Specification C-564. Push-on joints for ductile iron pipe shall also have neoprene gaskets and be installed according to the manufacturer's recommendations. PVC pipe, joint material shall be of the bell and spigot type, sealed with a rubber "O"-ring gasket having a composition and texture which is resistant to the common ingredients of sewage, industrial wastes (including oils), and groundwater which will endure permanently under the conditions likely to be imposed by this use. Installation of gaskets shall be done in accordance with the pipe manufacturer's instruction using all the necessary materials, lubricants, and equipment recommended by the manufacturer.
+(6)
+The connection of the building sewer into the public sewer shall be made at the "Y" branch, if such a branch is available at a suitable location. If the public sewer is 12 inches in diameter or less, and no properly located "Y" branch is available, the county shall, at the owner's expense, cut a neat hole into the public sewer, with entry in the downstream direction at an angle of about 45 degrees, and install a 45-degree elbow with the spigot end cut so as not to extend past the inner surface of the public sewer. The invert of the building sewer at the point of the connection shall be at an elevation of at least one-tenth foot above the invert of the public sewer. A neat and smooth joint shall be made, and the connection made secure and watertight by encasement in concrete. Special fittings may be used for the connection only when approved by the director.
+(Code 1987, § 18-6(f))
+Sec. 66-97. - Point of connection to building.
+Whenever possible, the building sewer shall be brought to the building at an elevation below the basement floor, but above the top of the manhole of the manhole upstream and downstream from the connection. Where such a connection is not possible, the county assumes no responsibility for damage to property from backups in the sewer due to blockages, flooding, collapse of the line or other unavoidable situations. No building sewer shall be laid parallel to or within three feet of any bearing wall which might thereby be weakened. In all buildings in which any building drain is too low to permit gravity flow to the public sewer, sanitary sewage carried by such building drain shall be lifted by an approved means and discharged to the building sewer.
+(Code 1987, § 18-6(g))
+Sec. 66-98. - Connection of downspouts, drains.
+No person shall make connection of roof downspouts, foundation drains, areaway drains, or other sources of surface runoff or groundwater to a building sewer or building drain which in turn is connected directly or indirectly to a public sanitary sewer unless such connection is approved for purposes of disposal of polluted surface drainage.
+(Code 1987, § 18-6(h))
+Sec. 66-99. - Inspections.
+The applicant for the building permit shall notify the director when the building sewer is ready for inspection and connection to the public sewer. The connection and testing shall be made under the supervision of the director or his representative.
+(Code 1987, § 18-6(i))
+Sec. 66-100. - Barricades, lights.
+All excavations for building sewer installation shall be adequately guarded with barricades and lights so at to protect the public from hazard. Streets, sidewalks, parkways, and other public property disturbed in the course of the work shall be restored in a manner satisfactory to the county.
+(Code 1987, § 18-6(j))
+Sec. 66-101. - Authority of director.
+The director will define the availability of sewers and any costs associated with sewer permits or construction.
+(Code 1987, § 18-6(k))
+Sec. 66-102. - Application of technical codes.
+The connection of the building sewer into the public sewer shall conform to the requirements of the building and plumbing codes or other applicable rules and regulations of the county or the procedures set forth in appropriate specifications of the ASTM and the WPCF Manual of Practice No. 9. All such connections shall be made gastight and watertight and verified by proper testing. Any deviation from the prescribed procedures and materials must be approved by the director before installation.
+(Code 1987, § 18-6(l))
+Sec. 66-103. - Entrance of infiltration, inflow.
+If any house sewer permits the entrance of infiltration or inflow, the county may:
+(1)
+Require the owner to repair the house sewer.
+(2)
+Charges the owner a sewer rate that reflects the costs of the additional expense of sewage treatment from the owner's property.
+(3)
+Require the owner to disconnect his sewer from the county sewer system.
+(Code 1987, § 18-6(m))
+Sec. 66-104. - Maintenance, repairs.
+Responsibility for the maintenance and repair of any sewer shall be borne by the owner for all of the sewer located within the property of the owner up to the right-of-way of any adjoining public road to which the sewer is connected. The county will be responsible for the maintenance and repair of such sewer located beyond the property of the owner and on the public right-of-way.
+(Code 1987, § 18-6(n))
+Sec. 66-105. - Clean out.
+The owner shall be responsible for the construction and maintenance of a clean out basis on his property at the point along this sewer where the property of the owner adjoins the public right-of-way.
+(Code 1987, § 18-6(o))
+Sec. 66-106. - Conflicts with other provisions.
+Should any discrepancy exist between the specifications and materials for the sewer installation found in this article and the county development regulations or standard details, the specifications and materials found in the most current edition of the county development regulations and county standard details shall control unless alternate materials and specifications are approved in accordance with the procedures designated in the most current edition of the county development regulations.
+(Code 1987, § 18-6(p); Res. No. 00-25, § IV, 9-12-2000)
+Secs. 66-107—66-125. - Reserved.
+DIVISION 3. - CONNECTION TO COUNTY SEWER
+
+Sec. 66-126. - Definitions.
+The definitions found in the county development regulations and county zoning ordinance are incorporated herein by reference thereto.
+Coppermine WRF Service Areas: The area designated as the Coppermine WRF [Water Reuse Facility] Sewer Service Areas as shown and delineated on the map entitled Figure 5-2 Paulding County Anticipated Service Areas contained within the Paulding County Master Sewer Study and Plan, as adopted by the Paulding County Board of Commissioners, said map being incorporated herein by reference thereto as part of this division and attached hereto as Exhibit "B". The official map shall be maintained as part of the Paulding County Master Sewer Study and Plan at the offices of the director of water system and shall be available for public inspection.
+Pumpkinvine WRF Service Areas: The area designated as the Pumpkinvine WRF [Water Reuse Facility] Sewer Service Areas as shown and delineated on the map entitled Figure 5-2 Paulding County Anticipated Service Areas contained within the Paulding County Master Sewer Study and Plan, as adopted by the Paulding County Board of Commissioners, said map being incorporated herein by reference thereto as part of this division and attached hereto as Exhibit "B". The official map shall be maintained as part of the Paulding County Master Sewer Study and Plan at the offices of the director of water system and shall be available for public inspection.
+Sweetwater Drainage Basin: The area designated as the Sweetwater Drainage Basin shown on that certain map entitled Sweetwater Drainage Basin, said map being incorporated herein by reference thereto as part of this division and attached hereto as Exhibit "A". In addition thereto, said area is further shown and delineated as the Cobb County Outfall Service Area and Gothards Creek Service Area on the map entitled Figure 5-2 Paulding County Anticipated Service Areas contained within the Paulding County Master Sewer Study and Plan, as adopted by the Paulding County Board of Commissioners, said map being incorporated herein by reference thereto as part of this division and attached hereto as Exhibit "B". These official maps shall be maintained at the offices of the director of the water system and shall be available for public inspection.
+Sewer availability: Sanitary sewer shall be deemed available for connection to a development/subdivision site if:
+(1)
+The proposed development is within the designated sewer service areas as shown on the Coppermine WRF Service Areas Map, the Pumpkinvine WRF Service Areas Map and the Sweetwater Drainage Basin Map [Cobb County Outfall/Gothards Creek Service Area]; and
+(2)
+The applicable sewer treatment facility has capacity available or will have it available in the future to accept the sewage; or
+(3)
+The Paulding County Development Waiver Review Committee declares that there is sewer availability, if, in the opinion of the Paulding County Development Waiver Review Committee, sewer availability will exist in the immediate or reasonably foreseeable future and requiring connection to sewer is in the best interests of the county.
+Sewer: Sewer shall be defined as the Paulding County Sanitary Sewer System.
+(Res. No. 00-25, § V(a), 9-12-2000; Res. No. 05-10, § 3, 4-12-2005; Res. No. 07-08, § 3, 2-27-2007)
+Cross reference— Definitions generally, § 1-4.
+Sec. 66-127. - Sewer connection required.
+For those properties located within the Pumpkinvine Creek WRF Service Areas, the Coppermine WRF Service Areas, and the Sweetwater Drainage Basin, any newly permitted residential structure which is located within a residential subdivision development, if the residential development contains more than three residential structures, any newly permitted industrial structure or any newly permitted commercial structure, if there is sewer availability as defined herein, shall be connected to the sanitary sewer system before a final plat will be signed by the water system and/or a certificate of occupancy may be granted. However, the water system director may, at his discretion, make the following exceptions to this requirement:
+a.
+Developments which do not require sewer connection as a result of the Paulding County Zoning Ordinance or related zoning stipulations, may be exempt from the mandatory sewer connection if the director deems it is in the best interests of the county;
+b.
+Without waiving the fees or requirements of the respective actual basin, the water system director may further allow any mandatory sewer connection to be temporarily redirected from one service area to another service area during the plan review process if the director determines the alternate sewer connection is in the best interests of the system.
+(Res. No. 00-25, § V(b), 9-12-2000; Res. No. 05-10, § 3, 4-12-2005; Res. No. 07-08, § 4, 2-27-2007; Ord. No. 20-02, § 1, 2-25-2020)
+Sec. 66-128. - Variance procedure.
+(a)
+Upon application from the developer of a proposed residential, industrial or commercial structure which is required to be connected to sewer, a variance may be granted from the terms and conditions of this division.
+(b)
+The application for a variance shall be submitted to the county public works department showing the need for a variance.
+(c)
+A variance may be granted only upon a showing of hardship to the applicant, necessity, or other just cause, as determined by the applicable county agency hearing the request.
+(d)
+The variance application shall be heard by the county development waiver review committee.
+(e)
+The county development waiver review committee shall be authorized to grant or deny the application for a variance.
+(f)
+Any grant of a variance may be conditioned upon such terms and conditions as the county development waiver review committee may deem sufficient, including, but not limited to, a requirement that the applicant dedicate a portion of property for a sewer easement to Paulding County or construct a dry sewer along a portion designated as sewer easement for the future use of Paulding County, or both.
+(g)
+Either the applicant for a variance or the director of water systems who is dissatisfied with a decision of the county development waiver review committee are authorized to appeal the same to the county water and sewer advisory board.
+(h)
+The appeal must be in writing and provided to the county water and sewer advisory board within 30 days of the date of the decision of the county development waiver review committee.
+(i)
+The county water and sewer advisory board is authorized to grant or deny the appeal and is further authorized to grant or deny the variance or modify any conditions to the variance upon a majority vote of a quorum present.
+(j)
+Either the applicant for a variance or the director of water systems who is dissatisfied with a decision of the county water and sewer advisory board are authorized to appeal the same to the county board of commissioners.
+(k)
+The appeal must be in writing and provided to the county board of commissioners within 30 days of the date of the decision of the county water and sewer advisory board.
+(l)
+The county board of commissioners is authorized to grant or deny the appeal and is further authorized to grant or deny the variance or modify any conditions to the variance upon a majority vote of a quorum present.
+(Res. No. 00-25, § V(c), 9-12-2000; Res. No. 05-10, § 3, 4-12-2005; Res. No. 07-08, § 1, 2-27-2007)
+Sec. 66-129. - Easement acquisition and permitting.
+(a)
+When used in this subsection, the following definitions apply:
+(1)
+"County" refers to Paulding County and its officials and agents.
+(2)
+"Owner/developer" is the party creating and/or responsible for the development that is requesting sewer easement assistance.
+(3)
+"Parties" refers to the owner/developer and property owner.
+(4)
+"Property owner" or landowner is the party owing the land through which an easement is requested.
+(5)
+"Public works" shall mean the Paulding County Public Works Department, its director and/or authorized representatives.
+(b)
+The owner/developer of a subdivision/development which requires sewer in accordance with this division or the county zoning ordinance is responsible for acquiring all easements across private property for the purpose of constructing and installing the required sewer lines for connection to the sewer system.
+(c)
+In addition, the owner/developer of a subdivision/development which requires sewer in accordance with this division or the county zoning ordinance is also responsible for acquiring the necessary permits, including, but not limited to, encroachment permits, for any county and/or state right-of-way along which such sewer lines shall be placed.
+(d)
+In the event the owner/developer of a subdivision/development which is required to connect to sewer in accordance with this division, under the county zoning ordinance, or, who otherwise proposes to connect to sewer is unsuccessful in acquiring the easements across private property which are necessary for the installation of sewer for connection, the county, at the discretion of the board of commissioners, may assist the owner/developer in obtaining the sewer line easements, including the use of the power of eminent domain, pursuant to the following procedures:
+(1)
+Prior to intervention by Paulding County in the easement acquisition, the owner/developer shall first make a minimum of four documented written attempts to acquire the easement. Said offers to property owners must be made in writing, by certified mail, return receipt requested, or must be acknowledged as received by a notarized statement from the property owner. All such offers must be made in good faith illustrating a genuine attempt to acquire the easement through negotiation. Fifteen days shall elapse between the date of the first and second offers and an additional 15 days must elapse between each subsequent written offer. The second of the documented attempts to purchase the property must include obtaining an opinion of fair market value in a written real estate appraisal from a licensed real estate appraiser certified by the State of Georgia of said easement area and offering the fair market value as indicated by the appraisal, to said private property owner. Said real estate appraisal must include a full fair market valuation of the site, including a consequential damages, consequential benefits analysis.
+(2)
+The owner/developer shall submit the request for county intervention in the acquisition of the easements in writing to the director of water systems in a form substantially like the form as set forth in the County Code of Ordinances section 66-130, accompanied with a nonrefundable $5,000.00 application fee. The owner/developer must also submit a copy of the real estate appraiser's full report of opinion of fair market value of the easement and the documentation, including the certified mail and receipt forms or the notarized acknowledgment forms as to all acquisition attempts. In addition, the owner/developer will submit four plats of survey for each easement wherein intervention is requested, as well as four copies of the preliminary engineering design and specifications of the sewer line and two copies of the sewer profile.
+(3)
+The owner/developer must also submit an engineering report from an independent engineering firm stating that the proposed easement route is the most feasible route. Said report must contain the supporting data for this conclusion and must be written by a professional engineer licensed in the State of Georgia. At the request of public works, the county may require a meeting with the independent engineer to review his plans and conclusions.
+(4)
+If deemed necessary by the director of water systems, the owner/developer shall meet with the director of water systems and county attorney or their designees to discuss the request for intervention. The director of water systems, in reviewing the request, may require the owner/developer to size the line to accommodate the public good if the location of the line is such that public connection to the line from outside the owner/developer's project is likely.
+(5)
+After reviewing the submission, the water system director and/or county attorney may require the owner/developer to continue negotiations with the owner/developer for a further period, to be determined by the county on a case by case basis. In doing so, the water system director and/or county attorney may require the owner/developer to schedule at least one in-person meeting with the easement landowner that must occur prior to any further county involvement and may also require the owner/developer to obtain a second independent land appraisal of the easement area from a different appraiser at the owner/developer's expense. The county attorney may, at his discretion, select the second appraisal firm. The second appraisal shall meet the appraisal requirements set forth above.
+(6)
+After receipt of the required materials from the owner/developer and completion of any requested items set forth above, the county public works department shall send a letter to the property owners affected notifying them of the owner/developer's request for assistance in the easement acquisition. The letter will include setting a time and location for a negotiation conference between the property owners, the owner/developer and its surveyor and/or engineer, a representative from the public works department and a person designated by the director of the public works department to act as the easement negotiation agent. The county attorney may act as the easement negotiation agent.
+(7)
+In the event no resolution is reached during the easement conference, the parties shall be required to attend a further mediation regarding the easement. A member of the county staff and/or county attorney are not required to attend the mediation, but may do so if scheduling allows and if so requested. The mediation shall be conducted by one of the licensed mediators on the nondomestic mediators' list for the 7th Judicial Circuit. The mediator shall be selected utilizing the following method: The owner/developer shall select three licensed mediators and present those choices to the property owners. The property owners may select any name from the list of three. Provided however, in the event the parties are unable to reach an agreement as to whom the mediator should be, the county attorney will randomly assign a mediator from the 7th Judicial Circuit list of mediators on a rotating basis.
+The parties shall attend mediation and work towards a solution in good faith. The owner/developer shall be responsible for the cost of the mediator's fees and will be responsible for payment at the time of mediation. The mediator shall supply the county attorney with a copy of the mediation report and/or mediation agreement showing the outcome of the mediation.
+(8)
+In the event no resolution is reached, the director of water systems and the county attorney shall review the results of the mediation and the aspects of the matter further and determine whether any further negotiations should be required. Thereafter, if the water system director and county attorney determine that all privately held mediation and negotiation attempts have failed, the water system director shall present the issue to the water and sewer advisory board for their recommendation regarding whether intervention in the acquisition of the easement is in the best interest of the county at the next available regularly scheduled meeting of the water and sewer advisory board.
+The owner/developer and property owners shall both be advised of the date and time of the water and sewer advisory board meeting and provided an opportunity to be heard. The water and sewer advisory board may establish its own rules regarding the length and nature of any such presentations. In making its decision, the water and sewer advisory board shall consider whether there is a compelling public interest in acquiring the easement though county intervention. The water and sewer advisory board may make a determination as follows: (1) that it is not in the county's best interest to move forward with assisting in the easement acquisition process; (2) that it is in the county's best interest to move forward with assisting in the acquisition process; (3) the issue should be tabled to the water and sewer advisory board for further review. The water and sewer advisory board may table the issues to seek further information from any source, to allow the staff more time to review alternate routes, and/or to request the owner/developer and property owner continue further negotiations. In the event the water and sewer advisory board requests further negotiations or information, the owner/developer must provide the information requested to Paulding County Public Works at least one week prior to the scheduled decision meeting and the owner/developer must appear before the water and sewer advisory board at the scheduled meeting to discuss the information and its further attempts at resolution. Thereafter, the water and sewer advisory board, at its discretion, may continue to table an item to a time certain or vote as set forth above.
+The water and sewer advisory board may offer any further recommendations it deems appropriate to the board of commissioners.
+(9)
+After the water and sewer advisory board has issued its recommendation regarding the request, the director of water systems shall place this matter on the agenda and present the issue to the board of commissioners (if the owner/developer desires to proceed with the request) at a future, available board of commissioners' regularly scheduled meeting. The findings and recommendations of the water and sewer advisory board will be presented to the board of commissioners in conjunction with the director of water systems' presentation. In addition, the county attorney shall be available to present to the board of commissioners a report of the previous findings from the easement conferences.
+(10)
+The board of commissioners will consider the request and vote on the request for intervention in the acquisition of the easement at a public meeting. The owner/developer requesting same and the property owners affected will be notified of the time and place of the meeting in which the request will be considered. In its decision, the board of commissioners shall consider whether there is a compelling public interest in the acquisition of the easement through county intervention. The board of commissioners may vote as follows: (1) to continue assistance in the acquisition of the easement, including instituting an action pursuant to the power of eminent domain to acquire the easement, (2) to continue assistance in the acquisition, but reserve the issue of the use of eminent domain after further discussions between the owner/developer, county and property owner have been completed; (3) to deny the request for assistance from the owner/developer; (4) to table the request for assistance and (5) any other appropriate motion it deems proper. The board of commissioners may table the issue to seek further information from any source, to allow the staff more time to review alternate routes and/or to request the owner/developer and property owner continue further negotiations. Thereafter, the board of commissioners, at its discretion, may continue to table the request to a time certain or vote as set forth above.
+(11)
+The final decision to intervene and assist in easement acquisition is at the sole discretion of the board of commissioners. Nothing in this section shall be construed as to give the owner/developer a property interest or right to the county's assistance in the easement acquisition process nor shall it give any such right to a time frame or schedule for assistance at any stage of the process.
+(12)
+Should any discrepancy exist between the terms contained in subsection (a)(1) entitled "connection to county sewer", and the county development regulations, the terms of this section shall control.
+(e)
+In addition to the application fee, the developer submitting the request for easement acquisition assistance shall be responsible for the payment of the following costs and expenses:
+(1)
+The cost of acquisition of the rights in and to the easement from the landowner as may be agreed upon by the parties or as may be determined by judgment from a court of competent jurisdiction;
+(2)
+Any and all attorney's fees and expenses resulting from the negotiation, mediation and or any other such attorney services conducted by the county attorney or their representative with regard to the easement acquisition;
+(3)
+Attorneys' fees and expenses in an amount equal to the amount paid by Paulding County to attorneys selected by Paulding County to prosecute the easement acquisition to final judgment;
+(4)
+The costs associated with any appraisals that are produced in conjunction with the easement request;
+(5)
+Fees and expenses paid to any expert witness used by the attorneys in the easement acquisition process;
+(6)
+The costs of any sewer or water tap fees offered and provided to property owners or third parties in connection with or exchange of any easements.
+(7)
+Court fees including, but not limited to, filing fees, service fees, court reporter fees, special master fees, mediator fees or attorney's fees as may be assessed by a court;
+(8)
+Such other and further fees, costs and expenses as may be reasonably incurred by Paulding County in the easement acquisition process.
+All such fees must be paid promptly within 30 days of an invoice for said fees being presented to owner/developer. All checks must be made payable to the Paulding County Board of Commissioners, except those paid as judgments or costs of land acquisition, which may be paid directly to the property owner.
+In the event payment is not received by Paulding County promptly, Paulding County is authorized to bring an action for collection of the fees against the owner/developer in a court of competent jurisdiction and may collect damages for the action, including attorney's fees.
+(Res. No. 00-25, § V(d), 9-12-2000; Res. No. 05-10, § 3, 4-12-2005; Res. No. 07-08, § 2, 2-27-2007)
+Sec. 66-130. - Form—Owner/developer request for easement acquisition assistance.
+OWNER/DEVELOPER REQUEST FOR EASEMENT ACQUISITION ASSISTANCE
+This request for the Paulding County Board of Commissioners to aid in the easement acquisition dated this ________ day of _______, _______ by _______, as Owner/Developer is hereby submitted to Paulding County, Georgia, a political subdivision of the State of Georgia. The owner/Developer herein named does hereby request the assistance of Paulding County, Georgia, in obtaining the following parcels as shown below and in the attachments and agrees to the following procedure for same.
+1. Owner/Developer has submitted herewith this Agreement and completed the following:
+EXPAND
+_____ (A)
+Initials Prior to intervention by Paulding County in the easement acquisition, the owner/developer has made four (4) documented written attempts to acquire the easement, with at least fifteen (15) days between the offers. Said offers to property owners were made in writing, by certified mail, return receipt requested, or were acknowledged as received by a notarized statement from the property owner. One (1) of the documented attempts to purchase the property included obtaining an opinion of fair market value in a written real estate appraisal from a licensed real estate appraiser certified by the State of Georgia of said easement area and offered the fair market value as indicated by the appraisal, to said private property owner. Said real estate appraisal included a full fair market valuation of the site, including a consequential damages, consequential benefits analysis.
+_____ (B)
+Initials The owner/developer has submitted with this request for County intervention in the acquisition the following:
+(1) A copy of the real estate appraiser's full report of opinion of fair market value of the easement.
+(2) The documentation, including the certified mail and receipt forms or the notarized acknowledgment forms, as to all acquisition attempts.
+(3) Four plats of survey for each easement wherein intervention is requested, as well as two copies of the preliminary engineering design and specifications of the sewer line and four copies of the sewer profile.
+(4) A letter or report from an independent engineering firm stating that the proposed easement route is the most feasible route. Said report must contain the supporting data for this conclusion.
+(5) A nonrefundable $5,000.00 application fee.
+  2. Owner/developer hereby understands and agrees to the following conditions of this easement acquisition intervention.
+EXPAND
+_____ (A)
+Initials If deemed necessary by the Director of Public Works, the owner/developer shall meet with the Director of Public Works and County Attorney or their designees to discuss the request for intervention. The owner/developer understands that the Director of Public Works, in reviewing the request, may require the owner/developer to size the line to accommodate the public good if the location of the line is such that public connection to the line from outside the owner/developer's project is likely. In addition, at the request of Public Works, the County may require a meeting with the independent engineer to review his plans and conclusions.
+_____ (B)
+Initials After reviewing the submission, the Public Works Director and/or County Attorney may require the owner/developer to continue negotiations with the owner/developer for a further period, to be determined by the County on a case by case basis. In doing so, the Public Works Director and/or County Attorney may require the owner/developer to schedule at least one in-person meeting with the easement landowner that must occur prior to any further County involvement and may also require the owner/developer to obtain a second independent land appraisal of the easement area from a different appraiser at the owner/developer's expense. The County Attorney may, at his discretion, select the second appraisal firm. The second appraisal shall meet the appraisal requirements set forth above.
+_____ (C)
+Initials After receipt of the request for assistance and required materials from the owner/developer, the Paulding County Public Works Department will send a letter to the property owners affected notifying them of the owner/developer's request for assistance in the easement acquisition. The letter will include setting a time and location for negotiation conference between the property owners, the owner/developer and its survey crew and/or engineer, a representative from the Public Works Department and a person designated by the Director of the Public Works to act as the Easement Negotiation Agent. The County Attorney may act as the Easement Negotiation Agent. Your attendance at this easement conference is mandatory.
+_____ (D)
+Initials In the event no resolution is reached during the easement conference, the parties shall be required to attend a further mediation regarding the easement. A member of the County staff and/or County Attorney are not required to attend the mediation, but may do so if scheduling allows and if so requested. The mediation shall be conducted by one of the licensed mediators on the non-domestic mediators' list for the 7 th Judicial Circuit. The mediator shall be selected utilizing the following method: The owner/developer shall select three licensed mediators and present those choices to the property owners. The property owners may select any name from the list of three. Provided however, in the event the parties are unable to reach an agreement as to whom the mediator should be, the County Attorney will randomly assign a mediator from the 7 th Judicial Circuit list of mediators on a rotating basis.
+The parties shall attend mediation and work towards a solution in good faith. The owner/developer shall be responsible for the cost of the mediator's fees and will be responsible for payment at the time of mediation. The mediator shall supply the County Attorney with a copy of the mediation report and/or Mediation Agreement showing the outcome of the mediation.
+_____ (E)
+Initials In the event no resolution is reached, the Director of Public Works and the County Attorney shall review the results of the mediation and the aspects of the matter further and determine whether any further negotiations should be required. Thereafter, if the Public Works Director and County Attorney determine that all privately held mediation and negotiation attempts have failed, in the event no resolution is reached, the Director of Public Works shall present the issue to the Water and Sewer Advisory Board for their recommendation regarding whether intervention in the acquisition of the easement is in the best interest of the County at the next available regularly scheduled meeting of the Water and Sewer Advisory Board. The owner/developer and property owners shall both be advised of the date and time of the Water and Sewer Advisory Board meeting and provided an opportunity to be heard. The Water and Sewer Advisory Board may establish its own rules regarding the length and nature of any such presentations. In making its decision, the Water and Sewer Advisory Board shall consider whether there is a compelling public interest in acquiring the easement though County intervention. The Water and Sewer Advisory Board may make a determination as follows: (1) that it is not in the County's best interest to move forward with assisting in the easement acquisition process; (2) that it is in the County's best interest to move forward with assisting in the acquisition process; (3) the issue should be tabled to the Water and Sewer Advisory Board for further review. The Water and Sewer Advisory Board may table the issues to seek further information from any source, to allow the staff more time to review alternate routes, and/or to request the owner/developer and property owner continue further negotiations. In the event the Water and Sewer Advisory Board requests further negotiations or information, the owner/developer must provide the information requested to Paulding County Public Works at least one (1) week prior to the scheduled decision meeting and the Owner/Developer must appear before the Water and Sewer Advisory Board at the scheduled meeting to discuss the information and its further attempts at resolution. Thereafter, the Water and Sewer Advisory Board, at its discretion, may continue to table an item to a time certain or vote as set forth above.
+The Water and Sewer Advisory Board may offer any further recommendations it deems appropriate to the Board of Commissioners.
+_____ (F)
+Initials After the Water and Sewer Advisory Board has issued its recommendation regarding the request, the Director of Public Works shall place this matter on the agenda and present the issue to the Board of Commissioners (if the Owner/Developer desires to proceed with the request) at a future, available Board of Commissioners' regularly scheduled meeting. The findings and recommendations of the Water and Sewer Advisory Board will be presented to the Board of Commissioners in conjunction with the Director of Public Works' presentation. In addition, the County Attorney shall be available to present to the Board of Commissioners a report of the previous findings from the easement conferences.
+_____ (G)
+Initials The Board of Commissioners will consider the request and vote on the request for intervention in the acquisition of the easement at a public meeting. The Owner/Developer requesting same and the property owners affected will be notified of the time and place of the meeting in which the request will be considered. In its decision, the Board of Commissioners shall consider whether there is a compelling public interest in the acquisition of the easement through County intervention. The Board of Commissioners may vote as follows: (1) to continue assistance in the acquisition of the easement, including instituting an action pursuant to the power of eminent domain to acquire the easement, (2) to continue assistance in the acquisition, but reserve the issue of the use of eminent domain after further discussions between the owner/developer, County and property owner have been completed; (3) to deny the request for assistance from the owner/developer; (4) to table the request for assistance and (5) any other appropriate motion it deems proper. The Board of Commissioners may table the issue to seek further information from any source, to allow the staff more time to review alternate routes and/or to request the owner/developer and property owner continue further negotiations. Thereafter, the Board of Commissioners, at its discretion, may continue to table the request to a time certain or vote as set forth above.
+_____ (H)
+Initials The final decision to intervene is at the sole discretion of the Board of Commissioners. Nothing in the sewer use ordinance or this application request shall be construed as to give the owner/developer a property interest or right to the County's assistance in the easement acquisition process nor shall it give any such right to a time frame or schedule for assistance at any stage of the process.
+  3. Owner/developer hereby understands and agrees to the following fees and terms of payment in association with this easement acquisition intervention.
+EXPAND
+_____ (A)
+Initials In addition to the application fee and the costs associated with any appraisals or certified letters, the developer submitting the request for easement acquisition assistance shall be responsible for the payment of the following costs and expenses:
+(1) The cost of acquisition of the rights in and to the easement from the landowner as may be agreed upon by the parties or as may be determined by judgment from a court of competent jurisdiction;
+(2) Any and all attorney's fees and expenses resulting from the negotiation, mediation and or any other such attorney services conducted by the County Attorney or their representative with regard to the easement acquisition;
+(3) Attorneys' fees and expenses in an amount equal to the amount paid by Paulding County to attorneys selected by Paulding County to prosecute the easement acquisition to final judgment;
+(4) Fees and expenses paid to any expert witness used by the attorneys in the easement acquisition process;
+(5) The costs associated with any appraisals that are produced in conjunction with the easement request;
+(6) The costs of any sewer or water tap fees offered and provided to property owners or third parties in connection with or exchange of any easements;
+(7) Court fees including, but not limited to, filing fees, service fees, court reporter fees, special master fees, mediator fees or attorney's fees as may be assessed by a court;
+(8) Such other and further fees, costs and expenses as may be reasonably incurred by Paulding County in the easement acquisition process.
+_____ (B)
+Initials All such fees must be paid promptly within 30 days of an invoice for said fees being presented to owner/developer. All checks must be made payable to the Paulding County Board of Commissioners, except those paid as judgments or costs of land acquisition, which may be paid directly to the property owner.
+_____ (C)
+Initials In the event payment is not received by Paulding County promptly from the owner/developer, Paulding County is authorized to bring an action for collection of the fees against the owner/developer in a court of competent jurisdiction and may collect damages, including attorney's fees.
+  By signing hereunder as Owner/Developer, the Owner/Developer accepts the above-stated terms and conditions.
+EXPAND
+_____
+Owner/Developer
+Name: _____
+Sworn to and subscribed before me Title: _____
+this _____ day of _______, _____. Address: _____
+_____
+_____
+Notary Public Phone: _____
+Received by Paulding County Public Works
+this ____ day of _______, _____.
+_____
+_____
+Public Works Representative
+  (Res. No. 00-25, § V(18-6.2), 9-12-2000; Res. No. 05-10, § 4, 4-12-2005)
+Sec. 66-131. - Acceptance by county of sewer lines.
+(a)
+In the event an owner/developer intends to construct sewer lines and dedicate them to the county for perpetual maintenance, the following procedures must be met:
+(1)
+The design, specifications, route and materials utilized in the construction and installation of the sewer line must be approved by the director of water systems or his representative prior to the construction of the sewer line;
+(2)
+The sewer line shall be inspected and approved throughout construction by the director of water systems or his representative;
+(3)
+The sewer line shall be inspected and approved at an inspection conducted after the completion of the installation of the sewer line by the director of water systems or his representative, including but not limited to, a video inspection; and
+(4)
+The sewer line shall be officially dedicated to the county in the form of a deed naming the grantee of the property as Paulding County, Georgia, by and through its board of commissioners;
+(5)
+A maintenance bond for the portion of the sewer line which is to be dedicated to the county for perpetual maintenance has been issued in an amount consistent with the bonding requirements for sewer construction as set forth in the most current version of the county development regulations; and
+(6)
+An 18-month warranty period from the date of the inspection conducted after the completion of the construction of the sewer line has been completed and the director of water systems or his representative has approved the working order of the sewer line and has authorized its acceptance by the county.
+(b)
+Sewer lines which are to be dedicated to the county in accordance with this article shall become the property of the county upon the sewer line's dedication and deed subject to the warranty and bonding requirements provided for in this article. All property rights as to the sewer lines and decisions regarding third party connection thereto are at the discretion of the county.
+(Res. No. 00-25, § V(18-6.3), 9-12-2000)
+Secs. 66-132—66-150. - Reserved.
+DIVISION 4. - RESTRICTED USE OF PUBLIC SEWER
+
+Sec. 66-151. - Discharge of unpolluted waters into sanitary sewer.
+No person shall discharge or cause to be discharged any unpolluted waters such as stormwater, groundwater, roof runoff, subsurface drainage, cooling water, or unpolluted industrial process waters to any sanitary sewer.
+(Code 1987, § 18-7(a))
+Sec. 66-152. - Discharge of sanitary wastewater into storm sewer.
+No person shall discharge or cause to be discharged any sanitary wastewater into a storm sewer system.
+(Code 1987, § 18-7(b))
+Sec. 66-153. - Specific discharges into public sewers.
+No person shall discharge or cause to be discharged any of the following described water or waste to any public sewers:
+(1)
+Any gasoline, benzene, naphtha, fuel oil, or other flammable or explosive liquid, solid or gas.
+(2)
+Any waters containing toxic or poisonous solids, liquids, or gases in sufficient quantity, either singly or by interaction with other wastes to injure or interfere with any waste treatment process, constitute a hazard to humans or animals, create a public nuisance, or create any hazard in the receiving waters of the wastewater treatment plant.
+(3)
+Any waters or wastes having a pH lower than 5.5 or greater than 9.0 or having any other corrosive property capable of causing damage or hazard to structures, equipment and personnel of the wastewater works.
+(4)
+Solids or viscous substances in quantities or of such size capable of causing obstruction to the flow in sewers, or other interference with the proper operation of the wastewater facilities such as, but not limited to, ashes, bones, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood, unground garbage, whole blood, paunch manure, hair and fleshings, entrails and paper or plastic dishes, cups, milk containers, etc., either whole or ground by garbage grinders.
+(Code 1987, § 18-7(c))
+Sec. 66-154. - Limited discharges into systems.
+The following described substances, materials, waters or waste shall be limited in discharges to municipal systems to concentrations or quantities which will not harm either the sewers, wastewater treatment process or equipment, will not have an adverse effect of the receiving stream, or will not otherwise endanger lives, limb, public property, or constitute a nuisance. The limitations or restrictions on materials or characteristics of waste or wastewater discharged to the sanitary sewer which shall not be violated without approval of the county water system are as follows:
+(1)
+Wastewater having a temperature higher than 150 degrees Fahrenheit or wastewater which will elevate the temperature of the influent to the publicly owned treatment works to 104 degrees Fahrenheit or higher.
+(2)
+Wastewater containing more than 25 milligrams per liter of petroleum oil, nonbiodegradable cutting oils, or products of mineral oil origin.
+(3)
+Wastewater containing more than 100 milligrams per liter of oils, fat, grease, wax, whether emulsified or not, or containing substances which may solidify or become viscous at a temperature between 32 degrees Fahrenheit and 150 degrees Fahrenheit.
+(4)
+Any garbage that has not been properly shredded. Garbage grinders may be connected to sanitary sewers from homes, hotels, institutions, restaurants, hospitals, catering establishments, or similar places where garbage originates from the preparation of food in kitchens for the purpose of consumption on the premises or when served by caterers.
+(5)
+All industrial discharges to the county sewer system must comply with the Federal Industrial Pretreatment Standards (40 CFR 403) and those industrial pretreatment standards developed by the state environmental protection division.
+(6)
+Any waters or wastes containing taste- or odor-producing substances exceeding limits which may be established.
+(7)
+Any radioactive waste or isotopes of such half life or concentrations as may exceed limits established in compliance with applicable state or federal regulations.
+(8)
+Quantities of flow, concentrations, or both, which constitute a slug or which will cause interference with the county's treatment plant.
+(9)
+Waters or wastes containing substances which are not amenable to treatment or reduction by the wastewater treatment processes employed or are amenable to treatment only to such a degree that the wastewater treatment plant effluent cannot meet the requirements of other agencies having jurisdiction over discharge to the receiving stream.
+(10)
+Any water or wastes which, by interaction with other water or wastes in the public sewer system, release noxious gases, form solids which interfere with the collection system, or create a condition deleterious to structures and treatment processes.
+(11)
+Materials which exert or cause:
+a.
+Any unusual concentrations of inert suspended solids (such as, but not limited to, Fuller's earth, lime slurries, and lime residues) or of dissolved solids (such as but not limited to sodium chloride and sodium sulfate). Suspended solids released in a discharge at a flow rate which will cause interference with the wastewater facilities.
+b.
+Excessive discoloration (such as, but not limited to, dye wastes and vegetable tanning solutions.)
+c.
+Pollutants, including oxygen demanding pollutants (BOD, etc.), released in a discharge at a flow rate and/or pollutant concentration which, either singly or by interaction with other pollutants, will cause interference with the wastewater facilities.
+(Code 1987, § 18-7(d); Ord. No. 20-07, § 1, 7-28-2020)
+Sec. 66-155. - Options concerning limited wastes.
+If any waters or wastes are discharged or are proposed to be discharged to the public sewers, which waters contain the substances or possess the characteristics enumerated in this division and which in the judgment of the board of commissioners, may have a deleterious effect upon the wastewater facilities, processes, equipment, or receiving waters, or which otherwise creates a hazard to life or constitute a public nuisance, the commission may:
+(1)
+Reject the waste;
+(2)
+Require pretreatment to an acceptable condition for discharge to the public sewers;
+(3)
+Require control over the quantities and rates of discharge; and/or
+(4)
+Require surcharge payments to cover at least the added cost of handling and treating the wastes.
+(Code 1987, § 18-7(e))
+Sec. 66-156. - Interceptors.
+Grease, oil, and sand interceptors shall be provided by the owner when, in the opinion of the board of commissioners, such apparatuses are necessary for the proper handling of liquid wastes or other harmful ingredients and shall be used on all commercial and industrial sites which produce grease, oil or sand waste and on other sites if evaluated as necessary for the property by the department of water, sewer and environmental services; provided, however, that such interceptors shall not be required for private living quarters or dwelling units. All interceptors shall be of a type and capacity approved by the director and shall be located as to be readily and easily accessible for cleaning and inspection. In maintenance of these interceptors, the owner shall be responsible for the proper removal and disposal by appropriate means of the captured material and shall maintain records of the dates and means of disposal, which records are subject to review by the director. Any removal and hauling of the collected material not performed by the owner's personnel must be performed by currently licensed disposal firms.
+(1)
+In accordance with this subsection, all parties required to maintain a grease, oil and sand interceptor as part of their property must provide documentation as to the quantity and method of disposal of such waste. Such documentation must include:
+a.
+From the generator of the grease, oil, and sand or its authorized agent:
+1.
+The generator's name, address and telephone number and the address of the location of such interceptor as well as the name of a party responsible for the maintenance of the interceptor;
+2.
+The expected receiver of the grease, oil, and sand, receiver's business address and disposal site;
+3.
+The quantity, units and description of the grease, oil and sand;
+4.
+A certification that the waste described above is not hazardous waste as defined by 40 CFR 261 or any applicable state law;
+5.
+A certification that the information given pursuant to subsections (1)a.1—4 of this section is true and correct.
+b.
+From the carrier or driver of the waste:
+1.
+The carrier's name, business address, telephone number and permit number;
+2.
+A signed certification stating the materials and quantities described by the generator were received as noted.
+c.
+From the receiver grease, oil or sand or its authorized agent:
+1.
+The receiver's name, telephone number, site address and any other additional comments as deemed necessary by the receiver as a description of the materials received;
+2.
+A signed certification stating the materials and quantity described and certified to by the generator were received.
+d.
+The documentation shall be provided on a not less than quarterly basis to the county.
+(2)
+Any violation of this section shall constitute a misdemeanor and shall be punishable as provided in section 1-19 of this Code.
+(Code 1987, § 18-7(f); Res. No. 98-31, § 1, 12-8-1998)
+Sec. 66-157. - Control manhole.
+When required by the board of commissioners, the owner of any property served by a building sewer carrying industrial wastes shall install a suitable structure together with such necessary meters and other appurtenances in the building sewer to facilitate observation, sampling, and measurement of the wastes. Such structure, when required, shall be accessible and safely located and shall be constructed in accordance with approved plans. The structure shall be installed by the owner at his expense and shall be maintained by him so as to be safe and accessible at all times. This requirement will be administered on a case-by-case basis.
+(Code 1987, § 18-7(g))
+Sec. 66-158. - Data required from industrial users.
+Industrial users may be required to provide information needed to determine compliance with this article. These requirements may include:
+(1)
+Wastewater discharge peak rate and volume over a specified time period;
+(2)
+Chemical analyses of wastewaters;
+(3)
+Information on raw materials, processes, and products affecting wastewater volume and quality;
+(4)
+Quantity and disposition of specific liquid, sludge, oil, solvent, or other materials important to sewer use control;
+(5)
+A plot plan of sewers of the user's property showing sewer and pretreatment facilities location;
+(6)
+Details of wastewater pretreatment facilities; and
+(7)
+Details of systems to prevent and control the losses of materials through spills to the public sewer.
+(Code 1987, § 18-7(h))
+Sec. 66-159. - Special agreements, arrangements.
+No statement contained in this article shall be constructed as preventing any special agreement or arrangement between the board of commissioners and any industrial concern whereby an industrial waste of unusual strength or character may be accepted by the board for treatment.
+(Code 1987, § 18-7(i))
+Sec. 66-160. - Standard for measurements, tests, etc.
+All measurements, tests, and analyses of the characteristics of waters and wastes to which reference is made in this article shall be determined in accordance with the latest edition of Standard Methods for the Examination of Water and Wastewater, published by the American Public Health Association. The methods, locations, times, durations, and frequencies of sampling are to be determined on an individual basis, subject to approval by the board of commissioners.
+(Code 1987, § 18-7(j))
+Sec. 66-161. - Pretreatment.
+Persons discharging industrial wastes into the sewerage system may be required to pretreat such wastes. Plans for all pretreatment facilities shall be approved by the director or the state environmental protection division prior to construction. At the time written plans are submitted for approval, written maintenance plans shall also be submitted and approved by the director. The facilities shall be allowed to operate only as long as they are maintained in accordance with the approved maintenance plans. Pretreatment requirements shall be determined on a case-by-case basis and shall include the following facilities as a minimum:
+(1)
+Neutralization. If plans are submitted for the neutralization of strong acid or alkaline wastes, the plans shall include the necessary instrumentation and controls to assure compliance with the above regulations at all times.
+(2)
+Equalization. Holding tanks or equalization basins shall be required ahead of the receiving manhole of the county sewerage system when deemed necessary by the director to prevent peak flows that exceed the capacity of the system or that result in operational problems.
+(3)
+All pretreatment facilities shall be operated and maintained continuously in satisfactory and effective operation by the owner at his expense.
+(Code 1987, § 18-7(k))
+Sec. 66-162. - Variances restricted.
+There shall be no provision for the granting of variances for discharge of incompatible wastes. If a user begins to violate any of the provisions of division 2 of this article, it shall be his responsibility to apply to the director who can issue a temporary permit along with a compliance schedule for planning and construction of necessary treatment or pretreatment works. Each case will be carefully evaluated with respect to its effect on the wastewater treatment system and the environment prior to issuance of a temporary permit and compliance schedule. Any dilution of the wastewater by the user for the purpose of decreasing the concentrations of toxic materials shall be considered as a violation of this article.
+(Code 1987, § 18-7(l))
+Sec. 66-163. - Enforcement.
+Failure to comply with the provisions of this article or any condition of a pretreatment permit or rules of the board of commissioners shall be cause for the discontinuance of sewer or water service to the offending person. The procedure shall be as follows: a written notice, signed by the director, shall be delivered personally to the person then responsible for the offending use outlining the conditions of the wastes which violate or violated the county ordinances or the permit regulations or requirements of the board of commissioners. If the person in charge will not accept the notice, it shall be conveyed by registered mail to the responsible person. The person notified shall have 24 hours from the time of receipt of the notice, whether personally delivered or delivered by registered mail, to correct the offending conditions. If correction is not made or a request for extension is not received by the board of commissioners within 24 hours, it shall be mandatory that water or sewer service be discontinued to the offending person without further notice. If a request for an extension of time is received by the commission within 24 hours of the above notice and if circumstances are such that, in the opinion of the director, the best interests of the county would be served by extending the time for correction of the offending condition, then he may grant an extension of time up to a maximum limit of 30 days.
+(Code 1987, § 18-7(m))
+Sec. 66-164. - Responsibility of discharger.
+It shall be the responsibility of the person discharging industrial waste into the county sewerage system to:
+(1)
+Build a control structure in the discharge line from his premises, immediately prior to the entrance of the discharge line into the county sewerage system, suitable for the sampling and measuring of wastes. Plans for this structure must be approved by the board of commissioners. This requirement may be waived if deemed unnecessary by the commission. If no special manhole is required, the control manhole shall be considered to be the nearest downstream manhole in the public sewer to the point at which the building sewer is connected.
+(2)
+Contact the director prior to operation changes which will materially alter characteristics of the waste from the last prior sampling.
+(3)
+Make timely, periodic payments to the county for surcharges for excessive loadings as called for by the most current rate schedule.
+(Code 1987, § 18-7(n))
+Secs. 66-165—66-199. - Reserved.
+ARTICLE IV. - COMMERCIAL WASTE HANDLING ORDINANCE
+
+Sec. 66-200. - Purpose.
+Excessive amounts of fats, oils and grease, grit, sand and other solid or viscous materials can cause blockage and obstruction in the sanitary sewer system, causing untreated wastewater to overflow into the environment. Much of the waste material that has the potential to cause blockage or obstruction originates from commercial facilities, such as food preparation and vehicle maintenance facilities.
+This article sets forth minimum and uniform requirements for the treatment and disposal of commercial waste into the sanitary sewer system, and the transportation and ultimate disposal of commercial waste sludge and byproducts.
+The objective of this article is:
+• To minimize the discharge of pollutants associated with commercial waste discharge into the sanitary sewer system that may interfere with normal operation of the system, and
+• To assure that the sludge and byproducts removed from commercial waste treatment systems are transported and disposed of in accordance with Chapter 391-3-6-.24 of the Rules and Regulations of the State of Georgia, Department of Natural Resources, Environmental Protection Division.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)
+Sec. 66-201. - Definitions and abbreviations.
+All terms used in this article shall be interpreted in accordance with the definitions and abbreviations as set forth in this section, or in any other section of this article:
+(1)
+Definitions;
+Commercial facilities means a facility constructed and intended to produce commercial, domestic, or industrial wastewaters, including facilities intended to collect, transport, and treat stormwater runoff.
+Commercial wastes means:
+(1)
+Non-toxic, non-hazardous liquid wastewater from commercial facilities;
+(2)
+Grease interceptor contents generated by a commercial food operation or institutional food preparation facility, including without limitation, fats, grease, and food scraps; or
+(3)
+Any oil waste residue produced from vehicle maintenance or washing that discharge to an oil-water separator or sand trap;
+Commercial waste transporter permit is a permit issued by a local governing authority for an individual tank truck.
+EPD means the State of Georgia, Environmental Protection Division.
+FOG means fats, oils, and grease.
+FOG separator means a structure or device designed to collect and retain oils, grease, and fatty substances usually found in kitchen or similar wastes.
+Grease interceptor means a structure or device designed to collect and retain oils, grease, and fatty substances usually found in kitchen or similar wastes.
+Grease trap refers to an FOG separator.
+Grit trap means a structure or device designed primarily for the accumulation and removal of grit.
+Hazardous waste means any solid waste that has been defined as a hazardous waste in regulation promulgated by the Board of Natural Resources, Chapter 391-3-11.
+LGA means local governing authority—Paulding County, Georgia.
+Local governing authority means the governing authority of a county or municipality, or the designee of any county or municipality in this state. The local governing authority for a county would typically be the county board of commissioners and for a municipality would typically be the city council.
+mg/l means milligrams per liter.
+Oil-water separator means a structure or device designed primarily to collect and retain oily substances.
+Originator means the owner or operator of the grease or FOG interceptor, grit trap, oil-water separator, or sand trap from which commercial wastes are removed.
+Registration means acceptance by the division of a transporter.
+Registered commercial waste transporter is a business/owner registered by the State of Georgia, Environmental Protection Division and whose tank trucks are permitted by a local governing authority.
+Sand trap means a receptacle designed for the accumulation and removal of sand, grit, rocks and other similar debris.
+Septic wastes means the contents of a septic tank.
+Transporter means any person or firm, which owns or operates one or more waste tank trucks that receive or dispose of commercial waste in this state.
+Tank truck means any vehicle that removes and transports commercial wastes.
+User means any person who contributes, causes, or permits the contribution of wastewater into the sanitary sewer system.
+(2)
+Abbreviations.
+(1)
+FOG—Fats, oil and grease.
+(2)
+EPD—Environmental Protection Division of the Department of Natural Resources, State of Georgia.
+(3)
+LGA—Local governing authority, which refers to Paulding County, Georgia in all cases.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)
+Sec. 66-202. - Reserved.
+Sec. 66-203. - Coverage and exclusions.
+This article applies to any facility that generates commercial wastes, to any person who removes commercial wastes, to any person who processes commercial wastes, and to any person who accepts commercial wastes for final disposal.
+This article applies only within the geographical and political boundaries of the LGA-Paulding County, Georgia.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)
+Sec. 66-204. - Requirements.
+(a)
+General.
+(1)
+Responsibility. It is the responsibility of the originator to assure that the commercial waste removed from the originator's facility is properly treated and discharged to the sewer system, wastewater, sludge and byproducts are transported by a permitted transporter, and disposed of at an EPD approved commercial waste processing and disposal facility.
+(2)
+The originator of commercial waste shall not allow a transporter to remove waste from their facility without a current commercial waste permit issued by the LGA-Paulding County, Georgia. In addition, the originator:
+(3)
+Permitting process There are two types of permits required under this article; commercial waste discharge permit (originator) and commercial waste transporter permit.
+(4)
+The permits for the originator and transporter are issued by the LGA-Paulding County, Georgia upon this article. However, prior to obtaining a commercial waste transporter permit, the transporter must first register as a transporter of commercial waste with the EPD and obtain a transporter registration number. This registration number must be included in the permit number issued by the LGA-Paulding County, Georgia. Specific details related to permits are covered later in this article.
+(5)
+Manifest required. All originators, transporters, and processing and disposal site operators, involved in the removal, transport, and disposal of commercial wastes and commercial waste sludge and byproducts, shall participate in the proper maintenance of manifests. This manifest will require signatures from the originator, transporter and disposer in order to maintain and establish accountability. The approved manifest is a multi-copy form. An approved sample manifest is included in Appendix A - Approved Manifest.
+a.
+General requirements:
+1.
+The originator will sign the received manifest form and maintain such record for a period of three years.
+2.
+Upon receipt of the completed copy of the manifest from the transporter, the originator must provide a copy of the manifest within five days to the LGA-Paulding County, Georgia. A manifest is considered complete after the commercial waste is delivered and disposed of at the commercial waste disposal or processing facility, and the manifest has been signed and completed by the disposal or processing facility.
+3.
+Shall keep a copy of all manifests for a period of three years on site and shall make available for inspection by the LGA-Paulding County, Georgia.
+4.
+Shall report any spills to the LGA-Paulding County, Georgia upon becoming aware of a spill that could impact any surrounding areas such as storm drains, adjacent streams or ground surface where the transporter has removed waste from the facility's pretreatment system. Failure to notify the LGA-Paulding County, Georgia of a spill will constitute a violation and fines may be assessed to the commercial waste originator as well as the transporter.
+b.
+The transporter shall:
+1.
+Utilize a manifest for each location being serviced.
+2.
+Sign the transporter portion of the manifest and leave a copy of the manifest with the originator.
+3.
+Present the manifest to the disposal operator to complete and sign the disposal section, and shall leave one copy of the manifest with the disposal site operator.
+4.
+Send a completed copy of the manifest to the originator with the signature of the disposal site operator within 30 days.
+5.
+Keep one copy of the completed manifest from demonstrating delivery to the disposal site operator for their records and shall maintain such records for a period of three years; except that the transporters manifest (or copy thereof) covering not less than the immediately preceding 30 day period for a particular tank truck shall be kept in the transporter's tank truck. All such records shall be available for inspection.
+c.
+The transporter shall further ensure that the manifest contains all the information required on the manifest form prescribed and furnished from time to time by the division.
+1.
+A transporter must remove the entire contents of any commercial tank that is serviced and dispose of such contents, unmingled with hazardous wastes or septic wastes, only at a facility authorized to receive and process such waste.
+2.
+A transporter shall provide a copy of the commercial waste transporter permit for the tank truck to each disposal site where the transporter disposes of commercial wastes.
+d.
+A processing or disposal facility of commercial waste shall maintain copies of all manifests of tank pumping at their principal place of business for a period of three years and make such records available for inspection.
+(6)
+Limitations—No user shall introduce into the sewer system any materials in an amount which would cause interference with the system. In addition to any limitations set forth in the pretreatment ordinance, no user shall introduce or cause to be introduced into the sewer system the following:
+a.
+Solid or viscous materials in amounts which will cause obstruction of the flow to the sanitary sewer system
+b.
+Petroleum or mineral oils in concentrations greater than 100 mg/l.
+c.
+Trucked or hauled materials, except at approved points that may be designated by the LGA-Paulding County, Georgia as commercial waste disposal facilities.
+d.
+FOG of animal or vegetable origin in concentrations greater than 100 mg/l.
+(b)
+Originator.
+(1)
+Food service establishment.
+a.
+Permit required - No food service establishment shall discharge commercial wastewater into the sanitary sewer system without a commercial waste discharge permit provided by the LGA-Paulding County, Georgia. Application for such permit must be made on a form furnished by the LGA-Paulding County, Georgia. The permit is valid for up to five years and is nontransferable. A copy of the application is included in Appendix B - Permit Application Form. A sample copy of the permit is included in Appendix C - Sample Permit.
+b.
+FOG separator required - All restaurants, institutional kitchens, or other food service establishments defined as commercial users of the system, shall provide approved FOG and settleable solids removal equipment or facilities sufficient to meet the limitations set forth in this article. The number and size(s) of the system shall be determined by using the appropriate method as established in Appendix D - FOG Separator Sizing, or by good engineering practices. The same shall be required for all new customers. Existing commercial users will be assessed on individual basis, and will require approval of LGA-Paulding County, Georgia.
+c.
+The separator(s) shall exclude sanitary wastewater and be located outside of any building and accessible for proper maintenance and inspection. In areas where additional weight loads may exist, the separator(s) shall be installed with traffic bearing covers. Manhole openings must be provided for inspection and cleaning purposes.
+d.
+The equipment or facilities shall be installed and maintained by the originator.
+e.
+Alternative treatment methods - The use of any alternative method of treatment is prohibited without written approval of the LGA-Paulding County, Georgia. Alternative treatment systems, such as mechanical grease recovery devises, shall be used only after a case by case evaluation and authorization of the LGA-Paulding County, Georgia.
+f.
+The use of chemicals, enzymes and bacteria is prohibited, unless authorized by the LGA-Paulding County, Georgia. The use of any additives shall not be considered as an alternative to an adequate treatment system or in lieu of regular maintenance, as prescribed in this article.
+g.
+Maintenance required - All FOG separators shall be maintained at the originators expense. Maintenance shall include the complete removal of all contents of the separator. All FOG separators shall be pumped out at a minimum of once every (LGA-Paulding County, Georgia establish), or more frequently as required by the LGA-Paulding County, Georgia, or as established in the commercial waste discharge permit.
+(2)
+Maintenance and service facilities.
+a.
+Permit required (optional) - No maintenance or service facility shall discharge commercial wastewater into the sanitary sewer system without a commercial waste discharge permit provided by the LGA-Paulding County, Georgia. Application for such permit must be made on a form furnished by the LGA-Paulding County, Georgia. The permit is valid for one year and is nontransferable. A copy of the application is included in Appendix B - Permit Application Form. A sample copy of the permit is included in Appendix C - Sample Permit.
+b.
+Sand/oil separator required - All maintenance or service facilities defined as commercial users of the system, shall provide approved oil and solids removal equipment or facilities sufficient to meet the limitations set forth in this article. The type, number and size(s) of the system shall be determined by current plumbing codes or good engineering practices.
+c.
+The separator(s) shall exclude sanitary wastewater and be located outside of any building and accessible for proper maintenance and inspection. In areas where additional weight loads may exist, the separator(s) shall be installed with traffic bearing covers. A manhole opening must be provided over the discharge pipe for inspection purposes. A separate monitoring manhole may be required by the LGA-Paulding County, Georgia.
+d.
+The equipment or facilities shall be installed and maintained by the originator.
+e.
+Maintenance required - (same as FOG) All separators shall be maintained at the originators expense. Maintenance shall include the complete removal of all content of the separator. All separators shall be pumped out at a minimum of once every three months, or more frequently as required by the LGA-Paulding County, Georgia.
+(c)
+Transporter.
+(1)
+Registration required - Any transporter, owning or operating one or more waste tank trucks that receive, transport or dispose of commercial waste in this LGA-Paulding County, Georgia, must be registered with EPD.
+(2)
+Permit required.
+a.
+No transporter shall pump-out or vacuum FOG separators, grit traps, sand traps, or oil-water separators without a valid commercial waste transporter permit issued by an LGA-Paulding County, Georgia.
+b.
+Application for the permit must be made on a form prescribed by the EPD. A copy of the transporter permit application is provided in Appendix E—Transporter Permit Application.
+c.
+The transporter shall include the location of the disposal site(s) on the commercial waste transporter permit application.
+d.
+No commercial waste transporter permit shall be issued if the owner of the tank truck(s) is not registered with EPD.
+e.
+A commercial waste transporter permit shall be required for each individual tank truck owned and operated by a transporter.
+f.
+The commercial waste transporter permit issued by the LGA-Paulding County, Georgia for operation of a tank truck shall be valid throughout the state.
+g.
+A transporter, who has trucks permitted by an LGA, and who decides to have additional trucks permitted by another LGA, must provide copies of the current commercial waste transporter permits with the new commercial waste transporter permit application.
+h.
+A transporter cannot have two tank trucks permitted with the same commercial waste transporter permit number.
+i.
+This registration number shall be part of the commercial waste transporter permit number issued by the LGA-Paulding County, Georgia. Every vehicle that transports commercial waste must display on the vehicle the FOG/permit number.
+(3)
+Transporter permit fees - A transporter permitting fee will be assessed on an annual basis at a rate of $250.00 for the first truck and $150.00 for each additional truck, payable to the LGA-Paulding County, Georgia.
+(4)
+Vehicle inspection - Annually the LGA-Paulding County, Georgia shall inspect each tank truck prior to the issuance of a commercial waste transporter permit. Such inspection shall verify that the tank truck is substantially leak proof, durable, of easily cleaned construction, and is maintained in good repair. The LGA-Paulding County, Georgia shall maintain records of each inspection. A copy of a sample vehicle inspection form is provided as Appendix F - Vehicle Inspection From.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)
+Editor's note— It should be noted that Exhibits A—F referenced above are not set out at length herein, but are on file and available for inspection in the office of the county board of commissioners.
+Sec. 66-205. - Enforcement.
+(a)
+Inspection and entry.
+(1)
+Representatives of the LGA-Paulding County, Georgia, after proper identification, shall be permitted to enter the premises of any originator, transporter, processor, or disposal site in this LGA-Paulding County, Georgia at any reasonable time for the purpose of making inspections to determine compliance with the ordinance or the commercial waste transporter permit.
+(2)
+Representatives of the LGA-Paulding County, Georgia, during inspections of the originator, transporter, processor, and the disposal site operator, may review records to determine compliance with provisions of these regulations.
+(3)
+The right of inspection shall include the right to measure, observe, sample test, record, review and make copies of all pertinent documents in accordance with this article.
+(b)
+Monitoring.
+(1)
+When required by the LGA-Paulding County, Georgia, the originator shall install an approved manhole on the discharge sewer to allow observation, sampling and flow measurement.
+(c)
+Violations.
+(1)
+Any person who violates any provision of this article, or any terms, conditions, schedule of compliance or other requirements contained in the respective permit, shall be subject to enforcement proceedings by the LGA-Paulding County, Georgia pursuant to this article.
+(2)
+Notwithstanding any other provisions of law, the LGA-Paulding County, Georgia shall be authorized to impose a civil penalty not to exceed $2,500.00 for each violation.
+(d)
+Permit revocation.
+(1)
+Any permit issued by the LGA-Paulding County, Georgia may be suspended, revoked or modified by the LGA-Paulding County, Georgia, upon finding that the holder is not in compliance with the terms of the permit or other conditions outlined in this article.
+(2)
+The permit may be reissued by the LGA-Paulding County, Georgia upon remedy of the noncompliance that caused the suspension, revocation or modification of the permit.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)
+Sec. 66-206. - Conflict with other ordinances.
+All ordinances or parts of ordinances in conflict herewith are hereby repealed.
+The invalidity of any section, clause, sentence, or provision of this article shall not affect the validity of any other part of this article which can be given effect without such invalid part or parts.
+In the event a wastewater discharge is under the jurisdiction of an approved sewer use ordinance for another governing authority, the more constructive requirement shall prevail.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)
+Sec. 66-207. - Article in force.
+This article shall be in full force and effect from and after its passage, approval, recording, the public welfare requiring it.
+(Res. No. 06-15, § 1(Exh. A), 4-27-2006)

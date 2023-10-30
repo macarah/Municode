@@ -1,0 +1,564 @@
+APPENDIX D - DESIGN SPECIFICATIONS FOR STORM DRAINAGE, ROADS, CONSTRUCTION[1]
+
+Footnotes:
+--- (1) ---
+Editor's note— Printed herein is Ord. No. 90-33, as adopted by the council on August 20, 1990. Amendments to the ordinance are indicated by parenthetical history notes following amended provisions. The absence of a history note indicates that the provision remains unchanged from the original ordinance. Obvious misspellings and punctuation errors have been corrected without notation. For stylistic purposes, a uniform system of headings, catchlines, capitalization, citation to state statutes, and expression of numbers in text has been used to conform to the Code of Ordinances. Additions made for clarity are indicated by brackets. Section and subsection designations have been supplied by the editor.
+Cross reference— Businesses, ch. 22; environment, ch. 46; floods, ch. 54; streets, sidewalks and other public places, ch. 90.
+
+Sec. 1. - Storm drainage.
+(a)
+Standards to be used in designing a storm drainage system are as follows:
+(1)
+Development plans shall not increase the natural stormwater discharge rate from the site.
+(2)
+Storm drainage pipes shall have a minimum cover of three feet between the top of ground and the exterior crown of the culvert.
+(3)
+Sizing and location of all drainage structures shall be the responsibility of a registered professional engineer, subject to approval by the city engineer.
+(4)
+Storm drainage pipes shall be a minimum of 15 inches in diameter except where the development is not fed by upstream discharge. In such cases a minimum of 12 inches may be used.
+(5)
+State highway standard 1030D (or most current) shall be used in determining the class (concrete) or gauge of pipe under fill, method of backfilling, and pipe installation.
+(6)
+Storm drainage pipes shall have a minimum slope of 1.0 percent for metal pipe and 0.5 percent for concrete pipe, but in no case shall the flow be less than three cubic feet per second.
+(7)
+The rational method or a similar method approved by the city engineer shall be used in determining the size of drainage structures.
+(8)
+The rational method shall use a 25-year storm or rain as the stated frequency, except where the development is not fed by upstream discharge. Such cases may use a ten-year storm. A cross drain carrying a watercourse under a street shall use a 100-year frequency.
+(9)
+A hydrology report shall be submitted to the city engineer. This report shall show all calculations used in sizing ditches, pipes, detention ponds and other drainage structures. A drainage area map delineating all drainage basins pertaining to the site shall be included.
+(b)
+Drainage easements shall be a minimum of 20 feet wide when used as an open ditch. Piped storm drainage shall have a permanent ten-foot-wide easement.
+(c)
+Catchbasins and/or drop inlets shall be designed by the developer's engineer or registered surveyor to state highway standards and subject to final approval by the city engineer.
+(d)
+Street water shall be limited to a maximum distance as follows:
+(1)
+Five hundred feet on grades up to seven percent;
+(2)
+Four hundred feet on grades from seven percent to ten percent;
+(3)
+Two hundred fifty feet on grades over ten percent;
+unless otherwise approved by the city engineer.
+(e)
+Subdrainage will be installed to control the surplus groundwater by intercepting sidehill seepage or by lowering or regulating the groundwater level where such conditions exist.
+(f)
+A certification of the pipe specifications for each pipe shall be required before installation.
+(g)
+Bridges shall be designed for a 50-year storm frequency.
+(h)
+Cross drain pipes shall:
+(1)
+Be sized for the 100-year storm frequency;
+(2)
+Be no less than 18 inches in size when under the street;
+(3)
+Have headwalls of an approved type on inlet and outlet ends of the pipe;
+(4)
+Extend from edge of right-of-way to edge of right-of-way if larger than 30 inches in diameter;
+(5)
+Have a maximum continuous length of pipe of 300 feet;
+(6)
+Have junction boxes having access to the pipe constructed to meet the requirements of state standard 1030D (or most current);
+(7)
+Be constructed of reinforced concrete when under the street.
+(i)
+Materials and installation.
+(1)
+Concrete pipe shall be reinforced within the right-of-way but may be plain pipe outside of the right-of-way. Flat bottom and circular pipe sections shall be laid in a prepared trench with the socket ends pointing upstream. Sections may be joined by mortar joints, bituminous plastic cement joints, rubber-type gasket joints, O-ring gasket joints, or preformed plastic gasket joints. In bituminous plaster cement joints, the annular space shall be filled with joint material and the inside of each joint wiped smooth. Mortar joints shall be thoroughly wetted before filling with joint material. After the initial set, the mortar on the outside shall be protected from the air and sun with thoroughly wet earth or burlap cover. Rubber type, O-ring and preformed plastic gasket joints shall be installed in accordance with the manufacturer's recommendations.
+(2)
+Metal pipe shall be fully coated inside or outside of the right-of-way.
+a.
+Workmanship and finish. Culvert pipe on which the spelter coating has been bruised or broken either in the shop or in shipping, or which shows defective workmanship, shall be rejected. Among others, the following defects are specified as constituting poor workmanship, and the presence of any or all of them in any culvert pipe shall constitute sufficient cause for rejection:
+1.
+Uneven laps;
+2.
+Elliptical shaping;
+3.
+Variation from a straight centerline;
+4.
+Ragged or diagonal sheared edges;
+5.
+Loose, unevenly lined or spaced rivets;
+6.
+Poorly formed rivet heads;
+7.
+Unfinished ends;
+8.
+Illegible brand;
+9.
+Lack of rigidity;
+10.
+Bruised, scaled or broken spelter coating;
+11.
+Dents or bends in the metal itself.
+b.
+Coupling bands. Field joints shall be made with bands of the same base metal as the culverts. The bands shall be not less than seven inches wide for diameters of eight inches to 30 inches, inclusive; not less than 12 inches wide for culverts with diameters 36 inches to 60 inches inclusive; and not less than 24 inches wide for culverts with diameters greater than 60 inches. Such bands shall be so constructed as to lap on an equal portion of each of the culvert sections to be connected at the ends by galvanized angles having minimum dimensions of two inches by two inches by 3/16 inches. The seven-inch band shall have at least two galvanized bolts not less than one-half inch in diameter. The one-half-inch band shall have three and the 24-inch band shall have five one-half-inch bolts. Other equally effective methods of connecting the coupling bands may be used if approved by the city engineer.
+(j)
+Gauge determination and tolerances. The gauge of the culvert metal will be determined from the thickness of the galvanized sheets. The mean thickness and the permissible variations therefrom for each gauge are as shown:
+WEIGHT AND GAUGE TOLERANCES
+EXPAND
+Permissible Variation in Thickness
+(in inches) for Coil Width (in inches)
+Gauge
+Number Weight
+(ounces per
+square feet) Mean
+Thickness*
+(inches) Up to 15 Over 15 to 32,
+Inclusive
+8 112.5 0.1681 0.008 0.009
+10  92.5 0.1382 0.008 0.009
+12  72.5 0.1084 0.008 0.009
+14  52.5 0.0785 0.007 0.007
+16  42.5 0.0635 0.007 0.007
+18  34.5 0.0516 0.006 0.007
+  *Thickness measured on tangent of corrugation.
+_____
+(k)
+Corrugated aluminum or steel pipe and pipe-arches.
+(1)
+Pipe sections shall be laid in a prepared trench with outside laps of circumferential joints pointing upstream and with longitudinal joints at the sides. Coupling bands, fastened by two or more bolts, shall join the sections. The space between adjoining sections shall be not more than the width of one corrugation.
+(2)
+All damaged spots in galvanized coating that expose the base metal shall be repaired before the structure is backfilled. All damaged spots in bituminous coating that expose the base metal shall be recoated with asphalt before the structure is backfilled.
+(3)
+Elongation of metal pipe shall be as shown on the plans. The contractor shall order the elongation of the vertical axis of the pipe to be done in the shop. Corrugated metal pipe shall be shipped with wire-tie in the pipe ends. Wire-ties shall be removed as soon as possible after the fill is completed.
+(l)
+Before any traffic over a storm drain is allowed, the developer shall provide an adequate depth and width of compacted backfill to protect the structure from damage or displacement. Any debris or silt that constricts the flow through a pipe shall be removed by the developer as often as necessary to maintain drainage. All pipe structures shall be cleaned before the work is accepted. Any damage or displacement that may occur due to traffic or erosion shall be repaired or corrected at the developer's expense.
+(m)
+Minimum clearances are:
+(1)
+Two feet between the bottom of the base, or subbase if used, and the exterior crown of the culvert.
+(2)
+A minimum of 1.0 foot between underground utilities and exterior crown of culverts.
+(n)
+Trench construction for storm drainage pipe shall be in accordance with state highway standard 1030D (or most current).
+(o)
+Storm drainage pipe shall be bedded in Type 57 gravel if firm soil is not available.
+(p)
+Bridge piling shall be driven to state highway load standards for loading. Certification of pile load shall be by a registered professional engineer.
+(q)
+Changes in construction plans caused by field conditions shall be made at the direction of the community development department with the cost of such changes to be paid by the developer.
+Sec. 2. - Road construction.
+(a)
+Subgrade. After the earth work has been completed, all storm drainage and other underground utilities have been installed under the roadbed, and the backfill in all such ditches thoroughly compacted, the subgrade shall be brought to the lines, grades and cross section shown on the plans. If any sections of the subgrade are composed of unsuitable or unstable material, such material shall be removed to the depth directed by the authorized representative of the city and replaced with suitable, thoroughly compacted material. When the street is to be used for construction traffic before the paving work is completed, a layer of No. 3 stone can be laid as a traffic surface if the developer so desires. This material shall not be used as part of the base material. It may be worked into the subgrade, or it shall be removed before the base course is set up for paving. Provision shall be made to drain low points in road construction when the final paving surface is delayed and to provide a break in the berm section when the curbing has not been constructed. Use 2½-inch or six-inch pipe sections to provide drainage under curb to side slopes.
+(b)
+Curb and gutter. Curb and gutter shall be vertical or rollback type having the sections and dimensions as follows:
+(1)
+Residential curbing.
+a.
+Concrete shall have a minimum strength of 3,000 pounds per square inch (psi) at 28 days.
+b.
+Typical minimum section shall be six inches by 24 inches by nine inches.
+(2)
+Industrial or commercial curbing.
+a.
+Concrete shall have a minimum strength of 3,000 psi at 28 days.
+b.
+Typical section shall be six inches by 30 inches by nine inches.
+c.
+Vertical-faced curbing only.
+(3)
+Construction methods.
+a.
+Line and grade shall be set by the developer's engineer or surveyor.
+b.
+One-half-inch expansion joints of premolded bitumastic expansion joint material shall be provided at all radius points and at intervals not to exceed 50 feet in the remainder of the curb and gutter.
+c.
+Intersection dimensions shall be as follows:
+EXPAND
+Street Type
+(Abutting) Radii
+(feet) Length Storage Lane
+(feet) Taper
+(feet)
+Arterial 40 150 50
+Major collector 40 150 50
+Minor collector 25 100 50
+Local 25 100 50
+Alleys To be designated by
+city engineer
+  d.
+Special curbing designs (center islands, etc.) shall individually be approved by the city engineer.
+e.
+Curb and gutter shall be set true to line and grade and finished by skilled workmen to the section shown on the plans.
+f.
+Inferior workmanship or construction methods resulting in unsightly curb and gutter will be cause for rejection of the finished work.
+g.
+When property fronting on an existing city road is subdivided for development, curb and gutter shall be required along said road.
+(4)
+Location. Curbing as required by the city engineer on existing city roads shall be located as follows:
+EXPAND
+Type Street Location*
+(feet)
+Arterial 24 plus curb and gutter
+Major collector 24 plus curb and gutter
+Minor collector 12 plus curb and gutter
+Local 12 plus curb and gutter
+  *All distances shown are for minimum number of lanes. Additional lanes may be required to accommodate plans for future improvements or for turning movements.
+Distances are measured from the centerline of the street to the front edge of the gutter. The cost of any catchbasins which must be constructed when an existing city road is required to be developed will be paid by the developer. All curbing shall be backfilled and landscaped.
+(c)
+Residential streets. Residential streets shall be built to the following standards:
+(1)
+Base material. The following types of base material may be used:
+a.
+Eight-inch crusher run stone. Cement stabilized, central mixed;
+b.
+Grades aggregate base course. The base course shall consist of mineral aggregate and soil mortar and may be a combination of natural deposit or a blend of the materials specified. All materials are subject to approval by the city engineer. If a blend of materials is used, they shall be blended through a base plant which meets the latest specifications of the Georgia state highway department. Minimum depth of course shall be six inches under a minimum of 1½-inch asphaltic concrete;
+c.
+Black base. The base course shall consist of asphaltic concrete as approved by the city engineer and shall conform to applicable specifications of the Georgia state highway department. Minimum base course shall be four inches under a minimum of two-inch asphaltic concrete.
+(2)
+Prime. After the base has been placed, mixed, compacted, shaped, inspected and accepted, it shall be primed with suitable asphaltic materials as specified by the city engineer.
+(3)
+Roadway surfaces. After the subgrade has been inspected and compaction tests approved, the six-inch aggregate base shall then be installed. The aggregate base shall be inspected and compaction tests [shall be] approved in the same manner as the subgrade. After the aggregate base is approved, a prime coat shall be installed at grade of 0.25 gallon/square yard with allowable time to cure. The roadway or street shall be surfaced with a minimum of two inches of asphaltic concrete binder GA D.O.T. Type B. After the binder is inspected and approved a tack coat consisting of AC-20 at a rate of 0.05 gallon/square yard shall be installed. The topping shall be installed after such tack coat and consist of a minimum of 1½ inches of asphaltic concrete topping GA D.O.T. Type F. There shall be a minimum of [a] two-foot overlap between the binder and topping. All asphaltic concrete will be mixed in an asphalt plant meeting the latest requirements of the Georgia State Highway Department.
+(4)
+Typical street section.
+a.
+Residential street width shall be as stated in the subdivision regulations.
+b.
+Residential streets shall have a 12-foot shoulder section behind both curbs at a grade of one-eighth inch per foot sloping toward the road.
+c.
+Cul-de-sacs on residential streets shall be a minimum of 50-foot radii of paved surface and 60-foot radii right-of-way when the developed length of such cul-de-sac is over 150 feet; cul-de-sacs 150 feet or less shall be provided at the closed end with a turnaround that may be a minimum 40-foot radii of paved surface and 50-foot radii of right-of-way.
+(d)
+Industrial streets. Industrial streets shall be built to the following standards:
+(1)
+After the subgrade has been inspected and compaction tests approved, the ten-inch aggregate base shall then be installed. The aggregate base shall be inspected and compaction tests approved in the same manner as the subgrade. After the aggregate base is approved, a prime coat shall be installed at grade of 0.25 gallon/square yard with allowable time to cure. The roadway or street shall be surfaced with a minimum of three inches of asphaltic base course. After the base course is inspected and approved a tack coat consisting of AC-20 at a rate of 0.05 gallon/square yard shall be installed. The binder shall be installed and consist of two-inch Type B. A tack coat shall be installed after the binder at the same rate specified. The topping shall be installed after such tack coat and consist of a minimum of two inches of asphaltic concrete topping GA D.O.T. Type E. There shall be a minimum of [a] two-foot overlap between the binder and topping. All asphaltic concrete will be mixed in an asphalt plant meeting the latest requirements of the GA D.O.T.
+(2)
+Four inches of crusher run stone treatment shall be used wherever unsuitable material is found in the subgrade.
+(3)
+Pavement width for industrial streets shall have no less than as follows:
+EXPAND
+Type
+Street Minimum
+Right-of-Way
+(feet) Minimum Pavement
+Width
+(feet)
+Major 100 48 with 12-foot lane
+Minor  80 36 with 12-foot lane
+  (4)
+Cul-de-sac radii on industrial streets shall be a minimum of 60 feet of paved surface.
+(5)
+A minimum 12-foot shoulder behind both curbs at a grade of one-eighth inch per foot sloping toward the road.
+(d)[(d.1)]
+Office/commercial streets. Office/commercial streets shall be built to the following standards:
+(1)
+After the subgrade has been inspected and compaction tests approved, the eight-inch aggregate base shall then be installed. The aggregate base shall be inspected and compaction tests approved in the same manner as the subgrade. After the aggregate base is approved, a prime coat shall be installed at a rate of 0.25 gallon/square yard with allowable time to cure. The roadway or street shall be surfaced with a minimum of 3.5 inches of asphaltic concrete binder GA D.O.T. Type B. After the binder is inspected and approved a tack coat consisting of AC-20 at a rate of 0.5 gallon/square yard shall be installed. The topping shall be installed after such tack coat and consist of a minimum two inches of asphaltic concrete topping GA D.O.T. Type E. There shall be a minimum of [a] two-foot overlap between the binder and topping. All asphaltic concrete will be mixed in an asphalt plant meeting the latest requirements of the GA D.O.T.
+(2)
+Pavement width, shoulder dimensions and cul-de-sac radii on office/commercial streets shall have the same requirements as industrial streets.
+(3)
+All streets shall be open to traffic for a period of one year before being accepted by the city.
+(4)
+The city reserves the right to take core samples of the pavement and base at the owner's expense during this one-year maintenance period.
+(5)
+Cul-de-sacs on office/commercial streets shall be a minimum of 50-foot radii of paved surface and 60-foot radii of right-of-way when the developed length of such cul-de-sac is over 150 feet; cul-de-sacs 150 feet or less shall be provided at the closed end with a turnaround that may be a minimum 40-foot radii of paved surface and 50-foot radii of right-of-way.
+(e)
+Street landing requirements. All streets shall intersect at no more than a two percent grade for a distance of no less than 75 feet. This distance is measured from the intersection of the edges of pavement back to the first point of vertical intersection (PVI).
+(f)
+Street cuts. All utility construction plans within city right-of-way shall be reviewed and approved by the city community development department before construction begins. All trenches shall be backfilled and compacted the same day the trench is opened. Trenches under the paving shall be returned to 95 percent compaction. Trenches elsewhere shall be returned to 90 percent compaction. All trenches under paving shall be concreted with six inches beyond the edges of the trench and excavated to allow for the six inches of concrete and the 1½ inches of asphalt to be poured. The paving cut shall be widened to a minimum of 12 inches beyond the edges of the trench and excavated to allow for the six inches of concrete and 1½ inches of asphalt to be poured. The edges of the paving cut shall be smooth. A final wearing surface of 1½ inches of Type "E" asphaltic concrete shall be poured and rolled after the concrete is sufficiently cured.
+(g)
+Apartment and condominium streets. Apartment and condominium streets and associated storm drainage shall be constructed to residential street standards as set forth in these specifications.
+(h)
+Commercial areas. Commercial areas shall conform to the city's major thoroughfare plan for entrance into public streets.
+(i)
+Superelevation. Superelevation shall be provided as per state highway design for arterial and collector type streets.
+(j)
+Sight distance. Adequate horizontal and vertical sight distance shall be provided on all roadways as per AASHTO standards.
+(k)
+Sidewalks. When a development abuts a public right-of-way, sidewalks shall be required along the entire road frontage. Sidewalks will be required to be constructed on both sides of the road (if the development abuts both sides of the road) when the road is classified as an arterial, major collector or minor collector roadway. Sidewalks shall be constructed on one side of all internal streets within a subdivision. Sidewalk location and orientation may be altered under site specific conditions at the discretion of the city engineer.
+Amenity areas must be accessible by sidewalks from the nearest sidewalk in a subdivision. All sidewalks must be installed prior to the acceptance of the subdivision by the city unless a performance bond is in place at the time of acceptance.
+Commercially zoned developments shall provide internal sidewalks and crosswalks to provide connectivity to sidewalks on abutting rights-of-way.
+Sidewalks shall be located a minimum of two feet from the back of curb. Sidewalk location may be varied at the discretion of the city engineer with prior approval.
+Sidewalks constructed within a subdivision along streets classified as local streets shall have a minimum width of four feet and all others shall have a minimum width of five feet.
+The concrete shall have a minimum compressive strength of 3,000 psi at 28 days and a minimum depth of four inches.
+Builders are required to install sidewalk prior to issuance of a certificate of occupancy by the city.
+(l)
+Street markers. Street markers shall be green "Scotchlite" with white legends mounted on ten-foot round posts and shall be furnished and installed by the city at all street intersections.
+(m)
+Traffic signs. Traffic signs shall be placed by the sign and signal section of the public works department.
+(n)
+Guardrail. Guardrail shall be installed when warranted by speed design, roadside geometrics, grades or other roadside hazards. Guardrails shall begin in advance of the hazard or hazardous area by a sufficient length to prevent vehicle penetration behind the rail into the protected area.
+(o)
+Underground utilities. All utilities within the curbs shall be installed and the ditches backfilled and thoroughly compacted before any pavement or base is installed. All utility manholes and valve boxes shall be brought to the finished grade within the roadway section. All utility locations shall correspond to the typical layout.
+(p)
+Foreign material on streets. The developer and/or builders shall be responsible for keeping dirt, mud, building materials, concrete, etc., off of the pavement and curbing during construction of buildings in all developments covered by these regulations. Before the streets are accepted by the city, all litter and trash shall be removed from the dedicated rights-of-way and surrounding areas. No retaining walls or other structures shall be placed within the right-of-way.
+(q)
+Conformance with other regulations. Construction plans for all facilities covered by standard design specifications and the City of Smyrna subdivision regulations shall conform to the soil erosion and sediment control ordinance and the flood damage prevention regulations.
+(Ord. No. 94-05, 4-4-94; Ord. No. 94-06, 4-4-94; Ord. No. 94-07, 4-4-94; Ord. No. 94-09, 6-6-94; Ord. No. 94-10, 6-6-94; Ord. No. 2002-11, 8-5-02)
+Sec. 3. - Construction.
+Street design criteria for proposed streets and the redesigning of existing streets shall conform to the following specifications:
+(1)
+Minimum line and grade on culs-de-sac should be 1.5 percent to maintain one percent in curbline.
+(2)
+Maximum design speeds and maximum grades allowable in the city by street classification shall be as follows:
+EXPAND
+Street Type Maximum Grade
+(percent) Maximum
+Design Speed
+(mph)
+Arterial  8 60
+Major collector 10 50
+Minor collector 15 45
+Local 18 25
+Alleys Varies Varies
+  (3)
+Sight distance requirements at intersections shall be as follows:
+Note: Distances shall be measured from centerline of egress lane extending to either side of abutting street along thoroughfare.
+EXPAND
+Street Type
+(Thoroughfare) Sight Distance
+(each way, in feet)
+Arterial 475.0
+Major collector 350.0
+Minor collector 312.5
+Local 200.0
+Alleys
+  (4)
+Clearing and grubbing. The entire area within the typical grading section shall be cleared and grubbed of all trees, bushes, stumps and debris except where an approved undisturbed median is desired. Such debris shall be disposed of in a satisfactory manner.
+(5)
+Grading. Grading shall be accurately done to the lines and grades shown on the plans. Embankments shall be placed in uniform layers not to exceed six inches and compacted to a density of 95 percent of the maximum laboratory dry weight per cubic foot as determined by AASHO Method T-99. If it is necessary in order to obtain this compaction, the contractor shall add moisture to the material as it is placed.
+(6)
+Depth of cut or fill.
+EXPAND
+Depth of Cut
+or Fill Cut Slopes Fill Slopes
+2 feet or less 4 to 1 4 to 1
+2 feet to 5 feet 3 to 1 3 to 1
+5 feet to 10 feet 2 to 1 2 to 1
+Over 10 feet 1 to 1 2 to 1
+  The depth of cut referred to above shall be construed to be the maximum cut or fill occurring in any one section of cut or fill. The slope on cut or fill shall be uniform throughout for each section of cut or fill. When a cut is made in rock that requires blasting, the slope may be changed to a vertical slope upon the written approval of the city engineer.
+All excavated vegetation, asphalt, concrete and other debris shall be hauled off of the site and shall not be buried on site.
+Sec. 4. - Inspections.
+(a)
+An authorized representative of the city shall [have] access to the work for inspection at any time. When an inspection for approval of the work is needed, the developer or his representative shall notify the community development department for inspections the following day.
+(b)
+All phases of construction shall require a permit. These permits may be obtained from the city building inspector at the community development department after the construction plans are approved as each phase of work begins. A copy of the permit, signed by the city building inspector, must be on file before any letter of approval can be written and before any additional permits can be issued for construction.
+(1)
+Grading permit. Required after clearing and grubbing is completed, after debris is removed and prior to the beginning of any earth moving.
+(2)
+Storm drainage permit. Required if grading work does not include installation of storm drainage pipe and other drainage construction.
+(3)
+Water and sewer line construction permit. Required after grading permit has been finalized and prior to the laying of any water or sewer lines. Separate permits will be required if work is constructed by separate contractors.
+(4)
+Curbing permit. Required after sewer permit has been finalized and prior to the installation of any curb and gutter.
+(5)
+Base and paving permit. Required after curb and gutter permit has been finalized and prior to setting and priming base.
+(c)
+A final field inspection of all improvements shall be held before conditional acceptance of the work and before the start of the one-year maintenance period. As-built drawings must be submitted to the community development department prior to the start of the one-year maintenance period.
+(1)
+When all construction falling under the community development department has been completed, the developer or his[/her] representative shall meet with a representative from the community development department on the job site.
+(2)
+All permits will be examined at this time to ensure that the work has been accepted and the construction plans checked against what has been constructed to ensure the work is completed.
+(3)
+If all work has been completed and is approved, a letter of acceptance will be issued by the community development department.
+(4)
+Stop work order. Any work not meeting the requirements of the standard design specifications shall be corrected by the contractor. Should the work not be corrected after notification by the city inspector, a stop work order shall be issued by the inspection department.
+Sec. 5. - Water System design, maintenance and hazard reduction procedures.
+(a)
+Goals.
+(1)
+The City of Smyrna operates and maintains approximately 240 miles of water distribution lines. The City of Smyrna operates and maintains a distribution system only and buys their water from Cobb County Water System and the Cobb Marietta Water Authority and distributes the water to the Smyrna customer. Currently water treatment and pressure is provided by the CCMWA.
+(2)
+The purpose of this document is to establish construction, maintenance and operations standards that reflect constant growth, changing hydrologic conditions and system age. System goals are to:
+•
+Properly maintain and operate the water distribution system at all times.
+•
+Provide specific construction requirements for system renewal and extension.
+•
+Provide adequate capacity and pressure for all parts of the distribution system.
+•
+Properly administer and enforce backflow prevention throughout the City of Smyrna distribution system.
+(b)
+Organization.
+(1)
+The City of Smyrna Water System is comprised of two operating groups: water administration and water distribution. The water administration activities are responsible for the business services of the system, system meter reading and meter system change out.
+(2)
+Water distribution is responsible for system maintenance and engineering. Responsibilities include system design, preventive maintenance, system repair and system replacement. System location and identification is accomplished by GPS methods and flow testing and hydraulic modeling to establish system flows and capacity.
+(c)
+Operations.
+System operations are conducted by both water distribution and water administration. All calls originated from customers, the general public and other agencies are logged into the City of Smyrna utilities management systems. Once logged the appropriate personnel or division is notified to identify, assess and correct the problem. The City of Smyrna maintains emergency on call staff and on call contracting for all after normal working hour's situations. The City of Smyrna Emergency 911 dispatch center maintains dispatch for after hours on call water distribution staff. Both 911 dispatch and water distribution maintain an emergency contact and call down list for emergency situations.
+(d)
+Maintenance.
+System maintenance is a collaborative responsibility of both water administration and water distribution.
+(1)
+Water administration performs the following functions:
+•
+All business administration of the city water distribution system.
+•
+Monthly reading of all system meters.
+•
+System meter replacement and calibration annually.
+•
+System odor, taste and color complaint response and testing.
+•
+Ensure monthly operation/monitoring reports are conducted as required by permit.
+(2)
+Water distribution performs the following functions:
+•
+Data, work order and records management for water distribution system.
+•
+New meter installation three-quarter-inch through 2 ½ inches.
+•
+Administer contract for new meter installation three inches through ten inches.
+•
+System repairs to distribution services, mains and hydrants.
+•
+Operation of system valves to ensure proper working condition.
+•
+System mapping annually and updated to include location, size, material type, valve locations, fire hydrants, dead ends, installation date, system flow and pressure.
+•
+Cross connection control program update and implementation.
+•
+System flushing and flow testing.
+•
+System replacement due to age, water quality and system capacity.
+•
+Periodic leak detection to reduce system leakage.
+(e)
+Distribution system design.
+(1)
+The city distribution systems shall be designed to the following design standards. Installation of distribution water lines and appurtenances, other than by the city, shall first be submitted by way of construction drawing. Construction drawings shall meet the city design standards in order for approval to be given by the city. Design flow for all new installations shall be a minimum of 1,000 gpm at 35 psi residual. Only after plan approval shall the installations of distribution water lines and appurtenances begin.
+(2)
+Piping shall not be laid on exposed rock or aggregate and all backfill is required to be clean and free of rocks. Bed fill shall be compacted to a minimum of 95 percent standard Proctor. All changes in direction including tees, bends, caps, plugs, hydrants and other fittings are to be thrust blocked to prevent leakage and or separation of joints.
+(3)
+Buildings containing five or more family dwelling units or an integrated complex of buildings containing the same shall be served by a water master meter, unless otherwise authorized by the water system director or his representative. The owner of such buildings, or a homeowner's association provided there are multiple owners, shall be responsible for payment for all water and wastewater services rendered to such buildings and units by the city. Further, the owner or homeowner's association shall be responsible for the operation, maintenance, repair, and replacement of water, wastewater, and storm water facilities on the user side of the master meter. For all new multi-family homes where a water master meter is utilized, installation of a sub-unit water meter for each dwelling unit is required at the time of construction. Purchase and installation of sub-unit water meters are the responsibility of the owner. The owner, or a homeowner's association for such buildings provided there are multiple owners, shall be solely responsible for the operation, maintenance, repair and replacement of water facilities on the user side of the master meter. The city shall bill the owner or homeowner's association for water and wastewater service based on the master meter readings.
+(f)
+Flow test.
+(1)
+Before acceptance by the city, the water and or utility contractor shall have hydrant flow tests performed on all hydrants installed. This test will be conducted in the presence of the city site development inspector. Tests shall be conducted by an approved testing company and shall include flow, GPM, static pressure, pitot reading and hydrant type, year and location. Results shall be submitted to the site inspector in writing when complete.
+(g)
+Valves.
+(1)
+All required valves throughout the distribution system are required to be M & H mechanical joint gate valves with wrench nuts. Valves shall be right hand operation only. Valve spacing shall be a maximum of 1,000 ft with valves installed at all intersections where change in direction occurs. Valve boxes are required for each valve including concrete valve pads installed to grade. Valves boxes that occur in roadways will be flush with top of pavement. Valve boxes shall not occur within a curb line.
+(h)
+Dead ends.
+The installation of water mains shall not cause a dead end. A loop shall be provided at such dead ends with 2 ½-inch PVC 200 psi water line #1120, ASTM D 2241. The line shall be valved with a 2½-inch Ford Gate Valve with wrench nut. The PVC water line shall be wrapped with a continuous No. 6 insulated copper wire and terminate in each valve box to enable access for electronic locating. Fire hydrants shall be located at the dead ends and cul-de-sac's for distribution system flushing.
+(i)
+Service lines.
+(1)
+All service lines shall be individual, one service per single-family structure, and a minimum of 1-inch type K continuous copper tubing. The water main shall be dry or wet tapped. All taps will be at 90 degrees from top center using a tapping saddle and tapped through a corporation stop. Approved manufactures for tapping saddles are JCM, Smith-Blair or Ford. Approved manufactures for curb and corporation stops are AY McDonald or Ford. Top taps shall not be allowed.
+(2)
+The service piping shall terminate with an approved curb stop, flare or compression and be in an approved meter box. Carson Industries are approved meter box manufactures. Meter sizes three-quarter inch through one inch require a model 1419 box w/General Foundries 51712wm lid. Meter sizes 1 ½ inch through 2 ½ inches require model 1730-18 meter box w/lid. Meters three inches and larger shall be installed in meter vaults manufactured by Old Castle and have recessed flush lockable aluminum lids. Meter boxes shall be placed at the R/W line in front of the property served, perpendicular to the street and at finished grade. No meter box shall be located in driveways or roadways. The city shall set all meters after the purchaser makes a request. Meters will only be set in a meter box with an accessible and exposed curb stop. All water use shall be metered including fire lines and sub-metering read by a third party where at all possible. City meters are ARM with leak detection capability. All meter sets shall include two meter couplings. No customer service shall be attached to a meter without the use of a meter coupling.
+(3)
+The developer, purchaser and or contractor shall be responsible for the final placement of all meter boxes when finish landscape does not exist during placement of meter. Meter shall be centered in meter box and bottom of meter shall be at bottom of meter box elevation.
+(j)
+Testing for soundness and tightness.
+(1)
+After water main piping is installed all sections shall be filled, air shall be released from the system through curb stops and hydrants, sit idle for at least 24 hours before the test starts. The pressure shall be brought up to 150 psi by using hydrostatic equipment and maintained for a period of four hours. Any loss of pressure will indicate leakage. When leakage occurs repairs shall be made and the test repeated until 150 psi is maintained for four hours.
+(k)
+Disinfection.
+(1)
+Main repairs.
+If repairs are made under continuous pressure no disinfection is required.
+When mains are required to be opened all trenches shall be dewatered. All pipe, fittings and materials used in the repair shall be flushed and swabbed with a five percent hypochlorite solution. System flushing shall occur after repairs are made. The main shall be disinfected if practical using a 500 mg/l dose of sodium hypochlorite with 30 minute contact time. Flushing after disinfection is required until a chlorine residual of less than one mg/l is obtained. Samples must be collected and tested for satisfactory microbiological quality prior to placing line into service.
+(2)
+New mains.
+Every effort shall be made to prevent the contamination of newly installed water mains. Materials such as dirt, construction debris, animals, rodents, dirty water, etc., shall be kept outside the water main using every effort possible while the main installation is in progress.
+All mains shall be flushed completely at a minimum velocity of 2.3 ft/sec. for at least 30 minutes, before the disinfection process is performed. Disinfection of new water mains shall be accomplished by the continuous method only. Sodium hypochlorite at 15 percent available chlorine or calcium hypochlorite at 65 percent available chlorine is approved liquid chlorination methods.
+The chlorine dose after injection shall be at 50 mg/l at all sampling points of the water main. Once obtained a minimum contact time of 24 hours is required. After contact time minimum chlorine residual of 25 mg/l shall be obtained at all sampling points. Failure to obtain a minimum of 25 mg/l shall result in a repeat of the chlorination process. The water and or utility contractor shall be responsible for having all chlorination testing performed and shall use a certified laboratory to validate test results. All sampling is required to be conducted in the presence of the city site development inspector or his designee. The city shall be copied on test report.
+After disinfection of a new water main the system shall be flushed to produce a chlorine residual of less than one mg/l. A bacteriological test is now required. The water or utility contractor is responsible for this test, which shall be obtained and tested by the Cobb Marietta Water Authority in the presence of the city site development inspector or his designee. Failure to obtain a negative bacteriological test shall result in a repeat of the chlorination process. The city shall be copied on test report.
+All water with a chlorine residual greater than one mg/l shall be disposed of in the following manor:
+a.
+Sanitary sewer system, after notification to the city and waste treatment plant operator.
+b.
+Storm sewer, after de-chlorination or chlorine residual is below one mg/l
+c.
+Land disposal where adequate dilution and travel time will result in a chlorine residual of less than one mg/l.
+(l)
+Main lines.
+(1)
+Water distribution system main lines shall be ductile iron pipe class 51. Minimum pipe size shall be eight inches. Fire hydrants shall be installed according to current NFPA standards but shall be spaced no more than 500 feet apart. The city fire marshal may modify hydrant spacing. All hydrants shall be M & H or U.S. three-way, nozzle sizes two, 2 ½-inch NTS and one 4 ½-inch NTS. Hydrant barrel size shall be a minimum of 5.25. New hydrants are required to be painted silver by the manufacturer. Each hydrant shall have an M & H hydrant grate valve installed with complete valve box and concrete valve pad to finish grade. No fire hydrant shall be buried below the hydrants bury line. Anchor couplings and thrust blocking is required on all fire hydrants and hydrant leads.
+(m)
+Location.
+(1)
+Water mains shall only be placed in the city right-of-way that is designated as the water and gas zone. Water mains shall be placed between three feet back of curb and nine feet back of curb. Gas mains sharing the water and gas zone shall be placed between nine feet back of curb and 11 feet back of curb. No other utility shall share the water and gas zone other than to cross perpendicularly. Any utility crossing a water main perpendicularly shall be under the water main and shall not be in contact with it.
+(2)
+All water mains shall be buried between a top of pipe depth elevation of four and five feet unless otherwise approved by the city water department.
+(n)
+Taps.
+All main on main taps shall be approved by the city prior to installation. Wet taps require an M & H MJ tapping sleeve and valve. All cut in taps shall be installed with a mechanical joint tee, valve and two 12-inch MJ sleeves.
+(o)
+Cross connection control.
+In order to protect the public potable water supply systems against actual or potential cross connections, backflow and back-siphonage all commercial water customers are required to have their backflow and back-siphonage devices tested annually. The city shall notify by mail all commercial water accounts during each November billing period of the requirement for testing. Test reports for each commercial water account are required to be submitted no later than the end of February each year.
+Commercial water accounts customers who do not have cross connection control devices shall be required to install the proper device based upon the potential hazard that may exist. All cross connection devices, backflow and back-siphonage devices shall be installed in accordance with the city cross connection control program. Devices required by the city or the cross connection control program that are not installed will result in discontinuance of water service.
+Records of all devices, tests and locations shall be kept and recorded annually. All backflow device testers shall be certified as require by the EPD.
+(p)
+Violations and enforcement.
+(1)
+It shall be unlawful for any person, user or customer to violate any provisions of this section. Violations shall be subject to the penalties contained in section 1-8.
+(2)
+Noncompliance. If it is determined that the user has failed to comply with the provisions of this section, a written notice of violation shall be given to the user, the contractor named in the permit, or the user's authorized agent. If the user is not a customer (e.g., if the user is a tenant in a master-metered development), then the customer for the property on which the user is located shall receive a copy of the notice of violation. The notice shall set forth the violation and the measure needed to achieve compliance. The user shall be given a reasonable time frame to comply. Where an emergency exists, a written warning shall be given to the user, and user will have 24 hours to comply.
+(q)
+Distribution system flushing.
+(1)
+All flushing activities shall require a preplan. The plan will include locations, day hours between 7:00 a.m. and 4:00 p.m. or evening hours 9:00 p.m. and 5:00 a.m. and a MUTCD plan.
+(2)
+Preplan main section to be flushed, valves to be used in section and order pipeline will be flushed.
+(3)
+Pipeline flushing shall use the unidirectional method, therefore starting at the supply and working outward.
+(4)
+Minimum flushing velocity is two and one-half feet per second unless circumstances will not permit do not flush a large main supplied by a smaller main.
+(5)
+Prior to flushing, notification is necessary to all customers that will be affected. Pay specific attention to where dialysis equipment may be located, hospitals, restaurants and laundromats.
+(6)
+Sections to be flushed shall be isolated from the rest of the system. All valves shall be closed slowly to prevent water hammer.
+(7)
+Open fire hydrants and or blow off valves slowly.
+(8)
+Flushing shall be directed away from traffic, pedestrians and private property.
+(9)
+Hydrant and or blow offs shall be opened fully to stir up sediments inside the water main (usually five to ten minutes) usual line flushing is for at least 30 minutes.
+(10)
+Ensure system pressure in the area does not drop below 20 psi.
+(11)
+Records shall be kept for each flushing operation to including appearance and odor of the water flushed.
+(12)
+Collect two water samples for comparison, First sample at about two to three minutes after hydrant was opened and one just before hydrant is closed. These samples check for basic water quality such as iron, chlorine, residual, and turbidity.
+(13)
+After flushing of fire hydrant or blow off valve, close hydrant or blow off valve slowly.
+(14)
+In areas where water may not clear completely, collect water bottle samples to judge when to shut down.
+(15)
+Closing and opening of valves should be marked and erased on a map to ensure all valves are open when complete.
+(16)
+After flushing one section of the pipe, move to the next section to be flushed and repeat the same procedures.
+(Ord. of 2-6-84 (83-8), § 1; Ord. of 2-3-92 (92-01); Ord. No. 2015-17 , 8-17-15; Ord. No. 2017-01 , 1-17-17; Ord. No. 2020-13 , 9-8-20; Ord. No. 2022-06 , 2-21-22)
+Sec. 6. - Sewer mains and service lines.
+(a)
+Standards for design of sanitary sewer mains and service laterals.
+(1)
+Sanitary sewer mains shall be a minimum of eight inches round. Larger sizes may be required when flow warrants as determined by the city.
+(2)
+Sanitary sewer piping shall be PVC SDR 35 ASTM D 3034 at a maximum depth of 18 feet and a minimum depth of four feet of finish grade; or class 51 ductile iron piping with no depth restrictions.
+(3)
+Sanitary sewer laterals shall be a minimum of six inches round, PVC SDR 35 ASTM D 3034 or class 51 ductile iron piping depending upon depth of cover. Laterals shall extend from sewer main to right-of-way line and have installed a six-inch PVC SDR 35 cleanout stubbed and capped at grade. Lateral locations shall be permanently marked on curb.
+(4)
+Transition joints between sewer pipes of different materials shall be accomplished by the use of approved adaptors.
+(5)
+Sewer piping shall have a minimum of four-inch #57 stone bedding and trench shall be filled to two-third pipe diameter with #57 stone.
+(6)
+Exposed bridge and creek crossings for sewer and water mains shall be accomplished by welded and painted steel encasement with a minimum encasement two pipe sizes larger than the main being encased. Support shall be at ten-foot intervals or closer to keep it in alignment and prevent sagging. The ends of all encasements shall be built on concrete piers.
+(7)
+All sewer piping shall be ductile iron pipe under creek crossings for a distance of ten feet each side of top [of] creek bank.
+(8)
+All manholes require Kor-N-Seal rubber boots. Manholes adjacent to creeks or below floodplain level require watertight frames and covers with vents every 1,000 feet.
+(b)
+Testing for soundness and tightness.
+(1)
+After the sanitary sewer piping has been laid and backfilled, each section of pipeline between manholes shall be tested by a low pressure air test. Each lateral end shall be blocked [and] capped for air tightness. The sewer segment being tested shall be pressured to 3.5 psi. After stabilization, the air pressure within the segment being tested shall not decrease more than 0.5 psi during the time periods below:
+EXPAND
+Pipe Size
+(inches) Time
+4  1 min., 53 sec.
+6  2 min., 50 sec.
+8  3 min., 47 sec.
+10  4 min., 43 sec.
+12  5 min., 40 sec.
+15  7 min., 05 sec.
+18  8 min., 30 sec.
+21  9 min., 55 sec.
+24 11 min., 20 sec.
+27 12 min., 45 sec.
+  Should any test on any section of pipeline fail, the contractor shall repair the defect. After the repairs are made the line shall be retested and air loss rate shall be within the specified allowance.
+(2)
+The developer or developer's engineer is responsible for furnishing to the city, as soon as the sewer and water systems have been completed, a set of as-built drawings.
+(Ord. of 2-3-92 (92-01))

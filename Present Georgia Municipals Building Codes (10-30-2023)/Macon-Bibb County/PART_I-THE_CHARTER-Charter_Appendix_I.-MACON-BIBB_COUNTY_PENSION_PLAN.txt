@@ -1,0 +1,832 @@
+Charter Appendix I. - MACON-BIBB COUNTY PENSION PLAN[1]
+Footnotes:
+--- (1) ---
+Editor's note— Effective as of December 17, 1968, Bibb County, Georgia, established The Bibb County Pension Plan of 1968 (the "Plan"). The Plan was amended and restated effective as of January 1, 1989 and again effective January 1, 2011. Effective January 1, 2014, the Plan was amended to reflect the restructuring of Bibb County, Georgia and the City of Macon, Georgia governments into a new entity Macon-Bibb County, Georgia and sponsorship of the Plan was transferred to Macon-Bibb County (the "Employer"). Effective January 1, 2015, the Plan is again amended and restated to incorporate all Plan amendments since January 1, 2011, and for purposes of filing the Plan with the IRS for a favorable determination letter. The Plan is now referred to as the Macon-Bibb County Pension Plan. Ord. No. O-15-0062, § 1, adopted December 15, 2015 , further amended App. I, by repealing and replacing app. I, arts. 1—18, in its entirety. See Code Comparative Table for history of derivation.
+Except where noted, the provisions of this Plan shall apply only to Employees whose employment with the Employer terminates on or after January 1, 2015. If the Employee's employment with the Employer terminates prior to such date, the Employee shall be entitled to benefits under the Plan as the Plan existed on the date of the Employee's termination of employment, except where noted.
+The Plan is intended to satisfy Code Section 401(a) by meeting the requirements of Code Section 414(d).
+State Law reference— Power to maintain and modify retirement or pension systems, Const. Ga. Art. 9, Sec. 2, Par. 3 (a)(14); public retirement standards law, O.C.G.A. § 47-20-1 et seq.
+
+ARTICLE 1 - DEFINITIONS
+Accrued Benefit means, subject to Article 12 of the Plan, the retirement benefit a Participant would receive at his Normal Retirement Date, determined under Section 5.02 of the Plan based on his Final Average Monthly Base Earnings and Years of Service at the date of determination.
+Accumulated Past Service Credit means the credit for years of employment with the Employer prior to the Original Effective Date (including Years of Service under the former fee system of compensation) and acquired and retained upon establishment of the Plan.
+Actuarial Equivalence or Actuarial Equivalent means, except as otherwise set forth herein, a benefit that has the same present value as the Regular Monthly Benefit on the date the benefit payment commences, based on a 7.5% interest rate and the following mortality table:
+1/1/1989 — 12/31/1994 — 1971 Group Annuity Mortality Table
+1/1/1996 — 6/30/2009 — 1983 Group Annuity Mortality Table for Males
+7/1/2009 — 11/28/2018 — 1994 Group Annuity Mortality Table for Males
+11/29/2018 — Current — RP-2000 Combined Mortality Table
+Effective for distributions with annuity starting dates on or after January 1, 2003, and notwithstanding any other Plan provisions to the contrary, the applicable mortality table used for purposes of adjusting any benefit limitation under Code Section 415(b)(2)(B) (relating to the adjustment to the benefit limitation amount for forms of benefit other than a straight life annuity), Code Section 415(b)(2)(C) (relating to the adjustment to the benefit limitation where benefits begin before age 62), or Code Section 415(b)(2)(D) (relating to the adjustment to the benefit limitation where benefits begin after age 65), as set forth in Article 12 of the Plan, is the table prescribed in Rev. Rul. 2001-62. For any distribution with an annuity starting date on or after the effective date of this Section and before the adoption date of this Section, if application of the amendment as of the annuity starting date would have caused a reduction in the amount of any distribution, such reduction is not reflected in any payment made before the adoption date of this Section. However, the amount of any such reduction that is required under Code Section 415(b)(2)(B) (relating to the adjustment to the benefit limitation amount for forms of benefit other than a straight life annuity), must be reflected actuarially over any remaining payments to the Participant.
+Actuary means an actuary who is enrolled under Subtitle C of Title III of the federal Employee Retirement Income Security Act of 1974, P.L. 93-406, or an Associate of the Society of Actuaries.
+Annuity Starting Date means the first day of the first period for which an amount is paid as an annuity or any other form.
+Authorized Leave of Absence means any absence authorized by the Employer under the Employer's standard personnel practices, provided that the Participant retires or returns on or before the expiration of the Authorized Leave of Absence.
+Base Earnings means the gross salary or wages paid by the Employer to the Employee during a specified twelve-month period, including Incentive Pay of Law Enforcement Participants, allowances computed by the Pension Trustee Board, and before-tax or salary deferral contributions made under Code Sections 125, 402(g)(3), 457, 132(f) or 414(h) to the Plan or any other plan of the Employer. Base Earnings does not include overtime pay, comp time or expense reimbursements. For Employees hired on and after June 15, 2005, Base Earnings also excludes accumulated vacation pay paid at Termination of Employment. Effective for plan years prior to June 7, 1994, Base Earnings meant total compensation.
+Except with respect to Qualified Participants (as defined below), in no event shall the Base Earnings of a Participant taken into account under the Plan for any Plan Year exceed (i) $200,000 for Plan Years beginning on or after January 1, 1989, (ii) $150,000 for Plan Years on or after the later of (a) January 1, 1996 or (b) the 90 th day after the opening of the first legislative session that begins on or after January 1, 1996, or (iii) for Plan Years beginning on or after January 1, 2002, the limitations of Code Section 401(a)(17) in effect as of the beginning of the Plan Year (i.e., $200,000 for 2002). For purposes of applying the $150,000 limit for the 1996 Plan Year, if any Employee is the spouse or a lineal descendant of an Employee (provided the lineal descendant is younger than age 19 by the end of the Plan Year) who is one of the ten (10) "highly compensated employees" (within the meaning of Code Section 414(q)) paid the greatest amount of earnings (determined without regard to the $150,000 limit, as adjusted) during the Plan Year, the Employee shall not be treated as a separate Employee.
+The limitations set forth in the preceding paragraph shall be subject to adjustment annually as provided in Code Section 401(a)(17)(B) and Code Section 415(d); provided, however, that the dollar increase in effect on January 1 of any calendar year, if any, is effective for the Plan Year.
+The limit described in the previous paragraphs shall not apply to any Qualified Participant. A Qualified Participant is any Participant who first became a Participant in the Plan before January 1, 1996.
+The Plan Year limitations in effect as of the beginning of the Plan Year in which each twelve-month period used to determine Final Average Monthly Base Earnings begins shall apply to Base Earnings paid during such twelve-month period.
+Beneficiary means for employees hired on and after January 1, 2004, the Participant's Spouse, unless such Spouse has waived all rights under the Plan in a written instrument. If the Spouse effectively waives benefits under the Plan, or the Participant has no Spouse on his date of death, the Participant's children (by birth or adoption) under the age of eighteen will receive any benefits due under the Plan in equal shares until the child reaches the age of eighteen (18) (age twenty-two (22) if the child is a student enrolled full time in an accredited post secondary institution of higher learning). Except as noted below, in the case of a refund of Participant Contributions under Article 4, a Participant may designate only his Spouse or children as his Beneficiary. If a Participant does not have a Beneficiary designated, or if no Beneficiary survives the Participant, no death benefit will be paid (other than the return of Participant Contributions).
+For Employees hired prior to January 1, 2004, who have no Spouse, or whose Spouse has effectively waived all rights to benefits under the Plan, Beneficiary means any individual(s) designated by the Participant in accordance with procedures established by the Pension Trustee Board to receive distributions under the Plan pursuant to Article 9, in the event of the Participant's death before his retirement. For Employees hired prior to January 1, 2004, if the Participant has designated no beneficiary or the designated beneficiary predeceases the Participant or is incompetent, the Pension Trustee Board may direct such payments be made to such person as the Pension Trustee Board may find equitably entitled thereto, including but not limited to a surviving spouse or child of the Participant.
+The Pension Trustee Board may direct payment to or for the benefit of a minor child without the intervention of a guardian.
+A Participant may designate any individual, trust or other entity as his Beneficiary for purposes of receiving a refund of his Participant Contributions under the circumstances described in Article 4. Such a Beneficiary designation shall be made separately from the designation of a Beneficiary to receive a death benefit under Article 9. If the Participant does not designate a Beneficiary for this purpose, or the Beneficiary so designated does not survive the Participant, the Participant's Beneficiary for purposes of receiving any refund of Participant Contributions shall be his Spouse, if the Participant is survived by a Spouse, or the Participant's estate if he is not survived by a Spouse.
+For the purposes of this Section, revocation of prior Beneficiary designations will occur when a Participant files a new valid designation with the Plan Administrator.
+Nothing in this definition of Beneficiary shall be deemed to provide death benefits that are not otherwise provided in this Plan.
+Board or Board of Commissioners means the elected officials comprising the Macon-Bibb County Commission.
+Code means the Internal Revenue Code of 1986, as amended.
+Compound Interest means the annual rate of interest to be credited to a Participant's contributions to the Plan, which is set until changed at five percent (5%) per annum and which is compounded as of each January 1 ("Anniversary Date").
+County or Macon-Bibb County means Macon-Bibb County, Georgia. References to "County" in the Plan prior to January 1, 2014, mean Bibb County, Georgia.
+Deferred Vested Pension means, with respect to a Participant, the benefit described in Article 8 of the Plan.
+Disability or Disabled means a physical or mental condition of a Participant that renders him unable to perform any gainful work or employment for which he is reasonably suited by virtue of his training and education, as determined by the Pension Trustee Board.
+Effective January 1, 2004, a Participant applying for a Disability Pension or receiving Service for a period of Disability must also, first or contemporaneously, apply to the Social Security Administration for disability benefits and must complete an application for disability retirement benefits from the Employer while employed by the Employer. The Participant must authorize complete and unconditional release of all the Participant's physical and mental health records or internal Employer personnel records relating to the Participant to the Pension Trustee Board and up to three (3) physicians selected by the Pension Trustee Board. The Participant must submit to any and all tests, evaluations, and assessments (the cost of which shall be paid by the Employer) and course of treatment recommended by the physicians selected by the Employer for this purpose. The physicians shall, as soon as reasonably practical, present a written report to the Pension Trustee Board, indicating whether the Participant is medically fit to return to service in any capacity. The Pension Trustee Board shall determine whether the Participant is permanently and totally disabled and will either be placed on disability retirement or returned to active service in any capacity with or without reasonable accommodation. If the Participant is found to be capable of returning to service in any capacity, the Participant shall be ineligible for Disability retirement benefits. If a Participant refuses to submit to such medical examination or examinations, he shall not be granted a Disability Pension or receive Service during the continuance of such refusal.
+The Pension Trustee Board's decision on whether a Participant is Disabled shall be final and binding on the Participant.
+Disability Pension means, with respect to a Participant, the benefit described in Article 7 of the Plan.
+Disability Retirement Date means the date the Participant is determined by the Pension Trustee Board to be Disabled and Terminates from Employment with the Employer.
+Early Retirement Date means the first day of any calendar month following the date the Participant has attained at least age fifty-five (55) and has completed at least twenty (20) Years of Service, which precedes the Participant's Normal Retirement Date. For Employees hired before January 1, 2014, Early Retirement Date means the first day of any calendar month that the Participant has attained at least age of fifty (50) and has completed at least twenty (20) Years of Service.
+Early Retirement Pension means, with respect to a Participant, the benefit described in Article 6 of the Plan.
+Effective Date , means, except as otherwise provided in the Plan, January 1, 2015, the date on which this amendment and restatement of the Plan became effective. The Original Effective Date of the Plan is December 17, 1968.
+Eligible Employee means, except as noted in the following paragraph, the following:
+(a)
+Any Employee regularly scheduled to work at least thirty (30) hours per week who is employed by the Employer and is receiving remuneration for personal services rendered to the Employer and paid by the Employer by check of its Treasury, whether paid directly to the Participant or to another for transmission or distribution;
+(b)
+Any elected and appointed official paid by the Employer by check of its treasurer, whether paid directly to the Participant or to another for transmission or distribution including appointees of the judges of the Superior Court in and for the Employer other than part-time Commissioners who were elected or appointed to an initial term after June 22, 2004;
+(c)
+Employees and officers of the Macon-Bibb County Planning and Zoning Commission hired on and after January 1, 2014.
+(d)
+Tax commissioners first elected on and after July 1, 2012;
+(e)
+Tax commissioner's employees hired or rehired on and after July 1, 2012;
+(f)
+Judges of the Macon-Bibb County Magistrate Court;
+(g)
+Employees of the Macon-Bibb County Industrial Authority who are regularly scheduled to work at least thirty (30) hours per week and receiving remuneration for personal services rendered to the Authority, whether paid directly to the Participant or to another for transmission or distribution;
+(h)
+Judges of the Macon-Bibb County Superior Court.
+(i)
+Judges of the Macon-Bibb County State Court.
+(j)
+The District Attorney for the Macon Judicial Circuit.
+Notwithstanding the foregoing, the following Employees shall not be Eligible Employees:
+(a)
+officers and employees of the Macon-Bibb County Board of Health;
+(b)
+Employees and officers of the Bibb County Department of Family and Children Services;
+(c)
+Employees and officers of the Macon-Bibb County Planning and Zoning Commission hired prior to January 1, 2014;
+(d)
+The Macon-Bibb County Agricultural Agent and employees of the Agricultural Agent;
+(e)
+The Macon-Bibb County Home Demonstration Agent and employees of the Home Demonstration Agent;
+(f)
+Members and employees of the Macon-Bibb County Hospital Authority;
+(g)
+Members and employees of the Macon-Bibb County Economic Opportunity Council;
+(h)
+Casual and temporary employees, including court bailiffs who serve for indefinite periods and are paid on a per diem basis;
+(i)
+Contractors and agents and their officers, agents and employees, whose employment by the Employer or any of its agencies is casual or temporary, or intermittent, or for the job;
+(j)
+All officers and employees, except elected officials, whose main vocation or occupation is not employment by the Employer or its agencies, the Pension Trustee Board being vested with full authority to determine the application of this coverage exception;
+(k)
+Any District Attorney for the Macon Judicial Circuit who held that position prior to January 1, 2013;
+(l)
+The Judge and Solicitor of the State Court of the County and personnel of their respective offices, except as provided in Section 5.02 (d);
+(m)
+Employees and officials who upon the Original Effective Date were receiving payment of benefits from any of the prior pension plans established by 1949 Ga. Laws, page 1371 and 1953 Ga. Laws, page 2907 as amended, or elected not to participate in the Plan;
+(n)
+An employee classified by the Employer as a leased employee, regardless of whether such Employee is a leased employee within the meaning of Code Section 414(n)(2);
+(o)
+A person who is classified by the Employer as an independent contractor or leased employee for purposes of the withholding and payment of employment taxes, even if such person is later determined, whether by the Employer or otherwise, to be a common law Employee of the Employer.
+(p)
+Employees actively participating in the Macon-Bibb County General Employees' Pension Plan (Plan A), as adopted by Bibb County and who (i) transferred to Bibb County from the City of Macon, Georgia, on July 1, 2012, (ii) were credited with at least five (5) Years of Service under Plan A as of June 30, 2012, and (iii) are actively accruing pension benefits under Plan A.
+(q)
+Juvenile Court judges.
+(r)
+Effective July 31, 2006, Employees and officers of the Macon, Georgia Cherry Blossom Festival Inc. and the Keep Macon Bibb Beautiful Commission.
+(s)
+Any individual who: (1) first becomes employed or first takes office on or after July 1, 2019 ("Post-July 1, 2019 New Hire"); or (2) becomes reemployed or takes office on or after July 1, 2019 following Termination of Employment or vacation of office (hereinafter "Post-July 1, 2019 Re-Hire"), even if such individual would otherwise be considered an Eligible Employee under the terms of the Plan in effect as of June 30, 2019.
+If a Participant transfers employment or has a change in employment status so that he would not be an Eligible Employee in his new position, he shall not remain as an Eligible Employee.
+Employee means any person employed by the Employer as a common law employee, any person on Authorized Leave of Absence from the Employer, any person who is a "leased employee" within the meaning of Code Section 414(n)(2) with respect to the Employer; and any elected official of the Employer. Pursuant to Code Section 414(n)(2), a leased employee is a person who is not an employee of the Employer and who provides services to the Employer if (a) such services are provided pursuant to an agreement between the Employer and any other person; (b) such person has performed such services for the Employer (or for the Employer and related persons) on a substantially full-time basis for a period of at least one year; and (c) such services are performed under the primary direction or control of the Employer.
+Employer means Macon-Bibb County, Georgia. Effective July 1, 2015, Employer shall also mean the Macon-Bibb County Industrial Authority.
+Excess Annual Leave means accrued annual leave in excess of 480 hours, which is forfeited from use as annual leave and, effective January 1, 2004, is converted to Service credit under this Plan for purposes of calculating a Participant's Years of Service.
+Final Average Monthly Base Earnings means, effective on or after June 22, 2004, the average of the Participant's Base Earnings over the three calendar years during which the Participant received the highest Base Earnings divided by 36. The following rules shall be applied to determine a Participant's Final Average Monthly Base Earnings:
+(i)
+Only Base Earnings earned or deemed to have been earned during a period for which the Participant is receiving Service or is an Eligible Employee may be counted towards Final Average Monthly Base Earnings.
+(ii)
+Effective, January 1, 2006, the three calendars years described above need not be consecutive but must include whole calendar years.
+(iii)
+Base Earnings shall be counted in the year paid, even if earned in a prior year.
+Effective July 26, 2005, solely for purposes of determining a Participant's Disability Pension, Final Average Monthly Base Earnings means the highest 36 months of Base Earnings received by the Participant.
+Effective December 17, 1968 through December 1, 1998, Final Average Monthly Base Earnings means the total Base Earnings received by the Participant during the last five (5) Years of Service divided by 60.
+Effective December 1, 1998 through April 20, 1999, Final Average Monthly Base Earnings means the total Base Earnings received by the Participant during the five (5) highest calendar Years of Service, divided by 60.
+Effective April 20, 1999 through June 22, 2004, Final Average Monthly Base Earnings means the total Base Earnings received by the Participant during the three (3) highest calendar Years of Service.
+Five-year Break in Service means sixty (60) consecutive months after Termination of Employment which will cause a nonvested Participant to lose prior Service.
+Fund means an insurance contract or any other annuity contract or trust, or any combination thereof, or any other pool of assets established by the Employer to hold assets that will be applied to fund benefits under the Plan. The Employer from time to time shall actuarially determine the soundness of the Fund through consultation with the Actuary and shall augment contributions as may be required to ensure that the Plan will remain actuarially sound. Such augmented contributions may be made in payments over a reasonable number of years as permitted by federal or State law.
+Fund Administrator means the custodian of any Fund that is named by the Pension Trustee Board.
+Incentive Pay means compensation paid to Law Enforcement Participants in addition to and apart from Base Earnings.
+Law Enforcement Participant means the Sheriff of the County and the Sheriff's Deputies, County police officers, the Sheriff and Deputies of the Civil Court of the County, and the Probation Officer of the Juvenile Court of the County whose pay is derived from Macon-Bibb County. Effective January 1, 1996, Law Enforcement Participant includes the POST certified investigators of the District Attorney's Office, and the POST certified members of the Lake Tobesofkee Ranger Force
+Limitation Year means the calendar year.
+Macon-Bibb County Commission means the Mayor and the Commissioners of Macon-Bibb County, Georgia.
+Nonforfeitable means a Participant's or Beneficiary's unconditional claim, legally enforceable against the Plan, to the Participant's Accrued Benefit. If a Participant is one hundred percent (100%) vested in any benefit under the Plan, such benefit is considered Nonforfeitable.
+Nontransferable Annuity means an annuity that by its terms provide that it may not be sold, assigned, discounted, pledged as collateral for a loan or security for the performance of an obligation or for any purpose to any person other than the insurance company. If the Fund Administrator distributes an annuity contract, the contract must be a Nontransferable Annuity.
+Normal Retirement Age means (except as otherwise provided below) age sixty-five (65) for Employees hired and non-vested former Participants rehired on and after May 1, 2011. Effective November 5, 1996, for Employees first hired prior to May 1, 2011 (including fully vested former Participants who Terminated Employment before May 1, 2011, and are rehired at a later time), Normal Retirement Age means the earlier of the date the Participant attains age sixty (60) (effective between January 1, 1989 and November 5, 1996, age sixty-two (62)) or completes thirty (30) Years of Service.
+For Law Enforcement Participants hired on and after January 1, 2014, Normal Retirement Age means the earlier of the date the Law Enforcement Participant attains age sixty (60) with ten (10) Years of Service or completes thirty (30) Years of Service. For Law Enforcement Participants hired before January 1, 2014, Normal Retirement Age means the earlier of the date the Law Enforcement Participant attains age fifty- five (55) or completes twenty-five (25) Years of Service.
+In no event shall any Participant's Normal Retirement Age be earlier than the tenth anniversary of the Eligible Employee's first date of participation in the Plan.
+Except for Superior Court Judges and State Court Judges, in no event shall any Participant's Normal Retirement Age be earlier than the tenth anniversary of the Eligible Employee's first date of participation in the Plan. For Superior Court Judges and State Court Judges, in no event shall the Participant's Normal Retirement Age be earlier than the tenth anniversary of the Eligible Employee's first date of hire by the Employer.
+Except for Superior Court Judges, State Court Judges and District Attorneys for the Macon Judicial Circuit, in no event shall any Participant's Normal Retirement Age be earlier than the tenth anniversary of the Eligible Employee's first date of participation in the Plan. For Superior Court Judges, State Court Judges and District Attorneys for the Macon Judicial Circuit, in no event shall the Participant's Normal Retirement Age be earlier than the tenth anniversary of the Eligible Employee's first day in that position.
+Normal Retirement Date means the first day of the calendar month next following the later of the Participant's Normal Retirement Age or his Termination of Employment, provided that a Participant may Terminate Employment on or after the calendar date on which the Participant reaches Normal Retirement Age, and need not necessarily complete such calendar month in order to fulfill the requirements for Normal Retirement.
+Normal Retirement Pension means, with respect to a Participant, the benefit described in Section 5.01 of the Plan.
+Participant means an Eligible Employee who is eligible to be and becomes a Participant in the Plan in accordance with the provisions of Article 2 of the Plan. An Employee who becomes a Participant shall remain a Participant under the Plan until the Fund Administrator has fully distributed his Nonforfeitable Accrued Benefit to him.
+Pension Trustee Board means the Board as appointed by the Employer in accordance with Section 13.03 of the Plan.
+Plan means the Macon-Bibb County Pension Plan, as set forth herein and as amended from time to time.
+Plan Administrator means the Pension Trustee Board. In addition to its other duties, the Plan Administrator shall have full responsibility for compliance with the reporting and disclosure rules under all laws applicable to this Plan. The Plan Administrator may delegate any of its duties under the Plan to the Actuary and/or third party administrator. The Plan Administrator shall have no authority to amend and/or terminate the Plan.
+Plan Year means the fiscal year, which begins on July 1 each year and ends on June 30.
+Pre-Retirement Survivor Annuity means, with respect to a Participant and his Spouse, the benefit described in Article 9 of the Plan.
+Qualified Military Service means Military Service during which the Employee is entitled to reemployment rights under Chapter 43 Title 38 of the United State Code. "Military Service" means the period of an Employee's active duty for training and service in the Army, Navy, Air Force or Marines of the United States of America, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
+Regular Monthly Benefit means the dollar amount derived from the formula provided in Section 5.01, and paid as a life annuity with no survivor benefit.
+Service means the measurement of a Participant's employment with the Employer that is used to determine the amount of his benefits under the Plan. Service shall be all years and completed months (but not partial months) during which an individual is an Eligible Employee under this Plan and is receiving Base Earnings from the Employer, subject to the following rules:
+(a)
+An Employee shall not earn Service for periods during which he is an Eligible Employee but not a Participant except for Accumulated Past Service Credit acquired and retained by the Participant at the time of establishment of the Plan.
+(b)
+An Eligible Employee shall not receive Service for periods during which he is absent from employment on account of an Authorized Leave of Absence (other than what is required by federal law for military leave under USERRA) or, except as otherwise provided herein, other conditions that are not treated by the Employer as a Termination of Employment.
+(c)
+Effective May 10, 1999, Service shall include periods for which the Eligible Employee is absent from work on account of illness or vacation and receives Base Earnings from the Employer. For Employees hired before May 1, 2011 only, (including fully vested former Participants who Terminated Employment before May 1, 2011, and are rehired at a later time), Service shall also include accumulated sick leave at Termination of Employment.
+(d)
+For Employees hired before May 1, 2011 only, (including fully vested former Participants who Terminated Employment before May 1, 2011, and are rehired at a later time), Service shall include Excess Annual Leave.
+(e)
+Partial years of Service shall be credited in increments of one-twelfth of a year, with one calendar month equal to one-twelfth of a year. Partial calendar months shall be aggregated by days, with 30 days equal to one-twelfth of a year.
+(f)
+Service shall exclude periods during which the Participant is receiving payments from the long-term disability or workers' compensation programs maintained by the Employer and exclude periods during which the Participant is waiting for a determination of Disability unless such periods are counted under another provision of this Section.
+(g)
+Service shall exclude any period of service taken into account under any other qualified defined benefit plan and any period during which benefits are received under the Plan or under the plans established by the General Assembly of Georgia under 1949 Ga. Laws, page 1371, or under the plan provided by 1953 Ga. Laws, page 2907.
+(h)
+Refer to Sections 2.03 and 2.04 for the rules applicable upon rehire.
+(i)
+Eligible Employees who were transferred to Bibb County, Georgia from the City of Macon, Georgia on July 1, 2012, shall receive Service for vesting and benefit accrual based on prior service accrued under the City of Macon General Employees' Pension Plan, but shall be treated as hired on May 1, 2011, for purposes of Section 5.02 of the Plan.
+(j)
+Eligible Employees shall receive Service for vesting and benefit accrual based on prior service with Bibb County, Georgia and future service with Macon-Bibb County.
+(k)
+For Employees hired on and after January 1, 2014, Service shall not include periods of employment after 34 Years of Service.
+(l)
+Eligible Employees of the Macon-Bibb County Industrial Authority shall not receive Service credit for periods of employment with the Authority prior to July 1, 2015.
+(m)
+For the District Attorney for the Macon Judicial Circuit, who held that position on and after January 1, 2013, Service shall include all periods of Service in that position.
+Spouse or Surviving Spouse means the person to whom the Participant is legally married. 'Spouse' and 'surviving spouse' shall not include domestic partners or other similar relationships that are not denominated as marriage. The determination of a Participant's Spouse or Surviving Spouse shall be made as of the earlier of the Participant's Annuity Starting Date or the date of such Participant's death.
+Termination of Employment or Terminates Employment means the earliest of the following dates:
+(a)
+The date of the Employee's voluntary resignation from employment with the Employer;
+(b)
+The date of the Employee's discharge from employment by the Employer;
+(c)
+The date of the Employee's death; or
+(d)
+The date the Employee ceases employment with the Employer on account of retirement or Disability.
+Notwithstanding the foregoing, an Employee who ceases to be actively employed by reason of an Authorized Leave of Absence shall not be considered as having a Termination of Employment. However, any Participant who is receiving benefits under any long-term disability plan for a period of twelve (12) consecutive months may be considered terminated by the Employer.
+USERRA means the Uniformed Services Employment and Reemployment Rights Act of 1994.
+Year of Service means a twelve (12) month period of Service, or fractions thereof creditable toward retirement and benefits hereunder including those periods counted towards Accumulated Past Service Credit. No period during which benefits are received under this Plan or under the plan established by the General Assembly of Georgia under 1949 Ga. Laws, page 137 or under the plan provided by 1953 Ga. Laws page 2907 shall be included in Years of Service.
+(Ord. No. O-15-0062 , § 1, 12-15-2015; Ord. No. O-16-0029 , §§ 1—3, 3-15-2016; Ord. No. O-19-0021 , §§ 1—4, 4-16-2019; Ord. No. O-19-0033 , § 1, 6-4-2019; Ord. No. O-22-0050 , § 1, 8-2-2022)
+ARTICLE 2 - ELIGIBILITY
+
+2.01 - Eligibility.
+An Employee shall become a Participant in the Plan on the first day as of which he is an Eligible Employee, as defined in Article I hereof.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+2.02 - Change in Employment Status.
+If a Participant ceases to be an Eligible Employee but does not Terminate Employment, then during the period that such a Participant is not an Eligible Employee, the Participant shall not accrue Service under the Plan attributable to that period.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+2.03 - Participation and Service Upon Reemployment.
+Except as provided in Section 10.04 (Reemployment of a Retired Participant) or in Sections 2.04 (Reemployment of a Vested Participant) below, a Participant who is reemployed by the Employer as an Eligible Employee following a Five-year Break in Service shall be treated for all purposes as a new Employee (one-year break prior to August 3, 1993). A Participant who is reemployed by the Employer as an Eligible Employee before incurring a Five-year Break in Service shall resume participation in the Plan as of his reemployment date and except as provided in Section 2.05 of the Plan, his Service and Base Earnings from his previous period of Employment as an Eligible Employee shall be combined with any Service, and Base Earnings earned after his rehire date to determine his benefits under this Plan.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+2.04 - Reemployment of a Vested Participant.
+Notwithstanding Section 2.03 above, a Participant who is reemployed by the Employer as an Eligible Employee and who was 100% vested in his benefits under this Plan as of his previous Termination of Employment, shall resume participation in the Plan as a Participant on the first day of his reemployment as an Eligible Employee. Except as provided in Section 2.05 of the Plan, any Service and Base Earnings from the reemployed Participant's previous period of Employment as an Eligible Employee shall be combined with any Service and Base Earnings earned after his reemployment date to determine his benefits under this Plan.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+2.05 - Refund of Contributions to Participant Before Reemployment.
+A Participant who is reemployed by the Employer as an Eligible Employee and who received a refund of his Participant Contributions (if any) must repay the full amount of such refund plus interest at the rate of six percent (6%) per annum in order for any prior Service and Base Earnings to be restored.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+2.06 - Open Enrollment Period for Certain Participants.
+Employees who are for the first time made eligible for participation as Participants by amendatory provisions adopted in an Ordinance dated December 6, 1988, (which removed age restrictions required under the Age Discrimination in Employment Act) shall be eligible for enrollment and participation provided that such Eligible Employee shall make application to the Board of Commissioners on or before March 15, 1989, for inclusion in the Plan as a Participant. Upon receipt of such application, the Board of Commissioners will cause a calculation to be made of the amount of the contributions which the applicant would have made had said applicant been eligible for inclusion from the date of initial employment or election, and the applicant shall pay to Bibb County such sums as the applicant would have paid had said applicant been a Participant from the date of employment or election (if any). No payment shall be required for breaks in continuous service, but the Years of Service shall mean the total of the actual months of Service with Bibb County divided by 12. In addition to the principal payments to Bibb County by such applicant, the applicant shall also pay to Bibb County interest thereon at the rate of eight percent (8%) per annum computed as to each payment from the date which such payment would have been made by such applicant had said applicant been a Participant, and upon such payment such applicant shall be entitled to credit for prior Service as if said applicant had been a Participant from the first date of employment or taking office.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+2.07 - Restructured Government.
+(a)
+Any Employee whose employment is transferred from the City of Macon or Bibb County, Georgia, effective January 1, 2014, in connection with the restructured government pursuant to an act of the Georgia General Assembly, and who was actively participating in either the Macon Fire and Police Employees' Retirement System or the Macon Pension and Retirement Systems, Division A, (the "Macon Plans") shall continue to participate in the Macon Plan in which he or she was participating as of December 31, 2013, after his or her employment is transferred to Macon-Bibb County, and shall not participate in this Plan.
+(b)
+In no event shall any Eligible Employee accrue benefits under this Plan for periods of Service performed for Bibb County, Georgia, the City of Macon, Georgia, or Macon-Bibb County, if such Service is taken into account for the purposes of benefit accrual under one of the Macon Plans.
+(c)
+Any Participant whose job is abolished pursuant to Section 30(e) of HB 1171 and who is rehired by Macon-Bibb County by the end of the calendar year, shall not have a Termination of Employment for purposes of this Plan.
+(d)
+Any Eligible Employee who was formerly employed by the City of Macon, Georgia or Bibb County, Georgia, prior to January 1, 2014, and is reemployed by Macon-Bibb County on or after January 1, 2014, shall participate in this Plan as a new Employee as of his date of reemployment and shall come under the terms of the Plan in effect on his or her reemployment date. Provided, however, if such reemployed Eligible Employee (i) was 100% vested in his benefits under the retirement system sponsored by the City of Macon, Georgia or Bibb County, Georgia, as of his previous Termination of Employment or (ii) was not 100% vested in his benefits under such retirement system as of his previous Termination of Employment but has not incurred a Five-Year Break in Service, he shall receive Service credit from his previous period of employment with the City of Macon, Georgia and/or Bibb County, Georgia for vesting purposes only.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+2.08 - Participation by Employees of Macon-Bibb County Industrial Authority.
+An Eligible Employee of the Macon-Bibb County Industrial Authority (as defined in Article 1 hereof), who is actively employed by the Authority on July 1, 2015, may make a one-time irrevocable election to opt out of the Plan. Such election must be made on or before December 31, 2015, and the Eligible Employee must be actively employed by the Macon-Bibb County Industrial Authority on the date of his or her election. An Eligible Employee hired or rehired by the Macon-Bibb County Industrial Authority after July 1, 2015, shall become a Participant in the Plan on the first day as of which he is an Eligible Employee.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+ARTICLE 3 - EMPLOYER CONTRIBUTIONS
+
+3.01 - Amount.
+The Employer will make such contributions as are necessary to fund the Plan in accordance with all applicable minimum funding standards for governmental plans under the Code and Georgia law. Each contribution is contingent upon the maintenance of qualified status by the Plan for the year with respect to which such contribution is made.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+3.02 - Determination of Contribution.
+The Employer, from its records and the reports of the Actuary, shall determine the amount of any contribution to be made by it to the Fund under the terms of the Plan. In this regard, the Employer may place full reliance upon all reports, opinions, tables, valuations, certificates and contributions the Actuary furnishes the Employer.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+3.03 - Cherry Blossom Festival, Inc. and the Keep Macon Bibb Beautiful Commission.
+Effective July 31, 2006, the Accrued Benefit of each Participant employed by the Cherry Blossom Festival, Inc. and the Keep Macon-Bibb Beautiful Commission is frozen and no further benefits have accrued to such Participants after such date.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+3.04 - Time of Payment of Contribution.
+The Employer must make its contribution to the Fund Administrator no later than the time required by Georgia law.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+3.05 - Non-vested Accrued Benefit.
+Amounts representing the non-vested Accrued Benefit (and the earnings thereon) of Participants who have terminated employment, died, or forfeited benefits under the Plan for any other reason shall not be used to increase benefits under the Plan. Such amounts shall, instead, be used to reduce administrative expenses and then to reduce Employer contributions for future Plan Year(s).
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+ARTICLE 4 - PARTICIPANT CONTRIBUTIONS
+
+4.01 - Participant Contributions.
+(a)
+Participant Contributions. Prior to October, 1981, each Participant was required to make contributions to the Plan. The Plan Administrator shall hold such amounts, for recordkeeping purposes with Compound Interest, in a Participant Contribution Account for each contributing Participant. Such account shall be a notional account only. The Participant may not direct the investment of such account, and such amounts shall be held together with the remaining assets of the Fund. The Participant shall not, on account of the existence of such an account, have any greater or higher-priority claim on the assets of the Fund than any other Participant.
+(b)
+Effective October, 1981, no Participant contributions are required or permitted to be made to the Plan.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+4.02 - Refund of Participant Contributions.
+(a)
+In General. If a Participant has a Termination of Employment and is not eligible for any benefits under the Plan, or if the Participant dies before his Annuity Starting Date and no death benefit is payable to a Beneficiary, the Participant (or the Beneficiary, if the Participant dies) shall receive a refund of all Participant Contributions with Compound Interest, if any, that is held in the Participant Contribution Account.
+A Participant shall not receive an automatic refund of his Participant Contribution Account if he is eligible for a Deferred Vested Pension, but such a Participant shall receive a refund of his Participant Account if he so requests in writing and executes a Waiver of Deferred Termination Benefit in the form and manner prescribed by the Pension Trustee Board. Such a Participant shall then have no other right to a benefit under this Plan attributable to the period of employment for which the Participant Contributions were made.
+(b)
+Death After Annuity Starting Date. If the Participant or Beneficiary is receiving benefits under the Plan and dies before payments from the Plan to the Participant or Beneficiary have been made in an amount equal to or greater than the total of the Participant Contribution Account, and no additional benefits are due from this Plan, then the Beneficiary shall receive the amount by which the Participant Contribution Account (as of the date benefits commenced) exceed such amount. If the Beneficiary receives such a refund, no additional death benefits will be paid from the Plan.
+(c)
+Form of Payment. Distribution of the Participant Contribution Account shall be made only in one lump sum in cash.
+(d)
+Cost-of-living Adjustments. The cost-of-living adjustments described in Section 5.04 shall not apply to amounts paid under this Article 4.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+ARTICLE 5 - NORMAL RETIREMENT
+
+5.01 - Eligibility for Normal Retirement Pension.
+A Participant shall be eligible for a Regular Monthly Benefit if his employment is terminated on or after his Normal Retirement Age. Payment of a Regular Monthly Benefit shall commence as of the Participant's Normal Retirement Date; provided however, the Participant's retirement will not be effective until the first day of the calendar month following receipt and approval by the Pension Trustee Board of written notice of the Participant's intent to retire.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+5.02 - Amount of Normal Retirement Pension.
+Subject to the Annual Benefit limitations of Article 12 of the Plan, a Participant's Normal Retirement Pension, paid monthly beginning as of the Participant's Normal Retirement Date and ending on the first day of the month, in which the Participant's death occurs, shall be:
+(a)
+For Employees (other than Superior Court Judges and State Court Judges) hired prior to May 1, 2011, (including fully vested former Participants who Terminated Employment before May 1, 2011, and are rehired at a later time):
+(i)
+2% of Final Average Monthly Base Earnings, multiplied by
+(ii)
+the Participant's number of whole and partial Years of Service.
+(b)
+For Employees (other than Superior Court Judges, State Court Judges and District Attorneys for the Macon Judicial District) hired or non-vested former Participants rehired on and after May 1, 2011:
+(i)
+1.5% of Final Average Monthly Base Earnings, multiplied by
+(ii)
+the Participant's number of whole and partial Years of Service.
+(c)
+For Superior Court Judges, two-thirds of the amount paid as a local supplement to active Superior Court Judges by Macon-Bibb County for the life of such Superior Court Judge.
+(d)
+For State Court Judges, two-thirds of the amount paid to active State Court Judges by Macon-Bibb County in excess of the pensionable salary used by the Georgia Judicial Retirement System for retirement benefits under that retirement system, for the life of such State Court Judge.
+(e)
+For District Attorneys for the Macon Judicial District, two-thirds of the amount paid by Macon-Bibb County as a supplement to the salary paid by the State of Georgia.
+Refer to Section 5.04 below for information on a cost of living adjustment that may increase the amount provided under the formula above, and to the definition of Service and Years of Service in Article 2 for the way in which Service, including partial years, is calculated.
+(Ord. No. O-15-0062 , § 1, 12-15-2015; Ord. No. O-16-0029 , §§ 4, 3-15-2016; Ord. No. O-19-0021 , § 5, 4-16-2019)
+5.03 - Retirement After Normal Retirement Age.
+If a Participant continues in employment past his Normal Retirement Age, his benefit shall commence upon his actual retirement, the date of which shall be his Late Retirement Date. The benefit shall be calculated using the Participant's Service and Final Average Monthly Base Earnings through his Late Retirement Date.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+5.04 - Cost of Living Adjustment.
+Effective January 1, 2017, and each January 1 thereafter, the Plan shall provide for a one and one-half (1.5%) ad-hoc cost of living adjustment to the monthly amount payable to a Participant or, if applicable, his Beneficiary(-ies) who is receiving a retirement benefit from this Plan, except that no such increase shall be effective as to any year for which such increase is disapproved by the Macon-Bibb County Commission, based on the financial soundness of the plan.
+Effective February 22, 2004, and each January 1 thereafter until January 1, 2017, no cost of living adjustments shall be made to benefit payments from this Plan that are currently provided to Participants or their Beneficiaries unless authorized by the Macon-Bibb County Commission following an actuarial study.
+Effective January 1, 2003, and each January 1 thereafter until February 22, 2004, subject to review and approval by the Board of Commissioners, the Plan shall provide for a one and one-half (1.5%) ad-hoc cost of living adjustment to the monthly amount payable to a Participant or, if applicable, his Beneficiary(-ies) who is receiving a retirement benefit from this Plan.
+Effective October 1, 1996, and each January 1 thereafter until January 1, 2003, subject to review and approval by the Board of Commissioners, the Plan shall provide for a four percent (4%) ad-hoc cost of living adjustment every three (3) years to the monthly amount the Participant or, if applicable, his Beneficiary(-ies) who is receiving a retirement benefits from this Plan.
+(Ord. No. O-15-0062 , § 1, 12-15-2015; Ord. No. Ord. No. O-16-0044 , § 1, 4-5-2016)
+5.05 - Minimum Payment.
+Participants who qualify for retirement based on age or Years of Service may qualify for a minimum Regular Monthly Benefit. For purposes of this section, Years of Service prior to December 20, 1968, are not considered for anyone who as not a member of the pension plan created by the Act of 1953 immediately prior to December 20, 1968, and who was eligible for that pension plan under the terms of the Act of 1953, as amended, but for any reason was not a member of such plan, unless such person, upon becoming a Participant in this Plan, purchased such past service as provided in the ordinance effective December 20, 1968.
+Effective prior to October 2, 1990, the minimum Regular Monthly Benefit is $200 per month.
+Effective between October 2, 1990 and January 12, 1997, the minimum Regular Monthly Benefit is $300.00 per month. Effective from January 21, 1997, to July 12, 2005, the minimum Regular Monthly Benefit is $500.00 per month provided the Participant qualified for retirement at Termination of Employment based on age or Years of Service. Effective July 12, 2005, minimum Regular Monthly Benefit is eliminated; provided however, any Participant whose right to a minimum benefit was vested and accrued on July 12, 2005, will continue to be entitled to such minimum.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+5.06 - Act of 1953.
+A Participant who participated in the pension plan contained in the Act of 1953 as of December 20, 1968, and whose benefits under that plan are greater than the benefits provided to the Participant under this Plan, may elect to retire under the provisions of the plan contained in the Act of 1953.
+(Ord. No. O-15-0062 , § 1, 12-15-2015)
+5.07 - Choice of Plans.
+Notwithstanding any contrary provisions of this Plan, whenever a Participant is entitled to receive benefits from two or more plans, the cost of which is borne from the County treasury, the Participant shall be entitled to receive benefits under the plan that provides the greater benefits but shall not be entitled to receive benefits from any other plan or plans; provided, however, that if a Participant is entitled to receive benefits from a pension or retirement plan or plans mandated by Georgia law, he shall be entitled to receive full benefits as provided by that law, and no benefits shall be payable under the provisions of this Plan unless such benefits are larger than those received under the State-mandated plan, in which event the Participant shall be entitled to receive from this Plan the difference between the amount payable under this Plan and the amount received from the state-mandated Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+5.08 - Treasurer Emeritus.
+Effective December 1, 1988 until January 1, 2004, any person who has served as Treasurer of the County for a period of fifteen (15) years and who shall have attained age sixty-five (65) shall have the title of Treasurer Emeritus and shall upon retirement be entitled to receive retirement pay for life at the rate of $300.00 per month from his date of retirement.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 6 - EARLY RETIREMENT PENSION
+
+6.01 - Eligibility for Early Retirement.
+A Participant shall be eligible for an Early Retirement Pension if his employment as an Eligible Employee is terminated on or after his Early Retirement Age. An Early Retirement Pension shall commence as of the Participant's Normal Retirement Date, unless the Participant requests, in the form and manner prescribed by the Plan Administrator, to commence his payments as of his Early Retirement Date, or as of the first day of any subsequent month that precedes his Normal Retirement Date.
+A Participant who Terminates from Employment after satisfying the service requirement but not the age requirement for an Early Retirement Pension may not elect to receive an Early Retirement Pension upon satisfying the age requirement
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+6.02 - Amount of Early Retirement Pension.
+Subject to the Annual Benefit limitations of Article 12 of the Plan, a Participant's Early Retirement Pension shall equal his Normal Retirement Pension, except that, effective November 5, 1996, the Early Retirement Pension shall be reduced by two percent (2%) for each year between the date payments commence and his Normal Retirement Date. Effective prior to November 5, 1996, the Early Retirement Pension is reduced by one-half of one percent [½ %] for each year (prorated based on months for partial years).
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+6.03 - Early Retirement Incentive.
+Effective pursuant to an Ordinance passed on February 27, 2001, Bibb County, Georgia implemented an early retirement incentive program as follows:
+(a)
+Employees eligible for the early retirement incentive program may retire from Bibb County, Georgia without the two percent (2%) early retirement reduction and will be credited with three (3) additional Years of Service for purposes of calculating retirement benefits, including those eligible Employees with more than thirty (30) Years of Service.
+(b)
+Eligible Employees may elect to participate in the early retirement incentive program between March 12, 2001, and April 13, 2001. Any election may be revoked within 7 days of the date the election form is signed. Thereafter, all elections are final.
+(c)
+Each Employee electing to participate in the early retirement incentive program will designate the first day of any month between July 1, 2001, and December 31, 2001, as his Normal Retirement Date.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 7 - DISABILITY PENSION
+
+7.01 - General Disability Pension.
+(a)
+Eligibility for Disability Pension. A Participant is eligible for a Disability Pension under this Section 7.02 if he becomes Disabled (i) before he has satisfied the requirements for a Normal Retirement Pension, (ii) while he is an active Eligible Employee or is on an Authorized Leave of Absence, and (iii) after he has completed ten (10) years of continuous Service; provided however, any Participant hired by Bibb County, Georgia prior to July 1, 2003, shall be required to have only five (5) years of continuous Service to be eligible for a Disability Pension as described in Section 7.02(b). Such a Participant's Disability Pension shall commence as of the first day of the month coincident with or next following the Participant's Disability Retirement Date, and shall continue until the first day of the month in which the Participant's death occurs unless the Participant recovers from the Disability before his Normal Retirement Age, in which case Disability Pension payments shall cease as of the first day of the month in which such recovery occurs.
+(b)
+Amount of Disability Pension. The Disability Pension payable under Section 7.02(a) above shall equal the Participant's Normal Retirement Pension, calculated using his Years of Service and Final Average Monthly Base Earnings as of his Disability Retirement Date. Effective July 26, 2005, solely for purposes of determining Disability Pension, Final Average Monthly Base Earnings means the highest 36 months of Base Earnings received by the Participant. Effective October 1, 2022, solely for purposes of determining Disability Pension, Final Average Monthly Base Earnings means the monthly average of the three highest periods of Base Earnings received by the Participant of twelve consecutive months each, where such period begins on the first day of a calendar month and ends on the last day of a calendar month, with no month being counted in more than one such period. Notwithstanding anything in the Plan to the contrary, Participants hired by Bibb County, Georgia after November 5, 1996 and prior to July 1, 2003, who are eligible for a Disability Pension shall receive a minimum monthly benefit of $250.00. Effective June 7, 1994 to November 5,1996, the minimum Disability Pension is $50.00 per month. Effective June 7, 1994, amounts payable hereunder shall be reduced by any amounts received by the Participant under Social Security Disability. Effective January 1, 2004, the Participant shall also apply for federal Social Security benefits before or contemporaneously with the application for a Disability Pension under this section. The Disability Pension will be paid until the Participant begins receiving federal Social Security benefits at which time the Disability Pension will be reduced by the amount of federal Social Security benefits received by the Participant. The Disability Pension shall be paid in the form of benefit selected by the Participant in accordance with section 10.01 of the Plan.
+(c)
+Employees with less the Required Number of Years of Service. Any Participant who becomes Disabled and is not eligible for a Disability Pension shall be entitled to receive an amount equal to his Participant Contributions to the Plan (if any) plus Compound Interest paid in one lump sum.
+( Ord. No. O-15-0062, § 1, 12-15-2015 ; Ord. No. O-22-0050 , § 1, 8-2-2022)
+7.02 - Line of Duty Disability Pension.
+(a)
+Eligibility for Line of Duty Disability. A Law Enforcement Participant who becomes Disabled from accidental, violent and external causes suffered in the line of duty and in the performance of duty while he is an Eligible Employee shall be eligible for a Disability Pension as described in Section 7.01(b). Such a Law Enforcement Participant's Disability Pension shall commence as of the first day of the month coincident with or next following the Law Enforcement Participant's Disability Retirement Date, and shall continue until the first day of the month in which the Participant's death occurs unless the Participant recovers from the Disability before his Normal Retirement Age, in which case Disability Pension payments shall cease as of the first day of the month in which such recovery occurs.
+(b)
+Amount of Law Enforcement Disability Pension. For Law Enforcement Participants, the Disability Pension payable under Section 7.01(a) above shall be a monthly benefit equal to sixty-six and two-thirds percent (66 2/3%) of the Participant's Final Average Monthly Base Earnings as of his Disability Retirement Date. Effective July 26, 2005, solely for purposes of determining Disability Pension, Final Average Monthly Base Earnings means the highest 36 months of Base Earnings received by the Participant. Effective October 1, 2022, solely for purposes of determining Disability Pension, Final Average Monthly Base Earnings means the monthly average of the three highest periods of Base Earnings received by the Participant of twelve consecutive months each, where such period begins on the first day of a calendar month and ends on the last day of a calendar month, with no month being counted in more than one such period. Effective June 7, 1994, amounts payable hereunder shall be reduced by any amounts received by the Participant under Social Security Disability. Effective October 28, 2003, the Participant shall apply for federal Social Security benefits before or contemporaneously with application for a Disability Pension under this section. The Disability Pension will be paid until the Participant begins receiving federal Social Security benefits at which time the Disability Pension will be reduced by the amount of federal Social Security benefits received by the Participant. The Disability Pension shall be paid in the form of benefit selected by the Participant in accordance with section 10.01 of the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 ; Ord. No. O-22-0050 , § 1, 8-2-2022)
+7.03 - Employment While Receiving Disability Pension.
+If a Participant is receiving a Disability Pension under Section 7.01 or 7.02, and accepts employment of any kind, including temporary, part-time or full-time employment, with any entity, or is demonstrably capable of gainful employment of any kind (as determined in the sole discretion of the Pension Trustee Board), his Disability Pension shall immediately cease and any payments improperly received by the Participant while engaged in such gainful employment or capable of same, shall be required to be repaid to the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+7.04 - Willful Misconduct or Self-inflicted Injury.
+A Disability Pension shall not be paid if the Participant's Disability was caused by the Participant's willful misconduct or self-inflicted injury, or grows out of a Participant's attempt to unlawfully injure another or the Participant's attempt at or commission of a felony under the laws of Georgia or of the United States.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+7.05 - Recovery From Disability.
+If a Participant recovers from Disability prior to his Normal Retirement Age, and his Disability Pension ceases, his years of Service to Disability Retirement Date shall be restored, and he shall be eligible for a Pension, or not, on the same terms as any other Participant who experienced a Termination of Employment. If the Participant is reemployed as an Eligible Employee, the Participant then shall commence to accrue benefits under the Plan based upon his Final Average Monthly Base Earnings and Years of Service before his Disability Retirement Date and after his reemployment. The Participant shall not receive Service for the period during which he received a Disability Pension.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+7.06 - Continuing Evidence of Disability.
+Any Participant receiving a Disability Pension who has not reached his Normal Retirement Age shall be subject to physical reexaminations in the same manner as provided for the original determination of the Disability. If the Participant is then found able to perform active service in any capacity, with or without reasonable accommodation, so that the Participant is no longer permanently and totally Disabled, the Pension Trustee Board may order that the Participant return to active service with the Employer and the Disability Pension shall cease. Should any such Participant refuse to submit to such medical examination or refuse to return to active employment within thirty (30) days of written notice to do so by the Pension Trustee Board, his Disability Pension shall cease. If such Participant returns to active employment with the Employer, any contributions required by the Plan shall resume and the Participant will receive future Service during the time he remains in active service of the Employer.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 8 - DEFERRED VESTED PENSION
+
+8.01 - Deferred Vested Pension.
+A Participant who Terminates Employment for any reason other than death, Disability, eligibility for an Early Retirement Pension, or attaining Normal Retirement Age shall be eligible to receive a Deferred Vested Pension to the extent that he satisfies the vesting requirements below. If a Participant Terminates Employment for any reason other than death, Disability, eligibility for an Early Retirement Pension, or attaining Normal Retirement Age and does not have sufficient Service to receive a Deferred Vested Pension, he shall not receive a benefit from this Plan except to the extent that he is rehired or otherwise earns additional Service to be added to his previous period of Service; provided however the Participant will be entitled to receive Participant Contributions, if any, plus Compound Interest.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+8.02 - Amount of Deferred Vested Pension.
+(a)
+Prior to Normal Retirement Age. The Participant's Deferred Vested Pension shall be calculated and paid in the same manner as his Normal Retirement Pension, considering his Years of Service and Final Average Monthly Base Earnings as of his Termination of Employment, but adjusted as follows:
+If the Participant's first date of employment with the Employer is on or before January 16, 1996:
+EXPAND
+Years of Service at
+Termination of Employment Percentage of Benefit Paid
+Less than 5 Years 0%
+5 Years or More 100%
+  If the Participant's first date of employment with the Employer is after January 16, 1996, the Participant's Normal Retirement Pension shall be adjusted as follows:
+EXPAND
+Years of Service at
+Termination of Employment Percentage of Benefit Paid
+Less than 10 Years 0%
+10 Years or More 100%
+  (b)
+At Normal Retirement Age. The Participant's right to his Normal Retirement Pension is nonforfeitable upon attainment of his Normal Retirement Age.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 9 - DEATH BENEFITS
+
+9.01 - Pre-retirement Death Benefit.
+(a)
+Eligibility. If a Participant's employment is terminated by reason of death prior to his or her Annuity Starting Date, and the Participant has at least ten (10) Years of Service, the Participant's Beneficiary shall be entitled to death benefit as described in paragraph (b) below for life, or until remarriage if the Spouse is the Beneficiary.
+(b)
+Death Benefit. Effective January 16, 1990; the Participant's Beneficiary may elect to receive one of the following:
+(i)
+a monthly payment from the Plan equal to fifty percent (50%) of the Normal Retirement Pension that the Participant would have received at his Normal Retirement Date had he lived to that date, commencing as of the Participant's Normal Retirement Date (if he had lived), or
+(ii)
+a monthly payment from the Plan equal to fifty percent (50%) of the Normal Retirement Pension that the Participant would have received at his Normal Retirement Date had he lived to that date, commencing as of the first day of the month following his death, but effective November 5, 1999, reduced by two percent (2%) per year for each year the benefit commences prior to the Participant's Normal Retirement Date (if he had lived) (reduced by one half of one percent (1/2%) effective prior to November 5, 1999).
+(c)
+Commencement of Benefit. The benefit described in (b)(i) and (b)(ii) above shall continue for the lifetime of the Beneficiary or if the Beneficiary is the Participant's Spouse until the month in which the Spouse remarries, if earlier.
+(d)
+Non-Spouse Beneficiary. Effective for Eligible Employees hired on and after January 1, 2004, the Participant's Beneficiary shall be the Participant's Spouse, unless such Spouse has explicitly waived all rights under the Plan in a written instrument. If the Spouse effectively waives benefits under the Plan, or the Participant has no Spouse on his date of death, the Participant's children (by birth or adoption) under the age of eighteen will receive any benefits due in equal shares until the child reaches the age of eighteen (18) (age twenty-two (22) if the child is student enrolled full time in an accredited post secondary institution of higher learning). If the Participant is not married and has no children under the age of eighteen (18) (age twenty-two (22) if the child is student enrolled full time in an accredited post secondary institution of higher learning) no death benefit shall be paid.
+For purposes of (ii) above, a child is a full-time student if he is enrolled as a full-time student at an educational institution during any five months of a calendar year. This enrollment status shall be redetermined each calendar year.
+Only enrollment in a school that has a regular teaching staff and course of study and is a junior or senior high school, college, university, technical or mechanical school shall satisfy the requirements above. Enrollment in a night school that satisfies the requirement in the preceding sentence and in which the child is enrolled for the number of hours or classes equivalent to full-time attendance at a similar day school also shall satisfy this requirement. On-the-job training courses, correspondence schools or other home education do not satisfy this requirement.
+The Pension Trustee Board shall determine whether a particular child is a full-time student, and its decision thereon shall be final.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+9.02 - Death After Normal Retirement Date but before Annuity Starting Date
+If a Participant dies after his Normal Retirement Date but before he actually retires from employment with the Employer, the Participant shall be deemed to have retired immediately before his death and elected a 100 % joint and survivor annuity. Effective for Eligible Employees hired on and after January 1, 2004, the Participant's Beneficiary shall be the Participant's Spouse, unless such Spouse has explicitly waived all rights under the Plan in a written instrument. If the Spouse effectively waives benefits under the Plan, or the Participant has no Spouse on his date of death, the Participant's children (by birth or adoption) under the age of eighteen will receive any benefits due in equal shares until the child reaches the age of eighteen (18) (age twenty-two (22) if the child is student enrolled full time in an accredited post secondary institution of higher
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+9.03 - Death After Annuity Starting Date.
+If a Participant dies after his Annuity Starting Date, whether the Participant's Spouse or any other person receives a survivor's benefit shall be determined according to the form of benefit in which the Participant's benefit was being paid or which the Participant had elected. For example, if the Participant elected a single life annuity form of benefit, no survivor's benefit shall be paid.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 10 - OPTIONAL FORMS OF PAYMENT
+
+10.01 - Optional Form of Payment.
+In lieu of receiving a monthly payment for life, the Participant may elect any of the following options. Any amount received by the Participant under an option selected below shall be the Actuarial Equivalent of the Regular Monthly Benefit described in Section 5.02 (i.e. life annuity with no survivor benefits).
+(a)
+Life Annuity with Guaranteed Payments. This is a reduced monthly amount payable to the Participant for life with a certain number of monthly payments guaranteed. The Participant may elect a guaranteed payment of either 60 or 120 months.
+(b)
+Joint and Survivor Annuity Options. This is a reduced monthly payment made to the Participant for his life and, upon the Participant's death, a percentage of the Participant's benefit shall be paid to the Participant's designated Beneficiary. The Participant shall elect the percentage that will be payable to the Participant's designated Beneficiary when electing this form of benefit. Payments shall cease as of the later of the death of the Participant or the death of the Participant's designated Beneficiary.
+(c)
+Death of Beneficiary Before Annuity Starting Date. If a Participant elects the Joint and Survivor Annuity but the designated Beneficiary dies before the Annuity Starting Date, the Participant may revoke his election. His benefit shall be paid as a Regular Monthly Benefit under Section 5.02 unless the Participant elects a new Beneficiary. If the designated Beneficiary dies after the Participant's Annuity Starting Date but before the Participant starts receiving his monthly payments, the Participant shall receive the reduced monthly benefits in accordance with his election of this option.
+(d)
+Electing the Optional Form of Payment. At least thirty (30) days, but no more than ninety (90) days, before the Participant's Annuity Starting Date, a Participant who wishes to elect the optional form of payment shall submit a written election in the form prescribed by the Plan Administrator. If a Participant does not properly elect an optional form of benefit, his benefit shall be paid as a Regular Monthly Benefit for life as described in Section 5.02.
+A Participant may revoke an option prior to his Annuity Starting Date by filing a revocation, or a new election, with the Plan Administrator prior to his Annuity Starting Date. A Participant may not revoke or change an election after his benefits begin.
+(e)
+MDIB Rules. Any optional form of benefit and any designated Beneficiary named by the Participant must comply with the minimum distribution incidental benefit requirement of proposed Treasury Regulation 1.401(a)(9)-2, or its successor. This rule ensures that the retirement benefits payable under the Plan are more than incidental.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+10.02 - Commencement of Benefits.
+(a)
+For any participant who has not attained age 70½ before January 1, 2020, regardless of whether the Participant has an hour of service on or after January 1, 2020, the following rule shall apply:
+Age 72. Notwithstanding anything contained herein to the contrary, the Plan Administrator shall direct that payment of a Participant's Normal Retirement Pension commence by the first day of April in the calendar year following the later of (i) the calendar year in which the Participant attains age 72, or (it) the calendar year in which the Participant retires.
+For any Participant who attained age 70½ before January 1, 2020, the following rule shall apply instead:
+Age 70½ . Notwithstanding anything contained herein to the contrary, the Plan Administrator shall direct that payment of a Participant's Normal Retirement Pension commence by the first day of April in the calendar year following the later of (a) the calendar year in which the Participant attains age 70½, or (b) the calendar year in which the Participant retires. If, as of the date that this amended and restated Plan is adopted, a Participant in active employment with the Employer is receiving distributions on account of his attaining age 70½, the Participant shall continue to receive Plan distributions.
+(b)
+Normal Retirement Date. Payment of a Participant's retirement benefit shall begin no later than his Normal Retirement Date or, if he continues in employment past his Normal Retirement Age, his actual or late retirement date.
+( Ord. No. O-15-0062, § 1, 12-15-2015 ; Ord. No. O-22-0050 , § 1, 8-2-2022)
+10.03 - Continued Employment After Normal Retirement Age.
+A Participant who continues in the employ of an Employer after his Normal Retirement Age may not elect to begin receiving his Accrued Benefit until after he has Terminated Employment with the Employer.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+10.04 - Reemployment of a Retired Participant.
+(a)
+Election to continue Payments. Except as provided in subsection (b) below, any Participant who (i) retired or otherwise Terminated Employment, (ii) is receiving a Normal or Early Retirement Pension or payments under the Early Retirement Incentive described in section 6.03 of the Plan, and (iii) is thereafter rehired, elected or appointed to fill an unexpired term as an Eligible Employee with the Employer, shall make the following election upon rehire, election or appointment:
+(1)
+Continue to be considered retired under the provisions of the Plan and continue to receive his Normal or Early Retirement Pension hereunder during the period of any such reemployment but accrue no more benefits under the Plan, or
+(2)
+Discontinue payment of his Normal or Early Retirement Pension hereunder during the period of reemployment and be entitled to any additional benefits which may accrue during the reemployment period.
+(b)
+Rehire Within Two Months. Notwithstanding subsection (a) above, any Participant who is rehired within two (2) months of his or her Termination of Employment and prior to Normal Retirement Age, shall cease payment of any Early Retirement Pension being paid to him hereunder during his period of reemployment, regardless of whether such Participant is eligible to accrue benefits under the Plan during his reemployment.
+Any increases in benefits after rehire shall be offset by the Actuarial Equivalent of the payments already received by the Participant. Participants whose payments are suspended may elect a different form of benefit payment upon subsequent retirement.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+10.05 - Rollovers.
+(a)
+General Rule. This provision shall be effective January 1, 1993. Notwithstanding any provision of the Plan to the contrary that would otherwise limit a Distributee's election under this section, a Distributee may elect, at the time and in the manner prescribed by the Plan Administrator, to have any portion of an Eligible Rollover Distribution paid directly to an Eligible Retirement Plan specified by the Distributee in a direct rollover.
+(b)
+Definitions.
+(1)
+Eligible Rollover Distribution. An Eligible Rollover Distribution is any distribution of all or any portion of the balance to the credit of the Distributee, except that an Eligible Rollover Distribution does not include (i) any distribution that is one of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the Distributee or the joint lives (or joint life expectancies) of the Distributee and the Distributee's designated Beneficiary, or for a specified period of ten years or more; (ii) any distribution to the extent such distribution is required under Code Section 401(a)(9). A Distributee may not elect a direct rollover with respect to an Eligible Rollover Distribution during the Plan Year that is less than $200. If the Distributee elects to have only a portion of an Eligible Rollover Distribution paid to an Eligible Retirement Plan, that portion must be equal to at least $500.
+Effective for distributions after December 31, 2001, a portion of a distribution shall not fail to be an Eligible Rollover Distribution merely because the portion consists of after-tax employee contributions, which are not includible in gross income. However, such portion may be transferred only to an individual retirement account or annuity described in Code Section 408(a) or (b) or to a qualified defined contribution plan described in Code Section 401(a) or 403(a) that agrees to separately account for amounts so transferred, including separately accounting for the portion of such distribution that is includible in gross income and the portion that is not. Effective for distributions made on and after January 1, 2007, after-tax amounts may also be transferred to an annuity contract described in Code Section 403(b) that agrees to the separate accounting rules described above.
+Effective January 1, 2010, Eligible Rollover Distribution includes a distribution to a non-spouse Beneficiary
+(2)
+Eligible Retirement Plan. An Eligible Retirement Plan is an individual retirement account described in Section 408(a) of the Code, an individual retirement annuity described in Section 408(b) of the Code, an annuity plan described in Section 403(a) of the Code, or a qualified trust described in Section 401(a) of the Code, that accepts the Distributee's Eligible Rollover Distribution. If the distribution is made after December 31, 2001, Eligible Retirement Plan also includes an annuity contract described in Code Section 403(b), and an eligible deferred compensation plan under Code Section 457(b) that is maintained by a state, political subdivision or agency or instrumentality of a state and which agrees to separately account for amounts transferred to such plan from this Plan. Notwithstanding the foregoing, in the case of an Eligible Rollover Distribution to the Participant's Spouse or the Participant's non-spouse Beneficiary who is his designated Beneficiary within the meaning on Code Section 401(a)(9)(E), an Eligible Retirement Plan is an individual retirement account or individual retirement annuity. Effective as of January 1, 2008, "Eligible Retirement Plan" shall include a Roth IRA described in Code Section 408A.
+(3)
+Distributee. A Distributee includes a Participant, former Participant spouse, former spouse or effective as of January 1, 2010, a non-spouse beneficiary.
+(4)
+Direct Rollover. A Direct Rollover is a payment by the Plan to the Eligible Retirement Plan specified by the Distributee.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+10.06 - Conformance to Section 401(a)(9).
+(a)
+Effective Date. The rules set forth in this amended and restated Section 10.06 shall apply for purposes of determining the Required Minimum Distribution to Participants and Designated Beneficiaries (as defined below) for calendar years beginning on and after January 1, 2006 even if, in the case of a Beneficiary, the Participant died before 2006. A Participant or Beneficiary who would have been required to receive required minimum distributions for 2009 but for the enactment of Code Section 401(a)(9)(H) shall not receive those distributions for 2009 unless the Participant or Beneficiary chooses to receive such distributions. Notwithstanding any other provision of this section to the contrary any required minimum distribution made in 2009 shall be treated as Eligible Rollover Distribution.
+(b)
+Commencement of Distribution. Notwithstanding anything contained herein to the contrary, distribution to a Participant shall commence not later than the Required Beginning Date. The Required Beginning Date shall be April 1 of the calendar year following the later of (i) the calendar year in which the Participant attains age 72 (age 70½ in the case of a Participant who turned age 70½ before January 1,2020) or (ii) the calendar year in which occurs the Participant's Retirement Date.
+Notwithstanding the foregoing, the Required Beginning Date for any Participant who has attained or will attain age 70½ on or before December 31, 1998, and has an Accrued Benefit under the Plan (including any Prior Plan) as of December 31, 1996, shall be April 1 following the calendar year in which the Participant attains age 70½, regardless of whether the Participant is then employed by the Employer. Nothing in this Section 10.06 shall be deemed to extend any death benefit or permit any Beneficiary designation or payment form not otherwise provided or permitted under this Plan. This Section 10.06 shall, instead, be deemed to limit and modify any provision of this Plan to the extent that such limitation or modification is necessary to ensure that the Plan complies with this Section 10.06, Code Section 401(a)(9) and the Regulations thereunder.
+This restated Section 10.06(b) shall apply regardless of whether a Participant has an hour of service on or after January 1, 2020.
+(c)
+Period of Distribution. The entire interest of each Participant in this Plan will be distributed, beginning not later than the Required Beginning Date described in paragraph (b) above, over the life of such Participant or over the lives of such Participant and his Designated Beneficiary, or over a period not extending beyond the life expectancy of such Participant or the life expectancy of such Participant and his Designated Beneficiary.
+(d)
+Death of Participant After Distribution has Begun. If distribution of a Participant's interest has begun in accordance with paragraph (b) above (i.e., distributions on or after the Required Beginning Date), and if the Participant dies before his entire interest has been distributed to him, then the remaining portion of such interest will be distributed at least as rapidly as under the method of distribution being used under paragraph (b) as of the date of the Participant's death.
+(e)
+Death of Participant Before Distribution has Begun. If a Participant dies before distribution of the Participant's interest has begun in accordance with paragraph (b) above (i.e., no distributions have been made on or after the Required Beginning Date), the entire interest of the Participant must be paid over whichever of the following periods is applicable:
+(i)
+If one or more Designated Beneficiaries is not the Participant's Spouse, the distribution period shall be the Designated Beneficiary's remaining life expectancy.
+(ii)
+If the sole Designated Beneficiary is the Participant's Spouse, the distribution period shall be the Spouse's remaining life expectancy.
+(iii)
+If there is no Designated Beneficiary, the entire Account shall be distributed by the end of the calendar year that includes the fifth anniversary of the Participant's death.
+Distributions under this Section 10.06(e) above shall commence as follows:
+(i)
+Distributions under 10.06(e)(i) (i.e., distribution to a non-Spouse Designated Beneficiary) shall begin on or before the end of the calendar year that begins immediately after the calendar year in which the Participant died.
+(ii)
+Distributions under Section 10.06(e)(ii) (i.e., distribution to a Spousal Designated Beneficiary) shall begin on or before the later of the end of the calendar year immediately following the calendar year in which the Participant died and the end of the calendar year in which the Participant would have attained age 70 1/2.
+(f)
+Form of Distribution. For a Participant who is employed by an Employer after his Required Beginning Date, any distribution payable under this Section 10.06 may be paid in any optional form of benefit that is available under the Plan, provided that all consent requirements under the Plan are satisfied. Any form of distribution payable under this Plan, however, must:
+(i)
+be in the form of a periodic annuity for the Participant's life, or for the joint life expectancy of the Participant and Designated Beneficiary or over a period certain that does not exceed the maximum length of the period certain determined under the Regulations;
+(ii)
+the interval between payments must be uniform over the entire distribution period and must not exceed one year;
+(iii)
+if payments have commenced over a period certain, the period certain may not be changed;
+(iv)
+distributions in the form of a life annuity must satisfy the minimum distribution incidental benefit (MDIB) requirement of Code Section 401(a)(9)(G) and Treasury Regulation 1.401(a)(9)-6, A-2, or any successor regulation thereto; and
+(v)
+all payments, either in the form of a life annuity or over a period certain must either be nonincreasing or increase only in accordance with the rules set forth in Treasury Regulation 1.401(a)(9)-6, A-1.
+For purposes of this Section 10.06, references to a life annuity shall include an annuity for the joint life expectancy of the Participant and the Designated Beneficiary.
+(g)
+Lump Sum Distributions. In the case of a lump sum distribution from this Plan that is distributed in or after the calendar year in which the Participant attains or would have attained age 72 (age 70½, in the case of a Participant who attains or would have attained age 70½ before January 1, 2020), the amount of the lump sum that equals the Participant's or Designated Beneficiary's Required Minimum Distribution and thus is not an Eligible Rollover Distribution within the meaning of Section 10.06 of the Plan shall be determined using either of the methods set forth in the Regulations. The Plan Administrator shall have the sole discretion to elect the calculation method but shall apply the same method to all lump sum distributions made in the same calendar year.
+This restated Section 10.06(g) shall apply regardless of whether a Participant has an hour of service on or after January 1, 2020.
+(h)
+Incidental Death Benefit Requirement. Any optional form of benefit elected by the Participant or Designated Beneficiary must comply with the minimum distribution incidental benefit requirement of Code Section 401(a)(9)(G). This rule insures that the retirement benefits payable under the Plan are more than incidental.
+(i)
+Actuarial Increase After Age 70 1/2.
+(1)
+Except with respect to a Participant who is a 5% owner (as defined in Code Section 401(a)(9) and Treasury Regulations thereunder), a participant's Accrued Benefit shall be actuarially increased to take into account the period after age 70-1/2 in which the employee does not receive any benefits under the plan. The actuarial increase shall commence on April 1 following the calendar year in which the employee attains age 70-1/2, and end on the date on which benefits commence after retirement in an amount sufficient to satisfy Code Section 401(a)(9).
+The Accrued Benefit payable to such a Participant as of the end of the period for which the actuarial increase is required shall not be less than:
+(i)
+the Actuarial Equivalent of the employee's Accrued Benefit as of April 1 of the calendar year following the calendar year in which the Participant attained age 70 1/2, plus
+(ii)
+the Actuarial Equivalent of any additional benefits accrued after the date described in (i) above, less
+(iii)
+the Actuarial Equivalent of any distributions made with respect to the Participant's Accrued Benefit after such date.
+(2)
+The actuarial increase described above may reduce the benefit accrual otherwise required under Code Section 411(b)(1)(H)(i).
+(3)
+The actuarial adjustment described above shall be made even during a period for which benefits are suspended pursuant to Article 10.
+(j)
+Plan Administrator's Discretion. The Plan Administrator shall have the sole authority and full discretion to apply the provisions of this Section 10.06 to any benefit option elected by the Participant. The Plan Administrator may, for example, modify a Participant's selection of an optional form of benefit to satisfy the incidental death benefit requirement by requiring, at its discretion, that the Participant select another form of benefit or another contingent annuitant, or by modifying the form of benefit so that it complies with the applicable rules.
+(k)
+Definitions.
+The following definitions shall apply to this Section 10.06, notwithstanding anything contained herein to the contrary.
+(i)
+Designated Beneficiary. The term "Designated Beneficiary" shall be determined in accordance with the definition of "Beneficiary" in the Regulations, notwithstanding that this definition may be different from that set forth elsewhere in this Plan, provided that any individual who is a Designated Beneficiary must also be a Beneficiary (but not necessarily all of the Beneficiaries) as defined in this Plan. Each Beneficiary, as defined in the Plan, however, need not be a Designated Beneficiary in the event, for example, that a Beneficiary disclaims his interest under this Plan.
+(ii)
+Spouse. "Spouse" shall mean "Spouse" as defined in the Regulations. Nothing in this Section 10.06 shall be deemed, however, to extend any death benefit or permit any Beneficiary designation or payment form not otherwise provided or permitted under this Plan.
+(iii)
+Regulations. "Regulations" shall refer to the Treasury Regulations (including temporary Regulations) promulgated under Code Section 401(a)(9), as set forth in Treasury Regulations 1.401(a)(9)-1 through 1.401(a)(9)-6T, and any additional guidance issued by the IRS in the form of revenue rulings, notices and other guidance published in the Internal Revenue Bulletin or any successor thereto.
+(l)
+Provisions applicable to Plan Years beginning January 1, 1989 until December 31, 1993.
+Distribution of a Participant's entire interest will commence not later than the April 1 following the calendar year in which the Participant attains age 70-1/2 (the Participant's "required commencement date"); provided, however, that the required commencement date of a Participant who attained age 70-1/2 prior to January 1, 1988 shall be April 1 of the calendar year next following the later of the calendar year in which he attained age 70-1/2 or the calendar year in which he retires, and the required commencement date of a Participant who attained age 70-1/2 in calendar year 1988 shall be April 1, 1990. In the event a Participant dies before benefits commence, his interest may be paid to the Participant's surviving spouse over a period certain not to exceed the spouse's life expectancy. If a Participant dies before benefits commence and his surviving spouse is not the beneficiary, the entire remaining interest must be distributed to the Participant's beneficiary within five years. However, if distributions have commenced to the Participant before the Participant's death, distributions to the Participant's beneficiary may continue according to the option selected by the Participant.
+(m)
+Provisions applicable to Plan Years beginning January 1, 1994 until December 31, 2001.
+(i)
+Age 70-1/2 Rule. Distribution of a Participant's benefits will commence not later than the April 1 following the calendar year in which the Participant attains age 70-1/2 (the Participant's "required commencement date"). In the event a Participant dies before benefits commence, his interest may be paid to the Participant's surviving spouse over a period certain not to exceed the spouse's life expectancy and must commence by the later of (A) the end of the calendar year next following the calendar year in which the Participant dies or (b) the end of the calendar year in which the Participant would have attained age 70-1/2. If a Participant dies before benefits commence and his surviving spouse is not the beneficiary, the entire remaining interest must be distributed to the Participant's beneficiary in a manner satisfying one of the following:
+(A)
+If distributions are to be made to the beneficiary over a period which will end after the end of the sixth calendar year ending on or after the death of the Participant, then such payments must commence by the end of the calendar year following the calendar year in which the Participant died and must be paid over a period which does not exceed the life expectancy of the beneficiary and which complies with the requirements of Subsection (b) below.
+(B)
+The entire amount owed to the beneficiary must be paid to the beneficiary before the end of the fifth calendar year following the calendar year in which the Participant died.
+However, if distributions have commenced to the Participant before the Participant's death, distributions to the Participant's beneficiary may continue according to the option selected by the Participant. In the event benefit payments are required to commence to a Participant under this Section and the payments are made pursuant to a form of benefit payment elected by the Participant, payments under this Section shall not reduce future benefit payments. However, if a Participant continues accruing Service after payments commence under this Section, a Participant's Accrued Benefit shall be redetermined as of each December 31st in which additional benefits accrued and such Accrued Benefit shall be reduced by the Equivalent Actuarial Value of benefits previously paid. Such adjusted Accrued Benefit shall be used for the purposes of determining payments required to be made after such December 31st.
+(n)
+Distribution Requirements.
+Notwithstanding anything in this Plan or any Appendix to the contrary, distributions under this Plan shall be adjusted, if necessary, for good faith compliance with Code Section 401(a)(9) and Regulations issued under such Code Section, including the minimum distribution incidental death benefit requirements of proposed Regulation Section 1.401(a)(9)-2.
+( Ord. No. O-15-0062, § 1, 12-15-2015 ; Ord. No. O-22-0050 , § 1, 8-2-2022)
+ARTICLE 11 - MISCELLANEOUS PROVISIONS AFFECTING THE PAYMENT OF BENEFITS
+
+11.01 - General.
+In general, the Fund Administrator shall make payment of any pension directly to the Participant entitled to the payment. However, the Plan Administrator, in lieu of instructing the Fund Administrator to pay the pension which a Participant is to receive directly from the Fund, may instruct the Fund Administrator to purchase from an insurance company selected by the Plan Administrator a Nontransferable Annuity contract to provide the benefits a Participant would receive under this Plan. In the event the Fund Administrator purchases a Nontransferable Annuity contract for the benefit of a Participant, the Fund Administrator may either assign the contract to the Participant or hold the contract for the benefit of the Participant pursuant to the instructions of the Plan Administrator. The Fund Administrator also may purchase a Nontransferable Annuity contract for the benefit of a Beneficiary or Surviving Spouse entitled to a distribution of all or a portion of the Participant's Nonforfeitable Accrued Benefit.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.02 - Plan Merger.
+The Plan shall not participate in any merger or consolidation with another plan, and no Plan assets or liabilities shall be transferred to another plan, unless immediately after the merger, consolidation or transfer, the surviving Plan provides each Participant a benefit equal to or greater than the benefit each Participant would have received had the Plan terminated immediately before the merger or consolidation or transfer. The Plan Administrator may enter into a merger agreement or a direct transfer of assets agreements with the trustees or administrators of other retirement plans described in Code Section 401(a), and may accept the direct transfer of plan assets, or to transfer plan assets, as a party to any such agreement.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.03 - The Uniformed Services Employment and Reemployment Rights Act of 1994 ("USERRA").
+Effective December 12, 1994, notwithstanding any provision of this Plan to the contrary, contributions, benefits, and service credit with respect to Qualified Military Service will be provided in accordance with Code Section 414(u). A Participant who dies during a period of Qualified Military Service, shall be treated as having returned to employment with the Employer on the day before his death and died the next day for purposes of any survivor benefits including pre-retirement survivor benefits and any accelerated vesting. Such Participant shall receive service for vesting purposes for such period of Qualified Military Service but shall not receive service for purposes of accruing benefits for such period of Qualified Military Service.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.04 - Forfeiture of Benefits.
+Notwithstanding any other provision of the Plan to the contrary, a Participant's entire Accrued Benefit under the Plan shall be forfeited in the manner and to the extent provided under O.C.G.A. Section 47-1-20 through Section 47-1-24, if a Participant is convicted of a public employment, drug related, or other covered crime. In addition, no benefits shall be payable under this Plan to a Participant or Beneficiary if the Participant Terminates Employment with the Employer as a result of embezzlement of Employer funds, theft of property or other malpractice in office, and the Plan's liability to such Participant shall be limited to the return of the Participant's Contributions, if any, without Compound Interest, less any sums due to the Employer.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.05 - Payments to Legally Incompetent Distributee.
+Whenever any benefit is to be paid to or for the benefit of any person who is a minor or determined to be incompetent by qualified medical advice, the Pension Trustee Board need not require the appointment of a guardian or custodian, but may cause the benefit to be paid to the person having custody of the minor or incompetent, or to the minor or incompetent without the intervention of a guardian or custodian, or to the legal guardian or custodian if one has been appointed, or may cause the benefit to be used for the benefit of the minor or incompetent.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.06 - Unclaimed Payments.
+If the Plan Administrator cannot ascertain the whereabouts of any Participant to whom a payment is due, the Plan Administrator may direct that the payment and all remaining payments otherwise due to the Participant be cancelled on the records of the Plan and the amount thereof treated as a forfeiture and shall be used to reduce Employer contributions to the Plan. If the Participant later notifies the Plan Administrator of his whereabouts and requests the payments due to him, the Employer shall contribute to the Plan an amount equal to the payment to be paid to him as soon as administratively feasible.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.07 - Assignment or Alienation.
+Except as noted below, neither a Participant nor a Beneficiary shall anticipate, assign or alienate (either at law or in equity), and no third-party may attach, garnish or otherwise subject to legal process, any benefit provided under the Plan, and the Plan Administrator shall not recognize any such anticipation, assignment, alienation, attachment, garnishment or other legal process. This prohibition against anticipation, assignment, alienation, attachment, garnishment or other legal process shall not apply to money lawfully owed by the Participant or Beneficiary to the Employer but only to the extent of such Participant benefit payments and Participant contributions to the Plan. Domestic relations orders shall not be recognized by the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.08 - Overfunding.
+If the Employer has overfunded the Plan at the time it terminates the Plan, the Fund Administrator may return the amount by which the Employer has overfunded the Plan to the Employer. The Employer shall state by written request to the Fund Administrator the amount of the overfunding it wishes the Fund Administrator to return to it upon termination of the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+11.09 - Offset by Workers' Compensation Benefits.
+Effective November 7, 1989, a Participant's monthly benefit payments under the Plan (regardless of whether it is payable on account of his Normal Retirement, Early Retirement, Deferred Vested Retirement or Disability Retirement) shall be reduced by the amount of any Workers' Compensation payments made to the Participant arising from the employment relationship with the Employer or, effective June 7, 1994, any federal Social Security Disability payments made to the Participant. Upon discontinuance of Workers Compensation or Social Security Disability payments, the offset shall discontinue and the Participant shall be entitled to receive amounts as originally calculated under the Plan.
+If the Participant dies, the monthly benefit otherwise payable to the Beneficiary, if any, shall be reduced by the amount of the monthly Workers' Compensation or Social Security Disability payments made to the Beneficiary, to the extent that such Workers' Compensation or Social Security Disability payments are attributable to Participant.
+Notwithstanding the preceding provisions of this Section 11.09, any benefit payable under this Plan that is a refund of Participant Contributions plus Compound Interest shall not be reduced on account of any Workers' Compensation or Social Security Disability payments.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 12 - LIMITATIONS ON BENEFITS
+Refer to Section 12.05 for the definitions of certain terms used in this Article 12. This Article 12 shall be effective beginning January 1, 1987.
+
+12.01. - General Rule.
+The Annual Benefit payable under this Plan to a Participant at any time shall not exceed the Maximum Permissible Amount. "Maximum Permissible Amount" shall mean the lesser of (i) $90,000 ($210,000, effective for Limitation Years beginning on and after January 1, 2015), as adjusted by the Secretary of the Treasury for each calendar year, with the new limitation to apply to Limitation Years ending within the calendar year of the date of the adjustment (the "Dollar Limitation"); or (ii) for Limitation Years beginning prior to January 1, 1995, 100% of the Participant's average Compensation for the period of three consecutive years during which the Participant has the highest aggregate Compensation from the Employer.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+12.02 - Reduction for Less than Ten Years of Participation or Employment.
+If the Annual Benefit commences when the Participant has less than ten years of participation in this Plan or any predecessor plan to this Plan, the Dollar Limitation shall be reduced by one-tenth for each year less than ten, but in no event shall be less than one-tenth of the unreduced Dollar Limitation.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+12.03 - Adjustment if the Annual Benefit Commences Before Age 62 or After Age 65.
+If the payment of benefits under this Plan commences before age 62 or after age 65, the Dollar Limitation shall be adjusted as provided in this Section 12.03.
+Generally, the age-adjusted Dollar Limitation is the actuarial equivalent of the Dollar Limitation payable at age 62 or age 65, as calculated under (i) or (ii) following, whichever is applicable:
+(i) If the age at which the benefit is payable is less than 62:
+If the Annuity Starting Date for the Participant's benefit is prior to age 62 and occurs in a Limitation Year beginning before July 1, 2007, the Dollar Limitation for the Participant's Annuity Starting Date is the annual amount of a benefit payable in the form of a straight life annuity commencing at the Participant's Annuity Starting Date that is the actuarial equivalent of the Dollar Limitation (adjusted for years of participation less than 10, if required) with actuarial equivalence computed using whichever of the following produces the smaller annual amount: (1) the interest rate specified in the Plan for adjusting benefits for early commencement and the mortality table (or other tabular factor) specified in the Plan; or (2) a 5-percent interest rate assumption and the Applicable Mortality Table as defined in the Plan.
+If the Annuity Starting Date for the Participant's benefit is prior to age 62 and occurs in a Limitation Year beginning on or after July 1, 2007, and the Plan does not have an immediately commencing straight life annuity payable at both age 62 and the age of benefit commencement, the Dollar Limitation for the Participant's Annuity Starting Date is the annual amount of a benefit payable in the form of a straight life annuity commencing at the Participant's Annuity Starting Date that is the actuarial equivalent of the Dollar Limitation (adjusted for years of participation less than 10, if required) with actuarial equivalence computed using a 5 percent interest rate assumption and the Applicable Mortality Table for the Annuity Starting Date as defined in the Plan (and expressing the Participant's age based on completed calendar months as of the Annuity Starting Date).
+If the Annuity Starting Date for the Participant's benefit is prior to age 62 and occurs in a Limitation Year beginning on or after July 1, 2007, and the Plan has an immediately commencing straight life annuity payable at both age 62 and the age of benefit commencement, the Dollar Limitation for the Participant's Annuity Starting Date is the lesser of the limitation determined under subsection (i) and the Dollar Limitation (adjusted for years of participation less than 10, if required) multiplied by the ratio of the annual amount of the immediately commencing straight life annuity under the Plan at the Participant's Annuity Starting Date to the annual amount of the immediately commencing straight life annuity under the Plan at age 62, both determined without applying the limitations of this section
+Effective on and after January 1, 1997, if a Participant is a "qualified participant" as defined under Internal Revenue Code Section 415(b)(2)(G), such Participant may retire before age sixty-two (62), without a reduction in the Dollar Limitation if at least fifteen (15) years of service is required to receive a full benefit under the Plan.
+(ii) If the age at which the benefit is payable is greater than age 65:
+If the Annuity Starting Date for the Participant's benefit is after age 65 and occurs in a Limitation Year beginning before July 1, 2007, the Dollar Limitation for the Participant's Annuity Starting Date is the annual amount of a benefit payable in the form of a straight life annuity commencing at the Participant's Annuity Starting Date that is the actuarial equivalent of the Dollar Limitation (adjusted for years of participation less than 10, if required) with actuarial equivalence computed using whichever of the following produces the smaller annual amount: (1) the interest rate specified in the Plan and the mortality table (or other tabular factor) specified the Plan; or (2) a 5-percent interest rate assumption and the Applicable Mortality Table.
+If the Annuity Starting Date for the Participant's benefit is after age 65 and occurs in a Limitation Year beginning on or after July 1, 2007, and the Plan does not have an immediately commencing straight life annuity payable at both age 65 and the age of benefit commencement, the Dollar Limitation at the Participant's Annuity Starting Date is the annual amount of a benefit payable in the form of a straight life annuity commencing at the Participant's Annuity Starting Date that is the actuarial equivalent of the Dollar Limitation (adjusted for years of participation less than 10, if required), with actuarial equivalence computed using a 5 percent interest rate assumption and the Applicable Mortality Table for that Annuity Starting Date (and expressing the Participant's age based on completed calendar months as of the Annuity Starting Date).
+If the Annuity Starting Date for the Participant's benefit is after age 65 and occurs in a Limitation Year beginning on or after July 1, 2007, and the Plan has an immediately commencing straight life annuity payable at both age 65 and the age of benefit commencement, the Dollar Limitation at the Participant's Annuity Starting Date is the lesser of the limitation determined under subsection (i) above, and the Dollar Limitation (adjusted for years of participation less than 10, if required) multiplied by the ratio of the annual amount of the adjusted immediately commencing straight life annuity under the Plan at the Participant's Annuity Starting Date to the annual amount of the adjusted immediately commencing straight life annuity under the Plan at age 65, both determined without applying the limitations of this Section. For this purpose, the adjusted immediately commencing straight life annuity under the Plan at the Participant's Annuity Starting Date is the annual amount of such annuity payable to the Participant, computed disregarding the Participant's accruals after age 65 but including actuarial adjustments even if those actuarial adjustments are used to offset accruals; and the adjusted immediately commencing straight life annuity under the Plan at age 65 is the annual amount of such annuity that would be payable under the Plan to a hypothetical Participant who is age 65 and has the same accrued benefit as the Participant.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+12.04 - Special Rules.
+(a)
+All plans a single plan. For purposes of the maximum limitations of this Article, all defined benefit plans maintained by the Employer shall be considered as a single defined benefit plan, and all defined contribution plans maintained by the Employer shall be considered a single defined contribution plan.
+(b)
+Combined plan limitations. If the Employer maintains, or has at any time maintained, one or more qualified defined contribution plans covering any Participant in this Plan, the sum of the Participant's Defined Contribution Fraction and Defined Benefit Fraction shall not exceed 1.0 in any limitation year, and the annual benefit otherwise payable to the Participant under this Plan, and not the defined contribution plan, shall be frozen or reduced to the extent necessary so that the sum of such fractions shall not exceed 1.0. The combined plan limitation described in the preceding sentence shall not apply for any Plan Year beginning on or after January 1, 2000.
+(c)
+Total Annual Benefits Not in Excess of $10,000. Notwithstanding anything contained herein to the contrary, the Annual Benefit payable to a Participant shall not be deemed to exceed the limits of this Article 12 if the Annual Benefit payable to the Participant under this Plan and all other defined benefit plans maintained by the Employer does not exceed $10,000 for the Plan Year or any prior Plan Year, and the Employer has not at any time maintained a defined contribution plan in which the Participant participated.
+(d)
+Exceptions for Disability or Survivors' Benefits. Notwithstanding anything contained herein to the contrary, the adjustment prescribed by Section 12.03(i) for benefits that commence before age 62, and the reduction described in Section 12.02 for fewer than ten (10) years of participation shall not apply to any benefit paid from this Plan on account of a Participant's becoming disabled by reason of personal injuries or sickness, or amounts received by a Beneficiary as a result of the Participant's death. This paragraph shall be interpreted in accordance with Internal Revenue Code Section 415(b)(2)(I) and any regulations thereunder.
+(e)
+Protection of pre-1987 benefits. For any Limitation Year before 1987, the limitations prescribed by Section 415 of the Internal Revenue Code as in effect before enactment of the Tax Equity and Fiscal Responsibility Act of 1982 shall apply, and no pension earned under this Plan prior to 1987 shall be reduced on account of the provisions of this Article 12 if it would have satisfied those limitations under such prior law.
+(f)
+Protection of TRA '86 Benefits. In the case of an individual who was a Participant as of the first day of the first Limitation Year beginning after December 31, 1986, the application of the limitations of this article shall not cause the maximum permissible amount for such individual under all such defined benefit plans to be less than the individual's Tax Reform Act of 1986 (TRA '86) accrued benefit.
+(g)
+Protection of RPA '94 benefits. In the case of an individual who was a Participant as of the first day of the first limitation year beginning after December 31, 1994, the application of the limitations of this Article shall not cause the maximum permissible amount for such individual under all such defined benefit plans to be less than the Individual's Retirement Protection Act of 1994 (RPA '94) old law benefit."
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+12.05 - Definitions.
+For purposes of this Article 12, the following definitions shall apply:
+(a)
+" Annual Additions " means the sum of the following amounts credited to a Participant's account under a defined contribution plan for the limitation year:
+(i)
+Employer contributions;
+(ii)
+Forfeitures;
+(iii)
+Nondeductible employee contributions; provided, however, that the annual addition for any limitation year beginning before January 1, 1987 shall not be recomputed to treat nondeductible employee contributions as an annual addition; and
+(iv)
+Amounts described in Internal Revenue Code Sections 415(1)(1) and 419A(d)(2).
+(b)
+" Annual Benefit " means effective January 1, 1998, a retirement benefit under the Plan which is payable annually in the form of a straight life annuity. If a Participant's benefit is payable in a Non-Annuity Benefit Form, whether as the normal form of benefit or as an optional form which the Participant or his Beneficiary elects, the Non-Annuity Benefit Form is adjusted to an Annual Benefit as described below. No actuarial adjustment to the Non-Annuity Benefit Form is required for (i) the value of a qualified joint and survivor annuity; (ii) the value of benefits that are not directly related to retirement benefits (such as a disability benefit, pre-retirement death benefits, and post-retirement medical benefits); or (iii) the value of post-retirement cost-of-living increases provided that the amount payable to the Participant under the Non-Annuity Benefit Form in any limitation year cannot be greater than the Section 415(b) limit applicable at the annuity starting date as increased in subsequent years pursuant to Code Section 415(d) and Section 1.415(d)-1 of the Treasury Regulations. The determination of the Annual Benefit shall disregard benefits attributable to employee contributions or rollover contributions or the assets transferred from a qualified plan that was not maintained by an Employer.
+Effective for distributions in Limitation Years beginning after December 31, 2003, the determination of actuarial equivalence for Non-Annuity Benefit Forms shall be made in accordance with the following.
+(i)
+Limitation years beginning before July 1, 2007. For Limitation Years beginning before July 1, 2007, the actuarially equivalent straight life annuity is equal to the annual amount of the straight life annuity commencing at the same annuity starting date that has the same actuarial present value as the participant's form of benefit computed using whichever of the following produces the greater annual amount: (I) the interest rate and the mortality table (or other tabular factor) specified in Article I of the plan for adjusting benefits in the same form; and (II) a 5 percent interest rate assumption and the applicable mortality table defined in Article I of the Plan for that annuity starting date. With respect to annuity starting dates on or after January 1, 2004, and prior to January 1, 2006, the five and one half percent (5.5%) shall be substituted for 5 percent for purposes of any adjustment of a benefit subject to Code Section 417(e)(3).
+(ii)
+Limitation Years beginning on or after July 1, 2007. For Limitation Years beginning on or after July 1, 2007, the actuarially equivalent straight life annuity is equal to the greater of (1) the annual amount of the straight life annuity (if any) payable to the participant under the plan commencing at the same annuity starting date as the participant's form of benefit; and (2) the annual amount of the straight life annuity commencing at the same annuity starting date that has the same actuarial present value as the participant's form of benefit, computed using a 5 percent interest rate assumption and the applicable mortality table defined in Article I of the Plan for that annuity starting date.
+(c)
+" Applicable Mortality Table " is the table prescribed by the Secretary of the Treasury, which prior to the first day of the Plan Year beginning on or after January 1, 2008, is the table specified in Revenue Ruling 2001-62 and on and after that date is the applicable Code Section 417(e)(3) mortality table.
+(d)
+" Compensation " means a Participant's wages as defined in Code Section 3401(a) (wages subject to income tax withholding at the source) but without regard to exceptions contained in Code Section 3401(a) for wages based on the nature of location of the employment or the services performed. For Limitation Years beginning on or after December 31, 1997, for purposes of applying the limitations of this Article, compensation shall include any elective deferral (as defined in Code Section 402(g)(3)), and any amount which is contributed or deferred by the Employer at the election of the Participant and which is not includible in the gross income of the Participant by reason of Code Section 125 or 457. For Limitation Years beginning after December 31, 2000, compensation will also include any elective amounts that are not includible in the Participant's gross income by reason of Code Section 132(f) (related to qualified transportation plan). For Limitation Years beginning on and after January 1, 2007, compensation also includes compensation paid by that later of 2 ½ months after the Participant's severance from employment or the end of the Limitation Year that includes the date of the Participant's severance from employment if:
+(i)
+the payment is regular compensation for services during the Participant's regular working hours or compensation for services outside the Participant's regular working hours (such as overtime or shift differential) commissions, bonuses or other similar payments and absent a severance from employment, the payment would have been paid to the Participant while he or she continued in employment with the Employer; or
+(ii)
+the payment is for unused accrued bona fide sick, vacation, or the leave that the Participant would have been able to use if employment had continued
+The intent of this definition is to comply with the alternative definition of compensation described in Treasury Regulation Section 1.415-2(d)(11)(ii).
+(e)
+" Defined Benefit Fraction " means a fraction, the numerator of which is the sum of the Participant's Projected Annual Benefits under all the defined benefit plans (whether or not terminated) maintained by the Employer, and the denominator of which is the lesser of (i) 125 percent of the Dollar Limitation in effect for the limitation year under Internal Revenue Code Section 415(b)(1)(A); or (ii) 140 percent of the Participant's Highest Average Compensation. Notwithstanding the foregoing, if the Participant was a Participant in a plan maintained by the Employer and in existence on July 1, 1982, the denominator of this fraction shall not be less than 125 percent of the sum of the annual benefits under such plans which the Participant had accrued as of the end of the last limitation year beginning before January 1, 1983, but determined without regard to changes in the Plan or cost-of-living increases occurring after July 1, 1982. The preceding sentence applies only if the defined benefit plans individually and in the aggregate satisfied the requirements of Internal Revenue Code Section 415 for all limitation years beginning before January 1, 1983.
+(f)
+" Defined Contribution Fraction " means a fraction, the numerator of which is the sum of the Annual Additions to the Participant's account under all the defined contribution plans (whether or not terminated) maintained by the Employer for the current and all prior limitation years, and the denominator of which is the sum of the maximum aggregate amounts for the current and all prior limitation years of Employment with the Employer (regardless of whether a defined contribution plan was maintained by the Employer).
+The maximum aggregate amount in any limitation year is the lesser of (i) 125 percent of the Dollar Limitation in effect under Internal Revenue Code Section 415(c)(1)(A); or (ii) 35 percent of the Participant's Compensation for such year.
+If the Employee was a participant in one or more defined contribution plans maintained by the Employer which were in existence on July 1, 1982, the numerator of this fraction shall be adjusted if the sum of this fraction and the defined benefit fraction would otherwise exceed 1.0 under the terms of this Plan. Under the adjustment, an amount equal to the product of (1) the excess of the sum of the fractions over 1.0 times and (2) the denominator of this fraction, will be permanently subtracted from the numerator of this fraction. The adjustment is calculated using the fractions as they would be computed as of the end of the last limitation year beginning before January 1, 1983.
+(g)
+" Employer " means the Macon-Bibb County, Georgia.
+(h)
+Limitation Year means the calendar year.
+(i)
+" Projected Annual Benefit " means the annual benefit to which the Participant would be entitled under the terms of the Plan assuming (i) the Participant will continue Employment until Normal Retirement Age under the Plan (or current age, if later), and (ii) the Participant's Compensation for the current limitation year and all other relevant factors used to determine benefits under the Plan will remain constant for all future limitation years.
+(j)
+" RPA '94 Old Law Benefit " means the Participant's Accrued Benefit under the terms of the Plan as of December 31, 1999, (the RPA '94 freeze date), for the Annuity Starting Date and optional form and taking into account the limitations of Code Section 415 as in effect on December 7, 1994, including the participation requirements under Code Section 415. In determining the amount of a Participant's RPA '94 old law benefit, the following shall be disregarded:
+(i)
+any Plan amendment increasing benefits adopted after the RPA '94 freeze date; and
+(ii)
+any cost of living adjustments that become effective after such date.
+A Participant's RPA '94 old law benefit is not increased after the RPA '94 freeze date, but if the limitations of Code Section 415, as in effect on December 7, 1994, are less than the limitations that were applied to determine the Participant's RPA '94 old law benefit on the RPA '94 freeze date, then the Participant's RPA '94 old law benefit will be reduced in accordance with such reduced limitation. If, at any date after the RPA '94 freeze date, the Participant's total plan benefit, before the application of Section 415, is less than the Participant's RPA '94 old law benefit, the RPA '94 old law benefit will be reduced to the Participant's total plan benefit.
+(k)
+" RPA '94 Old Law Benefit " means the Participant's Accrued Benefit under the terms of the Plan as of December 31, 1999, (the RPA '94 freeze date), for the annuity starting date and optional form and taking into account the limitations of Code Section 415 as in effect on December 7, 1994, including the participation requirements under Code Section 415. In determining the amount of a Participant's RPA '94 old law benefit, the following shall be disregarded:
+(i)
+any Plan amendment increasing benefits adopted after the RPA '94 freeze date; and
+(ii)
+any cost of living adjustments that become effective after such date.
+A Participant's RPA '94 old law benefit is not increased after the RPA '94 freeze date, but if the limitations of Code Section 415, as in effect on December 7, 1994, are less than the limitations that were applied to determine the Participant's RPA '94 old law benefit on the RPA '94 freeze date, then the Participant's RPA '94 old law benefit will be reduced in accordance with such reduced limitation. If, at any date after the RPA '94 freeze date, the Participant's total plan benefit, before the application of Section 415, is less than the Participant's RPA '94 old law benefit, the RPA '94 old law benefit will be reduced to the Participant's total plan benefit.
+(l)
+" TRA '86 accrued benefit " means a Participant's accrued benefit under the Plan, determined as if the Participant had separated from service as of the close of the last limitation year beginning before January 1, 1987, when expressed as an annual benefit within the meaning of Code Section 415(b)(2). In determining the amount of a Participant's TRA '86 accrued benefit, the following shall be disregarded:
+(i)
+any change in the terms and conditions of the Plan after May 5, 1986; and
+(ii)
+any cost of living adjustments occurring after May 5, 1986.
+(m)
+"Year of participation" means each accrual computation period for which the following conditions are met: (1) The Participant is credited with at least the number of hours of service (or period of service if the elapsed time method is used) for benefit accrual purposes, required under the terms of the Plan in order to accrue a benefit for the accrual computation period, and (2) the Participant is included as a Participant under the eligibility provisions of the Plan for at least one day of the accrual computation period. If these two conditions are met, the portion of a year of participation credited to the Participant shall equal the amount of benefit accrual service credited to the Participant for such accrual computation period. A Participant who is permanently and totally disabled within the meaning of Code Section 415(c)(3)(C)(i) for an accrual computation period shall receive a year of participation with respect to that period.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 13 - ADMINISTRATIVE PROVISIONS
+
+13.01 - No Liability.
+The Employer assumes no obligation or responsibility to any of its Eligible Employees, Participants or Beneficiaries for any act of, or failure to act, on the part of the Plan Administrator (unless the Employer is the Plan Administrator) or the Fund Administrator.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+13.02 - Amendment to Vesting Schedule.
+Though the Employer reserves the right to amend the vesting schedule at any time, the Plan Administrator shall not apply the amended vesting schedule to reduce the Nonforfeitable percentage of any Participant's Accrued Benefit derived from Employer contributions (determined as of the later of the date the Employer adopts the amendment, or the date the amendment becomes effective) to a percentage less than the Nonforfeitable percentage computed under the Plan without regard to the amendment.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+13.03 - Pension Trustee Board.
+The Pension Trustee Board will consist of a seven (7) member board comprised as follows: two active vested Macon-Bibb County employees (as defined by Section 8.02) that are members of this Plan, two vested Macon-Bibb County retirees that are members of this Plan, one Macon-Bibb County resident at large (with a financial background), and two Macon-Bibb County Commissioners; where said members shall be appointed by the Mayor, subject to approval of the majority of the Macon-Bibb County Commission. All members of the Pension Trustee Board shall serve at the pleasure of the Macon-Bibb County Commission and may be removed by the Mayor prior to the expiration of their respective terms with the approval of the majority vote of the Macon-Bibb County Commission. All Pension Trustee Board members shall serve a two-year term beginning December 9, 2014, and ending December 31, 2016. Each successor thereafter will serve a two year term which shall begin January of the respective year.
+(a)
+The Pension Trustee Board shall administer the Plan and act as trustee, and shall have full power and authority to pass all reasonable rules and regulations of the administration of the Plan.
+(b)
+All rules and decisions of the Pension Trustee Board shall be uniformly and consistently applied to all Employees in similar circumstances. Any rule or decision that is not inconsistent with this Plan shall be conclusive and binding upon all persons affected by it.
+(c)
+The Pension Trustee Board shall have complete control of the administration of the Plan with all powers necessary to enable it to properly carry out the provisions of the Plan. In addition to all implied powers and responsibilities necessary to carry out the objectives of the Plan, the Pension Trustee Board shall have the following specific powers and responsibilities:
+(i)
+To construe the Plan and any agreement with a Fund Administrator and to determine all questions arising in the administration, interpretation and operation of the Plan;
+(ii)
+To decide all questions relating to the eligibility of Employees to participate in the benefits of the Plan;
+(iii)
+To determine the amount, manner and time of payment of any benefits of the Plan to which any Participant, Beneficiary or other person may be entitled, and to afford any person dissatisfied with such determination the right to a hearing thereon;
+(iv)
+To keep records of all acts and determinations of the Pension Trustee Board, and to keep all such records, books of accounts, data and other documents as may be necessary for the proper administration of the Plan;
+(v)
+To prepare and distribute to all Plan Participants and Beneficiaries information concerning the Plan and their rights under the Plan, including, but not limited to, all information that is required to be distributed by any applicable law;
+(vi)
+To prescribe procedures to be followed by Participants in filing applications for benefits.
+(vii)
+To file with the state of Georgia and/or the Secretary of the Treasury all reports and information required to be filed by the state, the Internal Revenue Service or other applicable law;
+(viii)
+To receive and review the annual valuation of the Plan made by an actuary;
+(ix)
+To receive and review reports of the financial condition of the Plan, and of the receipts and disbursements of the Plan assets;
+(x)
+To appoint or employ an administrator for the Plan and any other agents it deems advisable, including actuarial and legal counsel;
+(xi)
+To do all things necessary to operate and administer the Plan in accordance with its provisions and in compliance with applicable provisions of federal law;
+(xii)
+To authorize payment of benefits from the Fund; shall keep on file, in such manner as it may deem convenient or proper, all reports of the Fund; and
+(xiii)
+To authorize the payment from the Fund of the reasonable expenses of administrating the Plan and the Trust.
+(d)
+To enable the Pension Trustee Board to perform its functions, Macon-Bibb County shall supply full and timely information of all matters relating to the compensation and length of service of all Participants, their retirement, death or other cause of termination of employment, and such other pertinent facts as the Pension Trustee Board may require. The Pension Trustee Board shall advise the Fund Administrator of such facts and issue to the Fund Administrator such instructions as may be required by the Fund Administrator in the administration of the Plan. The Pension Trustee Board and Macon-Bibb County shall be entitled to rely upon all certificates and reports made by a Certified Public Accountant, actuary or legal counsel selected or approved by Macon-Bibb County. The Pension Trustee Board, Macon-Bibb County and its officers shall be fully protected in respect of any action suffered by them in good faith in reliance upon the advice or opinion of any accountant, actuary or attorney, and all action so taken or suffered shall be conclusive upon each of them and upon all other persons interested in the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 14 - PARTICIPANT ADMINISTRATIVE PROVISIONS
+
+14.01 - Personal Data to Plan Administrator.
+Each Participant and each Beneficiary of a deceased Participant must furnish to the Plan Administrator such evidence, data or information as the Plan Administrator considers necessary or desirable for the purpose of administering the Plan. The provisions of this Plan are effective for the benefit of each Participant upon the condition precedent that each Participant will furnish promptly full, true and complete evidence, data and information when requested by the Plan Administrator, provided the Plan Administrator shall advise each Participant of the effect of his failure to comply with its request.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+14.02 - Address for Notification.
+Each Participant and each Beneficiary of a deceased Participant shall file with the Plan Administrator from time to time, in writing, his post office address and any change of post office address. Any communication, statement or notice addressed to a Participant, or Beneficiary, at his last post office address filed with the Plan Administrator, or shown on the records of the Employer, shall bind the Participant, or Beneficiary, for all purposes of this Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+14.03 - Litigation Against the Fund.
+If any legal action filed against the Plan Administrator, or against any individual(s) acting as the Plan Administrator, by or on behalf of any Participant or Beneficiary, results adversely to the Participant or to the Beneficiary, the Fund Administrator shall reimburse the Plan or the Employer for all costs and fees expended by it or them by surcharging all costs and fees against the sums payable under the Plan to the Participant or to the Beneficiary, but only to the extent a court of competent jurisdiction specifically authorizes and directs such surcharges and only to the extent the Code does not prohibit any such surcharges.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+14.04 - Information Available.
+Any Participant in the Plan or any Beneficiary, may examine copies of the Plan, the Plan description, or any other instrument under which the Plan was established or is operated. The Employer will maintain all of the items listed is this Section 14.04 in its human resources office, or in such other place or places as the Employer may designate from time to time in order to comply with all applicable regulations, for examination during reasonable business hours. Upon the written request of a Participant or Beneficiary, the Plan Administrator shall furnish him with a copy of any item listed in this Section 14.04. The Plan Administrator may make a reasonable charge to the requesting person for the copy so furnished. The Plan Administrator may provide Participants with any information required under any applicable federal or State of Georgia law via electronic communication, provided the electronic communication is not prohibited under such laws and the method of electronic communication is reasonably calculated to provide accurate results. A Beneficiary's right to (and the Plan Administrator's duty to provide to the Beneficiary) information or data concerning the Plan, shall not arise until he first becomes entitled to receive a benefit under the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+14.05 - Limitation of Liability; Legal Action.
+Any legal action to recover a benefit under this Plan must be filed within 60 days of the Plan Administrator's decision denying such benefit. Failure to file suit within this time period shall extinguish any right to benefits under the Plan. In no event may any legal action arising under this Plan be commenced later than the first anniversary of the date as of which a benefit first should have been paid or commenced.
+Notwithstanding the foregoing, in the case of a dispute regarding a Participant's years of Service, no legal action may be commenced after the first anniversary of the date the Participant receives his first benefit statement (or other documentation) showing the amount of Service used to calculate his eligibility or vesting percentage under the Plan.
+Neither the Employer nor the Pension Trustee Board shall be in any way subject to suit or litigation, or to any legal liability, for any cause or reason or thing whatsoever, in connection with this Plan or its operation, and each Participant and Beneficiary agrees to release the Employer, the members of the Board and all of its officers and agents from any and all liability or obligation.
+To any action or proceeding involving the Plan or the Fund, the Employer, the Board and the Fund Administrator shall be the only necessary parties, and no employees or former employees of the Employer or their beneficiaries or other person having or claiming to have an interest in the Plan shall be entitled to any notice or process regarding such action or proceeding. Any final judgment that is not appealed or appealable that may be entered in any such action or proceeding shall be binding and conclusive on the parties hereto, the Board and all persons having or claiming to have any interest in the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 15 - TRUST FUND AND CONTRIBUTIONS
+
+15.01 - Trust Fund.
+(a)
+There is created a Trust Fund which consists of contributions made to the Plan by the Employer and the Participants and any funds that may be transferred to the Plan from funds of other pension plans, as well as the income and return from investment of such contributions and transfers. The Pension Trustee Board shall act as trustees to the Plan.
+(b)
+All contributions and other monies becoming a part of the Fund shall be paid to the Fund Custodian who shall be named by the Pension Trustee Board. The Fund Custodian need not have investment powers and shall exercise no such powers unless authorized by the Pension Trustee Board. In general, the duties of the Fund Custodian shall be to receive from Pension Trustee Board monies to be added to the Fund and to allocate the same to the accounts of investment advisors as directed by the Pension Trustee Board. Such Fund Custodian shall likewise be empowered to retain, hold, allocate to investment advisors and distribute the Funds as the same may from time to time be directed. The Pension Trustee Board shall enter into a contract with the Fund Custodian to provide for the duties, compensation and other relevant terms of employment which shall be terminable at any time by the Pension Trustee Board. Charges made by the Fund Custodian shall be payable from the Trust Fund.
+(c)
+In addition to the Fund Custodian, there shall be one or more investment advisors who shall have such powers of investment as are specified from time to time by the Pension Trustee Board. Generally, the investment advisors shall have the right to direct the purchase of securities and other investments for the account of the Fund, utilizing funds assigned to their respective accounts by the Fund Custodian, and to sell or exchange securities all in accordance with general limitations established from time to time by the Pension Trustee Board. All contributions paid over to the Plan or the Fund shall be invested in accordance with Georgia state law, federal law, and the terms of the Plan and the Fund to which they are contributed. The rights and obligations of the Pension Trustee Board shall be set out in a contract or contracts which shall specify fees to be paid and contain such other provisions as may be appropriate. All such contracts shall be terminable at any time by Pension Trustee Board.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+15.02 - Employer Contributions.
+(a)
+Amount of Contributions. The Employer shall contribute to the Fund such amounts as are necessary to fund benefits under the Plan, and shall contribute such additional amounts as the Pension Trustee Board (based on the recommendation of the Actuary) deems necessary or desirable to maintain the actuarial soundness of the Plan.
+(b)
+Form of Contributions. The Employer may pay its contributions to the Fund Administrator in cash or cash equivalent or, if acceptable to the Fund Administrator, marketable securities.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+15.03 - Exclusive Benefit.
+Except as specifically provided herein, the Employer shall have no beneficial interest in any asset of the Fund and no part of any asset in the Fund shall ever revert to or be repaid to the Employer either directly or indirectly, or be used for, or diverted to, purposes other than the exclusive benefit of Plan Participants and their Beneficiaries prior to the satisfaction of all liabilities with respect to the Participants and their Beneficiaries under the Plan.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+15.04 - Bond.
+Any portion of the Fund that is held in a trust shall be covered by the bond of the Pension Trustee Board to the extent required by law.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+15.05 - Refund of Contributions Upon a Mistake of Fact.
+Notwithstanding the foregoing, if and to the extent permitted by the Code and other applicable laws and regulations thereunder, upon the Employer's written request, a contribution that is made by a mistake of fact shall be returned to the Employer making the contribution within one (1) year after the mistaken payment of the contribution. The amount of any such contributions returned to the Employer shall be reduced by any losses attributable thereto but shall not be increased by any earnings.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+15.06 - Prohibited Transactions.
+In no event shall the parties to the Plan exercise any powers in a manner that will constitute a prohibited transaction, as defined in Code Section 4975, for which an exemption does not exist.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 16 - MISCELLANEOUS
+
+16.01 - Evidence.
+Anyone required to give evidence under the terms of the Plan may do so by certificate, affidavit, document or other information which the person to act in reliance may consider pertinent, reliable and genuine, and to have been signed, made or presented by the proper party or parties. The Plan Administrator shall be fully protected in acting and relying upon any evidence described under the immediately preceding sentence.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+16.02 - No Responsibility for Participant Actions.
+Neither the Employer nor the Plan Administrator shall have any obligation or responsibility with respect to any action required by the Plan to be taken by any Participant, Employee or Beneficiary, nor for the failure of any such person to act or not act.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+16.03 - Word Usage.
+Words used in the masculine shall apply to the feminine where applicable, and wherever the context of the Plan dictates, the plural shall be read as the singular and the singular as the plural.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+16.04 - State Law.
+The laws of the State of Georgia shall determine all questions arising with respect to the provisions of this Agreement except to the extent Federal statute supersedes State law.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+16.05 - No Guarantee of Employment.
+Nothing contained in this Plan, or any modification or amendment to the Plan, or in the creation of any account, or the payment of any benefit, shall give any Employee, Participant, or Beneficiary any right to continue employment, any legal or equitable right against the Employer, or an Employee of the Employer, except as expressly provided by the Plan or by a separate agreement.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 17 - AMENDMENT AND TERMINATION
+
+17.01 - Amendment.
+The Plan may be amended at any time and from time to time, in the sole discretion of the Employer, and without the consent of any Participant, by a written instrument authorized by the Macon-Bibb County Commission. Each amendment shall state the date to which it is either retroactively or prospectively effective. Any amendment that is required by the Internal Revenue Service in order for the Plan or Fund to qualify or continue to be qualified under the applicable provisions of the Code, or which in the judgment of the Employer is necessary or appropriate to such qualifications or continued qualification, may be made effective retroactively.
+No amendment (including a change in the actuarial assumptions in Article 1) shall have the effect of decreasing the vested portion of a Participant's Accrued Benefit.
+Unless an amendment to this Plan provides otherwise, an amendment shall be effective and shall apply to any Employee who performs an hour of Service on or after the date that the amendment is adopted or effective, whichever is earlier, and not to any Employee, or to the Spouse or Beneficiary of an Employee, who does not perform an hour of Service on or after such date. As a general rule, the rights and obligations under the Plan with respect to Employees whose employment with the Employer is terminated for any reason whatsoever prior to the effective date of an amendment shall be governed by the Plan as it existed and was in effect at the time of such termination. This paragraph itself shall be subject to the general rule set forth herein, but also shall be applied as if it had been in effect since the original effective date of the Plan to the extent required to comply with the Constitution of the State of Georgia and applicable provisions of the Internal Revenue Code.
+( Ord. No. O-15-0062, § 1, 12-15-2015 ; Ord. No. O-22-0050 , § 1, 8-2-2022)
+17.02 - Termination.
+(a)
+Right to Terminate. The Macon-Bibb County Commission reserves the right to terminate the Plan at any time.
+(b)
+Distribution Upon Plan Termination. If the Employer terminates the Plan, the Plan Administrator shall determine the value of the Plan's assets. The Plan Administrator shall then allocate assets of the Plan according to the following priorities:
+(i)
+Benefits payable as an annuity, in the case of the benefit of a Participant or Beneficiary who was in pay status as of the termination date of the Plan;
+(ii)
+All other Nonforfeitable benefits under the Plan; and
+(iii)
+Any other benefits under the Plan.
+If assets are insufficient to provide all benefits under the Plan, the Plan Administrator shall allocate such assets to satisfy obligations within each category by order of priority. If assets are insufficient to provide all benefits under a priority category, the Plan Administrator shall allocates assets to Participants within that category in the ratio which each Participant's total benefit bears to the total benefits of all Participants within that category.
+(c)
+Full Vesting on Termination. Notwithstanding any other provision of this Plan to the contrary, upon the termination of the Plan, the Accrued Benefit of those Participants, who are in active employment on the date of the termination shall become one hundred percent (100%) vested and Nonforfeitable to the extent funded, and to the extent required by Code Section 401(a)(7), as such Section was in effect on September 1, 1974.
+( Ord. No. O-15-0062, § 1, 12-15-2015 )
+ARTICLE 18 - EARLY RETIREMENT INCENTIVE PROGRAM
+
+18.01 - Early Retirement Incentive Program
+An enhanced early retirement benefit shall be made available to certain Plan Participants on a one-time basis, in accordance with and subject to the following requirements, and shall be referred to herein as the Early Retirement Incentive Program or "ERIP":
+(a)
+Eligibility for Enhanced Early Retirement Benefit under ERIP.
+A Law Enforcement Participant is eligible to elect to participate in the ERIP and receive an enhanced Normal Retirement Pension, if assuming the Law Enforcement Participant worked through December 31, 2015, he or she attained age fifty-three (53) and at least eight (8) Years of Service; or he or she earned at least twenty-three (23) Years of Service on or before December 31, 2015. A general Participant is eligible to elect to participate in the ERIP and receive an enhanced Normal Retirement Pension, if, assuming the Participant worked through December 31, 2015, he or she attained age fifty-eight (58) and at least eight (8) Years of Service; or he or she earned at least twenty-eight (28) Years of Service on or before December 31, 2015. Any Participant is eligible to elect to participate in the ERIP and receive an enhanced Early Retirement Pension if, assuming the Participant worked through December 31, 2015, he or she attained age forty-eight (48) and at least eighteen (18) Years of Service. Terminated Participants and elected officials are not eligible to elect to participate in the ERIP.
+(b)
+Description of Enhanced Benefits.
+Subject to the applicable limitations of Code Section 415, the enhanced early retirement incentive benefit payable to a Participant who elects to participate in the ERIP shall be computed by substituting a multiplier of two and one-fourth percent (2.25%) for benefits determined under Section 5.02 or 6.02, and assuming the Participant worked for the Employer until December 31, 2015. Therefore, the Participant's benefit shall be based upon the Participant's service and his average compensation as of December 31, 2015, times 2.25%; provided, however an enhanced Early Retirement Pension shall be subject to the reductions as provided in Section 6.02 of the Plan.
+(c)
+Additional Benefits.
+A supplemental benefit will be paid from the Plan to a Participant who elects to participate in the ERIP equal to $200 per month until the Participant attains age 65.
+(d)
+Window Period for Election.
+A Participant, who satisfies the eligibility requirements of the ERIP in Section (a) above, may elect to terminate employment, retire and receive the enhanced early retirement benefit described in this Section by submitting the required forms to the designated individual no later than 5:00 p.m. on July 31, 2015. A Participant may not make an election to retire under the ERIP after he or she has terminated employment with the Employer.
+(e)
+7-Day Revocation Period.
+A Participant electing to retire early under the ERIP may revoke his or her election by providing written notice of the revocation to the designated individual within seven (7) days after he or she submitted the election form (the revocation period). If the Participant does not revoke his or her election within the 7-day revocation period, the election to terminate employment, retire and receive an enhanced retirement benefit pursuant to ERIP shall become irrevocable when the revocation period ends.
+(f)
+Termination of Employment; Retirement Date.
+Participants who irrevocably elect to participate in the ERIP shall be required to retire no later than September 30, 2015. Benefits for a Participant who elects to participate in the ERIP shall commence on the first day of the month following his or her termination of employment and shall be paid on the first day of each succeeding month thereafter for as long as the Participant remains eligible to receive such benefits. If a Participant dies before commencement of benefits under this ERIP, the Participant's election to participate in the ERIP shall be null and void, notwithstanding any provisions herein to the contrary.
+(g)
+Voluntary Election.
+The election to retire and receive enhanced early retirement benefits pursuant to the ERIP shall be completely voluntary.
+The effective date of this provision is May 31, 2015. The rights and obligations under the Plan with respect to Participants whose employment with the Employer is terminated for any reason whatsoever prior to the effective date of this Plan Amendment shall be governed by the Plan as it existed and was in effect at the time of such termination.
+Notwithstanding any prior provisions or agreements to the contrary, effective October 1, 2022, any disqualifications from reapplying for employment with the County or from becoming reemployed with the County, which were placed on any former employee who elected to retire under the ERIP provided for in this Article shall be released, and henceforth, the participation of any former employee in the ERIP program under this Article shall no longer be a bar to reemployment with the County, provided that any such application for reemployment will be evaluated on the applicant's qualifications, and that no special favor or consideration will be granted to any applicant on the basis of participating in the ERIP program either.
+( Ord. No. O-22-0050 , § 1, 8-2-2022)
+ARTICLE 19 - PLAN CLOSED TO NEW HIRES AND RE-HIRES EFFECTIVE JULY 1, 2019
+Notwithstanding any other provisions of this Plan to the contrary, effective July 1, 2019, any individual who is a "Post-July 1, 2019 New Hire" or "Post-July 1, 2019 Re-Hire" as defined in subparagraph(s) of the second paragraph under the definition of "Eligible Employee" in Article 1 of this Plan shall not participate in the Plan. For Post-July 1, 2019 New Hires and Re-Hires, earnings on and after July 1, 2019 (or with respect to Post-July 1, 2019 Re-Hires, the first date on or after July 1, 2019 that the individual becomes reemployed or takes office following Termination of Employment or vacation of office) shall not be taken into account for any purpose under the Plan, and service following such date shall not count as Service for any purpose under the Plan, including but not limited to benefit accrual, vesting, and determining eligibility for any retirement benefit, disability benefit, pre-retirement death benefit, or any other benefit. Post-July 1, 2019 New Hires and Post-July 1, 2019 Re-Hires shall not be eligible for disability or pre-retirement death benefits under the Plan, regardless of whether they would otherwise qualify for such benefit based upon their prior Service.
+(Ord. No. O-19-0033 , § 2, 6-4-2019)
+Editor's note— Ord. No. O-22-0050 , § 1, adopted Aug. 2, 2022, repealed Tables 1 and 2 of Appendix I, which pertained to certain and life factors and derived from Ord. No. O-15-0062, § 1, adopted Dec. 15, 2015.

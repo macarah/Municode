@@ -1,0 +1,692 @@
+Chapter 34 - SOLID AND HAZARDOUS WASTES[1]
+Footnotes:
+--- (1) ---
+State Law reference— Garbage and solid waste collection and disposal are authorized as a home rule power of the counties, Ga. Const. art. IX, § II, ¶ III(a)(2); Georgia Comprehensive Solid Waste Management Act, O.C.G.A. § 12-8-20 et seq.; Litter Control Law, O.C.G.A. § 16-7-40 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Secs. 34-1—34-18. - Reserved.
+ARTICLE II. - SOLID WASTE
+DIVISION 1. - GENERALLY
+
+Sec. 34-19. - Short title.
+This article shall also be known and cited as the "Clean Community Ordinance."
+(Ord. of 6-13-1989, § 16-7-40)
+Sec. 34-20. - Declaration of intent.
+It is the intention of the board of commissioners in enacting this article to provide for uniform collection of solid waste in the unincorporated area of the county; to provide for the uniform prohibition throughout the unincorporated area of the county of any and all littering on public or private property, and to curb thereby the desecration of the beauty of the county which is harmful to the health, welfare and safety of its citizens.
+(Ord. of 6-13-1989, § 16-7-41)
+Sec. 34-21. - Definitions.
+Words and phrases used in this article shall have the following meanings, unless otherwise specified:
+Building means any structure having a roof supported by columns or walls intended for shelter, housing or enclosure of persons, animals, chattels or property of any kind.
+Building material means any material such as lumber, roofing material, brick, concrete block, plaster, gutters sand, gravel or other substances used in repairs or alteration of existing buildings, construction of new buildings, or demolition of existing structures.
+Bulk container means a metal container of not less than four cubic yards and not larger than eight cubic yards, watertight, with lids opening on top and constructed so that it can be emptied mechanically by specifically equipped trucks used by the county. The bulk container, while in service and use, shall be equipped with a lid or cover. All new bulk containers used in the unincorporated areas of the county shall comply with these specifications.
+Business trash means any waste accumulation such as dust, paper, cardboard, excelsior, rags or other substances, except for garbage or household trash, which are usually attendant to the operation of stores, offices, commercial buildings and similar type activities.
+Commercial establishment means any building devoted to the retail or wholesale sales uses, warehousing uses, institutional uses, religious uses, governmental uses, or other nonresidential uses at which garbage or trash may be generated.
+Director or superintendent means the principal officer of the department of environmental services of the county.
+Disposal site or landfill means a tract of land or a facility designated by the county for the use as a site for the disposal of solid waste, putrescible waste, hazardous waste or other waste, except this term shall not be deemed to include land or a facility used for the disposal of solid waste or other waste from a single-family dwelling by the owner, occupant or lessee thereof.
+Domestic refuse means any solid waste defined herein as garbage, business trash, yard trash, and household trash.
+Garbage means the byproduct of animal, or vegetable food resulting from the handling, preparation, cooking and consumption of food, or other matter which is subject to putrefaction, or which during or after decay may serve as breeding areas or feeding material for flies, insects or animals.
+Hazardous refuse or hazardous waste means any waste containing any substance listed as a hazardous constituent in regulations promulgated pursuant to the federal act by the administrator of the United States Environmental Protection Agency which are in force and effect on February 1, 1990, codified as Appendix VIII to 40 CFR 261, Identification and Listing of Hazardous Waste. This includes materials such as poisons, acids, caustics matter or solutions, chemicals, infected materials, offal, fecal matter, explosives, sewage sludge, radioactive materials and highly flammable substances and all pathological wastes.
+Household furniture means appliances and furnishings including sofas, chairs, beds, refrigerators, washers, dryers, hot water heaters, and similar items, but not including furnaces.
+Household trash means forms of waste such as paper, sweepings, dust, rags, bottles, cans, or all other materials of any kind, other than garbage, which is normally attendant to the occupancy of a building for dwelling purposes; except this term shall not include an appliance or furniture.
+Industrial waste means all waste, including solids, semi-solids, sludges and liquids, created by factories, processing plants or other manufacturing concerns.
+Junk means any old and dilapidated automobiles, trucks, tractors, and other such vehicles and parts thereof, wagons and other kinds of vehicles and parts thereof, scrap building material, scrap piping, bottles, glass, old iron, machinery, rags, paper, excelsior, hair, mattresses, beds or bedding; or any other kind of furniture, appliance, machinery, equipment, or building materials that are, wholly or partially, discarded, dismantled, wrecked, scrapped, ruined or abandoned, including any inoperative motor vehicles without a valid license plate attached thereto or heavy equipment or parts thereof that are scrap or waste material which is stored, kept, handled, or displayed.
+Litter means all garbage, refuse, waste, materials, sand gravel, slag, brickbats, rubbish, tin cans, trash, debris, dead animals, abandoned vehicles, appliances, scrap metal, or any other discarded, used or unconsumed substance which is not handled in the accordance with the provisions of this article, or any discarded materials of every kind and description which are not solid waste as such term is defined herein.
+Loading and unloading area means space or area used by any moving vehicle or other form of transportation for the purpose of receiving, shipping, and transporting goods, wares, commodities and persons, which shall be established pursuant to the county zoning ordinance.
+Multifamily dwelling means a dwelling designed for and occupied by two or more families living independently of each other as separate housekeeping units, including apartment houses, apartments, duplexes, townhouses, or condominiums, and flats, but not including auto or trailer courts or camps, hotels, or resort-type hotels.
+Multifamily projects means a group of multiple family dwellings, as defined in the county zoning ordinance, consisting of more than two units located on the same premises.
+Rowhouse condominium means a multifamily dwelling complex as which all individual units are owned as undivided real estate parcels and each unit has a ground level entrance directly onto the street.
+Scavenge or scavenging means unauthorized or uncontrolled retrieval of discarded refuse materials.
+Single-family or one-family dwelling unit means a private residential building used or intended to be used as a home or residence in which all living rooms are accessible to each other from within the building, and in which the use and management of all sleeping quarters, all appliances for sanitation, cooking, ventilating, heating, cooling, or lighting are designed for the use of one family only on a minimum of a single lot. The term "single-family or one-family dwelling unit" includes modular homes.
+Small dead animals means dead cats, dogs, small household pets and other animals of similar size having weight of less than 50 pounds.
+Solid waste or refuse means an accumulation of garbage, household trash, yard trash, and business trash as defined in this section.
+Solid waste or refuse receptacle means a metal or plastic container of substantial construction, with tight-fitting lid, and equipped with handles sufficient for the safe and convenient handling thereof; or plastic bags for dry refuse and yard trash only.
+Yard trash or yard trimmings means waste accumulation of tree branches, tree limbs, parts of trees, bushes, lawn, grass, tree or shrubbery cuttings or clippings and dry leaf rakings, free of dirt, rocks, large branches and other bulky or noncombustible material, other natural waste; except this term shall not include such accumulations of waste created as a result of mining, agricultural, and silvicultural business operations.
+(Ord. of 4-10-1984, §§ 1, 2; Ord. of 6-13-1989, § 16-7-42)
+Sec. 34-22. - Transportation of refuse.
+All persons who desire to haul refuse over roads which are a part of the county road system shall use a vehicle provided with a cover and operate it so as to prevent refuse from being dropped, blown, or spilled therefrom.
+(Res. of 11-8-1977, § I(2); Ord. of 6-13-1989, § 16-7-43)
+Sec. 34-23. - Maintenance of property.
+(a)
+Property. All owners or occupants of property shall maintain their property in a litter-free condition.
+(b)
+Sweeping into sidewalks or street. No person shall sweep into or deposit in any street or sidewalk the accumulation of litter from any building or property.
+(Res. of 11-8-1987, §I(3); Ord. of 6-13-1989, § 16-7-44)
+Sec. 34-24. - Special refuse disposal.
+(a)
+Contagious disease refuse. The removal of clothing, bedding or other refuse from some or other places where highly infectious diseases have prevailed shall be decontaminated prior to removal under the supervision and direction of the county health department. Such refuse shall not be placed in receptacles or bulk containers for county collection until decontaminated.
+(b)
+Hypodermic instruments. No person shall dispose of or discard any hypodermic syringe, hypodermic needle or any instrument or device for making hypodermic injections before first breaking, disassembling, destroying or otherwise rendering inoperable and incapable of reuse, such hypodermic syringe, needle, instrument or device, and without safeguarding the disposal thereof, by wrapping or securing same in a suitable manner so as to avoid the possibility of causing injury to the collection personnel.
+(c)
+Cardboard boxes and carton. Prior to depositing refuse for collection in authorized containers or receptacles or in commercial containers, the person disposing of any such boxes or cartons or the person in charge of the premises shall collapse all cardboard boxes and cartons.
+(Ord. of 6-13-1989, § 16-7-45)
+Sec. 34-25. - Nuisances designated.
+Within the county, it shall be unlawful for any person to create a nuisance on his property or property occupied by him, or to allow a nuisance to remain on his property or property occupied by him. Dead animals, stagnant water, decayed vegetables or fruits, filthy privies or unkept stables or anything having an offensive odor, or anything that causes injury or damage to the health or life of any other person, are declared nuisances.
+(Res. of 11-8-1977, § I(4); Ord. of 6-13-1989, § 16-7-46)
+Sec. 34-26. - Trash and weeds; duty of the responsible person.
+(a)
+Within the county, it shall be unlawful for any person to maintain his premises, including vacant lots or land, in such a way as to allow trash, garbage or miscellaneous refuse to accumulate if the condition of the property causes a nuisance, or causes injury to the health or welfare of residents in the vicinity, or causes injury to neighboring property.
+(b)
+Within the county, it shall be unlawful for any person to maintain, cause or permit uncut grass or weeds on any property under such circumstances that the grass or weed becomes a breeding place for insects, rodents, or reptiles, or constitutes a fire hazard.
+(c)
+Within the county, drive-in restaurants and other food establishments that permit carry-out food service shall maintain at all times on their premises sufficient receptacles for the disposal of trash, garbage, and miscellaneous refuse.
+(Ord. of 6-13-1989, § 16-7-47)
+Sec. 34-27. - Abandoned motor vehicles.
+It shall be unlawful to abandon any motor vehicle as provided by the Official Code of Georgia. Any motor vehicle abandoned within the county shall be disposed of by the proper authorities as provided by the Official Code of Georgia.
+(Ord. of 6-13-1989, § 16-7-48)
+Sec. 34-28. - Littering.
+It shall be unlawful for any person to dump, deposit, throw, leave or to cause or permit the dumping, depositing, placing, throwing, or leaving of litter on any public or private property in the unincorporated areas of the county.
+(1)
+The property is designated by the county or any agency of the state for the disposal of litter and the person is authorized by the proper public authority to use such property;
+(2)
+The litter is placed into a litter receptacle or container installed on such property; or
+(3)
+The person is the owner or tenant in lawful possession of such property or has first obtained consent of the owner or tenant in lawful possession or unless the act is done under the personal direction of the owner or tenant, all in a manner consistent with the public welfare.
+(Ord. of 4-10-1984, § 4; Ord. of 6-13-1989, § 16-7-49)
+Secs. 34-29—34-59. - Reserved.
+DIVISION 2. - ADMINISTRATION AND ENFORCEMENT
+
+Sec. 34-60. - Penalty.
+Any person who violates the provisions of this division dealing with an act which is prohibited or is declared to be unlawful, or whenever this division declares the doing of any act to be unlawful, such person upon conviction shall be punished according to the general penalties described in section 1-9.
+(Ord. of 6-13-1989, § 16-7-55)
+Sec. 34-61. - Superintendent of roads.
+The collection, transportation and disposal of refuse shall be under the supervision and control of the superintendent of roads in the county. In the performance of his duties, the director shall have the authority to establish routes and days of collection, types and locations of refuse containers, and such other matters as may pertain to the collection, transportation and disposal of refuse as he may deem necessary and reasonable.
+(Ord. of 6-13-1989, § 16-7-50)
+Sec. 34-62. - Collections.
+(a)
+By county. All refuse, except building materials as defined in section 34-21, generated or accumulated in the unincorporated areas of the county shall be collected, transported and disposed of by the county.
+(b)
+Private collection. It shall be unlawful for any person to collect refuse within the county, except from his own residence, business, or industrial plant, without first having obtained a proper permit from the state department of natural resources and the county and without first having obtained a county business license.
+(Ord. of 6-13-1989, § 16-7-51)
+Sec. 34-63. - Receptacles and containers.
+(a)
+Required. Every person in possession, charge or control of any building or from which business trash, industrial waste or other waste is accumulated or produced shall be required by this division to provide and/or keep on site bulk containers in a suitable place readily accessible to the county's collection crews or other licensed private collector, receptacles and containers suitable for the storage of all such waste materials which will normally accumulate between the established collection dates. The superintendent shall determine the quantity and location of said bulk container and that containers are in a serviceable condition.
+(b)
+Safety. All receptacles and containers that are required by this division shall be of safe construction and design and shall be maintained in good, orderly and serviceable condition at all times. Any publicly or privately owned receptacle or container which does not conform to the requirements of this division or the policies established by the director, or which have ragged or sharp edges or any other defects likely to hamper or injure the person collecting the contents therefrom or the public generally, shall be promptly replaced by the user thereof. If said container, after appropriate notice, has not been replaced, the county road superintendent shall have the right to suspend further collection of such waste material until such time as the container is brought into compliance.
+(Ord. of 6-13-1989, § 16-7-52)
+Sec. 34-64. - Responsible enforcement agency; violation procedures.
+Enforcement of this division shall be the responsibility of the road superintendent, inspectors designated by him, the sheriff, and his lawful deputy sheriffs. Any person or persons authorized to enforce this division shall be empowered to enter any property, upon reasonable cause, at reasonable times in order to inspect the property for violations of this division.
+(1)
+The county commission, the road superintendent, or inspectors designated by him, shall investigate complaints or violations of any provisions of this division. They shall determine if there has been a violation and to initiate an attempt to obtain compliance with this division by the person in violation thereof.
+(2)
+The superintendent or his designated inspectors shall be authorized to sign a complaint with the approval of the county attorney against said violator with the county law enforcement agency.
+(3)
+Upon appropriate notice to the person violating this division, the county road superintendent may suspend any service or the use of any facility maintained by the county during the period such violation continues to exist.
+(4)
+Any person violating the provisions of this division shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished according to the general penalties described in section 1-9. Any suspended or probated sentence shall substitute a symbolic restitution to replace that portion of the sentence, fine or confinement, suspended or probated. Such community service shall be performed under the supervision of the county magistrate court.
+(Ord. of 6-13-1989, § 16-7-53)
+Sec. 34-65. - Prima facie evidence rebuttable presumption.
+(a)
+Whenever litter is thrown, deposited, dropped or dumped from any motor vehicle, boat, airplane, or other conveyance in violation of the provisions of this division, it shall be prima facie evidence that the operator of the conveyance violated the provisions of this division.
+(b)
+Except as provided in subsection (a) of this section, whenever any litter which is dumped, deposited, thrown or left on public or private property in violation of the provisions of this division is discovered to contain any articles, including, but not limited to, letters, bills, publications or other writings which display the name of a person thereon in such a manner as to indicate that the article belongs or belonged to such person shall be a rebuttable presumption that such person has violated the provisions of this division.
+(Ord. of 6-13-1989, § 16-7-54)
+Secs. 34-66—34-88. - Reserved.
+DIVISION 3. - DISPOSAL
+
+Sec. 34-89. - Precollection practices—Generally.
+The following practices and procedures shall be employed by persons in the county in order to facilitate the disposal of solid wastes:
+(1)
+Refuse. All refuse shall be placed and maintained in containers as specified herein.
+(2)
+Standard refuse disposal. Citizens shall place refuse in securely tied plastic bags. Tree and shrubbery trimmings not suitable for bagging shall be taken to the county landfill.
+(3)
+Garbage. All garbage placed in containers for disposal shall first be drained of all liquids, and shall be wrapped, bagged, or enclosed in paper or plastic material.
+(4)
+Household trash. All household trash shall be drained of all liquids prior to its being placed in refuse receptacles. Household trash may be combined with garbage.
+(5)
+Injurious trash items. All waste material of an injurious nature, such as broken glass, light bulbs, sharp pieces of metal, fluorescent tubes, and television tubes shall be securely packaged or wrapped for the purpose of preventing injury to the collection crews or other third parties.
+(6)
+Hazardous refuse and building materials. No hazardous refuse or building materials shall be placed in any receptacle at any time, unless such refuse is to be disposed of by the person packaging said refuse. The county shall not be required to collect any hazardous refuse, or building material. All hazardous refuse shall be secured against the possibility of causing injury to any person and shall not be placed on public property or private property without the written consent of the owner thereof.
+(7)
+Yard trash, tree and shrubbery trimmings in excess of that allowed for standard collection may be collected by the county as a special collection. Special collections are scheduled by appointment and are subject to a fee as established by resolution of the board of commissioners from time to time, and available for public examination in the office of the county clerk.
+(8)
+Trees shrubbery branches, etc. Tree and shrubbery branches, limbs and trimmings cut by landscape or tree service contractors or other commercial workmen or resulting from land being cleared shall not be collected by the county, but shall be collected and removed to the county landfill by those who have performed the work or shall be removed by the person for whom the work was performed.
+(9)
+Household furniture and furnishings must be transported to landfill. Upon request, the county may collect normal household furniture and appliances, including sofas, chairs, beds, refrigerators, washers, dryers, hot water heaters, and similar items, but not including furnaces. Persons requesting this service shall be notified by the superintendent as to the date collection will occur. The board of commissioners shall have the right to set and collect a fee for this service. This fee shall be established by resolution of the board of commissioners from time to time, and available for public examination in the office of the county clerk.
+(Res. of 11-8-1987, §§ I(5), II(2), (6), (7); Ord. of 6-13-1989, § 16-7-56)
+Sec. 34-90. - Same—Prohibited activities.
+The following activities are hereby declared to be unlawful and in violation of this division:
+(1)
+Public roads/streets and private property. No person shall place any accumulation of refuse and trash in any street, median strip, alley or other public place of travel, nor upon any private property except with the written consent thereof and then only in accordance with the provisions of this division.
+(2)
+Blockage of drainage. No person shall place any solid waste, trash, refuse, receptacle, or container on, over or near any storm drain or drainage ditches, or so close thereto as to cause such material to interfere in any way with such drainage.
+(3)
+Unauthorized storage. Any accumulation of refuse or trash items on any lot, property, premises, public streets, alley or other public or private place not permitted by this division is hereby declared to be a public nuisance. Failure of owner or occupant to remove and correct any such accumulation of refuse after appropriate notice from the director shall arise the presumption that such person intended to violate this division.
+(4)
+Junk. It shall be unlawful for any person to take or leave outside any building or dwelling any dilapidated furniture, appliance, machinery, equipment, building material, junked motor vehicle, or other items which is not completely enclosed within a building or dwelling. Any such item or items which remain on the property of the occupant for a period of 30 days after notice of violation of this division, shall be presumed to be abandoned and subject to being removed from the property by the county without further notice. The county may charge the owner or occupant a fee for the cost of removing said items. This section shall not apply to licensed junk dealers or currently licensed establishments engaged in the repair, rebuilding, reconditioning, or salvaging of equipment.
+(5)
+Appliances. It shall be unlawful for any person to leave outside any building in a place accessible to children any appliance, refrigerator, or other container which has an airtight snap lock or similar device without first removing therefrom the lock or door. This section shall not apply to any appliance, refrigerator or container which has been placed on or adjacent to the rear of the building and which has been crated, strapped or locked so that it will be impossible for a child to obtain access to any compartment thereof.
+(6)
+Scavenging. No person shall disturb or interfere with any dumpster container used for the purpose of storing refuse pending its collection, or remove any contents therefrom.
+(7)
+Scattering of refuse and littering prohibited. It shall be unlawful for any person to:
+a.
+Throw or deposit any refuse on any public or private street or to scatter such refuse or litter on any public or private property.
+b.
+Throw or deposit any refuse trash, or debris in any marsh area, stream, drainage ditch, body of water or beach area.
+(8)
+Use of streets. It shall be unlawful for any vehicle transporting loose materials on any county road to transport same without suitable covers securely fastened to the vehicle. This section shall not apply to the transportation of poultry, livestock, silage or other feed grain used in the feeding of poultry or livestock.
+No person shall willfully damage a container, or alter the location of a container without consent of the board of county commissioners or the director.
+(Res. of 11-8-1977, §§ I(6), (7), II(8); Ord. of 6-13-1989, § 16-7-57)
+Sec. 34-91. - Same—Handbills and advertising matter.
+In addition to the activities declared to be in violation of this division as set forth hereinabove, the following activities are hereby declared to be unlawful and shall constitute a violation of this division:
+(1)
+It shall be unlawful to place in or on any vehicle in the county any commercially oriented handbill, circular, pamphlet, poster, or other literature except with the express permission of the owner or the occupant of such automobile.
+(2)
+It shall be unlawful for any person to place on any private property any handbill, circular, pamphlet, poster, postcard, bulletin, newspaper or other literature, whether single page or multi-page, unless said literature is placed in a secure area of a building (such as a door jam, screen door, etc.) or attached to a building or structure by means which will not alter or damage the building or structure (such as hanging literature from a doorknob, placing literature in a container to hang from a doorknob, etc.). This section shall not apply to United States Postal Service deliveries (which are made to containers erected for the purpose of containment). Subscription newspaper (newspapers which are delivered under contract with the owner or occupant) shall be exempt as long as they are placed on private property in such a manner as to prevent their being carried or deposited by the elements upon any street, sidewalk, or other public place or upon other private property.
+(3)
+It shall be unlawful for any person to place on any private property any handbill, circular, pamphlet, poster, postcard, bulletin, newspaper or other literature, whether single-page or multi-page, after the owner or inhabitant of the property has, either through direct communication with the publisher or distributor of the literature, or through posted and reasonably visible notice on the property, made known that any such delivery is prohibited.
+(4)
+It shall be unlawful for any person to tack, post or nail any paper, metal, wood, or other signs of character on trees, on any telegraph, telephone or electric light pole, located in any public right-of-way.
+(Ord. of 6-13-1989, § 16-7-58)
+Sec. 34-92. - Temporary signs.
+The county commission or superintendent is authorized to issue permits for the erection and maintenance of temporary signs for a period not to exceed 30 days (except as provided for political signs), at the expiration of which period the permittee shall remove such temporary signs. The commission may levee fines for failure to comply with this division. Such signs include, but are not limited to:
+(1)
+Business signs calling attention to a special, unique, or limited activity, service, product or sale of limited duration.
+(2)
+Signs advertising political candidates or parties, provided that such signs may not be erected or maintained more than 30 days prior to the next election to which such signs are applicable and shall be removed within ten days following such election.
+(3)
+Signs giving notice of events and activities sponsored by civic, patriotic, or religious organizations for noncommercial purposes.
+(Ord. of 6-13-1989, § 16-7-59)
+Sec. 34-93. - Special refuse and wastes.
+(a)
+Industrial waste. Any entity producing hazardous waste shall be required to register annually with the county health department. Industrial waste shall be collected, removed and disposed of by any factory, plant or enterprise creating or causing said waste, shall be disposed of according to county health department and environmental protection agency standards.
+(b)
+Hazardous refuse. No hazardous refuse shall be placed in any dumpster used for collection of refuse by the county. Any industry producing or creating hazardous waste shall coordinate disposal of such waste with industrial waste management.
+(c)
+Dead animals. Small dead animals will be accepted by the county during operating hours of the county landfill provided the body is appropriately wrapped. Owners of large dead animals shall be responsible for their removal and disposal.
+(d)
+Building materials. The county shall not be responsible for collecting or hauling of building material originating from private property preliminary to, during or subsequent to the construction of new building, alterations or additions to an existing building of whatever type or from demolition of existing structures. Such material shall be removed by the owner of the property or by the contractor.
+(e)
+Hazardous or liquid waste. Hazardous or liquid waste or highly combustible industrial waste shall not be disposed of in the county landfill.
+(Res. of 11-8-1987, § II(5); Ord. of 6-13-1989, § 16-7-62)
+Sec. 34-94. - Disposal fees.
+The board of county commissioners shall from time to time establish disposal fees at the landfill by resolution of the county commission. Disposal fees shall not apply to solid waste, yard debris or construction and demolition debris brought to the landfill by county residents. The fees shall apply to anyone or business engaging in solid waste related commercial activities.
+(1)
+No solid waste shall be accepted from outside of the county.
+(2)
+In the event that a commercial entity is utilized for the abatement of a nuisance where the code enforcement officer has issued a citation, the county manager may waive the disposal fee if the cost is deemed a hardship for the abatement of said nuisance.
+(Ord. of 5-8-2012, § 34-115)
+Editor's note— An ordinance adopted May 8, 2012, amended the Code by adding provisions designated as § 34-115. Inasmuch as there were already provisions so designated, the provisions have been redesignated as § 34-94 at the discretion of the editor.
+Secs. 34-95—34-114. - Reserved.
+DIVISION 4. - COMMERCIAL ESTABLISHMENTS
+
+Sec. 34-115. - Use of bulk containers.
+(a)
+All commercial establishments and non-exempted multifamily dwelling projects shall use bulk containers for the collection and storage of household refuse.
+(b)
+The bulk containers shall be installed so as to eliminate wind-driven debris and unsightly litter in and about premises. Any spillage or overflow shall be immediately cleaned up by said establishment.
+(Ord. of 6-13-1989, § 16-7-63)
+Sec. 34-116. - Loading and unloading areas.
+All loading and unloading areas shall be provided with refuse receptacles for loose debris, paper, packaging materials and other trash. The owner or occupant of the commercial establishment or multifamily project shall place a sufficient number of containers in said area to maintain a clean, neat and sanitary condition at all times. The number of such containers to be placed in service for a particular establishment or multifamily project shall be set by the director. The occupant of the premises shall maintain surveillance to ensure that all litter is placed in the proper container and the area is kept clean. If the occupant violates this section, collection service may be suspended by the county superintendent until such time as the owner or occupant of the premises bring said premises into full compliance with the provisions of this division.
+(Ord. of 6-13-1989, § 16-7-64)
+Sec. 34-117. - Parking lots.
+(a)
+All parking lots and establishments with parking lots shall provide refuse receptacles within the parking area. The director shall have the authority to determine the number and type of receptacles necessary to provide proper containerization. Such receptacles shall be weighted or attached to the ground as necessary to prevent spillage. It shall be the responsibility of the owner or his agent to collect the refuse and trash deposited in such containers and store this material in a location until collected by the county.
+(b)
+It shall be the obligation of all persons using the parking areas to place any litter in receptacles or containers, and it shall be unlawful for any person to dump, scatter, or throw on any parking lot, any refuse, garbage, of trash of any kind.
+(Ord. of 6-13-1989, § 16-7-65)
+Sec. 34-118. - Construction and demolition sites.
+All construction and demolition contractors shall remove all loose debris, paper, building material waste, scrap building materials, and other trash produced by those working at the construction site. The site shall be kept in a litter-free condition. Dirt, mud, construction materials, or other debris upon any public or private property belonging to a person other than the owner of the construction site shall be removed by the contractor upon completion of the construction.
+(Ord. of 6-13-1989, § 16-7-66)
+Secs. 34-119—34-149. - Reserved.
+DIVISION 5. - DISPOSAL SITES
+
+Sec. 34-150. - Use authorized; regulations.
+All household trash and other acceptable refuse shall be delivered and deposited at authorized public disposal sites in accordance with the directions and orders of the director or his representative in charge of operations except; however, privately operated sites may be used for the sanitary disposal of industrial wastes or other specified waste upon the approval of the director and upon the issuance of appropriate disposal permits, as required by the regulations of the state department of natural resources and/or the federal environmental agency.
+(Ord. of 6-13-1989, § 16-7-67)
+Sec. 34-151. - Designation of sites.
+(a)
+Public sites approved for the disposal of refuse shall be established by resolution of the board of commissioners, and identified by appropriate directional signs posted near the roadside at the location of the county landfill.
+(b)
+Such sites shall be maintained in use until permanently closed, at which time additional authorized sites shall be opened and publicized by posting and through public advertisements.
+(c)
+The county board of commissioners may restrict certain sites or portions thereof to specific types of refuse.
+(d)
+Commercial collectors, including yard maintenance men, may use the public-designated sites.
+(e)
+Residents of the county, other than commercial collectors, may use public sites without charge, in accordance with the regulations for the particular site and under the instruction of the site attendant.
+(f)
+No refuse generated outside the county will be accepted at any disposal site.
+(Ord. of 6-13-1989, § 16-7-68)
+Sec. 34-152. - Operating schedule.
+Authorized public disposal sites shall be operated during the hours designated by the director. Acceptable refuse generated in the county shall be received for disposal from any resident of the county.
+(Ord. of 6-13-1989, § 16-7-69)
+Sec. 34-153. - When use authorized; deposited material becomes property of county.
+No person shall enter a disposal site except during the hours and days prescribed in this division. All materials delivered and deposited in a disposal site shall immediately become the property of the county.
+(Ord. of 6-13-1989, § 16-7-70)
+Sec. 34-154. - Scavenging prohibited.
+No person shall be permitted to scavenge or reclaim any refuse which has been delivered to a public disposal site for disposal.
+(Ord. of 6-13-1989, § 16-7-71)
+Sec. 34-155. - Certain types of refuse accepted for disposal or recycling.
+(a)
+Domestic refuse shall be accepted for disposal at the county landfill.
+(b)
+Industrial waste and hazardous waste shall not be accepted for disposal at the county landfill.
+(c)
+Building materials may be accepted for disposal at the county landfill upon such terms and conditions as may be determined by the board of commissioners.
+(d)
+Materials for recycling shall be separated for storage at each disposal site.
+(Ord. of 6-13-1989, § 16-7-72)
+Sec. 34-156. - Private disposal sites—Permit required.
+It shall be unlawful for any person to deposit or permit to be deposited on land under his ownership and control any refuse without first having obtained a disposal area permit as required by regulations of the state department of natural resources, the federal environment protection agency and the county board of commissioners.
+(Ord. of 6-13-1989, § 16-7-73)
+Sec. 34-157. - Same—General maintenance.
+It shall be the duty and responsibility of the owner of any private disposal site to keep the site in an orderly condition and maintained so as not to be a public nuisance or a menace to public health.
+(Ord. of 6-13-1989, § 16-7-74)
+Sec. 34-158. - Same—Superintendent's right to enter to inspect.
+The superintendent or his designated representative shall have the right to enter a private disposal site at any time during normal business hours for the purpose of inspecting the site to determine whether or not the site is in compliance with this division and all other pertinent laws and regulations of the county.
+(Ord. of 6-13-1989, § 16-7-75)
+Sec. 34-159. - Burning prohibited.
+(a)
+No person shall set fire to, or burn any papers or other refuse deposited at any disposal site or on the grounds thereof, within the county.
+(b)
+No garbage or other materials, from which offensive odors emanate during combustion shall be burned outside of any building, within the county.
+(Ord. of 6-13-1989, § 16-7-76)
+Secs. 34-160—34-185. - Reserved.
+ARTICLE III. - HAZARDOUS WASTES
+
+Sec. 34-186. - Title.
+This article shall also be known as the "McIntosh County Private Solid Waste, Biomedical and Hazardous Waste Ordinance."
+(Res. of 9-8-1992, § I)
+Sec. 34-187. - Purpose.
+The purpose of this article is to:
+(1)
+Regulate the importation, for disposal purposes, of biomedical and hazardous waste and private solid waste into the county, in a manner so as to protect the public health, safety and welfare and to preserve the environmental resources of the county and to conserve the county landfill capabilities.
+(2)
+Regulate the location, operation and management of treatment facilities dealing with the storage, transfer, treatment or disposal of biomedical, hazardous waste and private solid waste.
+(3)
+Regulate the disposal of private solid waste, biomedical and hazardous wastes that require special handling, and those produced within the county, in order to protect the public health, safety and welfare of the citizens of the county.
+(4)
+Stipulate permits that are required and how to apply for such permits.
+(Res. of 9-8-1992, § II)
+Sec. 34-188. - Definitions.
+Words and phrases used in this article shall have the following meanings, unless otherwise specified:
+Autoclave means a controlled process by which solid, liquid and gaseous wastes are sterilized, leaving a residue that is considered sterile.
+Autoclaving facility means all devices, combined at one single location under one ownership, intended or used for the autoclaving and sterilization of solid, liquid or gaseous wastes.
+Biomedical waste means and includes the following:
+(1)
+Pathological waste, which means all recognizable human tissues and body parts which are removed during surgery, obstetrical procedures, autopsy, and laboratory procedures.
+(2)
+Biological waste, which means bulk blood and blood products, exudates, secretions, suctionings, and other bulk body fluids which cannot be or are not directly discarded into a municipal sewer system.
+(3)
+Cultures and stocks of infectious agents and associated biologicals including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories, wastes from the production of biologicals, discarded live and attenuated vaccines, and culture dishes and devices used to transfer, inoculate, and mix cultures.
+(4)
+Contaminated animal carcasses, body parts, their bedding, and other wastes from such animals that have been exposed to infectious agents, capable of causing disease in man, including but not limited to those produced during research, production of biologicals, or testing of pharmaceuticals.
+(5)
+Sharps, which means any discarded article that may cause punctures or cuts. Such waste includes, but is not limited to, items such as needles, IV tubing and syringes and needles attached, and scalpel blades.
+(6)
+Chemotherapy waste, which means any disposable material that has come in contact with cytotoxic/antineoplastic agents (agents toxic to cells) and/or antineoplastic agents (agents that inhibit or prevent the growth and spread of tumors or malignant cells) during the preparation, handling, and administration of such agents. Such waste includes, but is not limited to, masks, gloves, gowns, empty IV tubing bags and vials, and other contaminated materials. The waste in this subsection must first be classified as empty which means such quantity that it is not subject to other federal or state waste management regulations prior to being handled as biomedical waste.
+(7)
+Discarded medical equipment and parts, not including expendable supplies and materials which have not been decontaminated, that were in contact with infectious agents.
+Biomedical waste treatment facility means any property or facility that is intended for, or used for, storage, treatment or disposal of biomedical waste.
+Decontamination means the removal of contamination from biomedical waste during the microwaving process.
+Environmental quality board (EQB) means a board of five citizens, not serving on the zoning board, appointed by the county commission to assist in the administration of this article.
+Hazardous waste means and include any waste containing any substance listed as a hazardous constituent in regulations promulgated pursuant to the federal act by the administrator of the United States Environmental Protection Agency which are in force and effect on February 1, 1990, codified as appendix VIII to 40 CFR 261, Identification and Listing of Hazardous Waste.
+Hazardous waste treatment facility means any property or facility that is intended for, or used for, storage, treatment, or disposal of hazardous waste.
+Incineration means a controlled process by which solid, liquid and gaseous combustible wastes are burned and changed into gases and a residue produced which is relatively free of combustible materials.
+Incineration facility means the combined incinerators under one ownership at a single location.
+Incinerator means all devices intended or used for the reduction or destruction of solid, liquid or gaseous wastes by burning.
+Incinerator ash means the residue remaining after the incineration of solid waste.
+Microwave facility means all devices, combined at a single location under one ownership, intended or used for the reduction or decontamination of solid, liquid or gaseous wastes by microwaving.
+Microwaving means a process using microwave technology by means of which solid, liquid and gaseous wastes are microwaved, and disinfected.
+Operator means the person having direct supervision of daily field operations of a private landfill, or a private solid waste or a biomedical or hazardous waste treatment facility to ensure that the site operates in compliance with the permit.
+Person means the state or any other state or any agency or institution thereof, and any municipality, political subdivision, public or private corporation, special district empowered to engage in solid waste management activities, individual, partnership association or other entity in this state or any other state. The term "person" also includes any officer or governing or managing body of any municipality, political subdivision, special district empowered in solid waste activities, or public or private corporation in the state or any other state. The term "person" also includes employees, departments, and agencies of the federal government.
+Principal use autoclaving facility means a medical autoclaving facility used to treat biomedical wastes prior to disposal in a landfill.
+Principal use incinerator facility means an incinerator at a single location where the incineration process is the primary business and where the facility has the total capacity of burning greater than 250 pounds per hour.
+Principal use microwave facility means a microwave facility used to treat biomedical or other waste prior to disposal in a landfill.
+Private solid waste means solid waste not intended for disposal in the county landfill and not under the direct control of the county commission.
+Sterilization means the destruction of living germs, especially bacilli and/or bacteria and/or microbes, from biomedical waste during the autoclaving process.
+Treatment means any method, technique, or process, including neutralization and incineration, designed to change the physical, chemical, or biological character or composition of any solid, hazardous or biomedical waste so as to neutralize such waste or so as to render such waste nonhazardous, safe for transport, amenable for recovery, amenable for storage, or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of hazardous waste so as to render it nonhazardous.
+(Res. of 9-8-1992, § III)
+Sec. 34-189. - Enforcement and penalties.
+(a)
+No building permit shall be issued for construction of a principal use private solid waste, biomedical or hazardous waste treatment facility or private landfill unless the property owner shall have fully complied with the terms of this article. A landowner shall comply with the terms hereof in order to obtain a permissive use permit in the county. Any person, firm or corporation seeking permission to transport waste into the county shall be required to produce documentary evidence that all waste to be treated will be disposed of at a facility meeting the terms of this article.
+(b)
+Any violation of this article shall be punishable as a misdemeanor. In addition, any facility operated in violation hereof shall subject its owner to a fine of $1,000.00 per day for each day of illegal operation, or imprisonment not exceeding 12 months, or both. Each day a violation of this article shall continue shall constitute a separate offense. Any person, firm or corporation that shall violate the provisions of this article shall on conviction be punished according to the general penalties described in section 1-9. In addition thereto the county commission shall be authorized to seek injunctive relief to restrain further transportation of imported waste into the county by any person, firm or corporation that shall violate the provisions of this article. Provided further that any owner or operator of a solid waste landfill, or a putrescible waste landfill, or an incinerator or microwave facility who shall knowingly accept imported waste from any person, firm or corporation not properly permitted under the requirements of this article shall be subject to punishment under this section, including but not limited to the revocation of the violators permit and/or license.
+(Res. of 9-8-1992, § XVII)
+Sec. 34-190. - Permits required.
+(a)
+Owners and operators of private solid waste, biomedical and/or hazardous waste treatment facilities shall be permitted as required by the rules and regulations of the state department of natural resources. Any violation of the conditions of the state department of natural resources permit shall also be a violation of the conditions of any the county permit.
+(b)
+No person shall import private solid waste, biomedical and/or hazardous waste into the county without having a valid permit issued by the county commission.
+(c)
+No person shall engage in the operation of a biomedical and/or hazardous waste treatment facility and no person shall construct or operate solid waste, biomedical and/or hazardous waste treatment facilities without having a valid permit issued by the county commission pursuant to these regulations.
+(Res. of 9-8-1992, § IV)
+Sec. 34-191. - Application—Requirements.
+(a)
+A permit applicant shall prepare and file a permit application with the county commission. The permit application shall include all related documents submitted to the United States government and to the state.
+(b)
+The county commission shall have, and may exercise, the authority to refuse to grant such permit if it finds by clear and convincing evidence that the applicant for a permit or, in the case of a corporation, partnership, or association:
+(1)
+Has intentionally misrepresented or concealed any material fact in the application submitted to the county commission;
+(2)
+Has obtained, or attempted to obtain, the permit by misrepresentation or concealment;
+(3)
+Has been convicted by final judgment, and all appeals have been exhausted, in the state or any federal court of any felony involving moral turpitude within the three years immediately preceding the application for a permit;
+(4)
+Has been convicted of any violations of any environmental laws punishable as a felony in any state or federal court within the last five years preceding the application for a permit;
+(5)
+Has knowingly, willfully, and consistently violated the prohibitions specified in O.C.G.A. § 12-8-30.7; or
+(6)
+Has been adjudicated in contempt of any court order enforcing any federal environmental laws of the state within the five years preceding the application for a permit.
+(c)
+An application shall contain the following information:
+(1)
+A description of the company, information on its financial capability, and a detailed history of all its past activities in the field of waste treatment, including a synopsis of every other facility it has operated, and including a detailed account of all past and pending litigation, favorable and unfavorable. Include the record of any subsidiary or parent corporation having an interest greater than five percent of the outstanding shares of the applicant corporation. Also include a list of all past and present litigation, favorable and unfavorable, involving the subsidiary or parent corporation or any officers of the corporation when with this or any other corporation operating in the waste treatment or disposal field. Also include a statement about any felony committed at any time by officers of the corporation.
+(2)
+Evidence of liability insurance in the amount of $1,000,000.00 for sudden and $10,000,000.00 for non-sudden coverage. Evidence of $10,000,000.00 liability insurance to run for five years subsequent to closure to cover post-closure costs. Also provide a history of any claims against the company at any site, including the record of any subsidiary or parent corporation or officers as defined in section 34-188.
+(3)
+Justification for and anticipated benefits from the project.
+(4)
+A description of the scope of the proposed project, including an estimated schedule of how much and what kinds of waste the facility would accept, where the material would come from, what pretreatment will be required of wastes unacceptable to the facility without such pretreatment, and how long the facility is expected to operate.
+(5)
+Yearly site operation expenses and an estimate of the costs for the lifetime of the project.
+(6)
+The proposed method of financing the project, including development, operation and closure stages. Include a list of the financial institution names that will be responsible for funding the construction.
+(7)
+Provide resumes of management personnel and the proposed number of employees and types of positions, including information on their background, the training and experience required for each position, and safety precautions undertaken for the protection of personnel.
+(8)
+The anticipated date to begin construction.
+(9)
+The anticipated date to begin operation.
+(10)
+A detailed estimate of the type and amount of local government services required by the operator in each year.
+(11)
+A description of emergency procedures and safety and security precautions that will be in use at the facility. This information should include details on emergency assistance and emergency medical treatment that will be required from the area's medical facilities, the county emergency medical service and community fire departments.
+(12)
+A description of the environmental protection measures to be taken by the applicant to prevent contamination in and around the facility site and the description of planned monitoring systems, with an estimated annual budget for each of these items.
+(13)
+A description of the environmental protection measures to be used during transportation of materials to and from the facility, with an estimated annual budget for these arrangements and an estimate of the volume of material to be transported during each year of operation.
+(14)
+A description of the site closure plan for the facility and the anticipated date of closure.
+(15)
+A description of anticipated need for post-closure care.
+(d)
+A map or other written material attached to the application shall include but not be limited to the following information:
+(1)
+Ownership.
+a.
+Name, address and telephone number of legal owners and/or agents of the subject property.
+b.
+Name, address and telephone number of professional persons responsible for plat of survey.
+c.
+Description of any existing rights-of-way or easements affecting the property.
+d.
+Reference to any existing restrictive covenants on the property.
+(2)
+Description. Location of property tax map and parcel number. This description should include a reference to the deed book and page or other evidence of title the current property owners may have.
+(3)
+Features. Each map shall contain the following information:
+a.
+Drawn to scale of not less than 200 feet to the inch.
+b.
+Location sketch map showing relationship of the project to the surrounding area.
+c.
+Graphic scale, date, north arrow, and legend.
+d.
+Location of property with respect to surrounding property and roads, and the names and addresses of adjacent property owners according to county tax records.
+e.
+Zoning classification of proposed project and adjacent property.
+f.
+The location of all boundary lines of the property.
+g.
+The total acreage of land in the project.
+h.
+The location of existing and/or platted streets, easements, buildings, railroads, cemeteries, bridges, sewers, water mains, culverts, wells and gas and electric transmission lines.
+i.
+The location of water bodies, water courses, groundwater aquifers, springs and other pertinent features.
+j.
+The location, dimensions and acreage of all property proposed to be set aside for various uses on the applicant's property.
+k.
+The location of all existing and proposed test wells and/or borings.
+l.
+The location of the 500-year and 100-year floodplain, and records of flood, including inundation due to dam break or hurricane.
+m.
+The location of historic properties and gravesites including any plans of relocation of graves and properties having historical significance.
+(4)
+Geological map. A map showing location of faults, dikes, sills and other pertinent geologic features including bedrock type and strike and dip of any mappable bedding; the depth and degree of weathering (saprolite); identification and location of clay as to thickness, type and permeability; and location of the water table as to approximate depth, gradient and surface configuration.
+(5)
+Topographic map. A topographic map with contours at vertical intervals of not more than five feet at the same scale as the project site map shall be included. Date, method of preparation and preparer of said survey shall be stated.
+(6)
+Transportation route map. A map showing proposed transportation routes to and from the facility site, including location of towns and emergency and safety facilities. Include an estimate of the volume of material to travel on each route.
+(e)
+The application shall address the following factors with regard to, but not limited to, on-site storage and/or disposal:
+(1)
+Contaminant flow to water table including leachate monitoring, collecting and withdrawal systems; clay and synthetic liners (extra thickness, multiple liners); spill prevention and containment measures.
+(2)
+Contaminant movement with groundwater, including groundwater monitoring systems at the site and in potentially affected area; subsurface "slurry wall" barriers' control and other groundwater withdrawals in the area.
+(3)
+Predictability of contaminant movement, based on preconstructed borings and groundwater modeling.
+(4)
+Potential effect on surface waters; planned collection systems for surface water run-off; planned exclusion systems for surface water run-on.
+(5)
+Potential effect on aquifers; planned provisions for alternate water supply systems and facilities for immediate pumping and treatment of contaminated water.
+(6)
+Potential effect on public water supply; planned run-off collection and treatment and provisions for alternate supply systems and water recycling.
+(7)
+Possibility of site flooding; planned special facility design, special control dikes, and buffer zone setback in a standard project flood area.
+(8)
+Possibility of hurricane damage; planned special facility design, special contaminant control systems and provisions for hurricane wind and rain damage.
+(9)
+Potential human exposure to incinerator ash and treated waste water, including planned safety procedures, clothing, instruction, and practice for employees; planned oversized or redundant treatment capacity, effluent monitoring and automatic shutdown systems.
+(10)
+With respect to incineration, autoclaving and/or microwaving, the nature and predictability of pollution movement, including planned stack height for any incinerators or microwave facilities with continuous stack monitoring and recording, until emission levels are predictable.
+(f)
+In addition to the requirements of this section, application for principal use biomedical and hazardous waste treatment facilities shall show the ability to comply with each provision of sections 34-195 and 34-196.
+(Res. of 9-8-1992, § V)
+Sec. 34-192. - Same—Fees.
+(a)
+The county commission, shall require a permit application fee to reimburse the county for the costs of any needed professional assistance that may be required to evaluate the permit application and amendments, verify its contents and evaluate the impact of such a permit on the community, public health and environment. This assistance may include, but shall not be limited to, the assistance of lawyers, biologists, geologists, engineers, chemists, hydrologists, emergency response, transportation and public health experts, land appraisers and professional testing laboratories. Funds not so expended in the legitimate review of the permit application shall be returned to the applicant. This fee shall be established by resolution of the board of commissioners from time to time, and available for public examination in the office of the county clerk.
+(b)
+Failure to provide these funds within 30 days of demand thereof shall result in termination of the permit process or cancellation of the permit. The county commission may take legal action against the applicant for any costs incurred to the county up to the point of termination.
+(Res. of 9-8-1992, § VI)
+Sec. 34-193. - Same—Procedure.
+(a)
+The permit applicant shall submit to the county commission 12 copies of all information required by federal and state agencies for the facility for which it requests a county permit at the time such information is submitted to the state and federal government. The review procedure shall not begin nor shall the application be designated as complete until such time as all required data are submitted and the appropriate fees are paid, or suitable arrangements for payment have been approved by the county commission.
+(b)
+A designee of the county commission shall compile copies of all reports, applications, minutes of the EQB meetings, reports by consultants and similar materials. These shall be placed in one location with free access by the public and availability of copying any portion of all of any document at cost.
+(c)
+Within 45 days of the submission of the application, the county commission shall set a time for a public hearing so that the applicant can present its plans to the EQB and answer questions regarding the same.
+(d)
+After consultation with the EQB at the conclusion of the hearing, the county commission, shall have 60 days in which to determine if the application is complete and shall mail notice of its determination to the applicant. If it is not complete, the applicant will have six months to complete the application. However, the applicant may at the end of six months make a showing of cause to the county commission, and if the county commission finds that the delay is justified and in good faith, they can grant the applicant a maximum three-month extension.
+(e)
+Each application shall require an analysis conducted by the county staff and consultants selected by the county commission upon the recommendation of the EQB. The analysis shall be completed within 90 days from the day the application is determined to be complete. In certain instances where the complexity of the application requires more than the usual 90 days, the county staff and/or consultant may request an additional 60 days from the county commission and the proponent has the option of requesting the county commission to extend the analysis period to allow time for responding to staff and/or consultant request for additional information on a completed application. In the event the integrated long-range solid waste management plan referred to in subsection (h)(6) of this section shall not be completed by the end of the analysis period, the consultant or staff may request an additional 90 days to allow for the completion of the plan.
+(f)
+The county staff and each consultant shall make reports on the application to the EQB at their meetings.
+(g)
+The EQB shall call a public meeting for public comment on the completed application along with the analysis of county staff and consultants. The purpose of this meeting shall be for public review of the application. The staff shall give notice by regular mail of the time and place of the public meeting to the owner and adjacent property owners as specified on the map. Said notice shall be mailed not less than 14 days prior to the date specified thereon. Notice of a public meeting shall be posted by the applicant on the proposed facility property on each and every street of access not less than 14 days prior to the date specified thereon. Said posted notice shall be at intervals of not greater than 1,500 feet. Notice shall also be placed by the applicant in the county newspaper not less than 14 days prior to the dates specified thereon.
+(h)
+Within 45 days after receipt of the final analysis of the complete application and public comment, the EQB shall make a recommendation to the county commission at a public meeting whether to accept the application, deny it, or accept it with modifications. Before making a recommendation to the county commissioners to accept the proposal or accept it with modifications, the EQB shall make the following determinations:
+(1)
+That there is a bona fide need for the facility and there is no reasonable alternative facility which will pose a lesser threat to the environment.
+(2)
+That the construction and operation of the facility will not pose an unreasonable health or environmental risk to the surrounding locality.
+(3)
+That the applicant or facility operator has the capability, and financial resources, to construct, operate and maintain the facility.
+(4)
+That the applicant or operator has taken or consented in writing to take any and all reasonable measures to comply with the applicable federal, state and local regulations and ordinances.
+(5)
+That the applicant's plan represents the best available technology for handling the waste for which the applicant has demonstrated that it will employ the best management practices in handling the waste at the proposed facility.
+(6)
+That the waste treatment facility is compatible with an integrated long-range solid waste management plan, taking into account alternative methods of management such as recycling.
+(7)
+That the applicant has a valid contract with the operator of a state licensed landfill for the disposal of the projected ash production of the incineration facility or residues from other methods of biomedical and hazardous waste treatment for a three-year period.
+(i)
+At its next scheduled meeting, the county commission shall make its decision to grant the permit, deny it, or grant it with specified conditions.
+(j)
+A permit shall be valid for no more than 24 months from the date it is granted by the county commission unless the applicant begins construction of the facility prior to the expiration of the permit and continues to operate the facility according to specified conditions, without assigning its granted permit to any other party.
+(Res. of 9-8-1992, § VII)
+Sec. 34-194. - Control of emissions.
+Emissions from all principal use incinerator facilities and all biomedical waste incinerator and microwave facilities shall not cause ambient pollution concentrations to exceed levels defined in Guidelines for Ambient Impact Assessment of Toxic Air Pollutants Emissions, issued by the state department of natural resources.
+(Res. of 9-8-1992, § VIII)
+Sec. 34-195. - Certification of operator.
+No person shall operate a principal use incinerator, microwave or autoclave facility unless such individual who operates or maintains the facility obtains a certificate of training in biomedical waste treatment or other applicable certificate issued by the American Society of Mechanical Engineers within nine months of the commencement of the training program. Copies of the training certificates for the operators and maintenance engineers shall be submitted to the EQB and shall be available for inspection at the facility along with the permit to operate.
+(Res. of 9-8-1992, § IX)
+Sec. 34-196. - Special procedures for transportation and handling of biomedical waste.
+modified
+No biomedical waste shall, for purposes of disposal in the county, be transported into the county or from place to place within the county except under the following conditions:
+(1)
+All transports shall be in refrigerated trucks maintaining a temperature of not more than 40 degrees Fahrenheit.
+(2)
+All trucks transporting medical waste shall be used exclusively for the transport of medical waste and each truck shall have placed upon it at a prominent location a sign reading as follows: "Medical Waste Only - Not for Transportation of Other Materials." Such sign shall be in bright yellow letters readily discernable from a distance of 100 feet.
+(3)
+All biomedical waste shall be transported in leak-proof, puncture-proof boxes of the following specifications:
+a.
+Die cut body with lid attached.
+b.
+Black sheet size of 62⅞-inch by 74⅛-inch finished product size with inside dimensions of 18 inches by 18 inches by 23 inches.
+c.
+Board of 400 double-wall B/C flute, board combination 69/40/69/40/69 wet strength medium or stronger, water proof adhesive.
+d.
+Board to be curtain coated with wax on both sides.
+e.
+All mediums to be wax impregnated.
+f.
+Box must have leak-proof corners.
+g.
+Box will be self-locking, outer liner of box to be oyster white linerboard.
+h.
+Box to be printed four panels, one color.
+i.
+Print to include appropriate information on the contents and handling of the material contained in carton.
+j.
+The liner requirements for the carton in this subsection are as follows:
+1.
+Blank size of 39 13/16 inches by 74⅝ inches.
+2.
+No joint scored sheet to fit the carton to further ensure that it is leak-proof.
+3.
+Board to be 400 double-wall B/C flute, board combination 69/40/69/40/69 wet strength medium or stronger, waterproof adhesive.
+4.
+Board to be curtain coated with wax on both sides.
+5.
+All mediums to be wax impregnated.
+(4)
+No biomedical waste shall be transported for purposes of disposal into the county, in plastic bags having colorants which contain cadmium, arsenic, mercury, antimony, lead or selenium. The EQB may require random samplings of plastic bag material from any principal use biomedical treatment facility to assure compliance with this section. The EQB may also require any owner or operator of a principal use biomedical waste treatment facility to demonstrate that it has taken proper precautions and made proper arrangements with biomedical waste generators and handlers to ensure compliance with this section.
+(5)
+No principal use biomedical waste treatment facility may be operated in the county, unless provisions have been made for storage of the waste in refrigerated facilities in accordance with state regulations. Such refrigerated storage facilities shall be served with a backup system of power generation preventing interruption by reason of electrical failure. The applicant shall show by calculation that adequate refrigerated space is provided for at least five days volume of medical waste at the average rate of delivery.
+(6)
+No principal use biomedical waste incinerator facility shall be operated in the county, unless the facility shall have in operation a screening device which automatically removes unburned particles or globules of a size of two centimeters or more and returns them to the incineration process.
+(7)
+Each owner or operator of a principal use biomedical treatment facility in the county shall, at such time as may be determined by the EQB, at least two times per year, obtain from an EQB-approved engineering firm, a putrescible matter determination test of the incinerator ash or autoclave or microwave residues, in accordance with method "A" prescribed by the American Society of Mechanical Engineers Performance Test Codes, paragraph 7.3. The results of such testing shall be provided to EQB and should any test show that putrescible material is not being properly treated, the license for said facility shall be suspended until such time as the owner or operator thereof shall demonstrate to the EQB that appropriate corrective measures have been taken.
+(8)
+No principal use biomedical waste incinerator facility shall be operated in the county, unless the incinerator ash produced by the facility contains no more than six percent by dry weight of combustible material as demonstrated at regular quarterly intervals. The incinerator ash shall be sampled and tested according to standard methods published by the American Society of Mechanical Engineers (PTC33) and American Society of Testing Materials.
+(9)
+No biomedical waste incinerator facility operated in the county shall be allowed to accept imported biomedical waste unless such facility is presently equipped, or installs the necessary equipment before acceptance of such waste, to perform 24-hour monitoring of opacity and temperature. Opacity shall not exceed 20 percent on a continuous basis, but may be allowed five minutes per hour at 40 percent. Temperature in the secondary combustion chamber shall be maintained at a minimum of 1,800 degrees Fahrenheit and a minimum residence time of two seconds. The recording of opacity and temperature as monitored on a 24-hour basis shall be made available to the county clerk upon request. Any biomedical waste incinerator facility that fails to maintain the required opacity and temperature shall not be allowed to continue to accept imported biomedical waste until such time as the owner or operator thereof shall demonstrate to the county engineer that appropriate measures have been taken.
+(10)
+The transportation of biomedical waste between medical facilities under one ownership for disposal purposes shall be exempt from the provisions of section 34-195; provided that the total biomedical waste disposal by the owner of the facilities does not exceed 125 tons per year.
+(Res. of 9-8-1992, § X)
+Sec. 34-197. - Transportation permit.
+(a)
+No person shall transport, or cause to be transported, pursuant to contract whether oral or otherwise, imported private waste into the county for the purpose of disposing of such waste or in the case of biomedical or hazardous waste, for the purpose of incineration or microwaving and/or disposal, at a publicly or privately owned landfill and/or incinerator or microwave facility, unless a waste transportation permit is first obtained from the county commission. In the case of biomedical waste, the waste importation permit, if issued, shall be issued in the name of the medical facility responsible for the generation of such waste. The term "medical facility" includes, but is not limited to, ambulatory service centers, blood banks, clinics, county health departments, dental offices, funeral homes, health maintenance, organizations (HMOs), hospitals, laboratories, medical buildings, physicians offices, veterinary offices, research and manufacturing facilities, and nursing homes.
+(b)
+In addition to the payment of the application fee established in section 34-192, every applicant for a waste disposal importation permit must submit a sealed envelope containing the original and six copies of its application to the county commission clerk. All applications timely submitted will be presented to the county commission at a regularly scheduled meeting within 25 days of being received by the county commission; at which time the county commission will open the applications and publish the contents thereof.
+(1)
+Applications shall be made in writing, shall be signed by the applicant, and shall contain a sworn statement by the applicant that all the information in the application is true, complete and correct. The application shall set forth the following information:
+a.
+The applicant's full name, address, and telephone number.
+b.
+The total monthly tonnage of imported waste for which the permit is sought and in the case of biomedical waste, the total monthly poundage of the waste prior to incineration.
+c.
+All counties within which the imported waste will be generated and/or collected.
+d.
+A description of the imported waste.
+e.
+The landfill which the imported waste will be placed, and in the case of biomedical waste, the site of treatment and the location of the landfill.
+f.
+A description of each truck or other motor vehicle that may be used to transport the imported waste within the county, including the size, weight, load capacity, state of registration, motor vehicle tag number, and owner of each such truck or other motor vehicle.
+g.
+The proposed routes by which the imported waste will be transported within the county, and the number of times each such route will be traveled per month by the trucks or other motor vehicles transporting the imported waste.
+h.
+A description of the applicant's motor vehicle liability insurance, including the name of the insurance company, policy number, kinds of coverage, and policy limit for each kind of coverage. Liability limits for vehicles transporting biomedical waste shall be at least $3,000,000.00 per occurrence for death or bodily injury. Liability limits for other types of imported waste shall be at least $1,000,000.00 per occurrence for death or bodily injury.
+i.
+If the applicant is a corporation, its state of incorporation, date of incorporation, and the names and addresses of its officers, directors, and registered agent for service of process in the state.
+j.
+If the applicant is a partnership, the names and addresses of all general partners.
+(2)
+Every applicant for a waste importation permit shall have attached thereto the following:
+a.
+Written verification from the state department of natural resources, environmental protection division (EPD) that each landfill and, in the case of biomedical or hazardous waste, each treatment facility, into which the imported waste will be placed, is being operated in compliance with all conditions of a valid waste handling and/or treatment facility permit issued by EPD, a design and operation plan approved by EPD, the state comprehensive waste management act, and all other applicable laws.
+b.
+With respect to each landfill into which the imported waste will be placed, written verification from EPD that the proposed placement of imported waste into the landfill is within the scope of the operation allowed under the waste handling permit and design and operation plan for the landfill.
+c.
+With respect to each incinerator or microwave facility into which biomedical waste will be placed, written verification from EPD that the proposed treatment is within the scope of operation allowed by the applicable EPD permit.
+d.
+Written verification from EPD that the applicant has not been found by EPD to have been in violation of any state environmental statute, rule or regulation within the past ten years.
+e.
+A sworn statement by the applicant stating that the applicant, officer, etc., has never been convicted of a felony of any kind or of a misdemeanor involving moral turpitude.
+f.
+With respect to each county in the state within which the imported waste will be collected, and with respect to each state if the imported waste is collected outside the state, written verification from the governing authority of the county or state, as the case may be, that the applicant has obtained permission from such governing authority to transport the imported waste into the county.
+(3)
+Within 90 days after the presentment of an application by the county commission clerk to the county commission for a waste importation permit, the county commission shall hold a public hearing on the application. The county commission must publish notice of the application and of the date, time, location, and purpose of the public hearing in a newspaper of general circulation serving the county at least once per week for four weeks preceding the date of such hearing. One or more qualified representatives of the applicant must appear at the hearing, must make a complete copy of the application available for review by those in attendance, and must make every reasonable effort to provide information pertinent to the application that may be requested by the county commission and others in attendance. No action will be taken by the county commission on an application unless the requirements of this subsection have been satisfied.
+(4)
+At the next regularly scheduled meeting, the county commission shall make its decision to grant the permit, deny it, or grant it with specified conditions.
+(c)
+In determining what action to take on an application for a waste importation permit, the county commission will consider and balance all information presented by the citizens of the county and any additional information or factors deemed by the county commission to be relevant to its decision. With respect to every such application the county commission will consider, without limitation, the following:
+(1)
+Whether the proposed waste importation would consume landfill space that is needed for the disposal of waste generated and/or collected in the county.
+(2)
+Whether the proposed waste importation could adversely affect the health or general well-being of the people of the county.
+(3)
+Whether the proposed waste importation could diminish or degrade the quality of the county's air, soil, water, and other natural resources and environment.
+(4)
+Whether the proposed waste importation would conflict with the county's short-term or long-term land use plans.
+(5)
+Whether the proposed waste importation would conflict with any solid waste management plan or air quality control plan adopted by the county.
+(6)
+Whether the proposed waste importation would conflict with any statute, rule, regulation or other law, or with any court order, or with the condition of any solid waste handling permit, or applicable incineration or microwave permit, or with the approved design and operation plan for the landfill in which the imported waste would be disposed.
+(7)
+Whether the proposed waste importation would place an unreasonable, excessive, or disproportionate burden on the road maintenance and other public facilities provided by the county.
+(d)
+A waste importation permit may be revoked by the county commission for any good cause, that shall include, without limitation, a finding by the county commission that:
+(1)
+The holder of the permit, or any person acting on behalf of the holder, has violated the terms of the permit, including any of the rules and regulations set forth herein;
+(2)
+The holder, or any person acting on behalf of the holder, has violated any other waste handling permit or any environmental law;
+(3)
+The holder has failed to timely submit any report required herein;
+(4)
+The holder has failed to make timely payment in full of the monthly permit fee;
+(5)
+The holder has been convicted of a felony or of violation of any environmental or any other crime involving moral turpitude; or
+(6)
+The holder's permit application contained false information or omitted material information.
+(Res. of 9-8-1992, § XI)
+Sec. 34-198. - Special procedures for transportation and handling of hazardous waste.
+No hazardous waste shall, for purposes of disposal in the county, be transported into the county or from place to place within the county except under the following conditions:
+(1)
+All trucks transporting hazardous waste shall be used exclusively for the transport of hazardous waste and each truck shall have placed upon it, at a prominent location, a sign reading as follows: "Hazardous Waste Only - Not for Transportation of Other Material." Such sign shall be in bright letters readily discernable from a distance of 100 feet.
+(2)
+All hazardous waste shall be transported in leak-proof vehicles.
+(3)
+No principal use hazardous waste incinerator facility shall be operated in the county, unless the facility shall have in operation a screening device which automatically removes unburned particles or globules of a size of two centimeters or more and returns them to the incineration process.
+(4)
+No principal use hazardous waste incinerator facility shall be operated in the county, unless the incinerator ash produced by the facility contains no more than six percent by dry weight of combustible material as demonstrated at regular quarterly intervals. The incinerator ash shall be sampled and tested according to standard methods published by the American Society of Mechanical Engineers (PTC33) and American Society of Testing Materials.
+(5)
+No hazardous waste treatment facility may be operated in the county, unless provisions have been made for safe storage of the waste during natural disasters such as hurricanes or floods. Such storage facilities shall be served with a backup system of power generation preventing interruption by reason of electrical failure and the facilities shall be suitably constructed to prevent spillage, rupture or contamination of surroundings.
+(6)
+Each owner or operator of a principal use hazardous waste treatment facility in the county shall, at such time as may be determined by the EQB (at least quarterly), obtain from an EQB approved engineering firm, a toxic matter determination test of the treatment residue, in accordance with prescribed methods. Should any test show that toxic material is being released into the surroundings at prohibited levels, the license for said facility shall be suspended until such time as the owner or operator shall demonstrate to the EQB that appropriate corrective measures have been taken.
+(Res. of 9-8-1992, § XII)
+Sec. 34-199. - On-site monitoring.
+The county shall monitor the site continuously at the permittee's expense and a designated representative of the county commission shall be permitted to inspect any operation of the facility at any time.
+(Res. of 9-8-1992, § XIII)
+Sec. 34-200. - Hurricane precautions.
+Immediately on receipt of a hurricane alert all waste deliveries to the site shall be stopped and all waste not covered in a landfill shall be removed.
+(Res. of 9-8-1992, § XIV)
+Sec. 34-201. - Permit fees; monthly report.
+(a)
+The fees levied for permits issued under this article shall be established by resolution of the board of commissioners from time to time, and available for public examination in the office of the county clerk.
+(b)
+Each holder of a waste importation permit shall file with the county clerk a verified written report within ten days after the close of each month. That report shall identify:
+(1)
+By exact dates, the period covered by the report;
+(2)
+All counties and states from which the imported waste was collected during the reporting period; and
+(3)
+The total tonnage or poundage, as the case may be, of imported waste transported into the county during the reporting period.
+(Res. of 9-8-1992, § XV)
+Sec. 34-202. - Waivers.
+There shall be no waiver of any of the requirements of this article.
+(Res. of 9-8-1992, § XVI)

@@ -1,0 +1,224 @@
+Chapter 16 - SOLID WASTE MANAGEMENT[1]
+Footnotes:
+--- (1) ---
+Editor's note— An ordinance adopted June 13, 1994, set out a new Ch. 16 and repealed the previous Ch. 16, §§ 16-1—16-10, which pertained to similar subject matter and derived from Code 1967, §§ 11-32—11-3—11-42.
+Cross reference— Nuisances, Ch. 11; sewerage, Ch. 13.
+State Law reference— Authorization to provide garbage and solid waste collection and disposal, Ga. Const. art. 9, sec. 2, par. 3; Solid Waste Management Act, O.C.G.A. § 12-8-20 et seq.; hazardous waste disposal, O.C.G.A. § 12-8-61 et seq.; Litter Control Law, O.C.G.A. § 16-7-40; transporting garbage or waste across state or county boundaries pursuant to contract, O.C.G.A. § 36-1-16; Resource Recovery Development Authorities Law, O.C.G.A. § 36-63-1 et seq.; littering highways, O.C.G.A. § 40-6-249; wrecker driver required to remove glass and parts of vehicle being towed, O.C.G.A. § 40-6-277.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 16-1. - Short title.
+This chapter shall be known as the "West Point Solid Waste Management Ordinance."
+(Ord. of 6-13-94)
+Sec. 16-2. - Purpose.
+The purpose of the adoption of this chapter is to define and regulate the management of all solid waste within the corporate limits of the city.
+(Ord. of 6-13-94)
+Sec. 16-3. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where context clearly indicates a different meaning.
+Appliances means residential and commercial refrigerators, stoves, washers, dryers, water heaters and similar items also referred to as "white goods."
+Approved receptacle means a galvanized metal or durable plastic container of a capacity of not less than twenty (20) gallons and not to exceed forty-five (45) gallons, having two (2) handles on the side thereof or a bail by which it may be lifted, with a tight-fitting metal or plastic top with a handle and so constructed as to permit the free discharge of its contents; and shall have affixed to the body in a clearly visible location, a decal indicating the owner has paid the monthly fee for garbage collection for that container as specified in the schedule of fees maintained in the office of the city clerk-treasurer. Containers shall be waterproof. Oil or grease drums, paint cans and similar salvaged containers shall not be acceptable.
+Asbestos means any naturally occurring hydrated mineral silicates separable into commercially used fibers, specifically the asbestiform varieties of serpentine, chrysatile cummingtomite-grunerite, amosite, reiheckite, crocidolite, anthophyllite, tremolite, and actinolite.
+Baling means a volume reduction technique whereby solid waste is compressed into bales.
+Biomedical waste means and includes the following:
+(1)
+Pathological waste, which means all recognizable human tissue and body parts which are removed during surgery, obstetrical procedures, autopsy, and laboratory procedures.
+(2)
+Biological waste, which means bulk blood and blood products, exudates, secretions, suctionings, and other bulk body fluids which cannot or are not directly discarded into a municipal sewer system.
+(3)
+Cultures and stocks of infectious agents and associated biologicals including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories, wastes from the production of biologicals, discarded live vaccines, culture dishes, and devices used to transfer, inoculate, and mix cultures.
+(4)
+Contaminated animal carcasses, body parts, their bedding and other wastes from such animals which have been exposed to infectious agents, capable of causing disease in man, during research, production of biologicals, or testing of pharmaceuticals.
+(5)
+Sharps, which means any discarded article that may cause punctures or cuts. Such waste includes, but is not limited to, items such as needles, IV tubing and syringe needles attached, and scalpel blades.
+(6)
+Chemotherapy waste, which means any disposable material which has come in contact with cytotoxic/antineoplastic agents (agents toxic to cells) and/or antineoplastic agents (agents that inhibit or prevent the growth and spread of tumors or malignant cells) during the preparation, handling, and administration of such agents. Such waste includes, but is not limited to, masks, gloves, gowns, empty IV tubing bags and vials, and other contaminated materials. The above waste must first be classified as empty which means such quantity that it is not subject to other federal or state waste management regulations prior to being handled as biomedical waste.
+(7)
+Discarded medical equipment and parts, not including expendable supplies and materials which have not been decontaminated, that were in contact with infectious agents.
+Commercial establishment means any hotel, motel, apartment house, roominghouse, business, professional, or medical office, public or semipublic establishment of any nature or kind whatsoever, other than a single dwelling or residential unit.
+Commercial hauler means any person who collects and/or transports solid waste for a fee, as a business, or as an adjunct to a business.
+Commercial waste means rubbish other than appliances, furniture, yard trash and tree and shrubbery trimmings which is normally produced attendant to routine office, institutional, and retail housekeeping and includes paper, glass, cans, wood, crockery, metals, packing, dust, sweepings, rags and similar materials but does not include garbage, dead animals, animal residue or manures, ashes, residue from incineration, construction/demolition waste, biomedical waste, hazardous waste, liquid waste, food processing waste, industrial waste, sludge or vehicles.
+Composting means the controlled biological decomposition of organic solid waste.
+Construction/demolition waste means the waste building materials and rubble resulting from construction, remodeling, repair, and demolition operations on pavements, houses, buildings and other structures. Such wastes include, but are not limited to, wood, bricks, metal, concrete, wall board, paper or cardboard.
+Contractor means anyone engaged for hire to perform yard work, tree cutting, painting, roofing, carpentry, etc., or anyone arranging for subcontractors to perform such services.
+Disposal facility means any facility or location where any treatment, utilization, processing, or deposition of solid waste occurs.
+Disposal site means the location where the final deposition of solid waste occurs.
+Excess garbage bag means a thirty-gallon heavy duty plastic bag with an appropriate tag affixed, as specified in the schedule of fees maintained in the office of the city clerk-treasurer, which may only be used at the rate of one (1) per week per premises for the purpose of collection by the city of excess garbage, household waste and/or business trash that has been otherwise handled in accordance with this chapter, additional to what has been deposited in appropriate garbage receptacles and recyclable containers on such commercial and residential premises.
+Garbage means food waste, including waste accumulation of animal or vegetable matter used or intended for use as food, or that attends the preparation, use, cooking, dealing in or storing of meat, fish, fowl, fruit or vegetables.
+Handling means the storage, collection, transportation, treatment, utilization, processing, or disposal of solid wastes, or any combination thereof.
+Handling facility means any location where any storage, collection, transportation, treatment, utilization, processing, or disposal of solid waste, or any combination thereof, occurs.
+Hazardous waste means any solid or liquid waste material which has been defined as a hazardous waste in rules or regulations promulgated by the state department of natural resources and/or environmental protection division and also specifically includes explosives, offal, fecal matter, acids, chemicals, caustics, asbestos, poisons, paint products, tires, petroleum products, products resulting from the manufacture or use of pesticides and drugs (other than normal household use); pathological wastes; highly flammable or explosive wastes; toxic wastes and sewage sludges.
+Industrial waste means waste material from industrial processes, manufacturing, canneries, slaughterhouses, packing plants, poultry processing plants, or similar industries, and large quantities of condemned foods. Industrial refuse shall also include waste material from construction, remodeling and repair operations on houses, commercial buildings, and other structures, such as concrete, bricks, plaster, stone, earth, lumber, shavings and sawdust.
+Landfill means a method of disposing of solid wastes, other than putrescible wastes or hazardous wastes, on land by placing an earth cover thereon.
+Litter means garbage, trash, refuse, rubbish, and all other waste material that, if thrown or deposited contrary to the provisions of this chapter, would tend to create a danger to public health, safety and welfare.
+Multiple dwelling means a building designed for and containing two (2) or more dwelling units.
+Multiple residential unit means any apartment, group of apartments, condominium or similar multiple family unit used for dwelling places of more than two (2) family units.
+Owner means any person owning, leasing, renting, occupying or managing any premises in the city.
+Private premises means any dwelling, house, building or other structure designed or used wholly or in part for private residential purposes, whether inhabited or temporarily or continuously uninhabited, and shall include any yard, grounds, vacant lot, walk, driveway, parking areas, porch, steps, vestibule or mailbox belonging or appurtenant to such dwelling, house, building or other structure.
+Public place means any street, sidewalk, boulevard, alley or other public way, and any public park, square, space, building or grounds.
+Putrescible wastes means wastes that are capable of being decomposed by microorganisms. Examples of putrescible wastes include but are not necessarily limited to kitchen wastes, animal manure, offal, hatchery and poultry processing plant wastes, and garbage.
+Recycling means any process by which reclaimed materials or other materials which would otherwise become solid waste are collected, separated, or processed and reused or returned to use in the form of raw materials or products.
+Refuse means all putrescible and nonputrescible solid waste, except body waste, including garbage, trash, rubbish, ashes, street cleaning, dead animals, abandoned motor vehicles, tires, and solid wastes from markets and industrial uses.
+Residential unit means any freestanding structure or shelter or any part thereof used or constructed for use as a residence for one (1) family.
+Rubbish means waste paper, cartons, boxes, wood, tree branches, yard trimmings, furniture, appliances, metals, cans, glass crockery, packing and/or similar materials.
+Sanitary landfill means a method of disposing of putrescible waste and/or hazardous waste on land by placing an earth cover thereon.
+Scavenge means uncontrolled picking from discarded solid waste materials.
+Scavenger means any person who salvages or collects for resale or use, any garbage, paper, cardboard, boxes, crates or other wastes which are being or are to be disposed of from any residence or establishment where people reside, congregate, or are employed.
+Solid waste means putrescible and nonputrescible wastes (except water-carried body waste) and shall include garbage, rubbish (paper, cartons, boxes, wood, tree and shrubbery trimmings, yard waste, furniture and appliances, metal, tin cans, glass crockery, or packing), ashes, street refuse, dead animals, sewage sludges, animal manures, industrial wastes (waste materials generated in industrial operations), residue from incineration, food processing wastes, demolition wastes, vehicle waste, incineration, dredging wastes, construction wastes, and any other waste material in a solid or semi-solid state not otherwise defined in these definitions.
+Stump means the lower portion of the trunk of a tree or shrub eight (8) inches in diameter, or larger, and including portions of the root system.
+Tire or tires means any tires or recognizable portion of a tire or tires.
+Transfer station means a facility used to transfer solid waste from one (1) transportation vehicle to another for transportation to a disposal site or processing operation.
+Trash means nonputrescible solid wastes including both combustible and noncombustible wastes, such as paper, wrappings, cigarettes, cardboard, tin cans, wood, glass, bedding, crockery, plastic and similar materials, tree branches, twigs, grass, shrub and yard clippings, weeds, leaves, and street sweepings.
+(Ord. of 6-13-94; Ord. of 3-11-96)
+Sec. 16-4. - Violation; penalty.
+Any person violating any section of this chapter shall be punished as provided by section 1-14 of this Code.
+(Ord. of 6-13-94)
+Secs. 16-5—16-20. - Reserved.
+ARTICLE II. - LITTER
+
+Sec. 16-21. - Generally.
+(a)
+No person shall throw or deposit litter in or upon any street, sidewalk or other public place within the city except in public receptacles or in authorized receptacles for collection.
+(b)
+Persons placing litter in public receptacles or in authorized private receptacles shall do so in such a manner as to prevent it from being carried or deposited by the elements upon any street, sidewalk or other public place or upon private property.
+(Ord. of 6-13-94)
+Sec. 16-22. - Removal of litter by city.
+In cases where litter has remained on private property for a period of at least seven (7) days following the giving of written notice to remove litter to the owner of the property by the city clerk-treasurer or his designee, the city clerk-treasurer or his designee is authorized to have the litter removed by city crews and to bill the owner for the cost of the removal service. If charges for cleanup service are not paid within thirty (30) days from date of billing, execution may be issued by the city clerk against the property upon which such service was rendered for the amount of such cleanup service charge and after the recording of such executions on the execution docket in the office of the clerk of the superior court of the county, the executions shall constitute a lien on the property upon which the service was rendered until the same have been fully paid and satisfied. Executions may be enforced in the same manner and with the addition of interest and costs as provided by law for enforcement of executions for ad valorem taxes of the city.
+(Ord. of 6-13-94)
+Sec. 16-23. - Sweeping litter into gutters; cleanliness of sidewalk.
+No person shall sweep into or deposit in any gutter, street or other public place within the city the accumulation of litter from any building or lot or from any private or public sidewalk or driveway, service alley or parking area. Persons owning or occupying residential or commercial property shall keep the sidewalk, service alleys, parking areas, and all premises free of litter.
+(Ord. of 6-13-94)
+Sec. 16-24. - Littering from vehicles.
+No person, while a driver or passenger in a vehicle, shall throw or deposit litter upon any street or other public place within the city, or upon private property.
+(Ord. of 6-13-94)
+Sec. 16-25. - Motor vehicle litter.
+It shall be unlawful for any person to operate any vehicle upon any public street, lane, alley, park, or reserve in the city unless the cargo is in containers or covered by a tarpaulin in such a manner as to prevent any part of its contents from falling or being scattered upon any public street, lane, alley, park or reserve in the city. Concrete mixers shall be loaded in such a manner as to prevent any spillage. No person shall drive or move any vehicle or truck within the city, the wheels or tires of which carry onto or deposit in any street, alley or other public place mud, dirt, sticky substances, litter or foreign matter of any kind.
+(Ord. of 6-13-94)
+Sec. 16-26. - Littering in parks.
+No person shall throw or deposit litter in any park within the city except in public receptacles and in such a manner that the litter will be prevented from being carried or deposited by the elements upon any part of the park or upon any street or other public place. Where public receptacles are not provided, all such litter shall be carried away from the park by the person responsible for its presence and properly disposed of elsewhere as provided herein.
+(Ord. of 6-13-94)
+Sec. 16-27. - Littering in water.
+No person shall throw or deposit litter in any river, fountain, pond, lake, stream, ditch, canal, or any other body of water, in a park, or elsewhere within the city.
+(Ord. of 6-13-94)
+Sec. 16-28. - Littering on private property.
+(a)
+No person shall throw or deposit litter on any occupied or unoccupied private property, including vacant lots, within the city, whether owned by that person or not, except that the owner or person in control of private property may maintain authorized private receptacles for collection in such a manner that litter will be prevented from being carried or deposited by the elements upon any street, sidewalk or other public place, or upon any private property.
+(b)
+The owner or person in control of any private property shall at all times maintain the premises free of litter on any open or vacant private property including open or vacant lots within the city whether owned by that person or not.
+(Ord. of 6-13-94)
+Sec. 16-29. - Construction site cleanliness.
+The property owners and the primary contractor in charge of a construction site are required to furnish litter containers for construction and workmen's litter. All such litter shall be picked up and placed in containers at the end of each work day. The contractor or owner of the property is responsible for removal of all materials from the premises.
+(Ord. of 6-13-94)
+Secs. 16-30—16-40. - Reserved.
+ARTICLE III. - TRASH
+
+Sec. 16-41. - Trash collections.
+(a)
+Trash collections shall be at a time and in a manner prescribed by the city clerk-treasurer, provided that at no time shall trash be placed in such a manner to obstruct gutters, drains, sidewalks, or streets.
+(b)
+Trash, when placed in containers or bundles, must not be over fifty (50) pounds.
+(c)
+Leaves, straw, grass clippings, and similar items must be placed for collection in neat piles separate from all other trash immediately behind the curbs on curbed streets and immediately adjacent to the roadway on uncurbed streets. In no event shall they be placed in the gutters, drainage ditches, or streets.
+(d)
+Tree limbs, trunks, branches, or cuttings shall not exceed five (5) feet in length or six (6) inches in diameter and shall be stacked separately from other trash.
+(e)
+Furniture, not including appliances, will be collected provided it is stacked separately from other trash.
+(f)
+Residences or businesses are limited to not more than five (5) cubic yards of trash in total, excluding leaves, that may be collected at one (1) time.
+(g)
+Upon request, and when available, a mass collection unit will be provided to residents who wish to dispose of quantities of trash larger than five (5) cubic yards, such as associated with cutting large amounts of shrubbery or brush. Units may not be available unless they are requested at least twenty-four (24) hours in advance of when they are needed. Units will be collected on the day following the date of placement, except that units placed on Friday will be collected the following Monday. An additional fee will be charged for use of these units as specified in the schedule of fees maintained in the office of the city clerk-treasurer.
+(h)
+Cardboard boxes may be collected provided they are collapsed and tied or otherwise bundled.
+(i)
+It shall be unlawful for any person to scatter or to allow to be scattered any trash placed by the street for collection.
+(j)
+Appliances will be picked up by the city only after a fee is paid to the city for each appliance to cover the additional cost of pickup and disposal for such items. Said fee will be paid and a request for pickup filed at the city clerk-treasurer's office prior to placing any appliance at the curb for collection. The fee for this service will be listed in the schedule of fees maintained in the city clerk-treasurer's office. It shall be unlawful to place an appliance on any property for collection without having first paid a collection fee to the city.
+(Ord. of 6-13-94; Ord. of 8-12-02(2))
+Sec. 16-42. - Refuse not acceptable for collection.
+(a)
+Rocks, dirt, concrete blocks, bricks, and similar materials are not considered trash and shall not be collected.
+(b)
+Materials resulting from the construction, remodeling, or demolition of buildings or fixtures, or containing building materials, including floor coverings, carpets, or scraps of these materials shall not be collected; the primary contractor, or if there is no contractor, the owner of the property upon which the work was done shall be responsible for removing all such waste materials and disposing of same in a lawful manner.
+(c)
+No debris from burned houses or their contents shall be collected.
+(d)
+No leaves, limbs or other trash placed by a property owner or any other person on a vacant lot within the city shall be collected.
+(e)
+No motor vehicles, machinery, or parts thereof shall be collected, including tires.
+(f)
+No hazardous waste or biomedical waste, as defined by this chapter, shall be collected.
+(g)
+No trees larger than six (6) inches in diameter or longer than five (5) feet shall be collected.
+(h)
+No stumps, as defined in this chapter, shall be collected.
+(i)
+Reserved.
+(Ord. of 6-13-94; Ord. of 8-12-02(2))
+Sec. 16-43. - Private landscape or yard maintenance contractors required to remove all debris.
+(a)
+All persons engaged in the business of lawn and yard maintenance, landscaping, nurseryman, tree trimming or cutting in the city shall comply with all requirements of this chapter with regard to placing trash for collection. Grass clippings, shrubbery clippings and other by-products of their services placed curbside at the edge of their customer's property will be collected by the city, if the requirements of section 16-41 are met.
+(b)
+Amounts of the by-products referred to in subsection (a) in excess of five (5) cubic yards must be hauled away by the contractor or property owner and will not be collected by the city. Alternatively, on request and for a fee, a mass collection unit can be placed by the city, if available, for the contractor to fill and have picked up the following business day.
+(c)
+Under no circumstances will the city collect trees six (6) or more inches in diameter or the limbs, sections, or stumps of such trees. These must be hauled away by the contractor or property owner.
+(Ord. of 4-9-07)
+Editor's note— Ord. of 4-9-07, deleted the former Art. III, § 16-43, and enacted a new Art. III, § 16-43 as set out herein. The former Art. III, 16-43 pertained to private landscape or yard maintenance contractors required to remove all debris. See the Code Comparative Table for complete derivation.
+Secs. 16-44—16-60. - Reserved.
+ARTICLE IV. - GARBAGE
+
+Sec. 16-61. - Unlawful acts.
+(a)
+It shall be unlawful for any person to place garbage for collection in a box, tub, crate, or any other container except one meeting the definition of an approved garbage receptacle or excess garbage bag as defined in this chapter.
+(b)
+It shall be unlawful for any person to permit stacks or piles of commercial or residential solid wastes to obstruct drains, sidewalks, alleys, or streets.
+(c)
+It shall be unlawful for any person to cause or permit to spill, or permit to remain spilled, any garbage upon any street, sidewalk, yard, or vacant lot within the city.
+(d)
+It shall be unlawful for any person to cause or permit to accumulate any dust, ashes, trash, garbage, litter, or other materials in such a manner that it can be blown away by the wind or other force, when confinement in a container would have prevented the blowing of such materials.
+(e)
+It shall be unlawful for any person to place garbage, trash, litter, or other refuse for collection in a container owned by another person without the express consent or authorization of the owner.
+(f)
+It shall be unlawful for any person to place any biomedical waste as defined in this chapter in an approved garbage receptacle or bag for collection by the city. Such biomedical waste shall be bagged or placed in a container separately and properly disposed of by the owner or person in control of the property on which such waste was generated, and shall not be collected by the city.
+(g)
+It shall be unlawful for any person to place any hazardous waste, as defined by this chapter, in an approved garbage receptacle or bag for collection by the city.
+(Ord. of 6-13-94)
+Sec. 16-62. - Residential garbage collection.
+(a)
+Residential garbage placed in approved receptacles or excess garbage bags as defined in this chapter and placed so as to be easily accessible from the street shall be collected at least once a week, provided, however, that no garbage will be collected if any of the following conditions exist:
+(1)
+Receptacles are within a fenced-in area with gates locked, wired or tied shut; or
+(2)
+Dogs are loose in yard; or
+(3)
+Receptacles are inside of a carport or garage, utility building; or
+(4)
+Hypodermic needles are in receptacles, unless such needles are placed inside a closed, nonpermeable plastic bottle and placed inside the receptacles.
+(b)
+Fees for residential garbage collection shall be listed in the schedule of fees and charges maintained in the clerk-treasurer's office.
+(c)
+In order to protect the public health and sanitation, all improved residential properties within the city shall receive regular garbage collection services from the city sanitation department. No owner of an improved residential property shall be exempt or relieved from payment of the monthly collection fee of at least the basic one-can fee by reason of failure or refusal of such owner or his tenant or tenants, to accept collection and handling services as provided by the city sanitation department.
+(Ord. of 6-13-94; Ord. of 7-13-98)
+Sec. 16-63. - Commercial garbage collection.
+(a)
+Garbage and rubbish accumulated by retail and wholesale merchants, restaurants, cafeterias and other business institutions shall, when possible and when placed in approved garbage receptacles or excess garbage bags as defined in this chapter, be collected at least once per week.
+(b)
+Cardboard boxes may be collected provided they are collapsed and tied or otherwise bundled.
+(c)
+Approved garbage receptacles, excess garbage bags and cardboard should be placed outside a commercial establishment not more than twenty-four (24) hours in advance of the next scheduled collection date. Such items should be placed in front of the business where possible, near the curb or edge of sidewalk. In no instance shall garbage be placed so as to block any sidewalk, driveway, alley or street.
+(d)
+The proprietor or person in charge of every business and commercial establishment in the city is hereby required to keep the sidewalks, driveways, yards and parking areas abutting such business clean at all times with sweepings placed in a container.
+(e)
+All schools, colleges, churches, hospitals, fraternal, charitable, recreational, and similar institutions operated for charitable or nonprofit purposes, public housing projects, and government functions, will be picked up by the city, except those businesses and institutions described in section (f) below.
+(f)
+The city will not collect any garbage from those businesses, institutions, and other organizations who contract with commercial haulers for solid waste disposal services.
+(g)
+Any business, institution, or other commercial location in the city contracting with a private waste disposal firm for placement on a permanent or semi-permanent basis of a mass collection unit commonly referred to as a "dumpster," shall comply with the following conditions:
+(1)
+Whenever a dumpster is placed at any location in the city and such location is in a residential district or abuts any area used for residential purposes, the dumpster shall be enclosed by an eight-foot-high visual screen. Such visual screen shall be constructed of masonry, solid wood or chain link fence, provided that chain link fence shall be modified to fully screen the dumpster. Such screen or wall shall be constructed so as to provide sufficient space between it and the dumpster to allow for cleaning and maintenance.
+(2)
+Failure of the owner or proprietor of the commercial establishment where such dumpster is located to maintain such screens in good condition and keep surrounding areas free of litter, trash and garbage shall be unlawful.
+(h)
+Fees for commercial garbage collection shall be listed in the schedule of fees and charges maintained in the clerk-treasurer's office.
+(Ord. of 6-13-94)
+Sec. 16-64. - Industrial waste.
+Industrial waste, garbage and trash resulting from manufacturing, assembling, processing, and other industrial operations of any kind shall not be collected by the city. Such garbage and waste materials shall be disposed of by the owner at their own expense in a lawful manner.
+(Ord. of 6-13-94)
