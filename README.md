@@ -1,0 +1,8 @@
+# [Municode](https://library.municode.com/)
+The purpose of the Municode repository is to gather outputs and documentation from scraping the building codes documented in the Municode digital library and conducting Natural Language Processing(NLP) analysis along with making the scraped building codes publicly accessible and prepared for a machine-based analysis. All cities in the United States are governed by rules called ordinances and regulations which have been proposed and then adopted by City Council and codified into local laws and ordinances. The Municode library makes these laws, or municipal codes publically accessible on its website. As a result, the Municode library is vast and full of data that can tell us more about the past and present as it is consistently updated when new local laws are passed, and the older editions are archived.
+
+[Dr. Jo Guldi's](https://www.joguldi.com/) lab has begun investigating whether text mining could be used to shed light on state-level and city-level building codes and to what level energy-efficient and sustainable codes are in place. With the extensive data the Municodes library provides us, we will use text mining techniques with tools such as [NLP Suite](https://github.com/NLP-Suite/NLP-Suite/wiki/About) to determine:
+  1. How to quantify "how sustainable" or "environmentally-friendly" a city is based on the building codes using text-mining techniques
+  2. Determine how Atlanta's codes promoting sustainable development has changed overtime
+  3. Conduct a national analysis to determine what policies/codes are most effective in practicing sustainable development
+  4. etc. 
