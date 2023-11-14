@@ -1,0 +1,669 @@
+ARTICLE VII. - STATE REGULATIONS
+DIVISION 1. - GENERALLY
+
+Sec. 48-535. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Alley (narrow public or private street) means a way through the middle of a block giving access to the rear or properties.
+Arterial street (a roadway with greater than 10,000 vpd) means a level of functional classification and city roads will be listed on the official Functional Classification Map, annually updated.
+Capital improvements means any asset that increases the service capabilities of a public facility or work or materials applied to an existing asset that restores that asset or infrastructure to a "like new" condition, and improves the performance and reliability levels of the asset beyond the capabilities of the original installation, or performs a duty or service that was not previously provided. A capital improvement plan is commonly known as a CIP.
+Collector street (a roadway with between 4,000 and 10,000 vpd) means a level of functional classification and city roads will be listed on the official Functional Classification Map annually updated.
+Commercial driveway means any private entrance, exit, ramp, tunnel, bridge, side road, or other vehicular passageway to any property used for commercial purposes, except a farm or a dwelling house not exceeding a four-family capacity, and leading to or from any public road on the state highway system.
+Destinations means:
+(1)
+Stores;
+(2)
+Restaurants;
+(3)
+Schools;
+(4)
+Banks;
+(5)
+Offices;
+(6)
+Other places of employment;
+(7)
+Daycares;
+(8)
+Residential community facilities (i.e., pools, tennis courts, clubhouse);
+(9)
+Hospitals or health facilities;
+(10)
+Churches and other places of worship;
+(11)
+Recreation and parks facilities;
+(12)
+Privately-owned recreation facilities;
+(13)
+Entertainment venues;
+(14)
+Transit facilities; and
+(15)
+Other related locations.
+Driver means every person who drives or is in actual physical control of a vehicle.
+FHWA means the Federal Highway Administration.
+Functional classification means a listing and map which identifies which roads are major arterial, minor arterial, and collector.
+GDOT means the Georgia Department of Transportation.
+LOS (level of service) means a quantitative and qualitative measure of how well traffic flows on a given street or highway. The term "level of service" includes such factors as highway width, number of lanes, percentage of trucks, total traffic volume, turning movements, lateral clearances, grades, sight distance, capacity in relation to volume, travel speed and other factors which affect the quality of flow. The term "level of service" is typically summarized by letter grades described as follows:
+(1)
+Highway levels of service, per 15-minute flow period and intended for application to segments of significant length per direction per the Highway Capacity Manual 2000.
+a.
+Level "A" means nearly free-flow conditions with low traffic volumes, high speeds and free-flow conditions. Passing demand is well below capacity. Drivers are delayed no more than 40 percent of their travel time by slow-moving vehicles. A maximum flow rate of 490 pc/h total in both directions may be achieved with base conditions. Speeds are at or above the posted speed limit may require strict enforcement.
+b.
+Level "B" means nearly free-flow conditions with light traffic volumes, minor speed restrictions and stable flow. The demand for passing to maintain desired speeds becomes significant and approximates the lower boundary of the LOS B. Drivers are delayed in platoons up to 55 percent of the time. Service flow rates of 780 pc/h total in both directions can be achieved under base conditions. Above this flow rate, the number of platoons increase dramatically. Speeds are still very near the posted speed limit.
+c.
+Level "C" means nearly free flow conditions, moderate traffic volumes, where speed and maneuvering are restricted to a limited degree by the amount of traffic. This results in noticeable increases in platoon formation, platoon size, and frequency of passing impediments. Although the flow is stable, it is susceptible to congestion due to turning traffic and slow-moving vehicles. Percent time-following may reach 70 percent. A service flow rate of up to 1,190 pc/h total in both directions can be accommodated under base conditions. Speeds are still near the posted speed limit.
+d.
+Level "D" means a condition with heavy traffic operating at tolerable speeds and restricted maneuverability, although temporary slowdowns in flow may occur. The two opposing traffic streams beginning to operate separately at higher volume levels, as passing becomes extremely difficult. Passing demand is high, but passing capacity approaches zero. Mean platoon sizes of five to ten vehicles are common, although speeds of 40 mph can still be maintained under base conditions. Turning vehicles and roadside distractions cause major shock waves in the traffic stream. Motorists are delayed in platoons for nearly 85 percent of their travel time. Maximum service flow rates of 1,830 pc/h total in both directions can be maintained under base conditions.
+e.
+Level "E" means considered at capacity, a condition of very heavy flow, very little if any freedom to maneuver, and reasonably low speeds. Under Level "E" the traffic is unstable and short stoppage may occur. Traffic flow conditions have a percent time-spent following greater than 85 percent. Even under base flow conditions, speeds may drop below 40 mph. Average travel speeds on highways with less than base conditions will be slower, even down to 25 mph on sustained upgrades. Passing is virtually impossible at LOS E and platooning becomes intense, as slower vehicles or other interruptions are encountered. The highest volume attainable under LOS E defines the capacity of the highway, generally 3,200 pc/h total in both directions. Operating conditions at capacity are unstable and difficult to predict. Traffic operations seldom reach near capacity on rural highways, primarily because of lack of demand.
+f.
+Level "F" means a condition of extremely heavy flow, with frequent stoppage, significant queuing at constricted points and very slow speeds. It is an unstable traffic condition under which traffic often comes to a complete halt. Volumes are lower than capacity and speeds are highly variable.
+(2)
+Stop controlled intersection levels of service, per approach per the Highway Capacity Manual 2000.
+a.
+Level "A" means the average control delay of 0—10 seconds per vehicle (s/veh).
+b.
+Level "B" means the average control delay of 10—15 seconds per vehicle (s/veh).
+c.
+Level "C" means the average control delay of 15—25 seconds per vehicle (s/veh).
+d.
+Level "D" means the average control delay of 25—35 seconds per vehicle (s/veh).
+e.
+Level "E" means the average control delay of 35—50 seconds per vehicle (s/veh).
+f.
+Level "F" means average control delay of greater than 50 seconds per vehicle (s/veh).
+(3)
+Signalized intersection levels of service, per lane per approach per the Highway Capacity Manual 2000.
+a.
+Level "A" means the average control delay of 0—10 seconds per vehicle (s/veh).
+b.
+Level "B" means average control delay of 10—20 seconds per vehicle (s/veh).
+c.
+Level "C" means the average control delay of 20—35 seconds per vehicle (s/veh).
+d.
+Level "D" means the average control delay of 35—55 seconds per vehicle (s/veh).
+e.
+Level "E" means the average control delay of 55—80 seconds per vehicle (s/veh).
+f.
+Level "F" means the average control delay of greater than 80 seconds per vehicle (s/veh).
+Local streets (roads with volumes of less than 4,000 vpd) means a level of functional classification and city roads will be listed on the official Functional Classification Map annually updated.
+Maintenance means work that is done regularly to keep equipment functioning properly or a neat, orderly appearance.
+(1)
+The term "maintenance" includes:
+a.
+Potholes;
+b.
+Resurfacing;
+c.
+Roadside trash pickup;
+d.
+Signal/sign/striping repairs;
+e.
+Parks;
+f.
+Community buildings;
+g.
+Grass cutting;
+h.
+Shoulder repair; and
+i.
+Streetlight bulb replacement.
+(2)
+The term "maintenance" does not include:
+a.
+Major damage due to auto crashes or natural disasters;
+b.
+Equipment damaged during construction projects;
+c.
+Private roads; or
+d.
+Private entrance gates.
+Mitigation means to cause to become less severe, to alleviate congestion. The LOS minimum standards contained in this definition shall be used for impact assessment and mitigation analysis. (Reference GRTA DRI Technical Guidelines.)
+(1)
+Major arterials: LOS C.
+(2)
+Minor arterials: LOS C.
+(3)
+Collectors and others: LOS C.
+Motor vehicle means every vehicle that is self-propelled.
+New trips means the total vehicle trips, minus pass-by trips, minus internal trips, if applicable.
+Owner means a person, other than a lienholder or security interest holder, having the property in or title to a vehicle. The term "owner" includes a person entitled to the use and possession of a vehicle subject to a security interest in or lien by another person but excludes a lessee under a lease not intended as security except as otherwise specifically provided in this title.
+Pass-by trips means vehicle trips which are made by traffic already using the adjacent roadway and entering the site as an intermediate stop on the way to another destination.
+Peak hour means:
+(1)
+7:00 a.m. to 8:00 a.m., 8:00 a.m. to 9:00 a.m. or the highest four, 15-minute increments within such time period for the a.m. peak hour; and
+(2)
+4:00 p.m. to 5:00 p.m., 5:00 p.m. to 6:00 p.m. or the highest four, 15-minute increments within such a time period for the p.m. peak hour.
+Peak-hour trip generation study means a study by a qualified professional of one or more actual developments of similar land use and development characteristics which provides empirical data on the actual number of trips entering and exiting said development during the a.m. and p.m. peak hour. A peak-hour trip generation study shall consist of a.m. and p.m. peak hour traffic counts by direction (entering and exiting) on at least three separate weekdays if the study is based on only one similar development, or at least one a.m. and p.m. traffic count for three different actual developments. The results of actual traffic counts from peak-hour trip generation studies may be adjusted to discount pass-by trips as provided in this article.
+Private streets means roadways constructed to Fulton County or city standards but owned and maintained by a private entity (typically a homeowners' association).
+(1)
+Necessary easements for ingress and egress for police, fire, emergency vehicles, and all operating utilities shall be provided.
+(2)
+Should the city, ever be petitioned to assume ownership and maintenance of the private streets prior to formal dedication of their streets as public, they must be brought to acceptable city standards subject to the approval of the public works director.
+(3)
+The term "private road or driveway" means every way or place in private ownership and used for vehicular traffic by the owner and those having express or implied permission from the owner, but not by other persons.
+Public or private property means the right-of-way of any road or highway; any body of water or watercourse or the shores thereof; any park, playground, building, refuge or conservation or recreation area; and residential or farm properties, timberland or forest.
+Public streets means rights-of-way used for access owned and maintained by the federal, state, or local government.
+Professionally accepted means published by the Institute of Transportation Engineers, or prepared by a qualified professional under work supervised by the city, or prepared by a qualified professional; and accepted by the city engineer.
+Qualified professional, for purposes of conducting traffic impact studies as may be required by this article, means a registered professional engineer with experience in traffic engineering. For purposes of conducting peak hour trip generation studies, the term "qualified professional" means a registered professional engineer with experience in traffic engineering, or another professional approved by the transportation engineer based on education and experience to conduct such trip generation studies.
+Reserved rights-of-way means the potential right-of-way reserved for expansion or new right-of-way including, but not limited to, the calculation of total allowable density and the determination of building setbacks and buffers. In conjunction with the conveyance of any parcel affected by a reserved right-of-way, the developer shall retain the right to require the parcel owner to dedicate the reserved right-of-way to the city (at no cost or expense to the city) in the event that traffic demand warrants an expansion, the Transportation Master Plan shows such new location roadway, or is required as a condition of rezoning.
+Right-of-way means the right to pass through property owned by another, as with a highway; to take precedence in traffic.
+Sidewalk means that portion of a street between the curb lines, or the lateral lines of a railway, and the adjacent property lines, intended for use by pedestrians, and further defined by section 48-562.
+Significant-engineering certification means that substantial and commonly accepted engineering standards are met. The term "significant-engineered certification" includes, but is not limited to, the following engineering standards being met:
+(1)
+Roadside Design Guide;
+(2)
+ITE Handbook; and
+(3)
+MUTCD guidelines.
+Subdivision.
+(1)
+The term "subdivision" means:
+a.
+All divisions of a tract or parcel of land into two or more lots, buildings, sites, or other divisions for the purpose, whether immediate or future, of sale, legacy, or building development;
+b.
+All division of land involving a new public road or a change in existing public roads or new drives, driveways, accessways, or changes that require access to the state right-of-way;
+c.
+Resubdivision; and
+d.
+Where appropriate to the context, relates to the process of subdividing or to the land or area subdivided.
+(2)
+The term "subdivision" does not include the following:
+a.
+The combination or recombination of portions of previously platted lots where the total number of lots is not increased and the resultant lots are equal to the standards of the municipality; or
+b.
+The division of land into parcels of five acres or more where no new street is involved.
+Traffic impact study means an analysis and assessment, conducted by a qualified professional, that assesses the effects that a discretionary development proposal's traffic will have on the transportation network in a community or portion thereof. Traffic impact studies vary in their range of detail and complexity depending on the type, size and location of the proposed development.
+Trip means a single or one-directional travel movement with either the origin or destination of the trip inside the study site. (Institute of Transportation (ITE): Trip Generation). Since person-trips are sometimes used within an analysis, all "trips" in this article will be assumed to be vehicle movements and the phrase "person trips" will be used to differentiate between those two measures.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-536. - Penalty; enforcement.
+(a)
+Any person who violates this article shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine not more than $1,000.00 or no more than 60 days in jail or both for each occurrence; and each occurrence shall be deemed a separate offense.
+(b)
+Unless otherwise specifically provided by resolution of the mayor and city council, the enforcement of this article shall be within the jurisdiction of the city's police department and any other city officer authorized by the state to make misdemeanor criminal arrests. Persons designated by the governing authority are hereby authorized to issue citations or summons or both, charging violations under this article, returnable to a court or courts having jurisdiction over state traffic offenses or other courts having jurisdiction over violations of city ordinances.
+(c)
+For purposes of enforcing the provisions of this article, any city court having jurisdiction over state traffic offenses or other courts having jurisdiction over violations of city ordinances shall be entitled to take such action to ensure compliance, and the person convicted shall reimburse the city for any cost or expense associated with such compliance efforts, and the city shall be entitled to place a lien on the property or require a bond from the person to secure payment and reimbursement for these expenses.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Secs. 48-537—48-557. - Reserved.
+DIVISION 2. - CONSTRUCTION STANDARDS AND SPECIFICATIONS
+
+Sec. 48-558. - Permits.
+(a)
+Required.
+(1)
+City permits shall be in accordance to state law, O.C.G.A. chapter 32.
+(2)
+No person or company shall perform construction work non-routine maintenance work in the street right-of-way without a right-of-way encroachment permit issued by the city or, if necessary, the state department of transportation. This includes but is not limited to the following: grading, landscaping, drainage work, temporary access to undeveloped land or construction of a development. Any revisions to any portion of existing driveways, i.e. widening or relocations, shall also require a permit. If any significant change in land use is requested, the department has the right to require modifications to the existing drive to comply with regulations. Such permit shall be posted at the construction site at all times. Such construction must conform to the construction/maintenance guidelines and specifications of the city or the GDOT. The public works department shall be authorized to oversee and manage the right-of way encroachment permit.
+(3)
+No person or company shall construct a drive or entrance to any public road without a permit from the city, and if necessary the state department of transportation.
+(4)
+It shall be unlawful for any person to construct any permanent feature such as an irrigation system, sign or fence in the public right-of-way without a permit from the city, or if necessary, from the state department of transportation. Existing features are not necessarily grandfathered. (See section 48-585.)
+(b)
+Procedure.
+(1)
+Contents. Any permit application to the city shall indicate in writing the following:
+a.
+All proposed repair, work, maintenance, or alteration to existing city sidewalks or streets including, when possible, proposed measurements and plats of any repair, alteration, or maintenance. This shall include, but is not limited to: tree trimming in the right-of-way, utility work in the right-of-way, open street cuts, shoulder construction, street bores, road closures, new development roads or driveways, or new lanes.
+b.
+Compliance with applicable local, state and federal laws.
+(2)
+Permits for work within the rights-of-way established as state routes shall be issued by the Georgia Department of Transportation, District Seven.
+(3)
+The city is authorized to establish additional guidelines and policy for applying for permits. Said guidelines shall be consistent with this Code and must be approved by the public works director.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-559. - Construction road signage and warnings.
+(a)
+Each person or company to whom a permit has been issued to perform construction work in rights-of-way shall place appropriate traffic devices and signage as dictated by the current edition of the Manual on Uniform Traffic Control Devices.
+(b)
+It is unlawful for any person who obtains a permit under this article to do any excavation of any kind which may create or cause a dangerous condition in or near any street (public or private), alley (public or private), sidewalk, or public place of the city without placing and maintaining proper traffic control or other warnings at, in or around the same, sufficient to warn the public of the excavation or work, and to protect all persons using reasonable care from injuries. All work in rights-of-way must be conducted in a manner that is consistent with the Manual on Uniform Traffic Control Devices (MUTCD), latest edition, the city right-of-way encroachment permit, and Occupational Safety and Health Administration (OSHA) standards including trenching.
+(c)
+Road signage within rights-of-way shall be decided by policy within the public works department, except where the jurisdiction along state routes shall be the state department of transportation is required by state law.
+(d)
+Detours and road closures shall have state department of transportation certified flaggers or off-duty police officers when required by right-of-way permit.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-560. - Repair after excavation.
+(a)
+When any part of any street, alley, or other property of the city shall be torn or dug up for any purpose, the person or company performing such construction work shall promptly restore the street, sidewalk, and landscaping to a condition as good as or better condition than before the construction commenced.
+(b)
+The city will conduct a final inspection known as a punchlist to ensure that the street, sidewalk, or public way is restored to a condition that is in compliance with these regulations, and that all debris, materials, tools, and equipment are removed.
+(c)
+Steel plates are not an acceptable method of temporary restoration of lanes during roadwork unless specifically permitted. Only if the open cut cannot be restored prior to weekend or holiday, shall steel plates be installed with pegs and coldpatch for no longer than 72 hours at the discretion of the public works director, until work resumes. Though covered by a plate, each open cut must be completely filled with no. 57 stone. Violators will be subject to a $1,000.00 fine per instance and location. Fines shall be calculated by calendar day and each calendar day shall receive such fine. The city requires bores except when sufficient hardship is accepted by the city.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-561. - Creation of roads.
+(a)
+The transportation engineer or his or her designee shall approve the design and construction for any new roads within the city.
+(1)
+Creation of new roads shall conform to all rules set out in O.C.G.A. chapter 32.
+(2)
+Functional classifications as defined in section 48-535.
+(3)
+The standard construction specifications shall be the online document, The GDOT source: http//tomcat2.dot.state.ga.us/thesource/specs/index.html. The English system of measurement shall be used.
+(4)
+Enforcement shall be by engineering testing on all new public or private rights-of-way prior to final plat approval or certificate of occupancy, whichever is appropriate.
+(b)
+Engineering testing guidelines.
+(1)
+Road cores and reports are required per GDOT specifications. Asphalt or concrete design mix will be verified by this. Field engineer with testing company shall choose locations in cooperation with the city construction inspector.
+a.
+A minimum of one road core per turn lane installation.
+b.
+A minimum of one road core per 250 linear feet of new road or road that is being overlaid.
+c.
+Additional locations may be required as necessary.
+(2)
+Compaction testing per GDOT specifications (density and proctor) on GAB. This will also include the proof roll with the city construction inspector on site.
+a.
+A minimum of one test per turn lane installation.
+b.
+A minimum of one test per 250 linear feet of new road.
+(3)
+Subbase compaction testing per GDOT specifications (density and proctor). This will occur just prior to GAB installation.
+a.
+A minimum of one test per turn lane installation.
+b.
+A minimum of one test per 250 linear feet of new road.
+(4)
+Rural and urban typical sections shall be determined according to the definitions of this article and the standard details attached herein. Adherence to these complete details requires the use of ditches for rural typical sections which may not be filled in or removed by a developer or property owner. Fines for such removal shall be $1,000.00 per day per location and require the offender to remediate such problems as have been created to the city's acceptance.
+(5)
+Existing unpaved (gravel) roads shall not be paved except by the following processes:
+a.
+Petition of homeowners located on the road; (See public works policies.)
+b.
+Approval by city staff and, when that section of road has been identified as part of the trails plan, approval by the recreation and parks committee; and
+c.
+City council approval.
+(6)
+Proposed private gravel roads shall be residential in nature. Private gravel roads may be permitted under the following conditions:
+a.
+When the projected ADT is less than 400 VPD; and
+b.
+The proposed gravel road does not connect to more than one higher classification road; and
+c.
+The typical section is constructed in accordance with standards developed by the public works department.
+(7)
+Proposed public gravel roads may be allowed through approval of the director of public works and city council.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-562. - Creation of sidewalks.
+The city council for the City of Milton finds that sidewalks, both internal and along the entire road frontage of a development, primarily advance the interests of the owners and occupants of such development. Such interests so advanced include (1) increasing intra-development pedestrian mobility; (2) promoting exercise and wellness; (3) creating a sense of community; (4) reducing vehicular traffic; and (5) increasing overall development safety. Accordingly, sidewalks shall be installed as follows:
+(1)
+All owners, developers, or occupiers of parcels of land where a development permit or building permit is issued and any portion of the parcel is within a zoning overlay district or form based code district where sidewalks are required or are one-half mile of a school or active public park and the parcel is not identified on the current bike and pedestrian master plan shall be required to provide a sidewalk, consistent with the city standards.
+a.
+Such sidewalk shall conform to the AASHTO and applicable ADA requirements and to all applicable overlay district guidelines and standards.
+b.
+Sidewalks internal to subdivisions shall be installed in accordance with the City of Milton Subdivision regulations.
+c.
+Where it is determined to be in the best interest of the city payment in lieu of installation may be made in accordance with section 48-674(3).
+(2)
+In cases where a development permit or building permit is sought on tract of land proposed for single-family development:
+a.
+In major subdivisions or on commercial projects, the city shall require internal pedestrian facilities on both sides of any public or private right-of-way or as may be required in the subdivision regulations. Subsequently, the development permit shall indicate proposed construction of pedestrian facilities on all proposed streets and along the entire frontage when required.
+b.
+The installation and city acceptance of required sidewalk shall be completed prior to a certificate of occupancy being issued for the building or structure on the affected parcel.
+(3)
+Where trees exist or other conditions exist, the city may require the sidewalks to meander in the right-of-way or into the lot where the permit is being sought. Should the sidewalk meander out of the right-of-way, a sidewalk easement or additional right-of-way dedication will be required. Meandering designs shall not be severe radii to better accommodate persons with disabilities. (See article VIII of this chapter.)
+(4)
+The city shall require the sidewalk to be installed at least five feet from the back of curb along the road unless the city determines a practical difficulty exists or an overlay district requires an additional setback.
+(5)
+Exceptions. This section shall not apply to any lot or parcel for which a development permit or building permit is issued but where the city determines that the permit is for an accessory use or structure to the principal use or structure or for minor repairs or additions to the principal building or structure in existence. Such determination will be made by the community development department.
+( Ord. No. 16-07-278 , § 1, 7-11-2016; Ord. No. 18-08-368 , § 1, 8-6-2018)
+Sec. 48-563. - Existing sidewalks.
+(a)
+For any land or building development where sidewalks are required as outlined in section 48-562, and there is an existing sidewalk along the road or street frontage, an inspection of the sidewalk shall be made by the city. If the inspection shows the sidewalk is deficient or does not exist along the entire frontage, the owner must construct or repair the sidewalk to current design specifications including material revisions, such as concrete to brick, as required by the city.
+(b)
+The property owner shall be required to maintain the sidewalk along the entire lot frontage by maintaining the grass or landscaping in the right-of-way.
+(c)
+No person shall be permitted to erect any drain, gutter, downspout, valley, flat, or sloping roof of any character that will in any manner drain or shed water on any sidewalk of the city.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-564. - Regulatory, warning and guide signs.
+(a)
+Pole mounted.
+(1)
+Standards.
+a.
+Public signs shall be mounted on a standard galvanized breakaway square pole type as approved by the public works department. All street name sign blades must be double sided 0.080 gauge aluminum and nine inches high by 36 inches wide with six-inch letters. All street name signs shall be mounted on the same pole as stop sign where practical. All public street name signs shall have white high intensity (HI) six-inch letters with green high intensity backgrounds.
+1.
+Dead-end roads shall have end marks in high intensity (HI) yellow.
+2.
+A single installation by the property owner of all required signs is required prior to final plat.
+3.
+Only overlay districts shall be allowed to post neighborhood toppers as included in standard details: "Crabapple" and "Birmingham."
+b.
+Private signs shall be mounted on a standard galvanized breakaway square pole type by a contractor qualified to perform this work and permitted for this project using the right-of-way permit. All external street name signs must be double sided 0.080 gauge aluminum and be nine inches high by 36 inches wide. All street name signs shall be mounted on the same pole as stop sign where practical. All private street name signs shall [have] white high intensity (HI) six-inch letters with blue (HI) backgrounds.
+1.
+Dead-end roads shall have end marks in high intensity (HI) yellow.
+2.
+A single installation by the property owner of all required signs is required prior to final plat.
+3.
+Overlay districts shall be allowed to post neighborhood toppers as included in standard details: "Crabapple" and "Birmingham."
+4.
+Subdivision identification toppers may be allowed within subdivisions.
+(2)
+Requests. If a request is made for decorative sign poles, the neighborhood must submit a formal traffic control signage plan showing the recommended placement, size, type of pole, and type of sign to be installed. This is more than a sign shop detail page. The transportation engineer or his or her designee will evaluate the request with final comments. All signs and poles must meet the requirements set forth in the Manual on Uniform Traffic Control Devices (MUTCD) (www.mutcd.fhwa.dot.gov.). If decorative sign poles are approved, only a qualified sign contractor is allowed to install the devices. If decorative sign poles are used, there must be a signed and recorded agreement from the homeowners' association stating that they will be responsible for maintaining the decorative poles. If a decorative pole is damaged and not replaced within 48 hours, the public works department will install a standard pole and standard sign if located on a public street. If the decorative pole is replaced, the contractor must contact the public works department for the city to retrieve the standard pole if located on a public street. The length of the sign pole must be high enough to allow for vertical clearance of the signs mounted. There will be no cost to the city associated with the installation or maintenance of decorative poles.
+(b)
+Overhead.
+(1)
+Standards. Overhead signage is required at all signalized intersections. Signage shall comply with current MUTCD and GDOT standards.
+(c)
+Mast arms for traffic signals.
+(1)
+Standards. Mast arms shall comply with the standards approved for use by the public works department.
+(d)
+City streetlights.
+(1)
+Standards. City streetlights, decorative, period lighting, and parkway lighting shall be products readily available through the local power service providers. The city shall repair, maintain, and pay utility bills for streetlights on public rights-of-way. The homeowners' association or private business shall repair, maintain, and pay utility bills for streetlights on their respective private rights-of-way. Other types of landowners with private lighting are likewise required to pay for utility bills on their respective properties.
+(2)
+Requests. Requests for street lighting by citizens or businesses, city boards and commissions shall be directed to the public works department. Should such application show that street lighting would provide a significant traffic safety difference, such request will be added to the capital improvement plan at either the annual or midyear listing. Should such application show that street lighting is a non-transportation safety project, the application will be denied and placed on the long range list for capital improvement projects. Should the denied applicant desire to move this forward more quickly, the applicant can pay 100 percent of the cost of materials and installations by a qualified utility contractor or the electrical utility company directly, the city would accept the streetlights as a gift in kind and thus repair, maintain, and pay utility bills for such streetlights on public rights-of-way.
+(3)
+Removal. Requests for removal of street lighting by citizens within a subdivision considered rural on the City of Milton Future Land Use Plan may be considered through a petition and application process for removal of streetlights as defined in the public works policies.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Secs. 48-565—48-583. - Reserved.
+DIVISION 3. - PROHIBITIONS AND USES
+
+Sec. 48-584. - Obstruction of right-of-way.
+(a)
+No person shall place or cause to place in any right-of-way: debris, rubbish, irrigation water, boxes, displays, signs, poles, goods, merchandise, or any other object so as to impede or endanger traffic on streets and sidewalks.
+(b)
+No person or company shall construct or maintain a drive, yard, or lot constructed of gravel, pebbles, or stone in such a manner that vehicles cause loose stones, pebbles or gravel to be thrown on to the adjacent street or sidewalk.
+(c)
+Any personal property placed on the right-of-way following an eviction notice shall be removed within 24 hours of physical eviction unless an extension of time is requested on behalf of the evicted tenant. For purposes of this chapter such property is deemed abandoned property 24 hours following eviction unless the landlord by contract specifies a shorter time. If the property is not removed within 24 hours, the city may commence removal and cite the property owner. The penalty assessed shall be 125 percent of the cost the city incurs in removing the property plus a fine of $1,000.00 shall be incurred.
+(d)
+Illegal dumping within the right-of-way shall be removed within 24 hours of the notice of violation if not considered an immediate threat but will be removed immediately if considered an immediate threat to safety by the public works department. If the city is required to remove such debris, a penalty of 125 percent of the cost the city incurred in removing the property plus a $1,000.00 fine shall be assessed.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-585. - Location within the right-of-way.
+(a)
+A right-of-way and utility encroachment permit is required for all activities within the right-of-way including, but not limited to, the construction, installation, repair or replacement of pipe, conduit, cable or other facilities vital to the function of the utility or construction site referenced for the flow of traffic (vehicles and pedestrians) (i.e., a driveway, shoulder, or road construction) at the referenced location. Such permit shall be managed by the public works department.
+(b)
+Irrigation systems, landscaping, fences, walls, nonoperable vehicles, trailers, boats, dumpsters and other fixed objects within the right-of-way that, in the reasonable opinion of the city traffic engineer or his/her designee, may pose a safety hazard are not allowed within the right-of-way. However; certain landscaping and irrigation systems may be permitted upon the submittal of an indemnification form and other documents as may be required by the public works department.
+(1)
+New unpermitted installations of such encroachments shall be removed, and shoulders dressed at the cost of the property owner within 30 calendar days of the citation plus a fine of one-half the cost of the largest permit fee for the site. Should such installations be on an active construction site, all CO's, LDP's, final plats, or other pressing applications to the city will be held until such fine is paid by the property owner.
+(2)
+Existing installations shall be subject to safety evaluations and must be relocated outside of the right-of-way when major repairs or replacement occurs. Safety evaluations by public works may result in an eviction notice and subsequent removal of such installation. Such removal shall occur within 30 calendar days; however, no fine shall be assessed for existing permitted installations. The burden of proof for the date of existing installations shall be by the Fulton County permit date, dated construction drawings, or receipts. Without these, a fine shall be assessed as if it was a new unpermitted installation.
+(3)
+Temporary items such as dumpsters, parked semi-trucks, and other related items as determined by the public works department shall be given a citation and will be towed from the right-of-way immediately to the subject parcel. The cost to the city will be reimbursed at a rate of 125 percent plus a $500.00 fine awarded to the property owner. An exception shall be moving to or from a house: a semi without a tractor is allowed to park on a neighborhood street when a right-of-way encroachment permit is approved, and proper advance warning signage is used. The maximum length of time this permit for this application will be valid shall be 48 hours.
+(c)
+Mailboxes. Mailboxes are subject to all regulations of the United States Postal Service (USPS). In addition:
+(1)
+Single breakaway post mailboxes shall be the standard installation, placed five feet from the edge of pavement. This installation shall not require a permit.
+(2)
+Notwithstanding the discretion in section 48-585(b) for certain fixed objects in the right-of-way, fixed object mailboxes (i.e., brick, stone, concrete, stucco, anything other than a standard mailbox) are not allowed within the right-of-way. Installations of such mailboxes shall also be subject to other requirements of this chapter and the AASHTO Roadside Design Guide, current edition.
+(d)
+Trees. Trees within the right-of-way shall be classified as follows:
+(1)
+Shoulders. Street trees are required to be planted behind the sidewalk for urban sections or outside of the AASHTO defined clear zone for on-system roadways, this may extend outside of the right-of-way onto personal property for on-system roadways. The right-of-way encroachment permit is required for plantings inside the right-of-way but outside of the clear zone. Any tree within the right-of-way is subject to removal for safety reasons upon coordination of public works and the city arborist. Street trees planted in the beauty strip are subject to removal by the city for safety reasons. When the beauty strip is the only area available for planting, as determined by the city arborist, the Georgia Department of Transportation (GDOT) category breakaway trees such as crepe myrtles, hollies, etc., shall be planted there and must be maintained by trimming appropriately by the property owner through a right-of-way landscaping agreement.
+(2)
+Medians. Only Georgia Department of Transportation (GDOT) category breakway trees shall be acceptable within planted medians. Additional landscaping maintained below 18 inches is also acceptable. When median street trees are impacted, show signs of decline, or have a safety concern, as determined by the city arborist, the replacement trees in the median shall meet this updated requirement. Trees planted in the medians and shoulders must also meet:
+a.
+The AASHTO Roadside Design Guide; and
+b.
+The GDOT Pedestrian and Streetscape Guide.
+(e)
+On-street parking.
+(1)
+Vehicles may park on roads of subsequent width unless specifically prohibited by signage. The city may regulate and prohibit parking of any type of vehicle on any public road. It shall be unlawful to park any truck or any trailer which is designated by the department of public safety for a license tag in a weight category heavier than 6,000 pounds on the right-of-way of any residential street or upon residential zoned property, unless said vehicle is making a delivery to said residential property. School buses shall not fall under this section.
+a.
+This section shall not apply to construction vehicles, trailers, or equipment temporarily located (maximum six hours) within a construction area, provided such vehicles, trailers or equipment are used in connection with dwelling units under construction within such construction area.
+b.
+Such officer is authorized to move such vehicle or require the driver or other person to move the same. If the vehicle is unattended, such officer is authorized to remove or provide for the removal of such vehicle to the nearest garage or other place of safety at the owner's expense. State or local law enforcement officers and the department are further authorized, with or without the owner's consent, to remove or have removed any obstruction, cargo, or personal property which is abandoned, unattended, or damaged as a result of a vehicle accident which the department determines to be a threat to public health or safety or to mitigate traffic congestion.
+(2)
+Vehicles and trailers of any kind without current license plates, or vehicles, trailers or equipment permitted to remain in an inoperable condition for more than 30 days shall not be parked or stored on or about any property within a residential-zoned district; provided, however, this section shall not apply to vehicles, trailers or equipment stored in an enclosed structure or appropriately covered and located in the rear yard area.
+(3)
+Exception: moving to or from a house. A semi with attached tractor is allowed to park on a neighborhood street when a right-of-way encroachment permit is approved and proper advance warning signage is used. The maximum length of time this permit for this application will be valid shall be 24 hours. MUTCD acceptable cones, barricades, and other appropriate warning devices shall be placed to provide advance warning to motorists.
+(4)
+The city may place parking meters on or immediately adjacent to any or all of such roads for the purpose of authorizing timed parking in designated spaces upon the payment of a charge for such privilege. A municipality also may place such parking meters on or adjacent to any public road on the state highway system located within the corporate limits of the municipality when authorized by GDOT.
+( Ord. No. 16-07-278 , § 1, 7-11-2016; Ord. No. 19-10-408 , § 1(Exh. A), 10-21-2019)
+Sec. 48-586. - Assemblies, demonstrations and parades.
+Regulation of assemblies, demonstrations and parades are governed by article IX, public assemblies, of this chapter.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-587. - Agricultural uses.
+(a)
+Agricultural equipment, such as tractors, combines, etc., shall be allowed to travel during daylight short distances, of approximately one mile, along the right-of-way without being transported by a trailer for the purposes of traveling between utilized agricultural lands. A penalty of $100.00 per incident shall be the fine for violators of this rule. Law enforcement responsibility for enforcement of this article shall be in the department of public safety except:
+(b)
+Just as construction equipment within LDP permits has limitations, so too does agricultural equipment.
+(1)
+Agricultural equipment limitations include, but are not limited to:
+a.
+The removal of mud from the roadway;
+b.
+The removal of gravel from the roadway; and
+c.
+The repair to the roadway from track equipment, oversize equipment, etc.
+(2)
+The following penalty applies in such situations:
+a.
+A $100.00 fine per incident;
+b.
+Plus the cost of repairs to the road; and
+c.
+Plus the cost of certified traffic control by the person who caused the damages.
+(3)
+Enforcement responsibility for this article shall be in the public works department by sworn code enforcement officers. The traffic control shall be placed within 24 hours after a notice of violation or citation was given. The road repair shall begin within three business days of date of a notice of violation or citation.
+(c)
+The following vehicles may exceed such limitation without a permit:
+(1)
+Farming or agricultural equipment;
+(2)
+Horses; or
+(3)
+Forest management equipment, whether self-propelled or being hauled, when such vehicle or equipment is being operated during daylight hours upon a public road.
+(d)
+Horses will ideally be ridden on gravel roads and other marked paths, marked trails, or rights-of-way during daylight hours.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-588. - Construction and oversize vehicle uses.
+(a)
+Haul permits are required from the public works department when more than 30 truck trips per day for two weeks or when 10,000 CY of material will be hauled on a right-of-way. Such application shall be concurrent with the right-of-way permit with a site map and calculation of earthworks and trips needed.
+(b)
+Oversize vehicles and equipment that is not street legal are required to be conveyed from location to location using a trailer, subject to all applicable state and GDOT rules and permits.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-589. - Rules of the road.
+The rules of the road shall include, but are not limited to:
+(1)
+The Georgia Department of Driver Services, Georgia Driver's Manual, current edition; and
+(2)
+Georgia Bike Sense Guide.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Secs. 48-590—48-608. - Reserved.
+DIVISION 4. - TRAFFIC IMPACT STUDIES
+
+Sec. 48-609. - Thresholds and applicability.
+(a)
+Traffic studies shall be submitted with all rezoning applications.
+(b)
+Projects that qualify as an Atlanta Regional Commission (ARC) development of regional impact (DRI) are required to meet the city's impact study requirements. Note that the DRI study will be required at the time of rezoning.
+_____
+(c)
+The thresholds for determining the requirement of a traffic impact study were developed as follows: DRI: non-metropolitan threshold or 50 percent of the DRI, metropolitan threshold, whichever is smaller, except as noted by ***.
+EXPAND
+Use DRI:
+Metropolitan
+Regions DRI:
+Metropolitan
+Regions (50%) DRI:
+Nonmetropolitan
+Regions Milton
+Threshold
+Office >400,000 sq. ft. >200,000 sq. ft. >125,000 sq. ft. >125,000 sq. ft.
+Commercial >300,000 sq. ft. >150,000 sq. ft. >175,000 sq. ft. ***> 100,000 sq. ft. or > 20,000 sq. ft. with drive-through
+Wholesale and
+distribution >500,000 sq. ft. >250,000 sq. ft. >175,000 sq. ft. >175,000 sq. ft.
+Hospitals and health care facilities >300 new beds; or generating > 375 peak hour vehicle trips per day >150 new beds; or > 187 peak hour trips per day >200 new beds; or generating > 250 peak hour vehicle trips per day >150 new beds; or > 187 peak hour trips per day
+Housing >400 new lots or units >200 new lots or units >125 new lots or units ***> 100 new lots or units
+Industrial >500,000 sq. ft.; or employing > 1,600 workers; or covering > 400 acres >250,000 sq. ft.; or employing > 800 workers; or covering > 200 acres >175,000 SF; or employing > 500 workers; or covering > 125 acres >175,000 SF; or employing > 500 workers; or covering > 125 acres
+Hotels >400 rooms >200 rooms >250 rooms >200 rooms
+Mixed use >400,000 sq. ft. or > 120 acres; or if any of the individual uses meets or exceeds a threshold as identified herein >200,000 sq. ft. or > 60 acres; or if any of the individual uses meets or exceeds a threshold as identified herein >125,000 sq. ft. or > 40 acres; or if any of the individual uses meets or exceeds a threshold as identified herein >125,000 sq. ft. or > 40 acres; or if any of the individual uses meets or exceeds a threshold as identified herein
+Airports All new airports, runways and runway extensions All new airports, runways and runway extensions Any new airport with a paved runway; or runway additions of > 25% of existing runway length Any new airport with a paved runway; or runway additions of > 25% of existing runway length
+Attractions and recreational facilities >1,500 parking spaces or a seating capacity of > 6,000 >750 parking spaces or a seating capacity of > 3,000 >1,500 parking spaces or a seating capacity of > 6,000 *** > 100 spaces
+School New school with a capacity of > 2,400 students, or expansion by at least 25% of capacity New school with a capacity of > 1,200 students, or expansion by at least 12.5% of capacity New school with a capacity of > 750 students, or expansion by at least 25% of capacity ** New school with a capacity of > 100 students, or expansion by at least 25% of capacity
+Waste handling facilities New facility or expansion of use of an existing facility by 50% or more New facility or expansion of use of an existing facility by 25% or more New facility or expansion of use of an existing facility by 50% or more New facility or expansion of use of an existing facility by 50% or more
+Quarries, asphalt and cement plants New facility or expansion of existing facility by > 50% New facility or expansion of existing facility by > 25% New facility or expansion of existing facility by > 50% *** Any new
+Wastewater treatment facilities New facility or expansion of existing facility by > 50% New facility or expansion of existing facility by > 25% New facility or expansion of existing facility by > 50% New facility or expansion of existing facility by > 50%
+Petroleum storage facilities Storage > 50,000 barrels if within 1,000 feet of any water supply; otherwise, storage capacity > 200,000 barrels Storage > 25,000 barrels if within 500 feet of any water supply; otherwise, storage capacity > 100,000 barrels Storage > 50,000 barrels if within 1,000 feet of any water supply; otherwise, storage capacity > 200,000 barrels Storage > 50,000 barrels if within 1,000 feet of any water supply; otherwise, storage capacity > 200,000 barrels
+Water supply intakes/reservoirs New facilities New facilities New facilities New facilities
+Intermodal terminals New facilities New facilities New facilities New facilities
+Truck stops A new facility with > three diesel fuel pumps; or containing a half acre of truck parking or 10 truck parking spaces. A new facility with > 2 diesel fuel pumps; or containing a quarter acre of truck parking or 5 truck parking spaces. A new facility with > three diesel fuel pumps; or containing a half acre of truck parking or 10 truck parking spaces. *** Any
+Any other development types 1,000 parking spaces 500 parking spaces 1,000 parking spaces 500 parking spaces
+New
+Churches n/a n/a n/a >500 seats
+Crabapple overlay district n/a n/a n/a Any commercial or > 10 lots or units of residential
+Areas of special traffic concern n/a n/a n/a As required by the city engineer
+Daycare n/a n/a n/a Any new or expansion by at least 25% capacity
+  ( Ord. No. 16-07-278 , § 1, 7-11-2016)
+_____
+Sec. 48-610. - Objectives.
+The city finds that requiring a traffic impact study for proposed developments that meet certain thresholds will help to achieve the following objectives:
+(1)
+Forecast additional traffic associated with new development, based on accepted practices.
+(2)
+Determine the improvements that are necessary to accommodate the new development.
+(3)
+Allow the local government to assess the impacts that a proposed development may have and assist the local government in making decisions regarding development proposals.
+(4)
+Help to ensure safe and reasonable traffic conditions on streets after the development is complete.
+(5)
+Reduce the negative impacts created by developments by helping to ensure that the transportation network can accommodate the development.
+(6)
+Protect the substantial public investment in the street system.
+(7)
+Provide information relevant to:
+a.
+Comprehensive planning;
+b.
+Transportation planning;
+c.
+Transit planning; and
+d.
+The provision of programs and facilities for:
+1.
+Traffic safety;
+2.
+Road improvements;
+3.
+Transportation demand management;
+4.
+Pedestrian access; and
+5.
+Other transportation system considerations.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-611. - Analyses.
+The source for trip generation rates for the purposes of this chapter shall be the Trip Generation and Handbook published by the Institute of Transportation Engineers (ITE), most recent edition. Determinations of whether this chapter applies shall be made based on application of data from ITE Trip Generation, which may change from time to time, or as otherwise approved by the city engineer.
+(1)
+Discussion of assumptions.
+a.
+Distributions. Default value is to assume site distribution will be the same split as existing conditions. Call out any exceptions to this. For developments expected to generate more than 30 truck trips per day, the study shall include separate trip distribution figures for trucks.
+b.
+Total combined trip reduction (pass-by and internal capture) shall be calculated for both a cap of ten percent maximum and also the recommended ITE value.
+c.
+Growth factors. Provide analysis of both zero percent growth rate and calculated growth rate. A cap of ten percent growth rate without prior transportation engineer approval for areas within the city. For areas of impact outside city or county limits, higher growth rates are acceptable.
+d.
+Any caps that desire hardship must submit information calculated within the set requirements stated in subsections (1)a. through (1)c. of this section to prove hardship with the city engineer.
+(2)
+Technical analysis.
+a.
+A scoping meeting with the applicant's traffic engineer and transportation engineer is required prior to submittal of a traffic impact study. Failure by an applicant to not have a scoping meeting prior to conducting their traffic counts will not constitute a hardship for an exception to be approved by the city engineer.
+b.
+A preliminary site access, site circulation, and parking plan will be prepared by the applicant early in the project. The plan is considered in the trip generation, trip distribution and assignment steps.
+c.
+Existing traffic volumes (measured within the previous six months and adjusted to reflect current conditions; tube counts shall be a minimum of 48 hours) and performance operation analysis for all study intersections including all arterial, collector and local roads within the study area, in the year that the proposed development is planned to commence, and in five years. If phased development is proposed, the traffic impact study shall include projections for the year that each phase of the development is planned to be complete.
+d.
+Level of service. All signalized and all-way stop controlled intersections shall operate at a LOS "D" or better. Other unsignalized intersections (including unsignalized private accesses) shall operate at LOS "E" or better for major left turns and side street approaches, although LOS "F" may be allowed if the movement has a relatively low volume (to-capacity ratio and there are no known safety problems at the intersection).
+e.
+Pass-by trips are external to the development but are already on the transportation system (not new trips on the roadway). These trips enter the site as an intermediate stop, or are incepted by the proposed development. The pass-by rate (or percentage of total site trip generation that are pass-by trips) is discussed in the scoping meeting. Trip reduction for pass-by trips shall be as follows:
+1.
+Calculate pass-by trips as provided for in the ITE Trip Generation Handbook.
+2.
+Perform a limits test, limiting the total pass-by trips associated with a site to ten percent of the adjacent roadway's project traffic capacity.
+f.
+Mode split analysis is currently required only along state routes. Typically three to five percent is considered a maximum realistic share of travel for modes other than automobiles.
+g.
+Acceptable analysis methods include the most recent Highway Capacity Manual or Synchro.
+h.
+Signal timing used in capacity or progression analysis shall use the same cycle length as it is currently using at the intersection unless specifically noted otherwise and should not exceed 120 seconds. Signal timing shall provide adequate and reasonable green time for pedestrian crossings.
+i.
+Peak hour factors less than 0.75 or greater than 0.90 shall not be used unless justified by specific counts at that location.
+j.
+The applicant shall forecast estimated traffic volumes and performance operation analysis with the development on all arterial, collector and local roads within the study area, in the year that the proposed development is planned to commence, and in five years. If phased development is proposed, the traffic impact study shall include projections for the year that each phase of the development is planned to be complete.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-612. - Mitigation.
+(a)
+Description and analysis of mitigation measures necessary to bring the identified intersections and locations into compliance with applicable standards. Include analysis showing that these measures will bring these locations into compliance and include signal, turn lane, or other warrant analyses as appropriate.
+(b)
+Often mitigation measures will be involved in rezoning applications. However, should a project already be zoned commercial or other intense land use, and the traffic impact study deems mitigation measures are necessary, such mitigation measures deemed necessary by the transportation engineer and affirmed by the applicant's data shall be deemed necessary improvements at the cost of the proposed private development.
+(c)
+The proposed development for which a traffic impact study is submitted and mitigation measures are deemed necessary by the transportation engineer and affirmed by the applicant's data shall be deemed necessary improvements at the cost of the proposed private development. This would occur regardless of whether or not rezoning occurred in this transaction.
+(d)
+Should the proposed development for which a traffic impact study is submitted not be deemed necessary immediately (i.e., be warranted immediately) the installation of such signal, etc., shall not occur until such is warranted.
+(e)
+Developments of regional impact (DRI) mitigation installations listed in the final letter shall be required of the applicant at no cost to the city prior to the certification of occupancy for any of the related buildings.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Secs. 48-613—48-631. - Reserved.
+DIVISION 5. - CONSTRUCTION STANDARDS AND DETAILS
+
+Sec. 48-632. - Reference sources to be used.
+(a)
+The city utilizes GDOT Construction Standards and Details (online current edition), supplemented by the following Fulton County (FC) Construction Details, AASHTO guidelines, and MUTCD guidelines:
+(1)
+Where differences between the subdivision ordinance (chapter 50 of this Code) and this chapter exist, the more stringent design standard shall be used.
+(2)
+Precast manholes are required in lieu of brick manholes.
+(3)
+The English system of measurement is used.
+(c)
+Fire department access roads shall comply with chapter 22 of the City of Milton Code of Ordinances.
+Where differences exist among the subdivision ordinance (chapter 50), this chapter, and the fire apparatus code, the transportation engineer and fire marshal shall be responsible for determinations of which is the controlling requirement.
+( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Sec. 48-633. - Index of city details.
+The following is a list of city details:
+EXPAND
+100 Series—General
+FC101 Underground utility cross sections
+FC102 Conduit location for underground utilities
+FC103 Allowable trench widths
+FC104 Reinforced plastic step
+FC105 Structure adjustment
+106 Dead-end fire apparatus access road turnaround
+FC107 Roadway crossing bore and case detail
+FC109 Pavement cut repairs Type A, B, and C
+FC110 Concrete encasement
+FC112 Safety platform for deep manholes
+200 Series—Landscaping
+201A, B Bioswale landscaping detail
+210 Tree save sign
+211 Tree planting and watering detail
+300 Series—Transportation
+FC301-FC302 Typical sections: rural road, access easement, industrial, subdivision streets, side roads, gravel
+302 Driveway cut repairs concrete, gravel and asphalt
+FC303 Cul-de-sac
+FC307 Curb and gutter
+FC305 Divided entrance details
+FC306 Miscellaneous details
+309 Deceleration details
+FC310 Left turn lane widening on both sides
+FC311 Left turn lane widening on one side
+FC313 Mini-roundabout
+FC314 Chicanes
+FC315 Speed table
+FC316 Raised intersection
+FC317 One lane choker
+FC318 Entrance treatment
+FC319 Center island
+350 Street
+351 Gated entrance detail
+400 Series—Erosion
+Reserved
+500 Series—Stormwater
+FC501 Catch basin: 1 ft. offset singlewing
+FC502 Catch basin: 1 ft. offset doublewing
+FC510 Drop inlet
+FC511 Drop inlet dimensions
+FC512 Drop inlet Weir Type
+FC516 Energy dissipator alternate
+FC519 Structural plate pipe arch culvert and structural plate pipe culvert
+FC520 Pipe culverts
+FC521 Pipe culvert tables
+FC522 Pipe culvert table (continued)
+FC523 Perforated underdrain
+FC524 Pipe guage and glass
+FC525 Earthfill dam for detention ponds
+526 Fence detail for detention ponds (equestrian board with mesh)
+528 Other control structure with trashrack
+  ( Ord. No. 16-07-278 , § 1, 7-11-2016)
+Secs. 48-634—48-652. - Reserved.

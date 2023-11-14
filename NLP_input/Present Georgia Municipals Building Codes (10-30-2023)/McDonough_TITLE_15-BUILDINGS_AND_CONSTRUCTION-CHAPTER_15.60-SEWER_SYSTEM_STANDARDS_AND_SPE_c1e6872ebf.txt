@@ -1,0 +1,1016 @@
+CHAPTER 15.60 - SEWER SYSTEM STANDARDS AND SPECIFICATIONS
+
+Sections:
+_____
+15.60.010 - Definitions and Abbreviations.
+A.
+For the purposes of this Chapter, the following definitions shall apply:
+The City shall mean the City of McDonough, the City Engineer, or other authorized personnel of the City.
+The County shall mean Henry County, Georgia.
+B.
+Wherever in this Chapter, the abbreviations are defined as follows:
+EXPAND
+AA Aluminum Association
+AAMA Architectural Aluminum Manufacturer's Association
+AASHTO American Association of State Highway and Transportation Officials
+ACI American Concrete Institute
+ACPA American Concrete Pipe Association
+AFBMA Anti-Friction Bearing Manufacturers Association
+AGA American Gas Association
+AGMA American Gear Manufacturers Association
+AISC American Institute of Steel Construction
+ANSI American Iron and Steel Institute
+APHA American Public Health Association
+API American Petroleum Institute
+APWA American Public Water Works
+AREA American Railroad Engineering Association
+ASA American Standards Association
+ASCE American Society of Civil Engineers
+ASME American Society of Mechanical Engineers
+ASTM American Society of Testing and Materials
+AWS American Welding Society
+AWWA American Water Works Association
+CFR Code of Federal Regulations
+CRSI Concrete Reinforcing Steel Institute
+DIP Ductile Iron Pipe
+DNR (Georgia) Department of Natural Resources
+EPA Environmental Protection Agency
+EPD Environmental Protection Division
+FmHA Farmers Home Administration
+FS Federal Specifications
+GDNR Georgia Department of Natural Resources
+GDOT Georgia Department of Transportation
+MSS Manufacturers Standardization Society of the Valve and Fitting Industry
+NACE National Association of Corrosion Engineers
+NBFU National Board of Fire Underwriters
+NBS National Bureau of Standards
+NCPI National Clay Pipe Institute
+NEC National Electric Code
+NEMA National Electrical Manufacturers Association
+NFPA National Fire Protection Association
+NRMA National Ready-Mix Association
+NSF National Sanitation Foundation
+OSHA Occupational Safety and Health Administration
+PCA Portland Cement Association
+PCI Prestressed Concrete Institute
+P.STA Pump Station
+PVC Polyvinyl Chloride
+SBC Southern Building Code
+SSPC Steel Structures Painting Council
+UBC Uniform Building Code
+SSPC Steel Structures Painting Council
+UBC Uniform Building Code
+UL Underwriters Laboratories
+USDC United States Department of Commerce
+WPCF Water Pollution Control Federation (now WEF)
+WEF Water Environmental Federation
+WPCP Water Pollution Control Plant
+WWTP Wastewater Treatment Plant
+  _____
+15.60.020 - Rules of the Georgia Department of Natural Resources, EPD.
+Applicable provisions of EPD's Rules, Chapter 391-3-6, Water Quality Control, shall be complied with.
+15.60.030 - Solid Waste Landfills.
+Sewers and sewerage facilities shall not be constructed on solid waste landfills or serve structures constructed on or proposed to be constructed on solid waste landfills.
+15.60.040 - Erosion and Sedimentation Control.
+Construction of sewers and sewerage facilities shall comply with the Erosion and Sedimentation Control Act 12-7-1 et seq. and all other related acts and ordinances including ordinances and requirements of the City. Violation of such acts and ordinances shall be cause for the City to order ceasing construction until construction compliance on such matters is assured.
+15.60.050 - OSHA and Safety.
+The owner/developer and his contracting parties shall be responsible for complying with all applicable OSHA requirements and shall diligently implement safety precautions and practices.
+15.60.060 - Protection of Waterways.
+The design and construction shall be such as to comply with protection of waterways. Reference: O.C.G.A. §§ 12-5-440 through 12-5-457, (Conservation of Natural Resources.)
+15.60.070 - General Design and Inspection Requirements of EPD and City.
+A.
+No sewers or related sewerage facilities shall be approved by the City unless:
+1.
+The water pollution control plant (wastewater treatment plant) serving such facilities can accommodate the project wastewater for treatment.
+2.
+The project or the City's existing sewers and pump stations (if applicable) are capable of transporting the project wastewater to a wastewater treatment facility.
+3.
+Design of the sewerage facilities are under the supervision of a registered professional engineer in Georgia and in accordance with accepted standards and references in general use, such as WPCF Manual(s) of Practice, ASCE Manuals and Reports on Engineering Practice, Recommended Standards for Sewage Works, latest Edition, Great Lakes Upper Mississippi River Board of State Sanitary Engineers (10-State Standards), Environmental Protection Agency (EPA) Publications, WPCF Journals, and other technical publications widely recognized in establishing design standards.
+4.
+The City may also require construction inspections by a registered professional engineer in Georgia to be paid for by the developer/owner.
+5.
+The City is to own and maintain the sewerage facilities after project acceptance; except building sewers (service lines) and related facilities located on private property to be owned, operated and maintained by the owner; except also certain sewer extensions.
+6.
+Sewers are 36" diameter or under and pump stations are less than 700 gallons per minute (gpm). Larger sizes require EPD approval and the City may require, at its option, EPD approval of smaller sewers than the aforementioned and all pump stations.
+B.
+Design of sewer projects shall be reviewed by the City and construction shall be inspected by the City. Such reviews and inspections will be by or under the general supervision of a registered professional engineer in the State of Georgia, including an independent consulting engineer or engineering firm retained by the City.
+15.60.080 - Liability Disclaimer.
+For its reviews, approvals, inspections and related matters, the City assumes no liability whatsoever for, but not limited to, property damage, bodily harm and death, survey errors and deficiencies, design and construction errors, omissions and deficiencies, defective materials and equipment and related matters. This liability disclaimer shall also apply to and include individually any City personnel and representatives, including independent consulting engineer(s) retained by the City. The owner/developer and their contracting parties shall be responsible for any and all such liabilities.
+15.60.090 - Local, State, and Federal Laws and Requirements.
+In addition to City requirements and stipulations, it shall be the responsibility of the developer/owner to obtain necessary approvals and/or permits from the City and comply with all applicable codes, ordinances and requirements. Other applicable State and Federal laws, regulations and requirements shall be complied with whether herein mentioned or not.
+15.60.100 - Preliminary Review.
+For developments and major connections to the City sewer system, the City shall be contacted and preliminary reviews/conferences conducted before detailed design is performed. A preliminary plan should show the development and proposed sewer layout. The type of development and estimated average and peak sewage flows should also be provided. The purpose of the preliminary review and conferences is to allow the City to become familiar with the project, determine sewer availability and capabilities, and determine if there are any immediate apparent problems, special needs or concerns. The preliminary review should include the entire program development even though it may be constructed in phases.
+15.60.110 - Expeditious Construction Required.
+Once sewerage facility construction is commenced, the project must be diligently pursued to completion. Completed sections should be adequately protected as covered elsewhere in these specifications.
+15.60.120 - Standard Details.
+Standard sewer details as developed by the City or an approved equivalent shall be a part of the design and construction requirements.
+15.60.130 - Technical Codes and Standards.
+All materials, equipment, fabrication, and installation practices shall comply with the following applicable codes and standards, except in those cases where the builder's standards establish more stringent quality requirements, as determined by the City.
+EXPAND
+A. Pressure Piping.
+ANSI (American National Standards Institute)
+API (American Petroleum Institute)
+ASME (American Society of Mechanical Engineers)
+AWWA (American Water Works Association)
+NSF (National Sanitation Foundation)
+B. Materials.
+AASHTO (American Association of State Highway & Transportation Officials)
+ANSI (American National Standards Institute)
+ASTM (American Society for Testing and Materials)
+C. Painting and Surface Preparation.
+NACE (National Association of Corrosion Engineers)
+SSPC (Steel Structures Painting Council)
+D. Aluminum.
+AA (Aluminum Association)
+AAMA (Architectural Aluminum Manufacturers Association
+E. Steel.
+AISC (American Institute of Steel Construction)
+F. Concrete.
+ACI (American Concrete Institute)
+G. Welding.
+ASME (American Society of Mechanical Engineers)
+AWS (American Welding Society)
+H. Safety.
+OSHA (Occupational Safety and Health Act)
+I. Plumbing.
+AGA (American Gas Association)
+NSF (National Sanitation Foundation)
+PDI (Plumbing Drainage Institute)
+SPC (SBCC Standard Plumbing Code)
+  In addition, all work shall comply with the applicable requirements of local codes and ordinances, utilities, and other authorities having jurisdiction.
+All material and equipment, for which a UL Standard, an AGA approval, or an ASME requirement is established, shall be so approved and labeled or stamped. Label or stamp shall be conspicuous and not covered, painted, or otherwise obscured from visual inspection.
+15.60.140 - Plan Requirements.
+Plans submitted to the City for review must contain the following:
+A.
+General information.
+1.
+Project name.
+2.
+Plans should be on paper no larger than 24" × 36".
+3.
+Plans must have the seal of the Georgia Registered Professional Engineer who engineered the system, as well as his address and telephone number.
+4.
+All plans should have scale and north arrow.
+5.
+Each set of plans shall include a plan sheet that depicts the entire project layout. This plan sheet shall be overlain with numbered boxes which depict the location of each individual large-scale plan and profile sheet within the set of plans with the box numbers corresponding to the subsequent sheet numbers.
+6.
+For developer projects and similar, the developer's name, address and telephone number must be shown on the plans as well as a 24 hour/day contact person and phone.
+7.
+After the initial review (one copy required), four (4) copies of the plans should be submitted for final review.
+8.
+The plans shall show a tabulation of linear footage of sewers by sizes, number of manholes, and other items.
+9.
+The plans shall be on a CD ROM in Auto Cad 14 format.
+B.
+Site plan.
+1.
+Show all phases of the development. In the event the development is in phases, the final construction plans for sewers may be submitted in phases or units. However, at the time the first phase is submitted, the engineer will need to submit one (1) copy of the preliminary layout of the entire sewer system. This layout should show all lines required to serve any lots to be developed and any surrounding property that may be served through the property. The site plan for each phase or unit shall contain a location drawing showing the relationship of the phase or unit to the total project and to the surrounding streets and sewer outfalls.
+2.
+Streets and street names.
+3.
+Lot layout (if subdivision) or building location (if multi-family, commercial, or industrial).
+4.
+Land lot lines and district numbers.
+5.
+Proposed size, location and material of sewer lines and service lines.
+6.
+Contours in feet above MSL shall be shown on sewer plans. The contour interval shall not be greater than ten (10) feet.
+7.
+Show the total square footage under roof and describe usage for commercial or industrial development.
+C.
+PLAN AND PROFILE SHEETS SHALL BE PROVIDED FOR ALL SEWERS (EXCEPT SERVICE LINES). Profiles should have a horizontal scale of not more than 100 feet to the inch and a vertical scale of not more than 10 feet to the inch. The plan view should normally be shown on the same sheet as the profile. Plan and profile views should have line designations, station numbers, manhole numbers and any other indexing necessary to easily correlate the plan and profile views.
+Plans and profiles shall show:
+1.
+Location and names of streets, sewers and drainage easements.
+2.
+Line of existing and proposed ground surface, the grade of the sewer between each two adjacent manholes, size and material of pipe, length between manholes, invert of sewer in and out of each manhole, and Surface elevation of each manhole. All manholes shall be numbered on the plan and correspondingly numbered on the profile. The station number shall be shown for each manhole.
+3.
+The location and elevation of adjacent parallel stream beds and of adjacent lake surfaces shall be shown on the plan and profile.
+4.
+Sizes, locations and inverts of all special features such as connections to existing sewers, concrete encasements, collar walls, elevated sewers, piers, special manhole covers such as vented outfall or sealed covers, etc.
+5.
+All structures both above and below ground that might interfere with the proposed construction, particularly water mains, gas mains, storm drains, utility conduits, etc.
+D.
+DETAIL DRAWINGS. Special detail drawings at a scale to clearly show the nature of the design shall be furnished to show the following particulars:
+1.
+All stream crossings and storm drain outlets with elevations of the streambed.
+2.
+Details of all special sewer joints and cross sections.
+3.
+Details of special sewer appurtenances such as manholes, service connections, elevated sewers, piers, pipe bedding, special highway crossings, railroad crossings, etc.
+Note: Details shall be in compliance with City standards where applicable. These plans will need to be on CD ROM in Auto Cad 14 format.
+E.
+REVISIONS TO APPROVED PLANS. When any deviations from approved plans affecting capacity, flow or operation of units are made, the City shall be notified for authorization. Revised plans should be submitted as soon as possible. Minor changes not affecting capacities, flow or operation may be allowed in the field during construction. The City shall have final decision as to what constitutes a minor or major change. All revisions shall be shown on the final project "as-built" plans.
+15.60.150 - Other Considerations.
+A.
+Building Sewer Responsibility (also called Service Sewer or House Sewers). It shall be the obligation of the owner/developer of the building or buildings being connected to the City wastewater system to determine the elevations, grades and alignment of sewer lines necessary to serve the building prior to the pouring of the building foundation or footings, and to design and construct the connecting sewer in accordance with the information thus obtained. Approval of sewer plans by the City will not assure the owner that all building elevations are capable of being served by gravity flow.
+B.
+Underground Power Layout Approval Required. Where underground power service is approved, the City reserves the right not to approve the sewers until the sewer facilities layout has been reviewed by the power company and a letter so stating may be required.
+C.
+Sand and Oil/Grease Interceptors (See McDonough Sewer Services Ordinance, Chapter 13.08).
+1.
+All users involved in the preparation of food for commercial purposes shall provide oil/grease traps. The design criteria for sand and oil/grease interceptors is shown in a following subsection.
+2.
+All users whose wastewater is generally accompanied by unusually large quantities of grit, sand or gravel shall be required to install a sand trap. All car/truck wash systems shall be required to install sand traps.
+D.
+Permits/Encroachments.
+1.
+All construction on State right-of-way or any streets over which the Georgia D.O.T. has jurisdiction will require a State Department of Transportation (D.O.T.) encroachment permit or equivalent D.O.T. approval.
+2.
+All construction on railroad (R.R.) right-of-way will require a R.R. encroachment permit.
+3.
+All construction on utility easements such as gas, power or telephone shall require the appropriate encroachment permits from these utility companies.
+4.
+The City will assist in all of the encroachment permit applications referred to above in cooperation with the developer's engineer and applied for through the City.
+E.
+All State or County roads shall be bored unless otherwise approved by the County.
+F.
+No person shall make connection of roof downspouts, foundation drains, areaway drains, swimming pools, dumpster pads or other sources of surface runoff or groundwater to a building sewer or building drain which in turn is connected directly or indirectly to the City wastewater system unless such connection is approved for purposes of disposal and polluted surface drainage and for which a discharge permit or approval has been issued.
+G.
+No sewers shall be located in detention basins, ponds, or lakes.
+H.
+For all sewers to be located on private property, at least a 20 foot wide permanent easement shall be shown on the plans and conveyed to the City. For easements off the developer's property, the City may assist in obtaining sewer easements, but the primary responsibility and cost lies with the developer.
+15.60.160 - Design Criteria.
+A.
+Technical Codes. In addition to these standards, construction of all sewerage facilities shall conform to the applicable technical codes in this Chapter.
+B.
+Sanitary sewers shall not be designed to transport storm water.
+C.
+Facility Sizing. By negotiation with the developer, the City may require an increase in sewer sizes and sewerage facilities to accommodate either existing or future upstream or off property development with the developer(s) paying a prorata share of the costs by negotiation. In such cases, the City may elect to design and construct the increased size facilities, charging the developer(s) a negotiated prorata share and with the developers being responsible for development sewerage facilities to be compatible with the City design and construction.
+D.
+Design Factors.
+1.
+In determining the required capacities of sanitary sewers, the following factors to be considered should include, but are not limited to:
+a.
+Maximum daily sewage flow based on accepted peak factors.
+b.
+Addition maximum sewage or waste flow from other areas, including industrial plants and commercial areas.
+c.
+Groundwater infiltration.
+d.
+Topography of the area.
+e.
+Soils condition.
+f.
+Depth of excavation.
+g.
+Average daily and peak flows.
+2.
+Flows and Loadings. When required before approval, the developer shall submit data on number of services, connection schedules, wastewater flows and characteristics and related information. For proposed industrial connections, the wastewater flows and characteristics should be submitted during early proposal or planning stages of the industrial facilities to determine City acceptance requirements for the wastewater.
+E.
+Details of Design and Construction.
+1.
+Size. No sewer shall be less than 8" in diameter, except for building sewers (service lines) as specified herein.
+2.
+Street Crossings. All sewers installed in the street shall be sufficiently deep to provide 5 feet of cover at the inlet end of all service laterals at the street right-of-way, and over any part of the collector sewer or service lateral within the street right-of-way. Exception. When necessary, shallower cover may be allowed with ductile iron pipe with proper bedding.
+3.
+Road Crossings. Road crossings (except for interior subdivision streets) shall be steel cased, 0.25" minimum thickness. Ductile iron carrier pipe shall be used within the casing. Refer to City standard details. Manholes shall be used on either side of a road crossing unless otherwise approved.
+4.
+Sewer Slopes. All sewers shall be so designed and constructed to give mean velocities, when flowing full, of not less than 2.0 feet per second. Regardless of the roughness coefficient used to figure velocity, the following are the minimum slopes that should be provided; however, slopes greater than these are desirable:
+EXPAND
+Sewer Size
+
+(inches) Minimum Slope in
+Feet per 100 feet
+8 0.50*
+10 0.29
+12 0.22
+14 0.17
+15 0.15
+16 0.14
+18 0.12
+21 0.10
+24 0.08
+27 0.07
+30 0.06
+36 0.05
+  0.40 ft/100 ft. may be allowed where necessary to avoid pumping.
+All gravity sewers shall be a minimum of 8" except for service laterals (Building Sewers).
+5.
+Ductile Iron Pipes - When Required. Ductile iron sanitary sewers, Class 50 minimum, shall be used under the following circumstances:
+a.
+When the proposed sewer line is under less than 3 feet of cover.
+b.
+When the proposed sewer line crosses a storm sewer with less than 2 feet of clearance.
+c.
+When the proposed sewer line passes laterally within 1 foot of a storm sewer.
+d.
+When the proposed sewer line is under a fill of 16 feet or more.
+e.
+When the sewer slope is greater than 10%. Concrete anchor collars shall also be used with slopes, when absolutely necessary, greater than 20%.
+f.
+In certain cases of poor soil conditions, high water table, etc.
+6.
+Manholes shall be in compliance with City standard details or an approved equal. Manholes shall be used in all changes of line direction and grade. An outside drop at the manhole shall be provided wherever the drop is greater than 2 feet except slightly greater drop distances may be allowed with larger size pipe as necessary with standard fitting size. See Standard Detail.
+7.
+Minimum angle between influent and effluent sanitary sewer lines at a manhole shall be 90 degrees. A drop of at least 0.1 feet between the effluent and influent elevations shall be used where possible.
+8.
+The maximum distance between two manholes shall be 400 feet.
+9.
+Sewer Easements. A minimum twenty-foot (20') permanent sanitary sewer easement shall be used on all lines for sewers outside of public rights-of-way and dedicated roads and streets. All sewer easements shall be grassed. Riprap shall be placed where required to control erosion.
+10.
+Creek Crossings. Creek crossings shall where possible shall be underneath the streambed. The sewer line shall be in a concrete encasement in accordance with the City's standard detail or an approved equal. Aerial creek crossing will only be approved when absolutely necessary and will be considered on a case by case basis. Riprap shall be used as necessary. As an alternative, a jack and bore installation in a casing pipe will be considered on a case by case basis.
+11.
+Bedding. Bedding shall be Class B (to spring line of pipe) per the City's standard detail. Class A bedding may be required in certain cases of poor soils conditions, heavy surface loadings, necessary shallow cover and similar circumstances. Class B bedding shall consist of # 57 stone or smaller and to a minimum of 4" under the pipe.
+12.
+Service lines shall be in accordance with the City's standard detail. A minimum size of 4" shall be used for a single residential service and smaller commercial establishments. A 6" or larger service line shall be used for more than one residential service or larger commercial establishments or other larger water using customers. Sizes 6" and larger shall discharge into a manhole where reasonably possible.
+13.
+Pipe Between Manholes. The same type pipe shall preferably be run from manhole to manhole. However, an acceptable coupling (FERNCO or equal) between two types of pipe (e.g. ductile iron to PVC) may be used when it is encased in concrete.
+14.
+Other Requirements. Lines shall be constructed using laser beams and targets to maintain proper lines and grades.
+E.
+Sand and Oil/Grease
+Interceptors.
+1.
+All sand and oil/grease interceptors used in conjunction with restaurants or other eating establishments shall have a capacity of 15 gallons per seat, except that no grease trap shall be smaller than 750 gallons or larger than 3000 gallons.
+2.
+All sand and oil/grease interceptors used in conjunction with facilities other than eating establishments shall have a capacity that will provide not less than 10 minutes nor more than 30 minutes retention time at the peak 8-hour flow rate. Flow through velocities shall not exceed one foot per second at the peak 8-hour flow rate.
+15.60.170 - General Material Specifications for Sewer System.
+A.
+Pipe Materials.
+1.
+Polyvinyl Chloride (PVC) Pipe.
+a.
+PVC sewer pipe and fittings shall be plastic gravity sewer pipe with integral wall bell and spigot joints for the conveyance of domestic sewage. Pipe and fittings shall meet extra strength minimum of SDRA35 of the requirements of ASTM D 3034A73 for 4" through 15" and ASTM F 679 for 18" through 27". Minimum wall thickness shall be as follows:
+EXPAND
+4" 0.120 inches
+6" 0.180 inches
+8" 0.240 inches
+10" 0.300 inches
+12" 0.360 inches
+15" 0.437 inches
+18" 0.536 inches
+21" 0.632 inches
+24" 0.711 inches
+27" 0.801 inches
+  b.
+Unless satisfactory documentation is otherwise provided, each length of pipe shall be marked with the manufacturer's name, trade name, nominal size, class, hydrostatic test pressure, manufacturer's standard symbol to signify it was tested, and date of manufacture. Each rubber ring shall be marked with the manufacturer's identification, the size, the year of manufacture and the classes of pipe with which it can be used.
+c.
+Under no circumstances shall PVC pipe ever be installed above ground.
+2.
+Ductile Iron Pipe. Ductile iron pipe and fittings shall conform to the requirements of ANSI: A21.51 (centrifugally cast in metal or sand lined molds). Pipe shall be thickness Class 50. The pipe shall be lined with Polybond or Polyline, or approved equal. The lining shall have a minimum thickness of 40 mils. The exterior of the pipe shall be sealed coated with an approved bituminous seal coat in accordance with ANSI:A21.4. All sewage force mains will be ductile iron.
+3.
+High Density Polyethylene (HDPE) Pipe. High density polyethylene pipe and fittings shall be made of high density, high molecular weight polyethylene pipe material meeting the requirements of Type III, Class C, Category 5, Grade P34, as defined as ASTM D 1248 Standard Specification for Polyethylene Plastics Molding and Extrusion Materials.
+B.
+Joint Materials.
+1.
+Joints Between Dip. Ductile iron pipe shall be of the bell and spigot type with push-on joints, conforming to ANSI Specification A21.11 or mechanical joints.
+2.
+Joints Between PVC. PVC pipe shall be jointed with a rubber or PVC ring or gasket designed to prevent inflow or exflow. Mechanical Compression Joint or molded plastic or similar material (with or without the use of rubber or elastic plastic compression rings) as described in ASTM Specifications CA425 for Polyvinyl Chloride (Slip Joint). Precast Joints or Polyvinyl Pushtype Gaskets for compression joint sealing (ASTM D 3312 or F 477) are all acceptable. (PVC pipe shall not be joined by a solvent cement joint in which the pipe spigot wedges into the tapered socket and the surfaces fuse together.)
+3.
+Joints between HDPE. HDPE pipe shall be joined by bell and spigot gasket style or thermal weld type connections in accordance with manufacturer's recommendations and shall show no sign of leakage. In the case of gasket type, all surfaces of the joint upon which the gasket may bear shall be smooth and free of such imperfections, ridges, fractures or cracks that could adversely affect sealability.
+C.
+Precase Concrete Manholes.
+1.
+Precast concrete manholes shall consist of precast reinforced concrete sections with eccentric, (or flat slab for shallow manholes) top section and a base section conforming with the typical manhole details as shown on the Standard Detail Drawings.
+2.
+Precast manhole sections shall be manufactured, tested, and marked in accordance with the latest provisions of ASTM Standard Specifications, Serial Designation C 478.
+3.
+Joints of the manhole sections shall be of the tongue-and-groove type. sections shall be joined using oAring rubber gaskets, flexible plastic gaskets conforming to the applicable provisions of ASTM Standard Specification, Serial Designation C 443, latest revision, or an approved bituminous mastic joint material.
+4.
+Each section of the precast manhole shall have not more than two holes for the purpose of handling and laying. These holes shall be sealed with cement mortar using one part Portland cement to two parts clean sand, meeting ASTM Standard Specifications, Serial Designation C 144, latest revision.
+5.
+Manhole steps conforming to the applicable provisions of the ASTM Specification C 478, latest edition, such as aluminum 14967 as manufactured by Alcoa or Plastic Step manufactured by M.A. Industries, Inc., or equal, shall be factory built into the precast sections.
+6.
+Holes in precast bases to receive sewer pipe shall be precast at the factory at the required locations and heights. Knocking out of holes in the field will not be permitted. All manholes shall have KorANASeal (or equal) rubber boots for all pipe entries/exists.
+7.
+Manhole bases and inverts shall be constructed of 2500 psi concrete in accordance with details on Standard Detail Drawings and inverts shall have the same cross-section as the invert of the sewers which they connect. The manhole base and invert shall be carefully formed to the required size and grade by gradual and even changes in sections. Changes in direction of flow through the sewer shall be made to a true curve with as large a radius as the size of the manhole will permit.
+8.
+The manhole base shall be set upon a 6-inch (minimum thickness) mat of #57 crushed stone.
+9.
+Brick work required to complete the precast concrete manhole shall be constructed using 1 part portland cement to 2 parts clean sand, meeting ASTM Specifications, Serial Designation C 144, thoroughly mixed to a workable plastic mixture. Brick work shall be constructed in a neat and workmanlike manner. Cement mortar shall be used to grout interior exposed brick joints and faces.
+10.
+The cast iron frame for the manhole cover shall be set at the required elevation and properly anchored to the masonry. Frames and covers shall be Vulcan VMA3MOD or equal. Where manholes are constructed in paved areas, the top surface of the frame and cover shall be titled to conform to the exact slope, crown and grade of the existing adjacent pavement. Manholes on all interceptor sewers and sewers outside of streets shall have bolt-down covers. Water-tight covers shall also be used on interceptor sewers outside of streets and on all sewers on elevation lower than the 100-year flood.
+11.
+Masonry work shall be allowed to set for a period of not less than 24 hours. All loose or waste material shall be removed from the interior of the manhole. The manhole cover then shall be placed and the surface in the vicinity of the work cleaned off and left in a neat and orderly condition.
+D.
+Casings.
+1.
+Steel casing pipe shall be used for all cased piping.
+2.
+Steel casing pipe shall have a minimum yield strength of 35,000 psi and shall conform to the requirements of ASTM A 139. It shall be fully coated on the exterior and interior with a coal tar coating. The casing pipe diameter shall be six to eight inches greater than the "bell" diameter of the carrier pipe. Minimum wall thickness shall be as follows:
+EXPAND
+Nominal Diameter
+
+(inches) Nominal Thickness
+(Inches)
+Up to 18 0.250
+20 0.281
+21 0.312
+24 0.344
+25 0.375
+28 0.406
+29 0.406
+32 0.438
+34 0.469
+36 0.469
+  15.60.180 - Sewer System Excavation and Construction.
+A.
+Trench Excavation. Trench excavation shall conform to OSHA regulations, 29 CFR 1926, Subpart P, Paragraph 1926.650 through 1926.653 or the latest revisions or other OSHA requirements.
+B.
+Trenches shall be cut true to the lines and grades shown on the plans. The bottom of the trench shall be cut carefully to the required grade of the pipe except where bedding materials or cradles are shown in which case the excavation shall extend to the bottom of the bedding or cradles as shown on the plans. Minimum pipe cover shall be as shown on the approved plans.
+C.
+Bell holes shall be excavated at proper intervals so the barrel of the pipe will rest for its entire length upon the bottom of the trench or its bedding. Bell holes shall be large enough to permit proper installation of all joints in the pipe.
+D.
+Pipe trenches shall not be excavated more than 100 feet in advance of pipe laying, and all work shall be performed to cause the least possible inconvenience to the public. Adequate temporary bridges or crossings shall be constructed and maintained where required to permit uninterrupted vehicular and pedestrian traffic.
+E.
+All excavations shall be adequately guarded with barricades and lights in compliance with all OSHA and Georgia Department of Transportation requirements so as to protect the public from hazard.
+F.
+Excavations adjacent to existing or proposed buildings and structures, or in paved streets or alleys shall be sheeted, shored and braced adequately to prevent undermining or subsequent settlement of such structures or pavements. Underpinning of adjacent structures shall be done when necessary to maintain structures in safe condition.
+G.
+Streets sidewalks, parkways, and other public property disturbed in the course of the work shall be restored to as near as original condition as possible in a manner satisfactory to the City.
+H.
+Whenever water is present in the trench, it shall be removed in a manner satisfactory to the City and enough backfill shall be placed on the pipe to prevent floating. Any pipe that has floated shall be removed from the trench and relaid later during dry conditions. No pipe shall be laid in wet trench conditions that preclude proper bedding, or on frozen trench bottom, or when, in the opinion of the City, the trench conditions or the weather are unsuitable for proper installation.
+15.60.190 - Rock Excavation.
+A.
+Drilling and blasting operations shall be conducted with due regard for the safety of persons and property in the vicinity and in strict conformity with requirements of all ordinances, laws and regulation governing blasting and the use of explosives. Rock excavation near existing pipelines or other structures shall be conducted with the utmost care to avoid damage. Injury or damage to other structures and properties shall be promptly repaired to the satisfaction of the City and property owner.
+B.
+Rock in trenches shall be excavated over the horizontal limits of excavation and to depths as follows:
+EXPAND
+Size of Pipeline Inches Depth of
+Excavation Below
+Bottom of
+Sewer Pipe
+4 and less 4
+4 to 6 6
+8 to 18 8
+18 to 30 10
+over 30 12
+  C.
+The space below grade for pipe lines shall then be backfilled with #57 and smaller crushed rock, gravel, or other approved bedding material.
+15.60.200 - Backfilling Trenches.
+A.
+General. Backfill material shall consist of fine, loose earth containing sufficient but not excessive moisture content for thorough compaction. Material that is too dry for adequate compaction shall receive a prior admix of sufficient water to secure adequate moisture content. Material having excessive water content shall not be placed at any time. Backfill material shall be free of large clods, stones, vegetable matter, debris and other objectionable material.
+B.
+Backfilling Beneath Roads, Sidewalks, or other Critical Areas. All backfill beneath roads, sidewalks or other critical areas shall be compacted to 95% Standard Proctor or as otherwise required by the D.O.T. or other such agency having jurisdiction using mechanical tamping equipment in 6-inch lifts. It shall be the responsibility of the sewer contractor (or developer) to demonstrate to the City that 95% compaction has been obtained.
+C.
+Settlement. Owner/developer shall be responsible to remedy any settlement of backfill placement for one year after work acceptance and within 30 days of due notice by the City.
+15.60.210 - Installation of Sewer Pipe.
+A.
+Pipe and accessories shall at all times be handled with care to avoid damage. Whether moved by hand, skidways or hoists, material shall not be dropped or bumped. The interior of all pipe shall be kept free from dirt and foreign matter at all times. Each joint of pipe shall be unloaded opposite or near the place where it is to be laid in the trench.
+B.
+All such material that is defective in manufacture or has been damaged in transit or after delivery shall be removed from the job site.
+C.
+Sewer pipes shall be joined by "push-on" joints using elastomeric gaskets to affect the pressure seal. The ends of pipe to be jointed and the gaskets shall be cleaned immediately before assembly, and the assembly shall be made as recommended by the pipe manufacturer. Lubricant used must be non-toxic and supplied or approved for use by the pipe manufacturer. Sewer pipes shall be laid in the uphill direction with the bells pointing upgrade. Any variation from this procedure shall require approval from the City.
+D.
+When pipe laying is not in progress, the open ends of installed pipe shall be plugged by approved means to prevent entrance of trench water, dirt and animals into the line.
+E.
+No special laying conditions are required for ductile iron pipe (DIP) other than Class B bedding and soil compaction to 12 inches above the spring line and any other conditions which are stipulated elsewhere in these specifications.
+F.
+The following laying conditions shall be followed with PVC pipe:
+1.
+PVC pipe shall be in Class B bedding as specified elsewhere and shown on Standard Details.
+2.
+When embedding PVC pipe in friable, compressible soils (e.g., silt, clay, sandy clay, silty clays, etc.), special care must be exercised to provide a uniform (undisturbed or fully compacted) trench bottom. Additionally, the backfill must be compacted to 95% standard proctor in 6 A 8. lifts to 12 inches above the top of the pipe.
+3.
+All PVC pipe shall be subject to a deflection test using an acceptable mandrel testing procedures performed by the sewer contractor. The maximum deflection in any section shall not exceed 7.5% from design conditions. If a section with excessive deflection is found, locate it; dig down and uncover the pipe; inspect the pipe, if any damage is found, replace it; if pipe is not damaged, replace and thoroughly tamp the hunching and initial backfill; replace remainder of backfill.
+G.
+Bell holes shall be provided of sufficient size to allow ample room for making the pipe joints properly. The bottom of the trench between bell holes shall be carefully graded so that the pipe barrel will rest on a solid foundation for its entire length as shown on the plans. Each joint shall be laid so that it will form a close concentric joint with adjoining pipe and in order to avoid sudden offsets or inequalities in the flow line.
+H.
+Water shall not be allowed to run or stand in the trench before the trench has been backfilled. The contractor at no time shall open up more trench than his available pumping facilities are able to dewater.
+15.60.220 - Connections.
+A.
+Service Connections Generally.
+1.
+A sewer service (building sewer) stubout with plugged stub shall be provided for every existing or proposed lot or building. See Standard Detail. All services shall be shown on the construction drawings. Wye branches of the same material as the collector sewer shall be installed on the collector sewer lines at the locations shown on the construction drawings for each service connection. A single service stub shall be provided for each single family residence being served unless otherwise approved. The service stub shall extend from the wye to the property line of the lot being served.
+2.
+The developer shall be responsible for serving all lots developed. On any lot where the service stub cannot be found, the developer shall install or be responsible for payment of the cost of installation of the service stub. Also, unless otherwise noted on the final plat, the service stub shall be low enough to serve the first ground level floor elevation, and where grades permit, it shall be low enough to serve the basement.
+3.
+For new construction, the builder shall be responsible for the location of the service line and checking its elevation prior to the pouring of the foundation, driveway or other appurtenance. The City will not be responsible for any house built too low to the served nor for any service covered by construction.
+4.
+Riser connections shall be installed on service lines which are greater than 9 feet deep.
+5.
+Service stubs shall be laid in compacted or undisturbed soil from the main sewer to he property line. The slope shall be 2.0% or greater unless otherwise approved. All house or service lines not immediately connected to a service stub shall be located and marked in the same manner as described for plugged stubs, below.
+6.
+No plumber or contractor will be allowed to make a tap onto the City sewerage system without prior approval and without the tap being made in the presence of a City inspector.
+B.
+Plugged Stubs.
+1.
+All service lines extending from collector sewers must utilize a plugged stub at the termination point.
+2.
+Service lines shall be plugged with an air-tight, removable plastic plug.
+3.
+The precise location of each plugged stub shall be indicated on the as-built plans to the nearest foot.
+C.
+Service Connections Where Plugged Stub Not Provided.
+1.
+Connections to existing sewer lines where no plugged stub exists shall be made by removing a section of the sewer from the existing line and inserting, in the space, a wye branch of proper size, or by the construction of a manhole or other such method as approved by the City.
+2.
+Connections to existing manholes where no plugged stubs exist shall be made by neatly cutting a hole in the wall of the existing structure with a coring machine at or near its invert, inserting a length of sewer pipe into the hole, filing around the pipe with materials and procedures approved by the City.
+3.
+The expense of sewer connections shall be by the owner/developer or in accordance with City policy.
+15.60.230 - Railroad Crossings.
+All railroad crossings shall conform to the requirements of the American Railway Engineering Association Manual for Railway Engineering, Part 5. The contractor shall secure permission from the railroads to schedule the work so as not to interfere with the operation of the railroads. The sewer contractor shall be held responsible for any delays or damages occurring to the railroads. The sewer contractor or his contracting party will furnish the railroad with such additional insurance as may be required, cost of same to be borne by the sewer contractor or his contracting party, together with the costs for flagmen, watchmen, temporary work of any nature, safety devices and any other items that may be imposed by the railroad.
+15.60.240 - Highway Crossings.
+A.
+The sewer contractor or his contracting party shall be responsible for the coordinating and scheduling of all construction work in the State Highway right-of-way with the City and/or Georgia Department of Transportation, as appropriate.
+B.
+Work along and across Georgia State Highway right-of-way shall conform to Georgia D.O.T. Standard Specifications for Construction of Roads and Bridges.
+15.60.250 - Jack and Bore.
+A.
+Jacks for forcing the casing pipe through the roadbed shall have a jacking head constructed in such a manner as to apply uniform pressure around the ring of the pipe. The pipe to be jacked shall be set on guides, braced together, to properly support the section of the pipe and direct it to the proper line and grade. In general, roadbed material shall be excavated just ahead of the pipe, the excavated material removed through the pipe, and the pipe then forced through the roadbed into the excavated space.
+B.
+Where pipe is required to be installed under railroads, highways, streets, or other facilities by jacking or boring methods, construction shall be done in a manner that will not interfere with the operation of the facility and shall not weaken the roadbed or structure.
+C.
+Excavated material will be placed near the top of the working pit and disposed of as required. The use of water or other fluids in connection with the boring operation will be permitted only to the extent necessary to lubricate cuttings. Jetting will not be permitted.
+D.
+The diameter of the excavation shall conform to the outside diameter and circumference of the casing pipe as closely as practicable. Any voids which develop during the installation operation shall be pressure grouted.
+E.
+The pipe shall be jacked from the low or downstream end. At each end of the casing pipe the void between the carrier pipe and casing shall be sealed with brick and mortar. Any pipe damaged in jacking operations shall be removed and replaced by the Sewer Contractor at his expense.
+F.
+After the steel casing pipe has been installed, the DIP carrier pipe shall be installed in the casing pipe. Care shall be exercised at all times to protect the coating and lining of this pipe and to maintain tight, full-seated joints in the carrier pipe. See Standard Detail.
+15.60.260 - Relationship to Water Lines.
+A.
+The following clearances from water pipes shall be maintained:
+1.
+Ten feet horizontal distance between sewer and water main for parallel installation.
+2.
+Eighteen inches vertical distance for water main and sewer crossings.
+B.
+The City may allow parallel installation of water line closer than ten feet to a sewer, provided that the water main is in a separate trench or on an undisturbed earth shelf located on one side of the sewer and at an elevation so the bottom of the water main is at least 18 inches above the top of the sewer.
+C.
+For sewer and water main crossings the crossing shall be arranged so that the sewer joints will be equal distance and that as far as possible from the water main joints. Where a water main crosses under a sewer, adequate structural support shall be provided for the sewer, and ductile iron pipe may be required.
+15.60.270 - Replacement of Pavement.
+A.
+General. The sewer contractor shall fully restore and replace all pavement, curbs, gutters, sidewalks and other surface structures removed or disturbed, to a condition that is as near original condition as possible.
+B.
+Pavement Cuts.
+1.
+All pavement cuts shall be made by sawing prior to excavation to eliminate uneven and ragged edges.
+2.
+All road cuts shall have an 8 inch thick concrete cap (3000 psi in 28 days) which shall extend not less than 12 inches beyond the edges of the backfilled ditch. See Standard Detail.
+3.
+Final asphalt patches shall match the existing pavement type, quality and thickness as closely as possible. Special care shall be exercised to match existing slopes and grades for a smooth transition.
+C.
+Pavement Replacement. Where sewer lines are installed in existing paved streets, the streets in which the sewer lines are installed shall receive a full-width asphalt repaving in according with County or State D.O.T. specifications.
+15.60.280 - Location and Protection of Existing Underground Utilities.
+It is the responsibility of the sewer contractor to locate all underground utilities and to protect same. Utility lines or services damaged by the sewer contractor shall be repaired by him at his own expense.
+15.60.290 - Testing.
+A.
+Infiltration Testing. Sewer construction shall be performed to minimize infiltration. In any event, infiltration of groundwater into sewer lines shall not exceed 100 gallons per inch of diameter, per a 24 hour day, per mile of sewer. Inflow of surface or groundwater into sewers because of construction deficiencies shall not be allowed.
+B.
+Low Pressure Air Testing. Where excessive infiltration is apparent or is suspected, the City can require that all lines be air tested in the following manner after backfilling and tamping has been completed:
+1.
+Test Preparation. All wyes, tees or end-of-side sewer stubs shall be plugged with flexible-joint caps, or acceptable alternate, securely fastened to withstand the internal test pressure. Prior to testing for acceptance, the pipe should be cleaned.
+2.
+Test Procedure. The sewer segment being tested shall be pressurized to 3.5 psi. A short period of time (2-4 minutes) may be required to allow the pressure to stabilize. The pressure shall not decrease more than 0.5 psi (from 3.5 to 3.0 psi) during the time periods shown below:
+EXPAND
+Pipe Size
+
+(inches) Time
+4 2 min. 32 sec.
+6 3 min. 50 sec.
+8 5 min. 6 sec.
+10 6 min. 22 sec.
+12 7 min. 39 sec.
+above 12 case by case basis
+  3.
+Test Failure. If the pipe installation fails to meet the infiltration or air test requirements shown above the sewer contractor shall determine at his own expense the source or sources of leakage, and he shall repair or replace all defective materials or workmanship. The completed pipe installation shall meet the requirements of these tests and the results of the air test shall be neatly tabulated by the contractor and submitted to the City inspector.
+C.
+Alternate Exfiltration Test.
+1.
+At the discretion of the City, exfiltration tests may be required or allowed in lieu of the air test.
+2.
+Exfiltration tests shall be conducted by blocking off all manhole openings except those connecting with the reach being tested, filling the line and measuring the water required to maintain a constant level in the manholes. During the exfiltration test, the average water depth above the pipe invert shall be 10 feet unless manhole depths are such that this is impossible. The maximum depth at the lower end shall not exceed 25 feet and the minimum depth at the upper end shall be at least 5 feet above the crown of the pipe.
+3.
+The total exfiltration shall not exceed 100 gallons per inch of nominal diameter per mile of pipe per day for each reach tested. For purposes of determining maximum allowable leakage, exfiltration tests shall be maintained on each reach for at least 2 hours and as much longer as necessary, in the opinion of the City, to locate all leaks.
+4.
+The sewer contractor shall provide, at his own expense, all necessary equipment and materials required for the tests. The methods used and the time of conducting exfiltration tests shall be acceptable to the City.
+5.
+If the leakage in any reach exceeds the allowable maximum, the reach shall be rested after the leaks are repaired and other remedial action is taken. (See B-3 above)
+D.
+Costs of Testing. Testing shall be at the expense of the owner/developer or sewer contractor and is subject to observation by the City.
+6.
+Video Testing. The contractor shall video all sewer lines after all previous testing is completed. The contractor shall furnish a copy of the video to the City. The City shall be given 24 hour notice prior to the testing.
+15.60.300 - Other Checks and Testing.
+The installed sewers are subject to a thorough inspection by the City, including lines, grades, elevations, deflections, etc. The installed sewers will be "lamped" and where undue deflection is suspected or apparent, a deflection test can be required as specified elsewhere. Unaligned sewers shall also be corrected. The City may also require that installed manhole elevations and distances be obtained and shown on "as built" drawings; or when sufficient grade differences from design, the City may require field corrective action.
+15.60.310 - Clean-Up and Final Readiness.
+A.
+Prior to requesting the "completion of sewer construction" inspection, the contractor shall remove and dispose in an acceptable manner all shipping timbers, shipping bands, spacers, excess materials, broken material, crates, boxes and any other material brought to the job site.
+B.
+Any trees, lawns, shrubs, fences, flower beds, drainage culverts, or other property damaged by the sewer construction shall be repaired or replaced.
+C.
+All shoulders, ditches, culverts, and other areas impacted by the sewer construction shall be at the proper grades and smooth in appearance.
+D.
+All manhole covers shall be brought to grade.
+E.
+A uniform stand of grass when applicable is required prior to City's acceptance of the sewer.
+15.60.320 - Sewage Pump Stations.
+A.
+Applicability and Design Provisions.
+1.
+Size and Approvals. Pump stations are considered on a case by case basis. All pump stations require the approval of the EPD and/or the City. Pump stations are to be avoided where possible.
+2.
+Design and Construction. Where pumping is required, the City reserves the right to design and construct necessary pump stations, with appropriate charges being made to the owner/developer by negotiation. The City may elect to make the station larger than necessary to serve the development so that other tributary areas may be served.
+3.
+Design Documents. For approval by the City of privately-constructed pump stations, the Georgia registered engineer for the developer/owner shall submit for approval complete data, drawings and specifications of the pump station(s) and related force main(s), including but not limited to, the following:
+a.
+Location Map.
+b.
+Layout plan showing facility locations, topography, access, fencing, water service, property lines, including area to be deeded to City, etc.
+c.
+Design data on the station, such as average and peak flows, pumping capacity and heads, wet well capacity, pump efficiencies, pump curves, pertinent elevations, etc.
+d.
+Force main plan with size, length and type of pipe, etc.
+e.
+Wet well type, dimensions and pertinent elevations and appropriate material specifications.
+f.
+Power source and characteristics and electrical drawings and specifications.
+g.
+Standby power and alarm system.
+h.
+Erosion and sediment control.
+i.
+Access drive surfacing detail or specifications.
+j.
+Concrete and piping specifications as applicable.
+k.
+Fencing detail or specifications.
+l.
+Other pertinent details and specifications.
+B.
+Basic Technical and Engineering Requirements.
+1.
+Manufacture. The City is standardizing on Flygt submensible pumps for all pump station sizes. Standardization is necessary to reduce operation and maintenance costs by allowing the City to stock one manufacturer's parts and train personnel on one pumping system.
+2.
+Number of Pumps. At least two pumps shall be provided with capability to pump peak flows with one pump out of service.
+3.
+Land and Access. Ample land and an access drive shall be conveyed to the City at no cost to the City, to provide access and sufficient room for operation and maintenance. At least a 40-foot square area shall be provided or more if deemed necessary by the City. Special conveyance methods (lease, etc.) may be used by negotiation where the pump station is temporary or interim.
+5.
+Fencing and Gate. Unless otherwise approved, the station grounds shall be fenced with a 6-foot high chain link (woven wire) fence with 3 strands of barbed wire on top and with appropriate metal posts anchored in concrete. A vehicular double gate with locking provisions shall also be provided. All fencing material shall be galvanized or provided with an approved equal coating. Signs (e.g. "danger" and "keep out") as required by the City shall be posted on each side of the fence.
+6.
+Flooding and Drainage. Unless otherwise approved, the top of the station and its electrical gear and standby generator shall be above the 100 year flood plain. Appropriate surface drainage shall be provided away from the station and its appurtenances.
+7.
+Electrical. Three phase power shall be used except where single phase power can be justified. An approved pump control panel shall be furnished by the station manufacturer. All applicable electrical codes shall be complied with. The owner/developer shall arrange for incoming power and its metering in cooperation with the City. Motor run times shall be recorded on approved meter(s).
+8.
+Standby Power. Standby power shall be natural gas or diesel manufactured by Cummins/Onan or equal.
+9.
+Alarm and Status Signals. An approved high water alarm signal (horn, blinking colored light, etc.) shall be provided. The station shall also be compatible to receive and transmit alarm and status signals from the City's central radio control and monitoring system.
+10.
+Start Up and Manufacturer Services. The station shall be tested in the presence of City personnel to demonstrate compliance with these specifications and approved designed documents. A start up representative of the manufacturer shall also be present to check the installations, verify compliance with design data, assist in the testing and instruct City personnel in proper operation and maintenance procedures.
+11.
+Spare Parts. An approved supply of spare parts most subject to wear and replacement shall be provided (gaskets, wear rings and the like).
+12.
+Shop Drawings and Manuals. After review by the engineer for the owner/developer, at least three copies of shop drawings shall be submitted to the City for review and optional approval. At least four copies of final shop drawings shall be submitted to the City for its use and records. At least four copies of the manufacturer's operational and maintenance manuals, approved by the engineer for the owner/developer shall be submitted to the City.
+13.
+Warranties and Compliance Documents. In addition to the manufacturer's warranty of at least one year (defective parts, materials, workmanship, etc.), the owner/developer shall comply with other procedures and requirements for water and sewer construction for the specified period of time, normally one year after acceptance. The engineer for the owner/developer will be required to certify that the station was constructed in accordance with approved plans and specifications, or list any substantial deviations with the reasons. "As built" plans will be required similar to the as-built requirements for.
+14.
+Water Service. Unless otherwise waived, at least a one inch (1") potable water service line shall be run to the pump station and a larger size service line may be required in some cases. The water line shall terminate with a hose bibb inside the station housing; or, if approved, at a freeze proof hose hydrant (bibb) in the yard. The City will normally make the tap to the nearest satisfactory water main and set any required meters. Extension of the line to the station shall be at the expense of the owner/developer. A back flow and back siphonage device acceptable to the City shall be installed in the water service line. Installation of the potable water facilities shall be in accordance with City water specifications and standards.
+C.
+Basic Pump Station Specifications.
+1.
+Wiring. The lift station shall be completely wired at the factory, except for the power feeder lines, in accordance with applicable wiring standards set forth by the National Electric Code (NEC). All wiring in the lift station shall be color coded and numbered as indicated on the wiring diagram. The manufacturer shall provide conduit from the control panel to the power disconnect box outside that station wall to receive the feeder lines. Power-disconnect to be provided by the contractor. All components shall be electrically grounded to a common ground lug mounted on the control panel sub-plate. Upon installation of lift station, and before connection of any power feeder lines, contractor shall extend grounding wire from lug to external ground in accordance with local electrical code.
+2.
+Station Piping. Each pump suction shall be of ample size Class 150 cast iron pipe with a 125 lb. flanged connection inside station enclosure. The pump discharge lines shall be of ample size Class 150 cast iron pipe and fitted with suitable spring-loaded level type stainless steel fitted check valves. The common discharge header shall contain a 3-way plug valve. The common discharge outlet shall be of ample size with 125 lb. flange connection inside station enclosure. Piping and valve sizes shall be 3" minimum and larger if necessary. The contractor shall provide all other necessary suction and discharge piping and fittings to allow for a complete operating system. The lift station shall be equipped with a 3/8" NPT connection for the air bubbler line. Each pump shall be equipped with an individual air release line extending from the pump discharge line to permit the escape of air to atmosphere outside of the enclosure during initial or any unattended priming or repriming cycle.
+3.
+Engine.
+a.
+Type. Standby engine shall be a four cylinder, natural gas or diesel fueled air cooled type, and shall have continuous duty power rating suitable for the horsepower requirements of the pump, after derating to factors set forth under Performance. Engine shall be cooled by an integral forced air cooling system capable of maintaining safe engine operating temperature under the expected operating loads, and subject to the expected maximum ambient temperatures in the pump station enclosure.
+b.
+Equipment. The engine shall be equipped with all controls and components required for manual and automatic operation when used with the engine controls and DC level control system described in these specifications. Such components shall include, but not be limited to, the following:
+(1)
+12 volt DC electrical system including starter and alternator
+(2)
+Storage battery, 84 ampere-hour capacity minimum
+(3)
+Elapsed running time meter
+(4)
+Sensors for engine temperature, oil pressure and overspeed
+(5)
+Muffler designed to limit engine noise to a level acceptable in a residential area
+(6)
+Switch for manual operation of the cranking motor, mounted on or near the engine
+(7)
+Alternator ammeter
+c.
+Engine electrical equipment shall be wired to a terminal board on the engine for connection by the contractor to matching terminals in the motor control center.
+d.
+Performance. Because the engine shall be required to operate during emergency situations, the following minimum performance standards shall be used for engine selection:
+(1)
+Engine speed shall be controlled by a manually adjustable, governor-controlled throttle which shall maintain the preset speed over the range of expected pumping loads. This speed shall be not less than 1,800 rpm to insure adequate cooling, nor more than 2,400 rpm so that internal with appropriate metal posts anchored in concrete. A vehicular double gate with locking provisions that speed at which the engine torque and horsepower curves intersect. Engine manufacturer's published performance curves shall be submitted for review to support engine selection.
+(2)
+The engine shall develop approximately 95 percent of manufacturer's published performance after a reasonable run-in period.
+(3)
+For selection of engine size, engine performance shall be derated according to manufacturer's specifications to allow for decreased performance if installed at elevations more than 1000 feet above sea level.
+(4)
+For selection of engine size, engine performance shall be derated according to manufacturer's specifications to allow for decreased performance in an ambient temperature of 100°F., which can reasonably be expected in the pump station.
+(5)
+Engine rating shall be further reduced to conform to engine manufacturer's recommendations for continuous service applications.
+(6)
+Brake horsepower requirements of pump shall not exceed 75 percent of calculated engine horsepower after derating for power available after run-in, derating for temperature compensation, and derating for altitude compensation.
+4.
+Drive Transmission.
+a.
+Power shall be transmitted from motor to pump and from engine to clutch and jackshaft by means of V-belt drive assemblies. The drive assemblies must be selected to establish proper pump speed to meet the specified operating conditions.
+b.
+Each drive assembly shall have a minimum of two V-belts. In no case will a single belt drive be acceptable. Each V-belt drive assembly shall be selected on the basis that adequate power will be transmitted from driver to pump based on the data developed in accordance with Drive Calculations.
+c.
+Drive Calculations. Upon request of the engineer or his representative, the pump manufacturer shall submit power transmission calculations which clearly express the following:
+(1)
+Ratio of pump speed as related to motor speed
+(2)
+Pitch diameter of driver and driven sheaves
+(3)
+Number of belts per drive assembly
+(4)
+Theoretical horsepower transmission per V-belt, based on performance data published by the V-belt manufacturer
+(5)
+Center distance between driver and driven shafts
+(6)
+Center distance and combined arc-length correction factor applied to theoretical horsepower transmission per V-belt
+(7)
+Service factor applied to established design horsepower safety factor which shall be calculated as the ratio of power transmitted per drive assembly to brake horsepower requirements of the pump
+(8)
+Clutch and Jackshaft. Power shall be transmitted from engine to pump by a V-belt drive assembly through a centrifugal clutch mounted on a jackshaft, which shall be coupled or otherwise interfaced with a shaft extension on the pump motor. Jackshaft shall be constructed of steel, not less than 1½ inches in diameter, and shall be mounted in two pillow blocks furnished with anti-friction roller bearings. Centrifugal clutch shall be designed to remain disengaged until engine has reached some speed greater than idle speed to reduce starting loads. Once engaged, clutch shall be rated to transmit power continuously until engine speed has been reduced below disengagement speed. Clutch shall disengage completely while engine is not operating.
+5.
+Controls and Accessories.
+a.
+Pump station shall incorporate an AC level control system for operation on utility power, and a standby level control system for operation during failure of utility power and during scheduled exercise periods.
+b.
+Pump station shall operate on utility power while such power is available, except for exercise periods as specified herein. When operating on utility power, operation of pumps and motors shall be controlled by the AC level control system as specified herein. During a failure of utility power and during exercise periods, operation of the pump with the standby engine shall be controlled by the standby level control system and engine control system specified herein. Transfer from AC level control and to standby level control shall occur as follows. The control panel shall consist of a circuit breaker with through-the-door operator and magnetic starter with door mounted overload reset pushbutton for each pump motor actuated by an air bubbler type liquid level control system with electronic pressure switch. A separate control circuit breaker shall be furnished.
+c.
+The control assembly shall provide means to operate each pump manually or automatically. When operated in the automatic mode, the control assembly shall provide means to automatically alternate the position of the "lead" and "lag" pumps after each pumping cycle. Illuminated pump run lights shall be furnished to indicate motor operation. Elapsed time indicators shall be furnished for each motor. A three (3) position switch to manually select "lead" and "lag" pump operation overriding alternator shall be furnished.
+d.
+The level control system shall be the air bubbler type containing compressors and accessories with the air bubbler piping extending into the wet well. Electrical pressure switches shall sense the air pressure in this piping to determine when pumps should be turned on and off. The level control system shall continuously monitor the wet well level. The system shall start the motor for one pump when the liquid level in the wet well rises to the "lead pump start level." When the liquid is lowered to the "lead pump stop level," the system shall stop this pump. These actions shall constitute one pumping cycle. Should the wet well level rise to the "lag pump start level", the system shall start the second pump so that both pumps are operating to pump down the well. Pumps shall stop at their respective "stop" levels. The levels shall be adjustable as described below.
+e.
+The electronic pressure switch shall include integral components to perform all pressure sensing signal conditioning, EMI and EFI Suppression, DC power supply and 120V outputs. Comparators shall be solid state, and shall be integrated with other components to perform as described below.
+(1)
+The electronic pressure switch shall be capable of operating on a supply voltage of 108v or 1 32v AC 60 Hertz, in an ambient temperature range of -18 degrees C (-2 degrees F) through +55 degrees C (131 degrees F). Control range shall be 0-33.0 feet of water with an overall repeat accuracy of +/-.01 feet of water.
+(2)
+The electronic pressure switch shall consist of the following integral components: pressure sensor, display, electronic comparators and output relays.
+(3)
+The pressure sensor shall be a strain gauge transducer and shall receive an input pressure from the air bubbler system. The transducer shall convert the input to a proportional electrical signal for distribution to the display and electronic emparators. The transducer output shall be filtered to prevent control response to level pulsations or surges. The transducer range shall be 0-15 psi, temperature compensated from -40 degrees C (-40 degrees F) through +85 degrees C (+185 degrees F), with a repeat accuracy of +/- 0.25° full scale about a fixed temperature. Transducer overpressure rating shall be 3 times full scale.
+(4)
+The electronic pressure switch shall incorporate a digital panel meter that, upon operator selection, shall display liquid level in the wet well, and the preset start and stop level for both lead and lag pump. The meter shall be a 3A1/2 digit display calibrated to read out directly in feet of water, accurate to within one-tenth foot (0.1 foot), with a full scale indication of not less than 33 feet.
+(5)
+Level adjustments shall be electronic comparator setpoints to control the levels at which the lead and lag pumps start and stop. Each of the level settings shall be adjustable and accessible to the operator without opening the control panel or any cover panel on the electronic pressure switch. Controls shall be provided to permit the operator to read the selected levels on the display. Such adjustments shall not require hard wiring, the use of electronic test equipment, artificial level simulation or introduction of pressure to the electronic pressure switch.
+f.
+The electronic pressure switch shall sense high wet well level and energize a signal relay when it occurs. An electrical or mechanical indicator, visible on the front of the control panel, shall indicate that high wet well level exists. The signal relay shall maintain the alarm signal until the wet well level has been lowered and the circuit has been manually reset. Dry contacts shall be provided to activate remote mounted alarm devices. An alarm silence relay and switch shall be incorporated as part of the high water alarm circuitry. The pump station shall be supplied with a 115v AC alarm light in a vapor-tight fixture with red globe, guard, conduit box, and mounting fixtures for external mounting by contractor.
+g.
+The control panel shall be equipped with circuitry to override the level control system and shut down the pump motors when required to protect the pump from damage caused by excessive temperature. A thermostat shall be mounted on each pump to detect its temperature, and a signal relay shall be supplied for each thermostat. If the pump temperature should rise to a level which could cause pump damage, the thermostat shall cause the signal relay to drop out the motor starter. An electrical or mechanical indicator, visible on the front of the control panel shall indicate that the pump motor has been stopped because of a high temperature condition. The pump shall remain locked out until the pump has cooled and the circuit has been manually reset.
+h.
+The motor and level controls shall be mounted in suitable sized NEMA I steel enclosures. Enclosure door shall be gasketed with neoprene and equipped with a continuous hinge and captivated closing hardware.
+i.
+Relays and other controls shall be provided to accomplish the following functions:
+(1)
+Time delay after failure of utility power before transfer from AC level control to standby level control. Relay shall be manually adjustable from 0.2 to 60 seconds.
+(2)
+Time delay after restoration of utility power before transfer from stand-by level control to AC level control. Relay shall be manually adjustable from 0 to 30 minutes.
+(3)
+Automatic override of time delay after power restoration, upon occurrence of: engine or engine control failure as specified under Engine Control System; failure of DC power; high wet well level as detected by the standby level control system.
+(4)
+Manual override of time delay on restoration of normal power. Momentary pushbutton or similar device shall be acceptable.
+(5)
+Time delay after transfer from standby level control to AC level control before application of AC power to motor of pump with standby engine. Such relay shall be preset at approximately 15 seconds to permit engine to stop completely before motor is started.
+(6)
+Indicate the presence of utility power. Such indicator shall be the press-to-test type to permit the operator to verify failure of utility power.
+(7)
+These functions and interlocks shall be applicable only to the motor of the pump furnished with the standby engine. No hindrance shall be included for the motor starter and motor branch circuit for the pump which does not have the standby engine. Immediately upon restoration of utility power after power interruption, and during exercise periods, the pump which does not have the standby engine shall be permitted to run if operation of that pump is required by the AC level control system.
+j.
+Controls shall be provided to cause regular use of the standby level control system and standby engine. Such exercise of standby components shall occur to maintain these components in a ready condition, and to discover malfunctions before emergency conditions arise.
+k.
+Exercise periods shall be established by a manually adjustable exercise timer. Timer shall provide a 7-day timing cycle, and shall permit the selection of one or more exercise periods of 15 minutes duration, or multiples thereof, which shall repeat every 7 days.
+1.
+During exercise periods, timer shall simulate a loss of utility power to transfer circuits described herein. After transfer from AC level control to standby level control, the standby level control system shall operate the pump with the standby engine through the engine control system as described in these specifications.
+(1)
+If the standby engine is operating at the end of the exercise period, it shall continue to operate until one of the following conditions occurs:
+(a)
+The standby level control system stops the engine through the engine control system, or
+(b)
+The delay on restoration of utility power relay times out.
+(2)
+Upon occurrence of either of these conditions, operation of the engine shall cease, and operation of the pump with the standby engine shall revert to control by the AC level control system.
+(3)
+During exercise periods, utility power shall remain available to the motor of the pump which does not have the standby engine.
+m.
+The engine control system shall be designed to accomplish the following tasks:
+(1)
+Permit the operator to select mode of engine operation, providing manual start and stop of the engine to override the standby level control system and cranking circuit if required.
+(2)
+Crank the engine upon start command from the level control system, and stop the engine upon a stop command.
+(3)
+Stop the cranking sequence if the engine fails to start after a reasonable number of attempts, and provide an alarm indication of failure to start.
+(4)
+While the engine is operating, continuously monitor engine speed, temperature, and oil pressure.
+(5)
+Stop the engine for excessive speed, excessive cylinder head temperature, or insufficient oil pressure, and provide an alarm indication of shutdown and its cause.
+(6)
+Maintain the charge on the engine storage battery.
+(7)
+Provide an alarm indication for loss of 12 volt DC power for the standby level control system and engine control system.
+6.
+Sequence of Operation.
+a.
+Upon operator selection of automatic operation, when the standby level control system provides a start command, the engine control system shall start the engine cranking motor for a short period of time. If the engine does not start, the system shall stop the cranking motor for a short period of time, then resume cranking. Typically, 5 10second cranking periods, each followed by a 10Asecond rest period, should be considered a reasonable effort to start the engine. When the engine starts, a sensor on the engine or elsewhere in the system shall stop the cranking cycle and reset the cranking circuit for the next start.
+b.
+If the engine does not start within the preset number of attempts, the cranking circuit shall be reenergized, a failure to start indicator on the control panel shall be illuminated, and an external alarm device shall be energized. Control of the pump with the standby engine shall be returned to the AC level control system.
+c.
+Once the engine has started normally, the engine control system shall monitor engine speed, cylinder head temperature, and oil pressure. Upon engine failure from any cause, system shall provide an alarm indication, illuminate an indicator, and energize an external alarm device as specified below.
+d.
+During periods when the AC level control system is fully operative, a battery charger shall continuously charge the engine storage battery.
+7.
+Mode of Engine Operation. Switch or other device shall be provided and connected to perform as follows:
+a.
+When automatic operation is selected, engine shall start and stop under control of the engine control system.
+b.
+When manual operation is selected, engine cranking motor shall be controlled by a manual pushbutton or other device on the engine. Once started, engine shall run until OFF is selected, or engine failure circuit stops engine.
+c.
+Operator can stop engine if it is running, and prevent it from starting during maintenance or repair.
+8.
+Engine Failure. Engine failure circuits shall stop the engine, illuminate a labeled indicator on the control panel, and energize an external alarm device for each of the following conditions:
+a.
+Engine speed exceeds maximum overspeed setting.
+b.
+Engine temperature exceeds safe operating temperature as specified by the engine manufacturer.
+c.
+Engine oil pressure falls below engine manufacturer's specified recommendations. System must override or bypass this function during cranking and for several seconds after starting to permit engine to build up oil pressure.
+9.
+Battery Charger. Engine control system shall be furnished with one battery charger, designed and connected to operate on 115 volts AC, 60 hertz to maintain the charge on the 12 volt DC storage battery supplied with the engine. Battery charger shall incorporate the following design features:
+a.
+Automatic charge sensing and charging rate adjustment circuit.
+b.
+Integral current limit circuit to limit charging rate.
+c.
+Charging rate ammeter. Fuse for protection of charging circuit.
+10.
+Power. Operating power for the engine control system, except the battery charger, shall be provided by the storage battery furnished with the standby engine.
+15.60.350 - Standard RTU Specification.
+A.
+All stations installed shall include Radio Telemetry Transceiver Units (RTU). These units shall be as manufactured and supplied by U.S. Filter/Consolidated Electric, more particularly described as follows:
+1.
+Gorman-Rupp Lift Station Tranceivers RTU's. Bulletin E985/C800, Model D620 Radio telemetry transceiver in a NEMA 4X fiberglass enclosure for operation on 120 VAC, battery backed power. To monitor/transmit 14 digital and one analog signals to CTU via FM radio link. To include C800 volumetric flow measurement software. (Capable of expanding to 10 digital inputs). RTU to be manufactured and supplied by U.S. Filter Consolidated Electric. TO INCLUDE:
+a.
+Control power circuit breaker and lightning arrestor
+b.
+Model CME2 power supply and 50VA transformer
+c.
+2.0AH battery
+d.
+EM1 filter
+e.
+D620 microprocessor -based keypad/display controller/communications computer
+f.
+Model CMM15 radio modem
+g.
+Bulletin E985 VHF/UHF FM radio transceiver
+h.
+100' of RG/8u coaxial cable
+i.
+Coaxial cable and lightning arrestor
+j.
+Yagi array directional antenna
+k.
+Model CMR25 analog input isolation module
+l.
+Bubbler transducer converter
+B.
+All programming changes for the C800 software will be made at the RTU. All 31 parameters will be displayed at the RTU but only the following will be transmitted to the CTU and displayed on the Computer software:
+1.
+Pump 1 Run Time current 24 hours
+2.
+Pump 2 Run Time current 24 hours
+3.
+Influent Flow Rate
+4.
+Total Flow (Gal)
+5.
+Pump 1 Flow Rate (GPM)
+6.
+Pump 2 Flow Rate (GPM)
+7.
+Pump 1 Total Flow (Gal)
+8.
+Pump 2 Total Flow (Gal)
+9.
+Pump 1 Total Run Time (hrs)
+10.
+Pump 2 Total Run Time (hrs)
+C.
+RTU alarm conditions shall be for the following conditions:
+1.
+Pump 1 fail
+2.
+Pump 2 fail
+3.
+HWA
+4.
+Engine 1 fail
+5.
+Engine 2 fail (for series-connected stations only)
+6.
+Loss of AC power
+REMOTE TERMINAL UNIT (RTU)
+1. A.
+All RTU's shall have the following common characteristics.
+1.
+RTU's shall be microprocessor based.
+2.
+Capable of routing storing and forward repeating.
+3.
+Capable of serving as an area or process controller.
+4.
+Capable of executing system control computer (SCC) commands.
+5.
+Capable of monitoring and controlling site functions and status.
+6.
+Process digital and analog inputs and outputs.
+7.
+Have on board counters for totalization.
+8.
+Operate on a battery backup.
+9.
+Normal input power 120 volts AC
+10.
+Capability of being solar powered including radio.
+11.
+Have a unique group and station digital address
+12.
+Report alarms as they occur
+13.
+Have overvoltage protection on I/O, line and antenna interconnects
+14.
+Programmable in ladder logic
+15.
+Communicate using Modbus Protocol
+16.
+Communicate with existing master at water treatment plant.
+B.
+The RTU enclosure that contains the electronics, batter, and transceiver shall consist of the following standard enclosure furnished and installed by the Supplier.
+C.
+RTU general requirements are established in the interest of functionality, durability, flexibility, cost effectiveness, and standardization for operation and maintenance.
+1.
+Electrical Specification
+A.
+AC power 120 volts, 60 hertz
+B.
+DC power 14 to 24 volts, minimum 30 watts, the DC power supply in the base station RTU shall be sized to power the indicated analog loops and shall have at least 40% spare capacity for future use.
+C.
+Battery power 10 Amp-hour
+2.
+Input Specification
+A.
+Analog inputs, 4-20ma/0-5vdc/1-5vdc
+B.
+Digital inputs, on/off, 12vdc, 24vdc, 120vac, dry contacts, isolated.
+C.
+Counter 16 bit or 32 bit, on/off, isolated.
+3.
+Output Specifications
+A.
+Analog output, 4-20ma, 0-5 vdc
+B.
+Digital outputs, on/off, 120 VAC, dry contacts
+C.
+The RTU I/O requirements are as follows:
+Analog Inputs (AI)
+AI-1 Spare
+AI-2 Spare
+Digital Inputs (DI)
+DI-1 Pump - 1 Status
+DI-2 Pump - 2 Status
+DI-3 Pump - 3 Status
+DI-4 High Water Alarm
+DI-5 AC Power Status
+DI-6 Spare
+Digital Outputs (DO)
+DO-1 Spare
+DO-2 Spare
+E.
+Radio
+1.
+General
+The telemetry signals shall be transmitted over a radio system operating in a half-duplex mode on a single FM radio frequency. The radio equipment shall be capable of operating on a narrow band splinter frequency in the Power Radio Service.
+The telemetry system manufacturer shall provide all radio path surveys and design the system for at least 99.9% reliability. System manufacturer shall also provide all help necessary to the end user for radio frequency coordination and FCC licensing, all as previously specified.
+2.
+Radio Transceiver
+The radio transceiver shall be a new current modem FM 2-way radio suitable for transmitting and receiving audio tones at up to 1200 bits per second.
+Transmitter
+RF Power Output 35 watts adjustable to 5 watts minimum
+Frequency Range 150-174 MHz
+Frequency Stability +/-0.0005% from - 30°to 60°C
+Modulation 6F9, +/-2.5KHz for 100% modulation
+FM Hum and Noise Minus 50 dB
+Spurious and Harmonics Minus 80 dB
+Receiver
+Sensitivity 0.35 uV
+Selectivity Minus 80 dB @ +/- 30KHz
+Frequency Stability +/-0.0005% from
+30° to 60° C
+Intermodulation Minus 70 dB
+Spurious and Image Rejection Minus 85 dB
+Radio transceivers shall be provided with intergral audio feedback to allow audible diagnostics while troubleshooting.
+G.
+Antennas, Cable Masts, and Poles
+The radio telemetry system supplier shall provide the antenna for each site s required to achieve the overall communications requirements of the system. Antennas shall be directional or omnidirectional as required and suitable for outdoor environments. They shall be of all aluminum construction and rated to withstand at least 100 MPH winds with 1/2 inch radial ice.
+Adequate lengths of RG213A/U coaxial cable shall be provided for connection of the antenna to the radio transceiver at each site.
+Unless specifically stated, the antennas shall be attached to existing structures, such as tanks or buildings. Particular attention shall be given to the correct installation of the antennas to give adequate protection form nearby lightning strikes by providing a low resistance DC path to ground. Instructions for installing these antennas shall be given to the contractor so as to insure reliable operation.
+Contractor shall furnish all mounting masts or poles as required to support the antennas at the elevations and orientations required. Masts and poles shall be suitable for outdoor environmental conditions, provide adequate support and protection for transmission lines and be provided complete with all necessary mounting accessories.
+Minimum acceptable technical and physical specification of the antennas shall be as follows:
+Directional Antennas
+Type 3 elements Yagi, with a forward gain of at least 7 dB
+Front to back ratio 20 dB
+Lightning Protection Direct ground
+Feedpoint method
+Weatherproof gamma match for coaxial feedline.
+F.
+The supplier shall be responsible for modifying the software at the master to include a new screen for this lift station RTU.

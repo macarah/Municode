@@ -1,0 +1,361 @@
+ARTICLE VIII. - POST-CONSTRUCTION STORMWATER MANAGEMENT FOR NEW DEVELOPMENT AND REDEVELOPMENT[4]
+
+Footnotes:
+--- (4) ---
+Editor's note— Ord. No. 2020-12 , § 1, adopted Nov. 17, 2020, repealed art. VIII in its entirety and enacted new provisions to read as herein set out. Former art. VIII, §§ 11-160—11-163 pertained to similar subject matter and derived from Ord. No. 2004-06, § 1, adopted April 20, 2004; and Ord. No. 2009-14, § 1, adopted July 21, 2009.
+
+Sec. 11-151. - Purpose and intent.
+The purpose of this article is to protect, maintain and enhance the public health, safety, environment and general welfare by establishing minimum requirements and procedures to control the adverse effects of increased post-construction stormwater runoff and nonpoint source pollution associated with new development and redevelopment. Proper management of post-construction stormwater runoff will minimize damage to public and private property and infrastructure, safeguard the public health, safety, environment and general welfare of the public, and protect water and aquatic resources. Additionally, the City of Union City is required to comply with several state and federal laws, regulations and permits and the requirements of the Metropolitan North Georgia Water Planning District's regional water plan related to managing the water quantity, velocity, and quality of post-construction stormwater runoff.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-152. - Definitions.
+For the purposes of this article, the terms below shall have the following meanings:
+Administrator shall mean the person appointed to administer and implement this article in accordance with section 11-154.
+Applicant shall mean a person submitting a land development application for approval.
+BMP or best management practice shall mean both structural devices to store or treat stormwater runoff and non-structural programs or practices which are designed to prevent or reduce the pollution of the waters of the State of Georgia.
+BMP landscaping plan shall mean a design for vegetation and landscaping that is critical to the performance and function of the BMP including how the BMP will be stabilized and established with vegetation. It shall include a layout of plants and plant names (local and scientific).
+Channel shall mean a natural or artificial watercourse with a definite bed and banks that conveys continuously or periodically flowing water.
+Detention shall mean the temporary storage of stormwater runoff in a stormwater detention facility for the purpose of controlling the peak discharge.
+Detention facility shall mean a structure designed for the storage and gradual release of stormwater runoff at controlled rates.
+Development shall mean new development or redevelopment.
+Extended detention shall mean the storage of stormwater runoff for an extended period of time.
+Extreme flood protection shall mean measures taken to prevent adverse impacts from large low-frequency storm events with a return frequency of one hundred (100) years or more.
+Flooding shall mean a volume of surface water that exceeds the banks or walls of a BMP, or channel; and overflows onto adjacent lands.
+GSMM shall mean the latest edition of the Georgia Stormwater Management Manual, Volume 2: Technical Handbook, and its Appendices.
+Hotspot shall mean a land use or activity on a site that has the potential to produce higher than normally found levels of pollutants in stormwater runoff. As defined by the administrator, hotspot land use may include gasoline stations, vehicle service and maintenance areas, industrial facilities (both permitted under the industrial stormwater general permit and others), material storage sites, garbage transfer facilities, and commercial parking lots with high-intensity use.
+Impervious surface shall mean a surface composed of any material that significantly impedes or prevents the natural infiltration of water into the soil.
+Industrial stormwater general permit shall mean the National Pollutant Discharge Elimination System (NPDES) permit issued by Georgia Environmental Protection Division to an industry for stormwater discharges associated with industrial activity. The permit regulates pollutant levels associated with industrial stormwater discharges or specifies on-site pollution control strategies based on Standard Industrial Classification (SIC) Code.
+Infiltration shall mean the process of percolating stormwater runoff into the subsoil.
+Inspection and maintenance agreement shall mean a written agreement providing for the long-term inspection, operation, and maintenance of the stormwater management system and its components on a site.
+Land development application shall mean the application for a land development permit on a form provided by the City of Union City along with the supporting documentation required in section 11-160(1).
+Land development permit shall mean the authorization necessary to begin construction-related, land disturbing activity.
+Land disturbing activity shall mean any activity which may result in soil erosion from water or wind and the movement of sediments into state water or onto lands within the state, including but not limited to clearing, dredging, grading, excavating, and filling of land. Land disturbing activity does not include agricultural practices as described O.C.G.A. § 12-7-17(5) or silvicultural land management activities as described O.C.G.A. § 12-7-17(6) within areas zoned for these activities.
+Linear feasibility program shall mean a feasibility program developed by the City of Union City and submitted to the Georgia Environmental Protection Division, which sets reasonable criteria for determining when implementation of stormwater management standards for linear transportation projects being constructed by the City of Union City is infeasible.
+Linear transportation projects shall mean construction projects on traveled ways including but not limited to roads, sidewalks, multi-use paths and trails, and airport runways and taxi ways.
+MS4 permit shall mean the NPDES permit issued by Georgia Environmental Protection Division for discharges from the City of Union City's municipal separate storm sewer system.
+New development shall mean land disturbing activities, structural development (construction, installation or expansion of a building or other structure), and/or creation of impervious surfaces on a previously undeveloped site.
+Nonpoint source pollution shall mean a form of water pollution that does not originate from a discrete point such as a wastewater treatment facility or industrial discharge, but involves the transport of pollutants such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials and other contaminants from land to surface water or groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a by-product of land use practices such as agricultural, silvicultural, mining, construction, subsurface disposal and urban runoff sources.
+Overbank flood protection shall mean measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e., flow events that exceed the capacity of the channel and enter the floodplain).
+Owner shall mean the legal or beneficial owner of a site, including but not limited to, a mortgagee or vendee in possession, receiver, executor, trustee, lessee or other person, firm or corporation in control of the site.
+Person shall mean any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the state, any interstate body or any other legal entity.
+Post-construction stormwater management shall mean stormwater best management practices that are used on a permanent basis to control and treat runoff once construction has been completed in accordance with a stormwater management plan.
+Post-development shall mean the conditions anticipated to exist on site immediately after completion of the proposed development.
+Practicability policy shall mean the latest edition of the Metropolitan North Georgia Water Planning District's Policy on Practicability Analysis for Runoff Reduction.
+Pre-development shall mean the conditions that exist on a site immediately before the implementation of the proposed development. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time before the first item being approved or permitted shall establish pre-development conditions.
+Pre-development hydrology shall mean (a) for new development, the runoff curve number determined using natural conditions hydrologic analysis based on the natural, undisturbed condition of the site immediately before implementation of the proposed development; and (b) for redevelopment, the existing conditions hydrograph may take into account the existing development when defining the runoff curve number and calculating existing runoff, unless the existing development causes a negative impact on downstream property.
+Previously developed site shall mean a site that has been altered by paving, construction, and/or land disturbing activity.
+Redevelopment shall mean structural development (construction, installation, or expansion of a building or other structure), creation or addition of impervious surfaces, replacement of impervious surfaces not as part of routine maintenance, and land disturbing activities associated with structural or impervious development on a previously developed site. Redevelopment does not include such activities as exterior remodeling.
+Routine maintenance shall mean activities to keep an impervious surface as near as possible to its constructed condition. This includes ordinary maintenance activities, resurfacing paved areas, and exterior building changes or improvements which do not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution.
+Runoff shall mean stormwater runoff.
+Site shall mean an area of land where development is planned, which may include all or portions of one (1) or more parcels of land. For subdivisions and other common plans of development, the site includes all areas of land covered under an applicable land development permit.
+Stormwater concept plan shall mean an initial plan for post-construction stormwater management at the site that provides the groundwork for the stormwater management plan including the natural resources inventory, site layout concept, initial runoff characterization, and first round stormwater management system design.
+Stormwater management plan shall mean a plan for post-construction stormwater management at the site that meets the requirements of section 11-158(d) and is included as part of the land development application.
+Stormwater management standards shall mean those standards set forth in section 11-157.
+Stormwater management system shall mean the entire set of non-structural site design features and structural BMPs for collection, conveyance, storage, infiltration, treatment, and disposal of stormwater runoff in a manner designed to prevent increased flood damage, streambank channel erosion, habitat degradation and water quality degradation, and to enhance and promote the public health, safety and general welfare.
+Stormwater runoff shall mean flow on the surface of the ground, resulting from precipitation.
+Subdivision shall mean the division of a tract or parcel of land resulting in one (1) or more new lots or building sites for the purpose, whether immediately or in the future, of sale, other transfer of ownership or land development, and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or roadway.
+Other terms used but not defined in this article shall be interpreted based on how such terms are defined and used in the GSMM and the City of Union City's MS4 permit.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-153. - Adoption and implementation of the GSMM; conflicts and inconsistencies.
+(a)
+In implementing this article, the City of Union City shall use and require compliance with all relevant design standards, calculations, formulas, methods, and other guidance from the GSMM as well as all related appendices.
+(b)
+This article is not intended to modify or repeal any other article, ordinance, rule, regulation or other provision of law, including but not limited to any applicable stream buffers under state and local laws, and the Georgia Safe Dams Act and Rules for Dam Safety. In the event of any conflict or inconsistency between any provision in the City of Union City's MS4 permit and this article, the provision from the MS4 permit shall control. In the event of any conflict or inconsistency between any provision of this article and the GSMM, the provision from this article shall control. In the event of any other conflict or inconsistency between any provision of this article and any other ordinance, rule, regulation or other provision of law, the provision that is more restrictive or imposes higher protective standards for human health or the environment shall control,
+(c)
+If any provision of this article is invalidated by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of this article.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-154. - Designation of administrator.
+The city administrator or his or her designee is hereby appointed to administer and implement this article.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-155. - Applicability of criteria for stormwater management standards.
+This article applies to the following activities:
+(1)
+New development that creates or adds five thousand (5,000) square feet or greater of new impervious surface area or that involves land disturbing activity of one (1) acre of land or greater;
+(2)
+Redevelopment (excluding routine maintenance and exterior remodeling) that creates, adds, or replaces five thousand (5,000) square feet or greater of new impervious surface area or that involves land disturbing activity of one (1) acre or more;
+(3)
+New development and redevelopment if:
+a.
+Such new development or redevelopment is part of a subdivision or other common plan of development; and
+b.
+The sum of all associated impervious surface area or land disturbing activities that are being developed as part of such subdivision or other common plan of development meets or exceeds the threshold in (1) and (2) above;
+(4)
+Any commercial or industrial new development or redevelopment, regardless of size, that is a hotspot land use as defined in this article; and
+(5)
+Linear transportation projects that exceed the threshold in (1) or (2) above.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-156. - Exemptions from stormwater management standards.
+This article does not apply to the following activities:
+(1)
+Land disturbing activity conducted by local, state, authority, or federal agencies, solely to respond to an emergency need to protect life, limb, or property or conduct emergency repairs;
+(2)
+Land disturbing activity that consists solely of cutting a trench for utility work and related pavement replacement;
+(3)
+Land disturbing activity conducted by local, state, authority, or federal agencies, whose sole purpose is to implement stormwater management or environmental restoration;
+(4)
+Repairs to any stormwater management system deemed necessary by the administrator;
+(5)
+Agricultural practices as described O.C.G.A. § 12-7-17(5) within areas zoned for these activities, with the exception of buildings or permanent structures that exceed the threshold in section 11-155(1) or (2);
+(6)
+Silvicultural land management activities as described O.C.G.A. § 12-7-17(6) within areas zoned for these activities, with the exception of buildings or permanent structures that exceed the threshold in section 11-155(1) or (2);
+(7)
+Installations or modifications to existing structures solely to implement Americans with Disabilities Act (ADA) requirements, including but not limited to elevator shafts, handicapped access ramps and parking, and enlarged entrances or exits; and
+(8)
+Linear transportation projects being constructed by the City of Union City to the extent the administrator determines that the stormwater management standards may be infeasible to apply, all or in part, for any portion of the linear transportation project. For this exemption to apply, an infeasibility report that is compliant with the City of Union City linear feasibility program shall first be submitted to the administrator that contains adequate documentation to support the evaluation for the applicable portion(s) and any resulting infeasibility determination, if any, by the administrator.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-157. - Stormwater management standards.
+Subject to the applicability criteria in section 11-155 and exemptions in section 11-156, the following stormwater management standards apply. Additional details for each standard can be found in the GSMM section 2.2.2.2:
+(1)
+Design of stormwater maintenance system. The design of the stormwater management system shall be in accordance with the applicable sections of the GSMM as directed by the administrator. Any design which proposes a dam shall comply with the Georgia Safe Dams Act and Rules for Dam Safety as applicable.
+(2)
+Natural resources inventory. Site reconnaissance and surveying techniques shall be used to complete a thorough assessment of existing natural resources, both terrestrial and aquatic, found on the site. Resources to be identified, mapped, and shown on the stormwater management plan, shall include, at a minimum (as applicable):
+a.
+Topography (minimum of two-foot contours) and steep slopes (i.e., areas with slopes greater than fifteen (15) percent);
+b.
+Natural drainage divides and patterns;
+c.
+Natural drainage features (e.g., swales, basins, depressional areas);
+d.
+Natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers, drinking water wellhead protection areas and river corridors;
+e.
+Predominant soils (including erodible soils and karst areas); and
+f.
+Existing predominant vegetation including trees, high quality habitat and other existing vegetation.
+(3)
+Better site design practices for stormwater management. Stormwater management plans shall preserve the natural drainage and natural treatment systems and reduce the generation of additional stormwater runoff and pollutants to the maximum extent practicable. Additional details can be found in the GSMM section 2.3.
+(4)
+Stormwater runoff quality/reduction. Stormwater runoff quality/reduction shall be provided by using the following:
+a.
+For development with a stormwater management plan submitted before November 18, 2020, the applicant may choose either (i) runoff reduction or (ii) water quality.
+b.
+For development with a stormwater management plan submitted on or after November 18, 2020, the applicant shall choose (i) or runoff reduction and additional water quality shall not be required. To the extent (i) runoff reduction has been determined to be infeasible for all or a portion of the site using the practicability policy, then (ii) water quality shall apply for the remaining runoff from a 1.2 inch rainfall event and must be treated to remove at least eighty (80) percent of the calculated average annual post- development total suspended solids (TSS) load or equivalent as defined in the GSMM.
+1.
+Runoff reduction. The stormwater management system shall be designed to retain the first 1.0 inch of rainfall on the site using runoff reduction methods, to the maximum extent practicable.
+2.
+Water quality. The stormwater management system shall be designed to remove at least eighty (80) percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM for runoff from a 1.2 inch rainfall event.
+c.
+If a site is determined to be a hotspot as detailed in section 11-155, the City of Union City may require the use of specific or additional components for the stormwater management system to address pollutants of concern generated by that site.
+(5)
+Stream channel protection. Stream channel protection shall be provided by using all of the following three (3) approaches:
+a.
+Twenty-four-hour extended detention storage of the one-year, twenty-four-hour return frequency storm event;
+b.
+Erosion prevention measures, such as energy dissipation and velocity control; and
+c.
+Preservation of any applicable stream buffer.
+(6)
+Overbank flood protection. Downstream overbank flood protection shall be provided by controlling the post-development peak discharge rate to the pre-development rate for the twenty-five-year, twenty-four-hour storm event.
+(7)
+Extreme flood protection. Extreme flood protection shall be provided by controlling the one-hundred-year, twenty-four-hour storm event such that flooding is not exacerbated.
+(8)
+Downstream analysis. Due to peak flow timing and runoff volume effects, some structural components of the stormwater management system fail to reduce discharge peaks to pre-development levels downstream from the site. A downstream peak flow analysis shall be provided to the point in the watershed downstream of the site or the stormwater management system where the area of the site comprises ten (10) percent of the total drainage area in accordance with section 3.1.9 of the GSMM. This is to help ensure that there are minimal downstream impacts from development on the site. The downstream analysis may result in the need to resize structural components of the stormwater management system.
+(9)
+Stormwater management system inspection and maintenance. The components of the stormwater management system that will not be dedicated to and accepted by the City of Union City, including all drainage facilities, best management practices, credited conservation spaces, and conveyance systems, shall have an inspection and maintenance agreement to ensure that they continue to function as designed. All new development and redevelopment sites are to prepare a comprehensive inspection and maintenance agreement for the on-site stormwater management system. This plan shall be written in accordance with the requirements in section 11-166.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-158. - Pre-submittal meeting, stormwater concept plan, and stormwater management plan requirements.
+(a)
+Before a land development permit application is submitted, an applicant shall request a pre-submittal meeting with the City of Union City. The pre-submittal meeting should take place based on an early step in the development process such as before site analysis and inventory (GSMM section 2.4.2.4) or the stormwater concept plan (GSMM section 2.4.2.5). The purpose of the pre-submittal meeting is to discuss opportunities, constraints, and ideas for the stormwater management system before formal site design engineering. To the extent applicable, local and regional watershed plans, greenspace plans, trails and greenway plans, and other resource protection plans should be consulted in the pre-submittal meeting. Applicants must request a pre-submittal meeting with the City of Union City when applying for a determination of infeasibility through the practicability policy.
+(b)
+The stormwater concept plan shall be prepared using the minimum following steps:
+(1)
+Develop the site layout using better site design techniques, as applicable (GSMM section 2.3).
+(2)
+Calculate preliminary estimates of the unified stormwater sizing criteria requirements for stormwater runoff quality/reduction, channel protection, overbank flooding protection and extreme flood protection (GSMM section 2.2).
+(3)
+Perform screening and preliminary selection of appropriate best management practices and identification of potential siting locations (GSMM section 4.1).
+The stormwater concept plan shall contain:
+(1)
+Common address and legal description of the site;
+(2)
+Vicinity map; and
+(3)
+Existing conditions and proposed site layout mapping and plans (recommended scale of one (1) inch equals fifty (50) feet), which illustrate at a minimum:
+a.
+Existing and proposed topography (minimum of two-foot contours);
+b.
+Perennial and intermittent streams;
+c.
+Mapping of predominant soils from USDA soil surveys;
+d.
+Boundaries of existing predominant vegetation and proposed limits of clearing and grading;
+e.
+Location and boundaries of other natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers and other setbacks (e.g., drinking water well setbacks, septic setbacks, etc.);
+f.
+Location of existing and proposed roads, buildings, parking areas and other impervious surfaces;
+g.
+Existing and proposed utilities (e.g., water, sewer, gas, electric) and easements;
+h.
+Preliminary estimates of unified stormwater sizing criteria requirements;
+i.
+Preliminary selection and location, size, and limits of disturbance of proposed BMPs;
+j.
+Location of existing and proposed conveyance systems such as grass channels, swales, and storm drains;
+k.
+Flow paths;
+l.
+Location of the boundaries of the base flood floodplain, future conditions floodplain, and the floodway (as applicable) and relationship of site to upstream and downstream properties and drainage; and
+m.
+Preliminary location and dimensions of proposed channel modifications, such as bridge or culvert crossings.
+(d)
+The stormwater management plan shall contain the items listed in this part and be prepared under the direct supervisory control of either a registered professional engineer or a registered landscape architect licensed in the State of Georgia. Items (3), (4), (5), and (6) shall be sealed and signed by a registered professional engineer licensed in the State of Georgia. The overall site plan must be stamped by a design professional licensed in the State of Georgia for such purpose. (GSMM section 2.4.2.7)
+(1)
+Natural resources inventory;
+(2)
+Stormwater concept plan;
+(3)
+Existing conditions hydrologic analysis;
+(4)
+Post-development hydrologic analysis;
+(5)
+Stormwater management system;
+(6)
+Downstream analysis;
+(7)
+Erosion and sedimentation control plan;
+(8)
+BMP landscaping plan;
+(9)
+Inspection and maintenance agreement;
+(10)
+Evidence of acquisition of applicable local and non-local permits; and
+(11)
+Determination of infeasibility (if applicable).
+(e)
+For redevelopment and to the extent existing stormwater management structures are being used to meet stormwater management standards the following must also be included in the stormwater management plan for existing stormwater management structures:
+(1)
+As-built drawings;
+(2)
+Hydrology reports;
+(3)
+Current inspection of existing stormwater management structures with deficiencies noted; and
+(4)
+BMP landscaping plans.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-159. - Application fee.
+The fee for review of any land development application shall be based on the fee structure established by the City of Union City, and payment shall be made before the issuance of any land disturbance permit or building permit for the development.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-160. - Application procedures.
+Land development applications are handled as part of the process to obtain the land disturbance permit pursuant to chapter 11 or building permit pursuant to chapter 5, as applicable. Before any person begins development on a site, the owner of the site shall first obtain approval in accordance with the following procedure:
+(1)
+File a land development application with the City of Union City on the City of Union City's form of application with the following supporting materials:
+a.
+The stormwater management plan prepared in accordance with section 11-158(d);
+b.
+A certification that the development will be performed in accordance with the stormwater management plan once approved;
+c.
+A preliminary determination of infeasibility, as applicable, prepared in accordance with the practicability policy;
+d.
+An acknowledgement that applicant has reviewed the City of Union City's form of inspection and maintenance agreement and that applicant agrees to sign and record such inspection and maintenance agreement before the final inspection; and
+e.
+All other required federal, state and local approvals.
+(2)
+The administrator shall inform the applicant whether the application and supporting materials are approved or disapproved.
+(3)
+If the application or supporting materials are disapproved, the administrator shall notify the applicant of such fact in writing. The applicant may then revise any item not meeting the requirements hereof and resubmit the same for the administrator to again consider and either approve or disapprove.
+(4)
+If the application and supporting materials are approved, the City of Union City may issue the associated land disturbance permit or building permit, provided all other legal requirements for the issuance of such permits have been met. The stormwater management plan included in such applications becomes the approved stormwater management plan.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-161. - Compliance with the approved stormwater management plan.
+All development shall be:
+(1)
+Consistent with the approved stormwater management plan and all applicable land disturbance and building permits; and
+(2)
+Conducted only within the area specified in the approved stormwater management plan. No changes may be made to an approved stormwater management plan without review and advanced written approval by the administrator.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-162. - Inspections to ensure plan compliance during construction.
+Periodic inspections of the stormwater management system during construction shall be conducted by the staff of the City of Union City or conducted and certified by a professional engineer who has been approved by the City of Union City. Inspections shall use the approved stormwater management plan for establishing compliance. All inspections shall be documented with written reports that contain the following information:
+(1)
+The date and location of the inspection;
+(2)
+Whether the stormwater management system is in compliance with the approved stormwater management plan;
+(3)
+Variations from the approved stormwater management plan; and
+(4)
+Any other variations or violations of the conditions of the approved stormwater management plan.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-163. - Final inspection; as-built drawings; delivery of inspection and maintenance agreement.
+Upon completion of the development, the applicant is responsible for:
+(1)
+Certifying that the stormwater management system is functioning properly and was constructed in conformance with the approved stormwater management plan and associated hydrologic analysis;
+(2)
+Submitting as-built drawings showing the final design specifications for all components of the stormwater management system as certified by a professional engineer;
+(3)
+Certifying that the landscaping is established and installed in conformance with the landscaping plan; and
+(4)
+Delivering to the City of Union City a signed inspection and maintenance agreement that has been recorded by the owner in the property record for all parcel(s) that make up the site.
+The required certification under paragraph (1) shall include a certification of volume, or other performance test applicable to the type of stormwater management system component, to ensure each component is functioning as designed and built according to the design specifications in the approved stormwater management plan. This certification and the required performance tests shall be performed by a qualified person and submitted to the City of Union City with the request for a final inspection. The City of Union City shall perform a final inspection with applicant to confirm applicant has fulfilled these responsibilities.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-164. - Violations and enforcement.
+Any violation of the approved stormwater management plan during construction, failure to submit as-built drawings, failure to submit a final BMP landscaping plan, or failure of the final inspection shall constitute and be addressed as violations of, or failures to comply with, the underlying land disturbance permit pursuant to chapter 11 or the underlying building permit pursuant to chapter 5. To address a violation of this article, the City of Union City shall have all the powers and remedies that are available to it for other violations of building and land disturbance permits, including without limitation the right to issue notices and orders to ensure compliance, stop work orders, and penalties as set forth in the applicable ordinances for such permits, in addition to those powers and remedies identified in section 11-170 of this article.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-165. - Maintenance by owner of stormwater management systems predating current GSMM.
+For any stormwater management systems approved and built based on requirements predating the current GSMM and that is not otherwise subject to an inspection and maintenance agreement, such stormwater management systems shall be maintained by the owner so that the stormwater management systems perform as they were originally designed.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-166. - Inspection and maintenance agreements.
+(a)
+The owner shall execute an inspection and maintenance agreement with the City of Union City obligating the owner to inspect, clean, maintain, and repair the stormwater management system; including vegetation in the final BMP landscaping plan. The form of the inspection and maintenance agreement shall be the form provided by the City of Union City. After the inspection and maintenance agreement has been signed by the owner and the City of Union City, the owner shall promptly record such agreement at the owner's cost in the property record for all parcel(s) that make up the site.
+(b)
+The inspection and maintenance agreement shall identify by name or official title the person(s) serving as the point of contact for carrying out the owner's obligations under the inspection and maintenance agreement. The owner shall update the point of contact from time to time as needed and upon request by the City of Union City. Upon any sale or transfer of the site, the new owner shall notify the City of Union City in writing within thirty (30) days of the name or official title of new person(s) serving as the point of contact for the new owner. Any failure of an owner to keep the point of contact up to date shall, following thirty (30) days' notice, constitute a failure to maintain the stormwater management system.
+(c)
+The inspection and maintenance agreement shall run with the land and bind all future successors-in-title of the site. If there is a future sale or transfer of only a portion of the site, then:
+(1)
+The parties to such sale or transfer may enter into and record an assignment agreement designating the owner responsible for each portion of the site and associated obligations under the inspection and maintenance agreement. The parties shall record and provide written notice and a copy of such assignment agreement to the City of Union City.
+(2)
+In the absence of a recorded assignment agreement, all owners of the site shall be jointly and severally liable for all obligations under the inspection and maintenance agreement regardless of what portion of the site they own.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-167. - Ongoing inspection and maintenance of stormwater facilities and practices.
+(a)
+Long-term maintenance inspection of stormwater facilities and practices.
+(1)
+Stormwater management facilities and practices included in a stormwater management plan which are subject to an inspection and maintenance agreement must undergo ongoing inspections to document maintenance and repair needs and ensure compliance with the requirements of the agreement, the plan and this article.
+(2)
+A stormwater management facility or practice shall be inspected on a periodic basis by the responsible person in accordance with the approved inspection and maintenance agreement. In the event that the stormwater management facility has not been maintained and/or becomes a danger to public safety or public health, the city shall notify the person responsible for carrying out the maintenance plan by forwarding a notice via registered or certified mail to the person specified in the inspection and maintenance agreement. The notice shall specify the measures needed to comply with the agreement and the plan and shall specify the time within which such measures shall be completed. If the responsible person fails or refuses to meet the requirements of the inspection and maintenance agreement, the city, may correct the violation as provided in section 11-170 hereof.
+(b)
+Inspection programs by the city may be established on any reasonable basis, including but not limited to: routine inspections; random inspections; inspections based upon complaints or other notice of possible violations; and joint inspections with other agencies inspecting under environmental or safety laws. Inspections may include but are not limited to: reviewing maintenance and repair records; sampling discharges, surface water, groundwater, and material or water in stormwater management facilities; and evaluating the condition of stormwater management facilities and practices.
+(c)
+Right of entry for inspection. The terms of the inspection and maintenance agreement shall provide that the city may enter the property at reasonable times and in a reasonable manner for the purpose of inspection. This includes the right to enter a property when it has a reasonable basis to believe that a violation of this article is occurring or has occurred and a right to enter when necessary for abatement of a public nuisance or correction of a violation of this article.
+(d)
+Records of maintenance activities. Parties responsible for the operation and maintenance of a stormwater management facility shall provide records of all maintenance and repairs to the city.
+(e)
+Failure to maintain. If a responsible person fails or refuses to meet the requirements of the inspection and maintenance agreement, the city, after thirty (30) days' written notice (except, that in the event the violation constitutes an immediate danger to public health or public safety, twenty-four (24) hours' notice shall be sufficient), may correct a violation of the design standards or maintenance requirements by performing the necessary work to place the facility or practice in proper working condition. The city may assess the owner(s) of the facility for the cost of repair work which shall be a lien on the property, and may be placed on the ad valorem tax bill for such property and collected in the ordinary manner for such taxes.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-168. - Right of entry for maintenance inspections.
+The terms of the inspection and maintenance agreement shall provide for the City of Union City's right of entry for maintenance inspections and other specified purposes. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then the City of Union City shall have the right to enter and make inspections pursuant to the City of Union City's general provisions for property maintenance inspections pursuant to section 5-212.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-169. - Owner's failure to maintain the stormwater management system.
+The terms of the inspection and maintenance agreement shall provide for what constitutes a failure to maintain a stormwater management system and the enforcement options available to the City of Union City. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then:
+(1)
+An owner's failure to maintain the stormwater management system so that it performs as it was originally designed shall constitute and be addressed as a violation of, or failure to comply with, owner's property maintenance obligations pursuant to section 11-167; and
+(2)
+To address such a failure to maintain the stormwater management system, the City of Union City shall have all the powers and remedies that are available to it for other violations of an owner's property maintenance obligations, including without limitation prosecution, penalties, abatement, and emergency measures.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Sec. 11-170. - Violations, enforcement and penalties.
+(a)
+Any action or inaction which violates the provisions of this article or the requirements of an approved stormwater management plan or permit, may be subject to the enforcement actions outlined in this section. Any such action or inaction which is continuous with respect to time is deemed to be a public nuisance and may be abated by injunctive or other equitable relief. The imposition of any of the penalties described below shall not prevent such equitable relief.
+(b)
+Notice of violation. If the city determines that an applicant or other responsible person has failed to comply with the terms and conditions of a permit, an approved stormwater management plan or the provisions of this article, it shall issue a written notice of violation to such applicant or other responsible person. Where a person is engaged in activity covered by this article without having first secured a permit therefor, the notice of violation shall be served on the owner or the responsible person in charge of the activity being conducted on the site. The notice of violation shall contain:
+(1)
+The name and address of the owner or the applicant or the responsible person;
+(2)
+The address or other description of the site upon which the violation is occurring;
+(3)
+A statement specifying the nature of the violation;
+(4)
+A description of the remedial measures necessary to bring the action or inaction into compliance with the permit, the stormwater management plan or this article. The city shall state a date for the completion of such remedial action;
+(5)
+A statement of the penalty or penalties that may be assessed against the person to whom the notice of violation is directed; and
+(6)
+A statement that the determination of violation may be appealed to the city by filing a written notice of appeal within thirty (30) days after the notice of violation (except, that in the event the violation constitutes an immediate danger to public health or public safety, twenty-four (24) hours' notice shall be sufficient).
+(c)
+Penalties. In the event the remedial measures described in the notice of violation have not been completed by the date set forth for such completion in the notice of violation, any one (1) or more of the following actions or penalties may be taken or assessed against the person to whom the notice of violation was directed. Before taking any of the following actions or imposing any of the following penalties, the city shall first notify the applicant or other responsible person in writing of its intended action, and shall provide a reasonable opportunity, of not less than ten (10) days (except, that in the event the violation constitutes an immediate danger to public health or public safety, twenty-four (24) hours' notice shall be sufficient) to cure such violation. In the event the applicant or other responsible person fails to cure such violation after such notice and cure period, the city may take any one (1) or more of the following actions or impose any one (1) or more of the following penalties.
+(d)
+Stop work order. The city may issue a stop work order which shall be served on the applicant or other responsible person. The stop work order shall remain in effect until the applicant or other responsible person has taken the remedial measures described in the notice of violation or has otherwise cured the violation or violations described therein, provided the stop work order may be withdrawn or modified to enable the applicant or other responsible person to take the necessary remedial measures to cure such violation or violations.
+(e)
+Withhold certificate of occupancy. The city may refuse to issue a certificate of occupancy for the building or other improvements constructed or being constructed on the site until the applicant or other responsible person has taken the remedial measures described in the notice of violation or has otherwise cured the violations described therein.
+(f)
+Suspension, revocation or modification of permit. The city may suspend, revoke or modify the permit authorizing the land development project. A suspended, revoked or modified permit may be reinstated after the applicant or other responsible person has taken the remedial measures described in the notice of violation or has otherwise cured the violations described therein, provided such permit may be reinstated upon such conditions as the city may deem necessary to enable the applicant or other responsible person to take the necessary remedial measures to cure such violations.
+(g)
+Civil penalties. In the event the applicant or other responsible person fails to take the remedial measures described in the notice of violation or otherwise fails to cure the violations described therein within ten (10) days, or such greater period as the city shall deem appropriate (except, that in the event the violation constitutes an immediate danger to public health or public safety, twenty-four (24) hours' notice shall be sufficient) after the city has taken one (1) or more of the actions described above, the city may impose a penalty not to exceed one thousand dollars ($1,000.00) (depending on the severity of the violation) for each day the violation remains unremedied after receipt of the notice of violation.
+(h)
+Criminal penalties. For intentional and flagrant violations of this article, the city may issue a citation to the applicant or other responsible person, requiring such person to appear in city court to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed one thousand dollars ($1,000.00) or imprisonment for sixty (60) days or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+( Ord. No. 2020-12 , § 1, 11-17-20)
+Secs. 11-171—11-199. - Reserved.

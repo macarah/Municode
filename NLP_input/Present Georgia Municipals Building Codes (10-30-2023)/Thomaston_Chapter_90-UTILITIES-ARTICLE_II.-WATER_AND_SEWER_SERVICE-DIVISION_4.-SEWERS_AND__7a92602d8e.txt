@@ -1,0 +1,419 @@
+DIVISION 4. - SEWERS AND SEWAGE DISPOSAL[3]
+
+Footnotes:
+--- (3) ---
+Editor's note— Ord. No. 1102, pt. I, adopted Dec. 19, 2017, effective Jan. 1, 2018, repealed div. 4 in its entirety and enacted new provisions to read as herein set out. Former div. 4, §§ 90-137—90-137.21, pertained to similar subject matter and derived from Ord. No. 1067, pt. I, adopted June 4, 2013.
+
+Sec. 90-137. - Title.
+Section 90-137 through section 90-137.21 shall be known as the "Fats, Oils, and Greases Regulations of [the] City of Thomaston, Georgia."
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.1. - Definitions.
+For the purposes of this section, certain terms and words are hereby defined. Where words are not herein defined, but are defined in section 1-2, those words shall have the meaning as defined therein. Unless otherwise defined herein, words related to water quality shall be as defined in the latest edition of Standard Methods for Examination of Water and Wastewater, published by the American Public Health Association, the American Water Works Association, and the Water Environment Federation. Unless otherwise defined herein, words related to construction shall be as defined in this Code and in the latest adopted applicable editions of the Georgia codes applicable to building construction adopted pursuant to state law. The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Architectural or historical restrictions means a building or structure in City of Thomaston that is 100 years or older and has special historical or esthetic interest or value.
+Backflow means a reversal of normal flow in a system caused by a negative pressure (vacuum or partial vacuum) in the supply piping or other condition that reverses the normal direction of flow.
+Baffle means a retention wall three-quarters the length of the chamber nearer to the outlet.
+Best management practices means a schedule of activities, a prohibition of practices, maintenance procedures, and other management practices to prevent or reduce the introduction of fats, oils, and greases into the sewer system. These practices may vary by site, but produce the same reductions in fats, oils, and greases in the sewer system.
+Change in operations means any change in the ownership, food types, or operational procedures of a food service establishment.
+City manager means the director or designee of the City of Thomaston.
+Compliance inspector means a person authorized by City of Thomaston to inspect any existing or proposed wastewater generation, conveyance, processing, and/or disposal facilities.
+Extreme economic hardship means the cost for installation or rehabilitation of the existing FOG interceptor to comply with the requirements of these regulations that exceeds $10,000.00.
+Fats, oils, and greases (FOG) means any substance such as a vegetable or animal product that is used in, or is a by-product of, the food preparation process, that turns or may turn viscous or solidifies or may solidify with a change in temperature or other conditions.
+Fixtures means a pot sink, pre-rinse sink, vegetable sink, meat sink, mop sink, soup kettles, wok stations, floor drains, automatic hood wash units, trash compactors, dishwashers, and any other similarly functioning plumbing fixtures.
+Flow means volume of wastewater moving in a certain direction.
+Flow control device means a mechanism installed to control flow of hydraulic levels of FOG into an interceptor.
+FOG means fats, oils, and greases.
+FOG compliance inspector means the individual designated by the FOG control program manager to inspect establishments for compliance with the City of Thomaston's FOG ordinances and permits.
+FOG control program means to reduce and/or control the discharge of fats, oils, and grease into the sewer system by educating and regulating food service establishments located in City of Thomaston or establishments located outside City of Thomaston but which discharge FOG.
+FOG control program manager means the individual designated by City of Thomaston to administer the FOG program control program.
+FOG interceptor means a multi-compartment device that is constructed in different sizes and is generally required to be located underground between a food service establishment and the connection to the sewer system. These devices primarily use gravity to separate FOG from the wastewater as it moves from one compartment to the next. These devices must be cleaned, maintained, and have the FOG removed and disposed of in a proper manner on regular intervals to be effective.
+FOG manifest means a document that the Georgia State permitted transporter must provide to the FOG generator as proof of services rendered.
+FOG wastewater discharge permit means a permit issued by City of Thomaston authorizing the food service establishment or generator to discharge wastewater into City of Thomaston's facilities or into the sewer system.
+Food service establishment (FSE) means any person who prepares and/or packages food or beverage for sale or consumption, on or off site, with the exception of private residences so long as the private residence is not used to prepare or package food or beverage for sale. Food service establishments include but are not limited to, food courts, food manufacturers, food packagers, restaurants, catering services, bars/taverns, cafeterias, soda fountains, institutions both public and private, mobile food vehicles (coach), wing trailers, diners, grocery stores, bakeries, coffee shops, ice cream shops, lounges, hospitals, hotels, nursing homes, churches, schools, daycare center, and all other food service establishments not listed above either fixed or mobile as are or may hereafter be recognized by the health department and/or the state department of agriculture.
+Fresh air system/fixtures means a system that provides free circulation of air, which will prevent contamination from back flow or back siphonage, e.g. compartment sinks, dishwashers, floor drains, meat sinks, vegetable sinks, wok stations, and mop sinks.
+Generator means any person including those outside the jurisdictional limits of City of Thomaston who contributes, causes, or permits the contribution or discharge of wastewater into sewers within City of Thomaston's boundaries.
+Georgia state permitted transporter means a transporter as that term is defined by O.C.G.A, § 12-15-20 and that are in compliance with the Georgia Department of Natural Resources Regulation 391-3-6-.24 and as may hereinafter be amended.
+Grease trap mean any device or equipment designed to separate fats, oils, and grease from wastewater while allowing water to flow through.
+Hot flushing means a situation prohibited in City of Thomaston that occurs when the FOG interceptor is too close to a hot water using device so the water does not cool sufficiently in the interceptor to allow the FOG to coagulate and float to the top and FOG is instead carried out to the sewer system.
+Limited food preparation establishment means an establishment that is engaged only in reheating or serving of ready to eat food products and as a result, discharges wastewater containing less than 100 mg/L of FOG per operating business day. A limited food preparation establishment does not include any operation that changes the form, flavor, or consistency of food.
+Maintenance means removal of FOG from the interceptor or trap and cleaning the walls, floor, baffles, and pipe work.
+New construction means any structure, planned or under construction, where a sewer connection permit is required by law or regulation but has not been issued by the city.
+Non-hazardous manifest means a receipt that is retained by the generator of wastes for disposing of FOG, liquids, or other wastes as required by City of Thomaston.
+Non-renderable grease means food grade FOG that has become contaminated with sewage, detergents, or other constituents that make it unacceptable for rendering, Non-renderable grease is typically drained through sinks, washbasins, and floor drains to the sewer system. Once it exits the facility, it can enter the sewer system and cause a variety of operation and maintenance problems. Non-renderable grease is sometimes referred to as "brown grease" or as "trap grease."
+Plumbing Drainage Institute rating means interceptors that are tested, rated, and certified in conformance with Standard Plumbing Drainage Institute—G101 by the Plumbing and Drainage Institute.
+Regulatory agencies means those agencies having regulatory jurisdiction over the operations of City of Thomaston including, but not limited to: the United States Environmental Protection Agency, Region IV; Atlanta, Georgia and Washington, DC (EPA); the Georgia Department of Natural Resources (DNR); the Georgia Division of Public Health; the Georgia Environmental Protection Division (EPD); the city; or any regulatory agency or body as may be established by federal, state, or local law.
+Remodeling or remodeled means a physical change or operational change in a structure that requires an issuance of or revision to a business license or a building permit.
+Septic tank means a hollow chambered tank without a baffle, T's, and flow control to restrict FOG from entering the city's sewer system.
+Sewer system means as defined in section 90-54 of this Code and as may hereinafter be amended.
+Shovel inspection means a FOG compliance inspector who uses a shovel to determine the condition of the FOG interceptor.
+Sludge means any solid, semi-solid or liquid decant, subnate or supernate from a manufacturing process, utility service, or pretreatment facility.
+Sludge judge inspection means a test in which the FOG compliance inspector uses an instrument, usually a clear hollow plastic tube, to pull and measure a core sample from the FOG interceptor to determine its condition.
+Standard Plumbing Drainage Institute—G101 means a comprehensive engineering and testing program developed to establish flow rates and FOG holding capacity for uniform rating of FOG interceptors.
+Total solids means the sum of suspended and dissolved solids within a sample.
+Twenty percent rule means the requirement for FOG interceptors to be maintained such that the combined FOG solids accumulation does not exceed 20 percent of the design hydraulic capacity of the FOG interceptor.
+Visual inspection means an in-person observation by a FOG compliance inspector to determine if a shovel inspection and/or a sludge judge inspection is necessary to determine the condition of the FOG interceptor.
+Waste means sewage and any and all other waste substances, liquid, solid, or gaseous, associated with human habitation or of human or animal nature intended for disposal.
+Wastewater constituents and characteristics means the individual chemical, physical, and bacteriological parameters, including volume and flow rate, and such other parameters that serve to define, classify, or measure the quality and quantity of wastewater.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.2. - Purpose, scope, and policy.
+(a)
+These regulations are designed to facilitate the maximum beneficial public use of City of Thomaston's sewer system while preventing blockages and overflows of sewer system resulting from discharges of FOG into the City of Thomaston sewer system and to specify appropriate FOG discharge requirements for all facilities emitting FOG.
+(b)
+By enactment of these regulations, City of Thomaston intends to exercise its authority over sizing, location, maintenance, and material of grease traps and/or interceptors within incorporated limits of the City of Thomaston and unincorporated areas that the City of Thomaston serves.
+(c)
+The provisions of these regulations shall apply to the direct or indirect discharge of all wastewater or waste containing FOG discharged into the City of Thomaston sewer system.
+(d)
+These regulations establish quantity and quality standards on all wastewater and/or waste discharges containing FOG; which may alone or collectively cause or contribute to FOG accumulation in the sewer system causing or potentially causing or contributing to the occurrence of sanitary sewer overflows and blockages.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.3. - Transporters of non-hazardous commercial waste.
+O.C.G.A. § 12-15-20 et seq. sets forth a permitting scheme for transporters of commercial waste and provides a regulatory method for the clean and sanitary removal of commercial waste. O.C.G.A. § 12-15-23 specifically authorizes municipalities to enforce compliance with the provisions of the state law described in this section. O.C.G.A. § 12-15-20 et seq. as currently enacted and as may hereinafter be amended, is therefore adopted by reference as if set out fully in this section.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.4. - Best management practices.
+(a)
+All persons disposing of FOG shall be required to properly dispose of FOG using all of the following best management practices:
+(1)
+Dispose of FOG in covered collection containers;
+(2)
+Place food scraps from dishes into trashcans and garbage bags and dispose of properly;
+(3)
+Avoid disposing of food scraps in garbage disposers to help maintain interceptor volume;
+(4)
+Allow FOG to cool first before it is skimmed, scraped, or wiped off of all preparation and servicing surfaces;
+(5)
+Pre-wash dishes and pans with cold water before putting them in the dishwasher;
+(6)
+Cover the kitchen sink drain with screening and empty debris into the garbage as needed;
+(7)
+Cover the floor drain with a fine screen and empty into the garbage can as needed; and
+(8)
+Renderable fats, oils, and grease shall only be disposed of in separate storage containers for recycling by a tenderer. Non-renderable fats, oil, and grease shall be discharged into a FOG interceptor, sanitary sewer, or dumpster (only if the discharge is less than 100 mg/L FOG after sanitary sewer).
+(b)
+All persons disposing of FOG shall not use any of the following practices when disposing of FOG:
+(1)
+Pouring FOG down the drain;
+(2)
+Putting food scraps down the drain; or
+(3)
+Running hot water over dishes, pans, fryers, woks, and griddles to rinse FOG down the drain (also known as hot flush).
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.5. - Requirements for interceptor and specific plumbing connections.
+(a)
+All food service establishments shall only introduce pre-treated wastewater acceptable to City of Thomaston, under the requirements and standards established herein before discharging, directly or indirectly, into any City of Thomaston sewer system.
+(b)
+No more than 175 mg/L of FOG shall be discharged per operating business day. The FOG generator shall bear all of the expense of proving compliance with the 175-mg/L threshold.
+(c)
+Any food service establishment required to provide FOG pie-treatment shall install, operate, and maintain an appropriately designed and adequately sized FOG interceptor that has been approved by the chief executive officer or designee.
+(d)
+The testing procedures for waste constituents and characteristics shall be as provided in 40 CFR 136 (Code of Federal Regulations).
+(e)
+FOG interceptors shall be connected to the food service establishment's lateral sewer line after all fixtures which may introduce FOG have been connected and shall have fresh air connected, as defined in these regulations. Fresh air fixtures include but are not limited to sinks, dishwashers, automatic hood wash units, floor drains in food preparation and storage areas, and any other fixtures, which have a potential to introduce FOG. Wastewater from sanitary sewer fixtures and other similar fixtures shall not be introduced into the FOG interceptor.
+(f)
+FOG interceptors shall not be connected to septic tanks.
+(g)
+All food service establishments that have dumpster pad/trash compactor drains on site and are connected to the sewer system shall have a separate interceptor (no less than 1,000 gallons in size) installed and functioning at all times. The sloping area to the outside drain and the drain shall be covered either by the dumpster/compactor or a canopy to prevent inflow and infiltration of rainwater.
+(1)
+The contents of any fryer oil containers shall not be mixed with any other FOG interceptor waste or any other non-toxic or toxic substances.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.6. - FOG interceptor physical specifications/requirements.
+(a)
+All interior FOG interceptors shall:
+(1)
+Be properly sized based on the results of an inspection and FOG evaluation;
+(2)
+Contain properly installed and functioning baffle walls and other flow control devices necessary to achieve the appropriate retention time;
+(3)
+Have at least a one minute interior retention time before gray water is discharged into the sewer system;
+(4)
+Tie all of the fresh air fixtures to the FOG interceptor;
+(5)
+Have a temperature of discharge entering the interior FOG interceptor that does not exceed 140 degrees Fahrenheit; and
+(6)
+Be plumbing drainage institute rated and leak tested, must be accessible for annual inspection, and be installed and inspected by a licensed plumber in accordance with the manufacturer's specifications and not by a representative and/or an apprentice of the licensed plumber.
+(b)
+All exterior FOG interceptors shall:
+(1)
+Be a minimum of 1,000 gallons in capacity; and a maximum of 3,000 gallons, which would consist of two 1,500-gallon interceptors in a series;
+(2)
+Be properly sized based on the results and inspection and FOG evaluation;
+(3)
+Have at least a 30-minute interior retention time before gray water is discharged into the sewer system;
+(4)
+Be constructed of concrete or other durable materials suitable for loadbearing and watertight to prevent inflow and infiltration;
+(5)
+Connect all of the fresh air fixtures to the FOG interceptor;
+(6)
+Have the outlet discharge line from the FOG interceptor directly connected to a sewer line tapped into the collection main;
+(7)
+Have solid manhole covers to prevent inflow and infiltration;
+(8)
+Have one or more manholes for entry to each chamber of hydraulic mass;
+(9)
+Be accessible for inspections and have no permanent or temporary structure or container placed directly over the FOG interceptor or installed in areas subject to traffic;
+(10)
+Be installed by a licensed plumber.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.7. - Maintenance requirements for new and existing FSEs.
+(a)
+[Depth.] The depth of FOG (floating and settled) in the FOG interceptor shall not be equal to or greater than 20 percent of the total operating depth of the interceptor.
+(b)
+General requirements for FOG interceptors. In order to maintain FOG interceptors, all food service establishments shall remove the sludge, floating materials, solids, and wastewater, and shall scrape all excessive solids from the walls, floor, baffles, and ail pipe work and shall pump interior and exterior FOG interceptors dry as set forth in these regulations and as required by the terms and conditions of the permit.
+(1)
+FOG interceptors shall be kept free from any inflow/infiltration such as grit, rocks, gravel, sand, eating utensils, cigarettes, shells, towels, rags, etc., as such inflow reduces the effectiveness of the FOG interceptor; thereby increasing the need for more frequent cleaning.
+(2)
+To insure that the FOG interceptor can be maintained properly, the FOG interceptor needs to be free from any obstruction that would hinder the maintenance, function, and inspection of the interceptor.
+(3)
+A Georgia state permitted transporter shall perform all maintenance of FOG interceptors. All Georgia state permitted transporters working in incorporated City of Thomaston shall have an active Georgia waste transporter's permit and a City of Thomaston transporters permit in the manner and form set forth by O.C.G.A. § 12-15-20 et seq. and be in compliance with the requirements of Georgia DNR regulation 391-3-6-.24. Transporters working in City of Thomaston are required to leave a copy of a non-hazardous waste manifest with the food service establishment. Maintenance schedules may vary based on individual circumstances to protect the sewer system.
+(4)
+The FOG compliance inspector has the authority to change the FOG interceptors cleaning cycles for any FOG generator at any time.
+(5)
+The discharge or introduction of any additives to the sewer system is unlawful and prohibited. The direct introduction of additives into the FOG interceptor is prohibited. Additives include but are not limited to biological agents such as enzymes, bacteria, and/or degreasing agents.
+(6)
+The FOG generator shall be responsible for the proper removal and disposal of the FOG interceptor waste by a Georgia state permitted waste transporter and maintenance of records of disposal as specified in this section. All waste removed from each FOG interceptor must be disposed of at an appropriate disposal facility designed to receive such waste. The City of Thomaston's WWTPs are not an approved disposal site for FOG wastes.
+(7)
+No FOG interceptor pumpage shall be discharged to the sewer system as otherwise prohibited in these regulations.
+(8)
+Every FOG interceptor shall be required to have a Georgia non-hazardous waste manifest. The Georgia non-hazardous waste manifest must be complete with all information required by these regulations and state law.
+(9)
+Mechanical FOG interceptors are prohibited in City of Thomaston.
+(c)
+Exterior FOG interceptors. Maintenance of exterior FOG interceptors shall be performed at least once every 90 days or at inspectors' discretion. Skimming, decanting, and/or any reintroduction of water into exterior FOG interceptors shall not be allowed under any conditions.
+(d)
+Interior FOG interceptors. Interior FOG interceptors maintenance shall be performed once every 30 days or at inspectors' discretion, and all of the fresh air and/or safe way plumbing fixtures shall be connected. In-house cleaning of interior FOG interceptors is prohibited. To insure proper FOG interceptor maintenance, interior FOG interceptors shall be free from any obstruction that would hinder the maintenance of the interceptor.
+(e)
+Interior and exterior FOG interceptor records. All food service establishments shall maintain records of the date and time of all cleaning and maintenance. Every FOG interceptor manifest shall be placed in a logbook, folder, or three-ring notebook. This book shall be made available on demand by the FOG compliance inspector during inspection. All records of at least three years shall be kept on-site and available. These records shall include:
+(1)
+A logbook of FOG interceptor and/or FOG control device cleaning and maintenance;
+(2)
+A record of best management practices being implemented, including employee training;
+(3)
+Copies of records and manifests of waste transporting interceptor contents;
+(4)
+Records of any spills and/or cleaning of the lateral sewer line; and
+(5)
+Records of sampling data and sludge height monitoring for FOG and solids accumulation in the FOG interceptors.
+(6)
+A copy of every manifest will be sent to the FOG control manager within one week of receipt.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.8. - Notification of spills by the food service establishment.
+(a)
+In the event that any food service establishment is unable to comply with any permit condition due to a breakdown of equipment, accidents, or human error or the food service establishment has reasonable opportunity to know that his/her/its discharge shall exceed the discharge provisions of the FOG wastewater discharge permit or these regulations, the food service establishments shall immediately notify the FOG control program manager or designee by telephone at the number specified in the permit. If the material discharged to the sewer has the potential to cause or result in sewer blockages or sanitary sewer overflows, the food service establishment shall immediately notify the FOG control program manager or designee by telephone at the number specified in the permit and the director of the Upson County Health Department or designee orally or by telephone at the published numbers for such departments.
+(b)
+All food service establishments shall provide written notification of this oral or telephonic notification to the FOG control program manager at the address specified in the permit no later than five working days from the date of the incident. The written notification shall state the date of the incident, the reasons for the discharge or spill, what steps were taken to immediately correct the problem, and what steps are being taken to prevent the problem from recurring.
+(c)
+Such notification shall not relieve a food service establishment of any expense, loss, damage, or other liability which may be incurred as a result of damage or loss to City of Thomaston or any other damage or loss to person or property; nor will such notification relieve a food service establishment from payment of any fees or imposition of any other liability which may be authorized by these regulations or other applicable law.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.9. - FOG wastewater discharge permit application.
+(a)
+All food service establishments are required to be in compliance with a FOG wastewater discharge permit issued by the City of Thomaston and shall complete and file with City of Thomaston prior to commencing or continuing discharges. A registration form will be prescribed by the City of Thomaston along with registration fees. The FSE shall submit annually, in units and terms appropriate for evaluation, the following information:
+(1)
+Name, address, telephone number, assessor's parcel number(s), description of the food service establishment, operation, cuisine, service activities, and, as applicable, clients using the applicant's services;
+(2)
+Whichever is applicable, the name and address of any and all principals/owners/major shareholders of the food service establishment, articles of incorporation, most recent report of the Secretary of State, and a copy of the owner's business license;
+(3)
+Name and address of property owner or lessee and the property manager for the property where the food service establishment is located; and
+(4)
+Any other information specified in the application form.
+(b)
+The FSE may be required to submit site plans, floor plans, mechanical and plumbing plans, and details to show all sewers, FOG control devices, FOG interceptors, or other pretreatment equipment and appurtenances by size, location, and elevation for evaluation.
+(c)
+Other information related to the applicant's business operations and potential discharge may be requested to properly evaluate the permit application.
+(d)
+After evaluation of the data furnished, City of Thomaston may issue a FOG wastewater discharge permit, subject to the terms and conditions set forth in these regulations and as otherwise determined by the FOG control program manager to be appropriate to protect City of Thomaston's sewer system,
+(e)
+The FOG wastewater discharge permit and application fee shall be paid by the applicant in an amount adopted by action of the governing authority. Payment of the application permit fee must be received by City of Thomaston at the time of filing the application for the permit. A food service establishment shall also pay any delinquent invoices in full prior to any permit renewal.
+(f)
+The registration shall not be considered complete until all the information required by this section is provided to the FOG Control Program Manager or designee. The FOG control program manager shall have 90 business days from receipt of such information to advise a food service establishment that an application is not complete.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.10. - FOG wastewater discharge permit.
+(a)
+Food service establishments proposing to discharge or currently discharging wastewater that contain FOG into the City of Thomaston sewer system shall obtain a FOG wastewater discharge permit triennially or cease ongoing operation until such permit is obtained. In addition to any other penalties authorized by law, failure to obtain such a permit shall subject the food service establishment to the potential of the disconnection of water service, until such permit is obtained.
+(b)
+FOG wastewater discharge permits shall be subject to all provisions of these regulations and all other regulations, charges for use, and fees established by City of Thomaston. City of Thomaston in accordance with these regulations and applicable law shall have the authority to enforce the conditions of FOG wastewater discharge permits.
+(c)
+The FOG wastewater discharge permit shall be considered issued upon:
+(1)
+Compliance with these regulations;
+(2)
+Compliance with the applicable provisions of this Code; and
+(3)
+The proper installation and maintenance of a FOG interceptor that complies with the applicable provisions of this Code.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.11. - Same—Conditions.
+The issuance of a FOG wastewater discharge permit may contain any of the following conditions or limits:
+(1)
+Limits on discharge of FOG, which may cause or contribute to sanitary sewer overflows and/or sewer blockages;
+(2)
+Requirements for proper operation and maintenance of FOG interceptors and other FOG control devices;
+(3)
+FOG interceptor maintenance frequency and schedule;
+(4)
+Requirements for implementation of best management practices and installation of adequate FOG interceptor and/or FOG control device;
+(5)
+Requirements for maintaining and reporting status of best management practices;
+(6)
+Requirements for maintaining and submitting logs and records, including waste hauling records and waste manifests;
+(7)
+Requirements to self-monitor the discharge to the sewer system and periodically assess and report on the condition of the sewer lateral;
+(8)
+Requirements for the food service establishment to construct operate and maintain, at its own expense, a FOG control device(s) and sampling facilities;
+(9)
+Additional requirements as otherwise determined to be reasonably appropriate by the FOG control program manager to protect City of Thomaston sewer system or as specified by other regulatory agencies; and
+(10)
+Other terms and conditions, which may be reasonably applicable to ensure compliance with these regulations.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.12. - Same—Modification of terms and conditions.
+(a)
+The terms and conditions of an issued permit may be modified by the FOG control program manager if there is a change in:
+(1)
+The generator's current or anticipated operating data;
+(2)
+City of Thomaston's current or anticipated operating data;
+(3)
+The requirements of regulatory agencies, which affect City of Thomaston; or
+(4)
+A determination by the FOG control program manager and his or her designee that such modification is required to comply with the provisions of these regulations.
+(b)
+The FSE may request a modification to the terms and conditions of an issued permit. The request shall be in writing stating the requested change and the reasons for the change. The FOG control program manager shall review the request, make a determination on the request, and respond in writing within 30 days of receipt of the request.
+(c)
+The FSE shall be informed of any change in the permit limits, conditions, or requirements at least 45 days prior to the effective date of the change. Any changes or new conditions in the permit shall include a reasonable time schedule for compliance, not to exceed 45 days.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.13. - Permits for new and existing facilities, grandfathering, and effective date.
+(a)
+New facilities. Food service establishments, which are newly proposed, constructed, or existing facilities which will be expanded or renovated, shall be required to install a properly sized FOG interceptor according to the requirements set forth in these regulations and such FOG interceptors shall be permitted and installed prior to the issuance of a certificate of occupancy for the food service establishment.
+(b)
+Existing facilities. City of Thomaston requires all existing food service establishments to install, operate, and maintain a FOG interceptor that complies with the requirements set forth in these regulations. All food service establishments shall repair or replace any non-complaint plumbing or the existing FOG interceptor and be compliant within 180 days of written notification by City of Thomaston if anyone or more of the following conditions exist or occur:
+(1)
+The facility is found to produce any product that creates FOG as a by-product;
+(2)
+The facility does not have a FOG interceptor;
+(3)
+The facility has an undersized, irreparable, improperly configured, or defective FOG interceptor;
+(4)
+Remodeling of the food preparation or kitchen waste plumbing system is performed which requires a plumbing permit to be issued by City of Thomaston Building and Zoning;
+(5)
+The existing facility is expanded or renovated;
+(6)
+The existing facility does not have plumbing connection to a FOG interceptor in compliance with the requirements of City of Thomaston; or
+(7)
+If a food service establishment changes its business name;
+(8)
+If a grandfathered FSE fails inspection three times in a calendar year, that FSE will lose its grandfathered status and be required to meet the requirements of a new facility.
+(c)
+Grandfathering. If an existing food preparation establishment which generates and discharges wastewater containing fats, oils, and grease, and which has an existing non-complying FOG interceptor in operation before January 1, 2018 or an existing or new food preparation establishment is housed in a structure that because of its architectural or historical restrictions the owner will suffer extreme economic hardship in order to upgrade the existing FOG interceptor provided that the FSE is in compliances with all applicable requirements of this Code and the FOG discharge permit with the following exceptions:
+(1)
+The FOG interceptor is not allowing excess FOG to enter the wastewater system,
+(2)
+All fresh air fixtures must be tied into the current FOG interceptor,
+(3)
+For an interior interceptor, interceptor maintenance will be monitored more frequently, this may result in a more frequent cleanout schedule by Georgia state permitted transporter; the cleaning frequency will be determined by the FOG inspector.
+(4)
+For an exterior interceptor, interceptor maintenance will be monitored more frequently, this may result in a more frequent cleanout schedule by Georgia state permitted transporter; the cleaning frequency will be determined by the FOG inspector.
+(5)
+The waste entering the FOG interceptor is less than 140 degrees Fahrenheit.
+(d)
+Notification of planned changes. All food service establishments shall notify the FOG compliance manager at least 30 days in writing in advance prior to any change of ownership, facility expansion/remodeling, or process modifications that may result in new or substantially increased FOG discharges or a change in the nature of the discharge. All food service establishments shall submit any information requested by City of Thomaston for evaluation of the effect of such expansion on the food service establishment's FOG discharge to the sewer system.
+(e)
+Effective date. These regulations shall not become fully effective until January 1, 2018.
+(Ord. No. 1102, pt. I, 12-19-17; Ord. No. 1108, pt. I, 12-18-18)
+Sec. 90-137.14. - FOG wastewater discharge permit duration and renewal.
+FOG wastewater discharge permits shall be issued triennially (every three years). Within 60 days after the issuance of a permit renewal the FSE shall complete the FOG wastewater discharge permit registration in accordance with the provisions of section 90-137.9 of this Code.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.15. - Exemption from FOG wastewater discharge permit.
+A limited food preparation establishment is not considered a food service establishment and is exempt from obtaining a FOG wastewater discharge permit with the following exceptions:
+(1)
+Complete registration with the City of Thomaston as defined in section 90-137.9; and
+(2)
+Be in compliance with the registration requirements defined in the general permit.
+• If exempt FSE is found to be changing the form, flavor, or consistency of food, this exemption will be revoked immediately.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.16. - Non-transferability of permits and fees.
+(a)
+FOG wastewater discharge permits issued under these regulations are for a specific food service establishment, for a specific operation, and create no vested rights.
+(b)
+No permit holder shall assign, transfer, or sell any FOG wastewater discharge permit issued under these regulations nor use any such permit for or on any premises or for facilities or operations or discharges not expressly encompassed within the underlying permit.
+(c)
+A permitting fee that covers the administrative costs of City of Thomaston for administering the FOG program shall be established by action of the governing authority and assessed to each facility subject to these regulations.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.17. - Payment of charges.
+All fees established by these regulations are due and payable upon receipt of notice thereof. Accounts shall become delinquent if not paid within 30 days of the date of mailing, or if personally delivered, the date of delivery. Any invoice outstanding and unpaid after 90 days shall be cause for immediate initiation of permit revocation proceedings or immediate suspension of the permit.
+(1)
+This permit fee will be in the amount of $250.00, and will be paid on a triennial (three-year) frequency.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.18. - Inspections and authority to enforce regulations.
+(a)
+Authority to inspect. The compliance inspectors shall inspect food service establishments on both an unscheduled and unannounced basis or on a scheduled basis. All food service establishments can expect to be inspected at a minimum of four times per year. Inspection of a FOG interceptor shall be performed at frequencies necessary to protect the capacity of the sewer system against the accumulation of FOG in an amount that would exceed the 20 percent rule. Inspection shall include all fixtures, equipment, food processing, and storage areas, and shall include a review of the processes that produce wastewater discharged from a facility through the FOG interceptor. Any deficiencies shall be noted, including but not to be limited to:
+(1)
+Failure to report changes in operations or wastewater constituents and characteristics;
+(2)
+Failure to properly maintain the FOG interceptor;
+(3)
+Failure to maintain logs, files, records, or access for inspection or monitoring activities;
+(4)
+Failure to obtain or renew the FOG discharge permits in a timely manner; or
+(5)
+Any other violations of these regulations or state law that requires correction by the food service establishment.
+(b)
+Right of entry. Where it is necessary to make an inspection to enforce the provisions of these regulations or where the FOG control program manager or designee has reasonable cause to believe that there exists in a building or structure or upon a premises, a condition which is contrary to or in violation of the applicable provisions of this Code, the FOG control program manager or designee is authorized to enter the building, structure or premises at reasonable times to inspect or perform any of the duties imposed by the applicable provisions of this Code. If such building, structure, or premises is occupied, the inspector shall present credentials to the occupant and shall request entry. If such building, structure, or premises is unoccupied, the inspector shall first make a reasonable effort to locate the owner or other person having charge or control of the building, structure, or premises and request entry. If entry is refused, the inspector shall have recourse to the remedies provided by law for entry. In the event of an emergency involving actual or imminent sanitary sewer overflow, the inspector may access adjoining businesses or properties that share a sewer system with a food service establishment in order to prevent or remediate an actual or imminent sewer overflow.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.19. - Noncompliance fees, letters, and schedules.
+(a)
+Reinspection fee. Any food service establishment in noncompliance with the terms and conditions specified in its permit or with any provision of these regulations shall pay a noncompliance fee. The purpose of the noncompliance fee is to compensate City of Thomaston for costs of additional inspections, follow-ups, sampling, monitoring, laboratory analysis, treatment, disposal, and administrative processing incurred as a result of the noncompliance, and shall be in addition to and not in lieu of any penalties as may be assessed pursuant to these regulations. Noncompliance fees shall be in the amount adopted by action of the governing authority.
+(b)
+Noncompliance letters. Immediately following every inspection and/or FOG evaluation, the food service establishment inspected shall receive a letter indicating the results of the inspection. A certified letter of noncompliance means the food service establishment is in violation of the applicable provisions of this Code. Letters of noncompliance shall include a description of the code being violated and the immediate course of action the food service establishment shall be required to take to come into compliance. Failure to comply with a letter of noncompliance is also a violation of these regulations. A written response to the FOG compliance manager will also be required so there is documentation of detailed plans to comply with the ordinance.
+(c)
+Compliance schedule. Upon determination that a food service establishment is noncompliant with the terms and conditions specified in its permit or any provision of these regulations, or needs to construct and/or acquire and install a FOG interceptor, the FOG control program manager may also issue and require the food service establishment to abide by a compliance schedule. The issuance of a compliance schedule may contain terms and conditions including but not limited to requirements for installation of a FOG interceptor and facilities, submittal of drawings or reports, audit of waste hauling records, best management and waste minimization practices, payment of fees, or other provisions to ensure compliance with these regulations.
+(d)
+Fees. The FOG control program manager shall not issue a compliance schedule until such time as all amounts owed by the food service establishment to the City of Thomaston, due are paid in full. If compliance is not achieved in accordance with the terms and conditions of a compliance schedule, the FOG control program manager may issue an order suspending or revoking the FOG wastewater discharge permit.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.20. - Permit suspension and revocation.
+(a)
+Permit suspension and revocation. The FOG control program manager may suspend or revoke any permit when it is determined that a food service establishment:
+(1)
+Fails to comply with the terms and conditions of a noncompliance letter or compliance schedule order;
+(2)
+Destroys, removes, conceals, or knowingly provides a false statement, representation, record, report, or other document to City of Thomaston;
+(3)
+Refuses to provide records, reports, plans, or other documents required by City of Thomaston to determine permit terms or conditions, discharge compliance, or compliance with these regulations;
+(4)
+Falsifies, tampers with, destroys, or knowingly renders inaccurate any monitoring device or sample collection method;
+(5)
+Does not make timely payment of all amounts owed to City of Thomaston for user charges, permit fees, or any other fees imposed pursuant to these regulations;
+(6)
+Causes interference, a sewer blockage, or a sanitary sewer overflow in the sewer system, violates FOG interceptor maintenance requirements, violates any condition or limit of its FOG wastewater discharge permit, or violates any provision of these regulations; or
+(7)
+Refuses to accept a notice by personal service or certified mail.
+(b)
+Notification.
+(1)
+When the FOG control program manager has reason to believe that grounds exist for permit suspension or revocation, he/she shall give written notice thereof by certified mail to the food service establishment setting forth a statement of the facts and grounds deemed to exist, together with the time and place where the charges shall be heard by the city manager. The hearing date shall be not less than 15 calendar days or more than 45 calendar days after the mailing of such notice.
+(2)
+At the suspension or revocation hearing, the food service establishment shall have an opportunity to respond to the allegations set forth in the notice by presenting written or oral evidence. The hearing shall be conducted in accordance with written procedures established by the city manager. The city manager shall conduct the hearing and shall render a decision in writing within 30 calendar days after the conclusion of the hearing.
+(3)
+The written decision and order of the city manager shall be sent by certified mail to the food service establishment at the food service establishment's business address. Upon an order of suspension or revocation by the FOG control program manager becoming final, the food service establishment shall immediately cease and desist its discharge and shall have no right to discharge any wastewater containing FOG directly or indirectly into City of Thomaston's sewer system for the duration of the suspension. All costs for physically terminating and reinstating service shall be paid by the food service establishment. Any owner or responsible management employee of the food service establishment shall be bound by the order of suspension or revocation. Upon an order of revocation by the FOG control program manager becoming final, the food service establishment shall permanently lose all rights to discharge any wastewater containing FOG directly or indirectly to City of Thomaston's sewer system. All costs for physical termination shall be paid by the food service establishment.
+(4)
+An order of permit suspension or revocation issued by the FOG control program manager shall be final in all respects on the 16th day after it is mailed to the food service establishment.
+(c)
+Damage to facilities or interruption of normal operations of the sewer system. Any person who discharges any waste which causes or contributes to any sewer blockage, sanitary sewer overflows, obstruction, interference, damage, or any other impairment to City of Thomaston's sewer system and/or equipment, or to the operation of those facilities and/or equipment shall be liable for all costs required to clean and/or repair the facilities and/or equipment, together with expenses incurred by City of Thomaston to resume normal operations. A service charge of 25 percent of City of Thomaston's costs shall be added to the costs and charges to reimburse City of Thomaston for miscellaneous overhead, including administrative personnel and record keeping. The total amount shall be payable within 45 days of invoicing by City of Thomaston. Any person who discharges a waste which causes or contributes to City of Thomaston violating its discharge requirements established by any regulatory agency incurring additional expenses or suffering losses or damage to the facilities and/or equipment shall be liable for any costs or expenses incurred by City of Thomaston, including regulatory fines, penalties, and assessments made by other agencies or a court.
+(d)
+Termination of water service to the food service establishment. City of Thomaston, by order of the FOG control program manager, may physically terminate water service to any property as follows:
+(1)
+If so ordered in any order of suspension or revocation of a permit; or
+(2)
+Upon the failure of a person not holding a valid FOG wastewater discharge permit to immediately cease the discharge, whether direct or indirect, to City of Thomaston sewer system after the issuance of a final order or suspension or revocation.
+(3)
+All costs for physical termination of the water service shall be paid by the owner or operator of the food service establishment as well as all costs for reinstating service.
+(e)
+Emergency suspension order. City of Thomaston may, by order of the FOG control program manager or designee suspend water service when the FOG control program manager or designee determines that such suspension is necessary in order to stop an actual or impending discharge which presents or may present an imminent or substantial endangerment to the health and welfare of persons, or to the environment, or may cause sanitary sewer overflows, sewer blockages, interference to City of Thomaston's sewer facilities, or may cause City of Thomaston to violate any state or federal law or regulation. Any discharger notified of and subject to an emergency suspension order shall immediately cease and desist the discharge of all wastewater containing FOG to the sewer system.
+(f)
+Emergency suspension hearing. As soon as reasonably practicable following the issuance of an emergency suspension order, but in no event more than five business days following the issuance of such order, the city manager shall hold a hearing to provide a food service establishment the opportunity to present information in opposition to the issuance of the emergency suspension order. Such a hearing shall not stay the effect of the emergency suspension order. The hearing shall be conducted in accordance with written procedures established by the city manager. The shall issue a written decision and order within two business days following the hearing, which decision shall be sent by certified mail to the food service establishment at that food service establishment's business address. This decision shall either lift the emergency suspension order or suspend or revoke the permit subject to the suspension and revocation appeal process set forth in these regulations.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-137.21. - Criminal penalties.
+(a)
+Any person that does anything prohibited or fails to do anything required by these regulations, upon citation and conviction of the violation in a court of competent jurisdiction, shall be subject to the penalties in accordance with section 1-10. Where any offense or violation continues from day to day, each day's continuance thereof shall be deemed a separate offense.
+(b)
+Upon a second and subsequent conviction within a 12-month period measured from the date of the first conviction, of any violation of these regulations, the court shall impose a fine of not less than $500.00 in addition to any other penalty or punishment imposed by the court.
+(c)
+Upon a third and subsequent conviction within a 12-month period measured from the date of the first conviction of any violation of these regulations, the court shall impose a fine of not less than $1,000.00 in addition to any other penalty or punishment imposed by the court.
+(d)
+The penalties provided in this section are not cumulative and shall not prohibit City of Thomaston from pursuing any other civil or criminal remedies authorized by this Code, state, or federal law.
+(Ord. No. 1102, pt. I, 12-19-17)
+Sec. 90-138. - Reserved.

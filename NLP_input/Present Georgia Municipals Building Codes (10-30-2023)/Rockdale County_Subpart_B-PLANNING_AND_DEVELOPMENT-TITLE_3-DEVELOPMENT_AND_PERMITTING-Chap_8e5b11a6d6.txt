@@ -1,0 +1,879 @@
+Chapter 310 - STORMWATER MANAGEMENT
+ARTICLE I. - GENERAL
+
+Sec. 310-1. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Accidental discharge: A discharge prohibited by ordinance, which occurs by chance, and without planning or thought prior to occurrence.
+Applicant: A person submitting a land development application for approval.
+Best management practice (BMP): Both structural devices to store or treat stormwater runoff and non-structural programs or practices which are designed to prevent or reduce the pollution of the waters of the State of Georgia.
+BMP landscaping plan: A design for vegetation and landscaping that is critical to the performance and function of the BMP, including how the BMP will be stabilized and established with vegetation. It shall include a layout of plants and plant names (local and scientific).
+Buffer: With respect to a stream, a natural or enhanced vegetated area lying adjacent to the stream.
+Channel: A natural or artificial watercourse with a definite bed and banks that conducts continuously or periodically flowing water.
+Clean Water Act (CWA): The Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), and any subsequent amendments thereto.
+Common plan of development (or larger common plan of development): A contiguous area where multiple separate and distinct construction activities will be taking place at different times on different schedules under one plan of development for sale.
+Construction sequencing plan: A document noting the sequence of construction and identification of infiltration zones for protection during staged installation of permanent post-construction BMPs to ensure suitable site conditions such as avoiding soil compaction by heavy equipment in areas designated for infiltration BMPs.
+Detention: The temporary storage of stormwater runoff in a stormwater detention facility for the purpose of controlling the peak discharge.
+Detention facility: A structure designed for the storage and gradual release of stormwater runoff at controlled rates.
+Development: New development or redevelopment.
+Environmental Protection Agency (EPA): Federal Agency charged with over site and protection of human health and the environment.
+Environmental Protection Division (EPD): A state agency, being a division within the Georgia Department of Natural Resources, charged with protecting Georgia's air, land, and water resources through the authority of state and federal environmental statutes.
+Erosion sediment and pollution control plan: A plan required by the Erosion and Sedimentation Act, O.C.G.A. ch. 12-7 , that includes as a minimum, protections at least as stringent as the State General Permit, best management practices, and requirements in section 306-4(c).
+Extended detention: The storage of stormwater runoff for an extended period of time.
+Extreme flood protection: Measures taken to prevent adverse impacts from large low-frequency storm events with a return frequency of 100 years or more.
+Final stabilization: All soil disturbing activities at the site have been completed, and that for unpaved areas not covered by permanent structures and areas located outside the waste disposal limits of a landfill cell that has been certified by EPD for wasted disposal, 100 percent of the soil surface is uniformly covered in permanent vegetation with a density of 70 percent or greater, or landscaped according to the plan (uniformly covered with landscaping materials in planned landscape areas), or equivalent permanent stabilization measures as defined in the Manual (excluding a crop of annual vegetation and seeding of target crop perennials appropriate for the region). Final stabilization applies to each phase of construction.
+Finished grade: The final elevation and contour of the ground after cutting or filling and conforming to the proposed design.
+Floodplain: A floodplain or flood plain or is an area of land adjacent to a stream or river which stretches from the banks of its channel to the base of the enclosing valley walls, and which experiences flooding during periods of high discharge. The soils usually consist of clays, silts, and sands deposited during flood.
+Flooding: A volume of surface water that exceeds the banks or walls of a BMP, or channel; and overflows onto adjacent lands.
+Grading: Altering the shape of ground surfaces to a predetermined condition; this includes stripping, cutting, filling, stockpiling and shaping or any combination thereof and shall include the land in its cut or filled condition.
+Green infrastructure: An interconnected natural system and/or engineered system that strengthens and mimics natural hydrologic functions and processes through the use of plants and soil to slow, filter, evapotranspirate and infiltrate runoff close to its source; or the capture and reuse of runoff.
+GSMM: The latest edition of the Georgia Stormwater Management Manual, Volume 2: Technical Handbook, and its Appendices.
+Hotspot: A land use or activity on a site that has the potential to produce higher than normally found levels of pollutants in stormwater runoff. As defined by the stormwater director, hotspot land use may include gasoline stations, vehicle service and maintenance areas, industrial facilities (both permitted under the Industrial Stormwater General Permit and others), material storage sites, garbage transfer facilities, and commercial parking lots with high-intensity use.
+Hydrology: The scientific study of the properties, distribution, and effects of water as a liquid, solid, or gas on the Earth's surface, in the soil and underlying rocks, and in the atmosphere.
+Illegal connection: Either of the following:
+(a)
+Any pipe, open channel, drain or conveyance, whether on the surface or subsurface, which allows an illicit discharge to enter the county's separate storm sewer system including but not limited to any conveyances which allow any non-stormwater discharge including sewage, process wastewater, and wash water to enter the county's separate storm sewer system, regardless of whether such pipe, open channel, drain or conveyance has been previously allowed, permitted, or approved by an authorized enforcement agency; or
+(b)
+Any pipe, open channel, drain or conveyance connected to the county's separate storm sewer system, which has not been documented in, plans, maps, or equivalent records and approved by an authorized enforcement agency.
+Illicit discharge: Any direct or indirect non-stormwater discharge to the county's separate storm sewer system, except as exempted in section 310-14(a).
+Impervious surface: A surface composed of any material that significantly impedes or prevents the natural infiltration of water into the soil.
+Industrial stormwater general permit: The National Pollutant Discharge Elimination System (NPDES) permit issued by Georgia Environmental Protection Division to an industry for stormwater discharges associated with industrial activity. The permit regulates pollutant levels associated with industrial stormwater discharges or specifies onsite pollution control strategies based on Standard Industrial Classification (SIC) Code.
+Infiltration: The process of percolating stormwater runoff into the subsoil.
+Inspection and maintenance agreement: A written agreement providing for the long-term inspection, operation, and maintenance of the stormwater management system and its components on a site; or with respect to a land development project, which when properly recorded in the deed records constitutes a restriction or covenant on the title to a site or other land involved in a land development project.
+Land development application: The application for a land development permit on a form provided by Rockdale County along with the supporting documentation required in section 310-39.
+Land development permit: The authorization necessary to begin construction-related, land-disturbing activity.
+Land disturbing activity: Any activity which may result in soil erosion from water or wind and the movement of sediments into state water or onto lands within the state, including but not limited to clearing, dredging, grading, excavating, and filling of land. Land disturbing activity does not include agricultural practices as described O.C.G.A. § 12-7-17 (5) or silvicultural activities as described O.C.G.A. § 12-7-17(6) within areas zoned for these activities.
+Linear feasibility program: A feasibility program developed by Rockdale County and submitted to the Georgia Environmental Protection Division, which sets reasonable criteria for determining when it would be infeasible to implement stormwater management standards for linear transportation projects being constructed by Rockdale County, other local governments, or State agencies.
+Linear transportation projects: Construction projects on traveled ways including but not limited to roads, sidewalks, multi-use paths and trails, and airport runways and taxiways.
+Local issuing authority: The governing authority of any county or municipality which is certified pursuant to subsection (a) O.C.G.A. § 12-7-8 .
+Municipal separate storm sewer system (MS4): A conveyance or system of conveyances including roads with drainage systems, municipal streets, catch basins, curbs, gutters, ditches, manmade channels or storm drains, owned or operated by Rockdale County, designed or used for collecting or conveying runoff and is not a combined sewer or part of a publicly owned treatment works.
+MS4 permit: authorize public entities, such as cities, counties, transportation agencies, and military bases, to discharge pollutants from public stormwater systems to waters of the United [States].
+National Pollutant Discharge Elimination System: The NPDES permit program addresses water pollution by regulating point sources that discharge pollutants to waters of the United States.
+New development: Land disturbing activities, structural development (construction, installation or expansion of a building or other structure), and/or creation of impervious surfaces on a previously undeveloped site.
+Notice of intent (NOI): A notice of intent form provided by EPD for coverage under the state general permit.
+Notice of termination (NOT): A notice of termination form provided by EPD to terminate coverage under the state general permit.
+Nonpoint source pollution: A form of water pollution that does not originate from a discrete point such as a wastewater treatment facility or industrial discharge, but involves the transport of pollutants such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials and other contaminants from land to surface water or groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a by-product of land use practices such as agricultural, silvicultural, mining, construction, subsurface disposal and urban runoff sources.
+Nonstructural stormwater management practice or nonstructural practice: Any natural or planted vegetation or other nonstructural component of the stormwater management plan that provides for or enhances stormwater quantity and/or quality control or other stormwater management benefits, and includes, but is not limited to, riparian buffers, open and greenspace areas, overland flow filtration areas, natural depressions, and vegetated channels.
+Offsite facility: A stormwater management facility located outside the boundaries of the site that it serves.
+Onsite facility: A stormwater management facility located within the boundaries of the site that it serves.
+Open space: Permanently protected areas of the site that are preserved in a natural state.
+Overbank flood protection: Measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e. flow events that exceed the capacity of the channel and enter the floodplain).
+Owner: The legal or beneficial owner of a site, including but not limited to, a mortgagee or vendee in possession, receiver, executor, trustee, lessee or other person, firm or corporation in control of the site.
+Person: Any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the State, any interstate body or any other legal entity.
+Phased construction: Sub-parts or segments of construction projects where the sub-part or segment is constructed and stabilized prior to completing construction activities on the entire site.
+Pollutant: Anything which causes or contributes to pollution. Pollutants may include, but are not limited to: paints, varnishes, and solvents; petroleum hydrocarbons; automotive fluids; cooking grease; detergents (biodegradable or otherwise); degreasers; cleaning chemicals; non-hazardous liquid and solid wastes and yard wastes; refuse, rubbish, garbage, litter, or other discarded or abandoned objects and accumulations, so that same may cause or contribute to pollution; floatables; pesticides, herbicides, and fertilizers; liquid and solid wastes; sewage, fecal coliform and pathogens; dissolved and particulate metals; animal wastes; wastes and residues that result from constructing a building or structure; concrete and cement; and noxious or offensive matter of any kind.
+Pollution: The contamination or other alteration of the physical, chemical or biological properties of air or water by the addition of any constituent and includes but is not limited to, a change in temperature, taste, color turbidity, or odor, or the discharge of any liquid, gaseous, solid, radioactive, or other substance as will or is likely to create a nuisance or render such waters harmful, detrimental or injurious to the public health, safety, welfare, or environment, or to domestic, commercial, industrial, agricultural, recreational, or other legitimate beneficial uses, or to livestock, wild animals, birds, fish or other aquatic life.
+Post-construction stormwater management: Stormwater best management practices that are used on a permanent basis to control and treat runoff once construction has been completed in accordance with a stormwater management plan.
+Post-development: The conditions anticipated to exist on site immediately after completion of the proposed development.
+Practicability policy: The policy developed by Rockdale County in accordance with the latest edition of the Metropolitan North Georgia Water Planning District's Policy on Practicability Analysis for Runoff Reduction.
+Pre-development: The conditions that exist on a site immediately before the implementation of the proposed development. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time before the first item being approved or permitted shall establish pre-development conditions.
+Pre-development hydrology: The runoff curve number determined using natural conditions hydrologic analysis based on the natural, undisturbed condition of the site.
+Previously developed site: A site that has been altered by paving, construction, and/or land disturbing activity.
+Professional engineer (PE): A person who possesses a current certificate of registration as a professional engineer issued by the Georgia State Board of Registration for Professional Engineers and Land Surveyors.
+Redevelopment: Structural development (construction, installation, or expansion of a building or other structure), creation or addition of impervious surfaces, replacement of impervious surfaces not as part of routine maintenance, and land disturbing activities associated with structural or impervious development on a previously developed site. Redevelopment does not include such activities as exterior remodeling.
+Regional stormwater management facility (regional facility): Stormwater management facilities designed to control stormwater runoff from multiple properties, where the owners or developers of the individual properties may assist in the financing of the facility, and the requirement for onsite controls is either eliminated or reduced.
+Registered land surveyor (RLS): A person who possesses a current license issued by the Georgia State Board of Registration for Professional Engineers and Land Surveyors.
+Registered landscape architect (RLA): A person who possesses a current license issued by the Georgia Board of Landscape Architects.
+Regulatory floodplain: Any land area susceptible to flooding, which would have at least a one percent probability of flooding occurrence in any calendar year based on the basin being fully developed as shown on the current land use plan.
+Rockdale County Separate Storm Sewer System: Any facility designed or used for collecting, treating and/or conveying stormwater located in the unincorporated areas of Rockdale County, including but not limited to highways, county streets, curbs, gutters, inlets, catch basins, piped storm drains, pumping facilities, structural stormwater controls, ditches, swales, natural and man-made or altered drainage channels, reservoirs, and other drainage structures; and which is: 1) not a combined sewer, and 2) not part of a publicly-owned treatment works.
+Routine maintenance: Activities to keep an impervious surface as near as possible to its constructed condition. This includes ordinary maintenance activities, resurfacing paved areas, and exterior building changes or improvements which do not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution.
+Runoff: The flow of surface water resulting from precipitation.
+Runoff reduction: The interception, evapotranspiration, infiltration, or capture and reuse of runoff.
+Single family residence: A building constructed as a stand-alone structure, with its own lot (parcel), intended for one family.
+Site: An area of land where development is planned, which may include all or portions of one or more parcels of land. For subdivisions and other common plans of development, the site includes all areas of land covered under an applicable land development permit.
+State general permit: The National Pollution Discharge Elimination System (NPDES) general permit or permits for stormwater runoff from construction activities as is now in effect or as may be amended or reissued in the future pursuant to the state's authority to implement the same through federal delegation under the Federal Water Pollution Control Act (Clean Water Act), as amended, 33 U.S.C. Section 1251, et seq., and subsection (f) of Code Section 12-5-30.
+State waters (waters of the state): Any and all rivers, streams, creeks, branches, lakes, reservoirs, ponds, drainage systems, springs, wells, and other bodies of surface or subsurface water, natural or artificial, lying within or forming a part of the boundaries of Georgia which are not entirely confined and retained completely upon the property of a single individual, partnership, or corporation.
+Stormwater better site design practices: Non-structural site design approaches and techniques that can reduce a site's impact on the watershed and can provide for non-structural stormwater management. Stormwater better site design includes conserving and protecting natural areas and greenspace, reducing impervious cover and using natural features for stormwater management.
+Stormwater concept plan: An initial plan for post-construction stormwater management at the site that provides the groundwork for the stormwater management plan including the natural resources inventory, site layout concept, initial runoff characterization, and first round stormwater management system design.
+Stormwater director: The person appointed by the board of commissioners to administer, implement, and enforce the provisions of chapter 310 of the Rockdale County Code of Ordinances.
+Stormwater director (director): The person appointed by the board of commissioners to administer, implement, and enforce the provisions of chapter 310 of the Rockdale County Code of Ordinances.
+Stormwater management measure: Any stormwater management facility or structural or non-structural stormwater practice.
+Stormwater management plan: A plan for post-construction stormwater management at the site that meets the requirements of section 310-37(d) and is included as part of the land development application.
+Stormwater management standards: Those standards set forth in section 310-36.
+Stormwater management system: The entire set of non-structural site design features and structural BMPs for collection, conveyance, storage, infiltration, treatment, and disposal of stormwater runoff in a manner designed to prevent increased flood damage, streambank channel erosion, habitat degradation and water quality degradation, and to enhance and promote the public health, safety and general welfare.
+Stormwater manager: A person designated by the stormwater director to assist with administrative, implementation, and enforcement duties.
+Stormwater runoff: Flow along the surface of the ground, resulting from precipitation.
+Stream protection area or protection area: With respect to a stream, the combined areas of all required buffers and setbacks applicable to such stream.
+Structural stormwater control: A structural stormwater management facility or device that controls stormwater runoff and changes the characteristics of that runoff including, but not limited to, the quantity and quality, the period of release or the velocity of flow of such runoff.
+Subdivision: The division of a tract or parcel of land resulting in one or more new lots or building sites for the purpose, whether immediately or in the future, of sale, other transfer of ownership or land development, and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or roadway.
+Vegetated green infrastructure: Green infrastructure that uses trees, shrubs, grasses, or other vegetation along with amended or engineered soils to intercept, retain, infiltrate, and evapotranspire runoff.
+Watershed: The land area that drains into a particular stream.
+Other terms used but not defined in this article shall be interpreted based on how such terms are defined and used in the GSMM and Rockdale County's MS4 Permit.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2020-17 , § 1, 11-10-2020)
+Sec. 310-2. - Pollution and littering.
+In addition to the penalty provisions contained in this chapter, violations of the provisions of this chapter that degrade the water quality and aquatic resources through littering or dumping waste may be prosecuted pursuant to the provisions of chapter 78 of the Rockdale County Code entitled "Solid Waste and Weeds" where applicable.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-3. - Penalty for violation.
+Violations of this chapter, except as otherwise provided, shall be subject to punishment as set forth in section 1-11, General penalty.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Secs. 310-4—310-10. - Reserved.
+ARTICLE II. - ILLICIT DISCHARGE AND ILLEGAL CONNECTIONS
+
+Sec. 310-11. - Purpose and intent.
+The purpose of this article is to protect the public health, safety, environment and general welfare through the regulation of non-stormwater discharges to the Rockdale County separate storm sewer system to the maximum extent practicable as required by federal law and to provide flood control. This article establishes methods for controlling the introduction of pollutants into the Rockdale County separate storm sewer system in order to comply with requirements of the National Pollutant Discharge Elimination System (NPDES) permit process. The objectives of this article are to:
+(a)
+Regulate the contribution of pollutants to the Rockdale County separate storm sewer system by any person.
+(b)
+Prohibit illicit discharges and illegal connections to the separate storm sewer system.
+(c)
+Prevent non-stormwater discharges, generated as a result of spills, inappropriate dumping or disposal, to the Rockdale County separate storm sewer system.
+(d)
+To establish legal authority to carry out all inspection, surveillance, monitoring and enforcement procedures necessary to ensure compliance with this article.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-12. - Applicability.
+The provisions of this article shall apply throughout the unincorporated area of Rockdale County.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-13. - Responsibility for administration.
+The director shall administer, implement, and enforce the provisions of this article.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-14. - Prohibitions.
+(a)
+Prohibition of illicit discharges. No person shall drain, discharge, cause, or otherwise allow to be discharged into the Rockdale County separate storm sewer system any pollutants or waters containing any pollutants, other than stormwater. The following discharges are exempt from the prohibition provision above:
+(1)
+Water line flushing performed by a government agency, other potable water sources, landscape irrigation or lawn watering, diverted stream flows, rising groundwater, groundwater infiltration to storm drains, uncontaminated pumped groundwater, foundation or footing drains (not including active groundwater dewatering systems), crawl space pumps, air conditioning condensation, springs, natural riparian habitat or wetland flows, and any other water source not containing pollutants.
+(2)
+Discharges or flows from fire fighting and other discharges specified in writing by the Rockdale County Board of Commissioners as being necessary to protect public health and safety.
+(3)
+Any non-stormwater discharge permitted under an NPDES permit or order issued to the discharger and administered under the authority of the Georgia Department of Natural Resources (DNR) and/or the Federal Environmental Protection Agency (EPA), provided that the discharge is in full compliance with all requirements of the permit, waiver, or order and other applicable laws and regulations, and provided that written approval from the authorizing governmental agency has been granted for any discharge to the Rockdale County separate storm sewer system.
+(b)
+Prohibition of illegal connections. The construction, connection, use, maintenance or continued existence of any illegal connection to the Rockdale County separate storm sewer system is prohibited.
+(1)
+This prohibition expressly includes, without limitation, illegal connections made in the past, regardless of whether the connection was permissible under law or practices applicable or prevailing at the time of connection.
+(2)
+A person violates this article if the person causes a conveyance of sewage or septic effluent into the Rockdale County separate storm sewer system or allows such a connection or conveyance to continue.
+(3)
+Improper connections in violation of this article must be disconnected and redirected, if necessary, to an approved on-site wastewater management system or, with the written approval of the director of the Rockdale County Water Resources Department, into the county sanitary sewer system.
+(4)
+Any drain or conveyance that has not been included in plans, maps, or otherwise documented and that may be connected to the storm sewer system, shall be located by the owner or occupant of that property upon receipt of written notice from the director requiring that such locating be completed. Such notice shall specify:
+a.
+A reasonable time period of not more than ten days, unless a longer period is authorized by the director, within which the location of the drain or conveyance is to be completed.
+b.
+That the drain or conveyance be identified as storm sewer, sanitary sewer, or other.
+c.
+That the outfall location or point of connection to the storm sewer system, sanitary sewer system, or other discharge point be identified.
+(5)
+The results of the investigations of the property owner or occupant shall be documented and provided to the director.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-15. - Industrial or construction activity discharges.
+Any person subject to an industrial or construction activity NPDES stormwater discharge permit shall comply with all provisions of such permit. Proof of compliance with said permit may be required in a form acceptable to the director prior to allowing discharges to the Rockdale County separate storm sewer system.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-16. - Access and inspection of properties and facilities.
+(a)
+The director shall be permitted to enter and inspect properties and facilities at reasonable times as often as may be necessary to determine compliance with the provisions of this article.
+(b)
+If a property or facility has security measures in force that require proper identification and clearance before entry into its premises, the owner or operator shall make the necessary arrangements to allow access to the director during normal business hours.
+(c)
+The owner or operator shall allow the director ready access to all parts of the premises for the purposes of inspection, sampling, photography, videotaping, examination, and copying of any records that are required under the conditions of an NPDES permit to discharge stormwater.
+(d)
+The director shall have the right to set up on any property or facility such devices as are necessary, in the opinion of the director, to conduct monitoring and/or sampling of flow discharges.
+(e)
+The director may require the owner or operator to install monitoring equipment and perform monitoring, as necessary, and make the monitoring data available to the director. This sampling and monitoring equipment shall be maintained at all times in a safe and proper operating condition by the owner or operator at his/her own expense. All devices used to measure flow and quality shall be calibrated, to the satisfaction of the director, to ensure their accuracy.
+(f)
+Any temporary or permanent obstruction to safe and easy access to the property or facility to be inspected and/or sampled shall be promptly removed by the owner or operator at the written or oral request of the director and shall not be replaced. The costs of clearing such access shall be borne by the owner or operator.
+(g)
+Delays of more than five business days in allowing the director access to a facility shall be a violation of this article.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-17. - Notification of accidental discharges and spills.
+(a)
+Notwithstanding other requirements of law, as soon as any person responsible for a facility, activity or operation, or responsible for emergency response for a facility, activity, or operation has information of any known or suspected release of pollutants or non-stormwater discharges from that facility or operation that are resulting or may result in illicit discharges or pollutants discharging into stormwater, the Rockdale County separate storm sewer system, state waters, or waters of the U.S., said person shall take all necessary steps to ensure the discovery, containment, and cleanup of such release so as to minimize the effects of the discharge. Said person shall notify the director by phone, facsimile, or in person no later than 24 hours of the location, nature, quantity, and time of occurrence of the discharge. Notifications in person or by phone shall be confirmed by written notice addressed and mailed to the director within three business days of the phone or in person notice. If the discharge of prohibited materials emanates from a commercial or industrial establishment, the owner or operator of such establishment shall also retain an on-site written record of the discharge and the actions taken to prevent its recurrence. Such records shall be retained for at least three years. Said person shall also take immediate steps to ensure no recurrence of the discharge or spill.
+(b)
+In the event of such a release of hazardous materials, emergency response agencies and/or other appropriate agencies shall be immediately notified.
+(c)
+Failure to provide notification of a release as provided above shall be a violation of this article.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 2007-09, § 18, 5-22-200)
+Sec. 310-18. - Violations and penalties.
+(a)
+Violations. In the event the violation of any provision of this article constitutes an immediate danger to public health, safety, or welfare, the director is authorized to enter upon the subject private property, without giving prior notice, to take any and all measures necessary to abate the violation and/or restore the property. The director is authorized to seek reimbursement for costs of the abatement as outlined in subsection (c).
+(b)
+Notice of violation. If the director determines that a violation of this article has occurred, the director may order compliance by issuing a written notice of violation to the person responsible for the violation.
+(1)
+The notice of violation shall contain:
+a.
+The name and address of the alleged violator.
+b.
+The address or other description of the site upon which the violation is occurring, or has occurred.
+c.
+A statement specifying the nature of the violation.
+d.
+A description of the remedial measures necessary to restore compliance with this article and the deadline for the completion of such remedial action.
+e.
+A statement of the penalty or penalties that shall or may be assessed against the person to whom the notice of violation is directed.
+(2)
+Such notice may require without limitation:
+a.
+The performance of monitoring, analyses, and reporting.
+b.
+The elimination of illicit discharges and illegal connections.
+c.
+That violating discharges, practices, or operations shall cease and desist.
+d.
+The abatement or remediation of stormwater pollution or contamination hazards and the restoration of any affected property.
+e.
+The implementation of pollution prevention practices.
+(c)
+Penalties. In the event the remedial measures described in the notice of violation have not been completed by the date set forth for such completion in the notice of violation, the director may issue a citation to the alleged violator requiring such person to appear in the Magistrate Court of Rockdale County to answer charges for such violation. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense. The director may seek restitution for attorney's fees, court costs, and other expenses associated with enforcement of this article, including sampling and monitoring expenses and costs of abatement.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Secs. 310-19—310-30. - Reserved.
+ARTICLE III. - POST-DEVELOPMENT STORMWATER MANAGEMENT
+[1]
+Footnotes:
+
+Sec. 310-31. - Purpose and intent.
+The purpose of this article is to protect, maintain and enhance the public health, safety, environment and general welfare by establishing minimum requirements and procedures to control the adverse effects of increased post-construction stormwater runoff and nonpoint source pollution associated with new development and redevelopment. Proper management of post-construction stormwater runoff will minimize damage to public and private property and infrastructure, safeguard the public health, safety, environment and general welfare of the public, and protect water and aquatic resources. Additionally, Rockdale County is required to comply with several State and Federal laws, regulations and permits and the requirements of the Metropolitan North Georgia Water Planning District's regional water plan related to managing the water quantity, velocity, and quality of post-construction stormwater runoff.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-32. - Adoption and implementation of the GSMM; conflicts and inconsistencies.
+(a)
+In implementing this article, Rockdale County shall use and require compliance with all relevant design standards, calculations, formulas, methods, and other guidance from the GSMM as well as all related appendices.
+(b)
+This article is not intended to modify or repeal any other article, ordinance, rule, regulation or other provision of law, including but not limited to any applicable stream buffers under state and local laws, and the Georgia Safe Dams Act and Rules for Dam Safety. In the event of any conflict or inconsistency between any provision in Rockdale County's MS4 permit and this article, the provision from the MS4 permit shall control. In the event of any conflict or inconsistency between any provision of this article and the GSMM, the provision from this article shall control. In the event of any other conflict or inconsistency between any provision of this article and any other ordinance, rule, regulation or other provision of law, the provision that is more restrictive or imposes higher protective standards for human health or the environment shall control.
+(c)
+If any provision of this article is invalidated by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of this article.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-33. - Designation of stormwater director.
+The Rockdale County Board of Commissioners may from time to time appoint a stormwater director to administer, implement, and enforce this article.
+(Ord. No. 0-2020-17, § 2, 11-10-2020)
+Sec. 310-34. - Applicability criteria for stormwater management standards.
+This article applies to the following activities:
+(a)
+New development that creates or adds 5,000 square feet or greater of new impervious surface area or that involves land disturbing activity of one acre of land or greater;
+(b)
+Redevelopment (excluding routine maintenance and exterior remodeling) that creates, adds, or replaces 5,000 square feet or greater of new impervious surface area or that involves land disturbing activity of one acre or more;
+(c)
+New development and redevelopment if:
+(i)
+Such new development or redevelopment is part of a subdivision or other common plan of development; and
+(ii)
+The sum of all associated impervious surface area or land disturbing activities that are being developed as part of such subdivision or other common plan of development meets or exceeds the thresholds in section 310-34(a) or section 310-34(b);
+(d)
+Any commercial or industrial new development or redevelopment, regardless of size, that is a hotspot land use as defined in this article; and
+(e)
+Linear transportation projects that exceed the thresholds in section 310-34(a) or section 310-34(b);
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-35. - Exemptions from stormwater management standards.
+This article does not apply to the following activities:
+(a)
+Land disturbing activity conducted by local, state, authority, or federal agencies, solely to respond to an emergency need to protect life, limb, or property or conduct emergency repairs;
+(b)
+Land disturbing activity that consists solely of cutting a trench for utility work and related pavement replacement;
+(c)
+Land disturbing activity conducted by local, state, authority, or federal agencies, whose sole purpose is to implement stormwater management or environmental restoration;
+(d)
+Repairs to any stormwater management system deemed necessary by the stormwater director;
+(e)
+Agricultural practices as described O.C.G.A. § 12-7-17 (5) within areas zoned for these activities with the exception of buildings or permanent structures that exceed the thresholds in section 310-34(a) or section 310-34(b);
+(f)
+Silvicultural land management activities as described O.C.G.A. § 12-7-17(6) within areas zoned for these activities with the exception of buildings or permanent structures that exceed the thresholds in section 310-34(a) or section 310-34(b);
+(g)
+Installations or modifications to existing structures solely to implement Americans with Disabilities Act (ADA) requirements, including but not limited to elevator shafts, handicapped access ramps and parking, and enlarged entrances or exits; and
+(h)
+Linear transportation projects being constructed by Rockdale County, other local governments, or State agencies to the extent the stormwater director determines that the stormwater management standards may be infeasible to apply, all or in part, for any portion of the linear transportation project. For this exemption to apply, an infeasibility report that is compliant with Rockdale County's linear feasibility program shall first be submitted to the stormwater director that contains adequate documentation to support the evaluation for the applicable portion(s) and any resulting infeasibility determination, if any, by the stormwater director.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-36. - Stormwater management standards.
+Subject to the applicability criteria in section 310-34 and exemptions in section 310-35, the following stormwater management standards apply. Additional details for each standard can be found in the GSMM 2.2.2.2:
+(a)
+Design of stormwater management system: The design of the stormwater management system shall be in accordance with the applicable sections of the GSMM as administered by the stormwater director. Any design which proposes a dam shall comply with the Georgia Safe Dams Act and Rules for Dam Safety as applicable.
+(b)
+Natural resources inventory: Site reconnaissance and surveying techniques shall be used to complete a thorough assessment of existing natural resources, both terrestrial and aquatic, found on the site. Resources to be identified, mapped, and shown on the stormwater management plan, shall include, at a minimum (as applicable):
+(i)
+Topography (minimum of two-foot contours) and steep slopes (i.e., areas with slopes greater than 15 percent),
+(ii)
+Natural drainage divides and patterns,
+(iii)
+Natural drainage features (e.g., swales, basins, depressional areas),
+(iv)
+Natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers, drinking water wellhead protection areas and river corridors,
+(v)
+Predominant soils (including erodible soils and karst areas), and
+(vi)
+Existing predominant vegetation including trees, high quality habitat and other existing vegetation.
+(c)
+Better site design practices for stormwater management: Stormwater management plans shall preserve the natural drainage and natural treatment systems and reduce the generation of additional stormwater runoff and pollutants to the maximum extent practicable. Additional details can be found in the GSMM 2.3.
+(d)
+Stormwater runoff reduction/water quality: Stormwater runoff reduction/water quality shall be provided by using the following:
+(i)
+For development with a stormwater management plan submitted before December 1, 2020, the applicant may choose either: (A) runoff reduction or (B) water quality.
+(ii)
+For development with a stormwater management plan submitted on or after December 1, 2020, the applicant shall choose: (A) runoff reduction and additional water quality shall not be required. To the extent (A) runoff reduction has been determined to be infeasible for all or a portion of the site using the practicability policy; then (B) water quality shall apply for the remaining runoff from a 1.2 inch rainfall event and must be treated to remove at least 80 percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM.
+(A)
+Runoff reduction - The stormwater management system shall be designed to retain the first 1.0 inch of rainfall on the site using runoff reduction methods, to the maximum extent practicable.
+(B)
+Water quality - The stormwater management system shall be designed to remove at least 80 percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM for runoff from a 1.2 inch rainfall event.
+(iii)
+If a site is determined to be a hotspot as detailed in section 310-34, Rockdale County may require the use of specific or additional components for the stormwater management system to address pollutants of concern generated by that site.
+(e)
+Stream channel protection: Stream channel protection shall be provided by using all of the following three approaches:
+(i)
+24-hour extended detention storage of the 1-year, 24-hour return frequency storm event;
+(ii)
+Erosion prevention measures, such as energy dissipation and velocity control; and
+(iii)
+Preservation of any applicable stream buffer.
+(f)
+Overbank flood protection: Downstream overbank flood protection shall be provided by controlling the post-development peak discharge rate to the pre-development rate for the 25-year, 24-hour storm event.
+(g)
+Extreme flood protection: Extreme flood protection shall be provided by controlling and/or safely conveying the 100-year, 24-hour storm event such that flooding and other damage are not exacerbated.
+(h)
+Downstream analysis: Due to peak flow timing and runoff volume effects, some structural components of the stormwater management system fail to reduce discharge peaks to pre-development levels downstream from the site. A downstream peak flow analysis shall be provided to the point in the watershed downstream of the site or the stormwater management system where the area of the site comprises ten percent of the total drainage area in accordance with GSMM 3.1.9. This is to help ensure that there are minimal downstream impacts from development on the site. The downstream analysis may result in the need to resize structural components of the stormwater management system.
+(i)
+Fencing: Permanent fencing shall be provided around all stormwater management measures and systems which:
+(i)
+Have a water depth greater than 4.0 feet during the 100-year, 24-hour storm event;
+(ii)
+Have an inboard (i.e. Near the water) slope steeper than 3:1;
+(iii)
+Have an outboard (i.e. away from the water) slope steeper than 2:1; or
+(iv)
+May otherwise pose a threat to public safety, infrastructure, or the environment.
+The location, type, and configuration of such fencing shall be approved by the stormwater director, and the stormwater director shall have the right to modify or waive these conditions as deemed appropriate.
+(j)
+Easements: Permanent easements shall be provided to allow access from public right-of-way to all stormwater management measures and systems, and shall be sufficiently configured and maintained to facilitate future inspection, maintenance, and construction activities. The proposed location, boundary, condition, and ownership of and maintenance responsibility for such easements shall be approved by the stormwater director prior to recording of any associated plat, deed, or agreement.
+(k)
+Offsite and regional facilities: In general accordance with GSMM 4.1.5, an offsite facility or regional facility may be utilized for stormwater management when authorized by the stormwater director. Once authorized:
+(i)
+Such facility shall be sufficiently designed, constructed, and maintained to satisfy the stormwater management standards of section 310-36 for the proposed site and any other contributing drainage areas;
+(ii)
+All areas upstream and downstream of such facility shall not be adversely affected, and shall be protected with additional measures as appropriate;
+(iii)
+Appropriate legal documentation (e.g. easements, deeds, contracts) shall be established to allow the site's runoff to be properly conveyed to such facility and managed by such facility in perpetuity;
+The stormwater director may rescind or modify authorization to use offsite or regional facilities, and may require additional measures, if at any time these provisions or their supporting documents are violated or invalidated.
+(1)
+Stormwater management system inspection and maintenance: The components of the stormwater management system that will not be dedicated to and accepted by Rockdale County, including all drainage facilities, best management practices, credited conservation spaces, and conveyance systems, shall have an inspection and maintenance agreement to ensure that they continue to function as designed. All new development and redevelopment sites are to prepare a comprehensive inspection and maintenance agreement for the onsite stormwater management system. This plan shall be written in accordance with the requirements in section 310-45.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-37. - Pre-submittal meeting, stormwater concept plan, and stormwater management plan requirements.
+(a)
+Before a land development permit application is submitted, an applicant may request a pre-submittal meeting with Rockdale County. The pre-submittal meeting should take place based on an early step in the development process such as before site analysis and inventory (GSMM 2.4.2.4) or the stormwater concept plan (GSMM 2.4.2.5). The purpose of the pre-submittal meeting is to discuss opportunities, constraints, and ideas for the stormwater management system before formal site design engineering. To the extent applicable, local and regional watershed plans, greenspace plans, trails and greenway plans, and other resource protection plans should be consulted in the pre-submittal meeting. Applicants must request a pre-submittal meeting with Rockdale County when applying for a determination of infeasibility through the practicability policy.
+(b)
+The stormwater concept plan shall be prepared using the minimum following steps:
+(i)
+Develop the site layout using better site design techniques, as applicable (GSMM 2.3).
+(ii)
+Calculate preliminary estimates of the unified stormwater sizing criteria requirements for stormwater runoff reduction/water quality, channel protection, overbank flooding protection and extreme flood protection (GSMM 2.2).
+(iii)
+Perform screening and preliminary selection of appropriate best management practices and identification of potential siting locations (GSMM 4.1).
+(c)
+The stormwater concept plan shall contain:
+(i)
+Common address and legal description of the site,
+(ii)
+Vicinity map, and
+(iii)
+Existing conditions and proposed site layout mapping and plans (recommended scale of 1" = 50'), which illustrate at a minimum:
+(A)
+Existing and proposed topography (minimum of two-foot contours),
+(B)
+Perennial and intermittent streams,
+(C)
+Mapping of predominant soils from USDA soil surveys,
+(D)
+Boundaries of existing predominant vegetation and proposed limits of clearing and grading,
+(E)
+Location and boundaries of other natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers and other setbacks (e.g., drinking water well setbacks, septic setbacks, etc.),
+(F)
+Location of existing and proposed roads, buildings, parking areas and other impervious surfaces,
+(G)
+Existing and proposed utilities (e.g., water, sewer, gas, electric) and easements,
+(H)
+Preliminary estimates of unified stormwater sizing criteria requirements,
+(I)
+Preliminary selection and location, size, and limits of disturbance of proposed BMPs,
+(J)
+Location of existing and proposed conveyance systems such as grass channels, swales, and storm drains,
+(K)
+Flow paths,
+(L)
+Location of the boundaries of the base flood floodplain, future-conditions floodplain, and the floodway (as applicable) and relationship of site to upstream and downstream properties and drainage, and
+(M)
+Preliminary location and dimensions of proposed channel modifications, such as bridge or culvert crossings.
+(d)
+The stormwater management plan shall contain the items listed in this part and be prepared under the direct supervisory control of either a registered professional engineer or a registered landscape architect licensed in the state of Georgia. Items (iii), (iv), (v), and (vi) shall be sealed and signed by a registered professional engineer licensed in the state of Georgia. The overall site plan must be stamped by a design professional licensed in the State of Georgia for such purpose (GSMM 2.4.2.7).
+(i)
+Natural resources inventory;
+(ii)
+Stormwater concept plan;
+(iii)
+Existing conditions hydrologic analysis;
+(iv)
+Post-development hydrologic analysis;
+(v)
+Stormwater management system;
+(vi)
+Downstream analysis;
+(vii)
+Erosion and Sedimentation control plan;
+(viii)
+BMP landscaping plan;
+(ix)
+Inspection and maintenance agreement;
+(x)
+Evidence of acquisition of applicable local and non-local permits;
+(xi)
+Determination of infeasibility (if applicable);
+(xii)
+Construction sequencing plan.
+(e)
+For redevelopment, and to the extent existing stormwater management structures are being used to meet stormwater management standards, the following must also be included in the stormwater management plan for existing stormwater management structures:
+(i)
+As-built drawings;
+(ii)
+Hydrology reports;
+(iii)
+Current inspection of existing stormwater management structures with deficiencies noted;
+(iv)
+BMP landscaping plans.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-38. - Application fee.
+The fee for review of any land development application shall be based on the fee structure established by Rockdale County, and payment shall be made before the issuance of any land disturbance permit or building permit for the development.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-39. - Application procedures.
+Land development applications are handled as part of the process to obtain the land disturbance permit pursuant to section 302-45 or building permit section 302-49, as applicable. Before any person begins development on a site, the owner of the site shall first obtain approval in accordance with the following procedure:
+(a)
+File a land development application with Rockdale County with the following supporting materials:
+(i)
+The stormwater management plan prepared in accordance with section 310-37(d),
+(ii)
+A certification that the development will be performed in accordance with the stormwater management plan once approved,
+(iii)
+A preliminary determination of infeasibility, as applicable, prepared in accordance with the practicability policy, and
+(iv)
+An acknowledgement that applicant has reviewed Rockdale County's form of inspection and maintenance agreement and that applicant agrees to sign and record such inspection and maintenance agreement before the final inspection.
+(b)
+The stormwater director shall inform the applicant whether the application and supporting materials are approved or disapproved.
+(c)
+If the application or supporting materials are disapproved, the stormwater director shall notify the applicant of such fact in writing. The applicant may then revise any item not meeting the requirements hereof and resubmit the same for the stormwater director to again consider and either approve or disapprove.
+(d)
+If the application and supporting materials are approved, Rockdale County may issue the associated land disturbance permit or building permit, provided all other legal requirements for the issuance of such permits have been met. The stormwater management plan included in such applications becomes the approved stormwater management plan.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-40. - Compliance with the approved stormwater management plan.
+All development shall be:
+(a)
+Consistent with the approved stormwater management plan and all applicable land disturbance and building permits; and
+(b)
+Conducted only within the area specified in the approved stormwater management plan.
+No changes may be made to an approved stormwater management plan without review and advanced written approval by the stormwater director.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-41. - Inspections to ensure plan compliance during construction.
+Periodic inspections of the stormwater management system during construction shall be conducted by the staff of Rockdale County or conducted and certified by a professional engineer who has been approved by Rockdale County. Inspections shall use the approved stormwater management plan and the construction sequencing plan for establishing compliance. All inspections shall be documented with written reports that contain the following information:
+(a)
+The date and location of the inspection;
+(b)
+Whether the stormwater management system is in compliance with the approved stormwater management plan;
+(c)
+Variations from the approved stormwater management plan; and
+(d)
+Any other variations or violations of the conditions of the approved stormwater management plan.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-42. - Final inspection; as-built drawings; delivery of inspection and maintenance agreement.
+Upon completion of the development, the applicant is responsible for:
+(a)
+Certifying that the stormwater management system is functioning properly and was constructed in conformance with the approved stormwater management plan and associated hydrologic analysis,
+(b)
+Submitting as-built drawings showing the final design specifications for all components of the stormwater management system as certified by a professional engineer,
+(c)
+Certifying that the landscaping is established and installed in conformance with the BMP landscaping plan, and
+(d)
+Delivering to Rockdale County a signed inspection and maintenance agreement that has been recorded by the owner in the property record for all parcel(s) that make up the site.
+The required certification under part (a) shall include a certification of volume, or other performance test applicable to the type of stormwater management system component, to ensure each component is functioning as designed and built according to the design specifications in the approved stormwater management plan. This certification and the required performance tests shall be performed by a qualified person and submitted to Rockdale County with the request for a final inspection. Rockdale County shall perform a final inspection with applicant to confirm applicant has fulfilled these responsibilities.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-43. - Violations and enforcement.
+Any violation of the approved stormwater management plan during construction, failure to submit as-built drawings, failure to submit a final BMP landscaping plan, or failure of the final inspection shall constitute and be addressed as violations of, or failures to comply with, the underlying land disturbance permit pursuant to section 302-45 or the underlying building permit pursuant to section 302-49. To address a violation of this article, Rockdale County shall have all the powers and remedies that are available to it for other violations of building and land disturbance permits, including without limitation the right to issue notices and orders to ensure compliance, stop work orders, and penalties as set forth in the applicable ordinances for such permits.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-44. - Maintenance by owner of stormwater management systems predating current GSMM.
+For any stormwater management systems approved and built based on requirements predating the current GSMM and that is not otherwise subject to an inspection and maintenance agreement, such stormwater management systems shall be maintained by the owner so that the stormwater management systems perform as they were originally designed.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-45. - Inspection and maintenance agreements.
+(a)
+The owner shall execute an inspection and maintenance agreement with Rockdale County obligating the owner to inspect, clean, maintain, and repair the stormwater management system; including vegetation in the final BMP landscaping plan. The form of the inspection and maintenance agreement shall be the form provided by Rockdale County. After the inspection and maintenance agreement has been signed by the owner and Rockdale County, the owner shall promptly record such agreement at the owner's cost in the property record for all parcel(s) that make up the site.
+(b)
+The inspection and maintenance agreement shall identify by name or official title the person(s) serving as the point of contact for carrying out the owner's obligations under the inspection and maintenance agreement. The owner shall update the point of contact from time to time as needed and upon request by Rockdale County. Upon any sale or transfer of the site, the new owner shall notify Rockdale County in writing within 30 days of the name or official title of new person(s) serving as the point of contact for the new owner. Any failure of an owner to keep the point of contact up to date shall, following 30 days' notice, constitute a failure to maintain the stormwater management system.
+(c)
+The inspection and maintenance agreement shall run with the land and bind all future successors-in-title of the site. If there is a future sale or transfer of only a portion of the site, then:
+(i)
+The parties to such sale or transfer may enter into and record an assignment agreement designating the owner responsible for each portion of the site and associated obligations under the inspection and maintenance agreement. The parties shall record and provide written notice and a copy of such assignment agreement to Rockdale County.
+(ii)
+In the absence of a recorded assignment agreement, all owners of the site shall be jointly and severally liable for all obligations under the inspection and maintenance agreement regardless of what portion of the site they own.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-46. - Right-of-entry for maintenance inspections.
+The terms of the inspection and maintenance agreement shall provide for Rockdale County's right-of-entry for maintenance inspections and other specified purposes. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then Rockdale County shall have the right to enter and make inspections pursuant to section 110-2, section 110-3, and section 310-140(c).
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Sec. 310-47. - Owner's failure to maintain the stormwater management system.
+The terms of the inspection and maintenance agreement shall provide for what constitutes a failure to maintain a stormwater management system and the enforcement options available to Rockdale County. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then:
+(a)
+An owner's failure to maintain the stormwater management system so that it performs as it was originally designed shall constitute and be addressed as a violation of, or failure to comply with, owner's property maintenance obligations pursuant to chapter 78, section 306-4(b)(3), and section 310-140(a); and
+(b)
+To address such a failure to maintain the stormwater management system, Rockdale County have all the powers and remedies that are available to it for other violations of an owner's property maintenance obligations, including without limitation prosecution, penalties, abatement, and emergency measures.
+( Ord. No. 0-2020-17 , § 2, 11-10-2020)
+Secs. 310-48—310-100. - Reserved.
+ARTICLE IV. - STREAM BUFFER PROTECTION
+
+Sec. 310-101. - Purpose and intent.
+The purpose and intent of this article is to protect the public health, safety, environment and general welfare; to minimize public and private losses resulting from erosion, siltation, and water pollution; and to maintain stream water quality by provisions designed to:
+(1)
+Create buffer zones along the streams of Rockdale County for the protection of water resources.
+(2)
+Minimize land development within such buffers by establishing buffer zone requirements and by requiring authorization for any such activities.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-102. - Applicability.
+This article shall apply to all land development activity on property containing a stream protection area as defined in this chapter. These requirements are in addition to, and do not replace or supersede, any other applicable buffer requirements established under state law. Any approval pursuant to or exemption from the provisions of this article does not constitute approval or exemption from buffer requirements established under state law or from other applicable local, state or federal regulations.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-103. - Land development stream buffer requirements.
+(a)
+All land development activity, including subdivisions of land and platting activities governed by chapter 302 of the UDO, shall meet the following buffer and setback requirements unless otherwise exempted in this article:
+(1)
+An undisturbed natural vegetative buffer shall be maintained for 50 feet, measured horizontally, on both banks (as applicable) of the stream as measured from the top of the stream bank.
+(2)
+An additional setback shall be maintained for 25 feet, measured horizontally, beyond the undisturbed natural vegetative buffer, in which all impervious cover shall be prohibited. Grading, filling and earthmoving shall be minimized within the setback.
+(3)
+No septic tanks or septic tank drain fields shall be permitted within the buffer or the setback.
+(b)
+Any land development activity within a buffer established hereunder or any impervious cover within a setback established hereunder is prohibited unless a variance is granted pursuant to section 310-105.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-104. - Exemptions.
+(a)
+Pre-existing conditions. This article shall not apply to the following pre-existing conditions:
+(1)
+Work consisting of the repair or maintenance of any lawful use of land that is zoned and approved for such use on or before the effective date of this article.
+(2)
+Existing development and on-going land development activities including but not limited to existing silviculture, landscaping, gardening and lawn maintenance, except that new development or land development activities on such properties will be subject to all applicable buffer requirements.
+(3)
+Any land development activity that is under construction, fully approved for development, scheduled for permit approval or has been submitted for approval as of the effective date of this article.
+(4)
+Land development activity that has not been submitted for approval, but that is part of a larger master development plan, such as for an office park or other phased development that has been previously approved within two years of the effective date of this article.
+(b)
+Exempted activities. This article shall not apply to the following:
+(1)
+Activities for the purpose of building one or more of the following:
+a.
+A stream crossing by a driveway, transportation route or utility line.
+b.
+Public water supply intake or public wastewater outfall structures.
+c.
+Intrusions necessary to provide access to a property.
+d.
+Public access facilities that must be on the water including boat ramps, docks, foot trails leading directly to the river, fishing platforms and overlooks.
+e.
+Unpaved foot trails and paths.
+f.
+Activities to restore and enhance stream bank stability, vegetation, water quality and/or aquatic habitat, so long as native vegetation and bioengineering techniques are used.
+(2)
+Public sewer line easements paralleling the stream, except that all easements (permanent and construction) and land development activities should be at least 25 feet from the top of the bank. This includes such impervious cover as is necessary for the operation and maintenance of the utility, including but not limited to manholes, vents and valve structures. This exemption shall not be construed as allowing the construction of roads, bike paths or other transportation routes in such easements, regardless of paving material, except for access for the uses specifically cited in subsection (b)(1), above.
+(3)
+Permitted land development activities within a right-of-way existing at the time this article takes effect or approved under the terms of this article.
+(4)
+Within an easement of any utility existing at the time this article takes effect or approved under the terms of this article, land development activities and such impervious cover as is necessary for the operation and maintenance of the utility, including but not limited to manholes, vents and valve structures.
+(5)
+Emergency work necessary to preserve life or property. However, when emergency work is performed under this section, the person performing it shall report such work to the director on the next business day after commencement of the work. Within ten days thereafter, the person shall apply for a permit and perform such work within such time period as may be determined by the director to be reasonably necessary to correct any impairment such emergency work may have caused to the water conveyance capacity, stability or water quality of the protection area.
+(6)
+Forestry and silviculture activities on land that is zoned for forestry, silvicultural or agricultural uses and are not incidental to other land development activity. If such activity results in land development in the buffer that would otherwise be prohibited, then no other land development activity other than normal forest management practices will be allowed on the entire property for three years after the end of the activities that intruded on the buffer.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-105. - Variances.
+(a)
+Variances from the above buffer and setback requirements may be granted in accordance with the following provisions:
+Where a parcel was platted prior to the effective date of this chapter 310 (July 26, 2005), and its shape, topography or other existing physical condition prevents land development consistent with this article, and the director finds and determines that the requirements of this article prohibit the otherwise lawful use of the property by the owner, the board of zoning appeals may grant a variance from the buffer and setback requirements hereunder, provided such variance requires mitigation measures to offset the effects of any proposed land development on the parcel.
+(b)
+The board of zoning appeals shall grant no variance from any provision of this article without first conducting notice and a public hearing on the application for variance and authorizing the granting of the variance in accordance with the procedures of UDO section 238-9.
+(c)
+Variances will be allowed only in the following cases:
+(1)
+When a property's size, shape, topography or other physical conditions prevents land development unless a buffer variance is granted.
+(2)
+When such unusual circumstances exist so that strict adherence to the minimal buffer requirements in this chapter would create an extreme hardship.
+(3)
+When relief, if granted, would not cause a substantial detriment to the public good or impair the purposes and intent of this chapter.
+(d)
+Variances shall not be considered when actions of any property owner of a given property have created conditions of a hardship on that property.
+(e)
+At a minimum, an application for a variance shall include the following information:
+(1)
+A site map that includes locations of all streams, wetlands, floodplain boundaries, and other natural features, as determined by field survey.
+(2)
+A description of the shape, size, topography, slope, soils, vegetation, and other physical characteristics of the property.
+(3)
+A detailed site plan that shows the locations of all existing and proposed structures and other impervious cover, the limits of all existing and proposed land development, both inside and outside the buffer and setback. The exact area of the buffer to be affected shall be accurately and clearly indicated.
+(4)
+Documentation of unusual hardship should the buffer be maintained.
+(5)
+At least one alternative plan, which does not include a buffer or setback intrusion, or an explanation of why such a site plan is not possible.
+(6)
+A calculation of the total area and length of the proposed intrusion.
+(7)
+A stormwater management site plan, if applicable.
+(8)
+Proposed mitigation, if any, for the intrusion. If no mitigation is proposed, the request must include an explanation of why none is being proposed.
+(9)
+Other information required in subsection 238-9(d).
+(f)
+The following factors shall be considered in determining whether to issue a variance:
+(1)
+The shape, size, topography, slope, soils, vegetation, and other physical characteristics of the property.
+(2)
+The locations of all streams on the property, including along property boundaries.
+(3)
+The location and extent of the proposed buffer or setback intrusion.
+(4)
+Whether alternative designs are possible which require less intrusion or no intrusion.
+(5)
+The long-term and construction water-quality impacts of the proposed variance.
+(6)
+Whether issuance of the variance is at least as protective of natural resources and the environment.
+(g)
+Appeals from final decisions of said variances by the board of adjustments shall be as provided for in UDO section 238-13.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-106. - Additional information requirements for development on buffer zone properties.
+Any land disturbance permit applications pursuant to section 306-5 of this Code for property requiring buffers and setbacks hereunder must include the following information:
+(1)
+A site plan showing:
+a.
+The location of all streams on the property.
+b.
+Limits of required stream buffers and setbacks on the property.
+c.
+Buffer zone topography with contour lines at no greater than five-foot contour intervals.
+d.
+Delineation of forested and open areas in the buffer zone.
+e.
+Detailed plans of all proposed land disturbance in the buffer and of all proposed impervious cover within the setback.
+(2)
+A description of all proposed land disturbance within the buffer and setback.
+(3)
+Any other documentation that the director may reasonably deem necessary for review of the application and to insure that the provisions of this article are addressed in the approval process.
+(4)
+All buffer and setback areas must be recorded on the final plat of the property following plan approval.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-107. - Inspection.
+The director may cause inspections of the work in the buffer or setback to be made in accordance with the provisions of section 306-6 of this Code.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-108. - Violations, penalties, and enforcement.
+(a)
+Notice of violation. If the director determines that a land disturbance permit applicant or other responsible person has failed to comply with the provisions of this article, he shall issue a written notice of violation to such applicant or other responsible person. Where a person is engaged in activity covered by this article without having first secured the appropriate permit therefore, the notice of violation shall be served on the property owner or the responsible person in charge of the activity being conducted on the site. The notice of violation shall contain:
+(1)
+The name and address of the owner or the applicant or the responsible person.
+(2)
+The address or other description of the site upon which the violation is occurring, or has occurred.
+(3)
+A statement specifying the nature of the violation.
+(4)
+A description of the remedial measures necessary to bring the action or inaction into compliance with the land disturbance permit, the approved site plan, or this article and the date for the completion of such remedial action.
+(5)
+A statement of the penalty or penalties that may be assessed against the person to whom the notice of violation is directed.
+(b)
+Penalties and enforcement. In the event the remedial measures described in the notice of violation have not been completed by the date set forth for such completion in the notice of violation, any one or more of the following actions or penalties may be taken or assessed against the person to whom the notice of violation was directed. Before taking any of the following actions or imposing any of the following penalties, the director shall first notify the applicant or other responsible person in writing of its intended action, and shall provide a reasonable opportunity, of not less than ten days (except that in the event the violation constitutes an immediate danger to public health or public safety, 24 hours' notice shall be sufficient) to cure such violation. In the event the applicant or other responsible person fails to cure such violation after such notice and cure period, the director may take any one or more of the following actions or impose any one or more of the following penalties.
+(1)
+Stop work order. The director may issue a stop work order which shall be served on the applicant or other responsible person. The stop work order shall remain in effect until the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violation or violations described therein, provided the stop work order may be withdrawn or modified to enable the applicant or other responsible person to take necessary remedial measures to cure such violation or violations.
+(2)
+Withhold certificate of occupancy. The director may refuse to issue a certificate of occupancy for the building or other improvements constructed or being constructed on the site until the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein.
+(3)
+Suspension, revocation or modification of land disturbance permit. The director may suspend, revoke or modify the land disturbance permit authorizing the project in accordance with the provisions of section 306-7 of this Code.
+(4)
+Citations. In the event the applicant or other responsible person fails to take the remedial measures set forth in the notice of violation or otherwise fails to cure the violations described therein within ten days (or such greater period as the director shall deem appropriate) (except that in the event the violation constitutes an immediate danger to public health or public safety, 24 hours' notice shall be sufficient), the director may issue a citation to the applicant or other responsible person, requiring such person to appear in the Magistrate Court of Rockdale County to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed $1,000.00 or imprisonment for 60 days or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-109. - Compatibility with other buffer regulations and requirements.
+This article is not intended to interfere with, abrogate, or annul any other ordinance, rule or regulation, statute or other provision of law. The requirements of this article should be considered minimum requirements, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule, regulation or other provision of law, whichever provisions are more restrictive or impose higher protective standards for human health or the environment shall be considered to take precedence.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-110. - Responsibility for damages.
+Neither the issuance of a land disturbance permit nor compliance with the conditions thereof, nor with the provisions of this article shall relieve any person from any responsibility otherwise imposed by law for damage to persons or property; nor shall the issuance of any permit hereunder serve to impose any liability upon Rockdale County, its officers or employees, for injury or damage to persons or property.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Secs. 310-111—310-130. - Reserved.
+ARTICLE V. - STORMWATER UTILITY
+
+Sec. 310-131. - Findings.
+The county board of commissioners makes the following findings of fact:
+(1)
+Rockdale County is authorized by the State Constitution, including, without limitation, Article IX, Section II, Paragraphs I(a) and III(a)(6) thereof and state law to provide stormwater management services throughout Rockdale County.
+(2)
+In order to protect the health, safety and welfare of the public, the government of Rockdale County hereby exercises its authority to establish a stormwater utility and establish rates for stormwater management services.
+(3)
+In promulgating the regulations contained in this Section, Rockdale County is acting pursuant to authority granted by the Constitution of the State of Georgia and the Charter of Rockdale County to provide for stormwater collection and disposal. Ga. Const. art. IX, § II, ¶ III(a)(6).
+(4)
+Improper management of stormwater runoff may cause erosion of lands, threaten businesses and residences, and other facilities with water damage and may create environmental damage to the rivers, streams and other bodies of water within and adjacent to Rockdale County.
+(5)
+A system for the collection, conveyance, storage, treatment and disposal of stormwater provides services to all properties within Rockdale County and surrounding areas.
+(6)
+The county presently owns and operates stormwater management systems and facilities, which have been developed over many years. The future usefulness and operational function of the existing stormwater management systems and facilities owned and operated by the county, and the additions and improvements thereto, rests on the ability of the county to effectively manage, protect, control, regulate, use, and enhance stormwater systems and facilities within the county in concert with the management of other water resources within the county. In order to do so, the county must have both a comprehensive stormwater management program as well as an adequate and stable funding source for its comprehensive program operation and drainage related capital improvement needs.
+(7)
+Failure to effectively manage stormwater affects the operations of sanitary sewer operated by Rockdale County by, among other things, increasing the likelihood of infiltration and inflow into the sanitary sewer system.
+(8)
+Failure to effectively manage stormwater contributes to the further degradation of the water quality in area waterbodies which may result in higher levels of treatment requirements imposed on the county's wastewater treatment facilities and increased water treatment cost of potable water supplies.
+(9)
+Proper management of stormwater is a key element of having clean water with adequate assimilative capacity for treated wastewater discharges and adequate potable drinking water that are essential to support existing and future development in Rockdale County. Rockdale County has several rivers and streams listed on the list of impaired waters produced by the Georgia Department of Natural Resources, Environmental Protection Division, or other appropriate authorities pursuant to Section 303(d) of the Act.
+(10)
+The county is required under federal and state regulations [i.e. the county's National Pollutant Discharge Elimination System (NPDES) Phase II Georgia Notice of Intent (NOI) and stormwater permit effective March 13, 2003] to provide enhanced management of stormwater runoff quality to mitigate the impacts of pollutants which may be discharged from the public municipal separate storm sewer system (MS4) and stormwater conveyance system into State of Georgia or United States' waters. Therefore, it is appropriate for the county to impose a stormwater user fee charge upon all properties that may discharge, directly or indirectly, into the public MS4 and stormwater conveyance system, whether the property is private or public in nature.
+(11)
+Compliance with the regulatory obligations of the NPDES permit will substantially increase the cost of stormwater management above that which is currently spent for water quality management, drainage and flood control.
+(12)
+The cost of operating and maintaining the county stormwater management system and financing necessary repairs, replacements, improvements and extensions thereof should, to the extent practicable, be allocated in relationship to the services received from the system.
+(13)
+The professional engineering and financing analysis, known as the stormwater utility implementation master plan, prepared by the county's consulting stormwater engineer, properly assesses and defines the county's stormwater management program problems, needs, goals, priorities as well as the stormwater management program funding strategy.
+(14)
+Given the stormwater management program problems, needs, goals, priorities and funding strategy identified in the professional engineering and financing analysis, it is appropriate to authorize the formation of an organizational and accounting entity dedicated specifically to the management, maintenance, protection, control, regulation, use, and enhancement of stormwater management systems within the county in concert with other water resource management programs.
+(15)
+Stormwater management is applicable and needed throughout the unincorporated areas of the county. While specific service and facility demands may differ from area to area at any given point in time, a stormwater management service area encompassing all lands and water bodies within the unincorporated areas of the county is consistent with the present and future needs of the community.
+(16)
+The stormwater needs in the county include, but are not limited to, protection of the public health, safety, and welfare of the community. Provision of stormwater management services renders and/or results in both a service and a benefit to all properties, property owners, citizens, and residents of the county in a variety of ways as described in the stormwater utility implementation master plan.
+(17)
+The services and benefits rendered, or resulting from provision of stormwater management services, may differ depending on many factors and considerations, including but not limited to location, demands and impacts imposed on the stormwater management systems and programs, and risk exposure. It is practical and equitable to allocate the cost of stormwater management among the owners of properties in proportion to the long term demands the properties impose on the county's stormwater management services which render or result in services and benefits to such properties and the owners thereof.
+(18)
+A stormwater utility provides the most practical and appropriate means of properly delivering stormwater management services throughout the county, and the most equitable means to regulate the use of a higher level of stormwater management services in the urban and suburban areas of the unincorporated portions of the county through stormwater user fee charges, user fees and other mechanisms as described in the stormwater utility implementation master plan prepared for the county.
+(19)
+A schedule of stormwater utility user fee charges based in part on the area of impervious surface located on each property is the most appropriate and equitable means of allocating the cost of stormwater management services throughout the urban and suburban areas of the unincorporated area of the county. Such user fee charges may be complemented by other types of charges which address specific needs, including, but not limited to, special service fees, special assessments, use of proceeds from special purpose local option sales taxes and other forms of revenue, as deemed appropriate by the board of commissioners.
+(20)
+The existence of privately owned and maintained on-site or off-site systems, facilities, activities or assets which reduce or otherwise mitigate the impact of a particular property on the county stormwater utility's cost of providing stormwater management services and/or stormwater management systems and facilities should be taken into account to reduce the user fee charge on that property either in the form of a direct reduction or credit, and such reduction or credit should be conditional upon continuing provision of such services, systems, facilities, activities or assets in a manner complying with the standards and codes as determined by the stormwater manager. Reductions or credits for privately owned and maintained stormwater management systems, facilities, activities or assets shall be generally proportional to the affect that such systems have on the peak rate of runoff from the property benefited by such systems.
+(21)
+The area of impervious surfaces on each property is the most important factor influencing the cost of the stormwater management services provided by the county or to be provided by the county in the future, and the area of impervious surfaces on each property is therefore the most appropriate parameter for calculating a periodic stormwater user fee charge.
+(22)
+It is imperative that the proceeds from all user fee charges for stormwater management services, together with any other revenues raised or otherwise allocated specifically to stormwater management services, be dedicated solely to those purposes, and such proceeds of user fee charges and revenues shall therefore be deposited into the enterprise accounting fund of the county stormwater utility and shall remain in that fund and be dispersed only for stormwater management capital, operating and non-operating costs, lease payments and debt service of bonds or other indebtedness for stormwater management purposes.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-132. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Act: Means and refers to the Clean Water Act as amended by the Water Quality Act of 1987 (33 U.S.C. § 1251 et seq.), as amended, and the rules and regulations promulgated by the United States Environmental Protection Agency pursuant thereto.
+Credit: Reduction in the amount of a stormwater user fee charge to the owner of a particular property for the existence and use of privately owned, maintained and operated on-site or off-site stormwater systems or facilities, or continuing provision of services or activities that reduce or mitigate the county stormwater utility's cost of providing stormwater management services for that particular property.
+Developed land: Property altered from its natural state by construction or installation of more than 200 square feet of impervious surfaces.
+Impervious surfaces: See section 106-1 of the county code of ordinances.
+Service area: All unincorporated areas within the county.
+Stormwater director: The person appointed by the board of commissioners to administer and enforce the provisions of this article.
+Stormwater management services: All services provided by the county which relate to the:
+(1)
+Transfer, control, conveyance, storage, treatment, or management of stormwater runoff within the unincorporated portions of the county.
+(2)
+Maintenance, repair and replacement of existing stormwater management systems and facilities.
+(3)
+Planning, development, design and construction of additional stormwater management systems and facilities to meet current and anticipated needs.
+(4)
+Administration and regulation of the use of stormwater management services, systems and facilities.
+(5)
+Education of the public about stormwater issues.
+(6)
+Stormwater management services may address the quality of stormwater runoff as well as the quantity thereof.
+Stormwater management systems and facilities: Those natural and manmade channels, swales, ditches, rivers, streams, creeks, branches, reservoirs, ponds, drainage ways, inlets, catch basins, pipes, head walls, storm sewers, lakes and other physical works, properties and improvements which transfer, control, convey or otherwise influence the movement of stormwater runoff, which are owned by the county or through which the county has an easement or other legally binding right of use for stormwater drainage, and for which the county has the obligation of maintenance for stormwater drainage purposes.
+Stormwater manager: A person designated by the stormwater director to assist with administrative and enforcement duties.
+Stormwater user fee charge: The user fee charge imposed pursuant to this article by the county's stormwater management program. The fee is directly based upon the amount of impervious surface present on a parcel of land within the stormwater service area. The fee is for the exclusive purpose of funding the county's stormwater management program including, but not limited to capital costs, debt service, non-capital costs, maintenance, labor, and regulatory compliance related to the county's stormwater management program. The fee may not be used to fund non-stormwater management functions of the county.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2017-30, § 1, 11-28-2017; Ord. No. 0-2018-15, § 1, 11-13-2018)
+Sec. 310-133. - Stormwater utility and enterprise fund established.
+(a)
+There is hereby established a stormwater utility to be known as the Rockdale County Stormwater Utility, which shall be responsible for stormwater management services throughout the unincorporated areas of the county, and which shall provide for the management, protection, control, regulation, use, and enhancement of the county's stormwater management services.
+(b)
+There is hereby established a stormwater utility enterprise fund in the county budgeting and accounting systems for the purpose of dedicating and protecting all funding applicable to the purposes and responsibilities of the county stormwater utility, including, but not limited to, rentals, rates, charges, fees and licenses, as may be established by the board of commissioners from time to time, and other funds that may be transferred or allocated to the county stormwater utility. All revenues and receipts of the stormwater utility shall be placed in the stormwater utility enterprise fund, and all expenses and capital investments of the stormwater utility shall be paid from the stormwater utility enterprise fund; provided, however, that other revenues, receipts, and resources not accounted for in the stormwater utility enterprise fund may be applied to stormwater management services as deemed appropriate by the board of commissioners.
+(c)
+The board of commissioners shall determine the appropriate department or departments for the responsibility of operation, maintenance and regulation of stormwater management services.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2017-30, § 2, 11-28-2017)
+Sec. 310-134. - Scope of responsibility for stormwater management systems and facilities.
+(a)
+The county owns or has rights established by written agreements that allows it to operate, maintain, improve, and access those stormwater management systems and facilities which are located:
+(1)
+Within county-owned property and rights-of-way.
+(2)
+On private property, but within easements accepted by the county's board of commissioners for the purpose of providing such stormwater management services.
+(3)
+On public land which is owned by another governmental entity, if the county's board of commissioners agrees to provide such stormwater management services.
+(b)
+Operation, maintenance and/or improvement of stormwater management systems and facilities which are located on private or public property not owned by the county, and for which there has been no easement accepted by the county for operation, maintenance, improvement and access of such stormwater management systems and facilities, shall be and remain the legal responsibility of the property owner, except as otherwise directed by the board of commissioners according to subsection 82-5(a) of the Code of Rockdale County.
+(c)
+It is the express intent of this article to protect the public health, safety and welfare of people and property in general, but not to create any special duty or relationship with any individual person, or to any specific property within or outside the boundaries of the county. The county expressly reserves the right to assert all available immunities and defenses in any action seeking to impose monetary damages or equitable remedies upon the county, its commissioners, officers, employees and agents arising out of any alleged failure or breach of duty or relationship.
+(d)
+If any permit, plan approval, inspection or similar act is required by the county as a condition precedent to any activity or change upon property not owned by the county pursuant to this or any other regulatory ordinance, regulation or rule of the county, or under federal or state law, the issuance of such permit, plan approval or inspection shall not be deemed to constitute a warranty, express or implied, nor shall it afford the basis for any action, including any action based on failure to permit or negligent issuance of a permit, seeking the imposition of money damages or equitable remedies against the county, its commissioners, officers, employees or agents.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2011-11, § 1, 7-12-2011; Ord. No. 0-2013-05, § 1, 5-14-2013; Ord. No. 0-2018-15, § 2, 11-13-2018)
+Editor's note— The "Stormwater Utility Construction Expenditure Rating System" (as shown in section 2 of Ord. No. 0-2011-11, adopted July 12, 2011), referenced as if fully set out herein, is on file and available for inspection in the office of the county clerk and/or the stormwater manager.
+Sec. 310-135. - Stormwater service area.
+The stormwater service area shall consist of all properties in unincorporated Rockdale County and may be amended from time to time. A current map of the stormwater service area shall be kept on file in the office of the stormwater director for public inspection.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2018-15, § 3, 11-13-2018)
+Sec. 310-136. - User fee charges.
+(a)
+It shall be the policy of the county that user fee charges for stormwater management services to be provided by the stormwater utility in the designated service areas shall be equitably derived through methods which have a demonstrable relationship to the varied demands and impacts imposed on the stormwater management services by individual properties and/or the level of service rendered by or resulting from the provision of stormwater management services. Stormwater user fee charge rates shall be structured so as to be fair and reasonable, and the resultant user fee charges shall bear a substantial relationship to the cost of providing stormwater management services. Similarly situated properties shall be charged similar rentals, rates, charges, fees or licenses. User fee charge rates shall be structured to be consistent and coordinated with the use of other rates, charges, or fees employed for stormwater management within the unincorporated areas of the county, including, but not limited to, plan review and inspection fees, special fees for services, fees in lieu of regulatory requirements, system development charges and special assessments. In setting the rentals, rates, charges, fees or licenses for stormwater manage-ment services, the board of commissioners shall also take into consideration the impact such will have in regulating the use of such services.
+(b)
+To the extent practicable, credits against stormwater user fee charges shall be provided for on-site stormwater control systems and activities constructed, operated, maintained and performed to the county's standards by public and private property owners which eliminate, mitigate or compensate for the impact that the property or person may have upon stormwater runoff discharged to public stormwater management systems and facilities or to private stormwater management systems and facilities which impact the proper function of public stormwater management systems and facilities.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-137. - Stormwater user fee charge rates.
+(a)
+Stormwater user fee charge rates shall be set and may be modified from time to time by the board of commissioners. In setting or modifying such rates it shall be the goal of the board of commissioners to establish rates that are fair and reasonable, reflect the value of the stormwater management services to those property owners who benefit therefrom, and which, together with other sources of support available to the county stormwater utility, are sufficient to support the cost of the stormwater management services, including, but not limited to, the payment of principal and interest on debt obligations, lease payments, operating expenses, capital outlays, non-operating expenses, provisions for prudent reserves and other costs as deemed appropriate by the board of commissioners.
+(b)
+A stormwater user fee charge shall be billed to all developed properties within the county's stormwater service area. This fee may be adjusted by resolution from time to time by the board of commissioners.
+(c)
+A stormwater user fee charge shall be billed to all county-owned rights-of-way. This fee may be adjusted by resolution from time to time by the board of commissioners.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2018-15, § 4, 11-13-2018)
+Sec. 310-138. - Stormwater user fee charge exemptions.
+Except as provided in this section or otherwise provided by law, no public or private property located in the county's stormwater service area shall be exempt from the stormwater user fee charges. No exception, credit, offset, or other reduction in stormwater user fee charges shall be granted based on age, tax status, economic status, race, religion or other condition unrelated to the amount of impervious area or to the stormwater utility's cost of providing stormwater management services and facilities. Exemptions to the stormwater user fee charges are as follows:
+(1)
+Parcels which contain no more than 200 square feet of impervious surfaces shall be exempt from stormwater user fee charges.
+(2)
+Railroad tracks and other infrastructure within railroad rights-of-way shall be exempt from stormwater user fee charges. However, railroad stations, maintenance buildings, and/or other developed land used for railroad purposes shall not be exempt from stormwater user fee charges.
+(3)
+Roads and other infrastructure within Georgia Department of Transportation (GDOT) rights-of-way shall be exempt from stormwater user fee charges. This exemption is in recognition of routine drainage system maintenance and capital construction services undertaken by GDOT within their rights-of-way. However, maintenance buildings and/or other developed land used for GDOT purposes shall not be exempt from stormwater user fee charges.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2018-15, § 5, 11-13-2018)
+Sec. 310-139. - Stormwater user fee charge credits.
+(a)
+The stormwater manager shall grant credits or adjustments based on the technical and procedural criteria set forth in the Credit Technical Manual. Copies of the Credit Technical Manual will be maintained by and available from the stormwater manager.
+(1)
+A stormwater user fee charge credit shall be determined based on the technical requirements, standards and criteria contained in the Credit Technical Manual. The amount of credit, or reduction of the stormwater user fee charge, shall be in accordance with the criteria contained in the Credit Technical Manual.
+(2)
+Any credit allowed against the stormwater user fee charge is conditioned on continuing compliance with the county's design and performance standards as stated in the Credit Technical Manual and/or upon continuing provision of the controls, systems, facilities, services, and activities provided, operated, and maintained by the property owner or owners upon which the credit is based. The stormwater manager may revoke a credit at any time for noncompliance with applicable standards and criteria as established in the Credit Technical Manual or this article.
+(3)
+In order to obtain a credit, the property owner must make application to the county on forms provided by the stormwater manager for such purpose, and in accordance with the procedures outlined in the Credit Technical Manual.
+(4)
+Property owners may apply for any credits or adjustments that they believe apply.
+(5)
+The application for any credit or adjustment must be in writing and must include the information necessary to establish eligibility for the credit or adjustment, and be in the format established by the stormwater manager. Incomplete applications will not be accepted for consideration and processing.
+(b)
+When an application for a credit is deemed complete by the stormwater manager, he shall have 30 days from the date the complete application is accepted to either grant the credit in whole, grant the credit in part, or deny the credit. Credits applied for by the property owner and granted in whole or in part, shall apply to all stormwater user fee charges in accordance with the terms defined in the Credit Technical Manual.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-140. - Enforcement methods and inspections.
+(a)
+All property owners of developed lands within the unincorporated areas of Rockdale County shall provide, manage, maintain, and operate on-site stormwater management systems sufficient to collect, convey, detain, and discharge stormwater runoff in a safe manner consistent with all county development regulations, ordinances, and state and federal laws. Any failure to meet this obligation shall constitute a violation of this article and be subject to citation and prosecution in the Magistrate Court of Rockdale County. Each day such violation exists shall constitute a separate offense.
+(b)
+Alternately, in the event a public nuisance is deemed to exist by the stormwater manager, the county may elect to sue in the Superior Court of Rockdale County to abate such nuisance. In the event a public nuisance is found by the court to exist, which the property owner fails to abate within such reasonable time as allowed by the court, the county may enter upon the property and cause work as is reasonably necessary to be performed, with the actual cost thereof assessed against the property owner in the same manner as a tax levied against the property. From date of filing of such abatement action, the county shall have lien rights which may be perfected, after judgment, by filing a notice of lien on the general execution docket of the Superior Court of Rockdale County.
+(c)
+The county shall have the right for its designated officers and employees to enter upon public and private property during reasonable hours and upon reasonable notice to the owner thereof, in order to assure compliance with the provisions of this article, and state and federal law. Such inspections shall be limited to the following purposes:
+(1)
+Inspecting or conducting engineering tests on existing stormwater management systems and facilities located on-site; or
+(2)
+Determining that stormwater management systems and facilities need to be constructed.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)
+Sec. 310-141. - Stormwater user fee charge billing, delinquencies, collections, adjustments.
+(a)
+The property owner, as identified from public land records of Rockdale County, shall be obligated to pay the appropriate stormwater user fee charge for that property.
+(1)
+Billing. Stormwater user fee charges shall begin to accrue October 1, 2005, and shall be billed prospectively. A bill for stormwater user fee charges may be sent through the United States Postal Service or by alternative means, notifying the owner of the property being billed of the amount of the stormwater user fee charge, less credits, the date the payment is due and the date when payment is past due.
+(2)
+The stormwater user fee charge will be billed and collected through the current county property tax billing system, or through another method, as deemed most effective and efficient by the board of commissioners. If the board of commissioners elects to include the stormwater user fee charge on the county's property tax bill, the stormwater user fee charge shall be paid in full before any payment is applied toward the property tax bill.
+(3)
+Frequency of the billing of stormwater user fee charges shall be specified by the board of commissioners.
+(4)
+Failure to receive a bill or receipt of an incorrect bill shall not be justification for nonpayment.
+(5)
+If a property is unbilled, if no bill is sent, or if the bill contains errors for a particular property, the Rockdale County Stormwater Utility may back bill for a period of up to one year, but shall not assess penalties or be entitled to any interest for any delinquency during the back billed period.
+(b)
+Delinquencies and collection.
+(1)
+Unpaid fees shall be collected in any manner permissible by Georgia law, including but not limited to: utilizing the services of a collection agency; by filing suit to collect on an unpaid account; or by enforcement of any lien resulting from a judgment. In no instance shall the unpaid fee constitute a direct lien against the property.
+(2)
+A stormwater user fee charge shall be declared delinquent if not paid within 60 days of the due date specified on the billing document.
+(3)
+If suit is instituted for the collection of any fees due hereunder or for the enforcement of this article, the owner shall pay court costs, litigation expenses, and reasonable attorney's fees associated therewith.
+(4)
+Uncollected bills may be written off at the discretion of the board of commissioners following a recommendation from the stormwater director.
+(c)
+Adjustments. The stormwater manager shall administer the procedures and standards for the adjustment of the stormwater user fee charge.
+(1)
+Customers may seek an adjustment of the stormwater user fee charge allocated to a property at any time by submitting the request in writing to the stormwater manager and setting forth in detail the grounds upon which relief is sought.
+(2)
+Customers requesting the adjustment may be required, at his, her or its own expense, to provide supplemental information to the stormwater manager, including, but not limited to, survey and customer account data provided and certified by a registered land surveyor or a professional engineer. Failure to provide such information within the time limits established by the stormwater manager, as may be reasonably extended, may result in denial of the adjustment request.
+(3)
+Once a completed adjustment request and all required information are received by the stormwater manager, the stormwater manager shall have 30 calendar days within which to render a written decision. Concurrent payment of any charges allocated to the property is not required as a condition precedent to this request for review.
+(4)
+In considering an adjustment request, the stormwater manager shall consider whether the calculation of the stormwater utility user fee charge for the property is correct.
+(5)
+The stormwater manager's decision shall be in writing and will be mailed to the address provided on the adjustment request, and service shall be complete upon mailing.
+(6)
+If the result of an adjustment is that a refund is due the applicant, the refund will be applied as a credit on the applicant's next stormwater bill.
+(d)
+Conflict with preceding ordinances. If a section, subsection or provision of this article shall conflict with the provisions of a section, subsection or part of a preceding ordinance of the county, then the preceding section, subsection or part shall be deemed repealed and no longer in effect.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006; Ord. No. 0-2017-30, §§ 3, 4, 11-28-2017; Ord. No. 0-2018-15, § 6, 11-13-2018)
+Sec. 310-142. - Appeals, hearings.
+(a)
+Appeals; how taken. An appeal to the director may be taken by any property owner or customer aggrieved by any decision of the stormwater manager. The appeal shall be taken within 30 days of the decision of the stormwater manager by filing with the director a notice of appeal in writing specifying the grounds thereof. Upon the filing of the notice of appeal, the stormwater manager shall forthwith transmit to the director all documentation constituting the record upon which the decision appealed from was taken.
+(b)
+Hearing. The director shall fix a reasonable time for hearing the appeal and give written notice to the appellant at least ten days prior to the hearing date. The notice shall indicate the place, date and time of the hearing. The director shall affirm, reverse, affirm in part, or reverse in part the decision of the stormwater manager after hearing the evidence. If the decision of the stormwater manager is reversed in whole or in part, resulting in a refund or credit due to the property owner, then such refund or credit shall be calculated retroactive to the date of the initial appeal.
+(c)
+Appeals from decisions of the director.
+(1)
+Appeals from a decision of the director may be had to the board of adjustment in accordance with the procedures set forth in UDO section 238-8. Appeals from final decisions of the board of adjustment shall be as provided for in UDO section 238-13.
+(2)
+If the decision of the board of zoning appeals results in a refund or credit due to the property owner, then such refund or credit shall be calculated retroactive to the date of the initial appeal.
+(Ord. No. 0-2006-32, §§ 1—3, 11-28-2006)

@@ -1,0 +1,210 @@
+ARTICLE O. - ACOUSTICAL STANDARDS
+
+Sec. 8-2-141. - Acoustical standards adopted.
+These regulations shall apply to all new residential construction.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-142. - Purpose and intent.
+The purpose and intent of this chapter is to provide a citywide sound insulation ordinance for all new residential construction within the City of Forest Park, Georgia.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-143. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this article, except where the context clearly indicates a different meaning:
+(1)
+Airport means any public use airport, including heliports, as defined by the ASNA Act, including: (a) Any airport which is used or to be used for public purposes, under the control of a public agency, the landing area of which is publicly owned; (b) any privately owned reliever airport; and (c) any privately owned airport which is determined by the Secretary to enplane annually two thousand five hundred (2,500) or more passengers and receive scheduled passenger service of aircraft, which is used or to be used for public purposes.
+(2)
+Airport noise compatibility program and program means that program, and all revisions thereto, reflected in documents (and revised documents) developed in accordance with 14 CFR Part 150, et. seq. including the measures proposed or taken by the airport operator to reduce existing noncompatible land uses and to prevent the introduction of additional noncompatible land uses within the area.
+(3)
+Background sound level means the total sound pressure level in the area of interest excluding the noise source of interest.
+(4)
+Commercial area means a group of commercial facilities and the abutting public right-of-way and public property.
+(5)
+Commercial property means any premises, property, or facility involving traffic in goods or furnishing of services for sale or profit, including but not limited to:
+a.
+Banking and other financial institutions;
+b.
+Dining establishments;
+c.
+Establishments for providing retail or wholesale services;
+d.
+Establishments for recreation and entertainment;
+e.
+Office buildings;
+f.
+Transportation; and
+g.
+Warehouses.
+(6)
+Compatible use means suitable relative to a specific context, i.e., compatible with a residential neighborhood, compatible with a business district, or, in the case of proximity to an airport, compatible with an environment that has aircraft noise exposure.
+(7)
+dBA means an A-weighted unit of sound level.
+(8)
+Daytime hours mean the hours between 7:01 a.m. and 10:00 p.m.
+(9)
+Decibel (dB) means the unit of measurement for a sound pressure level and is equal to ten (10) times the common logarithm of the ratio of two (2) like quantities (see "sound pressure level").
+(10)
+DNL (day-night average sound level) is a noise metric, a single-number descriptor, that accounts for the magnitude and duration of single noise events, the frequency of occurrence of single noise events, and the time—day or night—of single noise events. It is a weighted energy average. Each single event occurring between 10:00 p.m. and 7:00 a.m. has a ten (10) dB penalty added to it; each one (1) event is effectively counted as ten (10) events of equal magnitude and duration.
+(11)
+Equivalent sound level (Leq) means the non-varying sound level that would contain the equivalent amount of energy as a varying sound level. Note that Leq can be weighted or unweighted and can be integrated over durations ranging from less than a second to many hours. The notation should indicate weighting used and duration, e.g., 85 dBA Leq (six min.) is an A-weighted 85 decibel equivalent sound level, integrated over a six-minute period.
+(12)
+FAA means Federal Aviation Administration.
+(13)
+14 CFR Part 150 means Code of Federal Regulations, Subchapter 1, Airports, Part 150, Airport Noise Compatibility planning.
+(14)
+Industrial facility means any activity and its related premises, property, facilities, or equipment involving the fabrication, manufacture, or production of durable or nondurable goods.
+(15)
+Maximum sound level (Lmax) means the peak sound pressure level of a noise event.
+(16)
+Multidwelling unit building means any building wherein there are two (2) or more dwelling units.
+(17)
+Municipality means the City of Forest Park, Georgia.
+(18)
+Nighttime hours means the hours between 10:00 p.m. of any given day, and 7:00 a.m. of the following day.
+(19)
+Noise means any sound of such level and duration as to be or tend to be injurious to human health or welfare, or which would unreasonably interfere with the enjoyment of life or property throughout the city or in any portions thereof, but excludes all aspects of the employer-employee relationship concerning health and safety hazard within the confines of a place of employment.
+(20)
+Noise disturbance means any sound that endangers the health, safety or welfare of any person, is detrimental to the peaceful enjoyment of private property, or endangers personal or real property.
+(21)
+Noise exposure map means a scaled, geographic depiction of an airport, its noise contours, and surrounding area developed in accordance with section A150.101 of Appendix A of FAR 150, including the accompanying documentation setting forth the required descriptions of forecast aircraft operations at that airport during the fifth calendar year beginning after submission of the map, together with the ways, if any, those operations will affect the map (including noise contours and the forecast land uses).
+(22)
+Noise level reduction (NLR) means the amount of noise level reduction in decibels achieved through incorporation of noise attenuation (between outdoor and indoor levels) in the design and construction of a structure.
+(23)
+Noncompatible land use means the use of land that is identified under this part as normally not compatible with the outdoor noise environment (or an adequately attenuated noise reduction level for the indoor activities involved at the location) because the yearly day-night average sound level is above that identified for that or similar use under Appendix A (Table 1) of FAR 150.
+(24)
+Plainly audible means any sound produced by a noise source, which can be heard by any person at prescribed distances. Measurement standards shall be the auditory senses, based upon direct line of sight. Words or phrases need not be discernible and low frequency sound reverberations are included.
+(25)
+Public right-of-way means any street, avenue, boulevard, road, highway sidewalk, or alley that is leased, owned, or controlled by a governmental entity.
+(26)
+Public property means any real property or structures thereon that is own leased, or controlled by a governmental entity.
+(27)
+Residential area means a group of residential properties and the abutting public rights-of-way public property.
+(28)
+Residential property means property used for human habitation, including but not limited to:
+a.
+Private property used for human habitation;
+b.
+Commercial living accommodations and commercial property used for human habitation;
+c.
+Recreational and entertainment property used for human habitation; and
+d.
+Community service property used for human habitation.
+(29)
+STC means sound transmission class.
+(30)
+Sound level (per ASTM C 634) means a sound pressure level obtained using a signal to which standard weighting has been applied.
+(31)
+Sound pressure level (SPL) means the ratio in decibels of the square of the root mean square sound pressure divided by the square of the standard reference sound pressure of 20|gmPa. Mathematically, this is expressed as 10* log p2/P2 ref, = 20*log P/P ref, P ref, = 20/gmPa.
+(32)
+Weekday means the time period of each week that begins at 11:00 p.m. on each Sunday and ends at 5:00 p.m. on each Friday.
+(33)
+Weekend means the time period of each week that begins at 5:00 p.m. on each Friday and ends at 11:00 p.m. on each Sunday.
+(34)
+YDNL means the yearly day-night average sound level (see DNL above), i.e., an average annual day.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-144. - Acoustical standards.
+(a)
+It shall be unlawful for any person or entity to construct in the city and inside of the seventy-five (75) day-night average sound level (DNL) contour line, as now existing or hereinafter modified and approved by the Federal Aviation Administration, any new building for "R3" occupancy as that term is defined in the International Building Code 2003, Section 310, Residential Group R, Subsection 310.1.
+(b)
+It shall be unlawful for any person entity to construction in the city any new building for residential occupancy with an interior DNL in excess of forty-five (45) DNL. Adherence to the following standards shall provide evidence of conformance with this subsection for MINIMUM 30 DB NOISE LEVEL REDUCTION (NLR), OUTDOOR TO INDOOR.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-145. - Compliance.
+Compliance with the following standards shall be deemed to meet the requirements of the compatible-use noise zones in which an NLR 30 is specified.
+(a)
+General.
+(1)
+All exterior walls shall be constructed airtight. All joints shall be grouted or caulked airtight.
+(2)
+At the penetration of exterior walls by pipes, ducts, or conduits, the space between the wall and pipes, ducts, or conduits shall be caulked at the pipe duct or conduit or filled with mortar to the wall.
+(3)
+Window and/or through-the-wall ventilation or air-conditioning units shall not be used.
+(4)
+Operational vented fireplaces shall not be used.
+(5)
+All sleeping spaces shall be provided with either a sound-absorbing ceiling or a carpeted floor.
+(6)
+Through-the-wall/door mail slots shall not be used.
+(7)
+Skylights are permitted provided they meet window requirements in section 8-2-147.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-146. - Exterior walls.
+(a)
+Exterior walls other than as described below shall have a laboratory sound transmission class (STC) rating of at least forty-four (44).
+(b)
+At least one (1) surface of concrete block walls shall be plastered or painted with heavy "bridging" paint.
+(c)
+Stud walls shall be at least four (4) inches in nominal depth and shall be finished on the outside with siding-on-sheathing, masonry composite siding, stucco, brick, or brick veneer. For the purposes of this Code, all brick or brick veneer must be at least four (4) inches thick.
+(1)
+Interior surface of the exterior walls shall be of gypsum board or plaster at least five-eighths (⅝) inch thick, installed on the studs. The gypsum board or plaster may be fastened rigidly to the studs if the exterior is brick or stucco. If the exterior is siding-on-sheathing, the interior gypsum board or plaster must be fastened resiliently to the studs. Providing three (3) layers of gypsum board with direct mounting to the studs is an acceptable alternative to resilient mounting of one (1) layer.
+(2)
+Continuous composition board, OSB sheathing, plywood, or gypsum board, or plaster sheathing at least one (1) inch shall cover the exterior side of the wall studs behind wood, masonry composite siding, vinyl siding, metal siding, or any other kind of siding utilized.
+(3)
+Sheathing panels shall be butted tightly and covered on the exterior with overlapping building paper. The top and bottom edges of the sheathing shall be sealed.
+(4)
+Insulation material at least R-11 thick shall be installed continuously throughout the cavity space behind the exterior sheathing and between wall studs. Insulation shall be glass fiber or mineral wool.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-147. - Windows.
+(a)
+Windows other than as described in this section shall have a laboratory sound transmission class (STC) rating of at least forty (40).
+(b)
+The perimeter of window frames shall be sealed airtight to the exterior wall construction with a sealant conforming to one (1) of the following federal specifications: TT-S-00227, TT-S-00230, or TT-S-00153.
+(c)
+The total area of glass in both windows and doors in sleeping spaces shall not exceed twenty (20) percent of the floor area.
+(d)
+Windows shall remain in accordance with all applicable egress requirements.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-148. - Doors.
+(a)
+Doors, or door/storm assemblies, other than as described in this section, shall have a laboratory sound transmission class rating of at least STC 35.
+(b)
+Double door construction is required for all door openings to the exterior. Openings fitted with side-hinged doors shall have one solid-core wood or insulated metal door at least one (1) inch thick separated by an airspace of at least four (4) inches from another door, which can be a storm door. Both doors shall be tightly fitted and weather-stripped.
+(c)
+The glass of double-glazed sliding doors shall be separated by a minimum four-inch airspace. Each sliding frame shall be provided with an efficiency airtight weather-stripping material as specified in section 8-2-147(d).
+(d)
+Glass of all doors shall be at least three-sixteenths ( 3/16 ) inch thick and tempered or laminated. Glass of double sliding doors shall not be equal in thickness.
+(e)
+The perimeter of door frames shall be sealed airtight to the exterior wall construction as indicated in section 8-2-147(b).
+(f)
+Glass of doors shall be set and sealed in an airtight non-hardening sealant, or a soft elastomer gasket.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-149. - Roofs.
+(a)
+Combined roof and ceiling construction other than described in this subsection and section 8-2-150 shall have a laboratory sound transmission class rating of at least STC 44.
+(b)
+With an attic or rafter space at least six (6) inches deep, and with a ceiling below, the roof shall consist of closely butted one (1) inch composition board, OSB sheathing, plywood, or gypsum board sheathing topped by roofing as required.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-150. - Ceilings.
+(a)
+Gypsum board or plaster ceilings at least five-eighths (⅝) inch thick shall be provided where the roof complies with section 8-2-149(b) above. Ceilings shall be substantially airtight, with a minimum number of penetrations. For sleeping areas, the requirements of subsection 8-2-145(a)(5) shall apply.
+(b)
+Where roof construction is as described in subsection 8-2-149(b), the following applies for siding homes, provide one-inch resilient channel mounting and one (1) layer of five-eighths (⅝) inch gypsum board, or three (3) layers of gypsum board mounted directly. For stucco and brick homes, provide two (2) layers five-eighths (⅝) inch gypsum board with direct mounting.
+(c)
+Glass fiber or mineral wool insulation at least R-19 shall be provided above the ceiling between joists.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-151. - Floors.
+(a)
+The floor of the lowest occupied rooms shall be slab on fill, below grade or over a fully enclosed basement or crawlspace. All door and window openings in the fully enclosed basement shall be tightly fitted. If the basement is used as a habitable living area, the doors and windows must conform to the standards given above for these elements. All crawlspace vents must incorporate a plywood backing plate of baffle, which prevents a clear line-of-sight from inside to outside without blocking airflow.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-152. - Ventilation.
+(a)
+A mechanical ventilation system shall be installed that will provide the minimum air circulation and fresh-air supply requirements for various uses in occupied rooms without the need to open any windows, doors, or other openings to the exterior.
+(b)
+Gravity vent openings in attic shall not exceed building code minimum in number and size. The openings shall be fitted with transfer ducts at least three (3) feet in length containing internal sound-absorbing duct lining. Each duct shall have a lined ninety-degree (right angle) bend in the duct such that there is no direct line-of-sight from the exterior through the duct in the attic.
+(c)
+If a fan is used for forced ventilation, the attic inlet and discharge openings shall be fitted with sheet metal transfer ducts of at least twenty-gauge steel, which shall be lined with one-inch-thick coated glass fiber, and shall be at least five (5) feet long with at least one ninety-degree (right angle) bend.
+(d)
+All vent ducts connecting the interior space to the outdoors shall contain at least a ten-foot length of internal sound-absorbing duct lining. Each duct shall be provided with a ninety-degree (right angle) bend in the duct such that there is no direct line-of-sight through the duct from the venting cross-section to the room-opening cross-section. Domestic range exhaust ducts to the outside shall be prohibited (see section 8-2-152(f)).
+(e)
+Duct lining shall be coated glass fiber duct liner at least one (1) inch thick.
+(f)
+Range exhaust hoods should incorporate a filtered, air recirculation system rather than ducting to the exterior. Other kitchen exhaust ducts exhaust ducts to the exterior shall contain a baffle plate across the exterior termination that allows proper ventilation. The dimensions of the baffle plate should extend at least one diameter beyond the line-of-sight into the vent duct. The baffle plate shall be of the same material and thickness as the bent duct material.
+(g)
+Building heating units with flues or combustion air vents shall be located in a closet or room closed off from the occupied space by doors.
+(h)
+Doors between occupied space and mechanical equipment areas shall be solid core wood or twenty-gauge steel metal at least one (1) inch thick and shall be fully weather-stripped.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Sec. 8-2-153. - Substitution of materials.
+Upon written application from any applicant for a permit under this chapter, the city building inspector may allow substitute materials ("substitute materials") in lieu of those required in subsection (b) above (the "required materials") so long as both of the following conditions are met:
+(a)
+The substitute materials will have a STC rating equal to or greater than the STC rating of the required materials; and
+(b)
+The city building inspector has been provided with written documentation demonstrating that the substitute materials will provide at least as much interior noise protection as the required materials.
+(Ord. No. 04-42, § 1, 8-2-2004)
+Secs. 8-2-154—8-2-159. - Reserved.

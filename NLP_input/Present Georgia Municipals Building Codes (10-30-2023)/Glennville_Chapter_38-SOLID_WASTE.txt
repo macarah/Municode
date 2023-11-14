@@ -1,0 +1,453 @@
+Chapter 38 - SOLID WASTE[1]
+Footnotes:
+--- (1) ---
+Cross reference— Buildings and building regulations, ch. 10; environment, ch. 22; utilities, ch. 58.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 38-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Ashes means the residue from the burning of wood, coal, coke or other combustible materials.
+Authorized receptacle, private, means a collection container to be used for refuse, garbage or solid waste that is provided by a private individual or company and that is authorized for use by the city.
+Authorized receptacle, public, means a collection container to be used for refuse, garbage or solid waste that is provided by the city or its agent/contractor/franchisees, and that is authorized for use by the city.
+Auto salvage yard means any place where two or more motor vehicles not in running condition, or parts thereof, are stored in the open and are not being restored to operation, or any land, building or structure used for wrecking or storing of such motor vehicles or farm machinery, or parts thereof, stored in the open and not being restored to operating condition; and including the commercial salvaging of any other goods, articles or merchandise.
+Building material means any material such as lumber roofing material, brick, concrete block, plaster, gutters, sand, gravel or other substances used in repairs or alteration of existing buildings, construction of new buildings or demolition of existing structures.
+Bulk container means a metal container of not less than four cubic yards, not larger than 30 cubic yards and constructed so that it can be emptied mechanically by specially equipped trucks used by private contractual agencies.
+City manager or designee means the city manager or designee of the public works departments.
+Collection area means an area provided or designated by the city to be used for the collection and disposal of garbage and solid waste for the location of collection containers.
+Collection container means a container to be used for the collection and disposal of garbage and solid waste.
+Collector means the person or persons who under agreements, verbal or written, with or without compensation do the work of collecting and/or transporting solid wastes, from industries, offices, retail outlets, businesses, institutions, and/or similar locations, or from residential dwellings; provided, however, that this definition shall not include an individual collecting and/or transporting waste from his own single-family dwelling unit.
+Commercial wastes means all garbage and waste byproducts for manufacturing offices, restaurants, stores, warehouses, and similar commercial establishments, cinders, and ashes from commercial boilers, cardboard and wooden boxes, crates and barrels, excluding residential and industrial wastes.
+Composting means the control of biological decomposition of yard trimmings into a stable, odor-free humus.
+Dead animals means the carcasses or remains of cats, dogs, small household pets and other farm animals.
+Disposal site means an area, location, tract of land or a facility used or intended to be used for the disposal of solid waste, decaying waste, hazardous waste or other waste, except it shall not include the land or facility used for the disposal of solid waste or other waste from a single-family dwelling in which the owner, occupant, or lessee of such land or facility resides.
+DNR means the state department of natural resources.
+End user means the last person who uses the scrap tires, chips, crumb rubber, or similar materials to make a product with economic value or, in the case of energy recovery, the person who utilizes the heat content or other forms of energy from the incineration or pyrolysis of waste tires, chips or similar materials.
+EPD means the state department of natural resources environmental protection division.
+Garbage or household garbage means the byproduct of animal or vegetable food resulting from the handling, preparation, cooking and consumption of food or other matter which is subject to decomposition, decay, putrefaction or the generation of noxious or offensive gases or odors, or which during or after decay may serve as breeding areas or feeding materials for flies, insects or animals. Also to include every waste accumulation of paper, sweepings, dust, rags, bottles, cans or other matter of any kind, other than garbage, which is usually attendant to housekeeping.
+Hazardous refuse means materials such as poison, acids, caustic matter or solutions, chemicals, infected materials, infectious carcass, fecal matter, explosives, sewage sludge, radioactive materials and highly flammable substances, oils, P.C.B., antifreeze, paints, solvents and cleaning fluids, dry cleaners, fuel tanks, biomedical waste, grease traps, batteries, oxidizers, and freon or any other substance that has been defined by federal or state law as being hazardous refuse or material or which poses a similar and immediate danger or hazard to the public health, safety and welfare as the substances described herein.
+Household waste means any solid waste (including garbage, trash, and sanitary waste in septic tanks) derived from households (including single and multiple residences, hotels and motels, bunkhouses, ranger stations, crew quarters, campgrounds, picnic grounds and day use recreation areas).
+Industrial waste means all waste including solids, semi-solids, sludge and liquids, created by factories, processing plants or other manufacturing enterprises.
+Junked vehicles means any discarded, dismantled, wrecked, scrapped, ruined, junked or inoperable automobile, truck or other vehicle, or vehicle which does not bear a current license plate or a current inspection sticker.
+Leachate collection system means a system at a landfill for collection of the leachate, which may percolate through the waste into the soils surrounding the landfill.
+Litter means all aluminum cans, cardboard, cigarettes, garbage, glass, paper, refuse, styrofoam, combustible and non-combustible solid waste or waste material, sand, gravel, slag, brickbats, rubbish, tin cans, trash, wood, wrappings, debris, dead animals, bedding, crockery or any other discarded, used or unconsumed substance, which is not handled in accordance with the provisions of this chapter.
+Loading and unloading area means a space or area used by any moving vehicle for the purpose of receiving, shipping, and transporting goods, wares, commodities and persons.
+Manifest means a form or document used for identifying the quantity and composition and the origin, routing and destination of scrap tires during transportation from the point of generation, through any intermediate points, to an end user, processor or disposer approved by the environmental protection division (EPD).
+Materials recovery facility means a solid waste handling facility that provides for the extraction from solid waste of recoverable materials, materials suitable for use as a fuel or soil amendment, or any combination of such materials.
+Mixed tires means a heterogeneous group of tires consisting of "used," "retreadable casings," and "scrap tires."
+Municipal solid waste means any solid waste derived from households, including garbage, trash, and sanitary waste in septic tanks, and means solid waste from single-family and multifamily residences, hotels and motels, bunkhouses, campgrounds, picnic grounds, and day use recreation areas. The term includes yard trimmings and commercial solid waste, but does not include solid waste from agricultural, silvicultural operations or industrial processes or operations.
+Municipal solid waste disposal facility means any facility or location where the final deposition of any amount of municipal solid waste occurs, whether or not mixed with or including commercial or industrial solid waste, and includes, but is not limited to, municipal solid waste landfills and solid waste thermal treatment technology facilities.
+Municipal solid waste landfill means a disposal facility where any amount of municipal solid waste, whether or not mixed with or including commercial waste, industrial waste, non-hazardous sludges or small quantity generator hazardous waste, is disposed of by means of placing an approved cover thereon.
+Open burning means the combustion of solid waste without:
+(1)
+Control of combustion air to maintain adequate temperature for efficient combustion;
+(2)
+Containment of the combustion reaction in an enclosed device to provide sufficient residence time and mixing for complete combustion; and
+(3)
+Control of the emission of the combustion products.
+Private premises means any dwelling, house, building or other structure, designed or used either wholly or in part for private residential purposes, whether inhabited or temporarily or continuously uninhabited or vacant, and shall include any yard, grounds, walk, driveway, porch, steps, vestibule or mailbox belonging or appurtenant to such dwelling, house, building or other structure.
+Public place means any and all streets, sidewalks, boulevards, alleys or other public ways and any and all public parks, squares, spaces, grounds and buildings.
+Reclamation means a controlled method of sorting and storing solid waste for future use in accordance with an approved procedure.
+Recycling means the process by which reclaimed resources are transformed into new products in such a manner that the original products may lose their identity.
+Refuse receptacle means a poly-kart, trash can or dumpster.
+Retail tire dealer means a person actively engaged in the business of selling new replacement tires. Retail tire dealers may also be, but are not limited to, manufacturers, wholesalers and others who sell new replacement tires to the ultimate consumer.
+Retreadable casings means a tire which has the quality and soundness of the tire structure to accept a retread or repair and provide additional service and is destined for retreading.
+Rubbish means waste paper, cartons, boxes, wood, tree branches, yard trimmings, furniture, appliances, metal, cans, glass, packing material and similar material which is discarded, unusable or not being actively used or stored or allowed to be accumulated in an unsightly manner.
+Scavenge or scavenging means unauthorized or uncontrolled retrieval of discarded refuse materials.
+Scrap tire means a tire that is no longer suitable for its original intended purpose because of wear, damage or defect.
+Scrap tire carrier means any person engaged in picking up or transporting scrap tires not otherwise exempted in this chapter for the purpose of removal to a scrap tire processor, end user or disposal facility.
+Scrap tire generator means person who generates scrap tires. Generators may include, but are not limited to, retail tire dealers, retreaders, scrap tire processors, automobile dealers, private company vehicle maintenance shops, garages, service stations, and city, county, and state governments.
+Scrap tire processing means any method, system or other treatment designed to change the physical form, size or chemical content of scrap tires and includes all aspects of its
+management (administration, personnel, land, equipment, buildings, and other elements). Processing includes, but is not limited to, shredding, baling, recycling or sorting of scrap tires.
+Scrap tire processor means any person who is approved by the EPD to receive scrap tires from scrap tire generators or scrap tire carriers for the purpose of scrap tire processing.
+Scrap tire sorter means any person, other than the original scrap tire generator, who handles mixed tires by separating used tires and retreadable casings from scrap tires.
+Solid waste means any garbage or refuse; sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility; and other discarded material including solid, liquid, semisolid, or contained gaseous material resulting from industrial, commercial, mining, and agricultural operations and from community activities, but does not include recovered materials, solid or dissolved materials in domestic sewage; solid or dissolved materials in irrigation return flows or industrial discharges that are point sources subject to permit under 33 USC 1342; or source, special nuclear, or byproduct material as defined by the federal Atomic Energy Act of 1954, as amended (68 Stat. 923).
+Solid waste handling means the storage, collection, transportation, treatment, utilization, processing or disposal of solid waste or any combination of such activities.
+Solid waste handling facility means any facility, the primary purpose of which is the storage, collection, transportation, treatment, utilization, processing, or disposal, or any combination thereof, of solid waste.
+Solid waste handling permit means written authorization granted to a person by the city manager or designee to engage in solid waste handling.
+Tire means a continuous solid or pneumatic rubber covering designed for encircling the wheel of a motor vehicle and which is neither attached to the motor vehicle nor a part of the motor vehicle as original equipment.
+Tire retreader means any person actively engaged in the business of retreading scrap tires by scarifying the surface to remove the old surface tread and attaching a new tread to make a usable tire.
+Tree and shrubbery trimmings means waste accumulation of tree limbs, parts of trees, bushes, shrubbery cuttings or clippings, or other natural waste.
+Trash or yard trash means grass, straw, shrubs, limbs, leaves, sticks, and hedges. All yard trash is to be free of all other waste; no paper, metal, cans, plastics, cardboard, furniture. This waste must be piled at the curbside separated from any other waste or it will not be picked up until it has been separated.
+Ultimate consumer means any person who receives and uses a new replacement tire. Ultimate consumers may be, but are not limited to:
+(1)
+An individual consumer;
+(2)
+A leasing company purchasing tires from retail dealers for their vehicle fleet;
+(3)
+A private company purchasing tires from retail dealers for their vehicle fleet; or
+(4)
+A governmental agency purchasing tires from retail dealers for their vehicle fleet.
+Used tire means a tire which has a minimum of 2/32 of an inch of road tread and which is still suitable for its original purpose. It must be inventoried and marketed in substantially the same fashion as a new tire, the dealer must be able to provide satisfactory evidence to the EPD and the special enforcement division that a market exists, and that the used tires are, in fact, being marketed.
+Yard trimmings means leaves, brush, grass, clippings, shrub and tree prunings, discarded Christmas trees, greenhouse nursery vegetative residuals and vegetative matter resulting from landscaping development and maintenance other than pruning, agricultural, and silvicultural operations.
+(Ord. No. 99-05B, art. I, § 2, 10-6-1998; Ord. No. 08-29, 11-13-2007)
+Cross reference— Definitions generally, § 1-2.
+Sec. 38-2. - Collections by city.
+(a)
+Generally. All refuse accumulated in the city shall be collected, conveyed, and disposed of by the city, except as otherwise expressly authorized herein. No person shall collect, convey over any streets or alleys of the city or dispose of any refuse accumulated in the city, except as expressly authorized herein or as allowed by pertinent and appropriate actions of the mayor and council.
+(b)
+Supervision. All refuse accumulated in the city shall be collected, conveyed, and disposed of by the city under the supervision of the designated city official, who shall prescribe the days and times of collection, and such other matters pertaining to the storage location, conveyance and disposal as is necessary.
+(c)
+Fees. Fees, rates and charges for the collection services outlined in this article shall be as determined by the mayor and council and on file in the office of the clerk. Every residence, business establishment or service agency within the limits of the city and to which garbage and solid waste collection and disposal services are available shall pay a fee for the availability of such service, regardless of whether the residence, business or agency used the service, and based upon a fee schedule approved by the mayor and council. For the purposes of this chapter, the principal occupant or head of household in physical possession of a resident through ownership or lease shall be responsible for payment of the fee. If an account exists with the city of services, the fee shall be added to and denominated separately on monthly account statements.
+(d)
+Night collection. Should the best interest of the public be served by collection of refuse from certain areas in the city at night, the city shall make such collections. The occupants of all residences or places of business within the designated area shall be notified of the hours of such collection. All persons so notified shall comply with such order and shall place the containers as designated within such hours.
+(e)
+Landlord's responsibility. All garbage charges to a complex of apartments, houses, mobile homes or businesses will be billed to the landlord of the property, and the landlord shall be responsible to the city for payment of assessed charges.
+(Ord. No. 99-05B, art. I, § 3, 10-6-1998)
+Sec. 38-3. - Private collection.
+No person shall engage in the business of and receive compensation for the collection or disposal of garbage or solid waste within the city except pursuant to a contractual agreement approved by the mayor and council and duly executed by all parties thereto and under terms and conditions set out in the contractual agreement or in this Code, unless otherwise explicitly stated herein. It further shall be unlawful for any person to collect refuse within the city except from his own residence, business, service agency or industrial plant, without first having obtained a proper permit from the state department of natural resources and the city, and without first having paid an occupational tax or regulatory fee, as applicable.
+(Ord. No. 99-05B, art. I, § 4, 10-6-1998)
+Sec. 38-4. - Authorized receptacles and containers required.
+Every person in possession, charge or control of any building from which business trash, industrial waste or other waste is accumulated or produced shall be required to provide and keep in a suitable place, readily accessible to city crews or other licensed and authorized private collectors, authorized public receptacles and containers suitable for the storage of all such waste materials which will normally accumulate between the established collection dates. The city manager or designee shall determine the quantity and location of such receptacles and shall determine whether such receptacles and containers are in a serviceable condition.
+(Ord. No. 99-05B, art. I, § 5, 10-6-1998)
+Sec. 38-5. - Public and private receptacles and containers to be safe.
+All public and private receptacles and containers shall be of safe construction and design and shall be maintained in good, orderly and serviceable condition at all times. The user shall promptly replace any receptacle or container, which does not conform or which has ragged or sharp edges or any other defects likely to hamper or injure the person collecting the contents therefrom or the public generally. If such container, after appropriate notice, has not been replaced, the city manager or designee shall have the right to suspend further collection of such waste material until such time as the container is brought into compliance.
+(Ord. No. 99-05B, art. I, § 6, 10-6-1998)
+Secs. 38-6—38-40. - Reserved.
+ARTICLE II. - ENFORCEMENT
+
+Sec. 38-41. - Responsible agency.
+The city manager or designee shall investigate complaints or violations of any provisions of this chapter. They shall determine if there has been a violation, issue warnings and initiate an attempt to obtain compliance with this chapter by the person in violation thereof.
+(Ord. No. 99-05B, art. II, § 1, 10-6-1998)
+Sec. 38-42. - Initiation of complaint.
+The city manager or designee shall be authorized to sign a complaint or issue a summons against a violator of this chapter.
+(Ord. No. 99-05B, art. II, § 2, 10-6-1998)
+Sec. 38-43. - Civil remedies.
+In case of any violation of this chapter, the city manager or designee, and the city attorney in addition to any other remedies, may institute injunction, mandates or other appropriate proceedings to prevent such violation, to correct or abate such violation.
+(Ord. No. 99-05B, art. II, § 3, 10-6-1998)
+Sec. 38-44. - Suspension of service.
+Upon appropriate notice to the person violating this chapter, the city manager or designee may suspend any service or the use of any facility maintained by the city during the period such violation continues to exist.
+(Ord. No. 99-05B, art. II, § 4, 10-6-1998)
+Sec. 38-45. - Penalty for violation of chapter.
+Any person violating this chapter may be held liable for damages, and the recovery shall be in a sum of not less than $110.00, nor more than $550.00 for each violation. The city attorney may institute a proceeding in any court having jurisdiction thereof to collect such civil penalty. If the violation has been committed by the owner of the property on which the violation occurs, the clerk may further proceed to collect the costs to the city of eliminating, removing or cleaning the premises in the same manner as provided by law for tax executions.
+(Ord. No. 99-05B, art. II, § 5, 10-6-1998)
+Secs. 38-46—38-80. - Reserved.
+ARTICLE III. - PRE-COLLECTION PRACTICES
+
+Sec. 38-81. - Generally.
+The practices and procedures specified in this chapter shall be employed by persons in the city in order to facilitate the collection of solid wastes.
+(Ord. No. 99-05B, art. III, § 1, 10-6-1998)
+Sec. 38-82. - Refuse and garbage.
+All refuse shall be placed and maintained in containers as specified in this chapter. All containers shall be maintained at all times with tight-fitting lids or covers. All garage placed in containers for collection shall first be drained of all liquids, and shall be wrapped, bagged, or enclosed in paper or plastic material.
+(Ord. No. 99-05B, art. III, § 2, 10-6-1998)
+Sec. 38-83. - Household trash.
+All household trash shall be drained of all liquids prior to its being placed in refuse receptacles. Household trash may be combined with garbage.
+(Ord. No. 99-05B, art. III, § 3, 10-6-1998)
+Sec. 38-84. - Injurious trash items.
+All waste materials of an injurious nature, such as broken glass, light bulbs, sharp pieces of metal, fluorescent tubes and television tubes shall be securely packaged or wrapped (used needles shall be placed in hard plastic container with lid) for the purpose of preventing injury to the collection crews or third parties.
+(Ord. No. 99-05B, art. III, § 4, 10-6-1998)
+Sec. 38-85. - Hazardous refuse and building materials.
+No hazardous refuse or building materials shall be placed in any receptacle at any time. The city shall not be required to collect any hazardous refuse or building material. All hazardous refuse shall be secured against the possibility of causing injury to any person and shall not be placed on public property or private property without the written consent of the owner thereof.
+(Ord. No. 99-05B, art. III, § 5, 10-6-1998)
+Cross reference— Buildings and building regulations, ch. 10; environment, ch. 22.
+Sec. 38-86. - Collection limits.
+No residence or business shall place for collection at one time more than five cubic yards or 400 pounds of trash. If the residence or business establishment places trash for collection which exceeds these limits, the residence or business shall be assessed an additional fee in an amount based on the actual cost of equipment, labor, transport or hauling and tippage fees needed for collection and disposal.
+(Ord. No. 99-05B, art. III, § 6, 10-6-1998)
+Sec. 38-87. - Box collection.
+All persons, firms, businesses, institutions or corporations utilizing city pickup of trash at a place of trade or business shall be required to break down any and all boxes, whether made of cardboard, wood, or other material, before placing the boxes into collection bins, receptacles, or other designated and approved collection points. To break down a box, it shall be rendered into a flat shape by whatever means necessary so that it no longer retains its three-dimensional shape and utilizes as little space as possible. Failure to break down boxes shall result in a violation of this chapter or the refusal by city sanitation officials to remove the garbage, or both.
+(Ord. No. 99-05B, art. III, § 7, 10-6-1998)
+Sec. 38-88. - Yard trash, tree and shrubbery trimmings.
+(a)
+It shall be prohibited to place or mix yard trimmings with municipal solid waste within the city. Yard trimmings shall not be disposed at any municipal solid waste disposal facility having a linear and leachate collection system or requiring vertical expansion located within the city. Yard trimmings and small branches shall be sorted in the following manner.
+(b)
+All leaves, clippings and small branches shall be collected and stored in lawn and garden bags no larger than 40 gallons in capacity. All such leaves and trimmings stored in bags shall be placed at the edge of the pavement of any public right-of-way used for road purposes.
+(1)
+All limbs shall be cut into lengths of no more than four feet each and shall be neatly stacked in piles not to exceed an area of four feet by four feet at or near the curb to facilitate easy collection by the city.
+(c)
+If any residence or business establishment places yard trimmings for collection that exceeds these limits, the residence or business shall be assessed an additional fee in the amount based on the actual cost of equipment, labor and tippage fees needed for collection. The city will not pick up yard waste mixed with other debris. Trash other than yard waste must be in a separate stack.
+(Ord. No. 99-05B, art. III, § 8, 10-6-1998; Ord. No. 08-43, 4-1-2008)
+Sec. 38-89. - Felled trees.
+The owner of property on which trees are cut down, whether by the owner or another, is required to remove promptly following the cutting at the owner's expense all tree trunks, logs, limbs, tops or other debris resulting therefrom, when such materials are clearly visible from any public street, alley, sidewalk, lane or path from the property of another that adjoins the property on which the materials are located. Such materials shall not be destroyed or removed by burning.
+(Ord. No. 99-05B, art. III, § 9, 10-6-1998)
+Sec. 38-90. - Trees, shrubbery, branches, and similar growth.
+All individuals, firms, businesses, partnerships, proprietorships or corporations engaged in the business of yard maintenance, landscaping, nursery operation or in the business of trimming or removing trees, shrubbery, or similar growth, who shall contract with the property owner, the owner's agent or occupant to perform services on the property shall remove from the property all sawdust, branches, stumps and all portions of the byproducts of the services performed, as well as all rubbish associated therewith including rocks, concrete, dirt and trimmings.
+(Ord. No. 99-05B, art. III, § 10, 10-6-1998)
+Sec. 38-91. - Removal for compensation.
+It shall be unlawful for any firm, partnership, proprietorship or corporation to trim trees or bushes, do landscaping or yard work for compensation within the city unless the byproduct from those services is immediately removed from the premises and placed or deposited by the contractor in the city designated landfill or hauling station, or unless arrangements are made by the contractor or property owner for yard trimmings removal by the city for a fee. Compensation shall be interpreted to include receiving as compensation the wood, limbs and other residue from such trimming and cutting. Any form of compensation shall place the burden of disposal directly upon the individual or contractor performing the task.
+(Ord. No. 99-05B, art. III, § 11, 10-6-1998)
+Sec. 38-92. - Household furniture and appliances.
+Upon request, the city may, where such service is found to be economical and in the best interest of the general health, safety and welfare, collect, or, arrange for the collection, of normal household furniture and appliances, including sofas, chairs, beds, refrigerators, washers, dryers, hot water heaters and similar items, but not including furnaces. Persons requesting this service shall notify the office of the city manager or designee as to the date the collection will occur. The city shall have the right to set and collect a fee for this service.
+(Ord. No. 99-05B, art. III, § 12, 10-6-1998)
+Sec. 38-93. - Prohibited activities.
+The following activities are declared to be unlawful and in violation of this chapter:
+(1)
+Public streets and private property. No person shall place any accumulations of refuse, trash, or litter in any street, sidewalk, median strip, alley or other public right of way, nor upon any private property, except with the written consent thereof and then only in accordance with the provisions of this chapter.
+(2)
+Blockage of drainage. At no time shall trash be placed in a manner to obstruct drains, utility meters, walkways or streets. It shall be unlawful to use brooms, rakes, blowers or other sweeping, raking or debris removal tools or equipment to sweep, rake, blow or otherwise deposit or accumulate trash, garbage, gardening residue, clippings, limbs, ashes, alluvium, sediment, litter or other debris of any kind in or on city streets, walkways, drains, pipes or gutters. It shall be unlawful to place, accumulate or otherwise deposit any type of the aforementioned debris or material into a city drain, pipe, gutter or other draining conduit or receptacle.
+(3)
+Unauthorized storage. Any accumulation of refuse or trash items, or any litter, on any lot, property, premises, public streets, alley or other public or private place not permitted by this chapter, is declared to be a nuisance. Failure of owner or occupant to remove and correct any such accumulation of refuse after appropriate notice from the city manager or designee shall raise the presumption that such person intended to violate this chapter.
+(4)
+Junk. It shall be unlawful for any person to place or leave outside any building or dwelling, except as specified in section 38-92, any dilapidated furniture, appliance, machinery, equipment, building material, junked motor vehicle, tires or other items which are either in a partially used, wrecked, junked, dismantled or inoperative condition, and which are not completely enclosed within a building or dwelling.
+(5)
+Sweeping and blowing. It shall be unlawful to sweep or blow with a blower, grass clippings, leaves and other debris onto a city sidewalk, gutter or street.
+(6)
+Dumping. It shall be unlawful and in violation of this section to dump, place or leave bricks, blocks, rocks, lumber, asphalt, cement, concrete, concrete products or waste, roofing, sheetrock, leaves, limbs, bushes, trees, roots, dead animals, appliances, equipment, bed springs, mattresses, furniture, fixture, motors, engines, chemical wastes, industrial or commercial waste or rubbish, scrap metal, fence wire, vehicles or parts thereof, tires, building materials or supplies, and inorganic solid material of any type or kind except as authorized herein.
+(7)
+Fires. It shall be unlawful and in violation of this chapter to set any fire to any solid waste, litter or rubbish, or to allow a fire to burn inside or outside of an authorized receptacle, or in any other way attempt to damage or destroy the garbage and solid waste collection containers provided by the city.
+(8)
+Container of another. It shall be unlawful and in violation of this chapter for any person to dump, place or leave any item at a garbage and solid waste collection area or in any collection container unless such person has permission of the owner and/or occupant of the premises on which the area or container is located and such arrangement is authorized by the city manager or designee.
+(9)
+Billboards.
+a.
+It shall be unlawful for owners to fail to maintain billboards in a manner that prevents loose paper, bills and other litter and debris resulting from the use of such signs and billboards. The owners or their agents immediately upon accumulation shall remove any such debris, loose papers, bills and other litter.
+b.
+Any such item or items, which remain on the property of the occupant for a period of 30 days after notice of violation, shall be presumed to be abandoned and subject to being removed from the property by the city without further notice. The city may charge the owner or occupant a fee for the cost of removing such item or items, and may collect the fees for removal as prescribed herein. This section shall not apply to licensed junk dealers or currently licensed establishments engaged in the repair, rebuilding, reconditioning, or salvaging of equipment or furniture.
+(10)
+Scavenging. No person other than the owner thereof or an agent or employee of the city manager or designee shall disturb or interfere with any container used for the purpose of storing refuse pending its collection, remove any contents therefrom, or remove such container from its collection place.
+(Ord. No. 99-05B, art. III, § 13, 10-6-1998)
+Sec. 38-94. - Abandonment.
+Any such item or items, which remain on the property of the occupant for a period of 30 days after notice of violation of this chapter, shall be presumed to be abandoned and subject to being removed from the property by the city without further notice. The city may charge the owner or occupant a fee for the cost of removing such item or items. The clerk may collect any unpaid charge for removal in the same manner as delinquent taxes. This section shall not apply to licensed junk dealers or currently licensed establishments engaged in the repair, rebuilding, reconditioning, or salvaging of equipment or furniture.
+(Ord. No. 99-05B, art. III, § 14, 10-6-1998)
+Secs. 38-95—38-130. - Reserved.
+ARTICLE IV. - COMMERCIAL ESTABLISHMENTS
+
+Sec. 38-131. - Generally.
+All commercial establishments shall store their refuse in containers, as specified in this chapter, to eliminate wind-driven debris and unsightly litter in and about their establishments. Approved methods of containerization shall include refuse receptacles, bulk containers and detachable containers. Such establishment shall immediately clean up any spillage or overflow.
+(Ord. No. 99-05B, art. IV, § 1, 10-6-1998)
+Sec. 38-132. - Loading and unloading areas.
+All loading and unloading areas shall be provided with refuse receptacles for loose debris, paper, packaging materials and other trash. The owner or occupant of the commercial establishment shall place a sufficient number of containers in such area to maintain a clean, neat and sanitary condition at all times. The number of such containers to be placed in service for a particular establishment shall be set by the city manager or designee. The occupant of the premises shall maintain surveillance to ensure that all litter is placed in the proper container and the area is kept clean. The city manager or designee may require refuse receptacles to be screened or buffered or moved if it can be feasibly determined that a loading or unloading area is inadequate, unsanitary or unsightly. If the occupant violates this section where all other remedies have failed, collection service, and at the discretion of the city water service may be suspended until such time as the owner or occupant of the premises brings such premises into full compliance with the provisions of this chapter.
+(Ord. No. 99-05B, art. IV, § 2, 10-6-1998)
+Sec. 38-133. - Construction sites and demolition sites.
+All construction and demolition contractors shall provide on-site refuse receptacles, bulk containers or detachable containers for loose debris, paper, building material waste, scrap building materials and other trash (no hazardous waste shall be deposited in the containers) produced by those working at the construction site. A separate container shall be provided for metal scraps free of all other debris at the construction site. The site shall be kept in a litter-free condition. The number of refuse receptacles (not to exceed four bulk containers, or detachable containers), shall be determined by the size of the job. The designated collection contractor upon completion of the construction shall remove dirt, mud, construction materials or other debris upon any public or private property belonging to a person other than the owner of the construction site.
+(Ord. No. 99-05B, art. IV, § 3, 10-6-1998)
+Secs. 38-134—38-160. - Reserved.
+ARTICLE V. - COLLECTION PRACTICES
+
+Sec. 38-161. - Residential garbage collection.
+Residential garbage collection shall be provided as follows:
+(1)
+Garbage and solid waste at residences within the city shall be collected only by departments and employees of the city, or pursuant to a contract or franchise issued by the city. Removal by persons for hire or compensation is prohibited.
+(2)
+Collections from residential premises shall be made once weekly, with the exception of holidays or in times when such collection is impossible, such as in the event of natural disasters.
+(3)
+Residents shall place garbage for curbside pickup in carts provided by the city. On the evening before each day assigned by the city sanitation department, or its contractor, for collection in the resident's area, the cart will be placed at a curbside point designated by the city sanitation department no earlier than 6:00 p.m. for pick up the next day. The cart will be removed from the curbside point by the resident no later than 8:00 a.m. on the day after the assigned collection date. Failure to remove a cart by 8:00 a.m. on the day after the assigned collection date shall result in a fine of $10.00 per day until the cart is removed. At other times, carts will be stored by the residents where possible in locations not visible from the street or road on which the garage is collected.
+(4)
+The city shall initially provide and bear the cost of the first cart for each residence. In the event the cart is insufficient to contain the garbage for a residence, the resident shall bear the cost of placement of an additional cart at the residence. In the event a cart is lost, stolen or abused, the resident shall bear the cost of placement of another cart at the residence.
+(5)
+In the event the cart is not used for a period of three weeks, then the cart shall be removed from the residence.
+(6)
+Persons having physical handicaps, which prevent them from placing carts at curbsides, shall be exempted from the requirement to place the cart at the curbside. The other requirements for collection and disposal of garbage contained within this chapter will nonetheless apply to persons exempted under this subsection.
+(7)
+Persons required to maintain containers under this chapter shall maintain the containers in a sanitary condition, tightly covered at all times other than filling, emptying and cleaning, and free from odor. Such containers shall be filled in such a manner as to allow pickup by one person, except when hoist type containers are used. Such containers shall be further maintained to prevent the overflow and scattering of trash, garbage, refuse, other solid waste, or water/rainwater.
+(8)
+All apartment buildings or structures containing in excess of six dwelling units are required to use hoist type dumpsters or containers that are compatible for loading by mechanical means by garbage and solid waste collection vehicles maintained by the city sanitation department for the accumulation of garbage by building or structure residents. In apartment buildings or structures containing less than six dwelling units, each occupied dwelling unit, household or apartment within the city shall provide at least one container and shall provide additional containers as required by the city sanitation department.
+(Ord. No. 99-05B, art. V, § 1, 10-6-1998)
+Sec. 38-162. - Garbage collection at commercial establishments.
+Garbage collection at commercial establishments shall be provided as follows:
+(1)
+Commercial garbage and solid waste shall be collected and disposed pursuant to a contractual agreement entered into by a private garbage and solid waste collection and disposal service and the city, as evidenced by a written agreement approved by the mayor and council. A copy of such contractual agreement shall remain in the office of the clerk and be available for inspection by members of the public during the clerk's regular office hours.
+(2)
+Collections from businesses and commercial enterprises within the city shall be at times as established by the mayor and council and set out in the contractual agreement with the private garbage and solid waste disposal referenced in subsection (1) of this section.
+(3)
+Service to commercial establishments will be provided by a schedule that is provided by the sanitation superintendent. Such collections shall be limited to a maximum of two refuse receptacles per collection or the standard bulk container to be collected by a private contractual agency, as contemplated by subsection (1) of this section.
+(Ord. No. 99-05B, art. V, § 2, 10-6-1998)
+Sec. 38-163. - Industrial waste.
+Industrial waste shall be collected, removed and disposed of by any factory, plant or enterprise creating or causing such waste.
+(Ord. No. 99-05B, art. V, § 3, 10-6-1998)
+Sec. 38-164. - Hazardous refuse.
+No hazardous refuse shall be placed in any receptacle used for collection of refuse by the city.
+(Ord. No. 99-05B, art. V, § 4, 10-6-1998)
+Sec. 38-165. - Dead animals.
+Small dead animals will be collected by the city during operating hours of the city/county landfill or hauling station, provided the body is appropriately wrapped and isolated in an area readily accessible to the collector. Owners of large dead animals shall be responsible for their removal and disposal.
+(Ord. No. 99-05B, art. V, § 5, 10-6-1998)
+Cross reference— Animals, ch. 6.
+Sec. 38-166. - Building materials.
+The city shall not be responsible for the collecting preliminary to, during or subsequent to the construction of a new building, alteration or additions to an existing building or of any kind of construction of any and all refuse, trash, debris resulting therefrom as well as from demolition of existing structures. Such material shall be removed by the owner of the property or by the contractor.
+(Ord. No. 99-05B, art. V, § 6, 10-6-1998)
+Cross reference— Buildings and building regulations, ch. 10.
+Secs. 38-167—38-200. - Reserved.
+ARTICLE VI. - SPECIAL REFUSE DISPOSAL
+
+Sec. 38-201. - Contagious disease refuses.
+Clothing, bedding or other refuse from places where highly infectious diseases have prevailed shall be decontaminated prior to removal under the supervision and direction of the county health department. Such refuse shall not be placed in receptacles or bulk containers for the city collection until decontaminated.
+(Ord. No. 99-05B, art. VI, § 1, 10-6-1998)
+Sec. 38-202. - Hypodermic instruments.
+No person shall dispose of or discard any hypodermic needle or any instrument or device for making hypodermic injections before first breaking, disassembling, destroying or otherwise rendering inoperable and incapable of re-use, such hypodermic syringe, needle, instrument or device, and without safeguarding the disposal thereof, by securely placing in plastic container with lid so as to avoid the possibility of causing injury to the collection personnel.
+(Ord. No. 99-05B, art. VI, § 2, 10-6-1998)
+Secs. 38-203—38-230. - Reserved.
+ARTICLE VII. - DISPOSAL SITES
+
+Sec. 38-231. - Use authorized; regulations.
+All yard trimmings and other acceptable refuse shall be delivered and deposited at authorized public disposal sites in accordance with the directions and orders of the city manager or designee or representative in charge of operations; except, however, privately operated sites may be used for the sanitary disposal of industrial wastes or other specified waste upon the approval of the city manager or designee and upon the issuance of appropriate disposal permits, as required by the regulations of the state department of natural resources and/or the federal Environmental Protection Agency. The city manager or designee or his representative shall be authorized to promulgate appropriate regulations requiring disposal site users to classify and separate deposits.
+(Ord. No. 99-05B, art. VII, § 1, 10-6-1998)
+Sec. 38-232. - Designation of sites.
+(a)
+Public sites approved for the disposal of yard trimmings and other acceptable refuse shall be identified by appropriate directional signs posted near the roadside and at the location of the city inert landfill.
+(b)
+Such sites shall be maintained in use until permanently closed, at which time additional authorized sites shall be opened and publicized by posting and through public advertisements.
+(c)
+The mayor and council may restrict certain sites or portions thereof to a specific type or types of yard trimmings or refuse.
+(d)
+Commercial collectors, including yard maintenance men, may use the public designated sites.
+(e)
+Residents of the city, other than commercial collectors, may use public sites, in accordance with the regulations for the particular site and under the instruction of the site attendant.
+(Ord. No. 99-05B, art. VII, § 2, 10-6-1998)
+Sec. 38-233. - Operating schedule.
+Authorized public disposal sites shall be operated on a schedule as established by the city manager or designee during the hours designated. Acceptable refuse generated in the city shall be received for disposal from any resident of the city.
+(Ord. No. 99-05B, art. VII, § 3, 10-6-1998)
+Sec. 38-234. - When use authorized; ownership of waste.
+No person shall enter a disposal site except when an attendant is present and during the hours and days prescribed in this chapter. Only residents of or businesses with locations in the city shall be allowed to use or dispose of yard trimmings at the disposal sites, and only yard trimmings generated within the city will be accepted.
+(Ord. No. 99-05B, art. VII, § 4, 10-6-1998)
+Sec. 38-235. - Classification of refuse for disposal; domestic refuse.
+The following types of refuse shall be classed as "domestic refuse" and shall be accepted for disposal: Yard trimmings as described in section 38-1.
+(Ord. No. 99-05B, art. VII, § 5, 10-6-1998)
+Sec. 38-236. - Permit required for private sites.
+It shall be unlawful for any person to deposit or permit to be deposited on land under his ownership and control any refuse without first having obtained a disposal area permit as required by any regulation of the state department of natural resources, the federal Environmental Protection Agency and the city.
+(Ord. No. 99-05B, art. VII, § 6, 10-6-1998)
+Sec. 38-237. - General maintenance.
+It shall be the duty and responsibility of the owner of any private disposal site to keep the site in an orderly condition and maintained so as not to be public nuisance or menace to public health.
+(Ord. No. 99-05B, art. VII, § 7, 10-6-1998)
+Sec. 38-238. - Right to enter to inspect.
+The city manager or designee shall have the right to enter a private disposal site at any time during normal business hours for the purpose of inspecting the site to determine whether or not the site is in compliance with this chapter and all other pertinent laws and regulations of the city.
+(Ord. No. 99-05B, art. VII, § 8, 10-6-1998)
+Sec. 38-239. - Disposal locations.
+(a)
+No person shall dispose of garbage, trash, commercial waste or other garbage or solid waste at any location within the limits of the city except in authorized containers for collection by city departments or its contractual assigns at an approved landfill or hauling station located outside of the city. Only residents of or businesses with locations in the city shall be allowed to use or dispose of waste at the disposal sites, and only waste generated within the city or county will be accepted.
+(b)
+It shall be unlawful for any person to throw or cast any garbage or solid waste, rubbish, trash, filth or litter of any nature into the streets, sidewalks, lanes, squares or thoroughfares of the city.
+(c)
+It shall be unlawful for any person to throw, sweep, cast or otherwise put or place any straw, paper, cans, bottles, broken glass, decaying vegetables or fruit or other decaying vegetation, rubbish, garbage or solid waste on any vacant lot within the limits of the city.
+(d)
+It shall be unlawful for any person owning or occupying any lot, tract or parcel of land or premises within the city to permit the growth thereon of weeds or noxious vegetation to such extent that such vegetation constitutes a public health, safety or welfare concern.
+(Ord. No. 99-05B, art. VII, § 9, 10-6-1998)
+Sec. 38-240. - Fire hazards.
+(a)
+It shall be unlawful to place ashes within any building in any box, barrel or other wooden vessel or upon any wooden vessel or floor.
+(b)
+It shall be unlawful to keep, maintain or permit to be kept on any premises within the city oily waste or oily rags unless, at all times when not actually in use, such oily waste and rags are kept in a metal can or container with a self-closing cover and riveted joints, standing on metal legs which raise the bottom of the container at least four inches above the floor.
+(c)
+All owners or occupants of buildings are required to permit the Chief of the Fire Department or his designated agent to inspect or to have inspected their buildings or premises to determine compliance with subsections (a) and (b) of this section.
+(Ord. No. 99-05B, art. VII, § 10, 10-6-1998)
+Sec. 38-241. - Transportation of trash, garbage and refuse.
+(a)
+All persons hauling or transporting trash, garbage, refuse or other debris to the city landfill or hauling station shall transport same in such a way as to prevent trash, leaves, limbs, paper, garbage, refuse or other debris from falling from a vehicle transporting the same or from blowing off of the vehicles so as to fall in the public streets of the city or in the ditches or yards adjacent to such streets. Vehicles transporting such materials shall have suitable covers, such as a tarp, securely fastened to the vehicle.
+(b)
+Such material being transported to the city landfill or hauling site shall be packed in the vehicle transporting it so that it will not fall off or blow out and shall have suitable covers securely fastened to the vehicle to prevent littering of the streets and yards of the city.
+(c)
+This section shall not apply to the transportation of poultry, livestock, silage or other feed grain used in the feeding of poultry or livestock.
+(Ord. No. 99-05B, art. VII, § 11, 10-6-1998)
+Sec. 38-242. - Littering.
+It shall be unlawful for any individual, whether as a pedestrian or traveling in a motor vehicle, to deposit, place or throw litter on to any public property or right of way, or upon private property within the city.
+(Ord. No. 99-05B, art. VII, § 12, 10-6-1998)
+Sec. 38-243. - Maintenance of litter.
+The owner or person in control of any private property shall at all times maintain the premises free of litter; provided, however, that this does not prohibit the storage of litter in authorized receptacles or containers.
+(Ord. No. 99-05B, art. VII, § 13, 10-6-1998)
+Sec. 38-244. - Placement of litter in receptacles to prevent scattering.
+Persons placing litter in public receptacles or in authorized private receptacles shall do so in such a manner as to prevent it from being carried or deposited by the elements upon any street, sidewalk, or other public place or upon private property.
+(Ord. No. 99-05B, art. VII, § 14, 10-6-1998)
+Secs. 38-245—38-280. - Reserved.
+ARTICLE VIII. - SCRAP TIRES
+
+Sec. 38-281. - Storage.
+Except as otherwise provided in within this chapter, no person may store more than 100 scrap tires anywhere in the city. Any persons storing in excess of 100 scrap tires shall be deemed to be in violation of this chapter. All scrap tires must be stored in shipping containers, storage building or in an enclosed fenced (privacy) area and covered to prevent accumulation of rain water in scrap tires. The following exemptions shall apply:
+(1)
+A solid waste disposal site permitted by the EPD if the permit authorizes the storage of scrap tires prior to their disposal;
+(2)
+A retail tire dealer who stores not more than 2,000 scrap tires in a shipping container and not more than 1,000 scrap tires in storage, provided such a retail tire dealer complies with EPD Rule 391-3-4-.19(3);
+(3)
+A tire retreader with not more than 1,500 scrap tires in storage so long as the scrap tires are of the type the retreader is actively retreading;
+(4)
+An auto salvage yard with not more than 500 scrap tires in storage; and
+(5)
+A scrap tire processor approved by the EPD so long as the number of scrap tires in storage does not exceed the quantity approved by the EPD.
+(Ord. No. 99-05B, art. VIII, § 1, 10-6-1998; Ord. No. 08-48, 6-3-2008)
+Sec. 38-282. - Staging and/or processing.
+(a)
+All scrap tire processing or disposal facilities which stage scrap tires or processed tires outdoors must comply with the following standards:
+(1)
+An outdoor scrap tire pile or processed tire pile will have no greater than the following maximum dimensions: Width: 50 feet; area: 10,000 square feet; and height: 15 feet.
+(2)
+A 50-foot wide fire lane must be placed around the perimeter of each scrap tire pile and must have uninhibited access from a public road. Access to the fire lane for emergency vehicles must be unobstructed at all times. In the event of fire, the owner or operator shall, upon receipt of notification of a fire, immediately take all necessary steps to control and extinguish the fire, including all oil and other residue created by the fire.
+(3)
+The owner or operator will control mosquitoes and rodents.
+(b)
+Processors staging scrap tire indoors or outdoors must meet the following standards:
+(1)
+No operations involving the use of open flames will be conducted within 25 feet of a scrap tire pile.
+(2)
+A 50-foot wide approach and access road to the scrap tire processing facility must be kept passable for any motor vehicle at all times.
+(3)
+The facility must be secured from public access during nonoperating hours by the use of fences, gates or other means.
+(4)
+An attendant must be present when the scrap tire processing is open for business if the facility receives tires from persons other than the operator of the facility.
+(5)
+The facility must be bermed or given other adequate protection to keep liquid runoff from a potential tire fire from entering the waters of the state.
+(6)
+Prior to origination of operation, fire protection services for the facility must be assured by notifying the city fire department. A fire safety survey must be conducted.
+(7)
+Communication equipment must be maintained in proper working order at the scrap tire processing facility to ensure that the facility operator can contact local fire protection authorities in case of fire.
+(8)
+The scrap tire processing facility must be kept free of long grass, underbrush and other potentially flammable vegetation at all times.
+(9)
+The operator of the facility must prepare and keep at the facility an emergency preparedness manual. The manual must be updated at least once annually or within 30 days upon changes in operations at the site. The manual must contain the following elements:
+a.
+A list of names and numbers of persons to be contacted in the event of a fire, flood or other emergency;
+b.
+A list of the emergency response equipment at the facility, its location, and how it should be used in the event of a fire or other emergency.; and
+c.
+A description of the procedures that should be followed in the event of a fire, including procedures to contain and dispose of the oily material generated by the combustion of large numbers of tires.
+(c)
+Any residuals from scrap tire processing must be managed to be contained on-site and must be controlled and disposed of in a permitted solid waste handling facility or be properly recycled.
+(d)
+A scrap tire processing facility may not accept any scrap tires for processing if it has reached its approved or allotted staging limit. At least 75 percent of both the scrap and processed tires that are accumulated by the scrap tire processing facility each calendar quarter and 75 percent by weight or volume of all scrap tires previously received and not recycled, reused or properly disposed during the preceding calendar quarter must be processed and removed from the facility for disposal or recycling during the quarter or disposed of in a permitted solid waste handling facility.
+(Ord. No. 99-05B, art. VIII, § 2, 10-6-1998)
+Sec. 38-283. - Reuse and recycling of scrap tires.
+(a)
+All scrap tires or processed scrap tires must be used, reused or recycled in accordance with this chapter. For purposes of this chapter, the following criteria will be used to determine if scrap tires are being used, reused or recycled:
+(1)
+The scrap tires or processed scrap tires have a known use, reuse or recycling potential;
+(2)
+The scrap tires or processed scrap tires have been feasibly used, reused or recycled;
+(3)
+The scrap tires or processed scrap tires have been diverted or removed from the solid waste stream for sale, use, reuse, or recycling whether or not requiring subsequent separation and processing; and
+(4)
+The scrap tires or processed scrap tires must either be:
+a.
+Employed as an ingredient (including use as an intermediate) in a process to make a product (for example, utilizing crumb rubber to make rubber asphalt);
+b.
+Employed in a particular function or application as an effective substitute for a commercial product (for example, utilizing shredded tires as a substitute for fuel oil, natural gas, coal, or wood in a boiler or industrial furnace) as long as such substitution does not pose a threat to human health or the environment, and so long as the facility is not a solid waste thermal treatment technology facility or utilizing shredded tires as a soil amendment, aggregate, etc.; or
+c.
+Reused for its original intended purpose as a used tire or reused for other purposes approved by the EPD, such as playground equipment, offshore reefs, erosion control, etc.
+(b)
+Scrap tires or processed scrap tires may not be "accumulated speculatively." Scrap tires or processed scrap tires are not "accumulated speculatively" if:
+(1)
+There is a known use, reuse or recycling potential for them as shown by:
+a.
+Proof of a known market or disposition of the scrap tires or processed scrap tires; and
+b.
+Proof that the necessary equipment is available prior to receiving the scrap tires for processing;
+(2)
+They can be feasibly sold, used, reused or recycled; and
+(3)
+During the preceding 90 days, the amount of scrap tires or processed tires recycled, sold, used or reused equals at least 75 percent by weight or volume of the tires received during the 90-day period. Proof of recycling, sale, use or reuse shall be provided in the form of bills of sale, or other records showing adequate proof of movement of the scrap tires in question to a recognized recycling facility or for proper use or reuse from the accumulation point.
+(c)
+A scrap tire is "sold" if the generator of the scrap tire or the person who processed the scrap tire received consideration or compensation for the material because of its inherent value.
+(Ord. No. 99-05B, art. VIII, § 3, 10-6-1998)
+Sec. 38-284. - Scrap tire generators.
+(a)
+Any person who generates scrap tires shall have a scrap tire generator identification number (ID#) issued by the environmental protection division. The ID number shall be used on scrap tire shipment manifests. Separate ID numbers shall be required for generators having multiple generation locations.
+(b)
+Generators shall initiate a manifest to transport scrap tires from the point of generation to an end user or to a scrap tire processing or disposal facility approved by the environmental protection division. The manifest shall include the following information:
+(1)
+Name and ID number of the generator;
+(2)
+Number of total tons (accurate to within ten percent of actual number) of scrap tires to be transported;
+(3)
+Name and permit number of the scrap tire carrier;
+(4)
+Date of transport; and
+(5)
+Destination of scrap tires.
+(c)
+If a generator chooses to use tons of tires rather than actual numbers of tires on the manifest for passenger and truck tires, the following conversion factor must be used:
+Passenger tires: 2,000 lbs. (one ton) = 100 tires, @ 20 lbs./tire.
+Truck tires: 2000 lbs. (one ton) = 20 tires, @ 100 lbs./tire.
+(d)
+Unless otherwise approved in writing by the environmental protection division, generators shall ensure that any person collecting and transporting their scrap tires hold a valid scrap tire carrier permit issued by the environmental protection division; provided, however, that a person who generates less than 100 tires per month and who transport only their own scrap tire to approved end users, processors, recyclers or disposers are not required to have a scrap tire carrier permit, but must comply with all other provisions required of generators and scrap tire carriers.
+(e)
+Generators shall maintain receipts (copies of completed manifest) for a period of three years.
+(f)
+A generator shall report to the environmental protection division any carrier who fails to return a properly completed manifest to the generator within 30 days of scrap tire pickup. Such report shall be filed within 30 days of failure of the carrier to comply.
+(g)
+Generators may choose to determine whether a tire, because of wear, damage, or defect is not suitable for classification as a "used tire" or "retreadable casing" as defined in section 38-1. However, if a generator fails to sort or delineate which tires are "used," "retreadable casings," or "scrap tires," then all tires transported shall be considered scrap tires and must be indicated as such on the shipment manifest.
+(Ord. No. 99-05B, art. VIII, § 4, 10-6-1998)

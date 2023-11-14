@@ -1,0 +1,748 @@
+Chapter 22A - STORMWATER MANAGEMENT
+ARTICLE I. - GENERAL PROVISIONS
+
+Sec. 22A-1. - Findings of fact.
+It is hereby determined that:
+a.
+Land development projects and associated changes in the landscape alter the hydrologic response of local watersheds and increase stormwater runoff rates and volumes, flooding, stream channel erosion, and sediment transport and deposition;
+b.
+This stormwater runoff contributes to increased quantities of water-borne pollutants; and
+c.
+Stormwater runoff, soil erosion and nonpoint source pollution can be controlled and minimized through the regulation of stormwater runoff from existing and future development sites.
+Therefore, the city establishes this set of water quality and quantity policies applicable to all surface waters to provide reasonable guidance for the regulation of stormwater runoff for the purpose of protecting local water resources from degradation. It is determined that the regulation of stormwater runoff discharges from land development projects and other construction activities in order to control and minimize increases in stormwater runoff rates and volumes, soil erosion, stream channel erosion, and nonpoint source pollution associated with stormwater runoff is in the public interest and will prevent threats to public health and safety.
+(Ord. No. 984, § 1(22A-1), 12-13-2006)
+Sec. 22A-2. - Purpose.
+The purpose of this chapter is to establish minimum stormwater management requirements and controls to protect and safeguard the general health, safety, and welfare of the public residing in watersheds within this jurisdiction. This article seeks to meet that purpose through regulation of activities that can through proper regulation improve and maintain those water resources that lie partially or wholly within the jurisdictional boundaries of the city.
+(Ord. No. 984, § 1(22A-2), 12-13-2006)
+Sec. 22A-3. - Compatibility with other permit and ordinance requirements.
+This chapter is not intended to interfere with, abrogate, or annul any other ordinance, rule or regulation, stature, or other provision of law. The requirements of this ordinance should be considered minimum requirements, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule or regulation, or other provision of law, whichever provisions are more restrictive or impose higher protective standards for human health or the environment shall be considered to take precedence.
+(Ord. No. 984, § 1(22A-3), 12-13-2006)
+Sec. 22A-4. - Responsibility for administration.
+Unless otherwise stated, the city public works director (hereafter referred to as director) shall administer, implement, and enforce the provisions of this article. Any powers granted or duties imposed upon the director may be delegated in writing by the director of public works to persons or entities acting in the beneficial interest of or in the employ of the city.
+(Ord. No. 984, § 1(22A-4), 12-13-2006)
+Sec. 22A-5. - Ultimate responsibility.
+The standards set forth herein and promulgated pursuant to this article unless otherwise noted are minimum standards; therefore this ordinance does not intend nor imply that compliance by any person will ensure that there will be no contamination, pollution, nor unauthorized discharge of pollutants.
+(Ord. No. 984, § 1(22A-5), 12-13-2006)
+Sec. 22A-6. - Definitions.
+modified
+When used in this article, the following words and phrases shall have the meaning given in this section. Words not defined herein shall be construed to have a meaning given by common and ordinary use as defined by Webster's Third New International Dictionary, copyright 1970. The term "shall" is mandatory. When not inconsistent with the context, words used in the singular number include the plural and those used in the plural number include the singular. Words used in the present tense include the future. The following definitions shall apply in the interpretation and enforcement of this article, unless otherwise specifically stated:
+As-built drawings means amended site plans specifying the locations, dimensions, elevations, capacities and operational capabilities of road and drainage structures and facilities as they have been constructed.
+Best management practices (BMPs) shall mean structural devices to store or treat stormwater runoff or nonstructural programs or practices both of which are designed to prevent or reduce the pollution of the waters of the state and provide other amenities.
+Buffer means an area along the course of any state waters or declared city waterway to be maintained in an undisturbed and natural condition.
+Coastal Stormwater Supplement (CSS) to the Georgia Stormwater Management Manual (GSMM) shall mean the latest edition of all volumes of the CSS, a technical design supplement to the GSMM that was developed for coastal Georgia. The CSS addresses stormwater management practices and BMPs that are specific and applicable to coastal stormwater quantity and quality issues.
+Construction means any alteration of land for the purpose of achieving its development of changing use, including particularly any preparation for, building of, or erection of a structure.
+Cut means a portion of land surface or area from which earth has been removed or will be removed by excavation; the depth below original ground surface to excavated surface. Also known as excavation.
+Design storm means the rainfall event of such size and frequency as described in the Georgia Stormwater Management Manual or local design manual, which is used for the design of stormwater facilities.
+Developer means any person who acts in his own behalf or as the agent of any owner of property and engages in alteration of land or vegetation in preparation for construction activity.
+Development means any action in preparation for construction activities which result in alteration of either land or vegetation other than such minor land disturbing activities as home gardens and individual home landscaping repairs or maintenance work which result in minor soil erosion.
+Drainage means a general term applied to the removal of surface or subsurface water from a given area either by gravity or by pumping, commonly applied herein to surface water.
+Drainage structure means any stormwater conveyance structure as defined below, and any piping or ditching for stormwater management purposes.
+Drainage system means the surface and subsurface system for the removal of water from the land, including both the natural elements of streams, marshes, and ponds, whether of an intermittent or continuous nature, and the manmade element which includes culverts, ditches, channels, retention facilities and the storm sewer system.
+DRT means the group of departmental representatives assigned by the city manager to meet periodically and review construction, subdivision, and other plans, also referred to as the "development review team."
+Erosion means the process by which land surface is worn away by the action of wind, water, ice or gravity.
+Flood means a temporary rise in the level of rivers, streams, lakes, marshes and ocean, which results in inundation of areas not ordinarily covered by water.
+Floodplain means any land area susceptible to being inundated by flood waters from any source.
+Georgia Stormwater Management Manual (GSMM) means the latest edition of all volumes of the GSMM, a technical guidance document governing stormwater management design, construction and long-term maintenance activities in Georgia.
+Grading means altering ground surfaces to specified elevations, dimensions, and/or slopes; this includes stripping, cutting, filling, stockpiling and shaping or any combination thereof and shall include the land in its cut or filled condition.
+Hazardous materials means any material, including any substance, waste, or combination thereof, which because of its quantity, concentration, or physical, chemical, or infectious characteristics may cause, or significantly contribute to, a substantial present or potential hazard to human health, safety, property, or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
+Hotspot means an area where the land use or activities generate or have the potential to generate highly contaminated runoff, with concentrations of pollutants in excess of those typically found in stormwater.
+Illicit connections shall mean any manmade conveyance connecting a discharge directly to a MS4.
+Illicit discharge means any discharge as defined in 40 CFR Part 122.26(b)(2) to a MS4 that is not entirely composed of stormwater, except those discharges authorized under a NPDES permit (other than the NPDES permit for discharges from the MS4) and discharges resulting from fire-fighting activities.
+Impervious surface means a manmade structure or surface which prevents the infiltration of stormwater into the ground below the structure or surface. Structures or surfaces which are constructed so as to only minimally affect the infiltration of stormwater are not considered impervious surfaces.
+Industrial activity means activities subject to NPDES industrial permits as defined in 40 CFR, section 122.26 (b)(14).
+Infiltration means the process of percolating stormwater runoff into the underlying native soils.
+Land disturbing activity means any activity which results in changes in the volume or flow rates of rainfall runoff, soil erosion from water or wind; or the movement of sediments into state waters or onto land within the state, including, but not limited to, clearing, dredging, grading, excavating, transporting, and filling of land.
+Live retention means that quantity of water capable of being effectively contained by a designated facility for stormwater storage for a specified period of time.
+Lot means a tract, portion or parcel of land separated from other tracts, portions or parcels by description on a subdivision plat of record or survey map or described by metes and bounds, and intended to be used to facilitate transfer of ownership or for building development. For the purposes of this chapter, the term does not include any portion of a dedicated right-of-way.
+Maintenance of stormwater facility means preserving the enclosing walls or impounding embankment of the retention facility in good condition; ensuring structural soundness, functional adequacy and freedom from sediment; and rectifying any unforeseen erosion problems.
+Municipal separate storm sewer system (MS4) means a conveyance or system of conveyances including roads with drainage systems, municipal streets, catch basins, curbs, gutters, ditches, swales, manmade channels or storm drains, owned or operated by a municipality or other public, designed or used for collecting or conveying storm water runoff and is not a combined sewer or part of a publicly owned treatment works.
+National pollutant discharge elimination system (NPDES) stormwater discharge permit means a permit issued by the U.S. Environmental Protection Agency (or by the state under authority delegated pursuant to 33 USC § 1342(b) that authorizes the discharge of pollutants to waters of the United States, whether the permit is applicable on an individual, group, or general area-wide basis.
+Natural ground surface means the ground surface in its original state before any grading, excavation or filling.
+Nephelometric turbidity units (NTU) shall mean numerical units of measure based upon photometric analytical techniques for measuring the light scattered by finely divided particles of a substance in suspension. This technique is used to estimate the extent of turbidity in water in which colloidally dispersed particles are present.
+Nonstormwater discharge means any discharge to the storm drain system that is not composed entirely of stormwater.
+Permit means the authorization necessary to conduct a land-disturbing activity under the provisions of this article.
+Person means any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, state agency, municipality, or other political subdivision of this state, any interstate body or any other legal entity.
+Pollutant means any impurity or waste material that degrades the physical, chemical, biological or radiological integrity of surface or subsurface waters.
+Pollution means the contamination or other significant alteration of any water's physical, chemical or biological properties, including, but not limited to, a change in temperature, taste, color, turbidity, or odor of such waters or the discharge of any liquid, gaseous, solid, radioactive, or other substance into any such waters as will or is likely to render such waters harmful, detrimental or injurious to the public health, safety or welfare or to domestic, commercial, industrial, agricultural, recreational, or other legitimate beneficial uses, or to livestock, wild animals, birds, fish or other aquatic life.
+Pretreatment means the onsite reduction of the amount of pollutants, the elimination of pollutants, or the alteration of the nature of pollutant properties in stormwater prior to or in lieu of discharging or otherwise introducing such pollutants into the publicly owned drainage system.
+Project means the entire proposed development project regardless of the size of the area of land to be disturbed.
+Right-of-way shall mean a strip or parcel of land occupied by or intended to be occupied by a street, crosswalk, pedestrian path, cart path, utility system, water main, sanitary sewer or storm drain sewer main, drainage ditches and watercourses or any other valid public use. The usage of the term "right-of-way" for land platting purposes shall mean that every right-of-way hereafter established and shown on a record or final plat is to be separate and distinct from the lots or parcels adjoining such right-of-way, and not included within the dimensions or areas of such other lots or parcels. Rights-of-way intended for streets, crosswalks, water mains, sanitary sewers, storm drains or other use involving maintenance by a public [agency, shall be dedicated or deeded to public] use by the maker of the plat on which such right-of-way is established.
+Sediment means solid material, both organic and inorganic, that is in suspension, is being transported, or has been moved from its site of origin by air, water, ice, or gravity as a product of erosion.
+Sedimentation means the action or process of forming or depositing sediment.
+Stormwater means any surface flow, runoff, and drainage consisting entirely of water from any form of natural precipitation, and resulting from such precipitation.
+Stormwater facility means a facility which provides for storage of stormwater runoff and controlled release of this runoff during and after a flood storm.
+Stormwater runoff means the portion of a precipitation on the land which reaches the drainage system.
+Stream means natural, running water flowing continuously or intermittently in a channel on or below the surface of the ground.
+Structure means anything constructed or erected, the use of which requires a location on the ground, or attached to something having a location on the ground, including, but not limited to, tennis courts, fences, swimming pools, and buildings.
+Subdivision includes all divisions of a tract or parcel of land into two or more lots, building sites, or other divisions for the purposes, whether immediate or future, of sale, gift, or building development and includes all divisions or development of land involving a new street or a change in an existing street. It shall also include resubdivision, the process of subdividing and the land or area subdivided; provided, however, divisions of land into parcels of five acres or more where no new street is involved are not included in this definition.
+Watercourse means any natural or man-made conveyance channel, stream, river, creek, channel, ditch, swale, canal, conduit, culvert, drain, waterway, gully, ravine, or wash in which stormwater flows either continuously or intermittently and which has a definite channel, bed and banks, and including any areas adjacent thereto subject to inundation by reason of overflow or floodwater.
+(Ord. No. 984, § 1(22A-6), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-7. - Severability.
+new
+The provisions of this chapter are hereby declared to be severable. If any provision, clause, sentence, or paragraph of this chapter or the application thereof to any person, establishment, or circumstance shall be held invalid, such invalidity shall not affect the other provisions or application of this chapter.
+(Ord. No. 1069, § 1, 12-2-2020)
+Secs. 22A-8—22A-20. - Reserved.
+new
+ARTICLE II. - ILLICIT DISCHARGE PROHIBITION
+
+Sec. 22A-21. - Purpose.
+The purpose of this article is to provide for the health, safety, and general welfare of the citizens of the city through the regulation of non-stormwater discharges to the storm drainage system to the maximum extent practicable. The objectives of this article are:
+a.
+To regulate the contribution of pollutants to the municipal separate storm sewer system (MS4) by stormwater discharges by any user.
+b.
+To prohibit illicit connections and discharges to the MS4.
+c.
+To establish legal authority to carry out all inspection; surveillance and monitoring; and enforcement procedures as necessary to ensure compliance with this article.
+(Ord. No. 984, § 1(22A-7), 12-13-2006)
+Sec. 22A-22. - Applicability.
+This article shall apply to all non-stormwater discharges entering the storm drain system generated on any developed or undeveloped lands unless explicitly exempted by the city.
+(Ord. No. 984, § 1(22A-8), 12-13-2006)
+Sec. 22A-23. - Prohibition of illegal discharges.
+No person shall discharge or cause to be discharged into the MS4 or watercourses any materials, including but not limited to pollutants or waters containing any pollutants that cause or contribute to a violation of applicable water quality standards, other than stormwater.
+The commencement, conduct or continuance of any illegal discharge to the storm drain system is prohibited except as described as follows:
+a.
+The following discharges are exempt from discharge prohibitions established by this article: water line flushing or other potable water sources, landscape irrigation or lawn watering, rising ground water, ground water infiltration to storm drains, uncontaminated pumped ground water, foundation or footing drains (not including active groundwater dewatering systems), crawl space pumps, air conditioning condensation, springs, non-commercial washing of vehicles, natural riparian habitat or wetland flows, swimming pools (if dechlorinated - less than one PPM chlorine), fire fighting activities, and any other water source not containing pollutants.
+b.
+Discharges specified in writing by the director as being necessary to protect public health and safety.
+c.
+Dye testing is an allowable discharge, but requires a verbal notification to the director prior to the time of the test followed by written notice within ten days.
+d.
+Any non-stormwater discharge permitted under an NPDES permit, waiver, or waste discharge order issued to the discharger and administered under the authority of the Federal Environmental Protection Agency, provided that the discharger is in full compliance with all requirements of the permit, waiver, or order and other applicable laws and regulations, and provided that approval has been granted for any discharge to the storm drain system.
+e.
+Any stormwater discharge regulated under an NPDES stormwater discharge permit for industrial activities provided that the discharger is in full compliance with all requirements of the permit. Proof of compliance with said permit may be required in a form acceptable to the director prior to the allowing of discharges to the MS4.
+f.
+Any stormwater discharge regulated under an NPDES stormwater discharge permit for construction activities or other local land disturbance permit provided that the discharger is in full compliance with all requirements of the permit. Proof of compliance with said permit may be required in a form acceptable to the director prior to the allowing of discharges to the MS4.
+(Ord. No. 984, § 1(22A-9), 12-13-2006)
+Sec. 22A-24. - Prohibition of illicit connections.
+The construction, use, maintenance or continued existence of illicit connections to the MS4 or watercourses is prohibited. This prohibition expressly includes, without limitation, illicit connections made in the past, regardless of whether the connection was permissible under law or practices applicable or prevailing at the time of connection. A person is considered to be in violation of this article if a person connects a line conveying any material to the MS4, allows such a connection to continue without a permit from the city, or alters the existing flow of any watercourse.
+(Ord. No. 984, § 1(22A-10), 12-13-2006)
+Sec. 22A-25. - Suspension due to illicit discharges in emergency situations.
+The director may, without prior notice, suspend MS4 discharge access to a person when such suspension is necessary to stop an actual or threatened discharge that presents or may present imminent and substantial danger to the environment, or to the health or welfare of persons, or to the MS4 or waters of the United States. If the violator fails to comply with a suspension order issued in an emergency, the director may take such steps as deemed necessary to prevent or minimize damage to the MS4 or waters of the United States, or to minimize danger to persons.
+(Ord. No. 984, § 1(22A-11), 12-13-2006)
+Sec. 22A-26. - Suspension due to the detection of illicit discharge.
+Any person discharging to the MS4 or watercourses in violation of this article may have their MS4 access terminated if such termination would abate or reduce an illicit discharge. The director will notify a violator of the proposed termination of its MS4 access. The violator may petition the director for a reconsideration and hearing. A person commits an offense if the person reinstates MS4 access to premises terminated pursuant to this section, without the prior approval of the public works director.
+(Ord. No. 984, § 1(22A-12), 12-13-2006)
+Sec. 22A-27. - Access to facilities.
+modified
+This section applies to all facilities that have stormwater discharges associated with industrial activity, including construction activity.
+(a)
+The director or designated representatives shall be permitted to enter and inspect facilities subject to regulation under this article as often as may be necessary to determine compliance with this article. If a discharger has security measures in force, which require proper identification and clearance before entry into its premises, the discharger shall make the necessary arrangements to allow access to representatives of the city.
+(b)
+Facility operators shall allow city personnel ready access to all parts of the premises for the purposes of inspection, sampling, examination and copying of records that must be kept under the conditions of an NPDES permit to discharge stormwater, and the performance of any additional duties as defined by state and federal law.
+(c)
+The director shall have the right to set up on any permitted facility such devices as are necessary in the opinion of the director to conduct monitoring and/or sampling of the facility's stormwater discharge.
+(d)
+The director has the right to require the discharger to install monitoring equipment as necessary. The facility's sampling and monitoring equipment shall be maintained at all times in a safe and proper operating condition by the discharger at its own expense. All devices used to measure stormwater flow and quality shall be calibrated to ensure their accuracy.
+(e)
+Any temporary or permanent obstruction to safe and easy access to the facility to be inspected and/or sampled shall be promptly removed by the operator at the written or oral request of the director and shall not be replaced. The costs of clearing such access shall be borne by the operator.
+(f)
+Unreasonable delays in allowing city personnel access to a permitted facility are a violation of a stormwater discharge permit and of this article. A person who is the operator of a facility with a NPDES permit to discharge stormwater associated with industrial activity commits a violation if the person denies city personnel reasonable access to the permitted facility for the purpose of conducting any activity authorized or required by this article.
+(g)
+If city personnel are refused access to any part of the premises from which stormwater is discharged, and he/she is able to demonstrate probable cause to believe that there may be a violation of this article, or that there is a need to inspect and/or sample as part of a routine inspection and sampling program designed to verify compliance with this chapter or any order issued hereunder, or to protect the overall public health, safety, and welfare of the community, then the director may seek issuance of a search warrant from any court of competent jurisdiction.
+(Ord. No. 984, § 1(22A-13), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-28. - Specification of best management practices (BMPs).
+The city may adopt requirements identifying best management practices for any activity, operation, or facility, which may cause or contribute to pollution or contamination of stormwater, the MS4 or watercourses, or waters of the United States.
+(Ord. No. 984, § 1(22A-14), 12-13-2006)
+Sec. 22A-29. - Pollution prevention in new facilities.
+The owner or operator of a commercial or industrial establishment shall provide, at their own expense, reasonable protection from accidental discharge of prohibited materials or other wastes into the MS4 or watercourses through the use of these structural and non-structural BMPs.
+(Ord. No. 984, § 1(22A-15), 12-13-2006)
+Sec. 22A-30. - Pollution prevention in existing facilities.
+Any person responsible for a property or premise, which is, or may be, the source of an illicit discharge, may be required to implement, at said person's expense, additional structural and non-structural BMPs to prevent the further discharge of pollutants to the MS4 or watercourses.
+(Ord. No. 984, § 1(22A-16), 12-13-2006)
+Sec. 22A-31. - Discharge permits from regulatory agencies other than the City of Brunswick.
+Compliance with all terms and conditions of a valid NPDES permit authorizing the discharge of stormwater associated with industrial activity, to the extent practicable, shall be deemed compliance with the provisions of this article. BMPs designated for compliance with the NPDES permit or BMPs implemented as a result of action taken in compliance of this article shall be included in a stormwater pollution prevention plan (SWPP) as necessary for compliance with requirements of the NPDES permit.
+(Ord. No. 984, § 1(22A-17), 12-13-2006)
+Sec. 22A-32. - Watercourse protection.
+Every person or persons owning property through which a watercourse passes, or such person's lessee, shall keep and maintain that part of the watercourse within the property free of trash, debris, excessive vegetation, and other obstacles that would pollute, contaminate, or significantly retard the flow of water through the watercourse. In addition, the owner or lessee shall maintain existing privately owned structures within or adjacent to a watercourse, so that such structures will not become a hazard to the use, function, or physical integrity of the watercourse. Those persons owning property on either side (abutting) of a watercourse, or their lessee, are responsible from their property line to the center of the watercourse and are subject to the same rules and regulations applicable to those persons having a watercourse flow through their property.
+(Ord. No. 984, § 1(22A-18), 12-13-2006)
+Sec. 22A-33. - Notification of spills.
+Notwithstanding other requirements of law, as soon as any person responsible for a facility or operation, or responsible for emergency response for a facility or operation has information of any known or suspected release of materials which are resulting or may result in illegal discharges or pollutants discharging into stormwater, the MS4 or watercourses, or water of the U.S. said person shall take all necessary steps to ensure the discovery, containment, and cleanup of such release. In the event of such a release of hazardous materials said person shall immediately notify emergency response agencies of the occurrence via emergency dispatch services. In the event of a release of non-hazardous materials, said person shall notify the public works department in person, by phone, facsimile or email no later than the next business day. Notifications in person or by phone shall be confirmed by written notice addressed and mailed to the director of public works within three business days of the verbal notice. The notification of the discharge of materials to the director shall be in addition to notification of other applicable agencies, regional, state and federal authorities. If the discharge of prohibited materials emanates from a commercial or industrial establishment, the owner or operator of such establishment shall also retain an on-site written record of the discharge and the actions taken to prevent its recurrence. Such records shall be retained for at least three years.
+(Ord. No. 984, § 1(22A-19), 12-13-2006)
+Sec. 22A-34. - Enforcement.
+modified
+(a)
+Whenever the director finds that a person has violated a prohibition or failed to meet a requirement of this article, the director may order compliance by written notice of violation to the responsible person. Such notice may require without limitation:
+(1)
+The performance of monitoring, analyses, and reporting;
+(2)
+The elimination of illicit connections or discharges;
+(3)
+That violating discharges, practices, or operations shall cease and desist;
+(4)
+The abatement or remediation of stormwater pollution or contamination hazards and the restoration of any affected property;
+(5)
+Payment of a fine to cover administrative and remediation costs; and
+(6)
+The implementation of source control or treatment BMPs.
+(b)
+If abatement of a violation and/or restoration of affected property is required, the notice shall set forth a deadline within which such remediation or restoration must be completed. Said notice shall further advise that, should the violator fail to remediate or restore within the established deadline, the work may be done by a designated governmental agency or a contractor and the expense thereof shall be charged to the violator.
+(c)
+Any person receiving a notice of violation may appeal the determination of the director. The notice of appeal must be received within ten days from the date of the notice of violation. Hearing on the appeal before the appropriate authority or his/her designee shall take place within 15 days from the date of receipt of the notice of appeal. The decision of the reviewing authority or their designee shall be final.
+(d)
+If the violation has not been corrected pursuant to the requirements set forth in the notice of violation, or, in the event of an appeal, within ten days of the decision of the reviewing authority upholding the decision of the director, then representatives of the director shall enter upon the subject private property and are authorized to take any and all measures necessary to abate the violation and/or restore the property. It shall be unlawful for any person, owner, agent or person in possession of any premises to refuse to allow city personnel or designated contractor to enter upon the premises for the purposes set forth above.
+(e)
+Within 30 days after abatement of the violation, the owner of the property will be notified of the cost of abatement, including administrative costs. The property owner may file a written protest objecting to the amount of the assessment within 30 days. If the amount due is not paid within a timely manner as determined by the decision of the reviewing authority or by the expiration of the time in which to file an appeal, the charges shall become a special assessment against the property and shall constitute a lien on the property for the amount of the assessment.
+(f)
+It shall be unlawful for any person to violate any provision or fail to comply with any of the requirements of this article. If a person has violated or continues to violate the provisions of this article, the director may petition for a preliminary or permanent injunction restraining the person from activities which would create further violations or compelling the person to perform abatement or remediation of the violation.
+(g)
+In lieu of enforcement proceedings, penalties, and remedies authorized by this article, the city may impose upon a violator alternative compensatory actions, such as storm drain stenciling, attendance at compliance workshops, creek cleanup, etc.
+(h)
+In addition to the enforcement processes and penalties provided, any condition caused or permitted to exist in violation of any of the provisions of this article is a threat to public health, safety, and welfare, and is declared and deemed a nuisance, and may be summarily abated or restored at the violator's expense, and/or a civil action to abate, enjoin, or otherwise compel the cessation of such nuisance may be taken.
+(i)
+Any person that has violated or continues to violate this article shall be liable to criminal prosecution to the fullest extent of the law, and shall be subject to a criminal penalty in city municipal court in accordance with chapter 15 of this Code; each day a violation continues shall constitute a separate offense. The city may recover all attorneys' fees court costs and other expenses associated with enforcement of this article, including sampling and monitoring expenses.
+(j)
+The remedies listed in this article are not exclusive of any other remedies available under any applicable federal, state or local law and it is within the discretion of the authorized enforcement agency to seek cumulative remedies.
+(Ord. No. 984, § 1(22A-20), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Secs. 22A-35—22A-50. - Reserved.
+ARTICLE III. - POST CONSTRUCTION STORMWATER RUNOFF
+
+Sec. 22A-51. - Purpose.
+The purpose of this article is to establish minimum stormwater management requirements and controls to protect and safeguard the general health, safety, and welfare of the public residing in watersheds within this jurisdiction. This article seeks to meet that purpose through the following objectives:
+a)
+Minimize increases in stormwater runoff from any development in order to reduce flooding, siltation, and streambank erosion and maintain the integrity of stream and drainage channels;
+b)
+Minimize increases in nonpoint source pollution caused by stormwater runoff from development which would otherwise degrade local water quality;
+c)
+Minimize the total annual volume of surface water runoff which flows from any specific site during and following development to not exceed the pre-development hydrologic regime to the maximum extent practicable; and
+d)
+Reduce stormwater runoff rates and volumes, soil erosion and nonpoint source pollution, wherever possible, through stormwater management controls and to ensure that these management controls are properly maintained and pose no threat to public safety.
+(Ord. No. 984, § 1(22A-21), 12-13-2006)
+Sec. 22A-52. - Applicability.
+This article shall be applicable to all subdivision or site plan applications, unless eligible for an exemption or granted a waiver by the director under the specifications of section [22A-54] of this article. This article also applies to land development activities that are smaller than the minimum applicability criteria if such activities are part of a larger common plan of development that meets the following applicability criteria, even though multiple separate and distinct land development activities may take place at different times on different schedules.
+a.
+New development that involves the creation of 5,000 square feet or more of impervious cover, or that disturbs one acre or more of land;
+b.
+Redevelopment that includes the creation, addition or replacement of 5,000 square feet or more of impervious cover, or that involves other land development activity of one acre or more;
+c.
+Any new development or redevelopment, regardless of size, that is defined by the development review team (DRT) to be a hotspot land use; or,
+d.
+Land development activities that are smaller than the minimum applicability criteria set forth in items a. and b. above if such activities are part of a larger common plan of development, even though multiple, separate and distinct land development activities may take place at different times on different schedules.
+(Ord. No. 984, § 1(22A-22), 12-13-2006)
+Sec. 22A-53. - Exempt activities.
+modified
+The following activities are exempt from this article:
+(a)
+Individual single-family or duplex residential lots that are not part of a subdivision or phased development project;
+(b)
+Additions or modifications to existing single-family or duplex residential structures;
+(c)
+Repair or upgrade of an existing drainage system or facility that does not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution;
+(d)
+Agricultural or silvicultural land management activities within areas zoned for these activities; and,
+(e)
+Repairs to any stormwater management facility or practice deemed necessary by the director.
+(Ord. No. 984, § 1(22A-23), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-54. - Local stormwater design manual.
+modified
+The city will utilize the information presented in the latest edition of the Georgia Stormwater Management Manual (GSMM), and the Coastal Stormwater Supplement (CSS) to assist the implementation of this chapter. The city may also furnish additional policy, criteria and information including specifications and standards, for the proper implementation of the requirements of this chapter and may provide such information in the form of a local stormwater design manual (LDM). If such a LDM is developed, the requirements outlined within the LDM shall take precedence.
+(Ord. No. 984, § 1(22A-24), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-55. - Permit required.
+No land owner or land operator shall receive any of the building, grading or other land development permits required for land disturbance activities without first meeting the requirements of this article prior to commencing the proposed activity.
+(Ord. No. 984, § 1(22A-25), 12-13-2006)
+Sec. 22A-56. - Application requirements.
+Unless specifically excluded by this article, any land owner or operator desiring a permit for a land disturbance activity shall submit to the city a permit application on a form provided for that purpose. Unless otherwise excepted by this article, a permit application must include the minimum requirements as defined in this article or local stormwater design manual in order for the permit application to be considered.
+(Ord. No. 984, § 1(22A-26), 12-13-2006)
+Sec. 22A-57. - Application review fees.
+The city may require the submittal of a review fee for review of the stormwater management plan. This review fee shall be based on the amount of land to be disturbed at the site, and the fee structure shall be established by the DRT. All of the monetary contributions shall be credited to a local budgetary category to support local plan review, inspection and program administration, and shall be made prior to the issuance of any building permit for the development.
+(Ord. No. 984, § 1(22A-27), 12-13-2006)
+Sec. 22A-58. - Permit duration.
+Permits issued under this section shall be valid from the date of issuance through the date the DRT notifies the permit holder that all stormwater management practices have passed the final inspection required under permit condition.
+(Ord. No. 984, § 1(22A-28), 12-13-2006)
+Sec. 22A-59. - Waivers for providing stormwater management.
+Every applicant shall provide for stormwater management as required by this article, unless a written request is filed to waive this requirement. Requests to waive the stormwater management plan requirements shall be submitted to the DRT for approval. The minimum requirements for stormwater management may be waived in whole or in part upon written request of the applicant, provided that at least one of the following conditions applies:
+a.
+It can be demonstrated that the proposed development is not likely to impair attainment of the objectives of this article.
+b.
+Alternative minimum requirements for on-site management of stormwater discharges have been established in a stormwater management plan that has been approved by the DRT and local ordinance or legal developer agreement requires the implementation of the plan.
+c.
+Provisions are made to manage stormwater by an off-site facility. The off-site facility is required to be in place, to be designed and adequately sized to provide a level of stormwater control that is equal to or greater than that which would be afforded by on-site practices and there is a legally obligated entity responsible for long-term operation and maintenance of the stormwater practice.
+d.
+The DRT finds that meeting the minimum on-site management requirements is not feasible due to the natural or existing physical characteristics of a site.
+e.
+Non-structural practices may be used on the site that reduce: a) the generation of stormwater from the site, b) the size and cost of stormwater storage; and c) the pollutants generated at the site. These non-structural practices shall be explained in detail in the local or state design manual and the amount of credit available for using such practices shall be determined by the DRT if the city provides for stormwater credits in the review process.
+(Ord. No. 984, § 1(22A-29), 12-13-2006)
+Sec. 22A-60. - Conditions of waiver.
+modified
+In instances where one of the conditions above applies, the DRT may grant a waiver from strict compliance with these stormwater management provisions, as long as acceptable mitigation measures are provided. However, to be eligible for a variance, the applicant must demonstrate to the satisfaction of the DRT that the waiver will not result in the following impacts to downstream waterways:
+(a)
+Deterioration of existing culverts, bridges, dams, and other structures;
+(b)
+Degradation of water quality, biological functions or habitat;
+(c)
+Accelerated streambank or streambed erosion or siltation; and
+(d)
+Increased threat of flood damage to public health, life, or property.
+(Ord. No. 984, § 1(22A-30), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-61. - Mitigation requirements for waivers.
+modified
+Where compliance with minimum requirements for stormwater management is waived, the applicant will satisfy the minimum requirements by meeting one of the mitigation measures selected by the DRT. Mitigation measures may include, but are not limited to, the following:
+(a)
+The purchase and donation of privately-owned lands, or the grant of an easement to be dedicated for preservation and/or reforestation. These lands should be located adjacent to the stream corridor in order to provide permanent buffer areas to protect water quality and aquatic habitat; and
+(b)
+The creation of a stormwater management facility or other drainage improvements on previously developed properties, public or private, that currently lack stormwater management facilities designed and constructed in accordance with the purposes and standards of this article; and
+(c)
+Monetary contributions (fee-in-lieu) to fund stormwater management activities such as installation of stormwater BMPs, research and studies (e.g., regional wetland delineation studies, stream monitoring studies for water quality and macroinvertebrates, stream flow monitoring, threatened and endangered species studies, hydrologic studies, and monitoring of stormwater management practices, etc.).
+(Ord. No. 984, § 1(22A-31), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-62. - Fee in lieu of stormwater management practices.
+Where the DRT waives all or part of the minimum stormwater management requirements, or where the waiver is based on the provision of adequate stormwater facilities provided downstream of the proposed development, the applicant may be required to pay a fee in an amount as determined by the DRT.
+When an applicant obtains a waiver of the required stormwater management, the monetary contribution required shall be in accordance with a fee schedule (unless the developer and city agree on a greater alternate contribution) established by the DRT. All of the monetary contributions shall be credited to an appropriate capital improvements program project, and shall be made by the developer prior to the issuance of any permit for the development.
+(Ord. No. 984, § 1(22A-32), 12-13-2006)
+Sec. 22A-63. - Dedication of land.
+In lieu of a monetary contribution, an applicant may obtain a waiver of the required stormwater management by entering into an agreement with the city for the granting of an easement or the dedication of land by the applicant, to be used for the construction of an off-site stormwater management facility. The agreement shall be entered into by the applicant and the city prior to the recording of plats or, if no record plat is required, prior to the issuance of the building permit.
+(Ord. No. 984, § 1(22A-33), 12-13-2006)
+Sec. 22A-64. - Performance criteria.
+Unless judged by the DRT to be exempt or granted a waiver, the following performance criteria shall be addressed for stormwater management at all sites.
+(Ord. No. 984, § 1(22A-34), 12-13-2006)
+Sec. 22A-65. - Peak runoff rate control for overbank flood protection.
+modified
+The applicant shall control all stormwater discharges from the proposed project such that post development peak runoff rates do not exceed pre-development peak runoff rates for the two-year, five-year, ten-year, 25-year, 50-year and 100-year frequency storms, unless otherwise specified or the DRT grants the applicant a waiver or the applicant is exempt from such requirements. In addition, if hydrologic or topographic conditions warrant greater control than that provided by the minimum control requirements, the DRT reserves the right to impose any and all additional requirements deemed necessary to control the volume, timing, and rate of runoff.
+(a)
+An emergency overflow device (which does not include the throttling device) for a detention pond shall be designed to pass the 100-year peak developed inflow without overtopping the dam.
+(b)
+The steepest fill slopes shall be 2½:1, and cut slopes shall be no steeper than 2:1.
+(c)
+An eight-foot-wide access road which runs on top of the dam shall be required around the circumference of the pond.
+(d)
+If a pond is deeper than four feet, a chain link fence shall be required.
+(1)
+The fence shall be six feet high.
+(2)
+Fence posts shall be set in concrete ten feet on centers.
+(3)
+There shall be a minimum ten-foot-wide gate for access.
+(4)
+The fence shall not be installed across the slope of a dam or dike, but installed completely around the pond and containing the dike and access road.
+(5)
+The DRT may require a planted vegetation buffer around all or part of the pond.
+(Ord. No. 984, § 1(22A-35), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-66. - Stormwater runoff reduction.
+modified
+The stormwater runoff volume generated by the first 1.2 inches of rainfall is called the runoff reduction storm event (RRv), in the latest edition of the CSS to the GSMM. The RRv shall be captured on-site or reduced on-site to the maximum extent practicable in order to help maintain pre-development site hydrology and help protect local aquatic resources from several indirect impacts of the land development process, including decreased groundwater recharge, decreased baseflow and degraded water quality. In general, a stormwater management system is presumed to comply with these criteria if:
+(a)
+It includes green infrastructure practices that provide for the interception, evapotranspiration, infiltration or capture and reuse of stormwater runoff, that have been selected, designed, constructed and maintained in accordance with the information presented in the latest edition of the GSMM and CSS; and
+(b)
+It is designed to provide the amount of stormwater runoff reduction specified in the latest edition of the GSMM and CSS.
+The DRT may vary the amount of stormwater runoff reduction needed to satisfy this criteria on development sites that are considered to be stormwater hotspots or that have site characteristics or constraints, such as high groundwater, impermeable soils, contaminated soils or confined groundwater aquifer recharge areas, that prevent the use of green infrastructure practices that provide for the interception, evapotranspiration, infiltration or capture and reuse of stormwater runoff.
+When seeking a variance in the amount of stormwater runoff reduction that needs to be provided in order to satisfy these criteria, applicants must provide adequate documentation to the DRT to show that no additional runoff reducing green infrastructure practices can be used on the development site and that the reduction provided is all that can be provided in a practical manner.
+(Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-67. - Stormwater quality protection
+modified
+In order to protect local aquatic resources from water quality degradation, post-construction stormwater runoff shall be adequately treated before it is discharged from a development site. Applicants can satisfy this criterion by satisfying the stormwater runoff reduction criteria. However, if any of the stormwater runoff volume generated by the RRv, as defined in the latest edition of the CSS to the GSMM, cannot be reduced on the development site, due to site characteristics or constraints, it shall be intercepted and treated in one or more stormwater management practices that provide at least an 80 percent reduction in total suspended solids loads and that reduce nitrogen and bacteria loads to the maximum extent practical. When seeking to satisfy this criterion through the use of one or more stormwater management practices, applicants shall:
+(a)
+Intercept and treat stormwater runoff in stormwater management practices that have been selected, designed, constructed and maintained in accordance with the information presented in the latest edition of the GSMM and CSS; and,
+(b)
+Provide adequate documentation to the DRT to show that total suspended solids, nitrogen and bacteria removal were considered during the selection of the stormwater management practices that will be used to intercept and treat stormwater runoff on the development site.
+It is presumed that a BMP complies with this performance standard if it is:
+(c)
+Sized to capture and treat the RRv that cannot otherwise be infiltrated on site;
+(d)
+Designed according to the specific performance criteria outlined in the GSMM and CSS; and
+(e)
+Constructed properly and maintained regularly.
+All stormwater runoff generated from new development shall not discharge untreated stormwater directly into a wetland or local water body without adequate treatment. Stormwater management practices for a site shall be chosen based on the physical conditions of the site. Additionally, stormwater management practices that utilize vegetation as part of the functional treatment process (e.g. constructed wetlands, etc.) must submit a separate landscaping plan detailing both the vegetation to be in the practice and how and who will manage and maintain this vegetation.
+(Ord. No. 984, § 1(22A-37), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-68. - Channel protection.
+modified
+To protect stream channels from degradation, a specific channel protection criteria shall be provided. The channel protection criteria may be waived by the DRT for sites that discharge directly into larger streams, rivers, wetlands, lakes, estuaries, or tidal waters where the reduction in smaller flows will not have an impact on stream bank or channel integrity. Additionally, the DRT may waive the channel protection criteria if the post development peak runoff rate for the channel protection criteria is less than two cubic feet per second (cfs) for the one-year 24-hour storm in a post-development state.
+Channel protection shall be provided through 24-hour extended detention of the one-year 24-hour rainfall event, unless the DRT grants the applicant a waiver or the applicant is exempt from such requirements. If the applicant provides for channel protection, the applicant shall not be required to provide detention as specified in section 22A-65 for the two-year, five-year and ten-year frequency storms.
+Velocity control and energy dissipation measures shall be installed at all stormwater outfalls in accordance with the criteria and guidance provided in the applicable sections of the latest versions of the CSS and GSMM.
+Follow minimum buffer requirements presented in this Code to preserve applicable stream buffers.
+(Ord. No. 984, § 1(22A-36), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— Ord. No. 1069, § 1, adopted December 2, 2020 renumbered and amended the former § 22A-66 as § 22A-68 as set out herein. The historical notation has been retained with the amended provisions for reference purposes.
+Sec. 22A-69. - Extreme flood protection.
+modified
+All stormwater management systems shall be designed, constructed, and maintained to control the peak discharge generated by the extreme flood protection storm event, as defined in the latest edition of the CSS and GSMM, to prevent an increase in the duration, frequency and magnitude of downstream extreme flooding and protect public health and safety. Development sites shall be designed, constructed, and maintained such that all stormwater management practices that impound stormwater runoff can safely pass the 100-year storm without overtopping or creating damaging or dangerous downstream conditions.
+Demonstration of safe passage of the 100-year, 24-hour storm shall include a stage-storage analysis of the system, an inflow/outflow comparison of the system, and construction of a table showing peak stage elevations in comparison to safe freeboards to structures of the system and adjacent buildings/structures/infrastructure.
+The DRT may modify or waive this criteria on development sites where both the on-site and downstream stormwater conveyance systems are designed to safely convey the peak discharge generated by the extreme flood protection storm event to a receiving stream, tidal creek or other aquatic resource without causing additional downstream flooding or other environmental impacts, such as stream channel enlargement or degradation of habitat.
+(Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-70. - Redevelopment criteria.
+modified
+Development activities that are considered to be redevelopment activities shall meet at least one of the following criteria to meet the runoff reduction volume and the stormwater quality protection criteria:
+(a)
+Reduce impervious cover. Reduce existing site impervious cover by at least 20 percent, unless otherwise approved by the DRT.
+(b)
+Provide stormwater management. Manage the stormwater runoff from the site's existing impervious cover and any new impervious cover in accordance with the post-construction stormwater management criteria outlined in the applicable sections of this chapter. The green infrastructure and stormwater management practices used to comply with these criteria shall be selected, designed, constructed and maintained in accordance with the latest version of the GSMM and the CSS.
+(c)
+Provide off-site stormwater management. Provide, through the use of off-site stormwater management practices, a level of stormwater quality and quantity control that is equal to or greater than that which would be provided by satisfying the post-construction stormwater management criteria outlined in the applicable sections of this chapter.
+(d)
+Combination of measures. Any combination of (a) through (c) above that is acceptable to the DRT.
+(Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-71. - Conveyance issues.
+modified
+All conveyances including pipes and open channels except those associated with detention facilities shall be designed for the 25-year frequency storm. Inlets for conveyances shall be designed for an equal frequency storm (i.e. 25-year storm design pipe system shall have all inlets sized for the 25-year storm). The DRT reserves the right to increase the requirements outlined herein where deemed necessary. All pipes placed within an easement or on public right-of-way for maintenance by the city shall be reinforced concrete pipe (RCP).
+(Ord. No. 984, § 1(22A-38), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— Ord. No. 1069, § 1, adopted December 2, 2020 renumbered and amended the former §§ 22A-68—22A-79 as §§ 22A-71—22A-82 as set out herein. The historical notation has been retained with the amended provisions for reference purposes.
+Sec. 22A-72. - Sensitive resources.
+modified
+Stormwater discharges to critical areas with sensitive resources (i.e., fisheries, shellfish beds, swimming beaches, recharge areas, etc.) may be subject to additional performance criteria, or may need to utilize or restrict certain stormwater management practices.
+(Ord. No. 984, § 1(22A-39), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-73. - Hot spots.
+modified
+Stormwater discharges from land uses or activities with higher potential pollutant loadings, known as "hotspots", may require the use of specific BMPs and pollution prevention practices.
+(Ord. No. 984, § 1(22A-40), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-74. - Stormwater management plan required for all developments.
+modified
+No application for development will be approved unless it includes a stormwater management plan detailing in concept how runoff and associated water quality impacts resulting from the development will be controlled or managed. This plan must indicate whether stormwater will be managed on-site or off-site and, if on-site, the general location and type of practices.
+The stormwater management plan(s) shall be referred for comment to all other interested agencies, and any comments must be addressed in a final stormwater management plan. This final plan must be signed by a licensed professional engineer (PE). No development related permits shall be issued until a satisfactory final stormwater management plan, or a waiver thereof, shall have undergone a review and been approved by the DRT after determining that the plan or waiver is consistent with the requirements of this article.
+(Ord. No. 984, § 1(22A-41), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-75. - Stormwater management plan requirements.
+modified
+A stormwater management plan shall be required with all permit applications and will include sufficient information (e.g., maps, hydrologic calculations, etc) to evaluate the environmental characteristics of the project site, the potential impacts of all proposed development of the site, both present and future, on the water resources, and the effectiveness and acceptability of the measures proposed for managing stormwater generated at the project site. The intent of this planning process is to determine the type of stormwater management measures necessary for the proposed project, and ensure adequate planning for management of stormwater runoff from future development. To accomplish this goal the applicant will prepare a design report, which shall include elements sufficient to ensure compliance with this article. These reports shall include at a minimum: a narrative description of the proposed development project and its changes to the site, predevelopment drainage maps, post development drainage maps, predevelopment runoff rates, post development rates, lists of assumptions used in calculating drainage impacts, and calculations of drainage impacts. The DRT reserves the right to extend these requirements to ensure compliance with this article. However, in these cases, the DRT must provide a written explanation of the additional elements needed to the applicant.
+(Ord. No. 984, § 1(22A-42), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-76. - Performance bond/security.
+modified
+The city may, at its discretion, require the submittal of a performance security or bond prior to issuance of a permit in order to ensure that the stormwater practices are installed by the permit holder as required by the approved stormwater management plan. The amount of the installation performance security shall be the total estimated construction cost of the stormwater management practices approved under the permit, plus 25 percent as agreed to by the applicant and the city. The performance security shall contain forfeiture provisions for failure to complete work specified in the stormwater management plan.
+The installation performance security shall be released in full only upon submission of "as built plans" and written certification by a registered professional engineer that the stormwater practice has been installed in accordance with the approved plan and other applicable provisions of this article. The DRT will make a final inspection of the stormwater practice to ensure that it is in compliance with the approved plan and the provisions of this article. Provisions for a partial pro-rata release of the performance security based on the completion of various development stages can be done at the discretion of the DRT.
+(Ord. No. 984, § 1(22A-43), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-77. - Notice of construction commencement.
+modified
+The applicant must notify the DRT in advance before the commencement of construction so as to provide for scheduling of inspections. If any violations are found, the property owner shall be notified in writing of the nature of the violation and the required corrective actions. The DRT may issue a "stop work order" if the DRT determines that the corrective actions will need to be made prior to continuance of other development activities on the site to ensure compliance with this article. In these cases, no added work shall proceed until any violations are corrected and all work previously completed has received approval by the DRT.
+(Ord. No. 984, § 1(22A-44), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-78. - As built plans.
+modified
+All applicants are required to submit actual "as built" plans for any stormwater management practices located on-site after final construction is completed in a format specified by the DRT. The plan must show the final design specifications for all stormwater management facilities and must be certified by a professional engineer. A final inspection by the DRT is required before the release of any performance securities can occur.
+(Ord. No. 984, § 1(22A-45), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-79. - Maintenance easement.
+modified
+Prior to the issuance of any permit that has a stormwater management facility as one of the requirements of the permit, the applicant or owner of the site must execute a maintenance easement agreement that shall be binding on all subsequent owners of land served by the stormwater management facility. The agreement shall provide for access to the facility at reasonable times for periodic inspection by the DRT or their contractor or agent, and for regular or special assessments of property owners to ensure that the facility is maintained in proper working condition to meet design standards and any other provisions established by this article. The easement agreement shall be recorded by the applicant in the land records. The minimum width of an easement for pipe systems shall be 20 feet, however the [review authority] may increase this requirement for systems that are deeper than six feet in depth. Minimum width of an easement for an open channel shall be the width of the channel at the top of slope plus ten feet either side of the channel. All other easements for structures including but not limited to detention ponds, etc. shall be ten feet beyond the facilities footprint.
+(Ord. No. 984, § 1(22A-46), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-80. - Maintenance covenants.
+new
+Maintenance of all stormwater management facilities shall be ensured through the creation of a formal maintenance covenant that must be approved by the DRT and recorded into the land record prior to final plan approval. As part of the covenant, a schedule shall be developed for when and how often maintenance will occur to ensure proper function of the stormwater management facility. Stormwater management facilities may be required to undergo annual inspections to document maintenance and repair needs and ensure compliance with the requirements of this article and accomplishment of its purposes. These needs may include; removal of silt, litter and other debris from all catch basins, inlets and drainage pipes, grass cutting and vegetation removal, and necessary replacement of landscape vegetation. Any maintenance needs found must be addressed in a timely manner and the inspection and maintenance requirement may be increased as deemed necessary to ensure proper functioning of the stormwater management facility. The requirement for such inspections shall be outlined in the maintenance covenant.
+The city in lieu of a maintenance covenant, may accept dedication of any existing or future stormwater management facility for maintenance, provided such facility meets all the requirements of this article and includes adequate and perpetual access and sufficient area, by easement or otherwise, for inspection and regular maintenance.
+(Ord. No. 984, § 1(22A-47), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-81. - Records of installation and maintenance activities.
+new
+Parties responsible for the operation and maintenance of a stormwater management facility shall make records of the installation and of all maintenance and repairs, and shall retain the records for at least three years. These records shall be made available to the director during inspection of the facility and at other reasonable times upon request.
+(Ord. No. 984, § 1(22A-48), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Sec. 22A-82. - Failure to maintain practices.
+new
+If a responsible party fails or refuses to meet the requirements of the maintenance covenant, the city after reasonable notice, may correct a violation of the design standards or maintenance needs by performing all necessary work to place the facility in proper working condition. In the event that the stormwater management facility becomes a danger to public safety or public health, the director shall notify the party responsible for maintenance of the stormwater management facility in writing. Upon receipt of that notice, the responsible person shall affect maintenance and repair of the facility in an approved manner and within the established deadline. After proper notice, the city may assess the owner(s) of the facility for the cost of repair work and any penalties; and the cost of the work shall be a lien on the property or prorated against the beneficial users of the property.
+(Ord. No. 984, § 1(22A-49), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Editor's note— See the editor's note at section 22A-71.
+Secs. 22A-83—22A-100. - Reserved.
+new
+ARTICLE IV. - ENFORCEMENT AND PENALTIES
+
+Sec. 22A-101. - Injuction.
+modified
+Any development activity that is commenced or is conducted contrary to this article may be restrained by injunction or otherwise abated in a manner provided by law.
+(Ord. No. 984, § 1(22A-50), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-102. - Notice of violation.
+modified
+When the director determines that an activity is not being carried out in accordance with the requirements of this article, the director shall issue a written notice of violation to the owner of the property. The notice of violation shall contain:
+(a)
+The name and address of the owner or applicant;
+(b)
+The address when available or a description of the building, structure or land upon which the violation is occurring;
+(c)
+A statement specifying the nature of the violation;
+(d)
+A description of potential remedial measures necessary to bring the development activity into compliance with this article and a time schedule for the completion of such remedial action;
+(e)
+A statement of the penalty or penalties that shall or may be assessed against the person to whom the notice of violation is directed;
+(f)
+A statement that the determination of violation may be appealed to the city by filing a written notice of appeal within 15 days of service of notice of violation.
+(Ord. No. 984, § 1(22A-51), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-103. - Stop work orders.
+modified
+Persons receiving a notice of violation may be required to halt all construction activities. This "stop work order" will be in effect until the director confirms that the development activity is in compliance and the violation has been satisfactorily addressed. Failure to address a notice of violation in a timely manner can result in civil, criminal, or monetary penalties in accordance with the enforcement measures authorized in this article.
+(Ord. No. 984, § 1(22A-52), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-104. - Civil and criminal penalties.
+modified
+In addition to or as an alternative to any penalty provided herein or by law, any person who violates the provisions of this article shall be punished by a fine in city municipal court in accordance with chapter 15 of this Code and applicable state law. Such person shall be guilty of a separate offense for each day during which the violation occurs or continues.
+(Ord. No. 984, § 1(22A-53), 12-13-2006; Ord. No. 1069, § 1, 12-2-2020)
+Sec. 22A-105. - Restoration of lands.
+Any violator may be required to restore land to its undisturbed condition. In the event that restoration is not undertaken within a reasonable time after notice, the city may take necessary corrective action, the cost of which shall become a lien upon the property until paid.
+(Ord. No. 984, § 1(22A-54), 12-13-2006)
+Sec. 22A-106. - Holds on occupation permits.
+Occupation permits will not be granted until all corrections to all stormwater practices have been made and accepted by the DRT. A provisional occupation permit may be issued for a specified period of time not to exceed 90 days in the event the DRT determines there is an urgent need for such provisional occupancy. Provisional permits may be conditioned according to such terms as the DRT deems reasonable, and may be revoked at any time upon determination by the DRT that revocation is an appropriate means to protect the public interest in light of violation of the conditions of the provisional permit, violation of this or other ordinance of the city, or such other grounds as the DRT deems justify a revocation.
+(Ord. No. 984, § 1(22A-55), 12-13-2006)
+ARTICLE V. - STORMWATER UTILITY
+
+Sec. 22A-107. - Purpose.
+This chapter is enacted for the purpose of establishing the stormwater utility and stormwater user fee system and other provisions relating thereto.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-108. - Findings of fact.
+The mayor and city commission make the following findings of fact:
+(a)
+The City of Brunswick is authorized by the Georgia Constitution of 1983, including, without limitation, Article IX, Section II, Paragraph III, and O.C.G.A. § 36-82-62 to provide stormwater management service systems and facilities throughout the corporate boundaries of the City of Brunswick (hereinafter "the city" or "Brunswick") and to collect fees for provision of those services.
+(b)
+In promulgating the regulations contained in this section, the city is acting pursuant to authority granted by the Constitution and laws of the State of Georgia and its City Charter to provide for stormwater collection and disposal. A system for the collection, conveyance, storage, treatment and disposal of stormwater provides services to all properties within the city limits.
+(c)
+Failure to effectively manage stormwater runoff can result in:
+1.
+Erosion of lands, which could threaten businesses, residences, and other structures with water damage and may environmentally impair the rivers, streams and other bodies of water within, and downstream of, the city;
+2.
+Adverse impacts to the sanitary sewer system operations thereby increasing the potential for infiltration and inflow into the sanitary sewer system operated by the Glynn County-Brunswick Joint Water and Sewer Authority;
+3.
+Potential degradation of the quality of both surface water and ground water resources.
+(d)
+The city presently owns and operates stormwater management systems and facilities, which have been developed over many years. The future usefulness and operational function of the existing stormwater management systems and facilities owned and operated by the city, and the additions and improvements thereto, rests on the ability of the city to effectively manage, protect, control, regulate, use, and enhance stormwater systems and facilities within the city in concert with the management of other water resources within the city. In order to do so, the city must have both a stormwater management program as well as an adequate and stable funding strategy for its stormwater management program operation and drainage-related capital improvement needs.
+(e)
+The city is required under federal and state regulations [i.e. the Federal Clean Water Act, the city's National Pollutant Discharge Elimination System (hereinafter "NPDES") Phase II Stormwater Permit] to provide enhanced management of stormwater runoff quality to mitigate the impacts of pollutants which may be discharged from the public municipal separate storm sewer system (MS4) into State of Georgia or United States' waters. Therefore, it is appropriate for the city to establish a stormwater utility and impose stormwater user fee charge upon improved properties that may discharge, directly or indirectly, into the public MS4, or receive stormwater services from the city, either directly or indirectly, whether or not the property is private or public in nature.
+(f)
+Compliance with the regulatory obligations of the city's NPDES Phase II Stormwater Permit, the National Flood Insurance Program (NFIP); the Georgia Comprehensive Statewide Water Management Plan; and other applicable state and federal water resources related regulations as well as other identified stormwater management program needs will affect the cost of providing stormwater management services, systems and facilities above what is currently being spent for stormwater quality management, drainage system maintenance, floodplain management, capital drainage projects and other stormwater management program activities.
+(g)
+The city desires to implement a stormwater management program to address stormwater runoff quality and quantity and to mitigate the impacts of pollution and flooding which may impact the public MS4, private property and downstream receiving waters of the State of Georgia and/or United States.
+(h)
+The cost of operating and maintaining the city's stormwater management system and the funding of necessary repairs, replacements, improvements and extensions thereof should, to the extent practicable, be allocated in relationship to the services provided by the city's stormwater management program and the demand imposed by improved property on the city's drainage system and stormwater management program.
+(i)
+The stormwater management program assessment and financial analysis, titled "Stormwater Utility Rate Study," performed by the city's consultant, properly assesses and defines the city's stormwater management program problems, needs, goals, priorities as well as the stormwater management program funding strategy.
+(j)
+Given the stormwater management program problems, needs, goals, priorities and funding strategy identified in the aforementioned stormwater program assessment and financial analysis, it is appropriate that the city authorize the formation of an organizational and accounting entity dedicated specifically to the management, maintenance, protection, control, regulation, use, and enhancement of stormwater management services, systems, and facilities within the city in concert with other water resources management programs.
+(k)
+Stormwater management is applicable and needed throughout the incorporated areas of the city. While specific service and facility demands may differ from area to area at any given point in time, a stormwater management system and service area encompassing all lands and water bodies within the incorporated areas of the city is appropriate given the present and future needs of the city.
+(l)
+It is practical and equitable to allocate the cost of stormwater management among the owners and/or tenants of improved properties in proportion to the demands the properties impose on the city's stormwater management systems and facilities which result in services to such properties and the owners and/or tenants thereof. The fair and equitable apportionment of costs via the stormwater user fee charge correlates to the stormwater management services, provided directly or indirectly, to that property and the runoff demand that the property imposes on the public drainage system and the city stormwater management program.
+(m)
+Stormwater management needs in the city include, but are not limited to, protection of the public health, safety, and welfare of the community. Provision of stormwater management services renders and/or results in both a service to customers and benefit to all properties, property owners, citizens, and residents of the city in a variety of ways although the benefits may be indirect or immeasurable.
+(n)
+A stormwater management program provides the most practical and appropriate means of properly delivering stormwater management services throughout the city. The imposition of a stormwater user fee charge is the most equitable means to allocate the costs to users of the stormwater management services and to generate revenue to implement the defined level of service for the city's stormwater management program.
+(o)
+The presence and amount of impervious surfaces on each improved property is the most important factor influencing the stormwater runoff contribution of that property; the corresponding demand the property imposes on the stormwater management program; and the cost of providing stormwater management services to that property by the city. Therefore, the amount of impervious surface on each property is the most significant parameter for calculating a periodic stormwater user fee charge; and the city deems it appropriate to impose a stormwater user fee charge upon all improved properties that may discharge, directly or indirectly, into the public drainage system whether the property is private or public in nature.
+(p)
+A schedule of stormwater utility user fee charges based primarily on the amount of impervious surface located on each improved property is the most appropriate and equitable means of allocating the cost of stormwater management services throughout the city. Stormwater utility user fee charges may be designed with specific modifiers to further enhance customer equity, as well as customer understanding of the user fee charge rate structure, while at the same time minimizing the city's customer account management and maintenance efforts.
+(q)
+Stormwater utility user fee charges may be supplemented by other funding which addresses specific needs, including, but not limited to, special district service fees, general fund allocations, revenue bonds, use of proceeds from special purpose local option sales taxes (SPLOST) and other forms of revenue, as deemed appropriate by the mayor and city commission.
+(r)
+The existence of privately owned and maintained on-site stormwater control facilities, activities or assets which reduce, or otherwise mitigate, the impact of a particular property on the city's stormwater management program, and the stormwater utility's cost of providing stormwater management services and/or stormwater management systems and facilities, should be taken into account to reduce the user fee charge on that property in the form of a credit, and such credit should be conditioned upon continuing provision of such services, systems, facilities, activities or assets in a manner complying with the standards and codes as determined by the stormwater utility. Credits for privately owned and maintained stormwater management systems, facilities, activities or assets shall be generally proportional to the affect that such systems have on the reduction and mitigation of the stormwater runoff impacts from the property.
+(s)
+It is required that the revenue proceeds from all user fee charges for stormwater management services, systems or facilities, together with any other supplemental revenues raised or otherwise allocated specifically to stormwater management services, systems or facilities, be dedicated solely to those purposes. Such user fee revenue proceeds, and other supplemental revenues, shall be deposited into the City of Brunswick Stormwater Utility Enterprise Fund. The user fee proceeds and other supplemental revenues shall remain in the enterprise fund, and be dispersed only for stormwater management capital improvements, facilities, equipment, operating and non-operating costs, lease payments, debt service payments, or other indebtedness related to the stormwater management program.
+(t)
+In order to protect the health, safety and welfare of the public, the governing authority of Brunswick hereby exercises its authority to establish a stormwater utility, as the best available means of addressing the foregoing stormwater management program needs and priorities. By means of this article, the city will enact a stormwater user fee rate structure and a procedure for the establishment of a user fee charge billing rate related to the provision of stormwater management services.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-109. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+(a)
+Act means and refers to the Clean Water Act codified at 33 U.S.C. § 1251, et seq, and the rules and regulations promulgated by the United States Environmental Protection Agency pursuant thereto.
+(b)
+Credit means a reduction in the amount of a customer's stormwater user fee charge in recognition of a customer's efforts to mitigate the stormwater runoff impact that developed property has on the city stormwater management services and systems, and/or the efforts of a customer to offset the city's cost for implementation of stormwater management program related activities.
+(c)
+Customers of the stormwater utility shall include all persons, properties, and entities serviced by and/or benefitting from the services provided by the city's stormwater management program and the stormwater utility. These services include, but are not necessarily limited to, the stormwater utility's administration, management, maintenance, expansion, and improvement of the stormwater management systems for the handling and disposal of stormwater runoff from private and public properties, and the regulation of the public and private stormwater management systems, controls, facilities, and activities.
+(d)
+Dwelling unit shall mean a structure, regardless of the type or method of construction, which contains one or more bedrooms, a bathroom, and cooking facilities, designed for occupancy by a one or more person(s) regardless of relationship, living as a single-family unit.
+(e)
+Enterprise fund means a fund used to account for operations that are financed and operated in a manner similar to private business enterprises where the intent of the governing authority is that the cost of providing services to the public on a continuing basis be financed or recovered primarily through user charges.
+(f)
+Equivalent residential unit (ERU) means the stormwater user fee charge billing unit increment related to the median horizontal impervious surface area footprint of 2,220 square feet for a typical single-family dwelling unit within the city.
+(g)
+Fiduciary fund means a trust or agency fund used to account for assets held by a local government in a trustee capacity.
+(h)
+Hydrologic response defines the manner and means whereby stormwater runoff collects, remains, diverts, infiltrates, and is conveyed from a property. Hydrologic response is dependent on several factors including, but not limited to, the presence of impervious surface, the parcel's size, the parcel's shape, the parcel's topography, the parcel's vegetative canopy, the parcel's groundwater characteristics, the parcel's on-site operations, the parcel's stormwater controls, the parcel's antecedent moisture as well as the parcel's geologic and hydro-geologic characteristics.
+(i)
+Impervious area shall mean and have the same definition as impervious surface.
+(j)
+Impervious surface means those areas which prevent or impede the infiltration of stormwater into the soil in the manner in which it entered the soil, in natural conditions, prior to development and causes stormwater runoff to collect, concentrate or flow in a manner materially different from what would occur if the land were in an unaltered/undeveloped natural condition. Common impervious surfaces include, but are not limited to, rooftops, buildings or structures, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, awnings and other fabric or plastic coverings, and other surfaces such as compacted soil and gravel, which prevent or impede the natural infiltration of stormwater runoff which existed prior to development.
+(k)
+Improved property (or developed property) means property altered from its natural state by construction or installation of more than 500 square feet of impervious and/or partially impervious surfaces.
+(l)
+Manufactured home park means a common development (with a single property owner or entity) of more than one factory-built or pre-fabricated housing structures that have been partially or entirely assembled at another location and moved into the development.
+(m)
+Multi-family residential (MFR) property means developed property containing more than two dwelling units in or attached thereto, situated upon a single lot of record. MFR properties shall not include improved property containing structures used primarily for non-residential purposes and as defined herein or vacant/undeveloped property.
+(n)
+Non-single-family residential (NSFR) property shall mean a developed parcel of land that consists of various non-residential land uses including, but not limited to: (1) multi-family, commercial (including mixed commercial and residential), office/institutional, public, transportation, industrial, manufacturing and storage buildings and facilities; (2) parking lots, parks, public and private schools, universities and hospitals; (3) streets, roads, water and wastewater treatment plants; and (4) any other form of use not specifically defined as a single-family residential property (SFR).
+(o)
+Non-single-family residential (NSFR) customer shall mean a utility customer whose property meets the definition of NSFR whether such customer is the owner of the parcel or a tenant of the owner.
+(p)
+Parcel shall mean a designated parcel or tract, established by plat, subdivision, or as otherwise permitted by law, to be separately owned, used, developed, or built upon.
+(q)
+Private stormwater management systems and facilities shall mean those natural and manmade channels, swales, ditches, rivers, streams, creeks, branches, reservoirs, ponds, drainageways, inlets, catch basins, pipes, headwalls, storm drains, lakes and other physical works, properties and improvements which transfer, control, convey or otherwise influence the movement of stormwater runoff or water quality, for which operation and maintenance is the responsibility of the owner or successor or assignee thereof, and which have not been conveyed or dedicated to the city for future maintenance.
+(r)
+Public stormwater management systems and facilities shall mean that portion of the drainage system consisting of natural and/or man-made structures, within the political boundaries of the city which channel or convey stormwater from its point of collection to a point of discharge, owned by the city, over which the city has a legal right of access, have been formally dedicated to and accepted by the city for maintenance, or over which the city exercises dominion and control.
+(s)
+Service area means the entire land area within the corporate limits of the city.
+(t)
+Single-family residential (SFR) property means developed property containing one residential structure with no more than two dwelling units in or attached thereto, situated upon a single lot of record. Improved property may be classified as SFR even if supplemental accessory structures are present such as garages, carports, storage buildings, guesthouses, servants or caretakers quarters, cottages or barns, or the presence of a commercial use within the residence, as long as such use does not result in significant additional amounts of impervious surfaces, as determined by the governing body or its designee. SFR properties shall not include improved property containing structures used primarily for non-residential purposes and as defined herein; manufactured homes located within manufactured home parks where the land is owned by someone other than the owners of the manufactured homes; residential condominium developments with more than two units; or vacant/undeveloped property.
+(u)
+Single-family residential (SFR) customer means a utility customer of the city residing in a dwelling unit whether such customer is the owner of the dwelling unit or a tenant of the owner of the dwelling unit.
+(v)
+Stormwater management services mean all water quality and water quantity related services provided by the city which relate to the following:
+(1)
+Transfer, control, conveyance or movement of stormwater runoff through the incorporated portions of the city;
+(2)
+Maintenance, repair and replacement of existing stormwater management systems and facilities;
+(3)
+Planning, development, design and construction of additional stormwater management systems and facilities to meet current and anticipated needs;
+(4)
+Regulation of the use of stormwater management services, systems and facilities;
+(5)
+Compliance with applicable state and federal stormwater management regulations and permit requirements; and
+(6)
+Other services as deemed appropriate by the city.
+(w)
+Stormwater management systems and facilities mean those natural and manmade channels, swales, ditches, rivers, streams, creeks, branches, reservoirs, ponds, drainage ways, inlets, catch basins, pipes, headwalls, storm sewers, public streets, curbs and gutters, lakes and other physical works, properties and improvements which transfer, control, convey, detain, retain, treat or otherwise influence the movement of stormwater runoff.
+(x)
+Stormwater utility manager means the person appointed by the city manager to administer the provisions of this article.
+(y)
+Stormwater user fee charge means the periodic user fee charge for the provision of stormwater management services imposed pursuant to this article of the Brunswick Stormwater Utility Ordinance. This term shall exclude special charges to the owners and/or tenants of particular properties for services, systems or facilities related to stormwater management, including, but not limited to, charges for development plan review, inspection of development projects, post-construction maintenance and inspection of existing facilities, on-site stormwater control systems and other stormwater management related services provided by Brunswick for which a corresponding fee is collected for the service rendered.
+(z)
+Undeveloped land means land in its unaltered natural condition or which is modified to such a minimal degree as to have a hydrologic response comparable to land in an unaltered natural condition shall be deemed undeveloped. For purposes of this article, undeveloped land includes property altered from its natural condition by the existence and/or installation of 500 square feet or less of impervious surface.
+(aa)
+User is defined as any person who uses property, which maintains connection to, discharges to, or otherwise receives stormwater management services from the city.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-110. - Stormwater utility and enterprise fund established.
+(a)
+There is hereby established a stormwater utility to be known as the City of Brunswick Stormwater Utility, which shall be responsible for stormwater management services throughout the incorporated area of the city, and which shall provide for the management, protection, control, regulation, use and enhancement of the city's stormwater management systems and facilities and stormwater management program services.
+(b)
+There is hereby established a stormwater utility enterprise fund in the city accounting systems for the purpose of dedicating and protecting all funding generated by the stormwater utility user fee charge to the operation of the stormwater management program and stormwater utility, including, but not limited to, rates, charges, and fees as may be established by the mayor and city commission from time to time, and other funds that may be allocated to the stormwater utility. Such fund shall be both an enterprise fund and a fiduciary fund, consistent with the definitions within this article.
+(c)
+All revenues and receipts generated from the stormwater user fee charges shall be segregated and placed into the stormwater utility enterprise fund in trust and be expended solely for stormwater management purposes; provided, however, such fund may also pay a reasonable allocation of costs provided to the stormwater utility by the city's general fund, or other utilities of the city, in order to account for application overhead costs. Stormwater utility user fee charge revenue shall be used only for the operating expenses and/or capital investments of the stormwater utility. However, other forms of revenue and/or financial resources, not accounted for in the stormwater utility user fee revenue, may be allocated as deemed appropriate by the city, to provide supplemental funding to the stormwater management program and stormwater management services.
+(d)
+Under the supervision and oversight of the city manager or is designee, the city shall place responsibility with the stormwater utility manager for operation, maintenance and regulation of the stormwater utility and stormwater management systems and facilities owned and operated, or maintained by the city, and other related assets, including, but not limited to, properties, other than road rights-of-way, upon which such stormwater management systems and facilities are located, easements, rights-of-entry and access and certain equipment used solely for stormwater management.
+(e)
+The stormwater utility and enterprise fund shall be subject to periodic review by the Mayor and City Commission of the City of Brunswick. Prior to the adoption of a new rate resolution set forth in section 22A-115, the utility and fund shall be brought before the commission for review and consideration. Should the utility and fund be found to no longer be necessary to support the improvement, maintenance and repair of the city's stormwater system, or should the fund be operating causing a sufficient surplus in enterprise funds, the mayor and city commission may take such action to decrease the stormwater user fee, temporarily suspend the stormwater utility, or eliminate the stormwater utility.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-111. - Stormwater utility service area.
+There shall be one stormwater utility service area in the city which shall encompass the municipal boundaries of Brunswick. The city has established that all developed parcels within the municipal boundaries receive stormwater management program services from the city. Improved/developed properties within the defined service area will receive a stormwater user fee charge bill because they contribute stormwater runoff to the public drainage system, are directly or indirectly connected to the city's drainage system, and/or receive stormwater management services from the city to varying degrees.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-112. - Scope of responsibility for stormwater management systems and facilities.
+(a)
+The stormwater utility shall provide stormwater management services for existing and proposed public stormwater management systems and facilities as defined in this article, subject to funding availability and policy considerations made in the best interest of the public health, safety and general welfare, and of the environment. Additionally, the stormwater utility may accept the responsibility for providing stormwater management services to private stormwater management systems and facilities, acceptance of which conforms to policies established by the mayor and city commission.
+(b)
+The city owns in fee simple, or has legal rights established by written agreements, which allow it to operate, maintain, improve, and access those stormwater management systems and facilities which are located:
+(1)
+On property owned by, or within the possession and control of, the city;
+(2)
+Within public rights-of-way of the municipal street system;
+(3)
+On private property but within legally dedicated easements granted to, and accepted by, the city;
+(4)
+On private property where the city has been granted, by written agreements, rights-of-entry, rights-of-access, rights-of-use or other provisions for operation, maintenance, improvement and access to the stormwater management system facilities located thereon; or
+(5)
+On public land which is owned by another governmental entity with whom the city has a written agreement providing for the operation, maintenance, improvement and access to the stormwater management systems and facilities located thereon.
+(c)
+Operation, maintenance and/or improvement of stormwater management systems and facilities which are located on private or public property not owned by the city, and for which there has been no written agreement granting easements, rights-of-entry, rights-of-access, rights-of-use or other form of dedication thereof to the city for operation, maintenance, improvement and access of such stormwater management systems and facilities shall be and remain the legal responsibility of the property owner and/or tenant, except as otherwise provided for by state and federal laws and regulations.
+(d)
+The stormwater utility may provide periodic inspection, testing, or engineering assessment of privately owned stormwater management systems and facilities to ascertain that said facilities are functioning as designed and approved. After notice to the property owner, the stormwater utility may provide for remedial maintenance of said private facilities based upon the severity of stormwater problems and potential hazard to the public health, safety, and welfare and the environment. In cases where such remedial maintenance is required to be performed by the city, the city shall have the right to bill the owner or property owner association or any members of said property owner association that have ownership of the private facility for the costs of such maintenance and impose a lien against the property(ies) to enforce collection.
+(e)
+It is the express intent of this article to protect the public health, safety and welfare of people and property in general, but not to create any special duty or relationship with any person or entity, or to any specific property within or outside the municipal boundaries of the city. The city expressly reserves the right to assert all available immunities and defenses in any action seeking to impose monetary damages or equitable remedies upon the city, its elected officials, officers, employees, and agents arising out of any alleged failure or breach of duty or relationship.
+(f)
+If any permit, plan approval, inspection, or similar act is required by the city as a condition precedent to any land disturbance or construction activity upon property not owned by the city pursuant to this or any other regulatory code, ordinance, regulation or rule of the city, or under federal or state law, the issuance of such permit, plan approval or inspection shall not be deemed to constitute a warranty, express or implied, nor shall it afford the basis for any action, including any action based on failure to permit, negligent issuance of a permit, negligent plan approval, negligent construction of permitted system or facility, or negligent maintenance of any permitted stormwater management system or facility not expressly dedicated to and accepted by the city for further maintenance in an action seeking the imposition of money damages or equitable remedies against the city, its mayor and city commission members, officers, employees or agents.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-113. - Stormwater utility customer classes.
+(a)
+The stormwater utility shall establish specified customer classes within the service area to reflect differences in impervious surface and stormwater runoff characteristics; stormwater management program services provided by the city to the stormwater utility customers; and the respective demand that those customers' properties place on the city stormwater management program and drainage system components. All publicly owned developed properties, other than streets or roads, are subject to the user fee charges on the same basis as private properties. The stormwater utility classes will encompass all developed and undeveloped properties within the city and are defined as follows:
+(1)
+The single-family residential (SFR) class shall consist of all developed properties classified as SFR customers per the applicable definition.
+(2)
+The non-single-family residential (NSFR) class shall consist of all developed properties classified as NSFR customers per the applicable definition.
+(3)
+The undeveloped class shall consist of properties classified as undeveloped per the applicable definition.
+(b)
+Documentation pertaining to the stormwater utility customer classes shall be kept on file in the office of the stormwater utility manager for public inspection.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-114. - Stormwater user fee charges.
+(a)
+It shall be the policy of the city that user fee charges for stormwater management services to be provided by the stormwater utility in the designated service area shall be equitably derived through methods which have a demonstrable relationship to the varied demands and impacts imposed on the stormwater management services by individual properties and/or the level of service rendered by, or resulting from, the provision of stormwater management services by the city.
+(b)
+The basis for calculation of the stormwater user fee charge for developed properties within the city is established in this article. The city shall assign or determine the customer class, amount of impervious area and other pertinent factors as may be needed for the fair, reasonable and equitable allocation of the costs to deliver stormwater management services and to calculate the stormwater user fee charges for developed properties in the city.
+(c)
+Stormwater user fee charge rates shall be structured so as to be uniform within the customer class, and the resultant user fee charges shall bear a reasonable connection, or rational nexus, to the cost of providing stormwater management services. User fee charge rates shall be in addition to other rates, charges, or fees employed for stormwater management within the incorporated areas of the city as defined herein.
+(d)
+To the extent practicable, credits against stormwater user fee charges shall be provided for on-site stormwater control systems and activities constructed, operated, maintained and performed to the city's standards by public and private property owners and/or tenants which eliminate, mitigate or compensate for the impact that the property or person may have upon stormwater runoff discharged to public stormwater management systems and facilities, or to private stormwater management systems and facilities which impact the proper function of public stormwater management systems and facilities.
+(e)
+The stormwater user fee charges shall accrue beginning September 1, 2018, and shall be billed periodically by the city thereafter via a method established by the mayor and city commission.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-115. - Stormwater user fee charge billing rates.
+(a)
+The stormwater utility shall impose a stormwater user fee charge on all developed properties within the service area in accordance with the provisions of this article. The stormwater utility shall apportion the cost of delivering stormwater services to all developed properties based on the demand the property places on the city's stormwater management program, the stormwater services provided by the city and the benefits derived by the property as a result of the provision of services.
+(b)
+The mayor and city commission shall establish by resolution the stormwater user fee charge rates, and the billing rates may be modified by the mayor and city commission from time to time to meet the financial and operational needs of the Brunswick Stormwater Utility. A current schedule of said rates shall be on file in the office of the City Clerk of Brunswick. In setting or modifying such rates, it shall be the goal of the city to establish rates that are fair, equitable and reasonable, and which, together with other funding sources available to the Brunswick Stormwater Utility for services, systems, and/or facilities related to stormwater management are sufficient to support the cost of the stormwater management program, including, but not limited to, the payment of principal and interest on debt obligations, lease payments, operating expenses, capital outlays, non-operating expenses, provisions for prudent reserves and other stormwater utility related costs as deemed appropriate by the city.
+(c)
+Stormwater user fee charges shall be based upon the total number of equivalent residential units (ERUs) associated with developed properties within the city. Each ERU shall correspond to 2,220 square feet of impervious surface.
+(d)
+Calculation of user fee charges. The periodic stormwater user fee charges imposed on all developed properties shall be calculated by multiplying the stormwater user fee billing rate (per ERU) times the number of ERUs for each customer account. The number of ERUs that will be utilized to calculate the user fee charge for each customer account shall be in general accordance with the following:
+(1)
+SFR customer class: Each SFR customer account shall be charged 1.0 ERU per month.
+(2)
+NSFR customer class: Each NSFR customer shall be charged 1.0 ERU for each 2,220 square feet, or increment thereof, of impervious surface located on the property to establish the total number of ERUs for billing. Fractional ERUs will be rounded to one decimal place to establish the number of ERUs for billing each month. A minimum of 1.0 ERUs will be charged to each NSFR customer.
+(3)
+Undeveloped land customer class: Undeveloped land shall be assigned 0 ERUs and will not receive a stormwater user fee bill.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-116. - Stormwater user fee charge exemptions.
+(a)
+Except as provided in this section or otherwise provided by law, no developed public or private property located in the incorporated area of the city, containing more than 500 square feet of impervious surface, shall be exempt from the stormwater user fee charges. Publicly owned developed property of the federal and state governments, their departments, agencies, boards, commissions, and authorities, shall not be exempt from stormwater user fee charges under this article. The stormwater utility user fee charge is not a tax and no exception, credit, offset, or other reduction in stormwater user fee charges shall be granted based on age, tax status, economic status, race, religion, disability, or other condition unrelated to the stormwater utility's cost of providing stormwater management program services and facilities.
+(b)
+Exemptions to the stormwater user fee charges are as follows:
+(1)
+Parcels which contain 500 square feet, or less, of impervious surfaces or partial impervious surfaces shall be exempt from stormwater user fee charges.
+(2)
+Linear railroad rights-of-way (i.e. tracks, rails, rail bed) outside of the defined rail yard limits shall be exempt from stormwater user fee charges. This exemption is in recognition of routine drainage system maintenance and capital construction activities undertaken by the rail road company associated with rights-of-way and drainage conveyance systems. However, railroad stations, rail yards, maintenance buildings, and/or other improved property used for railroad operations shall not be exempt from stormwater user fee charges.
+(3)
+City of Brunswick streets and rights-of-way shall be exempt from stormwater user fee charges. The stormwater utility shall not charge the city a user fee charge for the impervious surface associated with city's streets and other impervious surfaces within the rights-of-way of the city's municipal street system. This exemption is granted in consideration of the city allowing the stormwater utility to utilize the city's existing streets, curbs, gutters, drainage ways and ditches, storm sewers, culverts, inlets, catch basins, pipes, head walls and other structures, natural and man-made, within and owned by the city which controls, diverts, and conveys surface water for the purposes of collecting, diverting, transporting and controlling surface runoff and stormwaters. All other developed property owned by the city shall be subject to the imposition of stormwater user fee charges in accordance with this article.
+(4)
+Glynn County roads and rights-of-way on the county road system located within the city limits shall be exempt from stormwater user fee charges inasmuch as Glynn County has legal responsibility to perform all drainage system maintenance and capital construction activities with respect to such roads and rights-of-way. This exemption is in recognition of the drainage system maintenance and capital construction responsibilities undertaken by Glynn County. All other developed property owned by Glynn County that is within the service area shall be subject to the imposition of stormwater user fee charges in accordance with this article.
+(5)
+Georgia Department of Transportation (GDOT) highways, federal interstates, and rights-of-way on the state highway system within the city limits shall be exempt from stormwater user fee charges. This exemption is in recognition of routine drainage system maintenance, NPDES regulatory compliance, and capital construction activities undertaken by GDOT in association with GDOT rights-of-way road and drainage conveyance systems. However, offices, maintenance buildings, and/or other developed property used for GDOT purposes shall not be exempt from stormwater user fee charges.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-117. - Stormwater user fee charge credits.
+(a)
+The stormwater utility manager may grant credits or adjustments based on the technical and procedural criteria set forth in the City of Brunswick Stormwater Utility Credit Manual (credit manual), which is incorporated into this article by reference and made a part hereof. Copies of the credit manual will be maintained by and made available from the stormwater utility manager.
+(1)
+Customers may apply for credits and/or adjustments in accordance with the credit manual.
+(2)
+A stormwater user fee charge credit shall be determined based upon meeting all technical requirements, standards and criteria contained in the credit manual. The amount of credit, or reduction of the stormwater user fee charge, shall be in accordance with the criteria contained in the credit manual.
+(3)
+Any credit allowed against the stormwater user fee charge is conditioned on continuing compliance, including proper future maintenance of the stormwater management systems and facilities with design and performance standards as stated in the credit manual and upon continuing provision of the controls, systems, facilities, services, and activities provided, operated, and maintained by the customer. The stormwater utility manager may revoke a credit at any time for noncompliance with applicable standards and criteria as established in the credit manual or this article.
+(4)
+In order to obtain a credit, the customer must make application to the city on forms provided by the stormwater utility manager for such purpose, and in accordance with the procedures outlined in the credit manual.
+(5)
+The application for any credit or adjustment must be in writing and must include the information necessary to establish eligibility for the credit or adjustment, and be in the format described in the credit manual. The customer's public utility account must be paid and current prior to review and approval of a stormwater utility credit application by the city. Incomplete applications will not be accepted for consideration and processing.
+(b)
+When an application for a credit is deemed complete by the stormwater utility manager, they shall have 30 days from the date the complete application is received to approve the credit in whole, approve the credit in part, or deny the credit. The stormwater utility manager's decision shall be in writing and will be mailed to the address provided on the adjustment request, and service shall be complete upon mailing. Credits applied for by the customer and approved in whole or in part, shall apply to all stormwater user fee charges in accordance with the terms defined in the credit manual.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-118. - Stormwater user fee charge billing; delinquencies and collections; and adjustments.
+(a)
+Billing.
+(1)
+A bill for stormwater user fee charges may be sent through the United States Postal Service or by alternative means, notifying the owner of the property being billed of the amount of the stormwater user fee charge, less credits, the date the payment is due and the date when payment is past due.
+(2)
+The mayor and city commission authorizes the city tax collector to bill and collect the Brunswick Stormwater User Fee Charge as part of the property/ad valorem tax bill. The city commission further authorizes the city tax collector to charge and collect penalties and interest as set forth in subsection (b) of this section.
+(3)
+If a bill for a stormwater user fee charge for a particular parcel is generated, failure of the customer to receive the bill shall not be justification for nonpayment.
+(4)
+Regardless of the party to whom the bill is initially directed, the owner of the property, as identified from the public land records of Glynn County, shall be obligated to pay the appropriate stormwater user fee charge for that property and any interest and/or penalties that have accrued.
+(5)
+If a property is unbilled, or if no bill is sent for a particular tract of improved property, the Brunswick Stormwater Utility may back bill for a period of up to one year, but shall not be entitled to any interest or any penalty charges during the back billed period.
+(b)
+Delinquencies and collections.
+(1)
+A penalty or late charge shall be assessed against any delinquent user fee amount in the same manner and amount set forth in the City of Brunswick Code of Ordinances section 20-2.
+(2)
+In addition to the penalty stated above, the unpaid and delinquent user fee amount shall bear interest in the same manner as set forth in City of Brunswick Code of Ordinances section 20-3.
+(3)
+The city shall assess all costs of collection, including attorneys' fees and court costs, against the property owner.
+(4)
+Unpaid stormwater user fee charges shall be collected in any manner permissible by Georgia law, including but not limited to: utilizing the services of a collection agency, by filing suit to collect on an unpaid account, or by using all methods allowed by Georgia law to collect on any judgment obtained, including enforcement of any lien resulting from any such judgment. Unless reduced to a judgment and a Writ of Fieri Facias (FiFa) issued, the unpaid user fee charge shall not constitute a direct lien against the owner and/or the property.
+(c)
+Adjustments. The stormwater utility manager shall administer the procedures and standards for the adjustment of the stormwater user fee charge.
+(1)
+If a customer believes his stormwater user fee charge amount is incorrect, the customer may seek an adjustment of the stormwater user fee charge for the account at any time by submitting the request in writing to the stormwater utility manager and setting forth in detail the grounds upon which relief is sought. The customer's stormwater user fee must be paid and current prior to consideration of an adjustment request by the city.
+(2)
+Customers requesting the adjustment shall be required, at their own expense, to provide accurate impervious area and other supplemental information to the stormwater utility manager, including, but not limited to, a survey certified by a registered land surveyor or a professional engineer or as otherwise allowed by the stormwater utility manager. Submittal of this information will be required if the city staff cannot make a determination based on field inspection and/or review of existing city aerial photography. Failure to provide the required information within the time limits established by the stormwater utility manager, as may be reasonably extended, may result in denial of the customer's adjustment request.
+(3)
+Once a completed adjustment request and all required information are received by the stormwater utility manager, the stormwater utility manager shall within 30 calendar days render a written decision.
+(4)
+In considering an adjustment request, the stormwater utility manager shall consider whether the calculation of the stormwater user fee charge for the account is correct.
+(5)
+The stormwater utility manager's decision shall be in writing and will be mailed to the address provided on the adjustment request, and service shall be complete upon mailing.
+(6)
+If the result of an adjustment is that a refund is due the applicant, the refund will be applied as a credit on the applicant's next stormwater user fee charge bill.
+(Ord. No. 1058, § 1, 8-15-2018)
+Sec. 22A-119. - Appeals and hearings.
+(a)
+Appeals. An appeal to the city manager may be taken by any customer aggrieved by any decision of the stormwater utility manager. The appeal shall be taken within 30 calendar days of the decision of the stormwater utility manager by filing with the city manager a notice of appeal in writing specifying the grounds thereof. Upon the filing of the notice of appeal, the stormwater utility manager shall forthwith transmit to the city manager all documentation constituting the record upon which the decision appealed from was taken.
+(b)
+Hearings. The city manager shall fix a reasonable time for hearing the appeal and give written notice to the appellant at least ten calendar days prior to the hearing date. The notice shall indicate the place, date and time of the hearing. The city manager shall affirm, reverse, affirm in part, or reverse in part the decision of the stormwater utility manager after hearing the evidence. If the decision of the stormwater utility manager is reversed in whole or in part, resulting in a refund or credit due to the property owner or customer, then such refund or credit shall be calculated retroactive to the date of the initial appeal. The decision of the city manager shall be final, and there shall be no further administrative appeal. Any person aggrieved or dissatisfied with the decision of the city manager may petition the Superior Court of Glynn County for Writ of Certiorari.
+(Ord. No. 1058, § 1, 8-15-2018)

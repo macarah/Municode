@@ -1,0 +1,353 @@
+Article 21.3 - Cable Communications
+
+Section 21.3.1 - Applicability.
+This article applies to the provision of cable services as such term is defined in the Communications Act of 1934, as amended by the Cable Communications Policy Act of 1984, the Cable Television Consumer Protection and Competition Act of 1992, and the Telecommunications Act of 1996 and as further amended from time to time (the "Cable Act"). Cable services shall include "broadband telecommunications systems," or "community antenna television systems" or "CATV systems" and refers to a system composed of, without limitation, antenna, cables, wires, lines, towers, wave guides, or any other conductors, converters, equipment or facilities, designed, constructed, or wired for the purpose of producing, receiving, amplifying, and distributing audio and/or visual radio, television, electronic, or electrical signals to and from persons, subscribers, and locations in the City of Roswell. The systems may include, if otherwise lawful, television frequency modulated radio signals disseminated to the general public by licensed broadcasting stations, music originated on premises of grantees, weather information, and news ticker. In the event the grantee shall include television and frequency modulated radio signals disseminated to the general public by licensed broadcasting stations, the grantee agrees to carry these signals consistent with the rules and regulations promulgated by the Federal Communications Commission.
+Section 21.3.2 - Definitions.
+Access channels means those channels required by this article to be kept available by the grantee for partial or total dedication to public access, educational access, and local government access.
+(1)
+Public access channel. A specially designated noncommercial public access channel available on a first-come, nondiscriminatory basis for which the system shall maintain and have available for public use at least the minimal equipment and facilities necessary for the production of programming for such a channel.
+(2)
+Education access channel. A specially designated channel for use by local educational authorities.
+(3)
+Local government access channel. A specially designated channel for local government uses.
+Affiliated person means each person who falls into one (1) or more of the following categories: (i) each person having, directly or indirectly, a controlling interest in the company; (ii) each person in which the company has, directly or indirectly, a controlling interest; (iii) each officer, director, general partner, limited partner holding an interest of twenty-five (25) percent or more, joint venturer or joint venture partner, of the company; and (iv) each person, directly or indirectly, controlling, controlled by, or under common control with, the company; provided that "affiliated person" shall in no event mean the franchising authority, the entity, if any, administering some or all of the access channels, any limited partner holding an interest of less than twenty-five (25) percent of the company, or any creditor of the company solely by virtue of its status as a creditor and which is not otherwise an affiliated person by reason of owning a controlling interest in, being owned by, or being under common ownership, common management, or common control with, the company.
+Basic service means any service tier that includes the retransmission of local television broadcast signals and any equipment or installation used in connection with basic service.
+Cable communication system, cable system, CATV or broadband means any facility, consisting of a set of closed transmission paths and associated signal generation, reception and control equipment, a function of which is to provide cable services and noncable services by receiving through any means, including, without limitation, coaxial cable, optical fiber, antenna, or satellite or microwave transmission, and distributing video, audio, voice, or data signals, whether originating with the franchising authority or elsewhere.
+Cable service means the one-way transmission to subscribers of video programming or other programming service, and subscriber interaction, if any, which is required for the selection or use of such video programming or other programming service.
+Channel means a band of frequencies in the electromagnetic spectrum, or any other means of transmission (including without limitation, optical fibers or any other means now available or that may become available), which is capable of carrying a signal, an audio signal, a voice signal, or a data signal.
+Converter means an electronic device, which converts signals to a frequency not susceptible to interference within the television receiver of a subscriber, and by an appropriate channel selector also permits a subscriber to view all signals delivered at designated dial locations.
+Franchise means an initial authorization, or renewal thereof, issued by the city, whether such authorization is designated as a franchise, permit, license, resolution, contract, certificate, agreement or otherwise, which authorizes the use and occupation of the streets and public rights-of-way, to provide cable services.
+Grantee shall mean the entity to whom the CATV franchise is awarded and shall include all persons having any rights, powers, privileges, duties, liabilities or obligations under the franchise agreement, and also all persons having or claiming any title or interest in or to the system, whether by reason of the franchise itself or any subcontract, transfer, assignment, mortgage, pledge, security agreement, management or operating agreement, or otherwise arising or created.
+Gross subscriber revenues shall mean all revenue derived directly or indirectly by a grantee from its CATV system within the city, including but not limited to charges for basic services and additional services, connection and reconnection, leased channels, converter rentals, studio rental, production equipment and personnel, and advertising revenues. If a grantee serves areas outside the city and receives revenue for advertising both within and without the city, such advertising revenue shall be prorated to the city on a direct ratio between the number of subscribers within the city, and the total number of subscribers within and without the city.
+Pay service means optional audio or video programs available to subscribers on per channel or per program basis.
+Programmer means any person, firm, corporation or entity who or which produces or otherwise provides program material for transmission by video, audio, digital or other signals, either live or from recorded tapes, to subscribers, by means of the cable communications system.
+Public agency shall mean an agency that is supported wholly, or substantially, by public funds.
+Streets and public right-of-way means the surface of, and that area above and below, any and all streets, alleys, paths, bridges, tunnels, sidewalks, planting strips, medians, waterways, docks, wharves, piers, public grounds and other public places or waters within or belonging to the franchising authority and any other property within the franchising authority to the extent to which there exist public easements or public rights-of-way.
+Subscriber shall mean a person or organization lawfully receiving any service provided by the grantee by means of or in connection with the system, whether or not a fee is paid for such service.
+System means the communications system which is to be constructed, operated, maintained and upgraded, as necessary, by the company pursuant to this agreement, including, without limitation, all real property, all tangible and intangible personal property, buildings, offices, furniture, subscriber lists, cables, amplifiers and all other electronic devices used in connection therewith and all rights, contracts and understandings with regard to any matter related thereto.
+Section 21.3.3 - Granting Authority.
+(a)
+No person shall provide cable services or operate a cable system without a franchise granted in accordance with the provisions of this article and no person shall use or occupy city property, including the streets, to provide any telecommunications services without a franchise granted in accordance with the provisions of this chapter.
+(b)
+The mayor and council may grant one (1) or more franchises in accordance with this article, provided that the city council reserves the right to modify any provision of this ordinance by amendment hereof.
+(c)
+The grant of any franchise shall be made by adoption of a separate resolution by mayor and council and shall be on such terms and conditions as may be specified in said separate resolution and/or a franchise agreement between the city and the grantee.
+(d)
+Any franchise granted shall be nonexclusive. The city specifically reserves the right to:
+(1)
+Grant, at any time, such additional franchises as it deems appropriate; and
+(2)
+Engage, for itself, in the provision of telecommunications services.
+(e)
+The grant of franchises by the city shall be subject to the provisions of applicable law, such as the provisions in the Communications Act of 1934, as amended, governing cable television franchises and renewals thereof.
+Section 21.3.4 - Franchise Application.
+Before any person, firm, or corporation shall begin to construct or operate a CATV system within the City of Roswell, it shall file a written application for a franchise from the city, with the city administrator, in a form prescribed or acceptable to the city administrator, which application shall contain information showing:
+(a)
+The applicant's name, address, telephone number, and federal employer identification number or social security number; copy of applicant's corporate charter, partnership agreement or other appropriate organizational documentation as is applicable; and any trade names (and registrations) used by the applicant;
+(b)
+A list of names and address of the majority shareholders, directors, officers, members, managing partners and/or managing principals of the applicant, as may be applicable;
+(c)
+The names and addresses of any parent or subsidiary of the applicant, namely, any other business entity owning or controlling applicant in whole or in part or owned or controlled in whole or in part by the applicant, and a statement describing the nature of any such parent or subsidiary business entity, including but not limited to telecommunications or cable systems owned or controlled by the applicant, its parent, and subsidiary, and the areas served thereby;
+(d)
+A detailed and complete financial statement of the applicant, certified by an independent certified public accountant, for the fiscal year immediately preceding the date of the application hereunder, or a letter or other acceptable evidence in writing from a recognized lending institution or a funding source, addressed to both the applicant and the city setting forth the basis for a study performed by such lending institution or funding source, and a clear statement of its intent as a lending institution or funding source to provide whatever capital shall be required by the applicant to construct and operate the proposed telecommunications or cable system in the city, or a statement from an independent certified public accountant certifying that the applicant has available sufficient uncommitted cash resources to construct and operate the proposed cable system in the city;
+(e)
+A detailed financial plan (pro forma) describing for each year of the franchise, projected number of subscribers, rates, all revenues, operating expenses, capital expenditures, depreciation schedules, income statements, and a sources and uses of funds statement;
+(f)
+Location and telephone numbers of all offices, branches, and warehouses in North Fulton County;
+(g)
+A detailed description of the proposed plan of operation of the applicant which shall include the following:
+(1)
+A description of the proposed services, including channel capacity, the number of channels and types of services to be included in basic services, the number of channels and types of services to be included in additional services, the number of two-way channels, the number of access channels and automated channels, facilities for local origination and a list of any additional service or facility to be made available to the city and other public, institutional and community organizations;
+(2)
+A detailed map indicating all areas proposed to be served, and a proposed time schedule for the installation of all equipment necessary to become operational throughout the entire area to be serviced;
+(3)
+A statement or schedule setting forth all proposed classifications or rates and charges to be made against subscribers and all rates and charges as to each of said classifications, including installation charges, charges for cable service, and charges for any other telecommunications service;
+(4)
+A detailed, informative, and referenced statement describing the actual equipment and operational standards proposed by the applicant;
+(5)
+A copy of the form of any agreement, undertaking, or other instrument proposed to be entered into between the applicant and any subscriber to or for cable services or any other telecommunications services; and
+(6)
+A detailed statement setting forth any and all agreements and undertakings, whether formal or informal, written, oral, or implied, existing or proposed to exist between the applicant and any person, firm, or corporation which materially relate or pertain to or depend upon the application and the granting of the franchise.
+(h)
+Evidence of ability to provide policies or certification of insurance as to worker's compensation, liability, and indemnification as prescribed by this article;
+(i)
+A copy of any agreement covering the franchise area between the applicant and any utility providing for the use of any facilities of the utility including but not limited to, poles, lines, or conduits; and
+(j)
+Such other pertinent information as required by the city administrator.
+Section 21.3.5 - Application Fee and Responsibility for Associated Costs.
+Each applicant for a franchise hereunder shall submit a processing fee and deposit for costs in the amount of $10,000.00, by certified check, payable to the City of Roswell. The sum provided by this section will serve to cover the direct and reasonable costs incurred by the city in processing and analyzing the application and related documentation, evaluating the applicant and related entities or matters, and granting a franchise, and shall include, but not be limited to, administrative, engineering, publication, legal, and consultant's fees and expenses. The application fee will not be deemed a credit towards any other fees or sums due by the grantee.
+Section 21.3.6 - Evaluation Criteria.
+In making any determination hereunder as to any application for a franchise, the mayor and city council may consider such factors as they deem appropriate and in the public interest, including, without limitation:
+(a)
+The adequacy of the proposed compensation to be paid to the city, including the value of any facilities and telecommunications services offered by the applicant to the city;
+(b)
+The legal, financial, technical and other appropriate qualifications of the applicant, and where applicable, related entities;
+(c)
+The ability of the applicant to maintain the property of the city in good condition throughout the term of the franchise;
+(d)
+The value and efficiency to the city and its residents of the cable services and other telecommunications services to be provided, including the type of cable services and telecommunications services to be provided, as well as alternatives to those cable and telecommunications services and services that may be precluded by the grant of the franchise;
+(e)
+The willingness and ability of the applicant to meet construction and physical requirements and to abide by all purpose and policy conditions, limitations and requirements with respect to the franchise; and
+(f)
+Any other public interest factors or considerations deemed pertinent by the city for safeguarding the interests of the city and the public.
+Section 21.3.7 - Procedure for Consideration of and Action on Applications.
+(a)
+The city may make such investigations and take or authorize the taking of such other steps as the mayor and council deem necessary or appropriate to consider and act on applications for franchises and determine whether a franchise should be granted to an applicant, and may require the applicant to furnish additional information and data for this purpose. In considering applications, the mayor and council may seek advice from other city officials or bodies, from such other advisory bodies as they may establish or determine appropriate, or from the public, and may request the preparation of one (1) or more reports to be submitted to them, which may include recommendations with respect to such applications.
+(b)
+If the mayor and council, after considering such information as they determine to be appropriate, elect to further consider one (1) or more applications, the mayor and council may set one (1) or more public hearings for consideration of the application(s), fixing and setting forth a day, hour and place certain when and where any persons having any interest therein or objections thereto may file written comments and appear before the mayor and council and be heard, and providing notice of such public hearing(s) in accordance with applicable law.
+(c)
+The mayor and council may authorize negotiations between city officials and applicants to determine whether the city and such applicants are able to reach agreement on the terms of the proposed franchise.
+(d)
+Upon completion of the steps deemed appropriate by them, the mayor and council may grant the franchise, and may specify the conditions under which the franchise is granted. Alternatively, the city may reject any and all applications from whatever source and whenever received except that the city as franchising authority may not grant an exclusive franchise. The city also reserves the right to waive any or all requirements when it determines that the best interests of the city may be served thereby and may, if it so desires, request new or additional proposals.
+(e)
+This article and its terms and conditions shall be accepted by the grantee by any written franchise agreement executed and acknowledged by the grantee and by the city and filed with the city administrator. The agreement shall incorporate the grantee's written application to the city for the CATV franchise and shall bind the grantee to the provisions of the application insofar as they can be legally enforced. The mayor and council may require a grantee to clarify any portion of its written application prior to the grant of the franchise.
+Section 21.3.8 - Terms and Conditions of Franchise.
+The terms and conditions applicable to any franchise granted pursuant to this article shall be set forth in a separate written agreement. Such written agreement, among other things, shall address the following subjects unless otherwise waived by the city:
+(a)
+The term of the franchise;
+(b)
+The franchise area and the cable services and other telecommunications services and purposes of such other telecommunications services, if any, which are the subject of a franchise;
+(c)
+The compensation to be paid to the city, which may include the payment of fees or the provision of facilities or services, or both;
+(d)
+The circumstances upon which the franchise may be terminated or canceled;
+(e)
+The mechanisms, such as performance bonds, security funds or letters of credit, to be put in place to ensure the performance of the franchisee's obligations under the franchise;
+(f)
+The city's right to inspect the facilities and records of the franchisee;
+(g)
+Insurance and indemnification requirements applicable to the franchisee;
+(h)
+The obligation of the franchisee to maintain complete and accurate books of account and records, and the city's inspection rights with respect thereto;
+(i)
+Provisions to ensure quality workmanship and construction methods;
+(j)
+Provisions to ensure that the franchisee will comply with all applicable city, state and federal laws, regulations, rules and policies, including, without limitation, those related to employment, purchasing and investigations;
+(k)
+Provisions to ensure adequate oversight and regulation of the franchisee by the city;
+(l)
+Provisions to restrict the assignment or other transfer of the franchise without the prior written consent of the city;
+(m)
+Remedies available to the city to protect the city's interest in the event of the franchisee's failure to comply with terms and conditions of the franchise;
+(n)
+Provisions to ensure that the franchisee will obtain all necessary licenses and permits from, and comply with, all laws, regulations, rules and policies of any governmental body having jurisdiction over the franchisee, including the Federal Communications Commission;
+(o)
+Provisions to ensure that the franchisee will protect the property of the city and the delivery of public services from damage or interruption of operations resulting from the construction, operation, maintenance, repair or removal of improvements related to the franchise;
+(p)
+Provisions designed to minimize the extent to which the public use of the streets of the city are disrupted in connection with the construction of improvements relating to the franchise; and
+(q)
+Such other provisions as the city determines are necessary or appropriate in furtherance of the public interest.
+Section 21.3.9 - Nonexclusive Right of Grantees to Install System.
+Where authorized under the provisions hereof, the grantee shall have the right and privilege to erect, install, construct, repair, replace, reconstruct, maintain, and retain in, on, over, under, upon, across, and along any public street, public way, and public place, now laid out or dedicated and all extensions thereof and additions thereto in the City of Roswell, Georgia, any poles, wires, cable, conductors, ducts, conduit vaults, manholes, amplifiers, appliances, attachments, and other property as may be necessary and appurtenant to the broadband telecommunications system, in accordance with the laws and regulations of the United States of America, and the State of Georgia, and the ordinances and regulations of Roswell, Georgia, commencing from and after the adoption of this article.
+Section 21.3.10 - Requirements for Installation and Maintenance of System.
+(a)
+Grantees shall construct, operate, maintain and install a system capable of distributing at least seventy (70) channels or their equivalent. The system shall be installed and maintained in accordance with the best accepted standards of the cable industry and the FCC's cable television technical standards.
+(b)
+For the purpose of permitting the transmission of signals throughout the metropolitan area, the grantee may interconnect its CATV system with any adjacent CATV system. The grantee shall, on request of the city, interconnect the public, education and government channels and any city controlled institutional network with any and all other cable systems in adjacent or overlapping areas within the city.
+(c)
+The grantee shall exercise its best efforts to limit any scheduled interruption of any cable service for any purpose to periods of minimum use. Except in emergencies, the grantee shall provide all affected subscribers with prior notice of scheduled service interruptions, if such interruptions will last longer than thirty (30) minutes.
+(d)
+The grantee shall maintain a written record or log listing the date of subscriber complaints, identifying the subscriber, and describing the nature of the complaint, and when and what action was taken by the grantee in response thereto. This record shall be kept at the grantee's local office for a period of two (2) years from the date when the complaint initially occurred and shall be available for inspection during regular business hours, without further notice or demand, by the city administrator or a designated representative.
+(e)
+If one (1) or more municipalities within the county or the county has granted franchises for the development of a system to other than the grantee or grantees who shall be granted a franchise by Roswell, the franchisee or franchisees shall negotiate with the franchisees serving other parts of the county in order to provide interconnection of the system so that the Fulton County school system can utilize an integrated system providing for simultaneous and exclusive broadcasts and reception by all schools in the system.
+Section 21.3.11 - Maintenance of Office in Area Required.
+The grantees shall provide, at a minimum, the following services to handle consumer and user complaints:
+(a)
+Each grantee shall maintain an office in the city or convenient to subscribers, which shall be open during all usual business hours, have a publicly listed telephone, and be so operated that complaints and requests for repairs may be received on a twenty-four-hour basis. Such office shall be staffed or equipped with an automated answering service so that FCC customer service standards are met.
+(b)
+Each grantee shall maintain a repair and trouble-shooting force capable of responding to subscriber complaints or requests for repair service within twenty-four (24) hours after receipt of the complaint or request. No direct charge shall be made to the subscriber for this service.
+(c)
+Each grantee shall ensure that all subscribers, programmers, and members of the public have recourse to a satisfactory hearing of any complaint. Each grantee shall present to the city, no later than three (3) months after the grant of a franchise hereunder, a set of rules, regulations, and procedures concerning the handling and settling of complaints. Provided, further, that each grantee shall provide its subscribers with copies of such policies annually.
+Section 21.3.12 - Operation.
+(a)
+The grantee, upon request of the city and without cost to the City of Roswell, shall in accordance with Section 611 of the Cable Act (47 U.S.C. § 531) make available channel capacity to be designated for public, educational or governmental ("PEG") use and related equipment and facilities, services and/or financial support for the development and use of PEG access.
+(b)
+Channel time for the public access channel shall be provided on a first-come, first-served basis, without charge to the members of the public. Actual production costs may be charged to the users for live studio programs exceeding five (5) minutes. The grantee shall endeavor to provide such channel time to as many different persons as is practicable, it being the intent that the public channels serve as a significant source of diversified expression.
+(c)
+If a grantee is operating a system within Fulton County, and the county's system is interconnected with the city's system, and if through the interconnection the channels called for by subsections (a), (b), and (c) of this section, the Fulton County Board of Education, and the citizens of Roswell are granted all the time they request of the county system channels, a grantee of the city shall not be required to provide separate educational and public access channels to the city.
+(d)
+The grantee shall provide without charge basic cable including general subscriber services, and a free service connection to all public schools and support buildings, libraries, and other public buildings designated by the city.
+(e)
+The grantee shall, before energizing the system, file with the city administrator an outline of channel allocations and designations and shall thereafter inform the city administrator of any changes or additions to channel allocations and designations.
+(f)
+The CATV system shall carry the signal of all noncommercial educational FM radio stations located within Fulton County.
+(g)
+The grantee shall have the authority to promulgate any rules, regulations, terms, and conditions governing the operation and conduct of its business as shall be necessary to enable the grantee to exercise its rights and perform its obligations under its franchise with the city, and to ensure uninterrupted service to each and all of its subscribers; provided, however, that these rules, regulations, terms, and conditions shall not be in conflict with the provisions of this article or federal and state laws.
+Section 21.3.13 - Supervision by the City.
+(a)
+The grantee shall construct, operate, and maintain the CATV system, subject to the supervision of all of the authorities of the city who have jurisdiction in such matters, and in strict compliance with all laws, ordinances, departmental rules, and regulations.
+(b)
+The CATV system and all parts thereof shall be subject to the right of periodic inspection by the city.
+(c)
+The city administrator, director of transportation, or community development and transportation committee may from time to time issue any reasonable rules and regulations concerning the construction, operation, and maintenance of the CATV system as are consistent with the provisions of this article.
+(d)
+Technical disputes concerning compliance with FCC technical standards and other agreed upon technical matters between the city and the grantee shall be resolved by submission to arbitration pursuant to the terms of section 21.3.32 hereof.
+(2008-01-01, Amended, 01/07/2008; 2007-03-03, Amended, 03/05/2007)
+Section 21.3.14 - Reports.
+(a)
+Each grantee shall file annually the following records and reports with the city not later than three (3) months after the end of its fiscal year:
+(1)
+The report to its stockholders, if any.
+(2)
+An annual financial report in a form approved by the city administrator containing balance sheet, statement of income, statement of changes in retained earnings, statement of changes in ownership equity, notes to financial statements and supplementary schedules reconciled to the foregoing identifying revenues, expenses and income applicable to the operation of its CATV system. Such statements shall be prepared in accordance with generally accepted accounting principles applied on a consistent basis and shall be audited by an independent certified public accountant.
+(3)
+A schedule of property used in its CATV system showing book value on the basis of original cost, less depreciation, with such supporting information as the chief executive may require.
+(4)
+"As built" drawings of the portions of grantee's system located along the public right-of-way of a size and material satisfactory to the director of transportation. Said drawings, set forth by utility quarter sections, shall, at a minimum, include cable routings, total physical miles of cable installed, and the location of amplifiers, power supplies and system monitor test points.
+(5)
+A copy of proof of performance tests required under FCC regulations and standards.
+(6)
+A current list of all its officers and directors, including addresses and telephone numbers.
+(7)
+A list of all pertinent agreements or contracts, including pole use agreements, entered into by the grantee during the fiscal year in the conduct of its business under a franchise granted hereunder; actual copies of contracts shall be supplied upon request.
+(8)
+The names and both business and residential addresses and phone numbers of the franchisee's resident manager, engineer and/or consultant.
+(9)
+Copies of all rules and regulations promulgated by the grantee during the fiscal year in the conduct of its business.
+(b)
+The grantee shall file quarterly with the city, within forty-five (45) days of the end of each quarter, the following:
+(1)
+Quarterly financial statements containing the same information required for annual financial statements under subsection (a)(2) above which shall be prepared in accordance with generally accepted accounting principles applied on a consistent basis and shall be accompanied by a certificate of the grantee's chief financial officer attesting to their completeness and accuracy.
+(2)
+A list of all complaints and CATV system down time received or experienced during the quarter. Such list shall also include complaint disposition and response time. For the purpose of this paragraph, certified copies of a complaint logbook reflecting all such incidents will suffice. The city shall have the right to review this complaint book at any time during the period.
+(c)
+All such reports and records shall be available for inspection by the public at the city clerk's office, and such other locations as the city administrator may designate.
+(d)
+Each grantee shall simultaneously file with the city administrator a copy of each petition, application and communication transmitted by the grantee to, or received by the grantee from, any federal, state, local or other regulatory commissions or agencies having regulatory jurisdiction over any matters affecting cable television.
+Section 21.3.15 - Right of Grantees to Use Poles and Other Equipment of Public Utilities.
+(a)
+There is hereby granted the further nonexclusive right, privilege, and authority to grantees, as defined herein, to lease, rent, or in any other manner obtain the use of towers, poles, lines, cables, and other equipment, and facilities from any and all holders of public licenses and franchises within the incorporated area of the city including, but not limited to, BellSouth and the Georgia Power Company, and to use these towers, poles, lines, cables, and other equipment and facilities, subject to all existing and future ordinances and regulations of the city. The poles used by grantees, other than those owned by grantees, shall be those erected and maintained by existing public utility systems or those owned by the city, when and where practicable, provided mutually satisfactory agreements can be entered into with these companies and with the city by separate agreements.
+(b)
+Grantees shall provide and keep current a map of the city showing the exact type, style, and location of any and all lines, poles, and other fixtures of grantees within the unincorporated area.
+(c)
+Grantees shall have the right to erect and maintain its own poles, as may be necessary for the proper construction and maintenance of the television distribution system, provided written prior approval is obtained in these instances from the director of transportation.
+(2001, Renumbered, 09/04/2001, Correct reinsertion of section.)
+Section 21.3.16 - Requirements for Towers, Poles, Wires, and Appurtenances.
+(a)
+Grantees' transmission and distribution system towers, poles, wires and appurtenances shall be located, erected, and maintained so as not to endanger or interfere with the lives of persons, or to interfere with new improvements the city may deem proper to make, or to hinder unnecessarily or obstruct the free use of the streets, alleys, bridges, or other public property; removal of any equipment to avoid interference shall be done promptly upon receiving written request to do so from the city, or its designated official; and will be at grantee's expense.
+(b)
+Construction and maintenance of the transmission and distribution system shall be in accordance with the provisions of the National Electrical Code as published by the National Fire Protection Association and any applicable ordinances and regulations of the City of Roswell affecting electrical installations, which may be presently in effect, or changed by future ordinances.
+(c)
+All installations of equipment shall be of permanent nature, durable, and installed in accordance with good engineering practices, and shall comply with all existing city regulations, ordinances, and state laws so as not to interfere in any manner with the right of the public or individual property owner, and shall not interfere with the travel and use of public places by the public and during the construction, repair, or removal thereof, shall not obstruct or impede traffic. Further, said construction shall be subject to inspection by the city.
+(d)
+No poles are to be erected upon the streets, and no excavation of any type shall be done or caused to be done upon the streets unless a permit is first obtained from the city.
+(e)
+If any grantees' cables or wires are installed on existing aboveground systems which are placed underground at any future date, at no expense to the city, the grantee shall likewise place their cables or wires underground.
+(f)
+In the event that a change is made in the grade, width, or location of public streets, alleys, avenues, and grounds by authority of the city, which shall necessitate the removal of any poles, wires, and transmission and distribution lines to conform to the change of grade, the grantee shall make the necessary changes in their lines, at their own expense, upon due notice from the city.
+(g)
+In the maintenance and operation of their television transmission and distribution system in the streets, alleys, and other public places, and in the course of any new construction or addition to their facilities, the grantees shall proceed so as to cause the least possible inconvenience to the general public; any opening or obstruction in the streets or other public places made by grantees in the course of their operations shall be made only after having obtained prior written permission from the city to do so, and shall be guarded and protected at all times by the placement of adequate barriers, fences, or barrels, the bounds of which, during periods of dusk and darkness, shall be clearly designated by warning lights.
+(h)
+All work in any way necessitated by the business of grantees which may involve the opening, breaking up, or tearing up of a portion of a street, sidewalk, or other part of any city-owned or city-controlled property, shall be done and repaired in a manner approved by the city, and shall, at the option of the city, be done by the city, and the city shall be reimbursed by the grantee for the reasonable costs of the work. Nothing herein shall be construed as a requirement that the city conduct an excavation or repair on behalf of or as agents for grantees.
+(i)
+Grantees shall, at their expense, protect, support, temporarily disconnect, relocate on the same street, alley, or public place, or remove from the street, alley, or public place, any property of grantees when required by the city by reason of traffic conditions, public safety, street excavation, freeway and bridge construction, change of establishments of street grade, installation of sewers, drains, water pipes, power lines, signal lines, and tracks or any other types of structures or improvements by governmental agencies when acting in a governmental or proprietary capacity, or other structures of public improvement; provided, however, that grantees shall in all such cases have the privileges and be subject to the obligations to abandon any property of grantees in place as provided in section 21.3.23 hereof.
+(j)
+Where located within the right-of-way of public streets, highways, alleys or other thoroughfares, the grantee's towers, poles, wires, and appurtenances shall be placed at such location within the right-of-way as is designated from time to time by the city transportation department.
+(k)
+No work within the right-of-way shall be commenced until a permit to perform the work shall have been applied for and granted by the transportation department of the city. Requests for permits to work upon the road rights-of-way must be filed with said department not less than twenty-one days prior to the time that the work is scheduled to commence. Applications for permits to perform work within a street right-of-way must be filed in the name of the grantee, who shall at all times be responsible for the proper performance of the work that is scheduled. The application shall be upon such form as customarily used or accepted by the city with respect to public utilities seeking permission to work within a street right-of-way. The application shall be accompanied by maps, prints, or drawings showing the nature of the work to be done, the location of the work, the anticipated beginning and ending dates of the work, the location of all public utilities and improvements within the right-of-way involved, and how the same will be affected by the grantee's proposed work, a general description of the proposed work, and such other information as the transportation department reasonably deems necessary before the granting of the requested permit.
+(l)
+Each grantee may trim trees overhanging the streets so as to prevent the branches of such trees from coming in contact with its wires and cables. All trimming shall be done under the supervision and direction of the city arborist and at the expense of the grantee.
+(m)
+When performing any work within or adjacent to any public right-of-way, a grantee shall take all reasonable precautions to protect the public, and erect such warning devices as shall be reasonably calculated to apprise the public of the presence of the work and the activities being undertaken.
+(n)
+The granting of any permit to a grantee to perform work within or adjacent to public right-of-way shall not in any instance constitute an acceptance by the city of any responsibility for the activities of a grantee.
+Section 21.3.17 - Joint Use of Poles to be Granted City.
+Grantees shall grant to the city, free of expense, joint use of any and all poles owned by them for any proper municipal purpose, insofar as it may be done without interfering with the free use and enjoyment of the grantees' own wires and fixtures. Proper regard shall be given to all existing safety rules covering construction and maintenance in effect at the time of construction. If, in accommodating the city's joint use of their poles, grantees are required to change or replace poles or install new poles, the city shall compensate grantees for such additional expense.
+Section 21.3.18 - Insurance Requirements.
+(a)
+Specifications. Throughout the term of this agreement, the company shall, at its own cost and expense, maintain a liability insurance policy or policies, in a form acceptable to the franchising authority, together with evidence acceptable to the franchising authority demonstrating that the premiums for said policy or policies have been paid. Such policy or policies shall be issued by companies duly licensed to do business in the State of Georgia. Such companies must carry a rating by A.M. Best of not less than "A". Such policy or policies shall insure (a) the company and (b) the franchising authority and its officers, boards, commissions, councils, elected officials, agents and employees (through appropriate endorsements if necessary) against each and every form of liability of the company referred to in this agreement in the minimum combined amount of $2,000,000.00 for bodily injury and property damage. The foregoing minimum limitation shall not prohibit the company from obtaining a liability insurance policy or policies in excess of such limitations, provided that the franchising authority, its officers, boards, commissions, councils, elected officials, agents and employees shall be named as additional insureds to the full extent of any limitation contained in any such policy or policies obtained by the company.
+(b)
+Workers' Compensation. The company shall ensure its compliance with the Georgia Workers' Compensation Act and in that regard shall secure insurance to cover its obligations with respect to workers' compensation claims, or take other appropriate steps, which insurance and steps shall be in form and substance reasonably satisfactory to the franchising authority. The company shall indemnify and hold harmless the franchising authority from any workers' compensation claims to which the company may become subject during the term of this agreement.
+(c)
+Maintenance. The liability insurance policies required by this section 21.3.18 shall be maintained by the company throughout the term of this agreement and such other period of time during which the company operates or is engaged in the removal of the system. Each such liability insurance policy shall contain the following endorsement: "It is hereby understood and agreed that this policy may not be canceled nor the intention not to renew be stated until ninety (90) days after receipt by the franchising authority, by registered mail, of a written notice of such intent to cancel or not to renew" and in no event later than sixty (60) days prior to said cancellation, the company shall obtain and furnish to the franchising authority replacement insurance policies in a form reasonably acceptable to the franchising authority.
+(d)
+Increased Insurance Coverage. In the event of any changed circumstances following the effective date, the franchising authority may, after consulting with the company and mutual agreement reached, alter the minimum limitation of the liability insurance policy or policies required in this section 21.3.18.
+(e)
+Indemnification. Through the foregoing contracts, the grantee shall indemnify and hold harmless the city, its officers, boards, commissions, agents, and employees, against and from any and all claims, demands, causes of actions, actions, suits, proceedings, damages (including, but not limited to, damages to city property and damages arising out of copyright infringements, and damages arising out of any failure by the grantee to secure consents from the owners, authorized distributors, or licensees of programs to be delivered by the grantee's CATV system), costs or liabilities (including costs or liabilities of the city with respect to its employees), of every kind and nature whatsoever including, but not limited to, damages for injury or death or damage to person or property, and against all liability to others, and against any loss, cost, and expense resulting or arising out of any of the same, including any attorney fees, accountant fees, expert witness or consultant fees, court costs, per diem expense, traveling and transportation expense, or other costs or expense arising out of or pertaining to the exercise or the enjoyment of any franchise granted hereunder. Provided that the grantee shall not be liable for any damages, fees or expenses where any lawsuit is based on the actions or omissions of the city but not on any act or omission by the grantee.
+(f)
+Liability Not Limited. The legal liability of the company and any affiliated person to the franchising authority and any person for any of the matters which are the subject of the liability insurance policies required by this article including, without limitation, the company's indemnification obligations set forth in this ordinance, shall not be limited by such insurance policies nor by the recovery of any amounts thereunder, except to the extent necessary to avoid duplicative recovery from or payment by the company.
+Section 21.3.19 - Franchise Fee.
+(a)
+State Franchise. Per O.C.G.A. § 36-76-1 et seq., "Consumer Choice for Television Act", as may be amended from time to time, a franchise fee of five (5) percent shall be required for all cable or video service providers doing business within the city under a State of Georgia franchise. The payment by the provider shall be in lieu of any applicable tax, license, fee, surcharge, or other assessment for or with respect to the use of any public right-of-way. Said franchise fee paid shall further be in lieu of any permit fee, encroachment fee, degradation fee or other fee that may otherwise be assessed for occupation or work within the public right-of-way; provided, however, that nothing in this section shall limit the city's authority to impose ad valorem taxes, sales taxes or other taxes lawfully enacted. All cable or video service providers shall provide notice to the City of Roswell of any intent to work within the City of Roswell at least ten (10) days prior to the start date of such work and shall be subject to all federal, state and city codes, ordinances and regulations concerning excavation, permitting (other than payment of fees), bonding requirements, indemnification requirements and placement and maintenance of facilities requirements except as specifically precluded by O.C.G.A. § 36-76-6(b). All cable and video service providers shall further be subject to any lawful and reasonable future exercise of the city's police powers to the extent necessary to protect the health, safety and welfare of the public.
+(b)
+City Franchise. Upon renewal or initial grant of a franchise, each grantee shall pay the franchise fee hereinafter set forth, in addition to the filing fee. For the rights granted hereunder, the grantee shall pay to the city at the time hereinafter specified and subject to the terms of section 21.3.25 hereof, a franchise fee equal to five (5) percent of the monthly total gross revenues of its cable or video service within the city unless a lesser amount is agreed to by the mayor and council within the franchise agreement. Said franchise fee may be lowered only for considerations provided for by a cable or video provider within said franchise agreement that are estimated to be equal to or greater than said reduction in franchise fee. This payment by the grantee to the city shall be in lieu of any applicable occupation tax, license tax, or other similar levy, and shall be paid quarterly. Nothing herein contained, however, shall in any way relieve the grantee or its assigns or successors from the obligation of paying any property taxes to the City of Roswell or any other governmental subdivision of the State of Georgia or any other taxes lawfully levied by the State of Georgia on the operation of grantees. Grantees shall file with the city administrator, within ninety (90) days after the expiration of any calendar year during the term of the rights granted hereunder, a statement prepared by a certified public accountant showing the gross revenues as defined herein. It shall be the duty of the grantees to pay to the city within fifteen (15) days after the time for filing these statements, any unpaid balance for the calendar year covered by the statement. In any year or portions thereof, during which payments under this section amount to less than $200.00 per month, the grantees shall pay the city the minimum amount of $200.00 per month, the payments to commence immediately upon the adoption and approval of this article and grant of a franchise hereunder.
+(2007-09-14, Amended, 09-05-07)
+Section 21.3.20 - Sale, Assignment or Transfer of Rights Granted to Grantees.
+Any sale, assignment, or transfer of the rights hereunder shall be made only with the prior consent of the mayor and council, which consent shall not be unreasonably withheld in conformance with federal law. Furthermore, any change in control of the company after the effective date shall be made only with express written consent of the mayor and council which consent shall not be unreasonably withheld. The proposed transferee, assignee or controlling entity must show financial responsibility to the satisfaction of the mayor and council and must agree to comply with all the provisions of this article, and provided, further, that no consent shall be required for a transfer by trust deed, deed to secure debt, or other hypothecation as a whole, to secure an indebtedness.
+Section 21.3.21 - Grantees Subject to Laws, Regulations, and Ordinances.
+Each grantee shall construct, install, operate and maintain its CATV system in a manner consistent with this article, the franchise agreement, FCC technical standards and all requirements of the city ordinances, rules, regulations, and specifications including, but not limited to, those concerning street work, street excavation, use, removal and relocation of property within a street, and other street work.
+Section 21.3.22 - Rights Reserved to City.
+There is hereby reserved to the city every right and power which is required to be herein reserved or provided by any state statute or ordinance of the city, and grantees, by their acceptance of the rights granted hereunder, agree to be bound thereby, and to comply with any action or requirement of the city in its exercise of any right or power. Further, the rights granted hereunder shall not preclude the city from granting to any other person a right to provide similar services in the city.
+Section 21.3.23 - Abandonment of Property by Grantees.
+(a)
+In the event that the use of any part of the system should cease for any reason for a continuous period of twelve (12) months, or in the event the system or property has been installed in any street or public place without complying with the requirements of this article, or the rights granted hereunder have been terminated, cancelled, or have expired due to an event of default or otherwise, grantees shall promptly remove from the streets and public places all property and poles of the system, other than any which the city may permit to be abandoned in place. In the event of this removal, grantees shall promptly restore the street or other area from which the property has been removed to a condition satisfactory to the city.
+(b)
+Any property of grantees to be abandoned in place shall be abandoned in such manner as the city may prescribe. Upon permanent abandonment of the property of grantees in place, grantees shall submit to the city an instrument to be approved by the city, transferring to the city the ownership of the property.
+Section 21.3.24 - Failure of Grantee to Complete Required Street Work.
+Upon failure of grantees to complete any work required by law or by the provisions of this article to be done in any street, within the time prescribed, and to the satisfaction of the city, the city may cause this work to be done, and grantees shall pay the city the cost thereof in the itemized amount reported to grantees within thirty (30) days after receipt of the itemized report.
+Section 21.3.25 - Term and Renewal.
+The term for which each franchise is granted as provided herein shall be specified in the franchise agreement. A grantee may file an application for a renewal of a franchise at the end of the initial term and at the end of any subsequent renewal of the franchise as provided herein. Procedures for renewal of any existing CATV franchise shall be governed by the provisions of the Cable Communications Policy Act of 1984 (47 U.S.C. § 546). A grantee shall be required to submit a $1,000.00 processing fee with its application for renewal of a franchise. Upon receiving an application for renewal, the mayor and council shall consider a grantee's legal, technical, character, financial, and public interest qualities in light of the grantee's past performance under its franchise. The application for renewal shall be granted by the city if the city determines that the grantee is satisfying the obligations imposed upon it by the terms and conditions of this article and is otherwise in compliance with all applicable rules and regulations of the FCC.
+Section 21.3.26 - Performance Bond and Deposit.
+Within thirty (30) days after the effective date of the franchise, franchisee shall deposit with the City Administrator of Roswell a performance bond from a surety acceptable to the city attorney in the minimum amount of $50,000.00. The form and content of such performance bond shall be approved by the city and shall contain a provision that the issuer of such performance bond can rely absolutely on the demand of the city upon said performance bond. The performance bond shall be used to ensure the faithful performance by franchisee of all provisions of this agreement; compliance with all orders, permits and directions of any agency, commission, board, department, division or office of the city having jurisdiction over its acts or defaults under this franchise; and the payment by franchisee of any claims, liens, and taxes due the city which arise by reason of the construction, operation or maintenance of the system. In the alternative, and under the same provisions as above, franchisee may furnish a letter of credit in the aforestated amount, in a form issued by a financial institution approved by the city.
+Section 21.3.27 - Force and Effect of Article.
+If any section, sentence, clause, or phrase of this article is for any reason held illegal, invalid, unconstitutional, or void, all other sections thereof not so held shall be and remain in full force and effect.
+Section 21.3.28 - Limitations on Rights, Privileges, or Exemptions Granted.
+No privilege, right, or exemption shall be granted or conferred under this article except those specifically prescribed herein. No grantee shall be excused from complying with any of the terms and conditions of this article or a franchise agreement by any failure of the city to insist upon or to seek compliance with any terms or conditions.
+Section 21.3.29 - Foreclosure or Other Judicial Sale.
+(a)
+Upon the foreclosure or other judicial sale of all or a substantial part of the system located in the City of Roswell, or upon the termination of any lease covering all or a substantial part of the system, the grantee shall notify the city administrator of this fact, and this notification shall be treated as a notification that a change in control of the grantee has taken place, and the provisions of section 21.3.20 hereof, governing the consent of the city to transfer the system, shall apply.
+(b)
+The city shall have the right to cancel this franchise one hundred twenty (120) days after the appointment of a receiver, or trustee, to take over and conduct the business of the grantee, whether in receivership, reorganization, bankruptcy, or other action or proceeding, unless the receivership or trusteeship shall have been vacated prior to the expiration of the one hundred twenty (120) days, or unless:
+(1)
+Within one hundred twenty (120) days after his election or appointment, the receiver or trustee shall have fully complied with all the provisions of this article and remedied all defaults thereunder; and,
+(2)
+The receiver or trustee, within one hundred twenty (120) days, shall have executed an agreement, duly approved by the court having jurisdiction in the premises, whereby the receiver or trustee assumes and agrees to be bound by each and every provision of this article and the franchise granted to the grantee.
+Section 21.3.30 - Cancellation of Franchise.
+(a)
+In addition to any other provision for the cancellation of a franchise set out herein or in a duly executed franchise agreement, the city may terminate a franchise in the event of the willful failure, refusal, or neglect by the grantee to do or comply with any material requirement or limitation contained herein, or any material rule or regulation of the mayor and council or city administrator subject to the procedures set forth in this section.
+(b)
+The city administrator may make written demand that the grantee do or comply with any requirement, limitation, term, condition, rule, or regulation. If the failure, refusal, or neglect of the grantee continues for a period of thirty (30) days following the written demand, the city administrator may place his request for termination of the franchise upon the next regular meeting agenda of the mayor and council. The city administrator shall cause to be served upon the grantee at least ten (10) days prior to the date of the meeting of the mayor and council, a written notice of his intent to request termination, and the time and place of the meeting, notice of which shall be published at least once ten (10) days before the meeting in a newspaper of general circulation within the city.
+(c)
+The mayor and council shall consider the request of the city administrator, shall hear any persons interested therein, and shall determine, in their discretion, whether or not any failure, refusal, or neglect by the grantee was with just cause. If the failure, refusal, or neglect by the grantee was with just cause, the mayor and council shall direct the grantee to comply within such time and manner and upon any terms and conditions as are reasonable.
+(d)
+If the mayor and council shall determine the failure, refusal, or neglect by the grantee without just cause, then the mayor and council may, by resolution, declare that the franchise of the grantee shall be terminated and forfeited unless there be compliance by the grantee within any period as the mayor and council may fix.
+(e)
+The termination and forfeiture of any franchise shall in no way affect any of the rights of the city under the franchise or any provision of law.
+Section 21.3.31 - Purchase of System upon Cancellation, Termination, or Expiration of Franchise.
+(a)
+Upon the cancellation, termination, or expiration of a franchise, the city shall have the right to purchase the CATV system within the municipal boundaries in accordance with subsection (b) of this section and the city may direct the grantee to cease operation of the CATV system. If the city elects to purchase the CATV system, the grantee shall promptly execute all appropriate documents to transfer title to the city, and shall assign all other contracts, leases, licenses, permits, and any other rights necessary to maintain continuity of service to the public. The grantee shall cooperate with the city or with another person, partnership, corporation, or other legal entity authorized or directed by the city to operate the CATV system for a temporary period in maintaining continuity of service. Nothing herein is intended as a waiver of any other rights the city may have.
+(b)
+If a franchise:
+(1)
+Is cancelled or terminated by the city as provided for in this article, the purchase price to the city for the CATV system shall be its then book value (i.e., cost less accumulated depreciation) according to generally accepted accounting principles with a reduction for any damages incurred by the city in connection with the cancellation. The book value, if not agreed upon, shall be determined by arbitration pursuant to section 21.3.32 of this article, but shall not include any valuation based upon the franchise. Damages incurred by the city shall include, without limitation, any payments made by the city to another person, partnership, corporation, or other legal entity, for the operation of the system for a temporary period until a franchise is granted.
+(2)
+Terminates by expiration of its terms, the purchase price to the city for the CATV system shall be its then fair market value of the CATV system as of the date of expiration of the term of its franchise. The fair market value shall be the fair market value of all tangible and intangible property forming part of the CATV system, but shall not include any valuation based upon the franchise. The fair market value, if not agreed upon, shall be determined by arbitration pursuant to section 21.3.32 hereof.
+(c)
+Upon cancellation, termination, or expiration of a franchise, the city may direct the grantee to operate the CATV system for the account of the city for a period of six (6) months. The city shall pay the grantee all reasonable and necessary costs incurred by it for the operation of the CATV system during this period.
+Section 21.3.32 - Arbitration.
+Matters which are expressly made arbitrable under provisions of this article or a franchise agreement shall be determined by a panel of three (3) arbitrators. One (1) arbitrator shall be appointed by the city, one (1) by the grantee, and the third by the arbitrators already selected. The expenses of the arbitration, including the fees of the arbitrators, shall be borne by the parties in any manner as the arbitrators may provide in their award, but in no event shall the city be obligated for more than one-half (½) of the expenses. The determination of a majority of the arbitrators shall be binding on the parties.
+Section 21.3.33 - Renegotiation.
+(a)
+Upon written notice given by the city or grantee, one to the other, not less than six (6) months prior to the fifth and tenth anniversaries of the date of execution of a franchise agreement, the terms and conditions of the franchise agreement may be modified, provided that both the city and the grantee are agreeable to the modification. Modification shall be directed toward effecting alterations in the terms and conditions to reflect those technical, legal and economic changes that have occurred during the interim period.
+(b)
+Any changes in the franchise agreement necessitated by modification to the Federal Communications Commission regulations shall be incorporated into the franchise agreement within the time limit provided for in the rules and regulations of the Federal Communications Commission then in force and effect.
+Section 21.3.34 - Emergency Alert.
+The system shall include an emergency alert capability which will permit the director of emergency management or his designee to override, by remote control, the video and/or audio of all channels simultaneously except those involved in retransmission of television broadcast programming in the case of public emergencies.
+Section 21.3.35 - Satellite Subscription Television System.
+(a)
+Definitions. Satellite subscription television system means services provided to subscribers for sale where the provider of the services utilizes a master antenna type system or earth dish type system designed to receive and distribute satellite television signals.
+(b)
+Business license restrictions. A business license to operate a satellite subscription television system shall only be issued to provide service to one (1) or more multiple unit dwellings under common ownership wherein any wiring necessary to operate such system does not cross adjacent non-owned property lines and does not cross city rights-of-way.
+(c)
+Application of section. The provisions of this section shall not apply to any person, firm, or corporation that is franchised by the mayor and council to own and operate a cable television system under sections 21.3.1 through 21.3.34 of this article.
+(d)
+Business license required. No person, firm, or corporation shall construct, operate or service a satellite subscription television system within the City of Roswell without first obtaining a business license to carry on said business.
+Section 21.3.36 - Basic Service Rates and Charges.
+(a)
+The city will follow the FCC rate regulations in its regulation of the basic service rates and charges of the companies and any other cable television system operating in the city, notwithstanding any different or inconsistent provisions in the franchises.
+(b)
+In connection with such regulations, the city will ensure a reasonable opportunity for consideration of the views of interested parties.
+(c)
+The city administrator, or his designee, is authorized to execute on behalf of the city and file with the FCC such certification forms or other instruments as are now or may hereafter be required by the FCC rate regulations in order to enable the city to regulate basic service rates and charges.
+Section 21.3.37 - Bundling of Services.
+If a grantee offers multiple services other than cable television to a subscriber for a flat fee or reduced package price, the grantee shall designate a portion of such fee or package price for CATV in an amount no less than ninety (90) percent of the amount charged for comparable cable services offered without bundling of service. Such apportionment shall be reflected in the franchise fee report required pursuant to section 21.3.14.

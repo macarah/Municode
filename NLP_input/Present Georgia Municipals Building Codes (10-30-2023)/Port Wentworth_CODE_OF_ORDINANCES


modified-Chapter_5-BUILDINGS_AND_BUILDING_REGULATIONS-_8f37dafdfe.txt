@@ -1,0 +1,380 @@
+ARTICLE IX. - UNDERGROUND TANK REGULATIONS[10]
+
+Footnotes:
+--- (10) ---
+Editor's note— Article IX, §§ 5-170—5-185, is derived from Ord. No. 87-9, §§ 1—16, adopted June 11, 1987. Since this ordinance did not provide for a specific manner of inclusion of its provisions into the Code, it has been codified as a new Art. IX to Ch. 5 at the discretion of the editor.
+Cross reference— Inspection fees for underground fuel storage tanks, § 5-50; fire prevention and protection, Ch. 8; streets and sidewalks, Ch. 20.
+
+Sec. 5-170. - Title.
+For convenience in reference, this article shall be entitled "Underground Tank Ordinance."
+(Ord. No. 87-9, § 1, 6-11-87)
+Sec. 5-171. - Introduction and scope.
+The storage of pollutants in underground storage tanks within the City of Port Wentworth is a potentially hazardous undertaking, and the leaking of pollutants poses a threat to the environment and the citizens of Port Wentworth. The preservation of the surface water and groundwater is a primary public concern. This article establishes rules regulating underground storage tanks.
+(Ord. No. 87-9, § 2, 6-11-87)
+Sec. 5-172. - Definitions.
+The following definitions shall apply in the interpretation and enforcement of this article:
+Abandoned means an underground storage system which is not intended to be returned to service or cannot meet the test requirements of this article.
+Abnormal loss or gain means a loss or gain of pollutants in a storage system over five (5) consecutive inventory periods which exceeds one (1) per cent of the underground storage system capacity, or one (1) per cent of the output, or one hundred (100) gallons, whichever is greater, unless otherwise accounted for.
+API means American Petroleum Institute.
+ASTM means American Society for Testing and Materials.
+City building inspector shall mean the duly appointed director of the department of inspections or said person's authorized representative.
+Continuously operating leak detection system means a system or device which is a part of a leak detection system and includes a warning device to indicate the presence of a leak of pollutant or other failure or breach of integrity.
+Detection shall mean either actual discovery or knowledge of the existence of an abandoned underground storage system or a leak.
+Facility means any nonresidential location containing one (1) or more underground tank(s) and integral piping system(s) which contains pollutants.
+Integral piping system or piping system shall mean any piping, fittings, pumps, valves and other accessories associated with underground tanks used in the transfer or transmission of pollutants to and from an underground storage tank.
+Leak shall include, but not be limited to, any spilling, leaking, seeping or emitting of any pollutant which occurs and affects the ground, groundwaters, surface waters, sanitary sewers and storm sewers of the City of Port Wentworth. An underground storage system suffering an abnormal loss or gain shall be considered a leak.
+Leak detection system means a system which shall monitor any leakage of stored pollutants in accordance with provisions under subsections 5-179(A)(3), (4), (5) and (B)(2)(d).
+Listed shall mean equipment or materials included in a list published by a nationally recognized testing laboratory, inspection agency or other organization concerned with product evaluation that maintains periodic inspection of the production of listed equipment or materials and whose listing states either that the equipment or material meets nationally recognized standards or has been tested and found suitable for use in a specified manner.
+NACE means National Association of Corrosion Engineers.
+New means a tank for which installation or operation began on or after the effective date of this article.
+NFPA means National Fire Protection Association.
+Nonconforming underground storage tank shall mean any underground storage tank not meeting the requirements of subsection 5-179(A).
+Nonconforming integral piping system shall mean any integral piping system not meeting the requirements in subsection 5-179(B).
+Operator means any person operating a facility whether by lease, contract, other form of agreement, or by use.
+Out of service shall mean an underground storage system which:
+(a)
+Is not in use, and which does not have pollutants regularly added to or withdrawn from the underground storage system; and
+(b)
+Is intended to be placed in service.
+Owner means any person owning an underground storage system or real property for which an underground storage system is located.
+Person shall be defined as a natural person or group of natural persons, partnership, limited partnership, corporation, or other combinations of natural persons or entities engaged in a common or mutual undertaking.
+Pollutant sensitive paste shall mean a piece of material that, when it comes in contact with a specific type of pollutant, changes color indicating that the pollutant exists.
+Pollutants shall mean gasoline, liquid fuels or any other petrochemicals. Liquefied petroleum gas is exempt from this article.
+Pollutant line leak detector means a device used to detect pollutant or pressure losses in a pressurized pollutant line or a remote pumping system.
+Precision test shall be used as defined in NFPA 329, Chapter 4-3.10.
+Qualified soil/groundwater investigation and pollutant removal analysis firm shall mean the owner, operator, firm or firms or any combination thereof that is qualified to investigate pollutant leaks and the effects of such leaks on the soil, groundwater, other areas which may be affected by the pollutants, and the vapors emitted from such pollutants. The firm shall be qualified to provide or perform chemical analyses of pollutants, the affected groundwater, and the vapors emitted from the pollutant. The firm shall also be qualified in developing pollutant and pollutant vapor removal and monitoring systems.
+Remote pumping system means a pressurized pollutant piping system in which pollutants are supplied to a point(s) away from the underground tank(s) by means of a pumping unit(s) in or on the underground tank.
+Retrofit means to modify an underground storage system to meet the standards contained in this chapter.
+Tester shall mean a person trained and certified by the manufacturer of the test equipment or its agent in the correct use of the necessary equipment and who shall perform the tests in accordance with the testing procedures and requirements of the test system manufacturer. This person must present written proof to the city building inspector indicating that he or she is a qualified tester prior to testing.
+UL means Underwriters' Laboratories, Inc.
+Underground storage system means an underground tank and integral piping system.
+Underground tank, underground storage tank, tank or storage tank means a tank or other container with ten (10) per cent or more of the tank volume buried below the ground surface and a total capacity or volume greater than five hundred fifty (550) gallons.
+Working day means any business day.
+(Ord. No. 87-9, § 3, 6-11-87)
+Sec. 5-173. - Applicability.
+The standards set forth in this article shall apply to all nonresidential underground storage system.
+(Ord. No. 87-9, § 4, 6-11-87)
+Sec. 5-174. - Referenced standards.
+modified
+(a)
+Referenced standards are available as follows:
+(1)
+American Petroleum Institute (API);l;1220 L Street, N.W.;l;Washington, DC 20005
+(2)
+National Association of Corrosion Engineers (NACE);l;P.O. Box 218340;l;Houston, Tx 77218
+(3)
+National Fire Protection Association (NFPA);l;Batterymarch Park;l;Quincy, MA 02269
+(4)
+American Society for Testing and Materials (ASTM);l;1916 Race Street;l;Philadelphia, PA 19103
+(5)
+Underwriters' Laboratories (UL);l;333 Pfingston Road;l;Northbrook, IL 60062
+(b)
+Specific references to documents listed in (1) through (5) below are made throughout this article. Each of these documents is adopted and incorporated only to the extent that they are specifically referenced in this article.
+(1)
+National Fire Protection standards:
+a.
+Standard Number 30, 1984, "Flammable and Combustible Liquids Code";
+b.
+Standard Number 329, 1983, "Underground Leakage of Flammable and Combustible liquids."
+(2)
+American Petroleum Institute standards:
+Publication 1635, 1984, "Recommended Practice for Underground Petroleum Product Storage Systems at Marketing and Distribution Facilities."
+(3)
+National Association of Corrosion Engineers:
+Standard Number RP-01-69, "Control of External Corrosion on Underground or Submerged Metallic Piping Systems" (1983).
+(4)
+Underwriters' Laboratories standards:
+a.
+Specification 58, "Steel Underground Tanks for Flammable and Combustible Liquids" 1981;
+b.
+Specification 1316, "Standard for Glass Fiber-Reinforced Plastic Underground Storage Tanks for Petroleum Products."
+(5)
+American Society for Testing and Materials:
+Specification D4021-1981, "Standard Specification for Glass Fiber-Reinforced Polyester Underground Petroleum Storage Tanks."
+(Ord. No. 87-9, § 5, 6-11-87)
+Sec. 5-175. - General provisions.
+(a)
+It shall be unlawful for the owner or operator of an underground storage system containing pollutants to permit or maintain leaks in such underground storage systems.
+(b)
+Whenever a leak from an underground storage system occurs, the operator shall report such a leak to the city building inspector within one (1) working day of detection. Within forty-eight (48) hours, all leaks shall be stopped or the underground storage system shall be pumped clean of pollutant.
+(c)
+No underground storage system which has leased or has otherwise failed shall be placed into service for the purpose of reusing the underground storage system without:
+(1)
+Preventing the leak from migrating to another area or preventing the leak from spreading to cover a larger area.
+(2)
+Performing or having the repairs or replacement performed in a manner which complies with the applicable subsections 5-179(A) through (D).
+(3)
+Testing or having the underground storage tank and/or integral piping system tested in accordance with the provisions in subsection 5-179(E).
+(d)
+When a leak occurs, the owner or operator shall remove the free-floating pollutant from the groundwater, remove any combustible or harmful vapors emitted from the pollutant, and ensure that the level of dissolved hydrocarbons in the water be no greater than declared acceptable for public health by the Georgia Department of Environmental Protection.
+(e)
+Investigation of a leak shall commence within three (3) working days from the date of detection by the operator. Investigation shall be conducted by a qualified soil/groundwater investigation and pollutant analysis removal firm. In the investigation process, the owner or operator, through appropriate testing, shall determine the type of pollutant leaked, the limits of the leak accumulation and the quantity of leaked pollutant.
+(f)
+The owner or operator shall submit to the city building inspector, within twenty-one (21) calendar days from the date of detection, a pollutant removal and monitoring plan. This plan shall be developed by a qualified soil/groundwater investigation and pollutant analysis removal firm. Removal shall commence within twenty-five (25) calendar days from the date of detection by the owner or operator, unless extenuating circumstances dictate otherwise. The city building inspector shall decide if the extenuating circumstances warrant an extension of time. Where an extension of time is warranted, the city building inspector and the owner or operator shall agree on a time extension for the date of commencement of the removal operations.
+(g)
+Whenever "owner" or "operator" is used conjunctively with the other and the parties have by agreement identified which party has the primary responsibility for compliance with this article and have filed, with the city building inspector, a written statement executed by both evidencing that agreement, the city shall deem the party assuming the primary responsibility as the party subject to compliance with this article. The party assuming the primary responsibility can also sign the appropriate space furnished by the underground tank registration form specified in section 5-176. The only exemptions to this provision shall be where:
+(1)
+The other party has separately violated this article;
+(2)
+The property has been abandoned by the operator when the violation occurs, in which event the owner shall be deemed responsible; or
+(3)
+Both parties have caused the violation.
+(Ord. No. 87-9, § 6, 6-11-87)
+Sec. 5-176. - Pollutant, tank and piping systems registration.
+On a form furnished by the city building inspector, each operator of an underground storage system shall file with the city building inspector within one hundred twenty (120) calendar days of the adoption of this article, the size of tank, type of tank and piping system, type of leak detection system(s), age of tank, general location of each tank and integral piping system, and type of pollutant stored.
+(Ord. No. 87-9, § 7, 6-11-87)
+Sec. 5-177. - Inventory control.
+(a)
+A weekly inventory shall be made for each underground tank to determine possible leakage of the underground tank or integral piping system. Inventory shall be based on the actual daily measurement, recording of pollutant and water levels in the tank and the daily recording of actual withdrawals or additions. Daily measurements shall be made by gauge or gauge stick or by readout from an automated gauging system. The inventory records shall include the computation of the daily gains or losses. When an abnormal loss or gain is found, the operator shall follow procedures in section 5-175 and subsection 5-179(E). The mere recording of pump meter readings and pollutant delivery receipts shall not constitute adequate records.
+(b)
+Daily measurements need not be made on those days that an underground storage system is not in operation. However, when the system is not in operation, an inventory shall be made on such system at least every fifteen (15) calendar days.
+(c)
+Each operator shall participate in a program of regularly scheduled inspection and inventory verification conducted by the city building inspector annually. Inventory records shall be retained by the operator for a period of two (2) years. The operator shall submit annually to the city building inspector a certified statement that inventory records have been maintained, reconciled and preserved as required by this article. Upon the request of the state fire marshal, such records shall be made available to him within five (5) working days.
+(Ord. No. 87-9, § 8, 6-11-87)
+Sec. 5-178. - Out-of-service and abandoned storage systems:
+(a)
+Out-of-service storage systems:
+(1)
+The owner or operator of an out-of-service underground storage system shall have recorded an inventory at least once every fifteen (15) calendar days and shall examine and record results of the leak detection and monitoring system monthly unless the underground storage system contains no pollutant. An out-of-service storage system which contains no pollutant shall be secured against tampering and unauthorized filling and shall be inspected monthly for sign of damage to the security system. The underground storage system may be filled with water for ballasting.
+(2)
+An underground storage system may be kept out of service for more than one (1) year and not deemed abandoned if approved by the city building inspector.
+(b)
+Abandoned storage systems:
+(1)
+The owner or operator of an underground storage system that is to be abandoned or is declared abandoned under the provisions of this article must, within forty-eight (48) hours of abandonment, pump the system clean of pollutants. Within ninety (90) days of abandonment, the owner or operator shall remove the underground storage system in a safe manner, except that, in lieu of removal, the underground storage tanks may be filled with sand, concrete or other inert material in accordance with requirements in API Bulletin 1604, 1981, Chapter 2.
+(2)
+The owner or operator of an abandoned underground tank shall not dispose of such tank except in accordance with the specifications of API 1604, Chapters 3 and 6, and the following requirements: If the tank is disposed of as junk, it must be rendered vapor-free and dismantled or perforated in a safe manner so as to render it unfit for further use.
+(3)
+An abandoned underground storage system may be brought into service only if it has been completely retrofitted in compliance with the applicable requirements in section 5-179.
+(4)
+No person shall place pollutants in an abandoned storage system.
+(Ord. No. 87-9, § 9, 6-11-87)
+Sec. 5-179. - Tank and integral piping selection, maintenance and repair.
+(A)
+Tank selection and maintenance:
+(1)
+All new underground storage tanks installed for containing pollutants shall be designed and constructed in a manner which will prevent leaks. Acceptable designs for tank construction include cathodically protected steel, glass fiber-reinforced plastic, steel clad with glass fiber-reinforced plastic, double-walled steel or plastic, or other equivalent designs approved by the city building inspector. Design, construction and installation of new underground tanks shall be in accordance with standards contained in NFPA 30, Chapters 2-1 and 2-3, API 1615, Chapter 3(3) and 3(4), and UL58 or UL1316, and the manufacturer's recommendations.
+(2)
+All new tanks shall be equipped with a strike plate beneath the fill pipe and gauge opening.
+(3)
+All new underground storage tanks shall be provided with a leak detection system which shall monitor any leakage of the stored pollutants. The leak detection system may consist of:
+(a)
+A continuously operating leak detection system in between the walls of a double-walled tank;
+(b)
+A single monitoring well or continuously operating leak detection system located in an impervious secondary containment;
+(c)
+A continuously operating leak detection system placed around a tank in an excavation or secondary containment in accordance with the manufacturer's recommendations;
+(d)
+A network of at least four (4) monitoring wells placed in the excavation around a tank or tanks in compliance with the requirements of subsections (A)(4) and (5) below; or
+(e)
+Another alternative approved by the city building inspector.
+(4)
+Leak detection system requirements:
+(a)
+All continuously operating leak detection systems shall be installed, maintained and operated in accordance with the manufacturer's recommendations. A continuously operating leak detection system shall be inspected at least once a month to determine that the system is functioning.
+(b)
+All monitoring wells for which manual test devices or methods are used shall be checked at least once a month in a manner which will indicate the presence of a pollutant leak or other failure or breach of integrity, and the date and time of such check recorded.
+(c)
+All monitoring wells which are not checked with automatic or manual detection devices or methods shall be checked at least once a month in accordance with the requirements in subsection (A)(5)(b).
+(d)
+A monitoring well which contains less than one (1) foot of water may not be checked by removal of a sample as described in subsection (A)(5)(b) but must be checked with a manual or automatic detection method.
+(5)
+Requirements for monitoring wells:
+(a)
+Monitoring wells shall be designed to meet the following specifications. Monitoring wells installed before the effective date of this article may be used as a part of a monitoring system if approved by the city building inspector. The well casing shall:
+1.
+Be a minimum of two (2) inches in diameter;
+2.
+Be slotted from the bottom to at least two (2) feet above the normal annual high-water table;
+3.
+Have a minimum slot size of one hundredth (0.010) inch;
+4.
+Be completed by backfilling with appropriate clean filter pack or wrapping in an appropriate filter cloth to prevent clogging under soil conditions where silty fines will blind the minimum slot size;
+5.
+Be constructed of schedule 40 PVC or other material which is impervious to the pollutant stored;
+6.
+Be sealed into the bore hole at the surface with an impervious barrier designed to prevent contamination of the well by surface pollutants and damage to the well;
+7.
+Be equipped with a watertight cap; and
+8.
+Be of sufficient length that:
+a.
+The bottom of the casing shall be at least five (5) feet below the water level at the time of drilling but no deeper than twenty-five (25) feet; or
+b.
+The casing shall extend to within six (6) inches of the bottom of a secondary containment but shall not contact the containment.
+(b)
+All monitoring wells shall:
+1.
+If water enters the well, be developed upon drilling until the water is clear and relatively sand-free by over pumping, bailing, surging with compressed air, backwashing, a combination of the above, or other methods approved by the city building inspector; and
+2.
+If not equipped with a continuously operating leak detection system, be checked with a portable detection system inserted into the well, checked with a pollutant-sensitive paste, or be sampled by the removal of at least one (1) cup of fluid from the well using a Kemmerer-type sampler, bailer or a sampler of similar design. The fluid shall be taken from the surface of the water table. The fluid shall:
+a.
+Be poured into a clean, clear glass container kept for the purpose and examined for signs of an oily layer or odor of pollutant;
+b.
+Be analyzed at the site; or
+c.
+Be sent to a laboratory and analyzed.
+(c)
+The positive response of a detection device, a color change from a pollutant-sensitive paste, the presence of a layer of odor of pollutant, or the positive report of a laboratory that the sample contains pollutants shall be treated as a leak unless the owner or operator affirmatively demonstrates that no leak has occurred.
+(d)
+All wells shall be kept capped when not being checked.
+(6)
+A cathodically protected tank shall meet the specifications in API 1632, shall be coated in accordance with NACE RP-01-69, and shall meet the following requirements:
+(a)
+A sacrificial anode-type tank shall:
+1.
+Be electrically isolated; and
+2.
+Have the structure-to-soil potential tested six (6) weeks after installation or excavation within twenty-five (25) feet of the underground storage system, at the end of the first year, and every five (5) years thereafter. If the cathodic protection system is not operating in accordance with the manufacturer's recommendations, the cause shall be determined and the necessary repairs made within sixty (60) calendar days of the test.
+(b)
+A tank protected by an impressed current system shall:
+1.
+Be designed so that the impressed current source cannot be de-energized at any time, including during closure of the facility, except during power failures or to perform service work on the underground storage system or the impressed current cathodic protection system;
+2.
+Include a continuously operating meter to show that the system is working; and
+3.
+Be checked monthly, and the date and time of such check recorded. If the protective system is not operating in accordance with the manufacturer's recommendations, the cause shall be determined and the necessary repairs made within sixty (60) calendar days of the check.
+(7)
+A glass fiber-reinforced plastic tank shall:
+(a)
+Be tested in accordance with ASTM specification D4021-81;
+(b)
+Be labeled on the tank and fill cap "Nonmetallic Underground Tank for Petroleum Products, Alcohols, and Alcohol-Gasoline Mixtures" or "Nonmetallic Underground Tank for Petroleum Products Only"; and
+(c)
+Be tested for deflection in accordance with the manufacturer's recommendations at the time of installation.
+(8)
+A glass fiber-reinforced plastic-clad steel tank shall:
+(a)
+Be cleaned by sandblasting to SSPC6;
+(b)
+Be clad with a mixture of isophthalic resin and fiber-glass one hundred (100) mills thick or another fiberglass-type material of proven equal performance;
+(c)
+Be tested by a 10,000-volt holiday test performed over one hundred (100) per cent of the surface;
+(d)
+Be electrically isolated; and
+(e)
+Be tested for deflection in accordance with the manufacturer's recommendations at the time of installation.
+(9)
+All underground tanks shall be designed to be compatible with pollutant stored.
+(B)
+All and new integral piping systems:
+(1)
+All systems:
+(a)
+All integral piping systems shall be installed, used and maintained in a manner which will prevent the leaks.
+(b)
+All integral piping systems shall be constructed in accordance with acceptable engineering practices and NFPA 30, Chapter 3.
+(c)
+All integral piping systems shall be designed, constructed and installed in a manner which will permit periodic testing of the entire system.
+(d)
+All integral piping systems shall be designed to be compatible with the pollutant stored.
+(2)
+New systems:
+(a)
+All integral piping systems shall:
+1.
+Be constructed of corrosion-resistant materials;
+2.
+For metal integral piping systems, be protected against corrosion by the use of double-walled piping or cathodic protection in accordance with API 1632, NACE RP-01-69, or an equivalent system.
+(b)
+Cathodically protected piping systems of the sacrificial anode type shall:
+1.
+Be designed and installed to permit measurement of structure to soil potential, be tested six (6) weeks after installation or excavation within twenty-five (25) feet of the underground storage system, and be tested at the end of the first year and every five (5) years thereafter; and
+2.
+If inadequate cathodic protection is indicated, be examined to determine the cause and be repaired as necessary to meet manufacturer's recommendations within sixty (60) calendar days of the test.
+(c)
+Cathodically protected integral piping systems of the impressed current type shall:
+1.
+Be designed so that the impressed current source cannot be de-energized at any time, including during closure of the facility, except during power failures or to perform service work on the underground storage system or the impressed current cathodic protection system; and
+2.
+Be equipped with a continuously operating meter to show that the system is working. The system shall be inspected monthly; if any inspection indicates that the system is not functioning in accordance with manufacturer's specifications, repairs shall be made within sixty (60) calendar days of the inspection.
+(d)
+All integral piping systems shall be equipped with a leak detection system which may consist of:
+1.
+A network of monitoring wells:
+a.
+Monitoring wells shall be installed in the excavation beside the integral piping system and shall be located along its entire length, with one (1) well within one hundred (100) feet of each end of the excavation; and
+b.
+Shall be located so that no two (2) consecutive wells are more than two hundred fifty (250) feet apart; or
+2.
+A continuously operating leak detector in the excavation along the piping, between the walls of double-walled piping or in a secondary containment in which the piping lies; or
+3.
+A single monitoring well or continuously operating leak detection system in an impervious underground catchment basin where piping is installed so that all leaks will enter the basin; or
+4.
+A product line leak detector located within the remote pumping system. Product line leak detectors shall be tested for proper operation before the remote pumping system is used. Product line leak detectors shall be tested for proper operation on an annual basis.
+(e)
+Remote pumping systems shall meet the following requirements:
+1.
+Remote pumping systems shall be designed or equipped so that no part of the system will be subjected to pressures above allowable working pressures.
+2.
+Remote pumping systems shall have a listed, rigidly anchored emergency shutoff valve, incorporating a fusible link or other thermally actuated device and designed to close automatically in the event of a severe impact or exposure to fire, and shall be properly installed in the supply line at the base of each individual island-type dispenser. The automatic closing feature of this valve shall be checked at the time of initial installation and at least once a year thereafter by manually tripping the hold-open linkage.
+(C)
+Existing underground tanks:
+(1)
+When a leak occurs in an underground tank, no person, owner or operator shall use or maintain any underground storage tank without replacing or retrofitting the underground tank so as to comply with all of the provisions under subsection (A), except that:
+(a)
+Strike plates are not required to be retrofitted.
+(b)
+Nonconforming underground storage tanks shall be lined in accordance with the recommendations in API in 1631.
+(2)
+In accordance with the dates shown in Table No. 1 below, no person, owner or operator shall use or maintain any underground storage tank without installing a leak detection system in accordance with subsection (A).
+(3)
+In achieving the above compliance, leak detection systems shall be installed by December 31 of the appropriate year shown in Table No. 1 below. If the age of the tank cannot be determined, installation shall be completed by the earliest date shown.
+(D)
+Existing integral piping systems:
+(1)
+When a leak occurs in an integral piping system, no person, owner or operator shall use or maintain any nonconforming integral piping system without replacing or retrofitting the system so as to comply with all provisions under subsection (B).
+(2)
+In accordance with subsection (B)(2)(d), and integral piping system shall have a leak detection system designed on the same schedule as the associated underground storage tank shown in Table No. 1.
+TABLE NO. 1
+EXPAND
+Year Tank Installed Year Retrofitting Required
+1987 1988 1989 1990
+Prior to 1979 LD
+1970—1975 LD
+1976—1980 LD
+1981—4/11/85 LD
+  LD = Installation of leak detection system.
+(E)
+Underground storage system testing:
+(1)
+New facilities. The field testing of new underground tanks and integral piping systems shall conform to API 1635. Sections 4.2.1.1 and 4.2.1.2.
+(2)
+Existing facilities:
+(a)
+If other leak detection systems fail to detect a suspected leak, the city building inspector may require the owner or operator of an underground storage system to test the system for tightness in accordance with Chapter 4 of NFPA 329.
+(b)
+As specified in subsection 5-177(c), the integral piping system and underground tank shall be tested in accordance with Chapter 4 of NFPA 329.
+(c)
+When flammable or combustible liquids or their vapors have been detected in neighboring structures, sewers, wells or other on-property or off-property locations, the city building inspector may require the owner or operator of an underground storage system to test the system for tightness in accordance with Chapter 4 of the NFPA 329.
+(d)
+Underground tanks shall not be pressure tested with air.
+(e)
+Integral piping tests as required in subsections (a), (b) and (c) above shall be by a pipeline test with a liquid as specified in Chapter 4 of NFPA 329.
+(f)
+If an underground tank and/or integral piping system is retrofitted or repaired, before being placed back in service, it shall be tested for tightness in accordance with Chapter 4 of the NFPA 329.
+(3)
+Tester qualifications. Any test required in subsections (1) and (2) above or anywhere else in this article where a "test" is required of the tank, piping, equipment, device or system, the test shall be performed by a tester as defined in section 5-172.
+(Ord. No. 87-9, § 10, 6-11-87)
+Sec. 5-180. - Permitting.
+Unless an emergency occurs, at least two (2) weeks prior to commencing work, the owner or operator shall make application to the city building inspector for any filling, removal, repair, retrofitting or installation of an underground tank, integral piping system or leak detection system. Application shall be made on the required forms furnished by the city building inspector and shall contain sufficient information and description to determine if the proposed filling, removal, repair, retrofitting or installation is in compliance with this article. The owner or operator shall notify the city building inspector of the date and time of such work so that an inspection can be made. The city building inspector may require repair of any damaged protective coating prior to installation or cover.
+(Ord. No. 87-9, § 11, 6-11-87)
+Sec. 5-181. - Costs.
+The owner or operator shall assume responsibility for all costs incurred to comply with this article. The owner or operator shall pay all city inspection fees as set forth by the mayor and council of the City of Port Wentworth.
+(Ord. No. 87-9, § 12, 6-11-87; Ord. No. 88-2, 1-28-88)
+Sec. 5-182. - Variances.
+The owner or operator may apply for a variance from any provision or requirement of this article, except the waiver of inspection fee requirements, to the underground tank appeals in accordance with the procedure specified in section 8.6 of Appendix B, Zoning, of the City Code.
+(Ord. No. 87-9, § 13, 6-11-87)
+Sec. 5-183. - Inspections by the city building inspector.
+(a)
+The inspections required under the provisions of this article shall be made by the city building inspector or his duly authorized representative upon presentation of proper credentials. The city building inspector may enter, at any reasonable time, any building, structure, facility or premises in the City of Port Wentworth to perform any duty imposed upon him by this article.
+(b)
+Every owner or operator of an underground storage tank regulated by this article shall comply with the provisions and procedures set forth herein.
+(Ord. No. 87-9, § 14, 6-11-87)
+Sec. 5-184. - Violations.
+Every act of commission or omission or other violation or failure to comply with a provision or requirement of this article shall be deemed a separate offense or violation. Each offense or violation which occurs, reoccurs, continues or otherwise exists for any period of twenty-four (24) hours or less shall be deemed a separate offense or violation.
+(Ord. No. 87-9, § 15, 6-11-87)
+Sec. 5-185. - Cumulative nature of provisions of article.
+The provisions of this article shall be cumulative and not exclusive of other provisions of the City Code, the ordinances of the city, or statutes of the State of Georgia.
+(Ord. No. 87-9, § 16, 6-11-87)
+Secs. 5-186—5-195. - Reserved.

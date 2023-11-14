@@ -1,0 +1,1060 @@
+ORGANIZATIONAL ACT[1]
+
+
+Footnotes:
+--- (1) ---
+Editor's note— Published herein is the basic act organizing the county governing authority, being Acts 1956, p. 1203, as amended. History notes show the source of amendments. Catchlines have been editorially supplied. The act has been published in a style consistent with that of the Code. For example, capitalization has been made consistent with the Code and numbers have been printed in words and figures.
+
+Sec. 1. - Governing authority [described].
+(a)
+There is hereby created the board of commissioners of DeKalb County to be elected and organized as hereinafter provided. There is hereby created the office of chief executive officer of DeKalb County, and said chief executive officer, who shall not be a member of the commission, shall be elected as hereinafter provided.
+(b)
+The board of commissioners of DeKalb County, hereinafter referred to as the "commission," and the chief executive officer of DeKalb County, hereinafter referred to as the "chief executive" shall constitute the governing authority of DeKalb County, and the respective powers and duties of the commission and the chief executive shall be as provided in this act.
+(Acts 1981, p. 4304, § 1)
+Sec. 2. - The commission.
+(a)
+The commission shall consist of seven members.
+(b)
+For purposes of electing members of the board of commissioners, DeKalb County is divided into seven commissioner districts. One member of the board shall be elected from each such district.
+(c)
+(1)
+Commissioner Districts 1, 2, 3, 4, and 5 shall be and correspond to those five numbered districts described in and attached to and made a part of this Act and further identified as "Plan: dekalbcc-import1-02092012 Plan Type: local Administrator: dekalb cc User: bak".
+(2)
+When used in such attachment, the term "VTD" (voting tabulation district) shall mean and describe the same geographical boundaries as provided in the report of the Bureau of the Census for the United States decennial census of 2010 for the State of Georgia.
+(3)
+The separate numeric designations in a district description which are underneath a VTD heading shall mean and describe individual Blocks within a VTD as provided in the report of the Bureau of the Census for the United States decennial census of 2010 for the State of Georgia. Any part of DeKalb County which is not included in any such district described in that attachment shall be included within that district contiguous to such part which contains the least population according to the United States decennial census of 2010 for the State of Georgia.
+(4)
+Any part of DeKalb County which is described in that attachment as being in a particular district shall nevertheless not be included within such district if such part is not contiguous to such district. Such noncontiguous part shall instead be included within that district contiguous to such part which contains the least population according to the United States decennial census of 2010 for the State of Georgia.
+(5)
+Except as otherwise provided in the description of any commissioner district, whenever the description of such district refers to a named city, it shall mean the geographical boundaries of that city as shown on the census map for the United States decennial census of 2010 for the State of Georgia.
+(6)
+Paragraphs (2) through (5) of this subsection shall only be applicable with respect to Commissioner Districts 1, 2, 3, 4, and 5.
+(d)
+(1)
+Commissioner Districts 6 and 7 shall be and correspond to those two numbered districts described in and attached to and made a part of this Act and further identified as "Plan Name: deksuperdist4 Plan Type: LOCAL User: Gina Administrator: CNTY-DEKALB".
+(2)
+When used in such attachment, the terms "Tract" and "BG" (Block Group) shall mean and describe the same geographical boundaries as provided in the report of the Bureau of the Census for the United States decennial census of 2000 for the State of Georgia. The separate numeric designations in a Tract description which are underneath a BG heading shall mean and describe individual Blocks within a Block Group as provided in the report of the Bureau of the Census for the United States decennial census of 2000 for the State of Georgia. Any part of DeKalb County which is not included in any such district described in that attachment shall be included within that district contiguous to such part which contains the least population according to the United States decennial census of 2000 for the State of Georgia. Any part of DeKalb County which is described in that attachment as being in a particular district shall nevertheless not be included within such district if such part is not contiguous to such district. Such noncontiguous part shall instead be included within that district contiguous to such part which contains the least population according to the United States decennial census of 2000 for the State of Georgia. Except as otherwise provided in the description of any commissioner district, whenever the description of such district refers to a named city, it shall mean the geographical boundaries of that city as shown on the census map for the United States decennial census of 2000 for the State of Georgia. This paragraph shall only be applicable with respect to Commissioner Districts 6 and 7.
+[Districts]
+Plan: dekalbcc-import1-02092012
+Plan Type: local Administrator: dekalb cc User: bak
+District 001
+DeKalb County
+VTD: 089AD - AUSTIN
+VTD: 089AG - ASHFORD DUNWOOD
+VTD: 089AH - ASHFORD PARKSIDE
+VTD: 089BD - BRIARLAKE ELEMENTARY
+VTD: 089BF - BROCKETT ELEMENTARY
+VTD: 089BH - BROCKETT
+021805:
+1000 1001 1002 1003 1004 1005 1006 1007 1008 1011 1012
+021806:
+1005
+021809:
+2038 2039 2040
+VTD: 089CE - CHAMBLEE (CHA)
+VTD: 089CH - CHESNUT ELEMENTARY
+VTD: 089DA - DORAVILLE NORTH
+VTD: 089DB - DORAVILLE SOUTH
+VTD: 089DF - DUNWOODY
+VTD: 089DG - DUNWOODY HIGH SCHOOL
+VTD: 089DI - DUNWOODY LIBRARY
+VTD: 089EC - EMBRY HILLS
+VTD: 089EF - EVANSDALE ELEM
+VTD: 089GD - GEORGETOWN SQ
+VTD: 089HC - HENDERSON MILL
+VTD: 089HF - HUNTLEY HILLS ELEM
+VTD: 089HG - HUGH HOWELL
+VTD: 089KB - KINGSLEY ELEM
+VTD: 089LV - LAWRENCEVILLE HIGH SCHOOL
+VTD: 089MH - MIDVALE ELEM
+VTD: 089MQ - MOUNT VERNON EAST
+VTD: 089MS - MOUNT VERNON WEST
+VTD: 089MU - MONTGOMERY ELEM
+VTD: 089MW - MIDVALE ROAD
+VTD: 089NA - NANCY CREEK ELEM
+VTD: 089NF - NORTH PEACH TREE
+VTD: 089OB - OAKCLIFF ELEM
+VTD: 089PB - PEACHTREE MIDDLE SCHOOL
+VTD: 089PF - PLEASANTDALE ELEM
+VTD: 089PK - PLEASANTDALE ROAD
+VTD: 089SH - SMOKE RISE
+VTD: 089TF - TUCKER
+VTD: 089TG - TILLY MILL ROAD
+VTD: 089TH - TUCKER LIBRARY
+VTD: 089WI - WARREN TECH
+VTD: 089WL - WINTERS CHAPEL
+District 002
+DeKalb County
+VTD: 089AB - ASHFORD PARK ELEMENTARY
+VTD: 089BC - BRIAR VISTA ELEMENTARY
+VTD: 089BE - BRIARWOOD
+VTD: 089BG - BRIARCLIFF
+VTD: 089BI - BROOKHAVEN
+VTD: 089CI - CLAIREMONT WEST
+VTD: 089CJ - CLAIRMONT HILLS
+VTD: 089CO - CROSS KEYS HIGH
+VTD: 089CV - CLAIREMONT EAST
+VTD: 089CW - CORALWOOD
+VTD: 089DC - DRESDEN ELEM
+VTD: 089DH - DRUID HILLS HIGH SCHOOL
+VTD: 089EE - EPWORTH (ATL)
+VTD: 089EG - EMORY SOUTH
+VTD: 089ER - EMORY ROAD
+VTD: 089FB - FERNBANK ELEM
+VTD: 089GA - GLENNWOOD (DEC)
+VTD: 089HB - HAWTHORNE ELEM
+VTD: 089HD - HERITAGE ED
+VTD: 089JA - JOHNSON ESTATES
+VTD: 089LA - LAKESIDE HIGH
+VTD: 089LB - LAVISTA ROAD
+VTD: 089LC - LAVISTA
+VTD: 089LE - MARYLIN ELEM
+VTD: 089MG - MEDLOCK ELEM
+VTD: 089MJ - MONTCLAIR ELEM
+VTD: 089MP - MARGARET HARRIS
+VTD: 089ND - NORTH LAKE
+VTD: 089OA - OAK GROVE ELEM
+VTD: 089OK - OAKHURST (DEC)
+VTD: 089PG - PONCE DE LEON
+VTD: 089RD - REHOBOTH
+VTD: 089RN - RENFROE MIDDLE
+VTD: 089SA - SAGAMORE HILLS
+VTD: 089SB - SCOTT
+VTD: 089SE - SILVER LAKE
+VTD: 089SF - SKYLAND
+VTD: 089WF - WINNONA PARK ELEM
+VTD: 089WJ - WOODWARD ELEM
+District 003
+DeKalb County
+VTD: 089AF - HOOPER ALEXANDER
+VTD: 089BB - BOULEVARD (ATL)
+VTD: 089BL - BOULDERCREST RD
+VTD: 089BR - BURGESS ELEMENTARY
+VTD: 089CA - COLUMBIA DRIVE
+VTD: 089CB - CANBY LANE ELEMENTARY
+VTD: 089CC - COLUMBIA ELEMENTARY
+VTD: 089CD - CEDAR GROVE ELEMENTARY
+VTD: 089CG - CHAPEL HILL ELEMENTARY
+023425:
+1000 1001 1002 1003 1004 1005 1006 1010 1013 1017 1018 1019 1020 1021 1022 1023 1026 1031
+VTD: 089CL - CLIFTON ELEMENTARY
+VTD: 089CM - COLUMBIA MIDDLE
+VTD: 089CN - COAN MIDDLE
+VTD: 089CQ - CANDLER
+VTD: 089CR - CEDAR GROVE MIDDLE
+VTD: 089CS - CEDAR GROVE SOUTH
+VTD: 089EA - EAST LAKE ELEM
+VTD: 089EB - EASTLAND
+VTD: 089FC - FLAT SHOALS ELEM
+VTD: 089FE - FLAT SHOALS PARKWAY
+VTD: 089FJ - FLAT SHOALS
+VTD: 089FK - FLAKES MILL FIRE
+VTD: 089FL - FLAT SHOALS LIBRARY
+VTD: 089GC - GRESHAM PARK ELEM
+VTD: 089HH - NARVIE J HARRIS
+VTD: 089KA - KELLEY LAKE ELEM
+VTD: 089KC - KELLEY CHAPEL
+VTD: 089KE - KNOLLWOOD ELEM
+VTD: 089ML - MEADOW VIEW ELEM
+VTD: 089MO - MIDWAY ELEM
+VTD: 089MP - MCNAIR MIDDLE
+VTD: 089MR - BOB MATHIS ELEM
+VTD: 089MT - METROPOLITAN
+VTD: 089OV - OAK VIEW ELEM
+VTD: 089PA - PEACHCREST ELEM
+VTD: 089PN - PINEY GROVE
+VTD: 089RA - RAINBOW ELEM
+VTD: 089SG - SNAPFINGER ELEM
+VTD: 089SR - SNAPFINGER ROAD
+VTD: 089TA - TERRY MILL ELEM
+VTD: 089TB - TILSON ELEM
+VTD: 089TC - TONEY ELEM
+VTD: 089WA - WADSWORTH ELEM
+VTD: 089WB - WESLEY CHAPEL SOUTH
+VTD: 089WE - WHITEFOORD ELEMENTARY
+District 004
+DeKalb County
+VTD: 089AA - ALLGOOD ELEMENTARY
+VTD: 089AE - AVONDALE (AVO)
+VTD: 089AM - AVONDALE MIDDLE
+VTD: 089BH - BROCKETT
+021805:
+1015 1018 1019 1020 1021 1022 1023 1024 1025 1026 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 3019
+021810:
+3023 3030 3031 3034 3035
+022009:
+3007 3008
+VTD: 089CK - CLARKSTON (CLA)
+VTD: 089CT - COVINGTON HWY L
+VTD: 089DE - DUNAIRE ELEM
+VTD: 089FD - FORREST HILLS ELEM
+VTD: 089FM - FREEDOM MIDDLE
+VTD: 089HA - HAMBRICK ELEM
+VTD: 089IA - IDLEWOOD ELEM
+VTD: 089IB - INDIAN CREEK ELEM
+VTD: 089JB - JOLLY ELEM
+VTD: 089MA - ELDRIDGE L MILL
+VTD: 089ME - MCLENDON ELEM
+VTD: 089MK - MONTREAL
+VTD: 089MM - MEMORIAL NORTH
+VTD: 089MN - MEMORIAL SOUTH
+VTD: 089NB - NORTH DECATUR
+VTD: 089NC - NORTH HAIRSTON
+VTD: 089PE - PINE LAKE (PIN)
+VTD: 089RE - ROCKBRIDGE ELEM
+VTD: 089RI - ROCKBRIDGE ROAD
+VTD: 089RJ - ROWLAND ROAD
+VTD: 089SC - SCOTTDALE
+VTD: 089SD - STN MTN ELEMENTARY
+VTD: 089SI - STN MTN MIDDLE
+VTD: 089SJ - STONE MILL ELEM
+VTD: 089SK - SHADOW ROCK ELEM
+VTD: 089SN - SHAMROCK MIDDLE
+VTD: 089SO - SOUTH DESHON
+VTD: 089SP - STN MTN CHAMPION
+VTD: 089SQ - STONE MTN LIBRARY
+VTD: 089ST - STEPHENSON MIDDLE
+VTD: 089SU - SOUTH HAIRSTON
+VTD: 089SV - STEPHENSON HIGH
+VTD: 089VB - VALLEY BROOK
+VTD: 089WN - WYNBROOKE ELEM
+District 005
+VTD: 089AC - ATHERTON ELEMENTARY
+VTD: 089BJ - BROWN'S MILL ELEMENTARY
+VTD: 089BM - BETHUNE MIDDLE
+VTD: 089CF - MURPHEY CANDLER
+VTD: 089CG - CHAPEL HILL ELEMENTARY
+023426:
+1000 1004 1026 1027 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029
+VTD: 089CP - CROSSROADS
+VTD: 089FA - FAIRINGTON ELEM
+VTD: 089FG - FLAT ROCK ELEM
+VTD: 089GB - GLENHAVEN
+VTD: 089GE - GLENHAVEN ELEM
+VTD: 089KD - M L KING JR HIGH
+VTD: 089LD - LITHONIA (LIT)
+VTD: 089LH - LITHONIA HIGH SCHOOL
+VTD: 089MC - MARBUT ELEM
+VTD: 089MF - MCWILLIAMS
+VTD: 089MI - MILLER GROVE MIDDLE SCHOOL
+VTD: 089MV - MILLER GROVE ROAD
+VTD: 089MZ - MILLER GROVE HIGH
+VTD: 089PC - PRINCETON ELEM
+VTD: 089PH - PANOLA
+VTD: 089PI - PANOLA WAY ELEM
+VTD: 089PR - PANOLA ROAD
+VTD: 089RC - REDAN ELEM
+VTD: 089RF - ROCK CHAPEL ELEM
+VTD: 089RG - ROWLAND ELEM
+VTD: 089RH - REDAN-TROTTI
+VTD: 089RK - REDAN ROAD
+VTD: 089RL - ROCK CHAPEL ROAD
+VTD: 089RM - REDAN MIDDLE
+VTD: 089SL - STONEVIEW ELEM
+VTD: 089SM - SALEM MIDDLE
+VTD: 089SS - SNAPFINGER ROAD
+VTD: 089WD - WOODROW ROAD
+VTD: 089WG - WOODRIDGE ELEM
+VTD: 089WK - WHITE OAK
+VTD: 089YA - YOUNG ROAD
+(e)
+Each commissioner shall be a citizen of this state, at least 25 years of age, and shall have been a resident of the geographic area encompassed by the respective commissioner district for at least two years immediately prior to taking office. Each commissioner shall be elected by a majority of the electors voting within the respective commissioner district. Except for displacement of their residences from their respective districts due to reapportionment of the districts, any commissioners who cease to be residents of their respective commissioner districts during their terms of office shall thereby vacate their seats on the commission. All members of the commission shall be nominated and elected pursuant to the provisions of Chapter 2 of Title 21 of the O.C.G.A., the "Georgia Election Code," as now or hereafter amended.
+(Acts 1981, p. 4304, § 1; Acts 1982, p. 4235, § 1; Acts 1992, H.B. 1577, § 1; Acts 1992, p. 6566, § 1; Acts 2002, p. 3544, § 1; Acts 2012, p. 4610, §§ 1, 7)
+Sec. 3. - Establishment of commission.
+(a)
+Commissioner Districts 1, 2, 3, 4, and 5, as they exist on January 1, 2012, shall continue to be designated as Commissioner Districts 1, 2, 3, 4, and 5, respectively, but as newly described under this Act, and such members of the board serving from those former commissioner districts shall be deemed to be serving from and representing their respective districts as newly described under this Act. Commissioner Districts 6 and 7 as they exist on January 1, 2012, shall continue to be designated as Commissioner Districts 6 and 7 as described under this Act and in effect on January 1, 2012.
+(b)
+Those members of the Board of Commissioners of DeKalb County who are serving as such on January 1, 2012, and any person selected to fill a vacancy in any such office shall continue to serve as such members until the regular expiration of their respective terms of office and until the election and qualification of their respective successors. The successor to each such member shall be elected as provided in this section.
+(c)
+The first members for new Commissioner Districts 1, 4, and 5 and the member from Commissioner District 6 shall be elected at the general election on the Tuesday next following the first Monday in November, 2012. Those members of the board elected thereto from new Commissioner Districts 1, 4, and 5 and from Commissioner District 6 in 2012 shall take office the first day of January immediately following that election and shall serve for initial terms of office which expire December 31, 2016, and upon the election and qualification of their respective successors.
+(d)
+The first members for new Commissioner Districts 2 and 3 and the member from Commissioner District 7 shall be elected at the general election on the Tuesday next following the first Monday in November, 2014. Those members of the board elected thereto from new Commissioner Districts 2 and 3 and from Commissioner District 7 in 2014 shall take office the first day of January immediately following that election and shall serve for initial terms of office which expire December 31, 2018, and upon the election and qualification of their respective successors.
+(e)
+Those and all future successors to members of the board whose terms of office are to expire shall be elected at the time of the state-wide general election immediately preceding the expiration of such terms, shall take office the first day of January immediately following that election, and shall serve for terms of office of four years each. Members of the board shall serve for the terms of office specified therefor in this subsection and until their respective successors are elected and qualified.
+(Acts 1981, p. 4304, § 1; Acts 1992, H.B. 1577, § 1; Acts 1992, p. 6566, § 1; Acts 2002, p. 3544, § 2; Acts 2012, p. 4610, § 2)
+Sec. 4. - Running for other elective offices.
+(a)
+Except as otherwise provided in subsection (b) of this section, no member of the commission or the chief executive shall be qualified to be a candidate for nomination or election to any other elective office, other than to succeed one's self as a member of the commission or as chief executive, unless the member of the commission or the chief executive shall resign from office as provided in subsection (b) of this section.
+(b)
+If the term of the other office to which the member of the commission or the chief executive seeks to be a candidate for nomination or election expires on the same date the member's or the chief executive's term of office expires, then resignation from office under subsection (a) of this section shall not be required. If resignation is required under subsection (a) of this section, such resignation shall be irrevocable and shall be submitted to the commission by not later than April 1 of the year in which the election for other office to which the member of the commission or the chief executive seeks nomination or election is held and shall be effective on December 31 of that year.
+(c)
+The April 1 date specified in subsection (b) of this section for irrevocable resignation from office shall be deemed to be the date of the creation of a vacancy, notwithstanding the fact that the resignation is not effective until the thirty-first day of December immediately following the date of resignation. Notwithstanding the provisions of section 6 of this act, no special election shall be held to fill such vacancy, and such vacancy shall be filled for the unexpired term by nomination and election at the immediately following general primary and election in the same manner as nomination and election for a full term of office as a member of the commission in accordance with the provisions of Chapter 2 of Title 21 [§ 21-2-1 et seq.] of the O.C.G.A., known as the "Georgia Election Code."
+(Acts 1981, p. 4304, § 1; Acts 1984, p. 4916, § 1)
+Sec. 5. - Chief executive.
+(a)
+The chief executive of DeKalb County shall be a citizen of this state, at least thirty (30) years of age and shall have been a resident of DeKalb County for at least five (5) years immediately prior to taking office. The chief executive shall be elected by a majority of the electors voting from the county at large. The chief executive shall be nominated and elected pursuant to Code Title 34 known as the "Georgia Election Code" [O.C.G.A. § 21-2-1 et seq.], as now or hereafter amended.
+(b)
+The first chief executive shall be elected as provided in subsection (a) hereof at the general election of 1984, and shall take office on the first day of January, 1985, for a term of four (4) years. Future successors shall be elected at the general election immediately preceding the expiration of the term of office and shall take office on the first day of January immediately following the election for a term of four (4) years. Each chief executive shall serve until the successor is elected and qualified.
+(c)
+Any person elected chief executive shall not be eligible to serve more than two (2) consecutive full terms of office. In the event a person fills a vacancy in the office of chief executive as provided in section 6 of this act, such person shall be eligible for election to two (2) full consecutive terms of office as chief executive. When a person has served two (2) full consecutive terms of office as chief executive, such person shall not again be eligible to hold said office until such person has been out of office as chief executive for at least four (4) years.
+(Acts 1981, p. 4304, § 1)
+Sec. 6. - Vacancies.
+(a)
+Vacancies on the commission and in the office of chief executive occurring by reason of death, resignation, removal from the county or from the district from which elected or for any other reason shall be filled as provided in this section.
+(b)
+In the event a vacancy occurs on the commission or in the office of chief executive when at least one hundred eighty (180) days remain in the unexpired term of office, the election superintendent of DeKalb County, within fifteen (15) days after the vacancy occurs, shall issue the call for a special election to fill such vacancy for the unexpired term. Such special election shall be held not less than twenty-nine (29) nor more than forty-five (45) days after the issuance of the call, and shall be held and conducted in accordance with the provisions of Code Title 34, known as the "Georgia Election Code" [O.C.G.A. § 21-2-1 et seq.], as now or hereafter amended. If the vacancy is in the office of the chief executive, the presiding officer of the commission shall exercise the powers and duties of the chief executive, except as provided in subsection (e) of this section, for the period beginning on the date the vacancy occurs and ending when the successor chief executive takes office for the unexpired term following the special election provided for herein.
+(c)
+In the event a vacancy occurs in the office of chief executive when less than one hundred eighty (180) days remain in the unexpired term of office, the presiding office of the commission shall exercise the powers and duties of the chief executive, except as provided in subsection (e) of this section, for the unexpired term.
+(d)
+In the event a vacancy occurs on the commission when less than one hundred eighty (180) days remain in the unexpired term of office, the remaining members of the commission shall appoint a qualified person to fill such vacancy for the unexpired term. Any person appointed by the commission to fill a vacancy as provided herein shall possess the residency and other qualifications required for the office.
+(e)
+If the presiding officer of the commission exercises the powers of chief executive pursuant to subsections (b) and (c) of this section, the person serving as the chief executive in either case shall not be authorized to discharge the executive assistant. A presiding officer serving as chief executive shall not be authorized to vote as a member of the commission during such service.
+(Acts 1981, p. 4304, § 1)
+Sec. 7. - Oath and bond.
+Before entering upon the discharge of their duties, the chief executive and members of the commission shall subscribe to an oath before the judge of the probate court of DeKalb County for the true and faithful performance of their duties and that they are not the holders of any public funds unaccounted for. In addition the chief executive shall further give a satisfactory surety bond, as determined by the judge of the probate court of DeKalb County, and payable to the judge of the probate court of DeKalb County and filed in the office of the judge of the probate court of DeKalb County, in the sum of fifty thousand dollars ($50,000.00), conditioned upon the faithful performance of the duties of the office. Each member of the commission shall give like bond in the sum of ten thousand dollars ($10,000.00). The costs of said bonds shall be paid from county funds.
+(Acts 1981, p. 4304, § 1)
+Sec. 8. - Compensation.
+The provisions of any other law to the contrary notwithstanding:
+(1)
+The chief executive officer of DeKalb County shall be compensated in an amount equal to the compensation which he received in 1991, to be paid in equal monthly installments;
+(2)
+Each member of the commission shall receive an annual salary equal to nineteen (19) percent of the annual salary of the chief executive officer;
+(3)
+In addition to the annual salary provided for by paragraph (2) of this section, each member of the commission shall receive an expense allowance of three hundred dollars ($300.00) per month.
+(Acts 1981, p. 4304, § 1; Acts 1987, p. 5013, § 1; Acts 1989, p. 4863, § 1; Acts 1990, p. 4296, § 1; Acts 1989, p. 4863, § 1; Acts 1990, p. 4296, § 1; Acts 1991, p. 4334, § 1)
+Sec. 9. - Powers and duties of the commission.
+(a)
+The commission shall have the power and authority to fix and establish, by appropriate resolution or ordinance entered on its minutes, policies, rules and regulations governing all matters reserved to its jurisdiction by this act. The commission shall exercise only those powers which are necessarily and properly incident to its function as a policy-making or rule-making body or which are necessary to compel enforcement of its adopted resolutions or ordinances, and any power or combination of powers vested in the commission by this act shall be subject to the limitations provided in section 23 of this act. The following powers are hereby vested in the commission:
+(1)
+To levy taxes.
+(2)
+To make appropriations.
+(3)
+To fix the rates of all other charges.
+(4)
+To authorize the incurring of indebtedness.
+(5)
+To authorize work to be done where the cost is to be assessed against the benefited property and to fix the basis for such assessment.
+(6)
+To establish, alter, or abolish public roads, private ways, bridges and ferries, according to law, but the chief executive shall have the authority to accept subdivision plats when the requirements established by the commission for subdivisions have been met.
+(7)
+To establish, abolish, or change election precincts and militia districts according to law.
+(8)
+To allow the insolvent lists for the county.
+(9)
+To authorize the acceptance for the county of the provisions of any optional statute where the statute permits its acceptance by the governing authority of a county.
+(10)
+To regulate land use by the adoption of a comprehensive development plan and by the adoption of other planning and zoning ordinances which relate reasonably to the public health, safety, morality, and general welfare of the county and its citizens; provided, however, that no planning or zoning ordinances shall become effective unless approved, prior to consideration and adoption by the governing authority, by the member or members of the commission representing the district or super district in which the subject property is located.
+(11)
+To create and change the boundaries of special taxing districts authorized by law.
+(12)
+To fix the bonds of county officers where same are not fixed by statute.
+(13)
+To enact any ordinances or other legislation the county may be given authority to enact.
+(14)
+To determine the priority of capital improvements.
+(15)
+To call elections for the voting of bonds.
+(16)
+Except as modified by the powers vested in the chief executive by other provisions of this act, to exercise the power and authority vested by law in the judge of the probate court when sitting for county purposes.
+(17)
+Except as modified by the powers vested in the chief executive by other provisions of this act, to exercise the powers now or hereafter vested in county governing authorities by the constitution and general laws of this state.
+(18)
+To fix, levy and assess license fees, charges or taxes on all persons, firms and corporations engaging in or offering to engage in any trade, business, calling, avocation or profession in the area of DeKalb County, outside the corporate limits of municipalities situated therein, except businesses which are subject to regulation by the state public service commission, and to classify all such persons, firms and corporations according to the nature, manner and size of business conducted by such persons, firms and corporations and to fix, levy and assess different license fees, charges or taxes against different classes of trades, businesses, callings, avocations or professions. Such licenses shall be issued, annually or otherwise, and may be revoked, canceled or suspended after notice and a hearing, in accordance with rules prescribed by the commission. Said commission shall be further authorized to adopt ordinances and resolutions to govern and regulate all such trades, businesses, callings, avocations or professions, not contrary to regulations prescribed by general law, for the purpose of protecting and preserving the health, safety, welfare and morals of the citizens of said county, and to prescribe penalties for the violation of any such ordinances and resolutions, including the operation of such businesses without the obtaining of a license or when such license is revoked or suspended. Payment of said license fees, charges or taxes may be enforced by fi. fas. issued by the commission and levied by any officer in said county authorized by law to levy fi. fas. for taxes, assessments, fines, costs or forfeitures due said county. The commission shall be authorized, in its discretion, to require any and all persons, firms or corporations licensed pursuant to the authority herein granted to give a bond payable to DeKalb County, and conditioned to pay said county or anyone else, suing in the name of said county and for their use, for injuries or damages received on account of dishonest, fraudulent, immoral or improper conduct in the administration of the business so licensed, such bond to be fixed and approved by the commission. Such license fees, charges or taxes shall be in addition to all other taxes or assessments heretofore or hereafter levied by said county, and all funds received from same shall be paid into the county depository as general funds of said county.
+(19)
+To adopt rules regulating the operation of the commission.
+(20)
+To prepare an agenda for meetings of the commission. The commission shall accept agenda items by the chief executive officer upon motion by any commissioner to be placed upon the agenda, pursuant to the rules by which an item may be placed on the agenda by a member of the commission.
+(b)
+In addition to the powers enumerated in subsection (a) of this section, the commission may adopt all such ordinances or regulations as it may deem advisable, not in conflict with the general laws of this state and of the United States, for the governing and policing of the county for the purpose of protecting and preserving the health, safety, welfare, and morals of the citizens of the county and for the implementation and enforcement of the powers and duties of the commission.
+(c)
+The commission is hereby authorized to adopt ordinances prescribing penalties and punishment for violation of any and all ordinances adopted by the commission to carry out any of the provisions of this section or other provisions of this Act or of any other law, and to prescribe maximum penalties and punishment for violation of same, except that the same shall in no event exceed a fine of one thousand dollars ($1,000.00), imprisonment in the county jail for thirty (30) days, or labor on the work gang for any single offense, or any combination thereof; provided, however, that for violations of a pretreatment standard or requirement adopted pursuant to the federal Clean Water Act the maximum fine shall be one thousand dollars ($1,000.00) per day for each violation by an industrial user.
+(Acts 1981, p. 4304, § 1; Acts 1983, p. 4547, § 1; Acts 1986, p. 4107, § 1; Acts 1990, p. 4479, § 1; Acts 1992, p. 5363, § 1; Acts 2008, p. 3897, § 1; Acts. 2016, p. 4219, § 1 )
+Sec. 10. - Audits.
+(a)
+The commission shall choose three (3) of its members to serve as an audit committee. The term of members serving as the audit committee and their manner of selection shall be as determined by the commission. The audit committee shall screen and recommend to the commission an independent auditing firm to serve as an outside auditor of the county government to make an annual continuous general audit of all county finances and financial records.
+(b)
+The outside auditor shall be employed pursuant to written contract to be entered upon the minutes of the commission, and the contract shall state clearly and concisely the depth and scope of the audit and that it shall be conducted in accordance with the requirements of the act providing uniform standards for audits of municipalities and counties within the State of Georgia, approved April 21, 1967 (Ga. Laws 1967, p. 883), as amended, by an act approved March 28, 1968 (Ga. Laws 1968, p. 464) [O.C.G.A. § 36-60-8]. The auditor shall immediately inform the commission in writing of any irregularities found in the management of county business by an officer or department of the county government.
+(c)
+The outside auditor shall complete the audit in compliance with Article 1 of Chapter 81 of Title 36 of the Official Code of Georgia Annotated each year, and, within ten (10) days after its completion, the auditor shall deliver a copy of the audit to each commissioner, the chief executive, and the grand jury of the DeKalb County superior court then in session.
+(Acts 1981, p. 4304, § 1; Acts 2015, p. 3826, § 1 ; Acts. 2016, p. 4219, § 2 )
+Sec. 10A. - Independent internal audit.
+modified
+(a)
+(1)
+It is essential to the proper administration and operation of the DeKalb County government that public officials, government managers, and private citizens know not only whether government funds are handled properly and in compliance with laws and regulations but also whether public programs are achieving the purposes for which they were authorized and funded, and whether they are doing so efficiently, effectively, and equitably. An independent internal audit function can provide objective information on the operations of government programs, assist managers in carrying out their responsibilities, and help ensure full transparency and accountability to the public. Internal auditing is defined as an independent, objective assurance and consulting activity designed to add value and improve an organization's operations by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of risk management, control, and governance processes.
+(2)
+The public interest requires that the general assembly provide for the proper administration and operation of the DeKalb County government by establish-ing by law an independent internal audit function to assist the governing authority to accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of risk management, control, and governance processes.
+(b)
+The office of internal audit is hereby established which shall consist of the chief audit executive ("auditor") and those assistants, employees, and personnel as deemed necessary by such auditor for the efficient and effective administration of the affairs of the office, and over whom the auditor shall have the sole authority to appoint, employ, and remove.
+(c)
+The office of internal audit shall be completely independent and shall not be subject to control or supervision by the chief executive, the commission, or any other official, employee, department, or agency of the county government.
+(d)
+The auditor shall be appointed by a majority vote of the DeKalb County Board of Commissioners from a list of not fewer than two (2) nor more than three (3) candidates provided to the board by the audit oversight committee. Such appointment shall be made within thirty (30) days of receipt of the list of nominees by the board. In the event that the commission fails to appoint a nominee within thirty (30) days, the auditor shall be appointed by a majority vote of the audit oversight committee.
+(d)
+The term of office of the auditor shall be five (5) years and until his or her successor is qualified and appointed. The auditor shall be limited to a maximum of two (2) terms in office. A vacancy in the position of auditor shall exist by reason of expiration of term, resignation, death, removal from office by the vote of a supermajority of the members of the commission, or if the auditor becomes ineligible to hold civil office within the meaning of O.C.G.A. § 45-2-1 and that ineligibility is established by decision of a court of competent jurisdiction which declares the office vacant because of such ineligibility. A vacancy shall be filled within sixty (60) days by a majority vote of the audit oversight committee for the remainder of the term of office.
+(e)
+The auditor must have adequate professional proficiency for the job and shall:
+(1)
+Be a certified public accountant or a certified internal auditor;
+(2)
+Have a bachelor's degree in public policy, accounting, business administration, economics, or a related field; and
+(3)
+Have at least five (5) years of experience in government auditing, evaluation, or analysis.
+(f)
+The position of the auditor shall be nonpartisan. Qualifying for election to a public office shall constitute a resignation from the position as of the date of qualifying.
+(g)
+The auditor shall have authority to conduct financial and performance audits of all departments, offices, boards, activities, agencies, and programs of the county in order to independently and objectively determine whether:
+(1)
+Activities and programs being implemented have been authorized by this Act, Georgia law, or applicable federal law or regulations and are being conducted and funds expended in compliance with applicable laws;
+(2)
+The department, office, board, or agency is acquiring, managing, protecting, and using its resources, including public funds, personnel, property, equipment, and space, economically, efficiently, effectively, and in a manner consistent with the objectives intended by the authorizing entity or enabling legislation;
+(3)
+The entity, programs, activities, functions, or policies are effective, including the identification of any causes of inefficiencies or uneconomical practices;
+(4)
+The desired results or benefits are being achieved;
+(5)
+Financial and other reports are being provided that disclose fairly, accurately, and fully all information required by law, to ascertain the nature and scope of programs and activities, and to establish a proper basis for evaluating the programs and activities including the collection of, accounting for, and depositing of, revenues and other resources;
+(6)
+Management has established adequate operating and administrative procedures and practices, systems or accounting internal control systems, and internal management controls; and
+(7)
+Indications of fraud, abuse, or illegal acts are valid and need further investigation.
+(h)
+All officers and employees of DeKalb County shall furnish to the auditor unrestricted access to employees, information, and records including electronic data within their custody regarding powers, duties, activities, organization, property, financial transactions, contracts, and methods of business required to conduct an audit or otherwise perform audit duties. In addition, they shall provide access for the auditor to inspect all property, equipment, and facilities within their custody. If such officers or employees fail to provide or produce such access and information, the auditor may initiate a search to be made and exhibits to be taken from any book, paper, or record of any such official or employee or outside contractor or subcontractor, except as governed by statute. Further, all contracts with outside contractors and subcontractors shall contain a "right-to-audit" clause and provide for auditor access to the contractors' employees and to all financial and performance related records, property, and equipment purchased in whole or in part with governmental funds. For the purpose of this subsection, the auditor shall have the authority to issue subpoenas and may apply to the Superior Court of DeKalb County for the enforcement of any subpoena issued by the auditor.
+(i)
+The auditor may obtain the services of certified public accountants, qualified management consultants, or other professional experts necessary to perform audit work. An audit that is performed by contract must be conducted by persons who have no financial interests in the affairs of the governmental entity or its officers. The auditor shall coordinate and monitor auditing performed by certified public accounting firms or other organizations employed under contract by the governing authority to assist with audit related activities. Contracting for the external audit will follow the normal contracting processes of the governing authority of DeKalb County except for the participation and oversight by the audit oversight committee and auditor. The selection of a certified public accounting firm for the annual financial audit must be approved by the commission.
+(j)
+(1)
+Audits shall be conducted in accordance with recognized government auditing standards.
+(2)
+At the beginning of each fiscal year, the auditor shall submit a one- to five-year audit schedule to the audit oversight committee and the commission for review and comment. The schedule shall include the proposed plan, and the rationale for the selections, for auditing departments, offices, boards, activities, programs, policies, contractors, subcontractors, and agencies for the period. This schedule may be amended after review with the audit oversight committee and the commission, but the auditor shall have final authority to select the audits planned.
+(3)
+In the selection of audit areas and audit objectives, the determination of audit scope and the timing of audit work, the auditor shall consult with federal and state auditors and external auditors so that the desirable audit coverage is provided and audit efforts are properly coordinated.
+(4)
+A final draft of the audit report shall be forwarded to the audit oversight committee, the chief executive, the commission, and the audited agency for review and comment regarding factual content prior to its release. The agency shall respond in writing, specifying the agreement with audit findings and recommendations or reasons for disagreement with findings and recommendations, plans for implementing solutions to issues identified, and a timetable to complete such activities. The response shall be forwarded to the auditor within sixty (60) days. The auditor shall review and report on information included in the agency's response. If no response is received, the auditor shall note that fact in the transmittal letter and shall release the audit report.
+(5)
+Each audit shall result in a final report, in written or some other retrievable form. The report shall contain relevant background information and findings and recommendations and shall communicate results to the audit oversight committee, the audited agency, and the governing authority.
+(6)
+The auditor shall submit an annual report to the audit oversight committee, chief executive, and the commission indicating audits completed, major findings, corrective actions taken by administrative managers, and significant issues which have not been fully addressed by management. The annual report, in written or some other retrievable form, shall be made available to the public through the county website within ten (10) days of submission to the commission.
+(k)
+If, during an audit, the auditor becomes aware of abuse or illegal acts or indications of such acts that could affect the governmental entity, the auditor shall report the irregularities to the audit oversight committee, the chief executive, and the commission. If a member of the governing authority is believed to be a party to abuse or illegal acts, the auditor shall report the acts directly to the audit oversight committee, the chief executive, and the commission. If it appears that the irregularity is criminal in nature, the auditor shall notify the district attorney in addition to those officials previously identified in this subsection.
+(l)
+The auditor shall follow up on audit recommendations to determine if corrective action has been taken. The auditor shall request periodic status reports from audited agencies regarding actions taken to address reported deficiencies and audit recommendations.
+(m)
+(1)
+The audit activities of the office of internal audit shall be subject to a peer review in accordance with applicable government auditing standards by a professional, nonpartisan objective group utilizing guidelines endorsed by the Association of Local Government Auditors (ALGA).
+(2)
+The peer review shall use applicable government auditing standards to evaluate the quality of audit effort and reporting. Specific quality review areas shall include staff qualifications, adequacy of planning and supervision, sufficiency of work paper preparation and evidence, and the adequacy of systems for reviewing internal controls, fraud and abuse, program compliance, and automated systems. The peer review shall also assess the content, presentation, form, timelines, and distribution of audit reports. The commission shall pay for the costs of the peer review.
+(3)
+A copy of the written report of such independent review shall be furnished to each member of the governing authority and to the audit oversight committee.
+(n)
+(1)
+To ensure independence of the audit function, an audit oversight committee is hereby established. The audit oversight committee shall consist of five (5) voting members.
+(2)
+All members of the audit oversight committee shall:
+a.
+Be residents of DeKalb County;
+b.
+Have expertise in performance auditing; and
+c.
+Have a minimum of five (5) years' experience as a certified public accountant, a certified internal auditor, a certified performance auditor, a certified management accountant, or ten (10) years of other relevant professional experience.
+(3)
+Not later than October 31, 2015, the members of the audit oversight committee shall be selected as follows:
+a.
+One (1) member shall be appointed by the chairperson of the DeKalb County delegation in the Georgia House of Representatives;
+b.
+One (1) member shall be appointed by the chairperson of the DeKalb County delegation in the Georgia Senate;
+c.
+One (1) member shall be appointed by the Chief Executive of DeKalb County; and
+d.
+Two (2) members shall be appointed by the commission.
+(4)
+The members shall serve for terms of five (5) years; provided, however, that the initial term of the first appointee of the commission shall be one (1) year and until his or her respective successor is appointed and qualified; the initial term of the appointee of the chairperson of the DeKalb County delegation in the Georgia House of Representatives shall be two (2) years and until his or her respective successor is appointed and qualified; the initial term of the appointee of the chief executive shall be three (3) years and until his or her respective successor is appointed and qualified; the initial term of the second appointee of the commission shall be four (4) years and until his or her respective successor is appointed and qualified; and the initial term of the appointee of the chairperson of the DeKalb County delegation in the Georgia Senate shall be five (5) years and until his or her respective successor is appointed and qualified.
+(5)
+Successors to all members of the audit oversight committee and future successors shall be appointed by the respective appointing authorities not less than thirty (30) days prior to the expiration of each such member's term of office, and such successors shall take office on January 1 following such appointment and shall serve terms of five (5) years and until their respective successors are appointed and qualified.
+(6)
+If a member of the audit oversight committee ceases to be a resident of DeKalb County, that member's position on the board, by operation of law, shall become vacant upon the establishment of the fact of such nonresidency, if contested, by a court of competent jurisdiction. A vacancy on the audit oversight committee shall exist by reason of death, resignation, incapacity to serve for ninety (90) days or longer, or loss of residency as described in this subsection. A member of the audit oversight committee may also be removed from office during a term if the member becomes ineligible to hold civil office within the meaning of O.C.G.A. § 45-2-1 and that ineligibility is established by decision of a court of competent jurisdiction which declares the office vacant because of such ineligibility or by a vote of two-thirds (⅔) of the members of the legislative delegation. A vacancy shall be filled within sixty (60) days by the original appointing authority for the remainder of the unexpired term.
+(7)
+The members of the audit oversight committee shall elect from their own membership a chairperson and otherwise provide for their own internal organization.
+(8)
+The audit oversight committee shall consult with the auditor regarding technical issues and work to assure maximum coordination between the work of the auditor's office and external audit efforts.
+(9)
+The audit oversight committee shall meet as needed to perform its duties but shall not meet less than once quarterly and shall be responsible for:
+a.
+Selecting not fewer than two (2) nor more than three (3) nominees for the position of auditor who meet the requirements outlined in subsection (e) of this section which shall be submitted to the commission for selection and appointment of one (1) of the nominees to the position of auditor;
+b.
+Performing regular evaluations of the DeKalb County audit function;
+c.
+Providing suggestions and comments for the annual audit plan;
+d.
+Ensuring that audit reports are transmitted to the governing authority and to the public;
+e.
+Monitoring follow-up on reported findings to assure corrective action is taken by management;
+f.
+Reporting to the governing authority on problems or problem areas at such times as deemed appropriate;
+g.
+Conducting or overseeing the requests for proposal and selection process for the firm conducting the annual financial statement audits, and ranking and recommending in order of preference no fewer than three (3) firms deemed to be the most highly qualified to perform the required services. If fewer than three (3) firms respond to the request for proposal, the audit oversight committee shall recommend such firms as it deems to be the most highly qualified;
+h.
+Evaluating the firm providing annual financial statement auditing services and providing oversight of that audit, including ensuring transmission of reports and follow-up on corrective action by management;
+i.
+Evaluating the findings and recommendations of the peer review as required by recognized government auditing standards;
+j.
+Consulting with the auditor regarding technical issues with the external audit firm and working to assure maximum coordination between the work of the office of internal audit and contracted audit efforts and other consulting engagements;
+k.
+Maintaining the confidentiality of personnel matters while taking responsibility for appropriate disclosure to the governing authority, the legislature, or to the public; and
+l.
+Annually meeting with members of the commission to discuss controls, systems and risk, and performance of the audit firm, and to discuss other matters that the audit firm, the auditor, or staff desires or is required to bring to the commission's attention such as fraud, illegal acts, and financial and control weaknesses.
+(10)
+The audit oversight committee shall have the authority to hire outside experts, including legal counsel, when necessary.
+(11)
+The audit oversight committee shall have the authority to propose the budget of the office of internal audit, including the auditor's salary and staffing, and shall then recommend the budget to the commission for approval, who shall fund it as a priority.
+(12)
+Sufficient resources as requested by the audit oversight committee shall be provided by the commission to enable the audit oversight committee to carry out its responsibilities.
+(o)
+The provisions of this section are severable, and if any of its provisions shall be held unconstitutional or invalid by a court of competent jurisdiction, the decision of the court shall not affect or impair any of the remaining provisions.
+( Acts 2015, p. 3826, § 2 ; Acts 2018, p. 4170, § 1)
+Sec. 11. - Presiding officer.
+(a)
+The chief executive shall have no vote at any regular or specially called meeting of the commission unless the members of the commission are equally divided. Even when the members of the commission are equally divided, the chief executive may not vote on a matter which is not subject to veto by said officer under the provisions of subsection (d) of section 15 of this Act.
+(b)
+At the first regular meeting in January of each year, the commission shall elect from its membership a presiding officer and a deputy presiding officer. The member serving as presiding officer or deputy presiding officer shall retain all rights, powers and duties as a member of the commission.
+(c)
+The presiding officer shall preside at meetings of the commission and shall have the following additional duties:
+(1)
+To convene such special meetings of the commission as are deemed necessary, but all members shall be notified at least three (3) days in advance of any such special meeting;
+(2)
+To appoint the members and chairpersons of such committees of the commission as the commission, by its rules, may establish and fill vacancies therein, but any such appointments may be rejected by a majority vote of the total membership of the commission;
+(3)
+To compel the attendance of members at meetings of the commission by subpoena, if necessary, subject to the policy of the commission as established by its rules; and
+(4)
+To exercise such other powers and duties as may be assigned to the presiding officer by ordinance or rules and regulations of the commission.
+(d)
+In the event the office of the member serving as presiding officer becomes vacant for any reason, or in the event the presiding officer is absent for any reason, or in the event the presiding officer exercises the powers of the chief executive pursuant to subsections (b) or (c) of section 6 of this act, then the deputy presiding officer shall exercise the powers and duties of the presiding officer during the absence of the presiding officer or until a successor presiding officer is elected by the commission at the first regular meeting held during the next succeeding January.
+(Acts 1981, p. 4304, § 1; Acts 1988, p. 4740, § 1; Acts 2008, p. 3897, § 2)
+Sec. 12. - Meetings.
+The commission shall hold regular meetings on the second and fourth Tuesdays of each month at the county seat, which meetings shall be open to the public, and may hold such additional meetings as shall be necessary when called by the chief executive, the presiding officer, or any four (4) members of the commission, but all members shall be notified at least three (3) days in advance of any such additional meeting. No official action shall be taken by the commission except in a meeting which is open to the public. The presiding officer and any three (3) members of the commission, or any four (4) members of the commission exclusive of the presiding officer, shall constitute a quorum, except that a lesser number shall be sufficient to recess or adjourn any meeting; but no official action shall be taken except upon the affirmative vote of at least four (4) members of the commission, or three (3) members and the presiding officer. The presiding officer shall be entitled to the same voting rights as the commission members on questions considered by the commission.
+(Acts 1981, p. 4304, § 1)
+Sec. 13. - Powers and duties of the chief executive.
+(a)
+The chief executive shall have the exclusive power to supervise, direct and control the administration of the county government. The chief executive shall carry out, execute and enforce all ordinances, policies, rules and regulations of the commission when such ordinances, policies, rules and regulations become effective. Members of the commission shall deal solely through the chief executive or his executive assistance [assistant] in all matters concerning the operation, supervision, and administration of the various departments, offices, and agencies of the county government. No member of the commission shall directly or indirectly order, instruct, or otherwise attempt to control the actions of county personnel subject to the administrative and supervisory control of the chief executive. Nothing herein shall be construed to preclude any commissioner from seeking information necessary to the establishment of policy from any person, including any employee of DeKalb County.
+(b)
+Subject to the approval of the commission, the chief executive shall have the power to change, consolidate, or abolish any departments, agencies, or offices over which the chief executive exercises supervision and control, except that the department of finance shall be maintained at all times as a separate and distinct department and may not be abolished by the chief executive or by the commission. Subject to the approval of the commission, the chief executive may create other departments, agencies, and offices, which departments, agencies, and offices, when created, shall be under the supervision and control of the chief executive.
+(c)
+(1)
+Subject to confirmation by the commission, the chief executive shall appoint the executive assistant and the county attorney. The executive assistant shall be subject to the requirements of section 14 of this act. No member of the commission or the commission itself shall be authorized to nominate persons for the office of executive assistant or county attorney. Within the budgetary limitations, the chief executive shall fix the compensation of the executive assistant and the county attorney. Both of said officers shall serve at the pleasure of the chief executive. The commission may also discharge either such officer for cause, but the affirmative vote of at least five (5) members of the commission shall be required to discharge either such officer.
+(2)
+Subject to confirmation by the commission, the chief executive shall appoint the planning director, finance director, and merit system director. No member of the commission or the commission itself shall be authorized to nominate persons for any such position. All three (3) of said officers shall be under the DeKalb County Merit System and, subject to the regulations of said merit system and budgetary limitations, the chief executive shall have the authority to fix the compensation of said officials.
+(d)
+Subject to budgetary limitations and DeKalb County Merit System regulations, the chief executive shall have exclusive authority to appoint, remove, and fix the compensation of all employees and officials of the county, except employees of the commission, and except that deputies and employees of the elected county officers of DeKalb County shall be subject to appointment, removal, supervision, and control of the respective elective county officers. The compensation of persons filling offices and positions created by state statutes shall be fixed by the chief executive within budgetary limitations when such state statutes authorize or require such compensation to be fixed by county governments or by county governing authorities.
+(e)
+The chief executive may convene special meetings of the commission when deemed necessary, but all members shall be notified at least three (3) days in advance of any such special meeting.
+(f)
+The chief executive may compel the attendance of members at meetings of the commission by subpoena, when deemed necessary, subject to the policy of the commission as established by its rules.
+(g)
+The chief executive shall have power to investigate the affairs, records and expenditures of the various authorities, boards, councils, commissions, committees, and similar bodies or agencies, whether created by ordinance of the commission or by acts of the General Assembly, relating to the affairs of the county and to report thereon to the commission.
+(h)
+The chief executive shall represent the county in intergovernmental matters and shall seek to promote and improve the government of the county and encourage the growth of the county and promote and develop the prosperity and well-being of the citizens of the county.
+(i)
+The chief executive, within one hundred twenty (120) days after the close of each fiscal year, shall prepare and submit to the commission a complete annual report on the financial affairs and activities of the county for the immediately preceding fiscal year. The annual report shall show all income from all sources, including state, county, and federal funds, and all expenditures. The chief executive shall cause a summary of said annual report to be published in the official organ of DeKalb County. Said published summary shall state that a copy of the full report is available from the office of the chief executive. The chief executive shall also send copies of the full report to each branch of the county library. The chief executive shall also make financial reports during the year as may be required by the commission.
+(j)
+The chief executive may recommend, at any time, to the commission for its formal consideration, such measures or proposals as are deemed necessary or desirable to improve the administration of the affairs of the county.
+(k)
+The chief executive shall devote full time to the duties of the office and shall have no other source of employment.
+(l)
+Reserved.
+(Acts 1981, p. 4304, § 1; Acts 1983, p. 4547, §§ 2, 3; Acts 1986, p. 4107, § 2; Acts 1988, p. 4740, § 2; Acts 2008, p. 3897, § 3)
+Sec. 13A. - Appointments to public office.
+(a)
+(1) Whenever any other law of this state authorizes or requires a county governing authority, including any such law which refers to a local governing body with the intention of including a county governing authority, to appoint or elect a person to fill a post or vacancy in any public office or as a member of any public authority, board, commission, or other body or agency, such post or vacancy shall be filled as follows:
+(A)
+The chief executive shall nominate a person by sending a written notice to the commission, and such notice shall specify the post or vacancy to be filled, the date such post or vacancy is to be filled, the qualifications, if any, which must be possessed by a person filling the post or vacancy, and the name of the person nominated by the chief executive;
+(B)
+Within twenty (20) days after the date the notice described in subparagraph (A) of this subsection is received, the commission, either at a regular or called meeting, shall confirm or reject the nominee of the chief executive;
+(C)
+If the first nominee of the chief executive is rejected by the commission, the chief executive shall make a second nomination in writing to the commission within ten (10) days after the date of such rejection;
+(D)
+Within fifteen (15) days after the date the second nomination of the chief executive is received, the commission, either at a regular or called meeting, shall confirm or reject the second nominee of the chief executive; and
+(E)
+If the second nominee of the chief executive is rejected by the commission, the commission shall, within fifteen (15) days after the date of such rejection, either at a regular or called meeting, elect a qualified person to fill the post or vacancy without the necessity of a nomination by the chief executive.
+(2) When the need to fill a post or vacancy is known by the chief executive at least sixty (60) days in advance of the date on which the post or vacancy should be filled, the chief executive shall initiate the procedures provided by paragraph (1) of this subsection far enough in advance to permit such post or vacancy to be filled at the proper time. In all other cases, the chief executive shall initiate such procedures as soon as practicable after learning of the need to fill the post or vacancy.
+(b)
+When a law described in subsection (a) of this section authorizes a person elected or appointed to fill a post or vacancy to be removed from office by a county governing authority, such power of removal may be exercised by the affirmative vote of at least four (4) members of the commission, exclusive of the presiding officer, or by the affirmative vote of three (3) members of the commission and the presiding officer. Such power of removal may be exercised by the commission without the concurrence of the chief executive, but the chief executive may recommend such removal to the commission.
+(c)
+Whenever any other law of this state authorizes or requires the chairman of the board of commissioners of a county or the elected chief executive officer of a county, by whatever name designated, to hold another office or to serve as a member of any public authority, board, commission, or other body or agency, such law shall be construed to grant such authority or apply such requirement to the chief executive.
+(d)
+Whenever any other law of this state refers, for purposes other than those described in subsection (c) of this section, to the chairman of the board of commissioners of a county or to the elected chief executive officer of a county, by whatever name designated, such law shall be construed to refer to the chief executive.
+(Acts 1986, p. 4107, § 3)
+Sec. 14. - Executive assistant; administrators.
+(a)
+Subject to the qualifications for said office as hereinafter provided in this section, the chief executive shall nominate, and the commission shall confirm, an executive assistant. The executive assistant shall be the chief administrative aide to the chief executive and the commission and shall be responsible to the chief executive and the commission for the proper administration of the affairs of the county.
+(b)
+When directed to do so by the chief executive, the executive assistant may exercise any of the administrative duties and powers vested in the chief executive by law or ordinances, rules, and regulations adopted by the commission.
+(c)
+The executive assistant shall hold a college degree in public administration, political science, urban affairs, business administration, engineering, or a related field and must have at least five (5) years of experience in a supervisory capacity as an employee, director, administrator, or manager of a city or county government or a state or federal agency or equivalent experience in the private sector or any combination thereof.
+(d)
+No person shall be appointed or hold office as executive assistant to the chief executive if such person, within two (2) years immediately preceding appointment, has:
+(1)
+Been a candidate for elective public office;
+(2)
+Been the holder of elective public office; or
+(3)
+Held a management position in the political campaign of any candidate for the office of chief executive, or any member of the board of commissioners of DeKalb County.
+(e)
+After appointment, the executive assistant shall not take part in the management of any political campaign for any elective public office or hold office in any political party or body. If the executive assistant participates in political activities in violation of this subsection, such participation, by operation of law, shall result in the immediate discharge of the executive assistant, and the office of executive assistant shall be vacant.
+(f)
+The chief executive shall also have exclusive power to appoint, remove from office and, within budgetary limitations, fix the compensation of two (2) administrators to assist the executive assistant in such manner as the chief executive shall direct.
+(Acts 1981, p. 4304, § 1; Acts 1983, p. 4547, § 4)
+Sec. 15. - Veto power of chief executive.
+(a)
+Every ordinance or resolution adopted by the commission shall be signed by the presiding officer of the commission or, in the absence of the presiding officer, the deputy presiding officer shall sign the ordinance or resolution. Such ordinance or resolution shall be certified by the clerk of the commission and presented by said clerk to the office of the chief executive within three (3) business days following its adoption by the commission. The chief executive shall approve or veto the ordinance or resolution within eight (8) business days after its adoption by the commission, and, except as hereinafter provided, no ordinance or resolution shall become effective without the approval of the chief executive.
+(b)
+If the chief executive vetoes an ordinance or resolution, the chief executive shall return it to the commission within two (2) business days after such veto along with a written statement of the reasons for the veto. If, at the meeting of the commission next held after receiving the vetoed ordinance or resolution, the commission shall again pass the ordinance or resolution by a two-thirds vote of its total membership, such ordinance or resolution shall become effective without the approval of the chief executive. If the chief executive does not approve or veto an ordinance or resolution within eight (8) business days after its adoption by the commission, it shall become effective without the chief executive's approval.
+(c)
+The chief executive may veto any item or items of any ordinance or resolution making appropriations, and the part or parts vetoed shall not become effective, except as provided by subsection (b) of this section with respect to other ordinances or resolutions. Any part of an ordinance or resolution making appropriations not vetoed by the chief executive shall become effective.
+(d)
+Nothing in this section shall authorize the chief executive to exercise a veto over any zoning ordinance adopted by the commission pursuant to its authority under paragraph (10) of subsection (a) of section 9 of this act, nor over any rule adopted by the commission pursuant to its authority under paragraph (19) of subsection (a) of section 9 of this act.
+(Acts 1981, p. 4304, § 1; Acts 1988, p. 4740, § 3)
+Sec. 16. - Comprehensive development plan.
+(a)
+The chief executive shall from time to time present to the commission a comprehensive development plan which shall:
+(1)
+Consider the economic and social aspects of the county;
+(2)
+Set forth the comprehensive development goals, policies and objectives of the county, its specific geographic areas, communities and neighborhoods and the citizens thereof; and
+(3)
+In conformity with such development goals, policies and objectives, identify parks, recreation facilities, sites for public buildings and structures, utilities, transportation systems and facilities, housing, community facilities, manufacturing and industrial sites, future land use for all classifications and such other elements, features and policies as will promote the improvement of the county.
+(b)
+In preparing or revising the comprehensive development plan, the chief executive shall seek the views and opinions of citizens of the county and shall establish and publicize formal procedures to obtain such views and opinions.
+(Acts 1981, p. 4304, § 1)
+Sec. 17. - Budgeting; control of expenditures.
+The chief executive shall submit to the board not later than December 15 of each year a proposed budget governing the expenditures of all county funds, including capital outlay and public works projects for the following calendar year. In an election year, if the incumbent chief executive is not reelected, this date may be extended to January 15 of the year to which the budget pertains. The proposed budget submitted to the commission shall be accompanied by a report containing information and data relating to the financial affairs of the county pertinent to arriving at and establishing the annual budget.
+The chief executive shall cause to be published in the official organ of DeKalb County a copy of the proposed budget along with a notice to the public that a public hearing on the proposed budget shall be held at a time and place certain, which time shall be not less than ten (10) days of [from] the publication. At this public hearing the commission shall review the proposed budget. It may adopt the budget as presented by the chief executive or it may make such amendments thereto as it deems necessary to maintain the county in a sound financial condition. Nothing herein shall prevent the commission from continuing the hearing on the proposed budget from time to time, provided the time and place to which the hearing is continued shall be publicly announced at the previous hearing. However, the final budget shall be approved and adopted before March 1, of the year to which it pertains. The final budget shall constitute the commission's appropriations of all funds for such year. The budget may be amended during the calendar year which it covers upon formal action of the commission in a regular meeting, but no increase in appropriations shall be made therein without provision also being made for financing same.
+A copy of the final budget adopted shall be transmitted by the chief executive to the grand jury of DeKalb County Superior Court then in session within ten (10) days of its adoption.
+Between January 1 and such time as the budget for the county is adopted by the board of commissioners, the director of finance, with the approval of the chief executive, shall be authorized to make such expenditures of county funds as are deemed necessary and proper for the continuing operation of the county any its various departments at the then-currently approved level of service. These expenditures shall not include disbursements for new personnel, new services, new equipment, or other items which could be interpreted as providing additional level of service not previously authorized.
+No expenditure of county funds shall be made except in accordance with the county budget, or amendments thereto, adopted by the Commission. The chief executive shall enforce compliance with this requirement by all departments, offices, or agencies of the county government, including elected county officers, with the exception of the tax commissioner, clerk of the superior court, district attorney, and sheriff.
+(Acts 1981, p. 4304, § 1; Ord. No. 85-17, § I, 7-23-85; Acts 2007, p. 4073, § 1)
+Editor's note— The ordinances shown in the left-hand column below may be found in the acts as shown in the right-hand column below:
+EXPAND
+Ord. No. Acts
+85-17 1986, p. 5704
+  Sec. 18. - Purchases; contracts.
+(a)
+The chief executive, subject to the approval of the commission, shall establish rules to regulate purchasing for all county departments, offices, and agencies of the county government, with the exception of the tax commissioner, clerk of the superior court, district attorney, and sheriff. Except as hereinafter provided, formal sealed bids, after notice of same has been published one (1) time in the official organ of DeKalb County, must be obtained on all purchases exceeding fifty thousand dollars ($50,000.00). Purchases exceeding fifty thousand dollars ($50,000.00) may be made without formal sealed bids from any vendor who, at the time of purchase, has an existing contract or schedule with a county or municipality if such contract was procured by a competitive process, or the State of Georgia or the federal government so long as all such purchases are made pursuant to the price, terms, and conditions of said contract and if the county receives all the benefits of such contract.
+(b)
+Except for contracts of employment, the commission shall authorize all contracts involving the expenditure of county funds in excess of one hundred thousand dollars ($100,000.00).
+(c)
+No more than one (1) contract involving the expenditure of county funds during a fiscal year may be made with any vendor without approval of the commission.
+(d)
+Subdividing a proposed contract which is for an amount above the threshold specified in subsection (a) or (b) of this section into smaller contracts or subcontracts for the purpose of avoiding the requirement of subsection (a) or (b) of this section shall be prohibited and such contracts or subcontracts shall be void ab initio.
+(e)
+Except for contracts of employment, all contracts for purchase shall be published on the county website within thirty (30) days of approval of such contracts.
+(Acts 1981, p. 4304, § 1; Ord. No. 01-02, 4-10-01; Ord. No. 12-03, 6-10-03; Acts 2007, p. 4073, § 2; Acts 2015, p. 3824, § 1 ; Acts. 2016, p. 4219, § 3 )
+Sec. 19. - Department of finance.
+(a)
+The department of finance is hereby established as a permanent administrative unit of the county government. The department shall be under the control and supervision of the director of finance. The department of finance shall perform the following functions:
+(1)
+Keep and maintain accurate records reflecting the financial affairs of the county.
+(2)
+Compile the annual budget covering all county funds.
+(3)
+Make quarterly allotments of monies appropriated and budget to each department, office or agency of the county entitled to receive same.
+(4)
+Maintain current control accounts over the collection and deposit of monies due the county from taxes and other sources.
+(5)
+Examine all claims against the county and make recommendation as to payment.
+(6)
+Maintain budgetary control accounts showing encumbrances for obligations entered into, liquidation of such encumbrances, unencumbered balances of allotments, unexpended balances of appropriations.
+(7)
+Maintain proprietary accounts of the current assets and of the liabilities of all county funds.
+(8)
+Prepare and issue quarterly financial reports of the operations of all county funds.
+(9)
+Maintain property control records of all county property, including equipment and stores, and supervise stores.
+(10)
+Plan and prepare for meeting the financial needs of the county, project financial requirements, recommend means of financing those requirements and advise the chief executive and the commission on financial matters.
+(11)
+Perform such other duties as may be assigned by the chief executive.
+(b)
+The director of finance shall certify to the chief executive and to the commission on March 31, June 30, September 30 and December 31 of each year a statement of county finances which shall reflect the overall county financial position by individual funds as well as a comparison of cash revenue collections by source with the budget estimates of cash revenues by source and also a comparison of departmental expenditures with budget appropriations. The chief executive shall cause the June 30 and December 31 statements to be published in the official organ of DeKalb County one (1) time and a copy posted on the county courthouse bulletin board within thirty (30) days of each date.
+(c)
+Except as hereinafter provided, the provisions of this section are advisory only, and the chief executive, subject to the approval of the commission, may provide for the organization or reorganization of the department of finance and may specify and provide for the powers and duties of the director of finance and other personnel of the department of finance in such manner as may be necessary or desirable for the efficient and effective operation of the department of finance. The department of finance and the office of director of finance shall not be abolished by the chief executive or the commission.
+(Acts 1981, p. 4304, § 1)
+Sec. 20. - Records; minutes.
+The commission shall appoint a clerk who shall be the clerk of the chief executive and the commission and shall keep a proper and accurate book of minutes wherein shall appear all the acts, orders, and proceedings of the commission, in chronological order, and a similar book of minutes wherein shall appear, in chronological order, all acts, orders, and proceedings of the chief executive. The minute books of the chief executive and the commission shall be open to public inspection at all times during the regular office hours, and certified copies of any entries therein shall be furnished by the said clerk to any person requesting same upon payment of a reasonable fee, to be paid into the county treasury as other funds, to be assessed by the commission in an amount sufficient to defray the cost of preparing same. In addition, the clerk shall manage the agenda for meetings of the commission and perform such other duties as the commission may direct.
+(Acts 1981, p. 4304, § 1; Acts 2008, p. 3897, § 4)
+Sec. 21. - Agreements of candidates.
+It shall be unlawful for any candidate, either for the office of chief executive or for membership on the commission, or for nomination to either of such offices, to enter into any agreement or understanding with any person as to the disposal of any work or appointment which is or shall be under the control of the chief executive or the commission, and any person so offending shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished as for a misdemeanor.
+(Acts 1981, p. 4304, § 1)
+Sec. 22. - Officials not to be interested in contracts.
+Neither the chief executive nor any member of the commission or other county officer empowered to use public or county funds for the purchase of goods, property, or services of any kind for public or county purposes shall be financially interested, directly or indirectly, in any contract to which the county is a party, either as principal, surety or otherwise; nor shall such officer, his partner, agent, servant, or employee of a firm of which he is a member or by whom he is employed purchase from or sell to the county any real or personal property, goods or services. Any contract made in violation of any of the foregoing provisions shall be void, and the officer so offending shall be removed from office upon proper proceedings instituted by any taxpayer in said county in accordance with the provisions of section 23-1714 of the Code of Georgia of 1933 [O.C.G.A. § 36-1-14]. Provided, however, that the provisions of this section shall not be applicable to any contract which has been approved, prior to execution, performance and payment thereon, by a majority of the commission by a proper entry on the minutes of the commission.
+Sec. 22A. - Code of ethics.
+(a)
+Purpose.
+(1)
+It is essential to the proper administration and operation of the DeKalb County government that its officials and employees be, and give the appearance of being, independent and impartial, that public office not be used for private gain, and that there be public confidence in the integrity of DeKalb County officials and employees. Because the attainment of one (1) or more of these ends is impaired whenever there exists in fact, or appears to exist, a conflict between the private interests and public responsibilities of officials and employees, the public interest requires that the general assembly protect against such conflicts of interest by establishing by law appropriate ethical standards with respect to the conduct of the officials and employees of DeKalb County in situations where a conflict may exist.
+(2)
+The general assembly recognizes that an appropriate and effective code of ethics for appointed officials and employees of DeKalb County is also essential for the proper administration and operation of the DeKalb County government.
+(b)
+Definitions. As used in this section, the term:
+(1)
+Agency means any board, bureau, body, commission, committee, department, or office of DeKalb County to which the governing authority has appointment powers.
+(2)
+Business means any corporation, partnership, organization, sole proprietorship, and any other entity operated for economic gain, whether professional, industrial, or commercial, and entities which for purposes of federal income taxation are treated as nonprofit organizations.
+(3)
+Confidential information means information which has been obtained in the course of holding public office, employment, acting as an independent contractor, or otherwise acting as an official or employee and which information is not available to members of the public under state law or other law or regulation and which the official, independent contractor, or employee is not authorized to disclose.
+(4)
+Contract means any claim or demand against or any lease, account, or agreement with any person, whether express or implied, executed or executory, verbal or in writing.
+(5)
+Emergency situation means any circumstance or condition giving rise to an immediate necessity for the execution of a contract by and between DeKalb County and an official or employee or between DeKalb County and a business in which an official or employee has an interest and where, to the satisfaction of the chief executive, it is shown that there is no one other than such persons with whom the contract could have been made and that the necessity was not brought about by such persons' own fault or neglect.
+(6)
+Immediate family means an official or employee and his or her spouse, parents, brothers, sisters, and natural or adopted children.
+(7)
+Interest means any direct or indirect pecuniary or material benefit held by or accruing to the official or employee as a result of a contract or transaction which is or may be the subject of an official act or action by or with DeKalb County. Unless otherwise provided in this section, the term 'interest' does not include any remote interest. An official or employee shall be deemed to have an interest in transactions involving:
+a.
+Any person in the official's or employee's immediate family;
+b.
+Any person, business, or entity that the official or employee knows or should know is seeking official action with DeKalb County, is seeking to do or does business with DeKalb County, has interests that may be substantially affected by performance or nonperformance of the official's or employee's official duties, or with whom a contractual relationship exists whereby the official or employee may receive any payment or other benefit;
+c.
+Any business in which the official or employee is a director, officer, employee, shareholder, or consultant; or
+d.
+Any person of whom the official or employee is a creditor, whether secured or unsecured.
+(8)
+Official or employee means any person elected or appointed to or employed or retained by DeKalb County or any agency, whether paid or unpaid and whether part time or full time. This definition includes retired employees or former county employees during the period of time in which they are later employed or retained by the county or any agency. This definition does not include superior and state court judges and their immediate staffs, the district attorney, the solicitor of the state court, the clerks of the superior and state courts, magistrates, judges of the magistrate court, the judge of the probate court, and their respective staffs.
+(9)
+Official act or action means any legislative, administrative, appointive, or discretionary act of the commission, the chief executive, or a commissioner.
+(10)
+Paid means the receipt of, or right to receive, a salary, commission, percentage, brokerage, or contingent fee.
+(11)
+Participate means to take part in official acts, actions, or proceedings personally as an official or employee through approval, disapproval, decision, recommendation, investigation, the rendering of advice, or the failure to act or perform a duty.
+(12)
+Person means any individual, business, labor organization, representative, fiduciary, trust, or association, whether paid or unpaid, and includes any official or employee of DeKalb County.
+(13)
+Property means any property, whether real or personal or tangible or intangible, and includes currency and commercial paper.
+(14)
+Remote interest means the interest of:
+a.
+A nonsalaried director, officer, or employee of a nonprofit organization;
+b.
+A holder of less than five (5) percent of the legal or beneficial ownership of the total shares of a business;
+c.
+Any person in a representative capacity, such as a receiver, trustee, or administrator; or
+d.
+Any person who, by determination of the board of ethics, is deemed to have such an interest.
+(15)
+Transaction means the conduct of any activity that results in or may result in an official act or action of an official or employee of DeKalb County.
+(c)
+Proscribed conduct. No official or employee of DeKalb County shall:
+(1)
+By his or her conduct give reasonable basis for the impression that any person can improperly influence him or her or unduly enjoy his or her favor in the performance of his or her official acts or actions or that he or she is affected unduly by the rank or position of or kinship or association with any person;
+(2)
+a.
+Directly or indirectly request, exact, receive, or agree to receive a gift, loan, favor, promise, or thing of value for himself or herself or another person if:
+(i)
+It tends to influence him or her in the discharge of his or her official duties; or
+(ii)
+He or she recently has been, or is now, or in the near future may be, involved in any official act or action directly affecting the donor or lender.
+b.
+Subparagraph a. of this paragraph shall not apply in the case of:
+(i)
+An occasional nonpecuniary gift of value less than one hundred dollars ($100.00);
+(ii)
+An award publicly presented in recognition of public service; or
+(iii)
+A commercially reasonable loan made in the ordinary course of business by an institution authorized by the laws of Georgia to engage in the making of such a loan;
+(3)
+Disclose or otherwise use confidential information acquired by virtue of his or her position for his or her or another person's private gain;
+(4)
+Appear on his or her own personal behalf, or represent, advise, or appear on the personal behalf, whether paid or unpaid, of any person before any court or before any legislative, administrative, or quasi-judicial board, agency, commission, or committee of this state or of any county or municipality concerning any contract or transaction which is or may be the subject of an official act or action of DeKalb County or otherwise use or attempt to use his or her official position to secure unwarranted privileges or exemptions for himself or herself or other persons;
+(5)
+Engage in, accept employment with, or render services for any agency, private business, or professional activity when such employment or rendering of services is adverse to and incompatible with the proper discharge of his or her official duties;
+(6)
+Acquire an interest in any contract or transaction at a time when he or she believes or has reason to believe that such an interest will be affected directly or indirectly by his or her official act or actions or by the official acts or actions of other officials or employees of DeKalb County; or
+(7)
+Engage in any activity or transaction that is prohibited by law now existing or hereafter enacted which is applicable to him or her by virtue of his or her being an official or employee of DeKalb County.
+(c.1)
+No employee of the purchasing and contracting department of DeKalb County shall accept any gift of value from anyone who has had or may reasonably be anticipated to have any business with or before such department. Gifts from persons who do not have or who would not be reasonably anticipated to have any business with or before such department may be accepted by an employee of such department only when such gifts are based solely on a family relationship or personal friendship.
+(d)
+Disclosure of interests. An official or employee who has an interest that he or she has reason to believe may be affected by his or her official acts or actions or by the official acts or actions of another official or employee of DeKalb County shall disclose the precise nature and value of such interest by sworn written statement to the board of ethics and ask for the board's opinion as to the propriety of such interest. Every official or employee who knowingly has any interest, direct or indirect, in any contract to which DeKalb County is or is about to become a party, or in any other business with DeKalb County, shall make full disclosure of such interest to the chief executive and the commission and to the ethics officer and the board of ethics. The information disclosed by such sworn statements, except for the valuation attributed to the disclosed interest, shall be made a matter of public record by the board of ethics. In cases where a conflict of interest exists, such official or employee shall recuse himself or herself from participating or taking any official acts or actions in any matter for the county affected by such conflict of interest.
+(e)
+Participation in contracts.
+(1)
+An official or employee shall disqualify himself or herself from participating in any official act or action of DeKalb County directly affecting a business or activity in which he or she has any interest, whether or not a remote interest.
+(2)
+DeKalb County shall not enter into any contract involving services or property with an official or employee of the county or with a business in which an official or employee of the county has an interest. This subsection shall not apply in the case of:
+a.
+The designation of a bank or trust company as a depository for county funds;
+b.
+The borrowing of funds from any bank or lending institution which offers the lowest available rate of interest for such loans;
+c.
+Contracts for services entered into with a business which is the only available source for such goods or services; or
+d.
+Contracts entered into under circumstances which constitute an emergency situation, provided that a record explaining the emergency is prepared by the chief executive and submitted to the board of ethics at its next regular meeting and thereafter kept on file.
+(3)
+DeKalb County shall not enter into any contract with, or take any official act or action favorably affecting, any person, or business represented by such person, who has been within the preceding two-year period an official or employee of DeKalb County.
+(f)
+Reporting violations. Any person who witnesses or becomes aware of a violation of this section may complain of the violation as follows:
+(1)
+A complaint may be communicated anonymously to the ethics administrator. Such complaint shall be made in good faith and with veracity and sufficient specificity so as to provide the ethics officer with salient and investigable facts. The ethics administrator may require the anonymous complaint to be made in a manner and form that is intended only to obtain relevant facts related to the alleged violation of this section and that is not designed to reveal the identity of the complainant.
+(2)
+A sworn written complaint may be filed with the ethics administrator as described in this paragraph. All written complaints to be considered by the board of ethics and the ethics officer shall contain the following, if applicable:
+a.
+The name and address of the person or persons filing the complaint;
+b.
+The sworn verification and signature of the complainant;
+c.
+The name and address of the party or parties against whom the complaint is filed and, if such party is a candidate, the office being sought;
+d.
+A clear and concise statement of acts upon which the complaint is based along with an allegation that such facts constitute one or more violations of law under the jurisdiction of the board of ethics;
+e.
+A general reference to the allegedly violated statutory provision(s) of the code of ethics within the jurisdiction of the board of ethics; and
+f.
+Any further information which might support the allegations in the complaint including, but not limited to, the following:
+(i)
+The names and addresses of all other persons who have first-hand knowledge of the facts alleged in the complaint; and
+(ii)
+Any documentary evidence that supports the facts alleged in the complaint.
+(3)
+Upon receipt of a complaint by the ethics administrator, the ethics administrator shall send a written notice to the subject of the complaint by the next business day. Both this notice and any subsequent documents shall be subject to Article 4 of Chapter 18 of Title 50 of the O.C.G.A.
+(4)
+Upon receipt of a written, nonanonymous complaint which does not conform to the applicable requirements of paragraph (2) of this subsection, the ethics administrator shall by letter acknowledge receipt of the complaint and advise the complainant of the defect in the complaint and that the complaint will not be considered by the board of ethics unless the defect is corrected.
+(g)
+Enactment.
+(1)
+This section shall be construed liberally to effectuate its purpose and policies and to supplement such existing laws as may relate to the conduct of officials or employees.
+(2)
+The propriety of any official act or action taken by or transaction involving any officials or employees immediately prior to the time this section shall take effect shall not be affected by the enactment of this section.
+(3)
+The provisions of this section are severable, and if any of its provisions shall be held unconstitutional or invalid by a court of competent jurisdiction, the decision of the court shall not affect or impair any of the remaining provisions.
+(h)
+Board of ethics.
+(1)
+a.
+There is created the Board of Ethics of DeKalb County to be composed of seven (7) citizens of DeKalb County to be appointed as provided in paragraph (2) of this subsection.
+b.
+Each member of the board of ethics shall have been a resident of DeKalb County for at least one (1) year immediately preceding the date of taking office and shall remain a resident of the county while serving as a member of the board of ethics.
+c.
+No person shall serve as a member of the board of ethics if the person has, or has had within the immediately preceding two-year period, any interest in any contract, transaction, or official act or action of DeKalb County.
+d.
+No member of the board of ethics shall be a member of an agency or an official or employee of DeKalb County or shall have served in such a capacity in the two-year period immediately preceding such person's appointment to the board of ethics.
+e.
+No person shall serve as a member of the board of ethics if the person has been a candidate for, or was elected to, public office in the immediately preceding three-year period. Filing for an elective office shall constitute a resignation from the board of ethics on the date of filing.
+f.
+Appointees to the board of ethics shall have professional knowledge or expertise in matters of ethics, finance, governance, or the law.
+g.
+All proposed appointments to the board of ethics shall be subject to an education and employment background check as well as a criminal history check. Persons proposed to be appointed to the board of ethics shall execute all releases necessary for the appointing authority to accomplish such checks. If the nominee is determined to have committed a felony, the nomination shall be withdrawn.
+(2)
+a.
+The members of the board of ethics in office on the effective date of this section shall serve until December 31, 2020, and then their terms shall terminate. A new board shall be appointed as provided in this paragraph to take office on January 1, 2021, and to serve for the terms prescribed in this paragraph.
+b.
+Not later than December 31, 2020, the members of the new board of ethics shall be selected as follows:
+(i)
+Three (3) members shall be appointed by majority vote of the DeKalb County legislative delegation in the House of Representatives of the Georgia General Assembly;
+(ii)
+Three (3) members shall be appointed by majority vote of the DeKalb County legislative delegation in the Senate of the Georgia General Assembly; and
+(iii)
+One (1) member shall be appointed by the tax commissioner of DeKalb County.
+c.
+In addition to the members appointed as provided in subparagraph b. of this paragraph, there shall be two (2) alternate members who shall serve to ensure a quorum when members of the board are absent, have a conflict of interest, or find it necessary to recuse themselves or while a vacancy exists on the board. The alternates shall be selected by the clerk of superior court of DeKalb County.
+d.
+The members and alternates shall each serve for terms of three (3) years; provided, however, that the terms of the initial appointees of the House legislative delegation shall be specified at the time of their appointments. One (1) shall serve until December 31, 2021, and until the appointment and qualification of his or her successor, whichever occurs later; one (1) shall serve until December 31, 2022, and until the appointment and qualification of his or her successor, whichever occurs later; and one (1) shall serve until December 31, 2023, and until the appointment and qualification of his or her successor, whichever occurs later. The initial member appointed by the tax commissioner of DeKalb County shall serve until December 31, 2022, and until the appointment and qualification of his or her successor, whichever occurs later. The initial alternate members appointed by the clerk of superior court of DeKalb County shall serve the terms specified by the clerk of superior court at the time of the initial appointments. One (1) shall serve until December 31, 2021, and until the appointment and qualification of his or her successor, whichever occurs later, and one (1) shall serve until December 31, 2023, and until the appointment and qualification of his or her successor, whichever occurs later.
+e.
+Successors to all members and alternates of the board of ethics and future successors shall be appointed by the respective appointing authorities not less than thirty (30) days prior to the expiration of each such member's term of office, and such successors shall take office on January 1 following such appointment and shall serve terms of three years and until their respective successors are appointed and qualified. No individual may be appointed to more than two (2) consecutive terms, provided that the initial terms under this Act shall not be counted in such determination.
+(3)
+If a member of the board of ethics ceases to be a resident of DeKalb County, that member's position on the board of ethics, by operation of law, shall become vacant upon the establishment of the fact of such nonresidency, if contested, by a court of competent jurisdiction. A vacancy in the board of ethics shall exist by reason of death, the disability or incapacity of a member for more than ninety (90) days, resignation, or loss of residency as described in this paragraph. A member of the board of ethics may be removed from office during a term if the member becomes ineligible to hold civil office within the meaning of Code Section 45-2-1 of the O.C.G.A. and that ineligibility is established by decision of a court of competent jurisdiction which declares the office vacant because of such ineligibility or for good cause by a majority vote of the board of ethics. The ethics administrator shall notify the appointing authority of a vacancy upon its occurrence, and such vacancy shall be filled for the unexpired term by the respective appointing authority.
+(4)
+The members of the board of ethics shall serve without compensation and shall elect from their own membership a chairperson and otherwise provide for their own internal organization. The commission shall provide adequate office and meeting space and pay all administrative costs, including those specifically stipulated in this section, pertaining to the operation of the board of ethics. The board of ethics shall be authorized to employ its own staff and clerical personnel and contract for the services of a competent court reporter, an attorney, and a private investigator as it deems necessary. In the event that the board of ethics determines that employment of full-time legal counsel would best facilitate the accomplishment of its purposes under this section, the board of ethics may employ an attorney for such purpose, and the commission shall appropriate reasonably sufficient funds for such position. The members of the board of ethics shall have the authority to propose the budget of the board and shall recommend the budget to the commission, who shall fund it as a priority. In the event that the proposed budget is in excess of three hundred thousand dollars ($300,000.00), the commission shall have the authority to authorize the additional funds requested in accordance with standard budgetary procedures and requirements. The board of ethics shall be completely independent and shall not be subject to control or supervision by the chief executive, the commission, or any other official or employee or agency of the county government.
+(5)
+The board of ethics shall have the following duties:
+a.
+To establish procedures, rules, and regulations governing its internal organization and the conduct of its affairs;
+b.
+To render advisory opinions with respect to the interpretation and application of this section to all officials or employees who seek advice as to whether a particular course of conduct would constitute a violation of the standards imposed in this section or other applicable ethical standards. Such opinions shall be binding on the board of ethics in any subsequent complaint concerning the official or employee who sought the opinion and acted in good faith, unless material facts were omitted or misstated in the request for the advisory opinion;
+c.
+To prescribe forms for the disclosures required in this section and to make available to the public the information disclosed as provided in this section;
+d.
+To receive and hear complaints of violations of the standards required by this section over which it has personal and subject matter jurisdiction;
+e.
+To make such investigations as it deems necessary to determine whether any official or employee has violated or is about to violate any provisions of this section; and
+f.
+To hold such hearings and make such inquiries as it deems necessary for it to carry out properly its functions and powers.
+(i)
+Ethics officer.
+(1)
+There is hereby created as a full-time salaried position an ethics officer for DeKalb County. The ethics officer must be an active member of the Georgia Bar Association in good standing with five (5) years' experience in the practice of law. The ethics officer shall be appointed by a majority of the members of the board of ethics, subject to confirmation by a majority of the commission and approval by the chief executive, for a period not to exceed six (6) years. Removal of the ethics officer before the expiration of the designated term shall be for cause by a majority vote of the members of the board of ethics. The ethics officer need not be a resident of the county at the time of his or her appointment, but he or she shall reside in DeKalb County within six (6) months of such appointment and continue to reside therein throughout such appointment.
+(2)
+The ethics officer shall not be involved in partisan or nonpartisan political activities or the political affairs of DeKalb County.
+(3)
+The duties of the ethics officer shall include, but not be limited to, the following:
+a.
+Educating and training all city officials and employees to have an awareness and understanding of the mandate for and enforcement of ethical conduct and advising them of the provisions of the code of ethics of DeKalb County;
+b.
+Meeting with the board of ethics;
+c.
+Advising officials and employees regarding disclosure statements and reviewing the same to ensure full and complete financial reporting;
+d.
+Urging compliance with the code of ethics by calling to the attention of the board of ethics any failure to comply or any issues, including the furnishing of false or misleading information, that the ethics officer believes should be investigated by the board of ethics so that the board of ethics may take such action as it deems appropriate;
+e.
+Monitoring, evaluating, and acting upon information obtained from an 'ethics hotline' which shall be a city telephone number for the receipt of information about ethical violations. Each complaint, as of the time it is reported, whether by telephone or otherwise, shall be deemed to be a separate pending investigation of a complaint against a public officer or employee as provided by Article 4 of Chapter 18 of Title 50 of the O.C.G.A.;
+f.
+Reporting, as appropriate, suspected ethical violations to the board of ethics;
+g.
+Reporting, as appropriate, suspected criminal violations to state or federal law enforcement agencies; and
+h.
+Filing with the board of ethics, the chief executive, and the commission on the first Tuesday of each February a written report describing the activities of the ethics officer in carrying out the goals of his or her office and the code of ethics and reporting on the ethical health of DeKalb County.
+(i.1)
+Ethics administrator.
+(1)
+There is hereby created as a full-time salaried position an ethics administrator for DeKalb County. The ethics administrator shall be selected by the board of ethics and shall serve at the pleasure of the board.
+(2)
+The ethics administrator shall not be involved in partisan or nonpartisan political activities or the political affairs of DeKalb County.
+(3)
+The duties of the ethics administrator shall include, but not be limited to, the following:
+a.
+Maintaining the records of the board of ethics as required by Article 4 of Chapter 18 of Title 50 of the O.C.G.A.;
+b.
+Notifying the subject of a report of any alleged violation of the ethics code, whether the report is anonymous, made by an identified individual, or is written. Such notice shall be given in writing, by facsimile, or hand delivered to the subject of the complaint at the same time and in the same form that any disclosure of information is required by Article 4 of Chapter 18 of Title 50 of the O.C.G.A.;
+c.
+Notifying the board of ethics of any report of an alleged violation of the ethics code received by the ethics administrator; and
+d.
+Such other duties as may be assigned by the board of ethics.
+(j)
+Investigations and hearings. The board of ethics shall have the authority to conduct investigations into all alleged violations of the code of ethics, hold hearings, and issue decisions as prescribed in this subsection:
+(1)
+The proceedings and records of the board of ethics shall be open unless otherwise permitted by state law;
+(2)
+Upon request of the board of ethics, the solicitor of DeKalb County or any attorney representing the office of the solicitor of DeKalb County shall only advise the board of ethics;
+(3)
+A complaint may be filed by the ethics officer, any resident, or a group of residents of DeKalb County by submitting to the ethics administrator a written, verified, and sworn complaint under the penalty of perjury or false swearing. The complaint shall specifically identify all provisions of the DeKalb County code of ethics which the subject of the complaint is alleged to have violated, set forth facts as would be admissible in evidence in a court proceeding, and show affirmatively that the complainant or affiant (if in addition to or different from the complainant) is competent to testify to the matter set forth therein. All documents referenced in the complaint as well as supporting affidavits shall be attached to the complaint.
+(4)
+Upon receipt of the complaint, the ethics administrator shall bring the complaint before the board of ethics which shall cause the ethics officer to conduct a preliminary investigation to determine whether it meets the jurisdictional requirements as set forth in this section. Upon the conclusion of the preliminary investigation, the ethics officer shall report his or her findings to the board. If, in the opinion of the board, the complaint fails to meet the jurisdictional requirements as set forth in this section, the board shall direct the ethics officer to notify the person who filed the complaint and such person shall have ten (10) days from the date of notice to correct and refile the complaint with the board. A complaint which fails to satisfy the jurisdictional requirements as established by this section and by the rules and procedures established by the board of ethics shall be dismissed by the board of ethics no later than thirty (30) days after the complaint is filed with the ethics administrator, unless extended by a majority vote of the board of ethics.
+(5)
+a.
+If the board of ethics determines no probable cause for belief that this section has been violated, the ethics administrator shall so notify the complainant and the subject of the investigation, and the complaint shall be dismissed. If the board of ethics determines that there is probable cause for belief that this section has been violated, the ethics administrator shall give notice to the person involved to attend a hearing to determine whether there has been a violation of this section.
+b.
+The provisions of Code Section 45-10-3 of the O.C.G.A. shall apply to members of the board of ethics, and a member shall recuse himself or herself from a hearing held pursuant to this subsection in the event that such member has a conflict of interest pursuant to such Code section.
+(6)
+For use in proceedings under this section, the board of ethics shall have the power to issue subpoenas to compel any person to appear, give sworn testimony, or produce documentary or other evidence. Any person who fails to respond to such subpoenas may be subjected to the penalties set forth in subsection (k) of this section.
+(7)
+All hearings of the board of ethics pursuant to this section shall be as follows:
+a.
+All testimony shall be under oath, which shall be administered by a member of the board of ethics. Any person who appears before the board of ethics shall have all of the due process rights, privileges, and responsibilities of a witness appearing before the courts of this state. Any person whose name is mentioned during a proceeding of the board of ethics and who may be adversely affected thereby may appear personally before the board of ethics on such person's own behalf or may file a written sworn statement for incorporation into the record to be made part of all proceedings pursuant to this subsection.
+b.
+The decision of the board of ethics shall be governed by a preponderance of the evidence standard.
+c.
+At the conclusion of proceedings concerning an alleged violation, the board of ethics shall immediately begin deliberations on the evidence and proceed to determine by a majority vote of members present whether there has been a violation of this section. The findings of the board of ethics concerning a violation and the record of the proceedings shall be made public by the ethics officer as soon as practicable after the determination has been made.
+(8)
+a.
+The board of ethics shall render no final decision regarding any matter involving any individual who has qualified to run for any DeKalb County elected office during the forty-five (45) days preceding the election for such office.
+b.
+The board of ethics shall file with the chief executive and the commission on the first Tuesday of each February a written report describing the activities of the ethics administrator in carrying out the goals of his or her office and the code of ethics and reporting on the ethical health of DeKalb County.
+(k)
+Violations; appeals.
+(1)
+Any intentional violation of this section, furnishing of false or misleading information to the board of ethics, failure to follow an opinion rendered by the board of ethics, or failure to comply with a subpoena issued by the board of ethics pursuant to this section shall subject the violator to any one or more of the following:
+a.
+Administrative sanction of not more than one thousand dollars ($1,000.00) assessed by the board of ethics;
+b.
+Public reprimand by the board of ethics; and
+c.
+Prosecution by the DeKalb County solicitor in magistrate court and, upon conviction, a fine of up to one thousand dollars ($1,000.00) per violation and up to six (6) months' imprisonment, whether the official or employee is elected or appointed, paid, or unpaid. Nothing in this section shall be interpreted to conflict with state law. An action for violation of this section or the furnishing of false or misleading information or the failure to comply with a subpoena issued by the board of ethics must be brought within two (2) years after the violation is discovered.
+(2)
+With regard to violations by persons other than officials or employees, in addition to the remedies in paragraph (1) of this subsection, the board of ethics may recommend to the chief executive and the commission any one or more of the following:
+a.
+Suspension of a contractor; and
+b.
+Disqualification or debarment from contracting or subcontracting with DeKalb County.
+(3)
+The decision of the board of ethics after a hearing shall be final; provided, however, that such proceeding shall be subject to review by writ of certiorari to the DeKalb County Superior Court. The designee of the board of ethics shall be authorized to acknowledge service of any such writ and shall, within the time provided by law, certify and cause to be filed with the clerk of the superior court a record of the proceedings before the board of ethics, the decision of the board of ethics, and the notice of the final actions of the board of ethics.
+(Acts 1990, p. 3900, § 1; Acts 1992, p. 6137, §§ 1—3; Acts 2015, p. 3811, § 1 ; Acts 2019, H.B. 1243, secs. 1—7; 2020 Ga. Laws (Act 538), sec. 1, p. 4069; 2020 Ga. Laws (Act 538), sec. 2, p. 4070; 2020 Ga. Laws (Act 538), sec. 3, p. 4071; 2020 Ga. Laws (Act 538), sec. 4, p. 4071; 2020 Ga. Laws (Act 538), sec. 5, p. 4073; 2020 Ga. Laws (Act 538), sec. 6, p. 4074; 2020 Ga. Laws (Act 538), sec. 7, p. 4074)
+Editor's note— Pursuant to legislation from the Georgia General Assembly (H.B. 301, secs. 1, 2, eff. 7-1-15), reference to "recorders court" has been changed to "magistrate court."
+Sec. 23. - How sections amended, limitations on powers.
+Pursuant to the authority of an amendment to the Constitution ratified at the 1978 general election as set forth in Georgia Laws 1978, pages 2370—2372, which amendment authorized the General Assembly to provide by law for the form of government of DeKalb County and to provide for the various officers, bodies, branches, or agencies by or through which the county's governmental powers shall be exercised, any law adopted pursuant to such authority shall be conditioned on the approval of a majority of the qualified electors of DeKalb County voting at elections held for such purpose when any such law affects the DeKalb County government in any one or more of the following ways:
+(1)
+Changing the number of members, terms of office, or the manner of electing the members of the governing body of DeKalb County;
+(2)
+Changing the term of office or the method of electing the chief executive officer of DeKalb County;
+(3)
+Establishing the powers and duties of the executive or legislative branch of the DeKalb County government; or
+(4)
+Changing the powers and duties of the executive or legislative branch of the DeKalb County government when such powers and duties have been established by Acts of the General Assembly, pursuant to the authority of the amendment to the Constitution ratified at the 1978 general election as set forth in Georgia Laws 1978, pages 2370—2372.
+(Acts 1981, p. 4304, § 1; Acts 1984, p. 4916, §§ 2, 3; Acts 1986, p. 4107, § 4; Acts 1990, p. 3900, § 2; Acts 2012, p. 4610, § 3)
+Secs. 24—27. - Reserved.
+Editor's note— Sections 24—27 were repealed by Acts 1981, p. 4304.
+Sec. 28. - Use of voting machines.
+If, in the opinion of the ordinary of DeKalb County [now board of commissioners. See O.C.G.A. § 21-2-320] it is practicable to hold any election, whether the same be a referendum, special or general election, provided for by this act by use of voting machines, the ordinary is authorized to hold such election or all or any such election by means of voting machines in accordance with the provisions of the act of the General Assembly approved March 28, 1947 (Ga. L. 1947, p 1203) [now repealed. See O.C.G.A. § 21-2-310 et seq.].
+Sec. 29. - Conflicting laws repealed.
+All laws and parts of laws in conflict with this act, and all provisions of the act approved August 21, 1906 (Ga. L. 1906, p. 405) creating the office of commissioner of roads and revenues of DeKalb County which are in conflict with this act, are hereby repealed.
+Sec. 30. - Separability clause.
+Should any court of this state declare any section, part, paragraph or clause of this act unconstitutional or invalid for any cause or reason, then such decision shall affect only that section, part, paragraph or clause so declared to be unconstitutional and invalid, and shall not affect any other section, part, paragraph or clause of this act.
+ORGANIZATIONAL ACT COMPARATIVE TABLE - ACTS
+This table shows the location of the basic act organizing the county governing authority and any amendments thereto.
+EXPAND
+Adoption
+Year Page Section   Section
+
+this
+
+Organizational Act
+1956 1203 1—30 1—30
+1981 4304 1 1—21
+23
+1982 4235 1 2
+1983 4547 1 9
+2, 3 13
+4 14
+1984 4916 1 4
+2, 3 23
+1986 4107 1 9
+2 13
+3 13A
+4 23
+5704 17(note)
+1987 5013 1 8
+1988 4740 1 11
+2 13
+3 15
+1989 4863 1 8(1), (2)
+1990 3900 1 22A
+2 23(a)(1)
+4296 1 8(3)
+4479 1 9(c)
+1991 4334 1 8
+1992 H.B. 1577 1 2, 3
+5363 1 9(c)
+6137 1 22A(a)(8)
+2 22A(i)(5)b.
+3 22A(i)(6)a.
+6566 1 2, 3
+2002 3544 1 2
+2 3
+2007 4073 1 17
+2 18(a)
+2008 3897 1       Added 9(a)(20)
+2 11(a), (c)
+3 13(l)
+4 20
+2012 4610 1, 7 2(b)—(d)
+2 3
+3 23
+2015 3811 1 22A
+3824 1 18
+3826 1 10(d)
+2       Added 10A
+H.B. 301 1, 2 22A(b)(8)(note)
+2016 4219 1 9
+2 10(c)
+3 18(a)
+2018 4170 1 10A(n)(6)
+2019 H.B. 1243 1       Added 22A(c.1)
+2 22A(d)
+3 22A(f)
+4 22A(h)(2)
+5 22A(i)
+6       Added 22A(i.1)
+7 22A(j)(3), (4)
+2020 4069 1       Added 22A(c.1)
+4070 2 22A(d)
+4071 3 22A(f)
+4071 4 22A(h)(2)a—d.
+4073 5 22A(i)
+4074 6       Added 22A(i.1)
+4074 7 22A(j)(3), (4)
+  ORGANIZATIONAL ACT COMPARATIVE TABLE - ORDINANCES
+This table shows the location within this Organizational Act of those ordinances included herein.
+EXPAND
+Ordinance
+Number  Date Section   Section this
+Organizational Act
+85-17  7-23-85 I 17
+01-02  4-10-01 18(a), (b)
+12-03  6-10-03 18(a), (b)

@@ -1,0 +1,141 @@
+ARTICLE XVII. - SOLAR ENERGY SYSTEMS (SES)
+
+Sec. 6-290. - Definitions.
+(a)
+Solar energy system (SES) means a device or structural design feature that provides for the collection of solar energy for electricity generation, consumption or transmission or for thermal applications.
+For purposes of the City of Cairo Code of Ordinances, SES refers only to (1) photovoltaic SESs that convert solar energy directly into electricity through a semiconductor device or (2) solar thermal systems that use collectors to convert the sun's rays into useful forms of energy for water heating, space heating or space cooling.
+SES as used in the City of Cairo Code of Ordinances excludes concentrated solar power, which uses mirrors to focus the energy from the sun to produce electricity as such systems are excluded from the City of Cairo.
+(b)
+Integrated solar energy system means an SES where solar materials are incorporated into building materials, such that the two (2) are reasonably indistinguishable, or where solar materials are used in place of traditional building components, such that the SES is structurally an integral part of a house, building, or other structure. An integrated SES may be incorporated into, among other things, a building facade, skylight, shingles, canopy, light, or parking meter.
+(c)
+Rooftop solar energy system means an SES that is structurally mounted to the roof of a house, building, or other structure and does not qualify as an integrated SES.
+(d)
+Ground mounted solar energy system means an SES that is structurally mounted to the ground and does not qualify as an integrated SES. For purposes of the City of Cairo Code of Ordinances, any solar canopy that does not qualify as an integrated SES shall be considered a ground mounted SES, regardless of where it is mounted.
+(e)
+The footprint of a ground mounted SES is calculated by drawing a perimeter around the outermost SES panels and any equipment necessary for the functioning of the SES, such as transformers and inverters. The footprint does not include any visual buffer or perimeter fencing. Transmission lines (or portions thereof) required to connect the SES to a utility or consumer outside the SES perimeter shall not be included in calculating the footprint.
+(Ord. No. 825, § 1, 8-24-20)
+Sec. 6-291. - Applicability.
+(a)
+This article applies to the siting, construction, installation, and decommissioning of any new SES to be constructed or installed after September 1, 2020 within the jurisdiction of the City of Cairo.
+(b)
+Any SES that, prior to September 1, 2020:
+(1)
+Is in operation;
+(2)
+Is being lawfully sited, constructed, or installed; or
+(3)
+Has caused the incurrence of substantial liabilities relating to siting, construction, or installation;
+shall be exempt from complying with this article, unless the surface area of an integrated SES or rooftop SES or the footprint of a ground mounted SES is increased by more than twenty-five (25) percent after September 1, 2020.
+(c)
+Unless otherwise expressly stated herein, an SES shall comply with all applicable federal, state, and local laws, including the requirements of the City of Cairo zoning code and applicable building, fire, electric, and plumbing codes. If a provision in this article directly conflicts with a requirement of the City of Cairo zoning code, this article shall control.
+(Ord. No. 825, § 1, 8-24-20)
+Sec. 6-292. - Requirements for integrated solar energy systems.
+(a)
+Solar access. Consistent with O.C.G.A. § 44-9-20 et seq., a property owner may obtain a solar easement from another property owner for the purpose of ensuring the integrated SES adequate exposure to sunlight.
+(b)
+Tree removal. The removal of trees or natural vegetation for an integrated SES shall be avoided to the extent reasonably practicable and shall comply with the requirements of the City of Cairo zoning code.
+(Ord. No. 825, § 1, 8-24-20)
+Sec. 6-293. - Requirements for rooftop solar energy systems.
+(a)
+Solar access. Consistent with O.C.G.A. § 44-9-20 et seq., a property owner may obtain a solar easement from another property owner for the purpose of ensuring the rooftop SES adequate exposure to sunlight.
+(b)
+Tree removal. The removal of trees or natural vegetation for a rooftop SES shall be avoided to the extent reasonably practicable and shall comply with the requirements of the City of Cairo zoning code.
+(c)
+Height. A rooftop SES shall be given an equivalent exemption, if any, to the applicable zoning district's height restrictions for roof-mounted mechanical devices or equipment, except a rooftop SES mounted on a sloped roof shall not vertically exceed the highest point of the roof to which it is attached.
+(Ord. No. 825, § 1, 8-24-20)
+Sec. 6-294. - General requirements for all ground mounted solar energy systems.
+The following requirements apply to all ground mounted SESs, in addition to the specific requirements in this article that apply to intermediate and large scale SESs respectively.
+(a)
+Solar access. Consistent with O.C.G.A. § 44-9-20 et seq., a property owner may obtain a solar easement from another property owner for the purpose of ensuring a ground mounted SES adequate exposure to sunlight.
+(b)
+Location. Ground mounted SESs shall only be permitted in areas zoned I-1, I-2, and AG.
+(c)
+Impervious surface. Ground mounted structures and components of the ground mounted SES, including transformers and foundations, shall be considered impervious. However, for purposes of compliance with the City of Cairo zoning code's impervious surface coverage requirements, the panels of a ground mounted SES shall be considered pervious if they maintain sheet flow and allow for water to infiltrate under and around them through a pervious surface and into the subsoil.
+(d)
+Lighting. To reduce light pollution, lighting of a ground mounted SES shall:
+(1)
+Be limited to the minimum reasonably necessary for its safe operation;
+(2)
+Be directed downward where reasonably feasible;
+(3)
+Incorporate full cut-off fixtures; and
+(4)
+Reasonably utilize motion sensors.
+(e)
+Tree removal. The removal of trees or natural vegetation for a ground mounted SES shall be avoided to the extent reasonably practicable and shall comply with the requirements of the City of Cairo zoning code.
+(f)
+Setbacks. The SES shall comply with the following setback requirements:
+(1)
+The SES shall be located no closer than the lesser of (a) fifteen (15) feet from any property line, or (b) the required setback for the applicable zoning district, if any;
+(2)
+The SES shall be located no closer than the lesser of (a) twenty (20) feet from any public right-of-way, or (b) the required setback for the applicable zoning district, if any; and
+(3)
+The SES shall be located no closer than fifty (50) feet from any residential dwelling unit on an adjacent lot.
+(g)
+Visual buffers. Any SES located in an industrial or agricultural district shall have, to the extent reasonably practicable, a visual buffer of natural vegetation, plantings, earth bems, and/or fencing that provides a reasonable visual and lighting screen to reduce the view of the SES from residential dwelling units on adjacent lots (including those lots located across a public right-of-way). The existing natural tree growth and natural land forms along the SES perimeter may create a sufficient buffer and shall be preserved when reasonably practicable. Any visual buffer must be established and maintained in accordance with the most recent visual buffer plan approved by the City of Cairo Mayor and Council, and as further described in the special use permit provision of this article.
+(h)
+Decommissioning. Unless otherwise approved by the City of Cairo Mayor and Council, decommissioning shall begin no later than twelve (12) months after a ground mounted SES has ceased to generate electricity or thermal energy:
+(1)
+For a ground mounted SES allowed without a permit, within six (6) months of the beginning of decommissioning, the SES and all structures associated with it shall be removed, all materials shall be recycled or otherwise reused to the extent reasonably practicable, and the property shall be returned to its condition prior to the installation of the SES or to some other condition reasonably appropriate for the designated land use; and
+(2)
+For a ground mounted SES allowed with a permit, the SES shall be decommissioned in accordance with the most recent decommissioning plan approved by the City of Cairo Mayor and Council, and as further described in the special use permit provision of this article.
+(Ord. No. 825, § 1, 8-24-20)
+Sec. 6-295. - Special use permit application.
+In addition to the general requirements for a special use permit application set forth in the City of Cairo zoning code, the following shall be contained in any special use permit application for an SES:
+(a)
+Basic information. The applicant shall submit a document that lists the following:
+(1)
+The address of the property on which the SES will be located;
+(2)
+The applicant's name, address, telephone number, and email address;
+(3)
+The property owner's name, address, telephone number, and email address;
+(4)
+If known, the SES operator's name, address, telephone number, and email address;
+(5)
+If known, the installation company's name, address, telephone number, email address, and license number; and
+(6)
+Evidence of the applicant's control of the property, such as a deed, lease, or option agreement with the landowner.
+(b)
+Planning. The applicant shall submit the following, based on the most current and accurate information reasonably available:
+(1)
+A site plan of the property that depicts the locations of all existing and proposed structures (including solar arrays, inverters, transformers, electrical substations, and buildings), property lines, rights-of-way, roads, required setbacks, and visual buffers;
+(2)
+If the property exceeds two (2) acres a topographic map that depicts vegetative cover, watersheds, or wetlands on the property;
+(3)
+A visual buffer plan that demonstrates that any visual buffer (a) minimizes impacts of the SES on adjacent residential dwelling units, as required by this article, (b) preserves natural tree growth and natural land forms along the SES perimeter, as required by this article, and (c) adheres to any additional visual buffer requirements of the City of Cairo zoning code that may further minimize impacts of the SES on the community character;
+(4)
+A list that identifies (a) federal or state endangered, threatened, or candidate species that may be present on the property or within one thousand (1,000) feet of the property, and (b) critical habitat on the property or within one thousand (1,000) feet of the property;
+(5)
+If the SES is located in an agricultural district, a map that identifies prime farmland and farmland of statewide importance on the property; and
+(6)
+A decommissioning plan that contains the following:
+a.
+The name, address, telephone number, and e-mail address of the person(s) or entity(ies) responsible for implementing the decommissioning plan;
+b.
+A statement of conditions that require the decommissioning plan to be implemented;
+c.
+As part of decommissioning, a removal plan that identifies all structures, components, and non-utility owned equipment that shall be removed;
+d.
+As part of decommissioning, a plan for recycling or otherwise reusing all materials to the extent reasonably practicable;
+e.
+As part of decommissioning, a restoration plan to return the property to its condition prior to the installation of the SES or to some other condition reasonably appropriate for the designated land use after the SES is removed; and
+f.
+A timeline to complete decommissioning.
+(c)
+Certifications. The applicant shall submit an affidavit that provides, to the best of the applicant's knowledge:
+(1)
+Construction and operation of the SES will comply with all applicable federal and state laws;
+(2)
+Construction and operation of the SES will comply with all local laws, including the requirements of the City of Cairo zoning code, unless waived by the City of Cairo Planning Commission; and
+(3)
+Commercial general liability insurance will be maintained throughout the siting, construction, installation, operation, and decommissioning of the SES.
+(Ord. No. 825, § 1, 8-24-20)
+Sec. 6-296. - Special use permit review.
+(a)
+Upon receiving a special use permit application for an SES, the City of Cairo Planning Commission shall conduct permitting proceedings in accordance with the requirements of the City of Cairo zoning code.
+(b)
+A special use permit application may be denied if the City of Cairo Planning Commission determines the SES does not comply with the requirements of the City of Cairo zoning code.
+(c)
+The applicant's appeal rights are consistent with those rights expressed in the City of Cairo zoning code.
+(Ord. No. 825, § 1, 8-24-20)

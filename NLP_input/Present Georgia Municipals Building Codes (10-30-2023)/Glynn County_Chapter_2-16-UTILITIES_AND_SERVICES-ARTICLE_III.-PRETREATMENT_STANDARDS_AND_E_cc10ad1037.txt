@@ -1,0 +1,533 @@
+ARTICLE III. - PRETREATMENT STANDARDS AND ENFORCEMENT
+
+2-16-36 - Restricted Use of the Public Sewers.
+(a)
+A user may not introduce into any public sewer any pollutant(s), which cause pass through or interference of the POTW. These general prohibitions and the specific prohibitions in subsection (d), below, apply to each user introducing pollutants into the POTW whether or not the user is subject to other national pretreatment standards or any national, state, or local pretreatment requirements.
+(b)
+No person shall discharge or cause to be discharged any unpolluted waters such as stormwater, surface water, groundwater, roof runoff, subsurface drainage, noncontact cooling water, or unpolluted industrial process waters to any sanitary sewer.
+(c)
+Specific prohibitions. Except as herein provided, no person shall discharge any of the following described waters or wastes into any public sewer:
+(1)
+Pollutants which create a fire or explosion hazard in the POTW, including, but not limited to, waste streams with a closed cup flash point of less than 140 degrees Fahrenheit or 60 degrees centigrade using the test methods specified in 40 C.F.R. 261.21.
+(2)
+Pollutants which will cause corrosive or structural damage to the POTW or discharges with pH lower than 6.0 or higher than 10.0.
+(3)
+Solids or viscous pollutants in amounts which will cause obstruction to the flow in the POTW resulting in interference.
+(4)
+Any pollutant, including oxygen-demanding pollutants (BOD, etc.) released in a discharge at a flow rate and/or pollutant concentration, which will cause interference with the POTW.
+(5)
+Pollutants exceeding the following parameters and concentrations:
+EXPAND
+Parameter Concentration
+mg/L
+BOD 1,000
+TSS 1,000
+TKN 100
+Amonia-N 50
+COD 2,000
+  (6)
+Wastewater having a temperature greater than 104 degrees Fahrenheit (40 degrees Celsius), or which will inhibit biological activity in the POTW resulting in interference.
+(7)
+Petroleum oil, non-biodegradable cutting oil, or products of mineral oil that will cause interference or pass through at the POTW.
+(8)
+Pollutants that will result in the presence of toxic gases, vapors, or fumes within the POTW in quantities that may cause acute or chronic worker health and/or safety problems. Any noxious or malodorous gas or substance, capable of creating a public nuisance or preventing entry into sewers for their maintenance, inspection, and repair.
+(9)
+Any trucked or hauled pollutants, except at discharge points designated by the POTW.
+(10)
+Any water or waste that contains more than 100 milligrams per liter fat, oil, or grease, of animal or vegetable origin.
+(11)
+Any waters or waste containing in excess of one milligram per liter (1.0 mg/L) of any of the following hazardous or dangerous gases: hydrogen sulfide, sulfur dioxide, or nitrous oxide.
+(12)
+Any non-domestic waters, wastes or materials containing toxic organic and inorganic priority pollutants, unless issued a written permit by the Utility that provides numerical limits on the quantity of such pollutants. Such limits will be calculated based on national pretreatment standards, local conditions of the POTW, and the presence of any pollutants causing pass through or interference with the POTW.
+(13)
+Any radioactive materials except in compliance with applicable state or federal regulations.
+(14)
+Any concentrated dye wastes, or other wastes which are highly colored, and adversely affect the effluent of the POTW.
+(15)
+Detergents, surfactants, or other substances which may cause excessive foaming in the POTW or effluent.
+(16)
+Wastewater causing, alone or in conjunction with other sources, the treatment plant's effluent to fail toxicity test.
+2-16-37 - Local Discharge Limits.
+Using EPA approved methodology, the Utility has established local discharge limits for the pollutants of concern to the POTW. These limits are designed to protect the receiving stream, prevent interference with POTW operations and protect the quality of the sludge produced by the POTW. These limits apply to all users of the system. For industrial users subject to national categorical pretreatment standards, the local limit will be compared to the categorical limit and the lower value will be used. The Utility reserves the right to set higher discharge limits for individual industrial users provided that the following conditions apply:
+(a)
+There are no other industrial users discharging the pollutant of concern or if there are other significant industrial users discharging the pollutant of concern they are discharging below the established limit;
+(b)
+If any other significant industrial users are discharging the pollutant of concern they agree to accept a lower limit; and
+(c)
+The total combined loading on the POTW will not exceed the established maximum head works loading.
+(1)
+A user which desires to have a higher local discharge limit should petition the Director in writing.
+(2)
+Any discharge to the POTW that contains concentrations of conventional pollutants above the local discharge limit will be subject to surcharges as provided in the current rate resolution. For purposes of this Article conventional pollutants are considered biochemical oxygen demand, total suspended solids, chemical oxygen demand, total nitrogen, and oil and grease.
+(3)
+All other regulated pollutants are considered non-conventional pollutants and any discharge to the POTW that contains concentrations of these pollutant(s) above the local discharge limit will be subject to an enforcement action as provided in this Article.
+(d)
+Except where expressly authorized to do so by an applicable pretreatment standard or requirement, no industrial user shall ever increase the use of process water, or in any other way attempt to dilute a discharge as a partial or complete substitute for adequate treatment to achieve compliance with a pretreatment standard or requirement. The Utility may impose mass limitations on industrial users that are using dilution to meet applicable pretreatment standards or requirements, or in other cases where the imposition of mass limitations is appropriate.
+2-16-38 - National Categorical Pretreatment Standards.
+The categorical pretreatment standards found at 40 C.F.R. Chapter 1, Subchapter N, Parts 405-471 are incorporated herein by reference.
+(a)
+Where a categorical pretreatment standard is expressed only in terms of either the mass or the concentration of a pollutant in wastewater, the Director may impose equivalent concentration or mass limits in accordance with 40 C.F.R. 403.6(c).
+(b)
+When wastewater subject to a categorical pretreatment standard is mixed with wastewater not regulated by the same standard, the Director shall impose an alternate limit using the combined waste stream formula in 40 C.F.R. 403.6(e).
+(c)
+A user may obtain a variance from a categorical pretreatment standard if the user can prove pursuant to the procedural and substantive provisions in 40 C.F.R. 403.13, that factors relating to its discharge are fundamentally different from the factors considered by EPA when developing the categorical pretreatment standard.
+(d)
+A user may obtain a net gross adjustment to a categorical standard in accordance with 40 C.F.R. 403.15.
+2-16-39 - Pretreatment of Wastewater.
+(a)
+Pretreatment Facilities. Users shall provide wastewater treatment as necessary to comply with this ordinance and shall achieve compliance with all categorical pretreatment standards, local limits, and the prohibitions set out in Section 2-16-36 within the time limitations specified by EPA, the State of Georgia, or the Director, whichever is more stringent. Any facilities necessary for compliance shall be provided, operated, and maintained at the user's expense. Detailed plans describing such facilities and operating procedures shall be submitted to the Director for review, and shall be acceptable to the Director before such facilities are constructed. The review of such plans and operating procedures shall in no way relieve the user from the responsibility of modifying such facilities as necessary to produce a discharge acceptable to the Utility under the provisions of this ordinance.
+(b)
+Additional Pretreatment Measures.
+(1)
+Whenever deemed necessary, the Utility may require users to restrict their discharge during peak flow periods, designate that certain wastewater be discharged only into specific sewers, relocate and/or consolidate points of discharge, separate sanitary waste streams from industrial waste streams, and such other conditions as may be necessary to protect the POTW and determine the user's compliance with the requirements of this ordinance.
+(2)
+The Director may require any person discharging into the POTW to install and maintain, on his or her own property and at their expense, a suitable storage and flow control facility to ensure equalization of flow. A wastewater discharge permit may be issued solely for flow equalization.
+(3)
+The Utility may, upon notification, require users to install a suitable control manhole together with the necessary meters and other appurtenances to facilitate the observation, sampling, and measurement of the wastes. The manhole shall be installed by the owner at the owner's expense, and shall be maintained by the owner in a safe and accessible condition at all times.
+(4)
+Users with the potential to discharge flammable substances may be required to install and maintain an approved combustible gas detection meter.
+(c)
+Accidental Discharge/Slug Control Plans. At least once every two years, the Utility shall evaluate whether each significant industrial user needs an accidental discharge/slug control plan. The Utility may require a user to develop, submit for approval, and implement such a plan. An accidental discharge/slug control plan shall address, at a minimum, the following:
+(1)
+Description of discharge practices, including non-routine batch discharges;
+(2)
+Description of stored chemicals;
+(3)
+Procedures for immediately notifying the POTW superintendent of any accidental or slug discharge, as required by subsection 2-16-42(g) of this ordinance; and
+(4)
+Procedures to prevent adverse impact from any accidental or slug discharge. Such procedures include, but are not limited to, inspection and maintenance of storage areas, handling and transfer of materials, loading and unloading operations, control of plant site runoff, worker training, building of containment structures or equipment, measures for containing toxic organic pollutants, including solvents, and/or measures and equipment for emergency response.
+(d)
+Hauled Waste.
+(1)
+Hauled waste may be introduced into the POTW only at locations designated by the Director, and at such times as are established by the Director. The Director may require haulers to obtain wastewater discharge permits. Such permits may be revoked at any time if, in the opinion of the Director, continued dumping of such matter into the sewers will be injurious to the sewer system or treatment processes.
+(2)
+A charge shall be made for the privilege of dumping hauled waste. A record shall be kept of such dumps and statements rendered at the first of each month, the amount of such statements shall be payable within ten days after rendition. Failure to pay the amounts due within such ten-day period shall be cause for revoking the permit.
+(3)
+The Director may require generators of hauled waste to obtain permits. The Director also may prohibit the disposal of hauled waste into the POTW.
+(4)
+The Director may require the hauler to provide a waste analysis of any load prior to discharge.
+2-16-40 - Wastewater Discharge Permits.
+(a)
+Wastewater Analysis. When requested by the Director, a user must submit information on the nature and characteristics of its wastewater within 90 days of the request. The Director is authorized to prepare a form for this purpose and may periodically require users to update this information.
+(b)
+Wastewater Discharge Permit Requirement.
+(1)
+No significant industrial user shall discharge wastewater into the POTW without first obtaining a wastewater discharge permit from the Director, except that a significant industrial user that has filed a timely application pursuant to Section 2-16-41 may continue to discharge for the time period specified therein.
+(2)
+The Director may require other users to obtain wastewater discharge permits as necessary to carry out the purposes of this ordinance.
+(3)
+Any violation of the terms and conditions of a wastewater discharge permit shall be deemed a violation of this Article and subjects the wastewater discharge permittee to the sanctions set out in Sections 2-16-48 and 2-16-49 of this Article. Obtaining a wastewater discharge permit does not relieve a permittee of its obligation to comply with all federal and state pretreatment standards or requirements or with any other requirements of federal, state, and local law.
+(c)
+Wastewater Discharge Permitting. A user is required to obtain a wastewater discharge permit who proposes to begin or recommence discharging into the POTW and must obtain such permit prior to the beginning or recommencing of such discharge. An application for this wastewater discharge permit, in accordance with subsection (b), above, must be filed at least 90 days prior to the date which any discharge will begin or recommence.
+(d)
+Wastewater Discharge Permitting—Reissuance. A user who is issued a wastewater discharge permit must submit an application to have their permit reissued at least 90 days prior to the expiration date on the permit.
+(e)
+Wastewater Discharge Permit Application Contents. All users required to obtain a wastewater discharge permit must submit a permit application. The Director may require all users to submit as part of an application the following information:
+(1)
+All information required by subsection 2-16-42(a) of this ordinance;
+(2)
+Description of activities, facilities, and plant processes on the premises, including a list of all raw materials and chemicals used or stored at the facility which are, or could be accidentally or intentionally, discharged to the POTW;
+(3)
+Number and type of employees, hours of operation, and proposed or actual hours of operation;
+(4)
+Each product produced by type, amount, process or processes, and rate of production;
+(5)
+Type and amount of raw materials processed (average and maximum per day);
+(6)
+Site plans, floor plans, mechanical and plumbing plans, and details to show all sewers, floor drains, and appurtenances by size, location, and elevation, and all points of discharge;
+(7)
+Time and duration of discharges; and
+(8)
+Any other information as may be deemed necessary by the Director to evaluate the wastewater discharge permit application.
+(f)
+Incomplete or Inaccurate Applications. Incomplete or inaccurate applications will not be processed and will be returned to the user for revision.
+(g)
+Application Signatories and Certifications. All wastewater discharge permit applications and user reports must be signed by an authorized representative of the user and contain the following certification statement:
+I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of the person or persons who manage the system, or those persons directly responsible for gathering the information, the information submitted is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.
+(h)
+Wastewater Discharge Permit Decisions. The Director will evaluate the data furnished by the user and may require additional information. Within 90 days of receipt of a complete wastewater discharge permit application the Director will determine whether or not to issue a wastewater discharge permit. The Director may deny any application for a wastewater discharge permit.
+2-16-41 - Wastewater Discharge Permit Issuance.
+(a)
+Wastewater Discharge Permit Duration. A wastewater discharge permit shall be issued for a specified time period, not to exceed five years from the effective date of the permit. A wastewater discharge permit may be issued for a period less than five years at the discretion of the Director. Each wastewater discharge permit will indicate a specific date upon which it will expire.
+(b)
+Wastewater Discharge Permit Contents. A wastewater discharge permit shall include such conditions as are deemed reasonably necessary by the Director to prevent pass through or interference, protect the quality of the water body receiving the treatment plant's effluent, protect worker health and safety, facilitate sludge management and disposal, and protect against damage to the POTW.
+(1)
+Wastewater Discharge Permits Must Contain:
+(A)
+A statement that indicates wastewater discharge permit duration, which in no event shall exceed five years;
+(B)
+A statement that the wastewater discharge permit is nontransferable without prior notification to the Utility in accordance with subsection (f), below, and provisions for furnishing the new owner or operator with a copy of the existing wastewater discharge permit;
+(C)
+Effluent limits based on applicable pretreatment standards;
+(D)
+Self-monitoring, sampling, reporting, notification, and record keeping requirements. These requirements shall include an identification of pollutants to be monitored; sampling location, sampling frequency, and sample type based on federal, state, and local law; and
+(E)
+A statement of applicable civil and criminal penalties for violation of pretreatment standards and requirements, and any applicable compliance schedule. Such schedule may not extend the time for compliance beyond that required by applicable federal, state, or local law.
+(2)
+Wastewater Discharge Permits may Contain, but Need Not be Limited to, the Following Conditions:
+(A)
+Limits on the average and/or maximum rate of discharge, time of discharge, and/or requirements for flow regulation and equalization;
+(B)
+Requirements for the installation of pretreatment technology, pollution control, or construction of appropriate containment devices, designed to reduce, eliminate, or prevent the introduction of pollutants into the treatment works;
+(C)
+Requirements for the development and implementation of spill control plans or other special conditions including management practices necessary to adequately prevent accidental, unanticipated, or non-routine discharges;
+(D)
+Development and implementation of waste minimization plans to reduce the amount of pollutants discharged to the POTW;
+(E)
+The unit charge or schedule of user charges and fees for the management of the wastewater discharged to the POTW;
+(F)
+Requirements for installation and maintenance of inspection and sampling facilities and equipment;
+(G)
+A statement that compliance with the wastewater discharge permit does not relieve the permittee of responsibility for compliance with all applicable federal and state pretreatment standards, including those which become effective during the term of the wastewater discharge permit; and
+(H)
+Other conditions as deemed appropriate by the Director to ensure compliance with this ordinance, and state and federal laws, rules, and regulations.
+(c)
+Public Notification. The Director will cause to be published a notice to issue a pretreatment permit in the legal organ of Glynn County, and by electronic means on the Utility's web site, at least 30 days prior to issuance of a wastewater discharge permit. The notice will indicate a location where the draft permit may be reviewed and an address where written comments may be submitted.
+(d)
+Wastewater Discharge Permit Appeals. Any person, including the user, may petition the Director to reconsider the terms of a wastewater discharge permit within 30 days of notice of its issuance.
+(1)
+Failure to submit a timely petition for review shall be deemed to be a waiver of the administrative appeal.
+(2)
+In its petition, the appealing party must indicate the wastewater discharge permit provisions objected to, the reasons for this objection, and the alternative condition, if any, it seeks to place in the wastewater discharge permit.
+(3)
+The effectiveness of the wastewater discharge permit shall not be stayed pending the appeal.
+(4)
+If the Director fails to act within 90 days, a request for reconsideration shall be deemed to be denied. Decisions not to reconsider a wastewater discharge permit, not to issue a wastewater discharge permit, or not to modify a wastewater discharge permit shall be considered final administrative actions for purposes of judicial review.
+(e)
+Wastewater Discharge Permit Modifications. The Director may modify a wastewater discharge permit for good cause, including, but not limited to, the following reasons:
+(1)
+To incorporate any new or revised federal, state, or local pretreatment standards or requirements;
+(2)
+To address significant alterations or additions to the user's operation, processes, or wastewater volume or character since the time of wastewater discharge permit issuance;
+(3)
+A change in the POTW that requires either a temporary or permanent reduction or elimination of the authorized discharge;
+(4)
+Information indicating that the permitted discharge poses a threat to the Utility's POTW, Utility personnel, or the receiving waters;
+(5)
+Violation of any terms or conditions of the wastewater discharge permit;
+(6)
+Misrepresentations or failure to fully disclose all relevant facts in the wastewater discharge permit application or in any required reporting;
+(7)
+Revision of or a grant of variance from categorical pretreatment standards pursuant to 40 C.F.R. 403.13;
+(8)
+To correct typographical or other errors in the wastewater discharge permit; or
+(9)
+To reflect a transfer of the facility ownership or operation to a new owner or operator.
+(f)
+Wastewater Discharge Permit Transfer. Wastewater discharge permits may be transferred to a new owner or operator only if the permittee gives at least 90 days advance notice to the Director and the Director approves the wastewater discharge permit transfer. The notice to the Director must include a written certification by the new owner or operator which:
+(1)
+States that the new owner and/or operator has no immediate intent to change the facility's operations and processes;
+(2)
+Identifies the specific date on which the transfer is to occur; and
+(3)
+Acknowledges full responsibility for complying with the existing wastewater discharge permit.
+Failure to provide advance notice of a transfer renders the wastewater discharge permit void as of the date of facility transfer.
+(g)
+Wastewater Discharge Permit Revocation. The Director may revoke a wastewater discharge permit for good cause, including, but not limited to, the following reasons:
+(1)
+Failure to notify the Director of significant changes to the wastewater prior to the changed discharge;
+(2)
+Failure to provide prior notification to the Director of changed conditions pursuant to subsection 2-16-42(f) of this ordinance;
+(3)
+Misrepresentation or failure to fully disclose all relevant facts in the wastewater discharge permit application;
+(4)
+Falsifying self-monitoring reports;
+(5)
+Tampering with monitoring equipment;
+(6)
+Refusing to allow Utility representatives timely access to the facility premises and records;
+(7)
+Failure to meet effluent limitations;
+(8)
+Failure to pay fines;
+(9)
+Failure to pay sewer charges;
+(10)
+Failure to meet compliance schedules;
+(11)
+Failure to complete a wastewater survey or the wastewater discharge permit application;
+(12)
+Failure to provide advance notice of the transfer of business ownership of permitted facility; or
+(13)
+Violation of any pretreatment standard or requirement, or any terms of the wastewater discharge permit or this ordinance.
+(h)
+Wastewater Discharge Permits Void. Wastewater discharge permits shall be void upon cessation of operations or transfer of business ownership. All wastewater discharge permits issued to a particular user are void upon the issuance of a new wastewater discharge permit to that user.
+2-16-42 - Reporting Requirements.
+(a)
+Baseline Monitoring Reports. Within either 180 days after the effective date of a national categorical pretreatment standard, or the final administrative decision on a category determination under 40 C.F.R. 403.6(a)(4), whichever is later, existing categorical users currently discharging to or scheduled to discharge to the POTW shall submit to the Director a report which contains the information listed in paragraphs (b)(1)-(8), below. At least (90) days prior to commencement of their discharge, new sources that become categorical users subsequent to the promulgation of an applicable categorical standard shall submit to the Director a report that contains the information listed in paragraphs (b)(1)-(5), below. A new source shall report the method of pretreatment it intends to use to meet applicable categorical standards. A new source also shall give estimates of its anticipated flow and quantity of pollutants to be discharged.
+(b)
+Users Described above Shall Submit the Information Set Forth Below:
+(1)
+Identifying Information. The name and address of the facility, including the name of the operator and owner.
+(2)
+Environmental Permits. A list of any environmental control permits held by or for the facility.
+(3)
+Description of operations. A brief description of the nature, average rate of production, and standard industrial classifications of the operation(s) carried out by such user. This description shall include a schematic process diagram that indicates points of discharge to the POTW from the regulated process.
+(4)
+Flow Measurement. Information showing the measured average daily and maximum daily flow, in gallons per day, to the POTW from regulated process streams and other streams, as necessary, to allow use of the combined waste stream formula set out in 40 C.F.R. 403.6(e).
+(5)
+Measurement of Pollutants.
+(A)
+The categorical pretreatment standards applicable to each regulated process.
+(B)
+The results of sampling and analysis identifying the nature and concentration, and/or mass, where required by the standard or by the Director, of regulated pollutants in the discharge from each regulated process. Instantaneous, daily maximum, and long term average concentrations, and/or mass, where required, shall be reported. The sample shall be representative of daily operations and shall be analyzed in accordance with procedures set out in subsection (k), below.
+(C)
+Sampling must be performed in accordance with procedures set out in subsection (l), below.
+(6)
+Certification. A statement, reviewed by the user's authorized representative and certified by a qualified professional, indicating whether pretreatment standards are being met on a consistent basis, and, if not, whether additional O&M and/or additional pretreatment is required to meet the pretreatment standards and requirements.
+(7)
+Compliance Schedule. If additional pretreatment and/or O&M will be required to meet the pretreatment standards, the shortest schedule by which the user will provide such additional pretreatment and/or O&M. The completion date in this schedule shall not be later than the compliance date established for the applicable pretreatment standard. A compliance pursuant to this Section must meet the requirements set out in paragraph (c)(1), below.
+(8)
+Signature and Certification. All baseline monitoring reports must be certified in accordance with subsection 2-16-40(g) of this ordinance, and signed by an authorized representative as defined in Section 2-16-5.
+(c)
+Compliance Schedule Progress Reports. The following conditions shall apply to the compliance schedule required by subsection (b), above:
+(1)
+The schedule shall contain progress increments in the form of dates for the commencement and completion of major events leading to the construction and operation of additional pretreatment required for the user to meet the applicable pretreatment standards (such events include, but are not limited to, hiring an engineer, completing preliminary and final plans, executing contracts for major comments, commencing and completing construction, and beginning and conducting routine operation);
+(2)
+No increment referred to above shall exceed months;
+(3)
+The user shall submit a progress report to the Director no later than 14 days following each date in the schedule and the final date of compliance including, as a minimum, whether or not it complied with the increment of progress, the reason for any delay, and, if appropriate, the steps being taken by the user to return to the established schedule; and
+(4)
+In no event shall more than nine months elapse between such progress reports to the Director.
+(d)
+Reports on Compliance with Categorical Pretreatment Standard Deadline. Within 90 calendar days following the date for final compliance with applicable pretreatment standards or, in the case of a new source, following commencement of the introduction of wastewater into the POTW, a user subject to pretreatment standards and requirements shall submit to the Utility a report containing the information described in subsection (b), above. For users subject to equivalent mass or concentration limits established in accordance with the procedures in 40 C.F.R. 403.6(c), this report shall contain a reasonable measure of the user's long term production rate. For all other users subject to categorical pretreatment standards expressed in terms of allowable pollutant discharge per unit of production (or other measure of operation), this report shall include the user's actual production during the appropriate sampling period. All compliance reports must be certified in accordance with subsection 2-16-40(g) of this ordinance, and signed by an authorized representative as defined in Section 2-16-5.
+(e)
+Periodic Compliance Reports.
+(1)
+All significant industrial users shall, at a frequency determined by the Utility but in no case less than twice per year, submit a report indicating the nature and concentration of pollutants in the discharge which are limited by pretreatment standards and the measured or estimated average and maximum daily flows for the reporting period. All periodic compliance reports must be certified in accordance with subsection 2-16-40(g) of this ordinance, and signed by an authorized representative as defined in Section 2-16-5.
+(2)
+All wastewater samples must be representative of the user's discharge. Wastewater monitoring and flow measurement facilities shall be properly operated, kept clean, and maintained in good working order at all times. The failure of a user to keep its monitoring facility in good working order shall not be grounds for the user to claim that sample results are unrepresentative of its discharge.
+(3)
+If a user subject to the reporting requirement in this Section monitors any pollutant more frequently than required by the Utility, using the procedures prescribed in paragraph (1), above, the results of this monitoring shall be included in the report.
+(f)
+Reports of Changed Conditions. Each user must notify the Utility of any planned significant changes to the user's operations or system, which might alter the nature, quality, or volume of its wastewater at least 90 days before the change.
+(1)
+The Utility may require the user to submit such information as may be deemed necessary to evaluate the changed condition, including the submission of a wastewater discharge permit application under Section 2-16-40 of this ordinance.
+(2)
+The Utility may issue a wastewater discharge permit under Section 2-16-41 of this ordinance, or modify an existing wastewater discharge permit under subsection 2-16-41(e) in response to changed conditions or anticipated changed conditions.
+(3)
+For purposes of this requirement, significant changes include, but are not limited to, flow or concentration increases of 20 percent or greater, and the discharge of any previously unreported pollutants.
+(4)
+Significant industrial users are required to notify the Utility immediately of any changes at its facility effecting the potential for a slug discharge.
+(g)
+Reports of Potential Problems.
+(1)
+In the case of any discharge, including, but not limited to accidental discharges, discharges of non-routine, episodic nature, a non-customary batch discharge, or a slug load that may cause potential problems for the POTW, the user shall immediately telephone and notify the plant Director of the incident. This notification shall include the location of the discharge, type of waste, concentration and volume, if known, and corrective actions taken by the user.
+(2)
+Within five days following such discharge in paragraph (1), above, the user shall, unless waived by the Utility, submit a detailed written report describing the cause(s) of the discharge and the measures to be taken by the user to prevent similar future occurrences. Such notification shall not relieve the user of any expense, loss, damage, or other liability, which may be incurred as a result of damage to the POTW, natural resources, or any other damage to person or property; nor shall such notification relieve the user of any fines, penalties, or other liability which may be imposed pursuant to this Article.
+(3)
+A notice shall be permanently posted on the user's bulletin board or other prominent place advising employees whom to call in the event of a discharge described in paragraph (1), above. Employers shall ensure that all employees, who may cause such a discharge to occur, are advised of the emergency notification procedure.
+(h)
+Reports from Unpermitted Users. All users not required to obtain a wastewater discharge permit shall provide appropriate reports to the Utility as the Utility may require.
+(i)
+Notice of Violation/Repeat Sampling and Reporting. If sampling performed by the user indicates a violation, the user must notify the Utility within 24 hours of becoming aware of the violation. The user shall also repeat the sampling and analysis and submit the results of the repeat analysis to the Utility within 30 days after becoming aware of the violation. The user is not required to resample if the Utility monitors at the user's facility at least once a month, or if the Utility samples between the user's initial sampling and when the user receives the results of this sampling.
+(j)
+Notification of the Discharge of Hazardous Waste.
+(1)
+A user who commences the discharge of hazardous waste shall notify the POTW, the EPA Regional Waste Management Division Director, and state hazardous waste authorities, in writing, of any discharge into the POTW of a substance which, if otherwise disposed of, would be a hazardous waste under 40 C.F.R. Part 261. Such notification must include the name of the hazardous waste as set forth in 40 C.F.R. Part 261, the EPA hazardous waste number, and the type of discharge (continuous, batch, or other). If the user discharges more than 100 kilograms of such waste per calendar month to the POTW, the notification shall also contain the following information to the extent such information is known and readily available to the user: an identification of the hazardous constituents contained in the wastes, an estimation of the mass and concentration of such constituents in the waste stream discharged during that calendar month, and an estimation of the mass of constituents in the waste stream expected to be discharged during the following 12 months. All notifications must take place no later than 180 days after the discharge commences. Any notification under this paragraph need be submitted only once for each hazardous waste discharged. Notifications of changed conditions, however, must be submitted under subsection (f), above. The notification requirement in this Section does not apply to pollutants already reported by users subject to categorical pretreatment standards under the self-monitoring requirements of paragraph 2-16-41(b)(1) and paragraph 2-16-43(a)(1) of this ordinance.
+(2)
+Dischargers are exempt from the requirements of paragraph (1), above, during a calendar month in which they discharge no more than 15 kilograms of hazardous wastes, unless the wastes are acute hazardous wastes as specified in 40 C.F.R. 261.30(d) and 261.33(e). Discharge of more than 15 kilograms of non-acute hazardous wastes in a calendar month, or of any quantity of acute hazardous wastes as specified in 40 C.F.R. 261.30(d) and 261.33(e), requires a one-time notification. Subsequent months during which the user discharges more than such quantities of any hazardous waste do not require additional notification.
+(3)
+In the cases of any new regulations under Section 3001 of RCRA identifying additional characteristics of hazardous waste or listing any additional substance as a hazardous waste, the user must notify the Utility, the EPA Regional Waste Management Division Director, and Georgia Hazardous Waste Department authorities of the discharge of such substance within 90 days of the effective date of such regulations.
+(4)
+In the case of any notification made under this Section, the user shall certify that it has a program in place to reduce the volume and toxicity of hazardous wastes generated to the degree it has determined to be economically practical.
+(5)
+This provision does not create a right to discharge any substance not otherwise permitted to be discharged by this ordinance, a permit issued thereunder, or any applicable federal or state law.
+(k)
+Analytical Requirements. All pollutant analyses, including sampling techniques, to be submitted as part of a wastewater discharge permit application or report shall be performed in accordance with the techniques prescribed in 40 C.F.R. Part 136, unless otherwise specified in an applicable categorical pretreatment standard. If 40 C.F.R. Part 136 does not contain then sampling or analytical techniques for the pollutant in question, sampling and analysis must be performed in accordance with procedures approved by EPA.
+(l)
+Sample Collection.
+(1)
+Except as indicated in paragraph (2), below, the user must collect wastewater samples using flow proportional composite collection techniques. In the event flow proportional sampling is not feasible, the Utility may authorize the use of time proportional sampling or a minimum of four grab samples where the user demonstrates that this will provide a representative sample of the effluent being discharged. In addition, grab samples may be required to show compliance with instantaneous discharge limits.
+(2)
+Samples for oil and grease, temperature, pH, cyanide, phenols, sulfide, and volatile organic compounds must be obtained using grab collection techniques.
+(m)
+Timing. Written reports will be deemed to have been submitted on the date postmarked. For reports which are not mailed, postage prepaid, into a mail facility serviced by the United States Postal Service, the date of receipt of the report shall govern.
+(n)
+Record Keeping. Users subject to the reporting requirements of this Article shall retain, and make available for inspection and copying, all records of information obtained pursuant to any monitoring activities required by this Article and any additional records of information obtained pursuant to monitoring activities undertaken by the user independent of such requirements. Records shall include the date, exact place, method, and time of sampling, name of the person(s) taking the samples, the date(s) analysis was performed, who performed the analysis, the analytical techniques or methods used, and the results of such analysis. These records shall remain available for a period of at least three years. This period shall be automatically extended for the duration of any litigation concerning the user or the Utility, or when the user has been specifically notified of a longer retention period by the Utility.
+2-16-43 - Compliance Monitoring.
+(a)
+Right of Entry—Inspection and Sampling. The Utility shall have the right to enter the premises of a user to determine whether the user is complying with all requirements of this Article and any wastewater discharge permit or order issued hereunder. Users shall allow the Utility ready access to all parts of the premises for the purposes of inspection, sampling, records examination and copying, and the performance of any additional duties.
+(1)
+Where a user has security measures in force which require proper identification and clearance before entry into its premises, the user shall make necessary arrangements with its security guards so that, upon presentation of suitable identification, the Utility personnel will be permitted to enter without delay for the purposes of performing specific responsibilities.
+(2)
+The Utility shall have the right to set up on the user's property, or require installation of, such devices as are necessary to conduct sampling and/or metering of the user's operations.
+(3)
+The Utility may require the user to install monitoring equipment as necessary. The facility's sampling and monitoring equipment shall be maintained at all times in a safe and proper operating condition by the user at its own expense. All devices used to measure wastewater flow and quality shall be calibrated on at least an semi-annual basis to ensure their accuracy.
+(4)
+Any temporary or permanent obstruction to safe and easy access to the facility to be inspected and/or sampled shall be promptly removed by the user at the written or verbal request of the Utility and shall not be replaced. The costs of clearing such access shall be borne by the user.
+(5)
+Unreasonable delays in allowing the Utility access to the user's premises shall be a violation of this Article.
+(b)
+Search Warrants. If the Utility has been refused access to a building, structure, or property, or any part thereof, and is able to demonstrate probable cause to believe that there may be a violation of this Article, or that there is need to inspect and/or sample as part of a routine inspection and sampling program of the Utility designed to verify compliance with this Article or any permit or order issued hereunder, or to protect the overall public health, safety and welfare of the community, then the Utility may seek issuance of a search warrant from magistrate court.
+2-16-44 - Confidential Information.
+User Information and data obtained from reports, questionnaires, permit applications, permits, monitoring programs, and from inspections shall be available to the public, EPD, EPA or other governmental agency without restriction unless the user specifically requests and is able to demonstrate to the satisfaction of the Utility, EPD, and EPA that release of such information would divulge information, processes or methods of production entitled to protection as trade secrets of the user. Users wishing to keep such information confidential must assert a claim of confidentiality at the time the information is submitted to the Utility, such confidential information may be withheld from the public but it will always be made available to the EPD and/or EPA. Effluent data will be available to the public without restriction.
+2-16-45 - Publication of Significant Noncompliance.
+The Utility shall publish annually, in the legal organ of Glynn County, a list of the users, which, during the previous 12 months, were in significant noncompliance with applicable pretreatment standards and requirements. The term significant noncompliance shall mean any one or more of the following:
+(a)
+Chronic violations of wastewater discharge limits, defined here as those in which 66 percent or more of all of the measurements taken for the same pollutant parameter during a six-month period exceed, by any magnitude, a numeric pretreatment standard or requirement, including instantaneous limits, as defend by 40 C.F.R. 403(1).
+(b)
+Technical review criteria (TRC) violations, defined here as those in which 33 percent or more of all of the measurements taken for the same pollutant parameter during a six-month period equal or exceed the product of the numeric pretreatment standard or requirement including instantaneous limits, as defined by 40 C.F.R. 403.3(1) multiplied by the applicable TRC (TRC = 1.4 for BOD, TSS, fats, oil, and grease, and 1.2 for all other pollutants except pH).
+(c)
+Any other violation of a pretreatment standard or requirement that the Utility determines has caused, alone or in combination with other discharges, interference or pass through, including endangering the health of POTW personnel or the general public.
+(d)
+Any discharge of a pollutant that has caused imminent endangerment to the human health, welfare or to the environment, or has resulted in the Utility's exercise of its emergency authority to halt or prevent such a discharge.
+(e)
+Failure to meet, within 90 days of the schedule date, a compliance schedule milestone contained in a wastewater discharge permit or enforcement order for starting construction, completing construction, or attaining final compliance.
+(f)
+Failure to provide, within 45 days after the due date, any required reports, including baseline monitoring reports, reports on compliance with categorical pretreatment standard deadlines, day compliance reports, periodic self-monitoring reports, and reports on compliance with compliance schedules.
+(g)
+Failure to accurately report noncompliance.
+(h)
+Any other violation(s) which the Utility determines will adversely affect the operation or implementation of the local pretreatment program.
+2-16-46 - Service Charges.
+The Utility may adopt charges and fees, which may include:
+(a)
+Fees for reimbursement of costs of setting up and operating the Utility's pretreatment program.
+(b)
+Fees for monitoring, inspections and surveillance procedures.
+(c)
+Fees for reviewing accidental discharge procedures and construction.
+(d)
+Fees for permit applications.
+(e)
+Fees for filing appeals.
+(f)
+Fees for consistent removal by the Utility of pollutants otherwise subject to federal pretreatment standards.
+(g)
+Other fees as the Utility may deem necessary to carry out the requirements contained herein.
+These fees relate solely to the matters covered by this Article and are separate from all other fees chargeable by the Utility. The applicable charges shall be set forth in the Utility's rate resolution.
+2-16-47 - Administrative Enforcement Remedies.
+(a)
+Notification of Violation. When the Utility finds that a user has violated, or continues to violate, any provision of this Article, or a wastewater permit or order issued hereunder, or any other pretreatment standard or requirement, the Director, or his designee, may serve upon said user written Notice of Violation by personal service or by registered or certified mail, return receipt requested. Within ten days of the receipt date of the Notice, an explanation of the violation and a plan for the satisfactory correction and prevention thereof, to include specific required actions, shall be submitted to the Director, or his designee. Submission of this plan in no way relieves the user of liability for any violations occurring before or after receipt of the Notice of Violation. Nothing in this Section shall limit the authority of the Utility to take any action, including emergency actions or any other enforcement action, without first issuing a Notice of Violation.
+(b)
+Consent Orders. The Director is authorized to enter into consent orders, assurances of compliance, or other similar documents establishing an agreement with a user responsible for noncompliance. Such documents will include specific action to be taken by the user to correct the noncompliance within a time period also specified by the document. Such documents shall have the same force and effect as compliance orders issued pursuant to subsection (d), below, and shall be judicially enforceable.
+(c)
+Show Cause Hearing. The Director may order a user which has violated, or continues to violate, any provision of this Article or wastewater permit or order issued hereunder, or any other pretreatment standard or requirement, to show cause why a proposed enforcement action should not be taken. The notice of the hearing shall be served personally or by registered or certified mail, return receipt requested, at least ten days prior to the hearing. Such notice may be served on any authorized representative of the user. A show cause hearing shall not be a bar against, or prerequisite for, taking any other action against the user including, but not limited to, immediate enforcement action.
+(d)
+Compliance Order. When the Director finds that a user has violated, or continues to violate, any provision of this Article or a permit or order issued thereunder, or any other pretreatment standard or requirement, the Director may issue an order to the user responsible for the discharge directing that the user come into compliance within a specified time period. If the user does not come into compliance within the time provided, sewer service may be discontinued unless adequate treatment facilities, devices, or other related appurtenances have been installed and are properly operated. Orders may contain such other requirements to address the noncompliance, including the installation of pretreatment technology, additional self-monitoring, and management practices designed to minimize the amount of pollutants discharged to the sewer. A compliance order may not extend the deadline for compliance established for a pretreatment standard or requirement, nor does a compliance order relieve the user of liability for any violation, including any continuing violation. Issuance of a compliance order shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(e)
+Cease and Desist Order. When the Director finds that a user has violated, or continues to violate, any provision of this Article or any permit or order issued hereunder, or any other pretreatment standard or requirement, or that the user's past violations are likely to recur, the Director may issue an order to cease and desist all such violations and direct the user to:
+(1)
+Immediately comply with all requirements; and
+(2)
+Take such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and/or terminating the discharge.
+Issuance of a cease and desist order shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(f)
+Administrative Fines. Notwithstanding any other provision herein, when the Utility finds that a user has violated, or continues to violate, any provision of this Article, a wastewater discharge permit or order issued hereunder, or any other pretreatment standard or requirement, the Utility may fine such user in an amount not to exceed $1,000.00 per violation. Each day on which noncompliance shall occur or continue shall be deemed a separate and distinct violation. In the case of monthly or other long term average discharge limits, fines shall be assessed for each day during the period of violation. Such assessments may be added to the user's next scheduled sewer service charge.
+(1)
+Unpaid charges, fines, and penalties shall, after ten calendar days, be assessed an additional penalty of seven percent of the unpaid balance, and interest shall accrue thereafter at a rate of seven percent per month. A lien against the user's real property will be sought for unpaid charges, fines, and penalties provided the owner of such real property is the person who incurred the charges.
+(2)
+Users desiring to dispute administrative fines must file a written request with the Director seeking reconsideration of the fine along with full payment of the fine amount within ten days of being notified of the fine. When the Director determines a request has merit, the Director may convene a hearing on the matter within 15 days of receipt of such request from the user. In the event the user's appeal is successful, the payment shall be returned to the user without interest.
+(3)
+The Utility may add the costs of preparing administrative enforcement actions, such as notices and orders, to the fine.
+Issuance of an administrative fine shall not be a bar against, or a prerequisite for, taking any other action against the user.
+(g)
+Emergency Suspensions.
+(1)
+The Director may immediately suspend the wastewater treatment service and/or wastewater permit of a user when such suspension is necessary to stop an actual or threatened discharge which reasonably appears to present or cause an imminent or substantial endangerment to the health or welfare of persons, the POTW, or the environment.
+(2)
+A user notified of a suspension of the wastewater treatment service and/or the wastewater permit shall immediately stop or eliminate its contribution. In the event of a user's failure to immediately comply voluntarily with the suspension order, the Director may take such steps as deemed necessary, including immediate severance of the sewer connection, to prevent or minimize damage to the POTW, its receiving stream, or endangerment to any individuals or the environment. The Director may allow the user to recommence its discharge when the user has demonstrated to the satisfaction of the Director that the period of endangerment has passed, unless termination proceedings set forth in subsection (h), below, are initiated against the user. A user who is the subject of a suspension order shall have the right to appeal to the Director from such suspension, but such suspension shall remain in full force and effect pending such hearing and the decision of the Director.
+(3)
+A user who is responsible, in whole or in part, for any discharge presenting imminent endangerment shall submit a detailed written statement describing the causes of the harmful contribution and the measures taken to prevent any future occurrence to the Director prior to the date of any show cause or termination hearing under subsection (c), above, or subsection (h), below.
+Nothing in this Section shall be interpreted as requiring a hearing prior to any emergency suspension.
+(h)
+Termination of Permit. Significant industrial users proposing to discharge into the POTW must first obtain a wastewater discharge permit from the Utility. A user who violates the following conditions of this ordinance or a wastewater discharge permit or order, or any other pretreatment standard or requirement, or any applicable state or federal law, is subject to permit termination:
+(1)
+Violation of wastewater discharge permit conditions;
+(2)
+Failure to accurately report the wastewater constituents and characteristics of its discharge;
+(3)
+Failure to report significant changes in operations or wastewater volume, or wastewater constituents and characteristics prior to discharge;
+(4)
+Refusal of reasonable access to the user's premises for the purpose of inspection, monitoring, or sampling; or
+(5)
+Repeatedly violates this ordinance.
+Noncompliant industrial users will be notified of the proposed termination of their wastewater permit and will be offered an opportunity to show cause under subsection (c), above, why the proposed action should not be taken. Exercise of this option by the Utility shall not be a bar to, or a prerequisite for, taking any other action against the user.
+(i)
+Termination of Services. The Director may order a user who violates, or continues to violate, this ordinance, or allows an unauthorized discharge to enter the POTW, to show cause before the Director as to why termination of services should not be taken. A notice shall be served on the user specifying the time and place of a hearing to be held by the Director regarding the termination of services, the reasons why the action is to be taken, and directing the user to show cause before the Director why the proposed enforcement action should not be taken. The notice of the hearing shall be served by registered or certified mail, return receipt requested, at least ten days before the hearing. Service may be made on any agent or officer of a corporation.
+(1)
+The Director may take evidence and hear witnesses.
+(2)
+After the Director has reviewed the evidence, he may issue an order to the user responsible for the discharge directing that, following a specified time period, the sewer service will be discontinued unless adequate treatment facilities, devices, or other related appurtenances are properly installed and/or operated. Further orders and directives as are necessary and appropriate may be issued.
+Exercise of this option by the Utility shall not be a bar to, or a prerequisite for, taking any other action against the user.
+2-16-48 - Judicial Remedies.
+When a user discharges sewage, industrial wastes, or other wastes into the wastewater disposal system contrary to the provisions of this Article, or violates, or continues to violate, any order or permit issued hereunder or any other pretreatment standard or requirement, the Utility may commence an action for appropriate legal and/or equitable relief in a court having jurisdiction over such matters.
+(a)
+Injunctive Relief. When the Utility finds a user has violated, or continues to violate, any provision of this Article or any order or permit issued hereunder, or any other pretreatment standard or requirement, the Utility may petition the court for the issuance of a preliminary or permanent injunction, as appropriate, which restrains or compels the specific performance of the wastewater discharge permit, order, or other requirement imposed by this ordinance on activities of the user. The Utility may seek also such other action as is appropriate for legal and/or equitable relief, including a requirement for the user to conduct environmental remediation. A petition for injunctive relief shall not be a bar against, or a prerequisite for, taking any other action against a user including, but not limited to, nuisance abatement proceedings in a court of competent jurisdiction.
+(b)
+Civil Penalties.
+(1)
+A user who has violated, or continues to violate, any provision of this Article or any order or permit issued hereunder, or any other pretreatment standard or requirement, shall be liable to the Utility for a civil penalty of up to $1,000.00 per violation, per day. In the case of a monthly or other long-term average discharge limit, penalties shall accrue for each day during the period of violation. In addition to the above described penalty, the Utility may recover reasonable attorneys' fees, court costs, and other expenses associated with the enforcement activities, including sampling and monitoring expenses, and the cost of any actual damages incurred by the POTW and Utility, and any economic benefit gained through the user's violation.
+(2)
+The Utility shall petition a court of competent jurisdiction to impose, assess, and recover such sums set forth in paragraph (1), above. In determining the amount of liability, the court shall take into account all relevant circumstances, including, but not limited to, the extent of harm caused by the violation, the magnitude and duration, any economic benefit gained through the user's violation, corrective actions by the user, the compliance history of the user, and any other factor as justice requires.
+Filing a suit for civil penalties shall not be a bar against, or a prerequisite for, taking any other action against a user.
+(c)
+Criminal Prosecution.
+(1)
+A user who willfully or negligently violates any provision of this Article, any orders or permits issued hereunder, or any other pretreatment standard or requirement shall, upon conviction, be guilty of a misdemeanor, punishable by a fine not to exceed $1,000.00 per violation, per day, or imprisonment for not more than 60 days, or both.
+(2)
+A user who willfully or negligently introduces any substance into the POTW which causes personal injury or property damage shall, upon conviction, be guilty of a misdemeanor, punishable by a fine not to exceed $1,000.00 per violation, per day, or imprisonment for not more than 60 days, or both. This penalty shall be in addition to any other cause of action for personal injury or property damage available to the Utility.
+(3)
+A user who knowingly makes any false statements, representations, or certifications in any application, record, report, plan or other document filed, or required to be maintained, pursuant to this Article, wastewater permit or order issued hereunder, or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under this Article shall, upon conviction, be guilty of a misdemeanor, punishable by a fine not to exceed $1,000.00 per violation, per day, or imprisonment for not more than 60 days, or both.
+(d)
+Remedies Nonexclusive. The remedies provided for in this Article are not exclusive. The Director may take any, all, or any combination of these actions against a noncompliant user. The Director may take other action against any user when the circumstances warrant. Further, the Director is empowered to take more than one enforcement action against any noncompliant user.
+2-16-49 - Supplemental Enforcement Remedies.
+(a)
+Liability Insurance. The Director may decline to reissue a permit to any industrial user which has failed to comply with any provision of this Article, or any order or previous permit issued hereunder, unless the industrial user first submits proof that it has obtained financial assurances sufficient to restore or repair POTW damage caused by its discharge.
+(b)
+Water Supply Severance. When an industrial user has been found after hearing to be in violation of any provision of this Article, or an order issued hereunder, water service to the industrial user may be severed and service will only recommence, at the user's expense, after it has satisfactorily demonstrated its ability to comply.
+2-16-50 - Affirmative Defenses.
+(a)
+Treatment Upsets.
+(1)
+For the purposes of this Article, "upset" means an exceptional incident in which there is unintentional and temporary noncompliance with categorical pretreatment standards because of factors beyond the reasonable control of the user. An upset does not include noncompliance to the extent caused by operational error, improperly designed treatment facilities, inadequate treatment facilities, lack of preventative maintenance, or careless or improper operation.
+(2)
+An upset shall constitute an affirmative defense to an action brought for noncompliance with categorical pretreatment standards if the requirements of paragraph (3), below, are met.
+(3)
+A user who wishes to establish the affirmative defense of upset shall demonstrate, through properly signed, contemporaneous operating logs, or other relevant evidence that:
+(A)
+An upset occurred and the user can identify the cause(s) of the upset;
+(B)
+The facility was at the time being operated in a prudent and workman-like manner and in compliance with applicable operation and maintenance procedures; and
+(C)
+The user has submitted the following information to the Director within 24 hours of becoming aware of the upset (if this information is provided orally, a written submission must be provided within five days):
+(i)
+A description of the indirect discharge and cause of noncompliance;
+(ii)
+The period of noncompliance, including exact dates and times or, if not corrected, the anticipated time the noncompliance is expected to continue; and
+(iii)
+Steps being taken and/or planned to reduce, eliminate, and prevent recurrence of the noncompliance.
+(4)
+In any enforcement proceeding, the user seeking to establish the occurrence of an upset shall have the burden of proof.
+(5)
+Users will have the opportunity for a judicial determination on any claim of upset only in an enforcement action brought for noncompliance with categorical pretreatment standards.
+(6)
+Users shall control production of all discharges to the extent necessary to maintain compliance with categorical pretreatment standards upon reduction, loss, or failure of its treatment facility until the facility is restored or an alternative method of treatment is provided. This requirement applies in the situation where, among other things, the primary source of power of the treatment facility is reduced, lost, or fails.
+(b)
+Treatment Bypass.
+(1)
+A user may allow any bypass to occur which does not cause pretreatment standards or requirements to be violated, but only if it also is for essential maintenance to assure efficient operation. These bypasses are not subject to the provisions of paragraphs (2) and (3) of this subsection (b).
+(2)
+If a user knows in advance of the need for a bypass, then it shall submit prior notice to the Director at least ten days before the date of the bypass, if possible.
+(A)
+A user shall submit oral notice to the Director of an anticipated bypass that exceeds applicable pretreatment standards within 24 hours from the time it becomes aware of the bypass. A written submission shall also be provided within five days of the time the user becomes aware of the bypass. A written submission shall contain a description of the bypass and its cause, the duration of the bypass, including exact dates and times, and, if the bypass has not been corrected, the anticipated time it is expected to continue, and the steps taken or planned to reduce, eliminate, and prevent reoccurrence of the bypass.
+(B)
+The Director may waive the written report on a case-by-case basis if the oral report has been received within 24 hours.
+(3)
+Bypass is prohibited: The Director may take an enforcement action against a user for a bypass, unless:
+(A)
+The bypass was unavoidable to prevent loss of life, personal injury, or severe property damage including, but not limited to, substantial physical damage to property, damage to the treatment facilities which causes them to become inoperable, or substantial and permanent loss of natural resources which can reasonably be expected to occur in the absence of a bypass. Severe property damage does not include economic loss caused by delays in production;
+(B)
+There were no feasible alternatives to the bypass, such as the use of auxiliary treatment facilities, retention of untreated wastes, or maintenance during normal periods of equipment downtime. This condition is not satisfied if adequate back-up equipment should have been installed in the exercise of reasonable engineering judgment to prevent a bypass which occurred during normal periods of equipment downtime or preventative maintenance; and
+(C)
+The user submitted notices as required under paragraph (2) of this subsection (b).
+(D)
+The Director may approve an anticipated bypass, after considering its adverse effects, if the Director determines that it will meet the three conditions listed in subparagraphs (3)(A)-(C) of this subsection (b).
+(c)
+Prohibited Discharge Standards. A user shall have an affirmative defense to an enforcement action brought against it for noncompliance with the general prohibitions in Section 2-16-36, except for paragraphs 2-16-36(d)(1), (2) and (9), if it can prove that it did not know, or have reason to know, that its discharge, alone or in conjunction with discharges from other sources, would cause pass through or interference and that either:
+(1)
+A local limit exists for each pollutant discharged and the user was in compliance with each limit directly prior to, and during, the pass through or interference; or
+(2)
+No local limit exists, but the discharge did not change substantially in nature or constituents from the user's prior discharge when the Utility was regularly in compliance with its NPDES and/or LAS permit, and in the case of interference, was in compliance with applicable sludge use or disposal requirements.
+2-16-51—2-16-60 - Reserved.

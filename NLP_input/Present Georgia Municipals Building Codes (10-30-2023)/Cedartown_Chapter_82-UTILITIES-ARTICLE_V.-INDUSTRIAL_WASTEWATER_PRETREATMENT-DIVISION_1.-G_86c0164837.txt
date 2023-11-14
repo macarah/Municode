@@ -1,0 +1,130 @@
+DIVISION 1. - GENERAL PROVISIONS
+
+Sec. 82-191. - Purpose and policy.
+This article sets forth uniform requirements for users of the wastewater collection and publicly owned treatment works (POTW) for the city and enables the city to comply with all applicable state and federal laws including the Clean Water Act (33 U.S.C. 1.251 et seq.) and the general pretreatment regulations (40 CFR Part 403). The objectives of this article are:
+(a)
+To prevent the introduction of pollutants into the POTW that will interfere with the operation of the POTW;
+(b)
+To prevent the introduction of pollutants into the POTW which will pass through the POTW, inadequately treated, into receiving waters or otherwise be incompatible with the POTW;
+(c)
+To ensure that the quality of the wastewater treatment plant sludge is maintained at a level which allows its use and disposal in compliance with applicable statutes and regulations;
+(d)
+To protect POTW personnel who may be affected by wastewater and sludge in the course of their employment and to protect the general public;
+(e)
+To improve the opportunity to recycle and reclaim wastewater and sludge from the POTW;
+(f)
+To provide for fees for the equitable distribution of the cost of operation, maintenance and improvement of the POTW; and
+(g)
+To enable the city to comply with its NPDES permit conditions, sludge use and disposal requirements and any other federal or state laws to which the POTW is subject.
+This article shall apply to all industrial users of the POTW. The article authorizes the issuance of wastewater discharge permits; authorizes monitoring, compliance and enforcement activities; establishes administrative review procedures; requires industrial user reporting; and provides for the setting of fees for the equitable distribution of costs resulting from the program established herein; requires industrial user compliance with applicable pretreatment standards and requirements.
+(Ord. No. 18-2008, § 1(1.1), 10-13-08)
+Sec. 82-192. - Administration.
+Except as otherwise provided herein, the city manager shall administer, implement and enforce the provisions of this article. Any powers granted to or duties imposed upon the city manager may be delegated by the city manager to other city personnel.
+(Ord. No. 18-2008, § 1(1.2), 10-13-08)
+Sec. 82-193. - Definitions.
+Unless a provision explicitly states otherwise, the following terms and phrases, as used in this article, shall have the meanings hereinafter designated.
+Act or the Act. The Federal Water Pollution Control Act, also known as the Clean Water Act, as amended, 33 U.S.C. 1251 et seq.
+Approval authority. Environmental protection division of the Georgia department of Natural Resources.
+Authorized representative of the industrial user.
+(1)
+If the industrial user is a corporation, authorized representative shall mean:
+a.
+The president, secretary, treasurer, or a vice president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation.
+b.
+The manager of one or more manufacturing, production, or operation facilities employing more than 250 persons or having gross annual sales or expenditures exceeding $25 million (in second-quarter 1980 dollars), if authority to sign documents has been assigned or delegated to the manager in accordance with corporate procedures;
+(2)
+If the industrial user is a partnership, or sole proprietorship, an authorized representative shall mean a general partner or proprietor, respectively;
+(3)
+If the industrial user is a federal, state or local governmental facility, an authorized representative shall mean a director or highest official appointed or designated to oversee the operation and performance of the activities of the government facility, or his/her designee;
+(4)
+The individuals described in paragraph 1-3 [subsections (1) through (3)] above may designate another authorized representative if the authorization is in writing, the authorization specifies the individual or position responsible for the overall operation of the facility from which the discharge originates or having overall responsibility for environmental matters for the company, and the written authorization is submitted to the city.
+Biochemical oxygen demand (BOD). The quantity of oxygen utilized in the biochemical oxidation of organic matter under standard laboratory procedure, five days at 20 degrees centigrade expressed in terms of mass and concentration {milligrams per liter (mg/L)}.
+Categorical pretreatment standard or categorical standard. Any regulation containing pollutant discharge limits promulgated by the U.S. EPA in accordance with sections 307(b) and (c) of the Act (33 U.S.C. 1317) which apply to a specific category of industrial users and which appear in 40 CFR chapter, subchapter N, parts 405-471.
+City. The City of Cedartown or the City Commission of Cedartown.
+Color. The optical density at the visual wave length of maximum absorption, relative to distilled water. One hundred percent transmittance is equivalent to zero optical density.
+Composite sample. The sample resulting from the combination of individual wastewater samples taken at selected intervals based on an increment of either flow or time.
+Environmental Protection Agency or EPA. The U.S. Environmental Protection Agency, or, where appropriate, the term may also be used as a designation for the regional water management division director or other duly authorized official of said agency.
+Existing source. Any source of discharge, the construction or operation of which commenced prior to the publication of proposed categorical pretreatment standards which will be applicable to such source if the standard is thereafter promulgated in accordance with section 307 of the Act.
+Grab sample. A sample which is taken from a waste stream on a one-time basis without regard to the flow in the waste stream and without consideration of time.
+Indirect discharge or discharge. The introduction of (nondomestic) pollutants into the POTW from any nondomestic source regulated under section 307(b), (c) or (d) of the Act.
+Industrial user or user. A source of indirect discharge.
+Instantaneous maximum allowable discharge limit. The maximum concentration (or loading) of a pollutant allowed to be discharged at any time, determined from the analysis of any discrete or composite sample collected, based on the industrial flow rate, concentration, and the duration of the sampling event.
+Interference. A discharge which alone or in conjunction with a discharge or discharges from other sources: 1) inhibits or disrupts the POTW, its treatment processes or operations or its sludge processes, use or disposal; and 2) therefore is a cause of a violation of the city's NPDES permit or of the prevention of sewage sludge use or disposal in compliance with any of the following statutory/regulatory provisions or permits issued there under (or more stringent state or local regulations): section 405 of the Clean Water Act; the Solid Waste Disposal Act (SWDA), including title commonly referred to as the Resource Conservation and Recovery Act (RCRA); any state regulations contained in any state sludge management plan prepared pursuant to subtitle D of the SWDA; the Clean Air Act; the Toxic Substances Control Act; and the Marine Protection, Research and Sanctuaries Act.
+Medical waste. Isolation wastes, infectious agents, human blood and blood byproducts, pathological wastes, sharps, body parts, fomites, etiologic agents, contaminated bedding, surgical wastes, potentially contaminated laboratory wastes and dialysis wastes.
+New source.
+(1)
+Any building, structure, facility or installation from which there is or may be a discharge of pollutants, the construction of which commenced after the publication of proposed pretreatment standards under section 307(c) of the Act which will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:
+a.
+The building, structure, facility or installation is constructed at a site at which no other source is located; or
+b.
+The building, structure, facility or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or
+c.
+The production or wastewater generating processes of the building, structure, facility or installation are substantially independent of an existing source at the same site. In determining whether these are substantially independent, factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source, should be considered.
+(2)
+Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of subsections b. or c. above but otherwise alters, replaces, or adds to existing process or production equipment.
+(3)
+Construction of a new source as defined under this paragraph has commenced if the owner or operator has:
+a.
+Begun, or caused to begin as part of a continuous on site construction program
+(i)
+Any placement, assembly, or installation of facilities or equipment, or
+(ii)
+Significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or
+b.
+Entered into a binding contractual obligation for the purchase of facilities or equipment which are intended to be used in its operation within a reasonable time. Options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this paragraph.
+Noncontact cooling water. Water used for cooling which does not come into direct contact with any raw material, intermediate product, waste product, or finished product.
+Passthrough. A discharge which exits the POTW into waters of the U.S. in quantities or concentrations which, alone or in conjunction with a discharge or discharges from other sources, is a cause of a violation of any requirement of the city's NPDES permit (including an increase in the magnitude or duration of a violation).
+Person. Any individual, partnership, co-partnership, firm, company, corporation, association, joint stock company, trust, estate, governmental entity or any other legal entity, or their legal representatives, agents or assigns. This definition includes all federal, state or local governmental entities.
+pH. A measure of the acidity or alkalinity of a substance, expressed in standard units.
+Pollutant. Any dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, medical wastes, chemical wastes, biological materials, radioactive materials, heat, wrecked or discharged equipment, rock, sand, cellar dirt, agricultural and industrial wastes, and the characteristics of the wastewater {i.e., pH, temperature, TSS, turbidity, color, BOD, chemical oxygen demand (COD), toxicity, odor}.
+Pretreatment. The reduction of the amount of pollutants, the elimination of pollutants, or the alteration of the nature of pollutant properties in wastewater prior to or in lieu of introducing such pollutants into the POTW. This reduction or alteration can be obtained by physical, chemical or biological processes, by process changes, or by other means, except by diluting the concentration of the pollutants unless allowed by an applicable pretreatment standard.
+Pretreatment requirements. Any substantive or procedural requirement related to pretreatment imposed on an industrial user, other than a pretreatment standard.
+Pretreatment standards or standards. Pretreatment standards shall mean prohibitive discharge standards, categorical pretreatment standards, and local limits.
+Prohibited discharge standards or prohibited discharges. Absolute prohibitions against the discharge of certain substances; these prohibitions appear in section 82-225.
+Publicly owned treatment works or POTW. A "treatment works" as defined by section 212 of the Act (33 U.S.C. 1292), which is owned by the state or municipality. This definition includes any devices or systems used in the collection, storage, treatment, recycling and reclamation of sewage or industrial wastes and any conveyances which convey wastewater to a treatment plant. The term also means the municipal entity having jurisdiction over the industrial users and responsibility for the operation and maintenance of the treatment works.
+Septic tank waste. Any sewage from holding tanks such as vessels, chemical toilets, campers, trailers, and septic tanks.
+Sewage. Human excrement and gray water (household showers, dishwashing operations, etc.).
+Significant industrial user. Shall apply to:
+(a)
+Industrial users subject to categorical pretreatment standards; and
+(b)
+Any other industrial user that:
+(i)
+Discharges an average of 25,000 gpd or more of process wastewater,
+(ii)
+Contributes a process wastestream which makes up five percent or more of the average dry-weather hydraulic or organic capacity of the treatment plant or
+(iii)
+Is designated as significant by the city on the basis that the industrial user has a reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement; and
+(c)
+Upon a finding that a user meeting the criteria in subsection (b) has no reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement, the city may, at any time, on its own initiative or in response to a petition received form a user, and in accordance with procedures in 40 CFR 403.8 (f)(6), determine that such user should not be considered a significant industrial user.
+Slug load. Any discharge at a flow rate or concentration which could cause a violation of the prohibited discharge standards in section 82-225 or any discharge of a nonroutine, episodic nature, including, but not limited to, an accidental spill or a noncustomary batch discharge.
+Standard industrial classification (SIC) code. A classification pursuant to the Standard Industrial Classification Manual issued by the U.S. Office of Management and Budget.
+Stormwater. Any flow occurring during or following any form of natural precipitation, and resulting there form, including snowmelt.
+Superintendent. The person designated by the city to supervise the operation of the POTW, and who is charged with certain duties and responsibilities by this ordinance or his/her duly authorized representatives.
+Suspended solids. The total suspended matter that floats on the surface of, or is suspended in, water, wastewater, or other liquid, and which is removable by laboratory filtering.
+Toxic pollutant. One of 129 pollutants or combination of those pollutants listed as toxic in regulations promulgated by the EPA under the provision of section 307 (33 U.S.C. 1317) of the Act.
+Treatment plant effluent. Any discharge of pollutants from the POTW into waters of the state.
+Wastewater. Liquid and water-carried industrial wastes and sewage from residential dwellings, commercial buildings, industrial and manufacturing facilities, and institutions, whether treated or untreated, which are contributed to the POTW.
+Wastewater treatment plant or treatment plant. That portion of the POTW designed to provide treatment of sewage and industrial waste.
+Shall is mandatory; may is permissive or discretionary. The use of the singular shall be construed to include the plural and the plural shall include the singular as indicated by the context of its use.
+(Ord. No. 18-2008, § 1(1.3), 10-13-08)
+Sec. 82-194 - Abbreviations.
+The following abbreviations shall have the designated meanings:
+· BOD - Biochemical Oxygen Demand
+· CFR - Code of Federal Regulations
+· COD - Chemical Oxygen Demand
+· EPA - U.S. Environmental Protection Agency.
+· GPD - Gallons Per Day
+· L - Liter
+· mg - Milligrams
+· mg/L - Milligrams per liter
+· NPDES - National Pollutant Discharge Elimination System
+· O&M - Operation and Maintenance
+· POTW - Publicly Owned Treatment Works
+· RCRA - Resource Conservation and Recovery Act
+· SIC - Standard Industrial Classifications
+· SWDA - Solid Waste Disposal Act (42 U.S.C. 6901, et seq.)
+· TSS - Total Suspended Solids
+· USC - United States Code
+(Ord. No. 18-2008, § 1(1.4), 10-13-08)
+Secs. 82-195—82-224. - Reserved.

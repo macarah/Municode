@@ -1,0 +1,642 @@
+Chapter 24 - UTILITIES
+ARTICLE I. - IN GENERAL
+
+Sec. 24-1. - Water and sewer development standards.
+(a)
+Development standards for design and installation of water and sewerage systems shall apply to all nongovernmental water and sewerage systems constructed in the service areas of the city.
+(b)
+The city may withhold the issuance of any building permit and/or occupancy or use permit in any subdivision, development or improvement to which this chapter applies until there is compliance with the regulations and specifications contained in the development standards for water and sewerage systems.
+(c)
+A copy of this chapter, including the development standards for water and sewerage system, is to be filed with the permanent records of the minutes of the city and may be inspected by any interested party during regular office hours at the city.
+(d)
+Violation of this chapter shall be punished in accordance with O.C.G.A. §§ 36-32-1 et seq., 36-35-6 and the city Charter.
+(Code 2003, § 51.01; Ord. of 12-22-2000)
+Sec. 24-2. - Unauthorized connection, disconnecting, working or tampering with equipment and the like prohibited.
+(a)
+It shall be unlawful for any unauthorized person to connect or disconnect any water supply line to the water system of the city or for any unauthorized person to install, repair or tamper with meters, couplings, valves, fire hydrants or other equipment of thecity water and sewer system.
+(b)
+Violation of this section shall be a criminal offense punishable within the limits authorized by the Charter and shall result in the discontinuance of any water service to the premises where the violation occurs and to the offender, without further notice.
+(Code 2003, § 51.02; Ord. No. 268, 8-15-1986)
+Sec. 24-3. - Water and Sewer Service Improvement Account.
+(a)
+There is hereby created a separate account or fund of the city to be known as the Water and Sewer Service Improvement Account to be used solely and exclusively to receive for deposit the surcharges hereinafter authorized, and for payment of expenses related to repairing, improving and upgrading any portion of the system deemed by the city to be inadequate to provide new or expanded service. The finance director and utility billing supervisor shall be the sole and exclusive judge in this regard.
+(b)
+There is hereby imposed a surcharge to be paid by applicants for water and/or sewer services at a location not presently served, or expanded service to a site presently being served, in addition to the usual application and connection fees. The surcharges shall be in amounts as established by the mayor and council from time to time.
+(c)
+Nothing contained herein shall require the city to provide service in areas not presently served, and the mayor and council shall be the sole and exclusive judge in this regard.
+(Ord. No. 2015-09-08, §§ 1—5, 9-8-2015; Ord. No. BR2015-09-08-A, § 2, 8-20-2021)
+Secs. 24-4—24-24. - Reserved.
+ARTICLE II. - IDENTITY THEFT PREVENTION PROGRAM
+DIVISION 1. - GENERALLY
+
+Sec. 24-25. - Short title.
+This article shall be known as the "Identity Theft Prevention Program."
+(Ord. No. 2016-01-12, § 160.01, 1-12-2016)
+Sec. 24-26. - Purpose.
+The purpose of this article is to comply with 16 CFR 681.1 in order to detect, prevent and mitigate identity theft by identifying and detecting identity theft red flags and by responding to such red flags in a manner that will prevent identity theft.
+(Ord. No. 2016-01-12, § 160.02, 1-12-2016)
+Sec. 24-27. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Covered account means:
+(1)
+An account that a financial institution or creditor offers or maintains, primarily for personal, family, or household purposes, that involves or is designed to permit multiple payments or transaction, such as a credit card account, mortgage loan, automobile loan, margin account, cell phone account, utility account, checking account, or savings accounts; and
+(2)
+Any other account that the financial institution or creditor offers or maintains for which there is a reasonably foreseeable risk to customers or to the safety and soundness of the operational, compliance, reputation, or litigation risks.
+Credit means the right granted by a creditor to a debtor to defer payment of debt or to incur debts and defer its payment or to purchase property or services and defer payment therefor.
+Creditor means any person who regularly extends, renews, or continues credit; any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit and includes utility companies and telecommunications companies.
+Customer means a person that has a covered account with a creditor.
+Identify theft means a fraud committed or attempted using identifying information of another person without authority.
+Personal identifying information means a person's credit card account information, debt card information bank account information and driver's license information and, for a natural person, includes their Social Security number, mother's birth name, and date of birth.
+Red flag means a pattern, practice, or specific activity that indicates the possible existence of identity theft.
+(Ord. No. 2016-01-12, § 160.03, 1-12-2016)
+Sec. 24-28. - Findings.
+(a)
+The city is a creditor pursuant to 16 CFR 681.1 due to its provision or maintenance of covered accounts for which payment is made in arrears.
+(b)
+Covered accounts offered to customers for the provision of city services include water, sewer and other covered accounts.
+(c)
+The city's previous experience with identity theft related to covered accounts is as follows: A few attempts have been made but caught by the city.
+(d)
+The processes of opening a new covered account, restoring an existing covered account, and making payments on such account have been identified as potential processes in which identity theft could occur.
+(e)
+The city limits access to personal identifying information to those employees responsible for or otherwise involved in opening or restoring covered accounts or accepting payment for use of covered accounts. Information provided to such employees is entered directly into the city's computer system and is also held in hard copy form as to certain covered accounts.
+(f)
+The city determines that there is a low risk of identity theft occurring in the following ways:
+(1)
+Use by an applicant of another's person's personal identifying information to establish a new covered account;
+(2)
+Use of a previous customer's personal identifying information by another person in an effort to have service restored in the previous customer's name;
+(3)
+Use of another person's credit card, bank account, or other method of payment by a customer to pay such customer's covered account or accounts; and
+(4)
+Use by a customer desiring to restore such customer's covered account of another person's credit card, bank account, or other method of payment.
+(Ord. No. 2016-01-12, § 160.04, 1-12-2016)
+Sec. 24-29. - Process of establishing a covered account.
+(a)
+As a precondition to opening a covered account in the city, each applicant shall provide the city with personal identifying information of the customer, being a valid government issued identification card containing a photograph of the customer or, for customers who are not natural persons, a photograph of the customer's agent opening the account. Such applicant may also provide any information necessary for the department providing the service for which the covered account is created to access the applicant's consumer credit report.
+(b)
+Each account shall be assigned an account number and may be assigned a personal identification number (PIN) which shall be unique to that account. The city may utilize computer software to randomly generate assigned PINs and to encrypt account numbers and PINs.
+(Ord. No. 2016-01-12, § 160.05, 1-12-2016)
+Sec. 24-30. - Access to covered account information.
+(a)
+Access to customer accounts shall be password protected and shall be limited to authorized city personnel.
+(b)
+Such passwords shall be changed by city administration on a regular basis, may be at least eight characters in length and may contain letters, numbers and symbols.
+(c)
+Access to hard copies of customer accounts shall be restricted to just the personnel that work with said accounts and maintained in a locked room or locked filing cabinet.
+(d)
+Any unauthorized access to or other breach of customer accounts is to be reported immediately to the city manager and the password changed immediately.
+(e)
+Personal identifying information included in customer accounts is considered confidential and any request or demand for such information shall be immediately forwarded to the city manager and the city attorney.
+(Ord. No. 2016-01-12, § 160.06, 1-12-2016)
+Sec. 24-31. - Credit card payments.
+(a)
+In the event that credit card payments that are made over the Internet are processed through a third party service provider, such third party service provider shall certify that it has an adequate identity theft prevention program in place that is applicable to such payments.
+(b)
+All credit card payments made over the telephone or the city's website shall be entered directly into the customer's account information in the computer database.
+(c)
+Account statements and receipts for covered accounts may include only the last four digits of the credit or debit card or the bank account used for payment of the covered account.
+(Ord. No. 2016-01-12, § 160.07, 1-12-2016)
+Sec. 24-32. - Sources and types of red flags.
+All employees responsible for or involved in the process of opening a covered account, restoring a covered account or accepting payment for a covered account shall check for red flags as indicators of possible theft and such red flags may include:
+(1)
+Alerts from consumer reporting agencies, fraud detection agencies or service providers. Examples of alerts include, but are not limited to:
+a.
+A fraud or active duty alert that is included with a consumer report;
+b.
+A notice of credit freeze in response to a request for a consumer report;
+c.
+A notice of address discrepancy provided by a consumer reporting agency;
+d.
+Indications of a pattern of activity in a consumer report that is inconsistent with the history and usual pattern of activity in a consumer report that is inconsistent with the history and usual pattern of activity of an applicant or customer, such as:
+1.
+A recent and significant increase in the volume of inquiries;
+2.
+An unusual number of recently established credit relationships;
+3.
+A material change in the use of credit, especially with respect to recently established credit relationships; or
+4.
+An account that was closed for cause or identified for abuse of account privileges by a financial institution or creditor.
+(2)
+Suspicious documents. Examples of suspicious documents include:
+a.
+Documents provided for identification that appear to be altered or forged;
+b.
+Identification on which the photograph or physical description is inconsistent with the appearance of the applicant or customer;
+c.
+Identification on which the information is inconsistent with information provided by the applicant or customer;
+d.
+Identification on which the information is inconsistent with readily accessible information that is on file with the financial institution or creditor, such as a signature card or a recent check; or
+e.
+An application that appears to have been altered or forged, or appears to have been destroyed and reassembled.
+(3)
+Suspicious personal identification, such as suspicious address change. Examples of suspicious identifying information include:
+a.
+Personal identifying information that is inconsistent with external information sources used by the financial institution or creditor. For example:
+1.
+The address does not match any address in the consumer report; or
+2.
+The Social Security Number (SSN) has not been issued, or is listed on the Social Security Administration's Death Master File.
+b.
+Personal identifying information provided by the customer is not consistent with other personal identifying information provided by the customer, such as a lack of correlation between the SSN range and date of birth.
+c.
+Personal identifying information or a phone number or address associated with known fraudulent applications or activities as indicated by internal or third party sources used by the financial institution or creditor.
+d.
+Other information provided, such as fictitious mailing address, mail drop addresses, jail addresses, invalid phone numbers, fictitious email addresses, pager numbers or answering services associated with fraudulent activity.
+e.
+The SSN provided is the same as that submitted by other applicants or customers.
+f.
+The address or telephone number provided is the same as or similar to the account number or telephone number submitted by an unusually large number of applicants or customers.
+g.
+The applicant or customer fails to provide all required personal identifying information that is on file with the financial institution or creditor.
+h.
+Personal identifying information that is not consistent with personal identifying information that is on file with the financial institution or creditor.
+i.
+The applicant or customer cannot provide authenticating information beyond that which generally would be available from a wallet or consumer report.
+(4)
+Unusual use of or suspicious activity relating to a covered account. Examples of suspicious activity include:
+a.
+Shortly following the notice of change of address for an account, the city receives a request for the addition of authorized users on the account.
+b.
+A new revolving credit account is used in a manner commonly associated with known patterns of fraud patterns. For example:
+1.
+The customer fails to make the first payment; or
+2.
+Makes an initial payment but no subsequent payments.
+c.
+An account is used in a manner that is not consistent with established patterns of activity on the account. There is, for example:
+1.
+Nonpayment when there is no history of late or missed payments;
+2.
+A material change in purchasing or spending patterns;
+d.
+An account that has been inactive for a long period of time is used (taking into consideration the type of account, the expected pattern of usage and other relevant factors).
+e.
+Mail sent to the customer is returned repeatedly as undeliverable although transactions continue to be conducted in connection with the customer's account.
+f.
+The city is notified that the customer is not receiving paper account statements.
+g.
+The city is notified of unauthorized charges or transactions in connection with a customer's account.
+h.
+The city is notified by a customer, law enforcement or another person that it has opened a fraudulent account for a person engaged in identify theft.
+(5)
+Notice from customers, law enforcement, victims or other reliable sources regarding possible identity theft or phishing relating to covered accounts.
+(Ord. No. 2016-01-12, § 160.08, 1-12-2016)
+Sec. 24-33. - Prevention and mitigation of identity theft.
+(a)
+In the event that any city employee responsible for or involved in restoring an existing covered account or accepting payment for a covered account becomes aware of red flags indicating possible identity theft with respect to existing covered accounts, such employee shall use his discretion to determine whether such red flag or combination of red flags suggests a threat of identity theft. If, in his discretion, such employee determines that identity theft or attempted identity theft is likely or probable, such employee shall immediately report such red flags to the mayor or city manager. If, in his discretion, such employee deems that identity theft is unlikely or that reliable information is available to reconcile red flags, the employee shall convey this information to the mayor or city manager, who may, in his discretion, determine that no further action is necessary. If the mayor or city manager, in his discretion, determines that further action is necessary, a city employee shall perform one or more of the following responses, as determined to be appropriate by the mayor or city manager:
+(1)
+Contact the customer;
+(2)
+Make the following changes to the account if, after contacting the customer, it is apparent that someone other than the customer has accessed the customer's covered account:
+a.
+Change any account numbers, passwords, security codes, or other security devices that permit access to an account; or
+b.
+Close the account;
+(3)
+Cease attempts to collect additional charges from the customer and decline to sell the customer's account to a debt collector in the event that the customer's account has been accessed without authorization and such access has caused additional charges to accrue;
+(4)
+In the event that a customer's account that has been sold to such debt collector prior to the discovery of the likelihood or probability of identity theft relating to such account, notify the debt collector within one week of the discovery of likely or probable identity theft relating to a customer account that has been sold to such debt collector;
+(5)
+Notify law enforcement in the event that someone other than the customer has accessed the customer's account causing additional charges to accrue or accessing personal identifying information; or
+(6)
+Take other appropriate action to prevent or mitigate identity theft.
+(b)
+In the event that any city employee responsible for or involved in opening a new covered account becomes aware of red flags indicating possible identity theft with respect to an application for a new account, such employee shall use his discretion to determine whether such red flag or combination of red flags suggests that identity theft or attempted identify theft is likely or probable, and such employee shall immediately report such red flags to the mayor or city manager. If, in his discretion, such employee deems that identity theft is unlikely or that reliable information is available to reconcile red flags, the employee shall convey this information to the mayor or city manager, who may, in his discretion, determine that further action is necessary, and a city employee shall perform one or more of the following responses, as determined to be appropriate by the mayor or city manager:
+(1)
+Request additional identifying information from the applicant;
+(2)
+Deny the application for the new account;
+(3)
+Notify law enforcement of possible identity theft; or
+(4)
+Take other appropriate action to prevent or mitigate identity theft.
+(Ord. No. 2016-01-12, § 160.09, 1-12-2016)
+Sec. 24-34. - Updating the program.
+The city council shall periodically review and, as deemed necessary by the council, update the identity theft prevention program, along with any relevant red flags, in order to reflect changes in risks to customers or to the safety and soundness of the city and its covered accounts from identity theft. In so doing, the city council shall consider the following factors and exercise its discretion in amending the program:
+(1)
+The city's experiences with identity theft;
+(2)
+Updates in methods of identity theft;
+(3)
+Updates in customary methods used to detect, prevent, and mitigate identity theft;
+(4)
+Updates in the types of accounts that the city offers or maintains; and
+(5)
+Updates in service provider arrangements.
+(Ord. No. 2016-01-12, § 160.10, 1-12-2016)
+Sec. 24-35. - Program administration.
+City administrative staff is responsible for oversight of the program and for program implementation. The city mayor or city manager is responsible for reviewing reports prepared by staff regarding compliance with red flag requirements and with recommending material changes to the program, as necessary in the opinion of the mayor or city manager, to address changing identity theft risks and to identify new or discontinued types of covered amounts. Any recommended material changes to the program shall be submitted to the city council for consideration by the council.
+(1)
+The city administrative staff will report to the city mayor or city manager periodically on compliance with the red flag requirements. The report will address material matters related to the program and evaluate issues, such as:
+a.
+The effectiveness of the policies and procedures of the city in addressing the risk of identity theft in connection with the opening of covered accounts and with respect to existing covered accounts;
+b.
+Service provider arrangements;
+c.
+Significant incidents involving identity theft and management's response; and
+d.
+Recommendation for material changes to the program.
+(2)
+The city administrative staff is responsible for providing training to all employees responsible for or involved in opening a new covered account, restoring an existing covered account or accepting payment for a covered account with respect to the implementation and requirements of the identify theft prevention program. The city administrative staff shall exercise his discretion in determining the amount and substance of training necessary.
+(Ord. No. 2016-01-12, § 160.11, 1-12-2016)
+Sec. 24-36. - Outside service providers.
+In the event that the city engages a service provider to perform an activity in connection with one or more covered accounts, the city administrative staff shall exercise his discretion in reviewing such arrangements in order to ensure, to the best of his ability, that the service provider's activities are conducted in accordance with policies and procedures, agreed upon by contract, that are designed to detect any red flags that may arise in the performance of the service provider's activities and take appropriate steps to prevent or mitigate identity theft.
+(Ord. No. 2016-01-12, § 160.12, 1-12-2016)
+Secs. 24-37—24-60. - Reserved.
+DIVISION 2. - TREATMENT OF ADDRESS DISCREPANCIES
+
+Sec. 24-61. - Short title.
+This division shall be known as the "Treatment of Address Discrepancies Ordinance."
+(Ord. No. 2016-01-12, § 161.01, 1-12-2016)
+Sec. 24-62. - Purpose.
+Pursuant to 16 CFR 681.2, the purpose of this division is to establish a process by which the city will be able to form a reasonable belief that a consumer report relates to the consumer about whom it has requested a consumer credit report when the city has received a notice of address discrepancy.
+(Ord. No. 2016-01-12, § 161.02, 1-12-2016)
+Sec. 24-63. - Definitions.
+The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Notice of address discrepancy means a notice sent to a user by a consumer reporting agency, pursuant to 15 USC 1681(c)(h)(1), that informs the user of a substantial difference between the address for the consumer that the user provided to request the consumer report and the address in the agency's file for the consumer.
+(Ord. No. 2016-01-12, § 161.03, 1-12-2016)
+Sec. 24-64. - Policy.
+In the event that the city receives a notice of address discrepancy, the city employee responsible for verifying consumer addresses for the purpose of providing the municipal service or account sought by the consumer shall perform one or more of the following activities, as determined to be appropriate by such employee:
+(1)
+Compare the information in the consumer report with:
+a.
+Information the city obtains and uses to verify a consumer's identity in accordance with the requirements of the customer information program rules implementing 31 USC 5318(1);
+b.
+Information the city maintains in its own records, such as application for service, change of address notices, other customer account records or tax records; or
+c.
+Information the city obtains from third party sources that are deemed reliable by the relevant city employee.
+(2)
+Verify the information in the consumer report with the consumer.
+(Ord. No. 2016-01-12, § 161.04, 1-12-2016)
+Sec. 24-65. - Furnishing consumer's address to consumer reporting agency.
+(a)
+In the event that the city reasonably confirms that an address provided by a consumer to the city is accurate, the city is required to provide such address to the consumer reporting agency from which the city received a notice of address discrepancy with respect to such consumer. This information is required to be provided to the consumer reporting agency when:
+(1)
+The city is able to form a reasonable belief that the consumer report relates to the consumer about whom the city requested the report;
+(2)
+The city establishes a continuing relation with the consumer; and
+(3)
+The city regularly and, in the ordinary course of business, provides information to the consumer reporting agency from which it received the notice of address discrepancy.
+(b)
+Such information shall be provided to the consumer reporting agency as part of the information regularly provided by the city to such agency for the reporting period in which the city establishes a relationship with the customer.
+(Ord. No. 2016-01-12, § 161.05, 1-12-2016)
+Sec. 24-66. - Methods of confirming consumer addresses.
+The city employee charged with confirming consumer addresses may, in his discretion, confirm the accuracy of an address through one or more of the following methods:
+(1)
+Verifying the address with the consumer;
+(2)
+Reviewing the city's records to verify the consumer's address;
+(3)
+Verifying the address through third party sources; or
+(4)
+Using any other reasonable processes.
+(Ord. No. 2016-01-12, § 161.06, 1-12-2016)
+Sec. 24-67. - Preamble.
+The preamble to the ordinance from which this division is derived is hereby incorporated into this division as if set out fully herein.
+(Ord. No. 2016-01-12, § 3, 1-12-2016)
+Secs. 24-68—24-92. - Reserved.
+ARTICLE III. - WATER SERVICE
+
+Sec. 24-93. - Municipal waterworks.
+The municipal waterworks shall be under the immediate control and supervision of the director of public works, who shall perform all acts that may be necessary for the prudent, efficient and economical management, maintenance and protection of the waterworks, subject to the approval and confirmation of the mayor and council.
+(Code 1979, § 20-101; Code 2003, § 52.01)
+Sec. 24-94. - Inspections.
+The director of public works, or his designated assistant, may enter the premises of any water taker at any reasonable time to examine the condition of the water pipes, meters and fixtures.
+(Code 1979, § 20-102; Code 2003, § 52.02)
+Sec. 24-95. - Application for water.
+Application for the use of water shall be made to the city clerk by the owner or agent of the property to be benefitted, designating the location of the property and stating the purpose for which the water may be required.
+(Code 1979, § 20-103; Code 2003, § 52.03)
+Sec. 24-96. - Tapping charge.
+(a)
+Upon the application for a new tap and service connection by any consumer within the corporate limits of the city, the applicant shall pay to the city clerk a sum as designated by the city council from time to time to cover the cost of the fittings, installation of the tap by the city and the necessary pipe from the main to the curb box.
+(b)
+On application for a new tap and service connection by any consumer outside the corporate limits of the city, the applicant shall pay to the city clerk a sum as designated by the city council from time to time to cover the cost of the fittings, installation of the tap by the city and the necessary pipe from the main to the curb box.
+(c)
+The city shall own and maintain the water line from the main to the curb box and the property owner shall own and maintain the service line from the curb box to the premises served.
+(d)
+All work upon the service line shall be performed by a licensed plumber.
+(e)
+The city council, based upon evidence of a recycling system to be installed by the applicant, may reduce the amount of the water connection (or tap) fee to a water connection fee for a smaller line, with the city council making the determination as to the amount of the reduced water connection fee based upon the anticipated reduced water volume usages due to the proposed recycling system. However, should the applicant not install or actually use a recycling system, then the applicant must pay the standard water connection fee as determined by the size of the water line actually installed less a credit for the reduced connection fee previously paid. Further, should the recycling system not reduce the total water volume usage of applicant as anticipated, then the city may also assess an additional water connection fee reflecting the total water usage of applicant and the size of the line actually installed. Failure of applicant to pay the additional or reassessed water connection fee shall entitle the city to terminate service to applicant.
+(Code 1979, § 20-104; Code 2003, § 52.04; Ord. of 10-12-2004, § 2)
+Sec. 24-97. - Size of service tap.
+No service tap shall be more than three-fourths inch in diameter, provided that the director of public works may grant special permission for larger taps where the water supply and service facilities are sufficient to permit such taps. Where a larger tap is permitted, the director shall fix the tapping charge therefore.
+(Code 1979, § 20-105; Code 2003, § 52.05)
+Sec. 24-98. - Water meters.
+(a)
+Each building or structure using city water shall have a water meter installed by the city which may be installed in a curb box at the property line. All such meters are the property of the city. Upon application for water service, all applicants (or customers or consumers) shall pay a water meter deposit (or security deposit or service deposit) to a properly designated agent for the city, including, but not limited to, the city clerk, the deputy city clerk, or any administrative clerk of the city, or any combination thereof, before the service is turned on. The service deposit for the normal three-fourths inch in diameter residential line (which includes either an owner-occupied residence or a rental or tenant residence) shall be in the amount as determined by the mayor and council from time to time. Any applicant requesting a residential water line above the normal three-fourths inch in diameter water line shall pay a service deposit according to the service deposits charged for the same size line for a commercial or industrial use, unless said service deposit is reduced by official action taken by the city council. The service deposit for commercial or industrial (including, but not limited to, a townhome or apartment complex) shall be based upon the size of the water line which in turn necessitates the size of the water meter, and shall be in amounts as determined by the mayor and council from time to time. Water meter deposits for water lines above two inches in diameter shall be as established by the mayor and council, based upon the recommendation of the director of public works.
+(b)
+All commercial buildings, trailer parks, apartment houses, duplexes, rental houses and houses or trailers located on property on which there is another house or trailer must have a water meter for each unit or tenant.
+(1)
+Each applicant (customer or consumer) for which there is a meter installed must request that the water be turned on and pay the service deposit. Upon leaving such premises, the consumer shall advise the city to cut off the water.
+(2)
+The owner of any commercial building, trailer park, apartment houses, duplexes, rental houses, or property, on which there is a house or trailer and another house or trailer, shall install a water meter for each and every tenant occupying the premises or using city water.
+(3)
+In the event the owner fails to have the meters installed for each tenant or user of city water, the owner shall be liable for the entire water bill for water furnished to the premises, and the city shall accept no partial payments of any water bill from any tenant or owner.
+(c)
+Any deposit of a customer held by the city may be used to pay all accrued charges owed by the customer to the city for any service provided by the city to said customer/consumer (with the customer having to restore the deposit back to the full amount required before continuing to receive service). Upon payment of all charges owed by the consumer/customer to the city, including any water or sewer charges, garbage charges, ad valorem taxes, occupational license fees, and any and all other charges and assessments owned by the consumer/customer to the city, then upon termination of service, and upon the return by the customer/consumer of any property that is owned by the city, the city shall return the deposit to the customer/consumer. (It is the intent of the city council that any deposit held by the city as to a customer may be used to pay any type of charge, assessment, tax, or fee owed by the customer to the city.) Should the customer/consumer not pay any charge or assessment owed to the city, then the city may use the deposit to pay all charges and assessments owed by the consumer/customer to the city.
+(Code 1979, § 20-106; Code 2003, § 52.06; Ord. of 8-10-2004, § 2)
+Sec. 24-99. - Service line regulations and compliance with the Southern Plumbing Code.
+(a)
+No more than one building shall be permitted to use a water service line. Only galvanized pipe shall be used for the installation of a service line and all service lines shall be installed at a depth of at least 40 inches below the surface of the ground. Each service line shall contain a stop and waste cock where water may be turned on at the entrance of the water service pipe into the building.
+(b)
+In all buildings other than dwellings shut-off valves shall be installed which permit the water supply to all equipment in each separate room to be shut off without interfering with the water supply to any other room or portion of the building. A penalty of $5.00 shall be charged whenever the city must cut off the water.
+(c)
+All apartment complexes shall have a shut-off valve for each apartment.
+(Code 1979, § 20-107; Code 2003, § 52.07)
+Sec. 24-100. - Water waste prohibition.
+Consumers shall prevent unnecessary waste of water and keep all water outlets closed when not in actual use. Hydrants, urinals, water closets, bathtubs and other fixtures must not be left running for any purpose other than the use for which they were intended. When any such waste occurs, the water service may be terminated.
+(Code 1979, § 20-108; Code 2003, § 52.08)
+Sec. 24-101. - Sprinkling restrictions.
+In case of water shortage or scarcity, the mayor and council may, by resolution, place any restrictions upon the use of water for irrigation or sprinkling purposes which such body deems necessary.
+(Code 1979, § 20-109; Code 2003, § 52.09)
+Sec. 24-102. - Use during fire alarms.
+During all fire alarms, the use by persons other than municipal firefighters of hoses and other apparatuses maintaining a constant flow of water is absolutely forbidden.
+(Code 1979, § 20-110; Code 2003, § 52.10)
+Sec. 24-103. - Water rates.
+(a)
+The city council shall set water rates for all customers, including, but not limited to, business, commercial, industrial, and residential customers, inside the jurisdictional limits of the city, and also water rates for all customers, including, but not limited to, business, commercial, industrial and residential customers, located outside the jurisdictional limits of the city, by resolution passed by the city council, and as amended by resolution from time to time, in order to provide for the proper operations of the water service. The current rate schedule may be published by the city council by posting the current rate schedule upon the bulletin board of the city, and a copy of the current rate schedule shall always be available to the public at the city hall of the city. The city council on behalf of the city may, by proper resolution in a public meeting of the city council, adopt a new rate or fee schedule, and nothing appearing within this article shall require otherwise. The current water rate schedule is hereby approved and ratified by the city council.
+(b)
+Sprinkler systems and fire hydrants that are privately owned and located on privately owned property by customers, including, but not limited to, all business, commercial, industrial and residential customers, shall pay a monthly fee for the water for said apparatus in an amount as established by the mayor and council from time to time. The city council, on behalf of the city may, by proper resolution in a public meeting of the city council, adopt a new monthly fee for fire hydrants and sprinkler systems located upon private property, and nothing appearing within this article shall require otherwise. A copy for the current rate or fee schedule shall always be available to the public at the city hall. If the city council does not establish separate rates for said private fire hydrants and private sprinkler systems then said customers shall pay for the water actually used through said water apparatus at the standard water rates for said customer as set by the city council, and as provided by subsection (a) of this section.
+(Code 1979, § 20-111; Code 2003, § 52.11; Ord. of 7-12-2005(2), § 2)
+Sec. 24-104. - Water bills.
+(a)
+Water meters may be read by an official agent of the city during the last week of each month, but in such a fashion as to allow as nearly as possible for the bills to be mailed by the fifth business day of the subsequent month. The city shall make every reasonable attempt to mail bills on the first day of each succeeding month, but can mail out bills as late as the fifth business day of the succeeding month. Payment for water and sewer services (as well as other city services shown on the same bill, including, but not limited to, garbage pickup services) owed by the customer/consumer shall be paid on or before the 15th day of the month following the reading of the meter. Further, any service charges owed by a customer to the city, which are not paid by the 15th day of the month immediately following the month in which the charges were incurred, shall also be assessed an additional ten percent of the amount owed, as a late penalty.
+(b)
+Charges for services to an owner of the premises shall be a lien on the premises of the owner until such time as they are paid. The city may follow any tax sale procedure established by general law in order to foreclose upon the lien and collect said delinquent charges.
+(Code 1979, § 20-112; Code 2003, § 52.12; Ord. of 8-10-2004, § 3)
+Sec. 24-105. - Discontinuance of service and notification fee.
+(a)
+If any customer/consumer fails to pay the assessed charges by the 15th day of the month that immediately follows the month in which the charges were incurred, then the water service (and other services provided by the city) may be cut off without notice on or after the 16th day of the month (which immediately follows the month in which the charge were incurred). In no case shall any service be reinstated to the same property or consumer/customer until all delinquencies, penalties, deposits, charges, outstanding taxes, and other sums owed to the city by said customer/consumer have been paid in full.
+(b)
+In the event that city employees upon arrival at a location scheduled for discontinuance of service due to failure of the customer/consumer to pay the assessed charges in a timely manner, and the customer/consumer requests that service not be disconnected, and said customer/consumer immediately goes to city hall and pays all outstanding charges, then the city employees shall not cut off service unless the next day they verify that the customer/consumer failed to pay all of the outstanding charges. However, upon a second or subsequent occurrence, when city employees have gone to the same location to discontinue service, and the customer again requests that the service not be discontinued, then besides all of the outstanding charges owed by the customer, the customer/consumer must also pay an additional notification fee to reimburse the city for its labor charges and costs in having to send the city employees out to discontinue the utility service at said location. The notification fee must be paid along with all outstanding charges, and upon the failure of the customer/consumer to pay the notification fee as well as all outstanding charges, then the utility service at said location shall be discontinued until such time as the customer/consumer pays all delinquencies, penalties, deposits, charges, notification fees, outstanding taxes, and all other sums owed to the city by said customer/consumer. The notification fee shall be in an amount as established by the city council from time to time.
+(Code 1979, § 20-113; Code 2003, § 52.13; Ord. of 8-10-2004, § 4; Ord. No. 09-11-10-02, § 1, 11-10-2009)
+Sec. 24-106. - Charges for turning water on.
+(a)
+The actual cutting off of services and any subsequent reconnection of services (upon payment of all fees, charges, penalties, taxes, and deposits by the customer/consumer) by the city shall cause said customer to incur a total service charge. The service charge shall be in an amount as established by the city council from time to time. If the reconnecting customer does not have a current service deposit or a service deposit in the current amount established by section 24-98, with the city, then said customer must also post a deposit equal to the deposit amounts required by section 24-98, effective at the time of the customer seeking to have service reconnected (as well as pay all other fees, penalties, charges, assessments, and taxes owed) in order to have the service reconnected. All charges for services owed for the customer to the city, all cut off and reconnection fees, any required deposits, any late penalty fees, any outstanding ad valorem taxes, and any and all other fees and assessments owed by the customer to the city must be paid by the customer/consumer, prior to the customer again receiving services from the city.
+(b)
+If anyone other than an official agent of the city, including, but not limited to, the director of public works or his designee, turns the water back on to a disconnected meter, then in the discretion of the mayor, the city council, the city clerk, the deputy city clerk, the director of public works, or other proper agent of the city, the water meter may be locked or removed, or both. Reinstallation of the water meter shall only be upon the payment of all outstanding fees, charges, penalties, taxes, and assessments by the customer, and the payment of the current connection fee for water service assessed by the city. In the discretion of the director of public works, or other proper agent for the city, the city may install a new meter upon the property and assess the cost of installation of the new meter upon the customer. All charges and assessments must be paid by the customer prior to reinstatement of service and reinstallation of the meter.
+(Code 1979, § 20-114; Code 2003, § 52.14; Ord. of 8-10-2004, § 5)
+Sec. 24-107. - Additional remedy.
+As an additional remedy as to any taxpayer, customer, citizen, or user of water services being out of compliance with any provision of the water ordinances or any other ordinance, rule and regulation of the city, including, but limited to, the failure to install any required water and sewer apparatus or equipment, failure to install any required grease traps, and nonpayment of any charges, assessments, fees, and costs owed by said taxpayer, water customer, consumer, or user to the city, the city council, the city mayor, the city clerk, the city attorney or other properly designated agent for the city, may, in addition to all other remedies, notify the administrative office for the city of such noncompliance or violation of the ordinances, rules and regulations of the city, including, but not limited to, any noncompliance with said ordinances, nonpayment of any charges, fees or assessments, and request that no occupational tax license or other regulatory license issued by the city be issued to said taxpayer, citizen, water customer, consumer, or user, and also may request that water service or sewer service, or both, be withheld until such time as said person or entity is no longer out of compliance with the ordinances of the city, including, but not limited to, no longer being delinquent in the payment of all water charges, costs, assessment and fees. The city council specifically finds that, should said taxpayer, citizen, water customer, consumer or user of the city be in violation of any provision of any of the ordinances of the city, including, but not limited to, the water service ordinance, the sewer use ordinance, the occupational tax ordinance, any millage rate ordinance, and all other ordinances of the city, any properly designated agent for the city may terminate water service, or sewer service, or both, or may decline to issue to said water customer any occupational license or other regulatory license of the city, until such time as said water customer is no longer out of compliance with the ordinances, rules and regulations of the city and is no longer delinquent in the payment of any charges, fees, assessments and costs, including, but not limited to, water charges, owed to the city.
+(Ord. No. 2009-02-10, § 4, 2-10-2009)
+Secs. 24-108—24-127. - Reserved.
+ARTICLE IV. - SANITARY SEWERAGE
+
+Sec. 24-128. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Biochemical oxygen demand (BOD) means the quantity of oxygen utilized in the biochemical oxidation of organic matter under standard laboratory procedure in five days at 20 degrees Celsius, expressed in milligrams per liter (mg/L).
+Building drain means that part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste and other drainage pipes inside the walls of the building and conveys it to the building sewer, beginning five feet outside the inner face of the building wall.
+Building sewer means the extension from the building drain to the public sewer or other place of disposal.
+Combined sewer means a sewer receiving both surface runoff and sewage.
+Garbage means solid wastes from the preparation, cooking and disposing of food and from the handling, storage and sale of produce.
+Industrial wastes means the liquid wastes from industrial processes as distinct from sanitary sewage.
+Natural outlet means any outlet into a watercourse, pond, ditch, lake or other body of surface or groundwater.
+pH means the logarithm of the reciprocal of the hydrogen ion concentration in moles per liter.
+Properly shredded garbage means the wastes from the preparation, cooking and dispensing of food that has been shredded to such degree that all particles will be carried freely under the flow conditions normally prevailing in public sewers, with no particle greater than one-half inch in any dimension.
+Public sewer means a sewer in which all owners of abutting properties have equal rights and which is controlled by public authority.
+Sanitary sewer means a sewer which carries sewage and to which storm, surface and groundwaters are not intentionally admitted.
+Sewage means a combination of the water-carried wastes from residences, business buildings, institutions and industrial establishments, together with such ground, surface and stormwaters as may be present.
+Sewage treatment plant means any arrangement of devices and structures or lagoons used for treating sewage presently owned or afterward acquired by the city.
+Sewer means a pipe or conduit for carrying sewage.
+Sewerage works means all facilities for collecting, pumping, treating and disposing of sewage.
+Slug means any discharge of water, sewage or industrial waste which, in concentration of any given constituent or in quantity of flow, exceeds, for any period of duration longer than 15 minutes, more than five times the average 24-hour concentration or flows during normal operation.
+Storm sewer or storm drain means a sewer which carries storm and surface waters and drainage, but excludes sewage and polluted industrial wastes.
+Superintendent means the director of public works of the city, or his authorized deputy, agent or representative, as designated by the mayor and council.
+Suspended solids mean solids that either float on the surface of or are in suspension in water, sewage or other liquids and which are removable by laboratory filtering.
+Watercourse means a channel in which a flow of water occurs, either continuously or intermittently.
+(Code 1979, § 21-101; Code 2003, § 53.01)
+Sec. 24-129. - General regulations.
+(a)
+It shall be unlawful for any person to place, deposit or permit to be deposited in an unsanitary manner upon public or private property within this city, or in any area under the jurisdiction of the city, any human or animal excrement, garbage or other objectionable waste.
+(b)
+It shall be unlawful for any person to discharge or cause to be discharged to any natural outlet within this city, or in any area under the jurisdiction of the city, any sanitary sewage, industrial wastes or other polluted waters, except where suitable treatment has been provided in accordance with this article.
+(c)
+Except as hereinafter provided, it shall be unlawful for any person to construct or maintain or cause to be constructed or maintained any privy, privy vault, septic tank, cesspool or other facility intended or used for the disposal of sewage.
+(d)
+It shall be unlawful for any person to maliciously, willfully or negligently break, damage, destroy, uncover, deface or tamper with any structure, appurtenance or equipment which is a part of the city sewerage works.
+(Code 1979, § 21-102; Code 2003, § 53.02)
+Sec. 24-130. - Connection to public sewer.
+The owner of all houses, buildings or properties used for human occupancy, employment, recreation or other purposes within the corporate limits of this city and located within 100 feet of a line of public sanitary sewer now in existence or after constructed, to which such house, building or property may be connected so that sewage will flow therefrom and into such sewer line by gravity, is required, at his own expense, to install suitable toilet facilities therein and to connect such facilities directly with the line of pubic sanitary sewer in accordance with the provisions of this article within 60 days after date of official notice to do so.
+(Code 1979, § 21-103; Code 2003, § 53.03)
+Sec. 24-131. - Sewerage rates.
+(a)
+The city council shall set sewerage rates for all customers, including, but not limited to, business, commercial, industrial, and residential customers, inside the jurisdictional limits of the city, and also sewerage rates for all customers, including, but not limited to, business, commercial, industrial and residential customers, located outside the jurisdictional limits of the city, by resolution passed by the city council, and as amended by resolution from time to time, in order to provide for the proper operations of the sewerage service. The current rate schedule may be published by the city council by posting the current rate schedule upon the bulletin board of the city, and a copy of the current rate schedule shall always be available to the public at the city hall of the city. The city council on behalf of the city may, by proper resolution in a public meeting of the city council, adopt a new rate or fee schedule, and nothing appearing within this article shall require otherwise. The current sewerage rate schedule is hereby approved and ratified by the city council.
+(b)
+The city council, based upon evidence of a water recycling system to be installed by a water and sewer customer, by resolution, may reduce the amount of the sewerage rate paid by said customer, with the city council making the determination as to the amount of the reduced sewerage rate based upon the anticipated reduced sewerage discharge volume due to the recycling system, and with the maximum reduction to be 75 percent of the standard sewerage rate (the minimum fee for a customer with a recycling system shall be 25 percent of the standard sewerage rate for said customer). The customer shall receive the reduction on the condition that said customer sends to the city clerk, on a monthly basis, a written report stating the customer's water meter reading for the billing period, and, in the event of commercial or industrial customers, said report shall also include the number of customers for the commercial customer during the billing period, and, for an industrial customer, the amount of product produced by the industry during the billing period. The meter reader for the city shall provide to the recycling customer the meter reading for the billing period as determined by the meter reader. In the event that the recycling system is not operating for any reason, and there is no reduction of the sewerage water discharge by the recycling customer as anticipated, then the city may also assess additional sewer fees in accordance with the standard sewer rate, and reflecting the total sewerage discharge by the recycling customer as determined by the city by the best means possible. Failure of the recycling customer to pay any of the charges assessed by the city shall entitle the city to terminate service to the recycling customer.
+(Code 1979, § 21-104; Code 2003, § 53.04; Ord. of 7-12-2005(2), § 3)
+Sec. 24-132. - Private sewage disposal.
+(a)
+Where a public sanitary sewer is not available under the provisions of section 24-130, the building sewer shall be connected to a private sewage disposal system complying with the provisions of this section.
+(b)
+Before commencement of construction of a private sewage disposal system, the owner shall first obtain a written permit for such signed by the superintendent. The application for such permit shall be made on a form furnished by the city, which the applicant shall supplement by any plans, specifications and other information as are deemed necessary by the superintendent. A permit and inspection fee shall, at the time the application is filed, be paid to the city. The inspection fee for residential and commercial private sewage disposal system permits, plus an additional negotiated fee based on sewer system use for such permits to establishments producing industrial wastes, shall be in amounts as established by the city council from time to time.
+(c)
+A permit for a private sewage disposal system shall not become effective until the installation is completed to the satisfaction of the superintendent. He shall be allowed to inspect the work at any stage of construction and, in any event, the applicant for the permit shall notify the superintendent when the work is ready for final inspection and before any underground portions are covered. The inspection shall be made within 72 hours of the receipt of notice by the superintendent.
+(d)
+The type, capacities, location and layout of a private sewage disposal system shall comply with all recommendations of the state department of natural resources. No permit shall be issued for any private disposal system employing subsurface soil absorption facilities where the area of the lot is less than 15,000 square feet. No septic tank or cesspool shall be permitted to discharge to any public sewer or natural outlet.
+(e)
+At such time as a public sewer becomes available to a property served by a private sewage disposal system, as provided in section 24-130, a direct connection shall be made to the public sewer in compliance with this article, and any septic tanks, cesspools and similar private sewage disposal facilities shall be cleaned of sludge and filled with clean bank run gravel or dirt and abandoned.
+(f)
+The owner shall operate and maintain the private sewage disposal facilities in a sanitary manner at all times at no expense to the city.
+(g)
+No statement contained in this section shall be construed to interfere with any additional requirements that may be imposed by the state department of natural resources or state, city and county health officers.
+(Code 1979, § 21-105; Code 2003, § 53.05)
+Sec. 24-133. - Building sewers and connections.
+(a)
+No unauthorized person shall uncover, make any connections with or opening into, use, alter or disturb any public sewer or appurtenance thereof without first obtaining a written permit from the superintendent.
+(b)
+There shall be two classes of building sewer permits. In either case, the owner or his agent shall make application on a special form furnished by the city. The permit application shall be supplemented by any plans, specifications or other information considered pertinent in the judgment of the director of public works, or other duly authorized agent of the city. The applicant shall pay also the current inspection fees, including, but not limited to, all building inspection fees, and any negotiated fees required for industrial sewage, and which shall be paid to the city at the time the application is filed or the building permit is sought, as applicable under the current ordinances of the city. The two classes of building sewer permits are:
+(1)
+For residential and commercial service; and
+(2)
+For service to establishments producing industrial waste.
+(c)
+All cost and expense incident to the connection of the building sewer from the owner's building to the closest sewer transmission line of the city shall be borne by the owner. The owner shall indemnify the city from any loss or damage that may be directly or indirectly occasioned by the connection of the building sewer. The applicant shall pay to the city a sewer tapping fee or connection charge as designed and set by the city council of the city from time to time to cover the cost of connection to the city's sewer system. The city shall own and maintain the city's sewer transmission line, but the property owner shall own and maintain the service line from the owner's building to the city's sewer transmission line. All connections to the sewer transmission line of the city must be inspected by a designated agent of the city and approved (unless performed by the city or its employees).
+(1)
+The city council, based upon evidence of a recycling system to be installed by the applicant, may reduce the amount of the sewer connection (or tap) fee, to a sewer connection fee for a smaller line, with the city council making the determination as to the amount of the reduced sewer connection fee based upon the anticipated reduced water volume usages due to the proposed recycling system.
+(2)
+However, should applicant not install or actually use a recycling system, then applicant must pay the standard sewer connection fee as determined by the size of the water line actually installed, less a credit for the reduced sewer connection fee paid.
+(3)
+Further, should the recycling system not reduce the total water volume usage of applicant and subsequent sewage discharge as anticipated, then the city may also assess an additional sewer connection fee reflecting the total water usage of applicant and subsequent sewage discharge.
+(4)
+Failure of applicant to pay the additional or reassessed sewer connection fee shall entitle the city to terminate service to applicant.
+(d)
+A separate and independent building sewer shall be provided for every building, except where one building stands at the rear of another or on an interior lot and no private sewer is available or can be constructed to the rear building through an adjoining alley, court, yard or driveway, the building sewer from the front building may be extended to the rear building and the whole considered as one building sewer.
+(e)
+Old building sewers may be used in connection with new buildings when they are found, on examination and test by the superintendent, to meet all requirements of this article.
+(f)
+The building sewer shall be cast iron pipe; ASTM Specifications A74; vitrified clay sewer pipe, ASTM Specifications C13; or concrete sewer pipe, ASTM Specifications C14. Joints shall be tight and waterproof. Any part of the building sewer that is located within ten feet of a water service shall be constructed of cast iron soil pipe with leaded joints. Cast iron pipe with leaded joints may be required by the superintendent where the building sewer is exposed to damage by tree roots. If installed in filled or unstable ground, the building sewer shall be of cast iron soil pipe, except that non-metallic material may be accepted if laid on a suitable concrete bed or cradle, as approved by the superintendent.
+(g)
+The size and slope of the building sewer shall be subject to the approval of the superintendent, but in no event shall the diameter be less than four inches. The slope of such four-inch pipe shall not be less than one-eighth inch per foot.
+(h)
+Whenever possible, the building sewer shall be brought to the building at an elevation below the basement floor. No building sewer shall be laid parallel to or within three feet of any bearing wall, which might thereby be weakened. The building sewer shall be laid at uniform grade and in straight alignment insofar as possible. Changes in direction shall be made only with properly curved pipes and fittings.
+(i)
+In all buildings in which any building drain is too low to permit gravity to flow to the public sewer, sanitary sewage carried by such drain shall be lifted by approved artificial means and discharged to the building sewer.
+(j)
+All excavations required for the installation of a building sewer shall be open trench work, unless otherwise approved by the superintendent. Pipe laying and back fill shall be performed in accordance with ASTM Specification C12, except that no back fill shall be placed until the work has been inspected.
+(k)
+Joints and connections.
+(1)
+All joints and connections shall be made gastight and watertight.
+(2)
+Cast iron pipe joints shall be firmly placed with oakum or hemp and filled with molten lead, Federal Specification QQL-156, not less than one inch deep. Lead shall be run in one pouring and caulked tight. No paint, varnish or other coating shall be permitted on the joint material until after the joint has been tested and approved. Rubber joint cast iron pipe may be used as an alternate in some cases.
+(3)
+All joints in vitrified clay or concrete pipe or between such pipe and metals shall be made with approved hot-pouring jointing material, as specified in subsection (k)(4) of this section, or by using rubber gaskets or preformed, factory-applied couplings having resilient properties in accordance with ASTM Specification 0443-59T for concrete pipe and ASTM Specification 0425-64 for vitrified clay pipe, or the latest revisions thereof.
+(4)
+Material for hot-poured joints shall not soften sufficiently to destroy the effectiveness of the joint when subjected to a temperature of 160 degrees Fahrenheit, nor be soluble in any of the wastes carried by the drainage system. The joint shall first be caulked tight with jute, hemp or similar approved material.
+(5)
+Other jointing materials and methods may be used only by approval of the superintendent.
+(l)
+The connection of the building sewer into the public sewer shall be made at the "Y" branch, if such branch is available at a suitable location. If the public sewer is 12 inches in diameter or less, and no properly located "Y" branch is available, the city shall install a "Y" branch in the public sewer at the location specified by the superintendent. Where the public sewer is greater than 12 inches in diameter, and no properly located "Y" is available, a neat hole may be cut into the public sewer to receive the building sewer with entry in the downstream direction at an angle of 45 degrees. A 45 degree ell may be used to make such connection, with the spigot end cut so as not to extend past the inner surface of the public sewer. The invert of the building sewer at the point of connection shall be at the same or at a higher elevation than the invert of the public sewer. A smooth, neat joint shall be made, and the connection made secure and watertight by encasement in concrete. Special fittings may be used for the connection only when approved by the superintendent.
+(m)
+The applicant for the building sewer permit shall notify the superintendent when the building sewer is ready for inspection and connection to the public sewer.
+(n)
+All excavations for building sewer installations shall be adequately guarded with barricades and lights so as to protect the public from hazard. Streets, sidewalks, parkways and other public property disturbed in the course of such work shall be restored in a manner satisfactory to the city.
+(Code 1979, § 21-106; Code 2003, § 53.06; Ord. of 8-10-2004, § 6; Ord. of 10-12-2004, § 3)
+Sec. 24-134. - Regulation of discharges into public sewers.
+(a)
+No person shall discharge, or cause to be discharged, any stormwater, surface water, groundwater, roof runoff, subsurface drainage, cooling water or unpolluted industrial process waters to any sanitary sewer.
+(b)
+Stormwater and all other polluted drainage shall be discharged to such sewers as are specifically designated as storm sewers or to a natural outlet approved by the superintendent. Industrial cooling water or unpolluted process waters may be discharged, upon approval of the superintendent, to a storm sewer or natural outlet.
+(c)
+Except as hereinafter provided, no person shall discharge, or cause to be discharged, any of the following described waters or wastes to any public sewer:
+(1)
+Any liquid or vapor having a temperature higher than 150 degrees Fahrenheit or 65 degrees Celsius;
+(2)
+Any water or waste which may contain more than 100 milligrams per liter of fat, oil or grease;
+(3)
+Any gasoline, benzene, naphtha, fuel oil or other flammable explosive liquid, solid or gas;
+(4)
+Any garbage that has not been properly shredded;
+(5)
+Any ashes, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood paunch, manure or other solid or viscous substance capable of causing obstruction with to the flow in sewers or other interference with the proper operation of the sewage works;
+(6)
+Any waters or wastes having a pH lower than 5.5 or higher than 9.0 or having any other corrosive property capable of causing damage or hazard to structures, equipment and personnel of the sewage works;
+(7)
+Any waters or wastes containing a toxic or poisonous substance in sufficient quantity to injure or interfere with any sewage treatment process, constitute a hazard to humans or animals or create any hazard in the receiving waters of the sewage treatment plant. The fixed upper limits for the constituents listed below, in parts per million, shall be:
+EXPAND
+Fixed Upper Limits for Certain Substances
+Cadmium 0.005 mg/L
+Chromium 1.0 mg/L
+Copper 1.0 mg/L
+Cyanide 0.2 mg/L
+Nickel 0.10 mg/L
+Mercury 0.005 mg/L
+Chlorinated hydrocarbons 0.02 mg/L
+Silver 0.20 mg/L
+Lead 0.0 mg/L
+Zinc 3.0 mg/L
+Phenol 0.05 mg/L
+Arsenic 0.05 mg/L
+Tin 5.0 mg/L
+  (8)
+Any waters or wastes containing suspended solids of such character and quantity that unusual attention or expense is required to handle such materials at the sewage treatment plant;
+(9)
+Any noxious or malodorous gas or substance capable of creating a public nuisance.
+(d)
+Grease, oil and sand interceptors.
+(1)
+Grease, oil and sand interceptors shall be provided when, in the opinion of the superintendent, they are necessary for the proper handling of liquid wastes containing grease in excessive amounts or any flammable wastes, sand and other harmful ingredients, except that such interceptors shall not be required for private living quarters or dwelling units. All interceptors shall be of a type and capacity approved by the superintendent and shall be located as to be readily and easily accessible for cleaning and inspection.
+(2)
+Grease and oil interceptors shall be constructed of impervious materials capable of withstanding abrupt and extreme changes in temperature. They shall be of substantial construction, watertight and equipped with easily removable covers which, when bolted in place, shall be gastight and watertight.
+(e)
+When installed, all grease, oil and sand interceptors shall be maintained by the owner, at his expense, in continuously efficient operation at all times.
+(f)
+The admission into the public sewers of any water or wastes having:
+(1)
+A five-day biochemical oxygen demand greater than 300 milligrams per liter;
+(2)
+Containing more than 350 milligrams per liter of suspended solids;
+(3)
+Containing any quantity of substance having the characteristics described in subsection (c) of this section; or
+(4)
+Having an average daily flow greater than two percent of the average daily sewage flow of the city shall be subject to review and approval of the superintendent. Where necessary in the opinion of the superintendent, the owner shall provide at his expense such preliminary treatment as may be necessary to:
+a.
+Reduce the biochemical oxygen demand to 300 milligrams per liter and the suspended solids to 350 milligrams per liter;
+b.
+Reduce the objectionable characteristics or constituents to within the maximum limits provided for in subsection (c) of this section; or
+c.
+Control the quantities and rates of discharge of such water or wastes.
+Plans, specifications and any other pertinent information relating to proposed preliminary treatment facilities shall be submitted for the approval of the superintendent, and no construction of such facilities shall be commenced until the approval is obtained in writing.
+(g)
+Where preliminary treatment facilities are provided for any waters or wastes, they shall be maintained continuously in satisfactory and effective operation by the owner at his expense.
+(h)
+When required by the superintendent, the owner of any property served by a building sewer carrying industrial wastes shall install a suitable control manhole in the building sewer to facilitate observation, sampling and measurement of the wastes. The manhole, when required, shall be constructed in accordance with plans approved by the superintendent. The manhole shall be installed by the owner at his expense, and the owner at his expense shall maintain the same so the manhole shall be safe and accessible at all times.
+(i)
+All measurements, tests and analyses of the characteristics of waters and wastes to which reference is made in subsections (c) and (f) of this section shall be determined in accordance with "Standard Methods for the Examination of Water and Sewage" at the control manhole provided in subsection (h) of this section, or upon suitable samples taken at such control manhole. In the event that no special manhole has been required, the control manhole shall be considered to be the nearest downstreet manhole in the public sewer to the point at which the building sewer is connected.
+(j)
+No statement contained in this section shall be construed as preventing any special agreement or arrangement between the city and any industrial concern whereby an industrial waste of unusual strength or character may be accepted by the city for treatment, subject to payment thereof by the industrial concern.
+(Code 1979, § 21-107; Code 2003, § 53.07)
+Sec. 24-135. - Power and authority of inspectors.
+(a)
+The superintendent and other duly authorized employees of the city bearing proper credentials and identification shall be permitted to enter upon all properties for the purpose of inspection, observation, measurement, sampling and testing, in accordance with the provisions of this article.
+(b)
+While performing the necessary work on private properties referred to in section 24-132(a), the superintendent or duly authorized employees of the city shall observe all safety rules applicable to the premises established by the company.
+(Code 1979, § 21-108; Code 2003, § 53.08)
+Sec. 24-136. - Additional remedy.
+As an additional remedy as to any taxpayer, customer, citizen, or user of sewer services being out of compliance with any provision of the sewer ordinances or any other ordinance, rule and regulation of the city, including, but not limited to, the failure to install any required water or sewer apparatus or equipment, failure to install any required grease trap, and nonpayment of any charges, assessments, fees, and costs owed by said taxpayer, sewer customer, consumer, or user to the city, the city council, the city mayor, the city clerk, the city attorney or other properly designated agent for the city may, in addition to all other remedies, notify the administrative office for the city of such noncompliance or violation of the ordinances, rules and regulations of the city, including, but not limited to, any noncompliance with said ordinances or nonpayment of any charges, fees or assessments, and request that no occupational tax license or other regulatory license issued by the city be issued to said taxpayer, citizen, sewer customer, consumer, or user, and also may request that water service or sewer service, or both, be withheld until such time as said person or entity is no longer out of compliance with the ordinances of the city, including, but not limited to, no longer being delinquent in the payment of all sewer charges, costs, assessment and fees. The city council specifically finds that should said taxpayer, citizen, sewer customer, consumer or user of the city be in violation of any provision of any of the ordinances of the city, including, but not limited to, the water service ordinance, the sewer use ordinance, the occupational tax ordinance, any millage rate ordinance, and all other ordinances of the city, that any properly designated agent for the city may terminate water service, or sewer service, or both, or may decline to issue to said sewer customer any occupational license or other regulatory license of the city until such time as said sewer customer is no longer out of compliance with the ordinances, rules and regulations of the city and is no longer delinquent in the payment of any charges, fees, assessments and costs, including, but not limited to, sewer charges, owed to the city.
+(Ord. No. 2009-02-10, § 5, 2-10-2009)
+Sec. 24-137. - Penalty.
+Any person who shall violate the provisions of section 24-129(d), or shall continue any violation hereof beyond the time limit provided for in section 24-130, or shall continue any other violation hereof beyond the time limit provided for above, shall be deemed guilty of a municipal offense and, upon conviction therefore, shall be punished by a fine of not more than $200.00 or by imprisonment for not more than 30 days, or by both such fine and imprisonment. A separate offense shall be deemed committed upon each day during or on which a violation occurs or continues.
+(Code 1979, § 21-109; Code 2003, § 53.09)
+Secs. 24-138—24-157. - Reserved.
+ARTICLE V. - DROUGHT CONTINGENCY PLAN
+
+Sec. 24-158. - Drought condition indicators.
+The system for determining drought severity based on an approved indicator is as follows: The city's source of water is the Toccoa River, and the intake is located approximately 1,000 feet downstream from the Blue Ridge Dam and Reservoir. Both the river flow and reservoir level are monitored on a regular basis by the Tennessee Valley Authority (TVA), which posts the data on its website. The city will monitor the TVA website on a scheduled basis. The total supply needed for the city (6.0 mgd) is less than ten percent of the river's 7Q10 at the intake point (approximately 103 mgd). Therefore, the possibility of drought that would limit the necessary supply for the city is remote. The Blue Ridge WTP also has a raw water reservoir with a capacity of approximately 2.0 mg, which provides a small quantity of emergency storage of raw water.
+(Res. No. 2007-05-12, § 1, 6-12-2007)
+Sec. 24-159. - Potable water use priorities program.
+(a)
+The city has adopted the priority schedule recommended by the state, as follows:
+(1)
+Emergency facilities for essential life support measures.
+(2)
+Domestic and personal uses, including drinking, cooking, washing, sanitary, and health-related uses.
+(3)
+Farm uses.
+(4)
+Industrial uses.
+(5)
+Other uses, such as lawn sprinkling, noncommercial car washing, garden watering, etc.
+(6)
+Outdoor recreational uses.
+(b)
+Conditions or events that put priority use system into effect include the following:
+(1)
+The state issues an order to do so.
+(2)
+The Toccoa River level drops below the critical level determined to be an indicator of a drought condition.
+(3)
+The Blue Ridge Reservoir level drops below the critical level determined to be an indicator of a drought condition.
+(c)
+Adopted priority use system for service during periods of water shortages.
+(1)
+The city has adopted the priority schedule recommended by the state described in subsection (a) of this section.
+(2)
+The city has adopted the Outdoor Water Use Rules of GA EPD, Chapter 391-3-30, which are hereby incorporated by reference.
+(3)
+The city has published a drought contingency plan that outlines its response to a water shortage due to drought conditions.
+(d)
+Restrictions on lower priority uses (including enforcement procedures).
+(1)
+Subsection (c) of this section states that the city has adopted and published its drought contingency plan.
+(2)
+The city will use enforcement actions that are allowed by state law and are appropriate for the violation of its drought contingency plan.
+(e)
+Rationing and/or other emergency procedures. The city would initiate a response similar to that in any other emergency that impacted the city's ability to deliver an adequate, safe supply of water.
+(Res. No. 2007-05-12, § 2, 6-12-2007)
+Sec. 24-160. - Low flow protection.
+(a)
+Withdrawal by the city for its water treatment will not deplete the instream, minimum flow established for its source water, the Toccoa River.
+(b)
+The minimum flow for the Toccoa River has been determined by TVA to be its 7Q10 flow, which is 103 mgd.
+(c)
+Low flow monitoring by the city will include:
+(1)
+Monitoring by the minimum flow of the Toccoa River as measured and reported by TVA on its website.
+(2)
+Monitoring the minimum level of the Blue Ridge Reservoir as measured and reported by TVA on its website.
+(Res. No. 2007-05-12, § 3, 6-12-2007)
+Sec. 24-161. - Water shortage to ensure availability of raw water during critical drought period.
+The city's maximum withdrawal from the Toccoa River is proposed to be 6.0 mgd, whereas the minimum flow (7Q10 flow) in the Toccoa River at the point of withdrawal is 103 mgd, according to TVA. Therefore, this source of raw water should be very reliable during all expected drought periods. However, the city will also investigate the possibility of interconnecting with other water suppliers wherever and when possible in order to provide an additional level of protection for its drinking water customers in the event of an emergency event, including a record drought.
+(Res. No. 2007-05-12, § 4, 6-12-2007)

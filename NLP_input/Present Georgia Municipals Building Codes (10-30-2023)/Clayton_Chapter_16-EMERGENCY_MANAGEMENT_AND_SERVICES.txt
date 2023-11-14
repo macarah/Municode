@@ -1,0 +1,152 @@
+Chapter 16 - EMERGENCY MANAGEMENT AND SERVICES[1]
+Footnotes:
+--- (1) ---
+State Law reference— Municipal home rule, Ga. Const. art. IX, § II, O.C.G.A. § 36-35-1 et seq.; state Emergency Management Act of 1975, O.C.G.A. § 38-3-1 et seq.; local organizations for emergency management, O.C.G.A. § 38-3-27; authority to promulgate local rules and regulations, O.C.G.A. § 38-3-28; mutual aid, O.C.G.A. § 36-69-1 et seq.; dispatch centers to have trained communications officers on staff, O.C.G.A. § 36-60-19; mutual aid, O.C.G.A. § 36-69-1 et seq.; war on terrorism local assistance, O.C.G.A. § 36-75-1 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 16-1. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Disaster means any natural, technological, civil emergency or threat thereof that causes or has the potential to cause damage of sufficient severity and magnitude to result in a declaration of a state of emergency declared by a county, the governor or the President of the United States.
+Emergency means any natural or manmade event requiring the activation of the local emergency operations plan.
+Emergency management means the preparation for the carrying out of all emergency functions other than functions for which military forces are primarily responsible to prevent, minimize, and repair injury and damage resulting from emergencies, energy emergencies, disasters, or the imminent threat thereof, of manmade or natural origin caused by enemy attack, sabotage, acts of domestic or international terrorism, civil disturbance, fire, flood, earthquake, wind, storm, wave action, oil spill or other water contamination requiring emergency action to avert danger or damage, epidemic, air contamination, blight, drought, infestation, explosion, riot or other hostile action, radiological action, or other causes. These functions include, without limitation, firefighting services; police services; emergency medical services; rescue; engineering; warning services; communications; defense from radiological, chemical, biological, and other special weapons to include weapons of mass destruction; evacuation of persons from stricken areas; emergency welfare services; consequence management functions to include victim services; emergency transportation; plant protection; temporary restoration of public utility services; and other functions related to civilian protection, together with all other activities necessary or incidental to the preparation for and carrying out of the foregoing functions.
+Local emergency management director means the person nominated by the local governments and appointed by the state emergency management director to implement the local emergency operations plan.
+State emergency management director means the person appointed by the state governor to head the state emergency management agency.
+State of emergency means, as defined by O.C.G.A. § 38-3-3(5), a condition declared by the governor when, in his judgment, the threat or actual occurrence disaster, emergency, or energy emergency is of sufficient severity and magnitude to warrant extraordinary efforts in preventing or alleviating the damage, hardship, or suffering threatened or caused thereby. State of emergency may also be a condition declared by duly authorized city or county officials.
+(Code 1999, § 22-31; Ord. of 8-14-1990, § I; Ord. of 2-9-2009, § I)
+Sec. 16-2. - Penalties.
+Any person violating any provision of this chapter, rule, order or regulation made pursuant to this chapter shall, upon conviction thereof, be punished as a misdemeanor.
+(Code 1999, § 22-87; Ord. of 8-14-1990, § VI; Ord. of 2-9-2009, § VI)
+Sec. 16-3. - NIMS adopted.
+The city has adopted the National Incident Management System (NIMS) as established under federal law and rules and O.C.G.A. § 38-3-57 as its system of preparing for and responding to disaster incidents and directs all incident managers and response organizations in the city train and exercise and use these systems in their response operations.
+(Res. of 12-13-2005)
+Secs. 16-4—16-24. - Reserved.
+ARTICLE II. - EMERGENCY MANAGEMENT AGENCY
+
+Sec. 16-25. - Joint county-city agency created; director.
+(a)
+In agreement with the governing officials of the cities within the county, there has been established and the city participates in the Rabun County Emergency Management Agency.
+(b)
+The chairperson of the county commissioners, with the concurrence of officials of the cities within the county, shall nominate, for appointment by the state emergency management director, a director of the Rabun County Emergency Management Agency. Upon appointment, the local emergency management agency director shall have direct responsibility for the organization, administration, and operations of the local organization for emergency management, subject to the direction and control of the executive officer or governing body and shall serve at the pleasure of such executive officer or governing body.
+(c)
+When appointed, the local emergency management director is charged with the following duties:
+(1)
+Represent the governing officials of the county on matters pertaining to emergency management.
+(2)
+Assist local officials in organizing county departments for emergency operations.
+(3)
+Develop, in conjunction with county and city departments, an emergency operations plan for emergency functions. Such plan will be in consonance with the state emergency operations plan and shall be submitted to the governing officials of the county and the cities within the county for approval, and thence to the state emergency management agency for approval.
+(4)
+Maintain the emergency management agency and carry out the day-to-day administration of the county emergency management program, including the submission of required reports, to the state emergency management agency.
+(5)
+Submit reports as required by governmental officials in keeping with good management practices (e.g., financial, daily activities, etc.).
+(6)
+Obtain, with the authority of governing officials, a facility to be used as the county emergency operations center.
+(7)
+Coordinate the activities of the county emergency operating staff during periods of emergency, and under the supervision of county governing officials.
+(Ord. of 2-9-2009, § II)
+State Law reference— Local organizations for emergency management, O.C.G.A. § 38-3-27; authority to promulgate local rules and regulations, O.C.G.A. § 38-3-28.
+Sec. 16-26. - Emergency support functions.
+(a)
+The county emergency management agency shall be established around existing county and city departments. The emergency support functions (ESFs) and department and agency assignments are as follows:
+EXPAND
+Department or Agency Function
+Transportation (P) County road department
+(S) City public works
+Communications (P) County 911/dispatch
+(S) City police department
+Public works and engineering (P) County road department
+(S) City public works
+Firefighting (P) County fire department
+(S) City fire department
+Emergency management (P) County emergency management agency
+(S) County/city governments
+Mass care, housing and human services (P) County DFACS
+(S) Red Cross chapter
+Resource support (P) County emergency management
+(S) County/city government
+Public health and medical services (P) County public health
+(S) Local hospitals
+Search and rescue (P) County fire/rescue
+(S) City fire/rescue
+Hazardous materials (P) County fire department
+(S) City fire department
+Agriculture and natural resources (P) County extension agent
+(S) County emergency management agency
+Energy (P) County emergency management agency
+(S) Local utilities
+Public safety and security services (P) County sheriff
+(S) City police department
+Long-term recovery and mitigation (P) County emergency management agency
+(S) County government
+External affairs (P) County government (PIO)
+(S) City government (PIO)
+  (b)
+The department and agency assignment listed in the table in this section are examples only. It is the responsibility of local governments to make assignments based upon local capabilities.
+(c)
+Heads of departments listed above are responsible for developing appropriate annexes and standard operating procedures (SOPs) to the emergency operations plan (EOP) for their assigned emergency functions. Such annexes or SOPs will be submitted to the emergency management director for inclusion in the local EOP for submission to appropriate local officials for approval.
+(Code 1999, § 22-84; Ord. of 8-14-1990, § III; Ord. of 2-9-2009, § III)
+State Law reference— Qualifications of emergency management personnel, oath, O.C.G.A. § 38-3-34.
+Sec. 16-27. - Powers during an emergency or disaster.
+In the event of a manmade or natural disaster or any other emergency which may effect the lives and property of the citizens of the county, the chairperson of the board of county commissioners separately, or jointly with the mayors of participating cities, or, in their absence, their legally appointed successors may determine that an emergency or disaster exists and thereafter shall have and may exercise for such periods as such emergency or disaster continues, the following powers:
+(1)
+To appropriate and expend funds, execute contracts, and to obtain and distribute equipment, materials, and supplies for emergency management purposes;
+(2)
+To provide for the health and safety of persons and property, including emergency assistance to the victims of any emergency or disaster resulting from manmade or natural causes or enemy attack and to direct and coordinate the development of emergency management plans and programs in accordance with the policies and plans set by the federal and state emergency management agencies;
+(3)
+To appoint, employ, remove, or provide, with or without compensation, chiefs of services, warning personnel, rescue teams, auxiliary fire and police personnel, and other emergency management workers;
+(4)
+To establish a primary and one or more secondary control centers to serve as command posts during an emergency or disaster;
+(5)
+Subject to the order of the state governor or the chief executive of the political subdivision, to assign and make available for duty the employees, property, or equipment of the subdivision relating to firefighting, engineering, rescue, health, medical and related services, and to police, transportation, construction, and similar items or services for emergency management purposes, within or outside of the physical limits of the subdivision;
+(6)
+In addition to the heretofore stated powers and authorities, to acquire, temporarily or permanently, by purchase, lease, or otherwise, sites required for installation of temporary housing units for disaster victims; and to enter into whatever arrangements, including purchase, of temporary housing units and payment of transportation charges, which are necessary to prepare or equip such sites to utilize the housing units.
+(Code 1999, §§ 22-83, 22-57, 22-85; Ord. of 8-14-1990, §§ II, IV; Ord. of 2-9-2009, § IV)
+State Law reference— Powers of local governments regarding emergencies, O.C.G.A. § 38-3-27.
+Sec. 16-28. - Volunteers.
+All persons, other than officers and employees of the city, performing emergency functions pursuant to this article, shall serve with or without compensation. While engaged in such emergency functions, duly assigned volunteers shall have the same immunities as city officers and employees. Immunity does not apply in cases of willful misconduct, gross negligence or bad faith.
+(Code 1999, § 22-86; Ord. of 8-14-1990, § V; Ord. of 2-9-2009, § V)
+State Law reference— Immunity of emergency management personnel, O.C.G.A. § 38-3-35; rights, privileges, and immunities of emergency aid workers, O.C.G.A. § 38-3-30.
+Secs. 16-29—16-59. - Reserved.
+ARTICLE III. - ALARM SYSTEM MANAGEMENT
+
+Sec. 16-60. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them, except where the context clearly indicates a different meaning:
+Alarm administrator means a person designated by the city to administer, control and review false alarm reduction efforts and administer the provisions of this article.
+Alarm company means a person or business entity subject to the licensing requirements or engaged in selling, leasing, installing, servicing or monitoring alarm systems.
+Alarm signal means a detectable signal, audible or visual, generated by an alarm system, to which law enforcement is requested to respond.
+Alarm system means any single device or assembly of equipment designed to signal the occurrence of an illegal or unauthorized entry or other activity requiring immediate attention and to which law enforcement is requested to respond, but does not include motor vehicle or boat alarms, fire alarms, domestic violence alarms, or alarms designed to elicit a medical response.
+Alarm user means any person leasing or operating an alarm system or on whose premises an alarm system is maintained for the protection of such premises.
+Automatic dial protection device means an automatic dialing device or an automatic telephone dialing alarm system and shall include any system which, upon being activated, automatically initiates to the police department a recorded message or code signal indicating a need for law enforcement response.
+Cancellation means the process where response is terminated when the alarm company designated by the alarm user notifies the police department that there is not an existing situation at the alarm site requiring police response after an alarm dispatch request. If cancellation occurs prior to police arriving at the scene, this is not a false alarm for the purpose of civil penalty, and no penalty will be assessed.
+False alarm means the activation of an alarm system through mechanical or electronic failure, malfunction, improper installation, or the negligence of the alarm user, his employees or agents, and signals activated to summon law enforcement personnel unless law enforcement response was cancelled by the alarm user or his agent before law enforcement personnel arrive at the alarm location. Notwithstanding the foregoing, a false alarm shall not include an alarm that can reasonably be determined to have been caused or activated by unusually violent conditions of nature, nor does it include other extraordinary circumstances not reasonably subject to control by the alarm user.
+Local alarm means an alarm system that emits a signal at an alarm site that is audible or visible from the exterior of a structure and is not monitored by a remote monitoring facility, whether installed by an alarm company or user.
+Runaway alarm means an alarm system that produces repeated alarm signals that do not appear to be caused by separate human action. The police department may in its discretion discontinue police responses to alarm signals from what appears to be a runaway alarm.
+Verify means an attempt by the monitoring company or its representative to contact the alarm site or alarm user by telephone or other electronic means, regardless of whether actual contact with a person is made, to attempt to determine whether an alarm signal is valid before requesting law enforcement dispatch, in an attempt to avoid an unnecessary alarm dispatch request.
+Sec. 16-61. - Duties of the alarm user.
+(a)
+An alarm user shall maintain the premises and the alarm system in a method that will reduce or eliminate false alarms.
+(b)
+An alarm user must respond or cause a representative to respond to the alarm system's location within 20 minutes when notified by the police department to deactivate a malfunctioning alarm system.
+(c)
+An alarm user shall not manually activate an alarm for any reason other than an occurrence of an event that the alarm system was intended to report or to perform routine maintenance as prescribed by an alarm system provider.
+(d)
+To attempt to ensure that an alarm signal is valid before requesting law enforcement dispatch, telephone verification shall require, at a minimum, that a second call be made to a different number if the first attempt fails to reach an alarm user who can properly identify himself.
+Sec. 16-62. - Prohibited acts.
+(a)
+It is unlawful to activate an alarm system for the purpose of summoning law enforcement when no burglary, robbery, or other crime dangerous to life or property is being committed or attempted on the premises or when no medical emergency is occurring on the premises, or otherwise to cause a false alarm.
+(b)
+It is unlawful to install, maintain, or use an audible alarm system which can sound continually for more than ten minutes.
+(c)
+Three or more false alarms within any rolling 12-month period is deemed excessive, constitutes a public nuisance and is unlawful.
+Sec. 16-63. - Civil penalties for violations.
+A violation of any of the provisions of this article shall be a civil violation and shall not constitute a misdemeanor or infraction. Civil penalties for false alarms shall be established by resolution of the city council to be kept on file by the city clerk. Violations will be enforced through the assessment of a civil penalty in an amount established by resolution of the city council, to be kept on file by the city clerk. Civil penalties shall be paid within 30 days from the date of the invoice.
+Sec. 16-64. - Appeals.
+(a)
+Procedure. Assessments of civil penalties and other enforcement decisions made under this article may be appealed by filing a written notice of appeal with the alarm administrator within ten days after the date of notification of the assessment of the civil penalty or other enforcement decision. The failure to give notice of appeal within this time period shall constitute a waiver of the right to contest the assessment of the civil penalties or other enforcement decision. Appeals shall be heard through an administrative process established by the city. The hearing officer's decision is subject to review in the manner provided by state law.
+(b)
+Standard. The hearing officer shall review an appeal from the assessment of civil penalties or other enforcement decisions using a preponderance of the evidence standard. Notwithstanding a determination that the preponderance of the evidence supports the assessment of civil penalties or other enforcement decision, the hearing officer shall have the discretion to dismiss or reduce civil penalties or reverse any other enforcement decision where warranted.
+Sec. 16-65. - Confidentiality.
+In the interest of public safety, all information contained in and gathered through the alarm registration applications, no response records, applications for appeals and any other alarm records shall be held in confidence by all employees or representatives of the city.
+Sec. 16-66. - Government immunity.
+The provisions of this article are not intended to, nor will they, create a contract, duty or obligation, either expressed or implied, of response. Any and all liability and consequential damage resulting from the failure to respond to a notification is hereby disclaimed and governmental immunity as provided by law is retained. The alarm user acknowledges that the police department response may be influenced by factors such as the availability of police units, priority of calls, weather conditions, traffic conditions, emergency conditions, staffing levels and prior response history.

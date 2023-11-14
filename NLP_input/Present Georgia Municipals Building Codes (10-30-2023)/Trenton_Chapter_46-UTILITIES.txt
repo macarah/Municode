@@ -1,0 +1,407 @@
+Chapter 46 - UTILITIES[1]
+Footnotes:
+--- (1) ---
+Charter reference— Authority as to municipal utilities, §§ 1.13(9), 6.15; authority as to public utilities franchises, § 1.13(10); authority to fix and collect sewer fees, § 1.13(23).
+Cross reference— Discontinuance of service until compliance with building, etc., codes, § 18-4.
+State Law reference— Theft of services, O.C.G.A. § 16-8-5 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Secs. 46-1—46-19. - Reserved.
+ARTICLE II. - CITY SEWERS[2]
+Footnotes:
+--- (2) ---
+State Law reference— Authority to acquire, etc., sewers, O.C.G.A. § 36-34-5.
+
+DIVISION 1. - GENERALLY
+
+Sec. 46-20. - Definitions.
+Unless the context specifically indicates otherwise, the meanings of terms used in this article shall be as follows:
+Biochemical oxygen demand (BOD) means the quantity of oxygen utilized in the biochemical oxidation of organic matter under EPA approved laboratory procedure in five days at 20 degrees Celsius, expressed in milligrams per liter.
+Building drain means that part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste, and other drainage pipes inside the walls of buildings and conveys it to the building sewer, beginning five feet outside the inner face of the building wall.
+Building sewer means the extension from the building drain to the public sewer or other place of disposal, also called house connection or service connection.
+Combined sewer means a sewer receiving both surface runoff and sewage.
+Customer means every person who is responsible for contracting (expressly or implicitly) with the city in obtaining, having, or using sewer connections with, or sewer tap to, the sewer system of the city and in obtaining, having, or using water and other related services furnished by the city for the purpose of disposing of wastewater and sewage through such system. Such terms shall include the occupants of each unit of a multiple-family dwelling unit building as a separate and distinct customer.
+Easement means an acquired legal right for the specific use of land owned by others.
+Floatable oil means oil, fat, or grease in a physical state such that it will separate by gravity from wastewater by treatment in an approved pretreatment facility. A wastewater shall be considered free of floatable oil if it is properly pretreated and the wastewater does not interfere with the collection system.
+Flush toilet means the common sanitary flush commode in general use for the disposal of human excrement.
+Garbage means the animal and vegetable waste resulting from the handling, preparation, cooking, and serving of foods.
+Health officer means the director of the county board of health or other person designated by the director and the duly appointed assistants thereof.
+Industrial wastes means the wastewater from industrial processes as distinct from domestic or sanitary wastes.
+Infiltration/inflow means groundwater and surface water which leaks into the sewers through cracked pipes, joints, manholes, or other openings.
+Natural outlet means any outlet, including storm sewers and combined sewer overflows, into a watercourse, pond, ditch, lake, or other body of surface water or groundwater.
+Normal wastewater means wastewater discharged into the sanitary sewers in which the average concentration of total suspended solids is not more than 350 milligrams per liter (mg/l), BOD 5 is not more than 300 mg/l, total phosphorus is not more than 15 mg/l, total Kjeldahl nitrogen is not more than 20 mg/l, and the total flow is not more than 25,000 gallons per day.
+pH means the logarithm of the reciprocal of the hydrogen ion concentration.
+Pit privy means a shored, vertical pit in the earth completely covered with a flytight slab on which is securely located a flytight riser covered with hinged flytight seat and lid.
+Properly shredded garbage means the wastes from the preparation, cooking, and dispensing of food that have been shredded to such a degree that all particles will be carried freely under the flow conditions normally prevailing in public sewers, with no particle greater than one-half inch in any dimension.
+Public sewer means a common sewer controlled by a governmental agency or public utility.
+Sanitary sewer means a sewer that carries liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions together with minor quantities of groundwater, stormwater, and surface water that is not intentionally admitted.
+Septic tank means a subsurface impervious tank designed to temporarily retain sewage or similar waterborne wastes together with:
+(1)
+A sewer line constructed with solid pipe, with the joints sealed, connecting the impervious tank with a plumbing stub out; and
+(2)
+A subsurface system of trenches, piping, and other materials constructed to drain the clarified discharge from the tank and distribute it underground to be absorbed or filtered.
+Sewage means the spent water of a community. The equivalent term is "wastewater."
+Sewage works (sewerage) means all facilities for the collecting, pumping, treating, and disposing of sewage.
+Sewer means a pipe or conduit that carries wastewater.
+Slug means any discharge of water or wastewater which in concentration of any given constituent or in quantity of flow exceeds for any period of duration longer than 15 minutes more than five times the average 24-hour concentration of flows during normal operation and shall adversely affect the collection system and/or performance of the wastewater facilities.
+Storm drain, sometimes termed "storm sewer," means a drain or sewer for conveying water, groundwater, subsurface water, or unpolluted water from any source and excluding sewage and industrial wastes other than unpolluted cooling water.
+Superintendent means the utilities commissioner or the commissioner's authorized deputy, agent or representative.
+Suspended solids means total suspended matter that either floats on the surface of, or is in suspension in, water, wastewater, or other liquids, and that is removable by laboratory filtration as approved by EPA and referred to as nonfilterable residue.
+Unpolluted water means water of a quality equal to or better than the effluent criteria in effect or water that would not cause a violation of receiving water quality standards and would not be benefited by discharge to the sanitary sewers and wastewater treatment facilities provided.
+Wastewater means the spent water of a community. From the standpoint of source, it may be a combination of the liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions together with any groundwater, surface water, and stormwater that may be present.
+Wastewater facilities means the structures, equipment, and processes required to collect, carry away, and treat domestic and industrial wastes and dispose of the effluent.
+Watercourse means a natural or artificial channel for the passage of water either continuously or intermittently.
+(Ord. of 7-9-84, §§ 2.1—2.35)
+Sec. 46-21. - Conflict of laws.
+In the event a wastewater discharge is made to a publicly owned treatment works (POTW) under the jurisdiction of an approved sewer use ordinance for another governing authority, the more restrictive requirement shall prevail.
+(Ord. of 7-9-84, § 13.3)
+Sec. 46-22. - Compliance with other laws.
+The provisions of this article shall not be deemed as alleviating compliance with applicable state and federal regulations. Specific user charge and industrial cost recovery requirements, promulgated pursuant to public law 92-500, shall be considered as a part of this article. All nonresidential users will be required to comply with pretreatment standards as outlined in 40 CFR 403.
+(Ord. of 7-9-84, § 9.1)
+Sec. 46-23. - Right-of-entry of enforcement personnel; work on premises entered.
+(a)
+Duly authorized employees or agents of the city bearing proper credentials and identification shall be permitted to enter all properties for the purposes of inspection, observation, measurement, sampling, and testing pertinent to discharge to the public sewerage system in accordance with the provisions of this article.
+(b)
+While performing the necessary work on private properties referred to herein, the authorized employees or agents of the city shall observe all safety rules applicable to the premises established by the company, and the company shall be held harmless for injury or death to the employees, and the city shall indemnify the company against loss or damage to its property by such employees or agents and against liability claims and demands for personal injury or property damage asserted against the company, except as such may be caused by negligence or failure of the company to maintain safe conditions as required by this article.
+(c)
+Duly authorized employees or agents of the city bearing proper credentials and identification shall be permitted to enter all private properties through which the city holds an easement for the purposes of, but not limited to, inspection, observation, measurement, sampling, repair, and maintenance of any portion of the wastewater facilities lying within such easement. All entry and subsequent work, if any, on such easement, shall be done in full accordance with the terms of the duly negotiated easement pertaining to the private property involved.
+(Ord. of 7-9-84, §§ 8.1—8.3)
+Sec. 46-24. - Damage to property.
+No person shall maliciously, wilfully, or negligently break, damage, destroy, uncover, deface, or tamper with any structure, appurtenance, or equipment which is a part of the wastewater facilities. Any person violating this provision shall be subject to immediate arrest under the charge of disorderly conduct.
+(Ord. of 7-9-84, § 7.1)
+State Law reference— Criminal damage to property, O.C.G.A. § 16-7-22 et seq.
+Sec. 46-25. - Service charges.
+It is hereby determined necessary to fix and collect sewer service charges from customers. Such charges shall be published separate from this article and the revenue received shall be used for operation, maintenance, debt retirement, and other authorized expenses.
+(Ord. of 7-9-84, § 11.1)
+Charter reference— Authority to fix and collect sewer fees, § 1.13(23).
+Sec. 46-26. - Flush toilet requirements.
+Every flush toilet shall be connected to a public sewer where available or to a septic tank. Flush toilets shall be provided at all times with sufficient running water under pressure to flush the toilet clean after each use.
+(Ord. of 7-9-84, § 4.9)
+Secs. 46-27—46-29. - Reserved.
+DIVISION 2. - REQUIRED USE OF PUBLIC SEWERS
+
+Sec. 46-30. - Toilets required.
+(a)
+All premises shall be provided, by the owner thereof, with at least one toilet. All toilets shall be kept clean and in a sanitary working condition.
+(b)
+No person shall dispose of human excrement except in a toilet.
+(Ord. of 7-9-84, §§ 3.1, 3.2)
+Sec. 46-31. - Prohibited discharges to natural outlet.
+It shall be unlawful to discharge to any natural outlet within the city, or in any area under the jurisdiction of the city, any wastewater or other polluted waters, including septic tank effluent or cesspool overflow to any open drain or well-penetrating, water-bearing formation, except where suitable treatment has been provided in accordance with provisions of this article.
+(Ord. of 7-9-84, § 3.3)
+Sec. 46-32. - Noncomplying facilities prohibited.
+Except as hereinafter provided, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool, or other facility intended or used for the disposal of wastewater.
+(Ord. of 7-9-84, § 3.4)
+Sec. 46-33. - Required connection to sanitary sewer—Buildings.
+The owners of all houses, buildings, or properties used for human occupancy, employment, recreation, or other purposes situated within the city jurisdiction and abutting on any street, alley, or right-of-way, in which there is now located or may in the future be located a public sanitary sewer of the city, are hereby required at the owner's expense to install suitable toilet facilities therein, and to connect such facilities directly with the proper public sewer in accordance with the provisions of this article, within 30 days after date of official notice to do so, provided that the public sewer is within 100 feet of the property line.
+(Ord. of 7-9-84, § 3.5)
+Sec. 46-34. - Same—Facilities within buildings.
+All sinks, dishwashing machines, lavatories, basins, shower baths, bathtubs, laundry tubs, washing machines, and similar plumbing fixtures or appliances shall be connected to the public sewer; provided, that where no sewer is available, septic tanks or other private subsurface disposal facilities approved by the health officer may be used.
+(Ord. of 7-9-84, § 3.6)
+Sec. 46-35. - Prohibited connection where private water system exists.
+Premises with private water systems shall not be connected with the public sewerage system.
+(Ord. of 7-9-84, § 4.13)
+Secs. 46-36—46-39. - Reserved.
+DIVISION 3. - PRIVATE WASTEWATER DISPOSAL
+
+Sec. 46-40. - When prohibited.
+No septic tank or other subsurface disposal facility shall be installed where a public sewer is accessible to the premises involved, nor in any place where the health officer deems the use of a septic tank or other subsurface disposal facility to be a menace to human health or well being.
+(Ord. of 7-9-84, §§ 4.5, 4.8)
+Sec. 46-41. - Authorized connection.
+Where a public sanitary sewer is not available under the provisions of section 46-33, the building sewer shall be connected to a private wastewater disposal system complying with the provisions of the city and of the state department of human resources.
+(Ord. of 7-9-84, § 4.1)
+Sec. 46-42. - Construction and maintenance of septic tank—Approval; sanitation.
+Septic tanks shall be constructed, repaired, altered, enlarged and maintained in accordance with plans and specifications approved by the health officer. Septic tanks shall be maintained in sanitary working order.
+(Ord. of 7-9-84, § 4.2)
+Sec. 46-43. - Same—Permit; inspection.
+No person shall construct, repair, alter, or enlarge any septic tank unless such person shall hold a valid permit for such work issued by the health officer. The health officer may withhold the issuance of such a permit pending the inspection and approval by the health officer of the site and location of the proposed work. Before any septic tank or any part thereof may be covered after it has been constructed, repaired, altered, or enlarged, it shall be inspected and approved by the health officer.
+(Ord. of 7-9-84, § 4.3)
+Sec. 46-44. - Type, capacity, etc., of system; required lot area; prohibited discharge.
+(a)
+The type, capacities, location, and layout of a private wastewater disposal system shall comply with all recommendations of the department of human resources of the state.
+(b)
+No permit shall be issued for any private wastewater disposal system employing subsurface soil absorption facilities where the area of the lot is less than 20,000 square feet.
+(c)
+No septic tank or cesspool shall be permitted to discharge to any natural outlet.
+(Ord. of 7-9-84, § 4.4)
+Sec. 46-45. - Pit privies.
+No pit privy shall be installed in the following locations:
+(1)
+Where a public sewer is accessible to the premises involved;
+(2)
+In areas where the health officer deems the use of pit privies to constitute a nuisance or menace to the public health;
+(3)
+Where a pit privy may pollute any water supply; or
+(4)
+Where the use of pit privies is not in keeping with the standard of sanitation in adjacent areas.
+(Ord. of 7-9-84, § 4.10)
+Sec. 46-46. - Discharge of septic tanks in sewer system.
+(a)
+Restricted. It shall be unlawful to empty, dump, throw or otherwise discharge, into any manhole, catchbasin or other opening, into the city sewer system, or any system connected with and discharging into the sewer system, the contents of any septic tank, sludge, sewage, or other similar matter or material, except as provided in subsection (b) of this section.
+(b)
+Permits. The superintendent is hereby authorized to grant permits to discharge the contents of septic tanks at locations specified by the superintendent and under the superintendent's supervision. Such permits may be revoked at any time if, in the opinion of the superintendent, continued dumping of such matter into the sewers will be injurious to the sewer system or treatment processes.
+(c)
+Charges. A charge shall be made for the privilege of dumping the contents of septic tanks, as provided in separate rules. A record shall be kept of such dumpings and statements rendered at the first of each month, the amount of such statements shall be payable within ten days after rendition. Failure to pay the amounts due within such ten-day period shall be cause for revoking the permit.
+(Ord. of 7-9-84, § 4.11)
+Sec. 46-47. - Maintenance of system.
+The owners shall operate and maintain the private wastewater disposal facilities in a sanitary manner at all times, at no expense to the city.
+(Ord. of 7-9-84, § 4.7)
+Sec. 46-48. - Correction of defects.
+Any premises that has a septic tank, privy, or any other sewage, industrial waste, or liquid waste disposal system, located thereon that does not function in a sanitary manner shall be corrected within 30 days from the receipt of written notification from the health officer that such system is not functioning in a sanitary manner, and order that such system be corrected.
+(Ord. of 7-9-84, § 4.12)
+Sec. 46-49. - Discontinuance of use when public system available.
+At such time as a public sewer becomes available to a property served by a private wastewater disposal system, a direct connection shall be made to the public sewer within 30 days after notice. Any septic tanks, cesspools, and similar private wastewater disposal facilities shall then be cleaned of sludge and filled with suitable material.
+(Ord. of 7-9-84, § 4.6)
+Sec. 46-50. - Additional requirements.
+No statement contained in this division shall be construed to interfere with any additional requirements that may be imposed by the health officer.
+(Ord. of 7-9-84, § 4.14)
+Secs. 46-51—46-59. - Reserved.
+DIVISION 4. - BUILDING SEWERS AND CONNECTIONS
+
+Sec. 46-60. - Work permit—Required.
+No unauthorized person shall uncover, make any connections with or opening into, use, alter, or disturb any public sewer or appurtenance thereof without first obtaining a written permit from the city.
+(Ord. of 7-9-84, § 5.1)
+Sec. 46-61. - Same—Application; fee as prescribed.
+The owner or the owner's agent shall make permit application on a special form furnished by the city. The permit application shall be supplemented by any plans, specifications, or other information considered pertinent in the judgment of the superintendent. A permit and inspection fee as specified elsewhere shall be paid at the time the application is filed.
+(Ord. of 7-9-84, § 5.2)
+Sec. 46-62. - Payment of costs and expenses; indemnification of city.
+All costs and expenses incidental to the installation and connection of the building sewer shall be borne by the owner. The owner shall indemnify the city from any loss or damage that may, directly or indirectly, be occasioned by the installation of the building sewer.
+(Ord. of 7-9-84, § 5.3)
+Sec. 46-63. - Separate and independent building sewer.
+A separate and independent building sewer shall be provided for every building; except where one building stands at the rear of another on an interior lot and no private sewer is available or can be constructed to the rear building through an adjoining alley, court, yard, or driveway, the front building may be extended to the rear building and the whole considered as one building sewer, but the city does not and will not assume any obligation or responsibility for damage caused by or resulting from any such single connection aforementioned.
+(Ord. of 7-9-84, § 5.4)
+Sec. 46-64. - Old building sewers.
+Old building sewers may be used in connection with new buildings only when they are found, on examination and test by the superintendent, to meet all the requirements of this article.
+(Ord. of 7-9-84, § 5.5)
+Sec. 46-65. - Building sewer specifications, construction, etc.
+(a)
+The size, slope, alignment, materials of construction of a building sewer, and the methods to be used in construction shall all conform to the requirements of the building and plumbing code or other applicable rules and regulations of the city. In the absence of code provisions or in amplification thereof, the materials and procedures set forth in appropriate specifications of the American Society for Testing and Materials (ASTM) and Water Pollution Control Federation (WPCF) Manual of Practice No. 9 shall apply.
+(b)
+Additionally, the following materials and methods shall apply to building sewers within city supervision:
+(1)
+The building sewer shall be cast iron soil pipe, ASTM Specification A74, latest revision, or equal; ductile iron pipe, American National Standards Institute (ANSI) Specification A21.51, latest revision, or equal; or polyvinyl chloride (PVC) sewer pipe, ASTM Specification D3034, latest revision. All joints shall be tight and waterproof. Any part of the building sewer that is located within ten feet of a water service pipe shall be constructed of cast iron soil pipe or ductile iron pipe with bolted mechanical joints may be required by the superintendent where the sewer is exposed to damage by tree roots. If installed in filled or unstable ground, the building sewer shall be of cast iron soil pipe, except that plastic pipe may be acceptable if laid on a suitable concrete bed or cradle as approved by the superintendent.
+(2)
+The size and slope of the building sewer shall be subject to the approval of the superintendent, but in no event shall the diameter be less than four inches. The slope of such four-inch pipe shall not be less than one-eighth inch per foot. Furthermore, the appropriate requirements of the Occupational Health and Safety Act (OSHA) shall be followed.
+(3)
+The depth shall be sufficient to afford protection from frost, and the building sewer shall be laid at uniform grade and with straight alignment insofar as possible. Changes in direction shall be made only with properly curved pipe and fittings. Building sewers shall not be placed in the same trench with water service lines.
+(4)
+An excavation required for the installation of a building sewer shall be open trench work unless otherwise approved by the superintendent. Pipe laying and backfill shall be performed in accordance with ASTM Specification C12, latest revision, except that no backfill shall be placed until the work has been inspected and approved.
+(5)
+All joints and connections shall be made gastight and watertight.
+a.
+Push-on joints for cast iron soil pipe shall have neoprene gaskets in accordance with the requirements of ASTM C-564.
+b.
+Push-on joints for ductile iron pipe shall also have neoprene gaskets and be installed according to the manufacturer's recommendations.
+c.
+PVC pipe joint material shall be of the bell and spigot type, sealed with a rubber "O" ring gasket, having a composition and texture which is resistant to the common ingredients of sewage, industrial wastes (including oils), and groundwater, and which will endure permanently under the conditions likely to be imposed by this use. Installation of gasket shall be done in accordance with the pipe manufacturer's instructions using all the necessary materials, lubricants, and equipment recommended by the manufacturer.
+d.
+Other jointing materials may be used only when approved by the superintendent.
+(6)
+The connection of the building sewer into the public sewer shall be made at the "Y" branch, if such a branch is available at a suitable location. If the public sewer is 12 inches in diameter or less, and no properly located "Y" branch is available, the city shall, at the owner's expense, cut a neat hole into the public sewer, with entry in the downstream direction at an angle of about 45 degrees, and install a 45-degree elbow with the spigot end cut so as not to extend past the inner surface of the public sewer. The invert of the building sewer at the point of connection shall be at an elevation of at least one-tenth foot above the invert of the public sewer. A neat smooth joint shall be made, and the connection made secure and watertight by encasement in concrete. Special fittings may be used for the connection only when approved by the superintendent.
+(Ord. of 7-9-84, § 5.6)
+Sec. 46-66. - Building sewer elevation.
+Whenever possible, the building sewer shall be brought to the building at an elevation below the basement floor. No building sewer shall be laid parallel to or within three feet of any bearing wall which might thereby be weakened. In all buildings in which any building drain is too low to permit gravity flow to the public sewer, sanitary sewage carried by such building drain shall be lifted by an approved means and discharged to the building sewer.
+(Ord. of 7-9-84, § 5.7)
+Sec. 46-67. - Building sewer connection to downspouts, etc.
+No person shall make connection of roof downspouts, foundation drains, areaway drains, or other sources of surface runoff or groundwater to a building sewer or building drain which in turn is connected directly or indirectly to a public sanitary sewer unless such connection is approved for purposes of disposal of polluted surface drainage.
+(Ord. of 7-9-84, § 5.8)
+Sec. 46-68. - Notice of inspection readiness.
+The applicant for the building sewer permit shall notify the superintendent when the building sewer is ready for inspection and connection to the public sewer. The connection and testing shall be made under the supervision of the superintendent or the superintendent's representative.
+(Ord. of 7-9-84, § 5.9)
+Sec. 46-69. - Guarding excavations; restoring street surface.
+(a)
+All excavations for building sewer installation shall be adequately guarded with barricades and lights so as to protect the public from hazard.
+(b)
+Streets, sidewalks, parkways, and other public property disturbed in the course of the work shall be restored in a manner satisfactory to the city.
+(Ord. of 7-9-84, § 5.10)
+Cross reference— Regulation of excavations, § 38-20 et seq.
+Sec. 46-70. - Definition of sewer available and costs.
+The city will define the availability of sewers and any costs associated with sewer permits or construction.
+(Ord. of 7-9-84, § 5.11)
+Sec. 46-71. - Conformance of connection with requirements.
+The connection of the building sewer into the public sewer shall conform to the requirements of the building and plumbing code or other applicable rules and regulations of the city or the procedures set forth in appropriate specifications of the ASTM and the WPCF Manual of Practice No. 9. All such connections shall be made gastight and watertight and verified by proper testing. Any deviation from the prescribed procedures and materials must be approved by the superintendent before installation.
+(Ord. of 7-9-84, § 5.12)
+Sec. 46-72. - Remedial action in event of infiltration or inflow.
+If any house sewer permits the entrance of infiltration or inflow, the city may:
+(1)
+Require the owner to repair the house sewer.
+(2)
+Charge the owner a sewer rate that reflects the costs of the additional expense of sewage treatment from the owner's property.
+(3)
+Require the owner to disconnect such person's sewer from the city sewer system.
+(Ord. of 7-9-84, § 5.13)
+Secs. 46-73—46-79. - Reserved.
+DIVISION 5. - RESTRICTED USE OF PUBLIC SEWERS
+
+Sec. 46-80. - Discharge of unpolluted water to sanitary sewer.
+No person shall discharge or cause to be discharged any unpolluted waters such as stormwater, groundwater, roof runoff, subsurface drainage, cooling water, or unpolluted industrial process waters to any sanitary sewer.
+(Ord. of 7-9-84, § 6.1)
+Sec. 46-81. - Discharge of sanitary wastewater to storm sewer.
+No person shall discharge or cause to be discharged any sanitary wastewater into a storm sewer system.
+(Ord. of 7-9-84, § 6.2)
+Sec. 46-82. - Absolutely prohibited discharges.
+No person shall discharge or cause to be discharged any of the following described water or wastes to any public sewers:
+(1)
+Any gasoline, benzene, naphtha, fuel oil, or other flammable or explosive liquid, solid, or gas.
+(2)
+Any waters containing toxic or poisonous solids, liquids, or gases in sufficient quantity, either singly or by interaction with other wastes, to injure or interfere with any waste treatment process, constitute a hazard to humans or animals, create a public nuisance, or create any hazard in the receiving waters of the wastewater treatment plant.
+(3)
+Any waters or wastes having a pH lower than 5.5 or greater than 9.0, or having any other corrosive property capable of causing damage or hazard to structures, equipment, and personnel of the wastewater works.
+(4)
+Solid or viscous substances in quantities or of such size capable of causing obstruction to the flow in sewers, or other interference with the proper operation of the wastewater facilities such as, but not limited to, ashes, bones, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood, unground garbage, whole blood, paunch manure, hair and fleshings, entrails and paper dishes, cups, milk containers, etc., either whole or ground by garbage grinders.
+(Ord. of 7-9-84, § 6.3)
+Sec. 46-83. - Conditionally prohibited discharges.
+The following described substances, materials, waters, or waste shall be limited in discharges to municipal systems to concentrations or quantities which will not harm either the sewers, wastewater treatment process or equipment, will not have an adverse effect on the receiving stream, or will not otherwise endanger lives, limb, public property, or constitute a nuisance. The limitations or restrictions on materials or characteristics of waste or wastewater discharged to the sanitary sewer which shall not be violated without approval of the city are as follows:
+(1)
+Wastewater having a temperature higher than 150 degrees Fahrenheit (65 degrees Celsius) or wastewater which will elevate the temperature of the influent to the publicly owned treatment works (POTW) to 104 degrees Fahrenheit (40 degrees Celsius) or higher.
+(2)
+Wastewater containing more than 25 milligrams per liter of petroleum oil, nonbiodegradable cutting oils, or product of mineral oil origin.
+(3)
+Wastewater containing more than 100 milligrams per liter of oils, fat, grease, or wax, whether emulsified or not, or containing substances which may solidify or become viscous at temperatures between 32 degrees Fahrenheit (zero degrees Celsius) and 150 degrees Fahrenheit (65 degrees Celsius).
+(4)
+Any garbage that has not been properly shredded. Garbage grinders may be connected to sanitary sewers from homes, hotels, institutions, restaurants, hospitals, catering establishments, or similar places where garbage originates from the preparation of food in kitchens for the purpose of consumption on the premises or when served by caterers.
+(5)
+All industrial discharges to the city sewer system must comply with the federal industrial pretreatment standards (40 CFR 403) and those industrial pretreatment standards developed by the state environmental protection division.
+(6)
+Any waters or wastes containing taste- or odor-producing substances exceeding limits which may be established by the city.
+(7)
+Any radioactive wastes or isotopes of such half-life or concentrations as may exceed limits established in compliance with applicable state or federal regulations.
+(8)
+Quantities of flow, concentrations, or both which constitute a "slug" as defined in section 46-20.
+(9)
+Waters or wastes containing substances which are not amenable to treatment or reduction by the wastewater treatment processes employed, or are amenable to treatment only to such degree that the wastewater treatment plant effluent cannot meet the requirements of other agencies having jurisdiction over discharge to the receiving waters.
+(10)
+Any water or wastes which, by interaction with other water or wastes in the public sewer system, release obnoxious gases, or solids which interfere with the collection system, or create a condition deleterious to structures and treatment processes.
+(11)
+Materials which exert or cause:
+a.
+Any unusual concentrations of inert suspended solids (such as, but not limited to, Fuller's earth, lime slurries, and lime residues) or of dissolved solids (such as, but not limited to, sodium chloride and sodium sulfate).
+b.
+Excessive discoloration (such as, but not limited to, dye wastes and vegetable tanning solutions).
+c.
+Unusual BOD (above 300 mg/l), chemical oxygen demand, or chlorine demand in such quantities as to constitute a significant load on the sewage treatment plant.
+d.
+Any prohibited discharges where the waste is exceeding our current restrictions, based on the city sewer EPD permits, can be approved by the wastewater superintendent and the commission on a case-by-case study.
+(Ord. of 7-9-84, § 6.4; Ord. of 01-11-2021(1))
+Sec. 46-84. - City's options as to deleterious wastes.
+If any waters or wastes are discharged or are proposed to be discharged to the public sewers, which waters contain the substances or possess the characteristics enumerated above and which in the judgement of the city, may have a deleterious effect upon the wastewater facilities, processes, equipment, or receiving waters, or which otherwise create a hazard to life or constitute a public nuisance, the city may:
+(1)
+Reject the wastes,
+(2)
+Require pretreatment to an acceptable condition for discharge to the public sewers,
+(3)
+Require control over the quantities and rates of discharge, and/or
+(4)
+Require surcharge payment to cover added cost of handling and treating the wastes.
+(Ord. of 7-9-84, § 6.5)
+Sec. 46-85. - Grease, oil and sand interceptors.
+Grease, oil, and sand interceptors shall be provided when, in the opinion of the city, they are necessary for the proper handling of liquid wastes containing floatable grease in excessive amounts, sand, or other harmful ingredients; except that such interceptors shall not be required for private living quarters or dwelling units. All interceptors shall be of a type and capacity approved by the superintendent and shall be located as to be readily and easily accessible for cleaning and inspection. In the maintenance of these interceptors, the owner shall be responsible for the proper removal and disposal by appropriate means of the captured material and shall maintain records of the dates and means of disposal which are subject to review by the superintendent. Any removal and hauling of the collected materials not performed by the owner's personnel must be performed by currently licensed waste disposal firms.
+(Ord. of 7-9-84, § 6.6)
+Sec. 46-86. - Meters and other appurtenances.
+When required by the city, the owner of any property serviced by a building sewer carrying industrial wastes shall install a suitable structure together with such necessary meters and other appurtenances in the building sewer to facilitate observation, sampling, and measurement of the wastes. Such structure, when required, shall be accessibly and safely located and shall be constructed in accordance with approved plans. The structure shall be installed by the owner at the owner's expense and shall be maintained by the owner so as to be safe and accessible at all times. This requirement will be on a case-by-case basis.
+(Ord. of 7-9-84, § 6.7)
+Sec. 46-87. - Required information from industrial users.
+The industrial users may be required to provide information needed to determine compliance with this article. These requirements may include:
+(1)
+Wastewater discharge peak rate and volume over a specified time period;
+(2)
+Chemical analyses of wastewaters;
+(3)
+Information on raw materials, processes, and products affecting wastewater volume and quality;
+(4)
+Quantity and disposition of specific liquid, sludge, oil, solvent, or other materials important to sewer use control;
+(5)
+A plot plan of sewers of the user's property showing sewer and pretreatment facility location;
+(6)
+Details of wastewater pretreatment facilities; and
+(7)
+Details of systems to prevent and control the losses of materials through spills to the public sewer.
+(Ord. of 7-9-84, § 6.8)
+Sec. 46-88. - Special agreements and arrangements.
+No statement contained in this article shall be construed as preventing any special agreement or arrangement between the city and any industrial concern whereby an industrial waste of unusual strength or character may be accepted by the city for treatment.
+(Ord. of 7-9-84, § 6.9)
+Sec. 46-89. - Measurements, tests, analyses.
+All measurements, tests, and analyses of the characteristics of waters and wastes to which reference is made in this article shall be determined in accordance with the latest edition of "Standard Methods for the Examination of Water and Wastewater," published by the American Public Health Association. Sampling methods, location times, durations, and frequencies are to be determined on an individual basis, subject to approval by the city.
+(Ord. of 7-9-84, § 6.10)
+Sec. 46-90. - Pretreatment of wastes.
+Persons discharging industrial wastes into the sewerage system may be required to pretreat such wastes. Plans for all pretreatment facilities shall be approved by the superintendent or the state environmental protection division prior to construction. At the time written plans are submitted for approval, written maintenance plans shall also be submitted and approved by the superintendent. The facilities shall be allowed to operate only as long as they are maintained in accordance with the approved maintenance plans. Pretreatment requirements shall be determined on a case-by-case basis and shall include the following facilities as a minimum:
+(1)
+Neutralization. If plans are submitted for the neutralization of strong acid or alkaline wastes, the plans shall include the necessary instrumentation and controls to assure compliance with the above regulations at all times.
+(2)
+Equalization. Holding tanks or equalization basins shall be required ahead of the receiving manhole of the city sewerage system when deemed necessary by the superintendent to prevent peak flows that exceed the capacity of the system or that result in operational problems.
+(3)
+Maintenance. All pretreatment facilities shall be operated and maintained continuously in satisfactory and effective operation by the owner at the owner's expense.
+(Ord. of 7-9-84, § 6.11)
+Sec. 46-91. - Waiver of requirements.
+(a)
+There shall be no provision for the granting of variances for the discharge of incompatible wastes. If a user begins to violate any of the provisions of this division, it shall be his responsibility to apply to the superintendent who can issue a temporary permit along with a compliance schedule for planning and construction of necessary treatment or pretreatment works. Each case will be carefully evaluated with respect to its effect on the wastewater treatment system and the environment prior to issuance of a temporary permit and compliance schedule.
+(b)
+Any dilution of the wastewater by the user for the purpose of decreasing the concentrations of toxic materials shall be considered as a violation of this article.
+(Ord. of 7-9-84, § 6.12)
+Sec. 46-92. - Causes for discontinuance of water and wastewater disposal services.
+(a)
+The city reserves the right to terminate water and wastewater disposal services and disconnect a customer from the system when:
+(1)
+Failing to comply with the provisions of this article II; or
+(2)
+Acids or chemicals damaging to sewer lines or treatment process are released into the public sewer causing rapid deterioration of these structures or interfering with proper conveyance and treatment of wastewater; or
+(3)
+A governmental agency informs the city that the effluent from the wastewater treatment plant is no longer of a quality permitted for discharge into a watercourse, and it is found that the customer is discharging wastewater into the public sewer that cannot be sufficiently treated or requires treatment that is not provided by the city as normal domestic treatment; or
+(4)
+The customer:
+a.
+Discharges industrial waste or wastewater that is in violation of the permit issued by the approving authority; or
+b.
+Discharges wastewater at an uncontrolled, variable rate in sufficient quantity to cause an imbalance in the wastewater treatment process; or
+c.
+Fails to pay monthly bills for sanitary sewer service when due; or
+d.
+Repeats a discharge of prohibited wastes into public sewers.
+(b)
+Notification processes for discontinuance of service are provided in section 46-93.
+(Ord. of 7-9-84, §§ 6.13, 12.1, 12.2)
+Sec. 46-93. - Service discontinuance procedure.
+The service discontinuance procedure shall be as follows: A written notice, signed by the superintendent, shall be delivered personally to the person then responsible for the offending use, outlining the conditions of the wastes which violate the city ordinances. If the person in charge will not accept the notice, it shall be conveyed by registered mail to the responsible person. The person notified shall have 24 hours from the time of receipt of the notice, either personally delivered or received by registered mail, to correct the offending conditions. If correction is not made or a request for extension is not received by the city within 24 hours, it shall be mandatory that water or sewer service shall be discontinued to the offending person without further notice. If a request for an extension of time is received by the city within 24 hours of the above notice and if circumstances are such that, in the opinion of the superintendent, the best interest of the city would be served by extending the time for correction of the offending condition, then the superintendent may grant an extension of time up to a maximum limit of 30 days.
+(Ord. of 7-9-84, § 6.13)
+Sec. 46-94. - Responsibilities of the person discharging waste.
+It shall be the responsibility of the person discharging industrial waste into the city sewerage system to:
+(1)
+Build a control structure in the discharge line from such user's premises, immediately prior to the entrance of the discharge line into the city sewerage system, suitable for the sampling and measuring of wastes. Plans for this structure must be approved by the city. This requirement may be waived if deemed unnecessary by the city. If no special manhole is required, the control manhole shall be considered to be the nearest downstream manhole in the public sewer to the point at which the building sewer is connected.
+(2)
+Contact the superintendent prior to operation changes which will materially alter the characteristics of the waste from the last prior sampling.
+(3)
+Make timely, periodic payments to the city of surcharges for excessive loadings.
+(Ord. of 7-9-84, § 6.14)
+Secs. 46-95—46-99. - Reserved.
+DIVISION 6. - VIOLATIONS
+
+Sec. 46-100. - Constitute misdemeanors; damage liability.
+Violations of this article shall be a misdemeanor punishable under the laws of the city and state. Each day of continuing violation shall be considered a separate offense. Any person violating any of the provisions of this article shall become liable to the city for any expense, loss, or damage occasioned the city by reason of violation.
+(Ord. of 7-9-84, § 10.1)
+Sec. 46-101. - Remedial action—Issuance of order.
+In the event of a violation of this article, the health officer or authorized employees may verbally instruct the owner as to the necessary corrective action. If the owner fails to carry out verbal instructions in a timely manner or if a serious violation or hazard to public health exists, the health officer or city may issue to the owner a written order stating the nature of the violation, the corrective action, and the time limit for completing the corrective action. The record of the mailing of such notice or order shall be prima facie evidence thereof and failure of such owners to receive the notice shall in no way affect the validity of any proceedings conducted pursuant to this article.
+(Ord. of 7-9-84, § 10.2)
+Sec. 46-102. - Same—Failure to comply with order.
+Failure to comply with any written order duly issued by the health officer or city pursuant to this article will constitute a separate misdemeanor and upon conviction thereof shall be punishable as provided by the laws of the city or state; provided further, that compliance with this article is required notwithstanding the fact that a written order might not have been issued.
+(Ord. of 7-9-84, § 10.3)
+Sec. 46-103. - Injunction; abatement of nuisance.
+(a)
+The violation of any provisions of this article, as now existing or as may be hereafter amended, may be enjoined by instituting appropriate proceedings for injunction in the courts of competent jurisdiction in this state.
+(b)
+Any public nuisance which is injurious to the public health, safety, or comfort may be abated by instituting appropriate proceedings for injunction in the court of competent jurisdiction in this state.
+(c)
+Such actions may be maintained notwithstanding the fact that such violation also constitutes a crime, and notwithstanding that other adequate remedies at law exist. Such actions may be instituted in the name of the city.
+(Ord. of 7-9-84, § 10.4)
+Sec. 46-104. - Hearing—Demand; setting; scope.
+(a)
+Upon the receipt of a notice of a violation of this article and/or an order of the city requiring an act or thing to be done or to cease, the owners of any premises then in question may, in writing, demand a hearing before the city to present the evidence challenging the validity of the city's order. The owner may appear in person, by agent, or by attorney. The demand must be filed with the city clerk and be made within five days from the receipt of the order being challenged. Upon receipt of a demand for a hearing, the city will set a date, time, and place for the hearing to be not less than 21 days from the date of filing of the demand.
+(b)
+The hearing as provided herein shall apply to any customer's complaint, dispute, or challenge of the city's rules, regulations, resolutions, ordinances, or policies. Upon a customer's written complaint filed with the clerk, the city shall set a hearing as provided herein or at a time agreed upon by the parties.
+(Ord. of 7-9-84, § 10.5)
+Sec. 46-105. - Same—Evidence.
+Evidence before the city in any hearing conducted pursuant to section 46-104 shall be admitted in accordance with the rules of evidence of the superior courts of the state; provided, however, the city may take official notice of any order, rule, regulation, or any other document, record, or entry contained in its official record or minutes for evidentiary purposes.
+(Ord. of 7-9-84, § 10.6)
+Sec. 46-106. - Same—Decision.
+For the purposes of this article, the decisions of the city will prevail in any instance in which there is a conflict between it and the health officer on any issue of sanitation, or the lack of it, and its effect on human health or well being.
+(Ord. of 7-9-84, § 10.7)

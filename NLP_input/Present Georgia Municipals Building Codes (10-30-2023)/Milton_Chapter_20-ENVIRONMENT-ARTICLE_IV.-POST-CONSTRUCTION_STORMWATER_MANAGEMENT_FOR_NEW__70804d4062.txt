@@ -1,0 +1,700 @@
+ARTICLE IV. - POST-CONSTRUCTION STORMWATER MANAGEMENT FOR NEW DEVELOPMENT AND REDEVELOPMENT[3]
+modified
+Footnotes:
+--- (3) ---
+Editor's note— Ord. No. 21-12-500 , § 1(Exh. A), adopted December 20, 2021, amended article IV in its entirety to read as herein set out. Former article IV, §§ 20-238—20-243, 20-262—20-264, 20-284—20-289, 20-310—20-318, 20-338, 20-339 and 20-358—20-361, pertained to stormwater management, and derived from Ord. No. 06-12-72, adopted December 7, 2006 and Ord. No. 08-11-29, adopted November 17, 2008.
+
+DIVISION 1. - GENERALLY
+
+Sec. 20-238. - Definitions.
+modified
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Administrator means the person appointed to administer and implement this article on post-construction stormwater management for new development and redevelopment, for purposes of this article, means the director of the city community development department. The term "administrator" is synonymous with the term "director."
+Applicant means a person submitting a land development application and plan for approval.
+BMP or best management practice means both structural devices to store or treat stormwater runoff and non-structural programs or practices which are designed to prevent or reduce the pollution of the waters of the State of Georgia.
+BMP landscaping plan means a design for vegetation and landscaping that is critical to the performance and function of the BMP including how the BMP will be stabilized and established with vegetation. It shall include a layout of plants and plant names (local and scientific).
+Channel means a natural or artificial watercourse with a definite bed and banks that conveys continuously or periodically flowing water.
+Conservation easement means an agreement between a landowner and the city or other government agency or land trust that permanently protects open space or greenspace on the owner's land by limiting the amount and type of development that can take place, but continues to leave the remainder of the fee interest in private ownership.
+Detention means the temporary storage of stormwater runoff in a stormwater detention facility for the purpose of controlling the peak discharge.
+Detention facility means a structure designed for the storage and gradual release of stormwater runoff at controlled rates.
+Developer means a person who undertakes land development activities.
+Development means new development or redevelopment.
+Director means the director of the city community development department. The term "director" is also synonymous with the term "administrator." The director or his or her designee is appointed to administer and implement this article.
+Drainage easement means an easement appurtenant or attached to a tract or parcel of land allowing the owner of adjacent tracts or other persons to discharge stormwater runoff onto the tract or parcel of land subject to the drainage easement.
+Erosion and sedimentation control plan means a plan that is designed to minimize the accelerated erosion and sediment runoff at a site during land disturbance activities.
+Extended detention means the storage of stormwater runoff for an extended period of time.
+Extreme flood protection means measures taken to prevent adverse impacts from large low-frequency storm events with a return frequency of 100 years or more.
+Flooding means a volume of surface water that exceeds the banks or walls of a BMP or channel and overflows onto adjacent lands.
+GSMM means the latest edition of the Georgia Stormwater Management Manual, Technical Handbook, and its Appendices.
+Hotspot means a land use or activity on a site that has the potential to produce higher than normally found levels of pollutants in stormwater runoff. As defined by the administrator, hotspot land use may include gasoline stations, vehicle service and maintenance areas, industrial facilities (both permitted under the industrial stormwater general permit and others), material storage sites, garbage transfer facilities, and commercial parking lots with high-intensity use.
+Impervious surface means a surface composed of any material that significantly impedes or prevents the natural infiltration of water into the soil.
+Industrial stormwater general permit means the National Pollutant Discharge Elimination System (NPDES) permit issued by Georgia Environmental Protection Division to an industry for stormwater discharges associated with industrial activity. The permit regulates pollutant levels associated with industrial stormwater discharges or specifies on-site pollution control strategies based on Standard Industrial Classification (SIC) Code.
+Infiltration means the process of percolating stormwater runoff into the subsoil.
+Inspection and maintenance agreement means a written agreement providing for the long-term inspection, operation, and maintenance of the stormwater management system and its components on a site.
+Jurisdictional wetland means an area that is inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support a prevalence of vegetation typically adapted for life in saturated soil conditions, commonly known as hydrophytic vegetation.
+Land development application means the application for a land development permit on a form provided by the city along with the supporting documents required to be filed therewith.
+Land development permit means the authorization necessary to begin construction-related land-disturbing activity.
+Land disturbing activities means any activity which may result in soil erosion from water or wind and the movement of sediments into state water or onto lands within the state, including but not limited to clearing, dredging, grading, excavating, and filling of land. Land disturbing activity does not include agricultural practices as described in O.C.G.A. § 12-7-17(5) or silvicultural land management activities as described in O.C.G.A. § 12-7-17(6) within areas zoned for these activities.
+Linear feasibility program means a feasibility program developed by the city and submitted to the Georgia Environmental Protection Division, which sets reasonable criteria for determining when implementation of stormwater management standards for linear transportation being constructed by the city is infeasible.
+Linear transportation project means construction projects on traveled ways including but not limited to roads, sidewalks, multi-use paths and trails, and airport runways and taxiways.
+MS4 permit means the NPDES permit issued by Georgia Environment Protection Division for discharges from the city's municipal separate storm sewer system.
+New development means land disturbing activities, structural development (construction, installation, or expansion of a building or other structure), and/or creation of impervious surfaces on a previously undeveloped site.
+Nonpoint source pollution means a form of water pollution that does not originate from a discrete point such as a wastewater treatment facility or industrial discharge, but involves the transport of pollutants such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials and other contaminants from land to surface water and groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a byproduct of land use practices such as agricultural, silvicultural, mining, construction, subsurface disposal and urban runoff sources.
+Nonstructural stormwater management practice or nonstructural practice means any natural or planted vegetation or other nonstructural component of the stormwater management plan that provides for or enhances stormwater quantity and quality control or other stormwater management benefits including, but is not limited to:
+(1)
+Riparian buffers;
+(2)
+Open and greenspace areas;
+(3)
+Overland flow filtration areas;
+(4)
+Natural depressions; and
+(5)
+Vegetated channels.
+Off-site facility means a stormwater management facility located outside the boundaries of the site.
+On-site facility means a stormwater management facility located within the boundaries of the site.
+Overbank flood protection means measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e., flow events that exceed the capacity of the channel and enter the floodplain).
+Owner means the legal or beneficial owner of a site including, but not limited to:
+(1)
+A mortgagee or vendee in possession;
+(2)
+Receiver;
+(3)
+Executor;
+(4)
+Trustee;
+(5)
+Lessee; or
+(6)
+Other person, firm or corporation in control of the site.
+Permit means the permit issued by the city to the applicant which is required for undertaking any land development activity.
+Person means any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the state, any interstate body or any other legal entity.
+Post-construction stormwater management means stormwater best management practices that are used on a permanent basis to control and treat runoff once construction has been completed in accordance with a stormwater management plan.
+Post-development means the conditions anticipated to exist on site, immediately after completion of the proposed development.
+Practicability policy means the latest edition of the Metropolitan North Georgia Water Planning District's Policy on Practicability Analysis for Runoff Reduction.
+Predevelopment means the conditions that exist on a site immediately before the implementation of the proposed development. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time prior to the first item being approved or permitted shall establish pre-development conditions.
+Pre-development hydrology means (a) for new development, the runoff curve number is determined using natural conditions hydrologic analysis based on natural, undisturbed condition of the site immediately before implementation of the proposed development; and (b) for redevelopment, the existing conditions hydrograph may take into account the existing development when defining the runoff curve number and calculating existing runoff, unless the existing development causes a negative impact on downstream property.
+Previously developed site means a site that has been improved or altered by paving, construction, and/or land disturbing activity.
+Project means a land development project.
+Redevelopment means structural development (construction, installation, or expansion of a building or other structure), creation or addition of impervious surfaces, replacement of impervious surfaces not as part of routine maintenance, and land disturbing activities associated with structural or impervious development on a previously developed site. Redevelopment does not include such activities as exterior remodeling.
+Regional stormwater management facility or regional facility means stormwater management facilities designed to control stormwater runoff from multiple properties, where the owners or developers of the individual properties may assist in the financing of the facility, and the requirement for onsite controls is either eliminated or reduced.
+Routine maintenance means activities to keep an impervious surface as near as possible to its originally constructed condition. This includes ordinary maintenance activities, resurfacing paved areas, and exterior building changes or improvements which do not materially increase or concentrate stormwater runoff, or cause additional nonpoint source pollution.
+Runoff means stormwater runoff.
+Site means an area of land where development is planned, which may include all or portions of one or more parcels of land. For subdivisions and other common plans of development, the site includes all areas of land covered under an applicable land development permit.
+Stormwater concept plan means an initial plan for post-construction stormwater management at the site that provides the groundwork for the stormwater management plan including the natural resources inventory, site layout concept, initial runoff characterization, and first round stormwater management system design.
+Stormwater management plan means a plan for post-construction stormwater management at the site that meets the requirements of this article and is included as part of the land development application.
+Stormwater management system means the entire set of non-structural site design features and structural BMPs for collection, conveyance, storage, infiltration, treatment, and disposal of stormwater runoff in a manner designed to prevent increased flood damage, streambank channel erosion, habitat degradation and water quality degradation and to enhance and promote the public health, safety and general welfare.
+Stormwater runoff means flow on the surface of the ground resulting from precipitation.
+Subdivision means the division of a tract or parcel of land resulting in one or more new lots or building sites for the purpose, whether immediately or in the future, of sale, other transfer of ownership or land development and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or roadway.
+Trout stream means waters designated by the Wildlife Resources Division of the Georgia Department of Natural Resources as Primary Trout Waters or Secondary Trout Streams. Primary trout waters are waters supporting a self-sustaining population of rainbow, brown or brook trout. Secondary trout streams are those with no evidence of natural trout reproduction but are capable of supporting trout throughout the year. Other terms used but not defined in this section shall be interpreted based on how such terms are defined and used in the GSMM and the city's MS4 permit.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-239. - Purpose and intent.
+modified
+The purpose of this article is to protect, maintain and enhance the public health, safety, environment and general welfare by establishing minimum requirements and procedures to control the adverse effects of increased post-development stormwater runoff and nonpoint source pollution associated with new development and redevelopment. Proper management of post-construction stormwater runoff will minimize damage to public and private property and infrastructure, safeguard the public health, safety, environment, and general welfare of the public, and protect water and aquatic resources. Additionally, the city is required to comply with several state and federal laws, regulations, and permits and the requirements of the Metropolitan North Georgia Water Planning District's regional water plan related to managing the water quantity, velocity, and quality of post-construction stormwater runoff.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-240. - Applicability.
+modified
+Criteria for stormwater management standards. This article applies to the following activities:
+(1)
+New development that creates or adds 5,000 square feet or greater of new impervious surface area or that involves land disturbing activity of one acre of land or greater;
+(2)
+Redevelopment (excluding routine maintenance and exterior remodeling) that creates, adds, or replaces 5,000 square feet or greater of new impervious surface area; or redevelopment that involves other land disturbing activity of one acre or more;
+(3)
+New development and redevelopment if:
+a.
+Such new development or redevelopment is part of a subdivision or other common plan of development; and
+b.
+The sum of all associated impervious surface area or land disturbing activities that are being developed as part of such subdivision or other common plan of development meets or exceed the threshold in subsections (1) and (2) above;
+(4)
+Any commercial or industrial new development or redevelopment, regardless of size, that is a hotspot land use as defined in this article; and
+(5)
+Linear transportation projects that exceed the threshold in subsections (1) and (2) above.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-241. - Designation of administrator.
+modified
+The director of the city community development department or his or her designee is hereby appointed to administer and implement this article.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-242. - Conflicts; more restrictive controls.
+modified
+This article is not intended to modify or repeal any other article, section, ordinance, rule, regulation or other provision of law, including but not limited to any applicable stream buffers under state and local laws, and the Georgia Safe Dams Act and Rules for Dam Safety. The requirements of this article are in addition to the requirements of any other ordinance, rule, regulation or other provision of law, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule, regulation or other provision of law, whichever provision is more restrictive or imposes higher protective standards for human health or the environment shall control.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-243. - Adoption and implementation of the GSMM; conflicts and inconsistencies.
+modified
+(a)
+In implementing this article, city shall use and require compliance with all relevant design standards, calculations, formulas, methods, and other guidance from the latest edition of the GSMM (including all related appendices).
+(b)
+In the event of any conflict or inconsistency between any provision in the city's MS4 permit and this article, the provision from the MS4 permit shall control.
+(c)
+In the event of any conflict or inconsistency between any provision of this article and the GSMM, the provision from this article shall control.
+(d)
+If any provision of this article is invalidated by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of this article.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-244. - Exemptions from stormwater management standards.
+new
+(a)
+The applicability of any exemption available hereunder to any requirement of this article shall be subject to the predetermination of the Community Development Director, or designee, prior to commencing the proposed activity. The city shall adopt an administrative process for private property owners to request and receive a determination by the Community Development Director, or designee, regarding the applicability of any exemption that may be available to limit in any way the requirements of this article. Such determination shall be provided to the property owner requesting it at no cost to the property owner. In the event a private property owner does not avail themselves of the administrative process identified in this paragraph and takes independent action as if they were exempted from some or all of the requirements of this article without a predetermination having been made, the property owner shall be deemed to have forfeited their right to pursue such an available administrative remedy and the city shall have all enforcement options available under law, including but not limited to, a five year hold on approval of any building permit or land disturbance permit for the subject ort property. In addition, if some or all requirements related to the exclusion(s) of this article are not implemented, the city shall have all enforcement options available under law, including but not limited to, a five-year hold on approval of any building permit or land disturbance permit for the subject property.
+(b)
+This article does not apply to the following activities:
+(1)
+Land disturbing activity conducted by local, state, authority, or federal agencies, solely to respond to an emergency need to protect life, limb, or property or conduct emergency repairs;
+(2)
+Land disturbing activity that consists solely of cutting a trench for utility work and related pavement replacement (this exemption does not negate the requirement to obtain right-of-way encroachments permits from the city nor does it negate the requirement to get utility locates);
+(3)
+Land disturbing activity conducted by local, state, authority, or federal agencies, whose sole purpose is to implement stormwater management or environmental restoration;
+(4)
+Repairs to any stormwater management system deemed necessary by the administrator;
+(5)
+Agricultural practices as described O.C.G.A. § 12-7-17(5) within areas zoned for these activities with the exception of buildings or permanent structures that exceed the threshold in section 20-240(1) and (2);
+(6)
+Silvicultural land management activities as described O.C.G.A. § 12-7-17(6) within areas zoned for these activities with the exception of buildings or permanent structures that exceed the threshold in section 20-240(1) and (2);
+(7)
+Installations or modifications to existing structures solely to implement Americans with Disabilities Act (ADA) requirements, including but not limited to elevator shafts, handicapped access ramps and parking, and enlarged entrances or exits; and
+(8)
+Linear transportation projects being constructed by city to the extent the administrator determines that the stormwater management standards may be infeasible to apply, all or in part, for any portion of the linear transportation project. For this exemption to apply, an infeasibility report that is compliant with the city linear feasibility program shall first be submitted to the administrator that contains adequate documentation to support the evaluation for the applicable portion(s) and any resulting infeasibility determination, if any, by the administrator.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Secs. 20-245—20-261. - Reserved.
+new
+DIVISION 2. - VIOLATIONS, ENFORCEMENT AND PENALTIES
+
+Sec. 20-262. - Violations and enforcement.
+modified
+Any violation of the approved stormwater management plan during construction, failure to submit as-built drawings, failure to submit a final BMP landscaping plan, or failure of the final inspection shall constitute and be addressed as violations of, or failures to comply with, the underlying land disturbance permit pursuant to city code. To address a violation of this article, the city shall have all the powers and remedies that are available to it for other violations of building and land disturbance permits, including without limitation the right to issue notices and orders to ensure compliance, stop work orders, and penalties as set forth in the applicable ordinances for such permits.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-263. - Notice of violation.
+modified
+(a)
+Required. If the city community development department determines that an applicant or other responsible person has failed to comply with the terms and conditions of a permit, an approved stormwater management plan or the provisions of this article, it shall issue a written notice of violation to such applicant or other responsible person. Where a person is engaged in activity covered by this article without having first secured a permit therefore, the notice of violation shall be served on the owner or the responsible person in charge of the activity being conducted on the site.
+(b)
+Contents. The notice of violation shall contain:
+(1)
+The name and address of the owner or the applicant or the responsible person;
+(2)
+The address or other description of the site upon which the violation is occurring;
+(3)
+A statement specifying the nature of the violation;
+(4)
+A description of the remedial measures necessary to bring the action or inaction into compliance with the permit, the stormwater management plan or this article and the date for the completion of such remedial action;
+(5)
+A statement of the penalties that may be assessed against the person to whom the notice of violation is directed; and
+(6)
+A statement that the determination of violation may be appealed to the city community development department by filing a written notice of appeal within 30 days after the notice of violation, except that in the event the violation constitutes an immediate danger to public health or public safety, a 24-hour notice by the city shall be sufficient.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-264. - Remedial measures; penalties.
+modified
+(a)
+Failure of remedial measures. In the event the remedial measures described in the notice of violation have not been completed by the date set forth for such completion in the notice of violation, any one or more of the following actions or penalties may be taken or assessed against the person to whom the notice of violation was directed.
+(b)
+Notice of violation and cure period. Before taking any of the following actions or imposing any of the following penalties, the city community development department shall first notify the applicant or other responsible person in writing of its intended action, and shall provide a reasonable opportunity, of not less than ten days, except, that in the event the violation constitutes an immediate danger to public health or public safety, a 24-hour notice shall be sufficient, to cure such violation.
+(c)
+Penalty for failure to cure violation. In the event the applicant or other responsible person fails to cure such violation after such notice and cure period, the city community development department may take any one or more of the following actions or impose any one or more of the following penalties:
+(1)
+Stop work order. The city community development department may issue a stop work order which shall be served on the applicant or other responsible person. The stop work order shall remain in effect until the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein; provided the stop work order may be withdrawn or modified to enable the applicant or other responsible person to take the necessary remedial measures to cure such violation.
+(2)
+Withhold certificate of occupancy. The city community development department may refuse to issue a certificate of occupancy for the building or other improvements constructed or being constructed on the site until the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein.
+(3)
+Suspension, revocation or modification of permit. The city community development department may suspend, revoke or modify the permit authorizing the land development project. A suspended, revoked or modified permit may be reinstated after the applicant or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise cured the violations described therein; provided such permit may be reinstated (upon such conditions as the city may deem necessary) to enable the applicant or other responsible person to take the necessary remedial measures to cure such violations.
+(4)
+Civil penalties. In the event the applicant or other responsible person fails to take the remedial measures set forth in the notice of violation or otherwise fails to cure the violations described therein within ten days, or such greater period as the city community development department shall deem appropriate (except, that in the event the violation constitutes an immediate danger to public health or public safety, a 24-hour notice shall be sufficient) after the city has taken one or more of the actions described in subsections (c)(1) through (3) of this section, the department may impose a penalty not to exceed $1,000.00, depending on the severity of the violation, for each day the violation remains unremedied after receipt of the notice of violation.
+(5)
+Criminal penalties. For intentional and flagrant violations of this article, the city community development department may issue a citation to the applicant or other responsible person, requiring such person to appear in magistrate court to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed $1,000.00 or imprisonment for 60 days, or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-265. - Maintenance by owner of stormwater management systems predating current GSMM.
+new
+For any stormwater management systems approved and built based on requirements predating the current GSMM and that is not otherwise subject to an inspection and maintenance agreement, such stormwater management systems shall be maintained by the owner so that the stormwater management systems perform as they were originally designed.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Secs. 20-266—20-283. - Reserved.
+new
+DIVISION 3. - PERMIT PROCEDURES AND REQUIREMENTS
+
+Sec. 20-284. - Application required; contents.
+modified
+(a)
+No owner or developer shall perform any land development activities without first meeting the requirements of this article prior to commencing the proposed activity.
+(b)
+Unless specifically exempted by this article, any owner or developer proposing a land development activity shall submit to the city community development department a permit application on a form provided by the city for that purpose or as part of the land disturbance or building permitting process.
+(c)
+Unless otherwise exempted by this article, a permit application shall be accompanied by the following information in order to be considered:
+(1)
+Stormwater concept plan and consultation meeting certification in accordance with section 20-285;
+(2)
+Stormwater management plan in accordance with section 20-286;
+(3)
+Inspection and maintenance agreement in accordance with section 20-287, if applicable;
+(4)
+Performance bond or surety, if deemed applicable; and
+(5)
+Permit application and plan review fees in accordance with section 20-289.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-285. - Pre-submittal meeting and stormwater concept plan.
+modified
+(a)
+Before a land development permit application is submitted, an applicant may request a pre-submittal meeting with the city community development department.
+(b)
+This pre-submittal meeting should take place based on an early step in the development process such as before site analysis and inventory (GSMM Section 2.4.2.4) or the stormwater concept plan (GSMM Section 2.4.2.5). The purpose of this meeting is to:
+(1)
+Discuss the post-development stormwater management measures necessary for the proposed project;
+(2)
+Discuss and assess constraints, opportunities and potential ideas for stormwater management designs before the formal site design engineering is commenced;
+(3)
+Local watershed plans, the city greenspace projection plan (if applicable), and any relevant resource protection plans should be consulted in the pre-submittal meeting; and
+(4)
+Applicants must request a pre-submittal meeting with the city when applying for a determination of infeasibility through the practicability policy.
+(c)
+The stormwater concept plan shall be prepared using the minimum following steps:
+(1)
+Develop the site layout using better site design techniques, as applicable (GSMM Section 2.3).
+(2)
+Calculate preliminary estimates of the unified stormwater sizing criteria requirements for stormwater runoff quality/reduction, channel protection, overbank flooding protection and extreme flood protection (GSMM Section 2.2).
+(3)
+Perform screening and preliminary selection of appropriate best management practices and identification of potential siting locations (GSMM Section 4.1).
+(d)
+The stormwater concept plan shall contain:
+(1)
+Common address and legal description of the site;
+(2)
+Vicinity map; and
+(3)
+Existing conditions/proposed site layout mapping and plans, which illustrate at a minimum:
+a.
+Existing and proposed topography,
+b.
+Perennial and intermittent streams,
+c.
+Mapping of predominant soils from soil surveys (when available),
+d.
+Limits of existing predominant vegetation and proposed limits of clearing and grading,
+e.
+Location and boundaries of other natural feature protection and conservation areas such as jurisdictional wetlands, lakes, ponds, floodplains, state waters, stream buffers and other setbacks (e.g., drinking water well setbacks, septic setbacks, etc.),
+f.
+Location of existing and proposed roads, buildings, parking areas and other impervious surfaces,
+g.
+Existing and proposed utilities (e.g., water, sewer, gas, electric) and easements,
+h.
+Preliminary estimates of unified stormwater sizing criteria requirements,
+i.
+Preliminary selection and location, size, and limits of disturbance of proposed BMPs,
+j.
+Location of existing and proposed conveyance systems such as grass channels, swales, and storm drains,
+k.
+Flow paths,
+l.
+Location of the boundaries of the base flood floodplain, future conditions floodplain and the floodway (as applicable),
+m.
+Relationship of site to upstream and downstream properties and drainages,
+n.
+Preliminary location of proposed stream channel modifications, such as bridge or culvert crossings.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-286. - Stormwater management plan requirements.
+modified
+(a)
+The stormwater management plan shall detail how post-development stormwater runoff will be controlled or managed and how the proposed project will meet the requirements of this article, including the performance criteria set forth in division 4 of this article.
+(b)
+This plan shall be in accordance with the criteria established in this article and must be submitted with the stamp and signature of a professional engineer (PE) licensed in the state, who must verify that the design of all stormwater management facilities and practices meet the submittal requirements outlined in the submittal checklists found in the stormwater design manual.
+(c)
+The stormwater management plan must ensure that the requirements and criteria in this article are being complied with and that opportunities are being taken to minimize adverse post-development stormwater runoff impacts from the development. The plan shall consist of maps, narrative, and supporting design calculations (hydrologic and hydraulic) for the proposed stormwater management system. The plan shall include all of the information required in the stormwater management site plan checklist found in the stormwater design manual.
+(d)
+The applicant shall provide a stormwater management plan that includes the natural resources inventory, site layout concept, initial pre- and post-drainage basins, TSS water quality spreadsheet site analysis, and first round stormwater management system BMP layout supported with a GSMM site TSS spreadsheet. The TSS spreadsheet analyses shall equal the permitted development area except areas within the developed site that are not disturbed and are not part of a water quality BMP drainage basin.
+(e)
+The stormwater management plan shall contain the items listed in this section and be prepared under the direct supervisory control of either a registered professional engineer or registered landscape architect licensed in the State of Georgia. Items (5), (6), (7) and (8) indicated in list below shall be sealed and signed by a registered professional engineer licensed in the State of Georgia. The overall site plan must be stamped by a design professional licensed in the State of Georgia for such purpose. (GSMM Section 2.4.2.7) This includes:
+(1)
+Common address and legal description of the site.
+(2)
+Vicinity map.
+(3)
+Natural resource inventory.
+(4)
+Stormwater concept plan.
+(5)
+Existing condition hydrologic analysis.
+a.
+The existing condition hydrologic analysis for stormwater runoff rates, volumes, and velocities shall include:
+1.
+A topographic map of existing site conditions with the drainage basin boundaries indicated;
+2.
+Acreage, soil types and land cover of areas for each subbasin affected by the project;
+3.
+All perennial and intermittent streams and other surface water features;
+4.
+All existing stormwater conveyances and structural control facilities;
+5.
+Direction of flow and exits from the site;
+6.
+Analysis of runoff provided by offsite areas upstream of the project site; and
+7.
+Methodologies, assumptions, site parameters and supporting design calculations used in analyzing the existing conditions site hydrology.
+b.
+For redevelopment sites, predevelopment conditions shall be modeled using guidelines established by the director for the portion of the site undergoing land development activities.
+(6)
+Post-development hydrologic analysis.
+a.
+A post-development hydrologic analysis for stormwater runoff rates, volumes, and velocities shall include:
+1.
+A topographic map of developed site conditions with the post-development drainage basin boundaries indicated;
+2.
+Total area of post-development impervious surfaces and other land cover areas for each subbasin affected by the project;
+3.
+Calculations for determining the runoff volumes that need to be addressed for each subbasin for the development project to meet the post-development stormwater management performance criteria in division 4 of this article;
+4.
+Location and boundaries of proposed natural feature protection and conservation areas;
+5.
+Documentation and calculations for any applicable site design credits that are being utilized; and
+6.
+Methodologies, assumptions, site parameters and supporting design calculations used in analyzing the existing conditions site hydrology.
+b.
+If the land development activity on a redevelopment site constitutes more than 50 percent of the site area for the entire site, then the performance criteria in division 4 of this article must be met for the stormwater runoff from the entire site.
+(7)
+Stormwater management system. The description, scaled drawings and engineering design calculations for the proposed post-development stormwater management system shall include:
+a.
+A map and drawing or sketch of the stormwater management facilities, including:
+1.
+The location of nonstructural site design features and the placement of existing and proposed structural stormwater controls;
+2.
+The design water surface elevations;
+3.
+The storage volumes available from zero to maximum head;
+4.
+The location of inlet and outlets;
+5.
+The location of bypass and discharge systems; and
+6.
+All orifice/restrictor sizes;
+b.
+A narrative describing how the selected structural stormwater controls will be appropriate and effective;
+c.
+Cross section and profile drawings and design details for each of the structural stormwater controls in the system, including supporting calculations to show that the facility is designed according to the applicable design criteria;
+d.
+A hydrologic and hydraulic analysis of the stormwater management system for all applicable design storms (including stage-storage or outlet rating curves, and inflow and outflow hydrographs);
+e.
+Documentation and supporting calculations to show that the stormwater management system adequately meets the post-development stormwater management performance criteria in division 4 of this article; and
+f.
+Drawings, engineering design calculations, elevations and hydraulic grade lines for all existing and proposed stormwater conveyance elements, including stormwater drains, pipes, culverts, catch basins, channels, swales and areas of overland flow; and where applicable, a narrative describing how the stormwater management system corresponds with any watershed protection plans and local greenspace protection plan.
+(8)
+Post-development downstream analysis. A downstream peak flow analysis which includes the assumptions, results and supporting engineering calculations to show safe passage of post-development design flows downstream.
+a.
+Due to peak flow timing and runoff volume effects, some structural components of the stormwater management system fail to reduce discharge peaks to pre-development levels downstream from the site. The analysis of downstream conditions in the report shall address each and every point or area along the project site's boundaries at which runoff will exit the property.
+b.
+The analysis shall focus on the portion of the drainage channel or watercourse immediately downstream from the project. This area shall extend downstream from the project to a point in the drainage basin where the project area is ten percent of the total basin area in accordance with the GSMM. This is to help ensure that there are minimal downstream impacts from development on the site. The downstream analysis may result in the need to resize structural components of the stormwater management system.
+c.
+In calculating runoff volumes and discharge rates, consideration may need to be given to any planned future upstream land use changes.
+d.
+The analysis shall be in accordance with the stormwater design manual.
+(9)
+Construction phase erosion and sedimentation control plan. An erosion and sedimentation control plan in accordance with the Georgia Erosion and Sedimentation Control Act or NPDES permit for construction activities. The plan shall also include information on the sequence/phasing of construction and temporary stabilization measures and temporary structures that will be converted into permanent stormwater controls.
+(10)
+BMP Landscaping and open space plan. A detailed landscaping and vegetation plan describing the woody and herbaceous vegetation that will be used within and adjacent to stormwater management facilities and practices. The landscaping plan must also include:
+a.
+The arrangement of planted areas, natural and greenspace areas and other landscaped features on the site plan;
+b.
+Information necessary to construct the landscaping elements shown on the plan drawings;
+c.
+Descriptions and standards for the methods, materials and vegetation that are to be used in the construction; density of plantings;
+d.
+Descriptions of the stabilization and management techniques used to establish vegetation; and
+e.
+A description of who will be responsible for ongoing maintenance of vegetation for the stormwater management facility and what practices will be employed to ensure that adequate vegetative cover is preserved.
+(11)
+Operations and maintenance (O & M) plan. Detailed description of ongoing operations and maintenance procedures for stormwater management facilities and practices to ensure their continued function as designed and constructed or preserved.
+a.
+These plans will identify the parts or components of a stormwater management facility or practice that need to be regularly or periodically inspected and maintained, and the equipment and skills or training necessary.
+b.
+The plan shall include an inspection and maintenance schedule, maintenance tasks, responsible parties for maintenance, funding, access and safety issues.
+c.
+Provisions for the periodic review and evaluation of the effectiveness of the maintenance program and the need for revisions or additional maintenance procedures shall be included in the plan.
+(12)
+Maintenance access easements. The applicant must ensure access for the parties responsible for maintenance, from public right-of-way to stormwater management facilities and practices requiring regular maintenance at the site for the purpose of inspection and repair by securing all the maintenance access easements needed on a permanent basis. Such access shall be sufficient for all necessary equipment for maintenance activities. Upon final inspection and approval, a plat or document indicating that such easements exist shall be recorded and shall remain in effect even with the transfer of title of the property.
+(13)
+Inspection and maintenance agreements. Unless an on-site stormwater management facility or practice is dedicated to and accepted by the city community development department as provided in section 20-287, the applicant must execute an easement and an inspection and maintenance agreement binding on all subsequent owners of land served by an on-site stormwater management facility or practice in accordance section 20-287.
+(14)
+Evidence of the acquisition of applicable local and nonlocal permits. The applicant shall certify and provide documentation to the city community development department that all other applicable environmental permits have been acquired for the site prior to approval of the stormwater management plan.
+(15)
+Determination of infeasibility (if applicable).
+(f)
+For redevelopment and to the extent existing stormwater management structures are being used to meet stormwater management standards the following must also be included in the stormwater management plan for existing stormwater management structures:
+(1)
+As-built drawings.
+(2)
+Hydrology reports.
+(3)
+Current inspection of existing stormwater management structures with deficiencies noted.
+(4)
+BMP landscaping plans.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-287. - Inspection and maintenance agreements.
+modified
+Maintenance by owner of stormwater management systems predating current GSMM. For any stormwater management systems approved and built based on requirements predating the current GSMM and that are not otherwise subject to an inspection and maintenance agreement, such stormwater management systems shall be maintained by the owner so that the stormwater management systems perform as they were originally designed.
+(1)
+The components of the stormwater management system that will not be dedicated to and accepted by the city, including all drainage facilities, best management practices, credited conservation spaces, and conveyance systems, shall have an inspection and maintenance agreement to ensure that they continue to function as designed. All new development and redevelopment sites are to prepare a comprehensive inspection and maintenance agreement for the on-site stormwater management system. This plan shall be written in accordance with the requirements in this article.
+(2)
+Prior to the issuance of any permit for a land development activity requiring a stormwater management facility or practice hereunder and for which the city community development department requires ongoing maintenance, the applicant or owner of the site must, unless an on-site stormwater management facility or practice is dedicated to and accepted by the city community development department, execute an inspection and maintenance agreement, and/or a conservation easement, if applicable, that shall be binding on all subsequent owners of the site.
+(3)
+The owner shall execute an inspection and maintenance agreement with the city obligating the owner to inspect, clean, maintain, and repair the stormwater management system, including vegetation in the final BMP landscaping plan. The form of the inspection and maintenance agreement shall be the form provided by the city or a city-approved alternate. After the inspection and maintenance agreement has been signed by the owner and the city, the owner shall promptly record such agreement at the owner's cost in the real property records of Fulton County for all parcel(s) that make up the site.
+(4)
+The inspection and maintenance agreement shall identify by name or official title the person(s) serving as the point of contact for carrying out the owner's obligations under the inspection and maintenance agreement. The owner shall update the point of contact from time to time as needed and upon request by the city. Upon any sale or transfer of the site, the new owner shall notify the city in writing within 30 days of the name or official title of new person(s) serving as the point of contact for the new owner. Any failure of an owner to keep the point of contact up to date shall, following 30 days' notice, constitute a failure to maintain the stormwater management system.
+(5)
+The inspection and maintenance agreement shall run with the land and bind all future successors-in-title of the site. If there is a future sale or transfer of only a portion of the site, then:
+a.
+The parties to such sale or transfer may enter into and record an assignment agreement designating the owner responsible for each portion of the site and associated obligations under the inspection and maintenance agreement. The parties shall record and provide written notice and a copy of such assignment agreement to the city.
+b.
+In the absence of a recorded assignment agreement, all owners of the site shall be jointly and severally liable for all obligations under the inspection and maintenance agreement regardless of what portion of the site they own.
+(6)
+The city may refuse to accept dedication of any existing or future stormwater management facility if the director of public works or his/her designee determines that accepting the facility is not in the best interest of the city due to maintenance cost or other factors.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-288. - Application—Submission and approval; issuance of land development permit.
+modified
+Applications for land disturbance development permits shall be filed with the city community development department. Before any person begins development on a site, the owner of the site shall first obtain approval in accordance with the following procedure:
+(1)
+File a land development permit applications with the city including:
+a.
+City application form.
+b.
+Items set forth in section 20-284.
+c.
+Two copies of the stormwater management plan.
+d.
+Inspection and maintenance agreement.
+e.
+Certification that the development will be performed in accordance with the stormwater management plan once approved.
+f.
+A preliminary determination of infeasibility prepared in accordance with the practicability policy (if applicable).
+g.
+An acknowledgement that applicant has reviewed the city form of inspection and maintenance agreement and that applicant agrees to sign and record such inspection and maintenance agreement before the final inspection.
+(2)
+The city community development department shall inform the applicant whether the application and supporting materials, stormwater management plan and inspection and maintenance agreement are approved or disapproved.
+(3)
+If the permit application and supporting materials are disapproved, the city community development department shall notify the applicant of such fact in writing. The applicant may then revise any item not meeting the requirements hereof and resubmit the same for the administrator to again consider and either approve or disapprove.
+(4)
+Upon a finding by the city community development department that the permit application and supporting documents meet the requirements of this article, the city community development department may issue a permit for the land development project provided all other legal requirements for the issuance of such permit have been met. The issuance of a land development, building or land disturbance permit in conjunction with a related inspection and maintenance agreement does not indicate or create an acceptance by the city of any inspection or maintenance responsibilities under the terms of said inspection or maintenance agreement.
+(5)
+Notwithstanding the issuance of the permit, in conducting the land development project, the applicant or other responsible person shall be subject to the following requirements:
+a.
+The applicant shall comply with all applicable requirements of the approved plan and this article and shall certify that all land clearing, construction, land development and drainage will be done according to the approved plan;
+b.
+The land development project shall be conducted only within the area specified in the approved plan;
+c.
+The city community development department shall be allowed to conduct periodic inspections of the project;
+d.
+No changes may be made to an approved plan without review and written approval by the city community development department; and
+e.
+Upon completion of the project, the applicant or other responsible person shall submit the engineer's report and certificate and as-built plans required by division 4 of this article.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-289. - Fees.
+modified
+The fee for review of any stormwater management application shall be based on the fee structure established by the city community development department and shall be made prior to the issuance of any building or land disturbance permit for the development.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-290. - Modifications for off-site facilities.
+modified
+(a)
+The stormwater management plan for each land development project shall provide for stormwater management measures located on the site of the project, unless provisions are made to manage stormwater by an offsite or regional facility.
+(1)
+The off-site or regional facility must be:
+a.
+Located on property legally dedicated for the purpose;
+b.
+Designed and adequately sized to provide a level of stormwater quantity and quality control that is equal to or greater than that which would be afforded by onsite practices; and
+c.
+A legally obligated entity responsible for the long-term operation and maintenance of the offsite or regional stormwater facility.
+(2)
+In addition, on-site measures shall be implemented, where necessary, to protect upstream and downstream properties and drainage channels from the site to the offsite facility.
+(b)
+A stormwater management plan must be submitted to the city community development department which shows the adequacy of the offsite or regional facility.
+(c)
+To be eligible for a modification, the applicant must demonstrate to the satisfaction of the director that the use of an offsite or regional facility will not result in the following impacts to upstream or downstream areas:
+(1)
+Increased threat of flood damage to public health, life, and property;
+(2)
+Deterioration of existing culverts, bridges, dams, and other structures;
+(3)
+Excessive (damaging) streambank or streambed erosion or siltation;
+(4)
+Degradation of in-stream biological functions or habitat;
+(5)
+Water quality impairment in violation of state water quality standards, and violation of any state or federal regulations; or
+(6)
+Premature loss of overbank trees, critical vegetation, or utilities.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Secs. 20-291—20-309. - Reserved.
+DIVISION 4. - POST-DEVELOPMENT STORMWATER MANAGEMENT PERFORMANCE CRITERIA
+
+Sec. 20-310. - Stormwater management standards.
+modified
+(a)
+The design of the stormwater management system shall be in accordance with the applicable sections of the GSMM as directed by the administrator. Additionally, any design which proposes a dam shall comply with the Georgia Safe Dams Act and Rules for Dam Safety as applicable.
+(b)
+Natural resources inventory: Site reconnaissance and surveying techniques shall be used to complete a thorough assessment of existing natural resources, both terrestrial and aquatic, found on the site. Resources to be identified, mapped, and shown on the stormwater management plan, shall include, at a minimum (as applicable):
+(1)
+Topography (minimum of two-foot contours) and steep slopes (i.e., areas with slopes greater than 15 percent),
+(2)
+Natural drainage divides and patterns,
+(3)
+Natural drainage features (e.g., swales, basins, depressional areas),
+(4)
+Natural feature protection and conservation areas such as wetlands, lakes, ponds, floodplains, stream buffers, drinking water wellhead protection areas and river corridors,
+(5)
+Predominant soils (including erodible soils and karst areas), and
+(6)
+Existing predominant vegetation including trees, high quality habitat and other existing vegetation.
+(c)
+Better site design practices for stormwater management: Stormwater management plans shall preserve the natural drainage and natural treatment systems and reduce the generation of additional stormwater runoff and pollutants to the maximum extent practicable. Additional details can be found in the GSMM Section 2.3.
+(d)
+Trout stream protection: Trout stream protection shall be provided by controlling temperature for receiving waters with trout stream designation. In streams designated as primary trout waters by the wildlife resources division, there shall be no elevation of natural stream temperatures. In streams designated as secondary trout waters, there shall be no elevation exceeding two degrees Fahrenheit of natural stream temperatures.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-311. - Stormwater runoff quality/reduction.
+modified
+Stormwater runoff quality/reduction shall be provided by using the following:
+All stormwater runoff generated from a site shall be adequately treated before discharge. It will be presumed that a stormwater management system complies with this requirement if:
+(1)
+It is sized to treat the prescribed water quality treatment volume from the site, as defined in the Georgia Stormwater Management Manual. The TSS spreadsheet analyses for water quality requirements shall equal the permitted development area except areas within the developed site that not disturbed and not part of a water quality BMP drainage basin.
+(2)
+For development with a stormwater management plan submitted before December 20, 2021, the applicant may choose either: (A) runoff reduction; or (B) water quality.
+(3)
+For development with a stormwater management plan submitted on or after December 20, 2021, the applicant shall choose: (A) runoff reduction and additional water quality shall not be required. To the extent: (A) runoff reduction has been determined to be infeasible for all or a portion of the site using the practicability policy, then (B) water quality shall apply for the remaining runoff from a 1.2 inch rainfall event and must be treated to remove at least 80 percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM.
+a.
+Runoff reduction. The stormwater management system shall be designed to retain the first 1.0 inch of rainfall on the site using runoff reduction methods, to the maximum extent practicable.
+b.
+Water quality. The stormwater management system shall be designed to remove at least 80 percent of the calculated average annual post-development total suspended solids (TSS) load or equivalent as defined in the GSMM for runoff from a 1.2-inch rainfall event.
+(4)
+Appropriate structural stormwater controls or nonstructural practices are selected, designed, constructed or preserved, and maintained according to the specific criteria in the Georgia Stormwater Management Manual.
+(5)
+Runoff from hotspot land uses and activities identified by the city community development department are adequately treated and addressed through the use of appropriate structural stormwater controls, nonstructural practices and pollution prevention practices.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-312. - Stream channel protection.
+modified
+Protection of stream channels from bank and bed erosion and degradation shall be provided by using all of the following three approaches:
+(1)
+Preservation, restoration and reforestation (with native vegetation) of any applicable stream buffer;
+(2)
+24-hour extended detention storage of the one-year, 24-hour return frequency storm event; and
+(3)
+Erosion prevention measures such as energy dissipation and velocity control.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-313. - Overbank flooding protection.
+modified
+Downstream overbank flood and property protection shall be provided by controlling the post-development peak discharge rate to the predevelopment rate for the 25-year, 24-hour return frequency storm event.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-314. - Extreme flooding protection.
+modified
+Extreme flood and public safety protection shall be provided by controlling the 100-year, 24-hour return frequency storm event such that flooding is not exacerbated.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-315. - Structural stormwater controls.
+modified
+(a)
+All structural stormwater management facilities shall be selected and designed using the appropriate criteria from the Georgia Stormwater Management Manual. All structural stormwater controls must be designed appropriately to meet their intended function.
+(1)
+For other structural stormwater controls not included in the Georgia Stormwater Management Manual, or for which pollutant removal rates have not been provided, the effectiveness and pollutant removal of the structural control must be documented through prior studies, literature reviews, or other means and receive approval from the city community development department before being included in the design of a stormwater management system.
+(2)
+In addition, if hydrologic or topographic conditions, or land use activities warrant greater control than that provided by the minimum control requirements, the city may impose additional requirements deemed necessary to protect upstream and downstream properties and aquatic resources from damage due to increased volume, frequency, and rate of stormwater runoff or increased nonpoint source pollution loads created on the site in question.
+(b)
+Applicants shall consult the Georgia Stormwater Management Manual for guidance on the factors that determine site design feasibility when selecting and locating a structural stormwater control.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-316. - Stormwater credits for nonstructural measures.
+modified
+The use of one or more site design measures by the applicant may allow for a reduction in the water quality treatment volume required under section 20-311. The applicant may, if approved by the city community development department, take credit for the use of stormwater better site design practices and reduce the water quality volume requirement.
+(1)
+For each potential credit, there is a minimum set of criteria and requirements which identify the conditions or circumstances under which the credit may be applied.
+(2)
+The site design practices that qualify for this credit and the criteria and procedures for applying and calculating the credits are included in the Georgia Stormwater Management Manual.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-317. - Drainage system guidelines.
+modified
+Stormwater conveyance facilities, which may include, but are not limited to, culverts, stormwater drainage pipes, catchbasins, drop inlets, junction boxes, headwalls, gutter, swales, channels, ditches, and energy dissipaters shall be provided when necessary for the protection of public rights-of-way and private properties adjoining project sites and public rights-of-way. Stormwater conveyance facilities that are designed to carry runoff from more than one parcel, existing or proposed, shall meet the following requirements:
+(1)
+Methods to calculate stormwater flows shall be in accordance with the stormwater design manual;
+(2)
+All culverts, pipe systems and open channel flow systems shall be sized in accordance with the stormwater management plan using the methods included in the stormwater design manual; and
+(3)
+Design and construction of stormwater conveyance facilities shall be in accordance with the criteria and specifications found in the stormwater design manual.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-318. - Dam design guidelines.
+modified
+Any land disturbing activity that involves a site which proposes a dam that applies to the Georgia Safe Dams Act and Rules for Dam Safety shall comply with the Georgia Safe Dams Act and Rules for Dam Safety.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Secs. 20-319—20-337. - Reserved.
+DIVISION 5. - CONSTRUCTION INSPECTIONS OF POST-DEVELOPMENT STORMWATER MANAGEMENT SYSTEM
+
+Sec. 20-338. - Inspections to ensure plan compliance during construction.
+modified
+(a)
+Required. Periodic inspections of the stormwater management system construction shall be conducted by the staff of the city community development department and as required by the city, or conducted and certified by a registered professional engineer in the state who has been approved by the city community development department using certification forms as may be required by the city. Construction inspections shall utilize the approved stormwater management plan for establishing compliance.
+(b)
+Report; contents. All inspections shall be documented with written reports that contain the following information:
+(1)
+The date and location of the inspection; the specific measurements, volumes, elevations, and outlet control structure dimensions.
+(2)
+Whether the stormwater management system construction is in compliance with the approved stormwater management plan;
+(3)
+Variations from the approved construction specifications; and
+(4)
+Any other variations or violations of the conditions of the approved stormwater management plan.
+(c)
+Violations; notice. If any variations or violations are found, the applicant shall be notified in writing of the nature of the violation and the required corrective actions.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-339. - Final inspection; "as-built" plans submitted.
+modified
+(a)
+Upon completion of a project, and before a final plat and certificate of occupancy shall be granted, the applicant is responsible for certifying that the stormwater management system is functioning properly and was constructed in accordance with the approved stormwater management plan and associated hydrologic analysis.
+(1)
+The required certification shall include a certification of volume, or other performance test applicable to the type of stormwater management system component, to ensure each component is functioning as designed and built according to the design specifications in the approved stormwater management plan.
+(2)
+This certification and the required performance tests shall be performed by a qualified person and submitted to the city with the request for a final inspection. The city shall perform a final inspection with applicant to confirm applicant has fulfilled these responsibilities.
+(b)
+All applicants are required to submit actual "as-built" drawings to the city for all components of the stormwater management facilities or practices after final construction is completed.
+(c)
+The as-built drawings must show the final design specifications and dimensions for all stormwater management facilities and practices and must be certified by a registered professional engineer in the state.
+(d)
+A final inspection by the city community development department is required before the release of any performance securities can occur. Upon completion of the development, the applicant is responsible for:
+(1)
+Certifying that the landscaping is established and installed in conformance with the BMP landscaping plan; and
+(2)
+Delivering to city a signed inspection and maintenance agreement that has been recorded by the owner in the real property records of Fulton County for all parcel(s) that make up the site.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Secs. 20-340—20-357. - Reserved.
+DIVISION 6. - ONGOING INSPECTION AND MAINTENANCE OF STORMWATER FACILITIES AND PRACTICES
+
+Sec. 20-358. - Long-term maintenance inspections.
+modified
+(a)
+Stormwater management facilities and practices included in a stormwater management plan which are subject to an inspection and maintenance agreement must undergo ongoing inspections to document maintenance and repair needs and ensure compliance with the requirements of the agreement, the plan and this article.
+(b)
+A stormwater management facility or practice shall be inspected on a periodic basis by the responsible person in accordance with the approved inspection and maintenance agreement. In the event that the stormwater management facility has not been maintained or becomes a danger to public safety or public health, the city community development department shall notify the person responsible for carrying out the maintenance plan by registered or certified mail to the person specified in the inspection and maintenance agreement. The notice shall specify the need to comply with the agreement and the plan and shall specify the time within which such measures shall be completed. If the responsible person fails or refuses to meet the requirements of the inspection and maintenance agreement, the city community development department may correct the violation as provided in section 20-361.
+(c)
+Inspection programs.
+(1)
+Inspection programs by the city community development department may be established on any reasonable basis including, but not limited to:
+a.
+Routine inspections;
+b.
+Random inspections;
+c.
+Inspections based upon complaints or other notice of possible violations; and
+d.
+Joint inspections with other agencies inspecting under environmental or safety laws.
+(2)
+Inspections may include, but are not limited to:
+a.
+Reviewing maintenance and repair records;
+b.
+Sampling discharges, surface water, groundwater, and material or water in stormwater management facilities; and
+c.
+Evaluating the condition of stormwater management facilities and practices.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-359. - Right-of-entry for maintenance inspections.
+modified
+The terms of the inspection and maintenance agreement shall provide for the city to enter the property at reasonable times and in a reasonable manner for the purpose of inspection. This includes the right to enter a property when it has a reasonable basis to believe that a violation of this article is occurring, or has occurred, and to enter when necessary for abatement of a public nuisance or correction of a violation of this article as provided according to the final plat "drainage note". If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then the city shall have the right to enter and make inspections pursuant to the city's general provisions for property maintenance inspections.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-360. - Records of maintenance activities and maintenance by owner of stormwater management systems predating current GSMM.
+modified
+The parties responsible for the operation and maintenance of a stormwater management facility shall provide records of all maintenance and repairs to the city community development department when requested. For any stormwater management systems approved and built based on requirements predating the current GSMM and that are not otherwise subject to an inspection and maintenance agreement, such stormwater management systems shall be maintained by the owner so that the stormwater management systems perform as they were originally designed.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Sec. 20-361. - Owner's failure to maintain the stormwater management system.
+modified
+The terms of the inspection and maintenance agreement shall provide for what constitutes a failure to maintain a stormwater management system and the enforcement options available to the city. If a site was developed before the requirement to have an inspection and maintenance agreement or an inspection and maintenance agreement was for any reason not entered into, recorded, or has otherwise been invalidated or deemed insufficient, then:
+(1)
+An owner's failure to maintain the stormwater management system so that it performs as it was originally designed shall constitute and be addressed as a violation of, or failure to comply with, owner's property maintenance obligations pursuant to city's general provisions for property maintenance inspections; and
+(2)
+To address such a failure to maintain the stormwater management system, the city shall have all the powers and remedies that are available to it for other violations of an owner's property maintenance obligations, including without limitation prosecution, penalties, abatement, and emergency measures.
+(3)
+Notice. If a responsible person fails or refuses to meet the requirements of the inspection and maintenance agreement, the city community development department, after 30 days' written notice (except, that in the event the violation constitutes an immediate danger to public health or public safety, a 24-hour notice shall be sufficient) may correct a violation of the design standards or maintenance requirements by performing the necessary work to place the facility or practice in proper working condition.
+(4)
+Lien. The city community development department may assess the owner of the facility for the cost of repair work which shall be a lien on the property, and may be placed on the ad valorem tax bill for such property and collected in the ordinary manner for such taxes.
+( Ord. No. 21-12-500 , § 1(Exh. A), 12-20-2021)
+Secs. 20-362—20-380. - Reserved.

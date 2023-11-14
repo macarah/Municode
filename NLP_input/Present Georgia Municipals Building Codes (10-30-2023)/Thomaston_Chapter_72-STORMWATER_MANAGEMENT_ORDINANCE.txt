@@ -1,0 +1,610 @@
+Chapter 72 - STORMWATER MANAGEMENT ORDINANCE[1]
+Footnotes:
+--- (1) ---
+Editor's note— Ordinance No. 1162, adopted December 7, 2021, added a new chapter and new article (article I) titled "Stormwater Management." Article II, titled "Soil Erosion, Sedimentation and Pollution Control" was removed from the former chapter 46, article III, sections 46-96—46-104, and reassigned as sections 72-24—72-43. Article III, titled "Illicit Discharge and Illegal Connection" was formerly titled "Stormwater Drainage Systems," removed from chapter 90, article II, division 5, sections 90-139—90-139.7, and 90-140 (reserved), and reassigned as sections 72-44—74-61.
+State Law reference— NPDES industrial permits as defined in 40 CFR, Section 122.26(b)(14). Federal Water Pollution Control Act (33 U.S.C. § 1251 et seq.) Georgia Surface Mining Act of 1968, O.C.G.A. § 12-4-70 et seq.; Erosion and Sedimentation Act of 1975, O.C.G.A. § 12-7-1 et seq.
+
+ARTICLE I. - STORMWATER MANAGEMENT
+
+Sec. 72-1. - Applicability and exemptions.
+(a)
+All persons proposing development or construction in the jurisdiction of the City of Thomaston shall prepare a stormwater management plan and report. No final subdivision plat shall be approved and no development or building permit shall be issued until and unless the stormwater management plan and report has been reviewed and approved by the city engineer or his designee except as exempt below.
+(b)
+The following development activities are exempt from the provisions of this section and the requirement of providing a stormwater management plan:
+(1)
+Agricultural land management.
+(2)
+Construction of individual single-family detached dwellings.
+(3)
+Additions or modifications to existing single-family detached dwellings.
+(4)
+Projects involving less than one-acre total disturbance which also involve less than 5,000 square feet of impervious area, regardless of whether the impervious surface is new or being replaced.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-2. - Variances.
+Requests for variances from specific requirements of this section shall be submitted to the city engineer. Variance requests shall be accompanied by all documentation and information requested by the city. The city manager, or his designee, shall have final authority over the acceptance or rejection of all variance requests. The applicant should not assume the approval of a variance request at any point prior to or following submitting a variance request.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-3. - Stormwater management plan and report.
+(a)
+The stormwater management plan and report shall be prepared under the supervision of, and certified by, a professional engineer or landscape architect registered in the State of Georgia and consistent with all provisions of the most currently adopted local stormwater management ordinance. Each report should begin with the following statement and be signed and sealed by the professional who prepared the report and analysis:
+"I, (Name of Professional), a Registered (Professional Engineer/Landscape Architect) in the State of Georgia, hereby certify that the grading and drainage plans for the project known as (Project Name) have been prepared under my supervision, and, state that in my opinion, the construction of said project will not produce storm drainage conditions that will cause damage or adversely affect the surrounding properties. This (day) day of (Month), (Year)."
+(b)
+The stormwater management plan and report shall include sufficient information to evaluate the environmental characteristics of the affected areas, the potential impacts of the proposed development on water resources, and the effectiveness and acceptability of measures proposed for managing stormwater runoff. The developer shall certify on the drawings that all clearing, grading, drainage, construction, and development shall be conducted in strict accordance with the plan.
+(c)
+The minimum information submitted for support of a stormwater management plan and report shall be as follows:
+(1)
+Site plan. Provide a site plan drawn to a scale of not less than one inch equals 50 feet with the following characteristics and information:
+a.
+Graphic scale, north arrow, and date. The north arrow shall be identified as magnetic, true, or grid north.
+b.
+Vicinity map showing the site location relative to surrounding landmarks, highway intersections, rivers, and streams.
+c.
+Topography showing existing and proposed elevations at intervals of one foot. Elevations shall be based on the datum plane established by the United States Coastal and Geodetic Survey.
+d.
+Delineation of property lines and deed record names of adjacent property owners.
+e.
+Locations and right-of-way of streets, roads, railroads and utility lines, either on or adjacent to the property to be developed. Specify whether utility lines are in easements or rights-of-way and show the location of towers and poles.
+f.
+Size and location of existing sewers, water mains, drains, culverts or other undergrounds facilities within the tract or within the right-of-way of streets or roads adjoining the tract. Grades and invert elevations of sewers shall be shown.
+g.
+Location of existing buildings and other site features.
+h.
+Location of existing stream buffers, the 100-year floodplain, and all wetlands existing on site or adjacent to the site.
+i.
+Proposed conditions:
+1.
+Layout of proposed streets, roads, alleys, drives, paved areas and public crosswalks, with widths and road names or designations.
+2.
+Plans of storm sewer system with grade, pipe size, and location of outlet.
+3.
+Location of proposed buildings and other improvements.
+(2)
+An adequate drainage system for the property or development, including necessary ditches, pipes, culverts, drains, inlets, bridges, etc., shall be provided for the proper drainage of all surface water. The stormwater management plan and report shall include:
+a.
+Location and profiles of all storm drainage pipes and slopes of receiving channels. Hydraulic grade lines to be shown on all pipes.
+b.
+Stormwater detention facility design and construction details.
+c.
+Location and typical construction details of all inlets and catch basins, headwalls and other drainage structures.
+d.
+The hydrologic and hydraulic analysis required for the system design as specified by this chapter.
+e.
+When required by the city, provide a soils investigation for all sites proposed as ponds or impoundments or for stormwater detention. Locate all soil borings on the site plan.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-4. - Hydrologic and hydraulic analysis.
+(a)
+Analyses and design shall be performed in accordance with the most recent edition of the Georgia Stormwater Management Manual (GSMM).
+(b)
+Hydrologic and hydraulic analyses shall include (at a minimum, but are not limited to) the minimum standards listed below from the latest edition of the GSMM. The city may require further analysis at its discretion in accordance with the GSMM.
+Minimum standard #4—Overbank flood protection
+Minimum standard #5—Extreme flood protection
+Minimum standard #8—Construction erosion and sedimentation control
+For development and redevelopment projects, peak attenuation methods (retention or detention) shall be provided satisfying minimum standard #4 for the ENTIRE site when either of the following criteria are met:
+(1)
+The amount of impervious surface is 5,000 square feet or more, regardless of whether the impervious surface is new or being replaced.
+(2)
+The land disturbance activity associated with the proposed development/redevelopment is one acre or more.
+Peak attenuation calculations shall be provided showing the post-development runoff is less than or equal to the pre-developments conditions for the following events:
+Two-year, 24-hour event
+Ten-year, 24-hour event
+25-year, 24 hour event
+The point of analysis and subsequent drainage basins used to analyze peak attenuation shall encompass the entire site for both the pre-development and post-development conditions. All contributing onsite and offsite flows shall be included.
+(c)
+Calculations shall be provided showing that the emergency spillway is capable of safely conveying the 100-year, 24-hour event and that the 100-year floodplain will not be impacted.
+(d)
+Detention-related calculations shall utilize the SCS method for 24-hour durations. Pipe capacity flow calculations with drainage areas <50 acres may utilize the rational method or the SCS method (24-hour storm duration). Pipe flow calculations with drainage areas >50 acres shall utilize the SCS method only (24-hour storm duration).
+The stormwater report shall show detailed calculations indicating the formula used, along with co-efficient of run-off, the time of concentration, the rainfall intensity, the discharge velocity, and the source of all data used. Table 1.04-1 details the storm that piped storm drainage systems are to be designed to convey depending on the classification of road they impact.
+EXPAND
+Table 1.04-1
+Roadway Classification/Use Design Storm
+Arterial/emergency evacuation roadway 100-year
+Collector roads 50-year
+Neighborhood roads 25-year
+Roads with no other outlet 100-year
+Parking lots/material storage areas/landscape areas 25-year
+  (e)
+The hydrology report shall include a map delineating the drainage areas and showing the acreage of all on-site and off-site drainage basins contributing flow through the project for both the pre-and post-development conditions.
+(f)
+Provide detailed rainfall data utilized in the analysis. Rainfall intensities used in hydrologic analyses shall not be less than those shown by applicable rainfall curves published within the most recent edition of the Georgia Stormwater Management Manual.
+(g)
+Runoff coefficients/curve numbers used for pre-development conditions should reflect existing conditions. Runoff coefficients/curve numbers used for post-development activity should be consistent with proposed conditions. Runoff coefficients (Rational Method) and runoff curve numbers (SCS Method) used should be those found in the most recent edition of the Georgia Stormwater Management Manual and should correlate with the local hydrologic soil group(s).
+(h)
+The drainage system shall have adequate capacity to convey the 25-year, 24-hour design event through the site without surcharge. Analysis shall include all flows collected by the drainage system, regardless of whether those flows originate onsite or offsite. Storm drainage profiles shall be provided for all pipes showing the hydraulic grade of the 25-year, 24-hour design event.
+(i)
+Soils report delineating and describing the site's hydrologic soil group(s).
+(j)
+Hydraulic capacity for open channel flow, pipes, and ditches shall be determined using Manning's formula with suitable headwater and tailwater conditions.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-5. - Stormwater detention facilities.
+(a)
+Dry earthen detention ponds: Dry detentions ponds shall be designed to provide for positive drainage on the pond floor to the outlet of the pond. Side slopes shall be designed to have a maximum of three-feet horizontal to one-foot vertical (3:1) slopes.
+Pond embankments/berms/dams shall be a minimum of five feet in width.
+The maximum contributing drainage area to be served by a single dry detention or dry ED basin is 75 acres.
+(b)
+Wet detention (retention) ponds. Wet detention (retention) ponds may be constructed if the facilities are designed to the criteria outlined in section 3.2.1.5 of the GSMM (Volume 2).
+(c)
+Detention/retention ponds shall be enclosed with a minimum four-foot high permanent fence around all facilities having a maximum water or undercut depth of more than two feet and shall be equipped with a gate of sufficient width to permit entrance of equipment necessary to allow periodic maintenance activities.
+(d)
+Underground detention facilities will be considered on a case-by-case basis at the discretion of the city.
+(e)
+Only the SCS hydrologic method shall be used for detention calculations.
+(f)
+Reservoir routing methods shall be used for all detention facility design.
+(g)
+Principal outlets such as weirs shall be constructed of concrete block or reinforced concrete with watertight joints.
+(h)
+Emergency spillways as required by minimum standard #5 shall be designed in accordance with the GSMM and shall be constructed of rip-rap.
+(i)
+No portion of any detention facility shall be located in any required buffer, street right-of-way, or within a flood hazard.
+(j)
+The 100-year ponding limits of a detention facility shall not encroach upon a public street.
+(k)
+Construction of the stormwater management facilities shall be initiated as part of the grading of the site. Stormwater detention facilities shall be constructed prior to the installation of any other site improvements, and may be utilized under proper design as sedimentation basins during development. Installation of all other storm drainage pipes, culverts, headwalls, and ditches shall be coordinated with the construction of streets and/or other site improvements, as appropriate.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-6. - Energy dissipation.
+All outfalls shall be protected with energy dissipation devices such as rip-rap. Calculations for all energy dissipation devices should be included in the stormwater report. The maximum allowable discharge velocity shall be five feet per second.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-7. - Construction materials and specifications.
+(a)
+All drainage pipes shall be constructed of reinforced concrete pipe (RCP) or aluminized CMP. Corrugated HDPE will be subject to approval/acceptance at the city's discretion. Non-aluminized CMP pipe will not be allowed. All pipe shall meet Georgia Department of Transportation Standards. Minimum bedding standards shall be in accordance with manufacturer's specifications, but shall include, at a minimum, #57 stone placed to half of the pipe diameter. All pipes must have a minimum of 24-inches of cover from the crown of the pipe. Pipes with less than 24-inches of cover shall be class IV RCP.
+(b)
+Detention ponds. Acceptable backfill and fill materials shall consist of suitable soils for dam construction as determined by the city/county; free of rock or gravel larger than one inch in any dimension, debris, waste, frozen materials, vegetation, and other deleterious matter. Backfill and fill materials shall have a liquid limit less than 50, plastic index less than 30, and a standard proctor maximum dry density (ASTM D698) greater than 90 pcf. Optimum moisture content to be less than 22 percent. Soils classified as SP, SM, SC, ML, or CL according to the unified soil classification system are considered suitable provided they meet the above criteria. Fill materials shall be moisture-conditioned to slightly above the optimum moisture content, spread in thin lifts (eight inches), and methodically compacted to 98 percent of the standard proctor max dry density (ASTM D698).
+Contractor shall provide city with geotechnical testing results from a reputable, geotechnical testing firm showing material and compaction meet the above requirements. City will not accept ponds unless these standards are met.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-8. - Ownership of drainage pipes and facilities.
+(a)
+For commercial developments (developments other than single-family, residential), storm drainage pipes, structures, and conveyance swales/channels/ditches shall be owned and maintained by the developer in perpetuity.
+(b)
+For single-family, residential developments:
+(1)
+All conveyance swales/channels/ditches shall be owned and maintained by the property owner in perpetuity.
+(2)
+All "single-service" drainage pipes and structures shall be owned and maintained by the property owner. "Single-service" refers to facilities which provide service (such as drainage collection and/or conveyance to/from/for only one property.
+(3)
+All non-single-service storm drainage pipes and structures that are not located within city right-of-way will be owned and maintained by the city. These facilities shall be placed in a 20-foot-wide permanent drainage easement.
+(4)
+Location, type, arrangement of drainage facilities shall be subject to the discretion of the city for the purposes of ownership and maintenance.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-9. - Ownership of detention/retention ponds.
+(a)
+Detention pond ownership. Detention and retention ponds associated with single-family, residential developments will be owned and maintained by the city following acceptance. The stormwater detention/retention pond(s) shall be placed on a separate lot and deeded over to the city upon acceptance.
+Detention and retention ponds for stand-alone commercial developments (single-parcel developments other than single-family, residential) will be owned and maintained by the property owner in perpetuity.
+Detention and retention ponds for common-development commercial developments (multi-parcel developments other than single-family, residential) will be owned and maintained in perpetuity by the owner(s) of all properties for which the detention pond was designed and constructed to provide stormwater peak flow attenuation. There shall be an agreement among the owners of common-development detention and retention ponds setting forth the terms and provisions which specifically designate and describe the respective ownership interest therein, share of maintenance costs and expenses thereto, and relative responsibilities thereto. Said agreement shall be binding on all subsequent owners, and a copy thereof shall be filed with the City of Thomaston.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-10. - Maintenance responsibilities.
+(a)
+For all types of developments, it shall be the responsibility of the developer to maintain all facilities stormwater and erosion control facilities during construction. The developer shall be responsible for removing temporary structures or facilities on the completion of the construction. The developer and all subsequent owners shall also be responsible for maintaining the permanent facilities identified by the stormwater management plan to remain after construction is complete.
+(b)
+The stormwater facility must have a 20-foot wide access easement connecting facility to city street or facility to another public easement which will provide easy access for maintenance and repair.
+(c)
+The maintenance plan should identify maintenance and inspection procedures, frequencies, and responsible party for various types of facilities. The maintenance plan should also detail repair procedures for each type of facility. Each maintenance plan should require the ongoing use of a log in which all inspection and maintenance activities are recorded. This log should be kept on site by the owner.
+(d)
+All on-site facilities shall be properly maintained by the owner in such a way that they do not become nuisances. Nuisance conditions shall include: improper storage resulting in uncontrolled runoff and overflow; stagnate water with concomitant algae growth, insect breeding, and odors; overgrown vegetation, discarded debris, and safety hazards created by the facility's operation. Stormwater pipes, structures, and conveyance swales/channels/ditches shall be kept clear of obstructions which may impede the flow of stormwater or cause upstream flooding.
+(e)
+Should an owner fail to maintain the stormwater management facilities in a state of service intended by the stormwater management plan, then the city shall notify the owner in writing of the deficiencies and specific minimum maintenance requirements to remedy such deficiencies.
+(f)
+If the owner fails to perform the required maintenance work within a reasonable period of time (30 days maximum) the owner shall be in violation of the provisions of this Code.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-11. - Stormwater performance surety.
+(a)
+Upon approval of the stormwater management plan, but before the issuance of a building permit or subdivision plat approval, the applicant shall be required to post a performance bond, cash escrow, certified check, or other acceptable form of performance.
+(b)
+The amount of the surety shall not be less than the total estimated construction cost of the facilities required by the stormwater management plan.
+(c)
+The performance bond or other securities shall not be released until the following requirements have been met.
+(1)
+The city has performed a final inspection of the facilities and certified they have been constructed in compliance with the stormwater management plan.
+(2)
+The city has determined that all provisions of the stormwater management plan have been faithfully executed.
+(d)
+A provision may be made for partial release of the amount of the bond pro rata upon completion and acceptance of various stages of development as specifically delineated, described and scheduled in the stormwater management plan. The applicant shall notify the city upon completion of each stage that is ready for inspection.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-12. - Inspection and enforcement.
+(a)
+The city shall have the power and authority to perform any inspection necessary to ensure conformance with this section and to employ stop work and/or cease and desist orders until compliance with this section has been satisfied.
+(b)
+Any person of developer who fails to comply with the requirements of this section is subject to revocation of permits, forfeiture of performance surety, and the penalties described in section 1-11 of the City's Code.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-13. - NPDES requirements.
+All construction of off-site or on-site improvements shall adhere to National Pollution Elimination System (NPDES) best management practices to prevent deleterious material or pollutants from entering the city storm drainage systems and/or nearby streams.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-14—72-23. - Reserved.
+ARTICLE II. - SOIL EROSION, SEDIMENTATION AND POLLUTION CONTROL[2]
+
+Footnotes:
+--- (2) ---
+Cross reference— Buildings and building regulations, ch. 18.
+State Law reference— Georgia Surface Mining Act of 1968, O.C.G.A. § 12-4-70 et seq.; Erosion and Sedimentation Act of 1975, O.C.G.A. § 12-7-1 et seq.
+
+Sec. 72-24. - Definitions.
+The following definitions shall apply in the interpretation and enforcement of this ordinance, unless otherwise specifically stated:
+Best management practices (BMPs): These include sound conservation and engineering practices to prevent and minimize erosion and resultant sedimentation, which are consistent with, and no less stringent than, those practices contained in the "Manual for Erosion and Sediment Control in Georgia," published by the commission as of January 1 of the year in which the land-disturbing activity was permitted.
+Board: The board of natural resources.
+Buffer: The area of land immediately adjacent to the banks of state waters in its natural state of vegetation, which facilitates the protection of water quality and aquatic habitat.
+Certified personnel: A person who has successfully completed the appropriate certification course approved by the Georgia Soil and Water Conservation Commission.
+Commission: The Georgia Soil and Water Conservation Commission (GSWCC).
+CPESC: Certified professional in erosion and sediment control with current certification by Certified Professional in Erosion and Sediment Control Inc., a corporation registered in North Carolina, which is also referred to as CPESC or CPESC, Inc.
+Cut: A portion of land surface or area from which earth has been removed or will be removed by excavation; the depth below original ground surface to the excavated surface. Also known as "excavation."
+Department: The Georgia Department of Natural Resources (DNR).
+Design professional: A professional licensed by the State of Georgia in the field of: Engineering, architecture, landscape architecture, forestry, geology, or land surveying; or a person that is a certified professional in erosion and sediment control (CPESC) with a current certification by Certified Professional in Erosion and Sediment Control Inc.
+Director: The director of the environmental protection division or an authorized representative.
+District: The Towaliga Soil and Water Conservation District.
+Division: The environmental protection division (EPD) of the department of natural resources.
+Drainage structure: A device composed of a virtually nonerodible material such as concrete, steel, plastic or other such material that conveys water from one place to another by intercepting the flow and carrying it to a release point for stormwater management, drainage control, or flood control purposes.
+Erosion: The process by which land surface is worn away by the action of wind, water, ice or gravity.
+Erosion, sedimentation and pollution control plan: A plan required by the Erosion and Sedimentation Act, O.C.G.A. ch. 12-7, that includes, as a minimum, protections at least as stringent as the state general permit, best management practices, and requirements in subsection (c) of this article.
+Fill: A portion of land surface to which soil or other solid material has been added; the depth above the original ground surface or an excavation.
+Final stabilization: All soil-disturbing activities at the site have been completed, and that for unpaved areas and areas not covered by permanent structures and areas located outside the waste disposal limits of a landfill cell that has been certified by EPD for waste disposal, 100 percent of the soil surface is uniformly covered in permanent vegetation with a density of 70 percent or greater, or equivalent permanent stabilization measures (such as the use of rip rap, gabions, permanent mulches or geotextiles) have been used. Permanent vegetation shall consist of: planted trees, shrubs, perennial vines; a crop of perennial vegetation appropriate for the time of year and region; or a crop of annual vegetation and a seeding of target crop perennials appropriate for the region. Final stabilization applies to each phase of construction.
+Finished grade: The final elevation and contour of the ground after cutting or filling and conforming to the proposed design.
+Grading: Altering the shape of ground surfaces to a predetermined condition; this includes stripping, cutting, filling, stockpiling and shaping or any combination thereof and shall include the land in its cut or filled condition.
+Ground elevation: The original elevation of the ground surface prior to cutting or filling.
+Land-disturbing activity: Any activity which may result in soil erosion from water or wind and the movement of sediments into state waters or onto lands within the state, including, but not limited to, clearing, dredging, grading, excavating, transporting, and filling of land but not including agricultural practices as described in 72-25(a)(5).
+Larger common plan of development or sale: A contiguous area where multiple separate and distinct construction activities are occurring under one plan of development or sale. For the purposes of this paragraph, "plan" means an announcement; piece of documentation such as a sign, public notice or hearing, sales pitch, advertisement, drawing, permit application, zoning request, or computer design; or physical demarcation such as boundary signs, lot stakes, or surveyor markings, indicating that construction activities may occur on a specific plot.
+Local issuing authority: The governing authority of any county or municipality which is certified pursuant to O.C.G.A. § 12-7-8(a).
+Metropolitan River Protection Act (MRPA): A state law referenced as O.C.G.A. § 12-5-440 et seq. which addresses environmental and developmental matters in certain metropolitan river corridors and their drainage basins.
+Natural ground surface: The ground surface in its original state before any grading, excavation or filling.
+Nephelometric turbidity units (NTU): Numerical units of measure based upon photometric analytical techniques for measuring the light scattered by finely divided particles of a substance in suspension. This technique is used to estimate the extent of turbidity in water in which colloidally dispersed or suspended particles are present.
+NOI: A notice of intent form provided by EPD for coverage under the state general permit.
+NOT: A notice of termination form provided by EPD to terminate coverage under the state general permit.
+Operator: The party or parties that have: (a) operational control of construction project plans and specifications, including the ability to make modifications to those plans and specifications; or (b) day-to-day operational control of those activities that are necessary to ensure compliance with an erosion, sedimentation and pollution control plan for the site or other permit conditions, such as a person authorized to direct workers at a site to carry out activities required by the erosion, sedimentation and pollution control plan or to comply with other permit conditions.
+Outfall: The location where stormwater in a discernible, confined and discrete conveyance, leaves a facility or site or, if there is a receiving water on site, becomes a point source discharging into that receiving water.
+Permit: The authorization necessary to conduct a land-disturbing activity under the provisions of this chapter.
+Person: Any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, state agency, municipality or other political subdivision of the State of Georgia, any interstate body or any other legal entity.
+Phase or phased: Sub-parts or segments of construction projects where the sub-part or segment is constructed and stabilized prior to completing construction activities on the entire construction site.
+Project: The entire proposed development project regardless of the size of the area of land to be disturbed.
+Properly designed: Designed in accordance with the design requirements and specifications contained in the "Manual for Erosion and Sediment Control in Georgia" (manual) published by the Georgia Soil and Water Conservation Commission as of January 1 of the year in which the land-disturbing activity was permitted and amendments to the manual as approved by the commission up until the date of NOI submittal.
+Roadway drainage structure: A device such as a bridge, culvert, or ditch, composed of a virtually nonerodible material such as concrete, steel, plastic, or other such material that conveys water under a roadway by intercepting the flow on one side of a traveled roadway consisting of one or more defined lanes, with or without shoulder areas, and carrying water to a release point on the other side.
+Sediment: Solid material, both organic and inorganic, that is in suspension, is being transported, or has been moved from its site of origin by wind, water, ice, or gravity as a product of erosion.
+Sedimentation: The process by which eroded material is transported and deposited by the action of water, wind, ice or gravity.
+Soil and water conservation district approved plan: An erosion, sedimentation and pollution control plan approved in writing by the Towaliga Soil and Water Conservation District.
+Stabilization: The process of establishing an enduring soil cover of vegetation by the installation of temporary or permanent structures for the purpose of reducing to a minimum the erosion process and the resultant transport of sediment by wind, water, ice or gravity.
+State general permit: The National Pollution Discharge Elimination System (NPDES) general permit or permits for stormwater runoff from construction activities as is now in effect or as may be amended or reissued in the future pursuant to the state's authority to implement the same through federal delegation under the Federal Water Pollution Control Act, as amended, 33 U.S.C. Section 1251, et seq., and O.C.G.A. § 12-5-30(f).
+State waters: Any and all rivers, streams, creeks, branches, lakes, reservoirs, ponds, drainage systems, springs, wells, and other bodies of surface or subsurface water, natural or artificial, lying within or forming a part of the boundaries of Georgia which are not entirely confined and retained completely upon the property of a single individual, partnership, or corporation.
+Structural erosion, sedimentation and pollution control practices: Practices for the stabilization of erodible or sediment-producing areas by utilizing the mechanical properties of matter for the purpose of either changing the surface of the land or storing, regulating or disposing of runoff to prevent excessive sediment loss. Examples of structural erosion and sediment control practices are riprap, sediment basins, dikes, level spreaders, waterways or outlets, diversions, grade stabilization structures and sediment traps, etc. Such practices can be found in the publication "Manual for Erosion and Sediment Control in Georgia."
+Trout streams: All streams or portions of streams within the watershed as designated by the Wildlife Resources Division of the Georgia Department of Natural Resources under the provisions of the Georgia Water Quality Control Act, O.C.G.A. § 12-5-20, in the rules and regulations for Water Quality Control, Chapter 391-3-6 at www.gaepd.org . Streams designated as primary trout waters are defined as water supporting a self-sustaining population of rainbow, brown or brook trout. Streams designated as secondary trout waters are those in which there is no evidence of natural trout reproduction, but are capable of supporting trout throughout the year. First order trout waters are streams into which no other streams flow except springs.
+Vegetative erosion and sedimentation control measures: Measures for the stabilization of erodible or sediment-producing areas by covering the soil with:
+(1)
+Permanent seeding, sprigging or planting, producing long-term vegetative cover; or
+(2)
+Temporary seeding, producing short-term vegetative cover; or
+(3)
+Sodding, covering areas with a turf of perennial sod-forming grass. Such measures can be found in the publication "Manual for Erosion and Sediment Control in Georgia."
+Watercourse: Any natural or artificial watercourse, stream, river, creek, channel, ditch, canal, conduit, culvert, drain, waterway, gully, ravine, or wash in which water flows either continuously or intermittently and which has a definite channel, bed and banks, and including any area adjacent thereto subject to inundation by reason of overflow or floodwater.
+Wetlands: Those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-25. - Exemptions.
+(a)
+This article shall apply to any land-disturbing activity undertaken by any person on any land except for the following:
+(1)
+Surface mining, as the same is defined in O.C.G.A. § 12-4-72, "The Georgia Surface Mining Act of 1968."
+(2)
+Granite quarrying and land clearing for such quarrying;
+(3)
+Such minor land-disturbing activities as home gardens and individual home landscaping, repairs, maintenance work, fences, and other related activities which result in minor soil erosion;
+(4)
+The construction of single-family residences, when such construction disturbs less than one acre and is not a part of a larger common plan of development or sale with a planned disturbance of equal to or greater than one acre and not otherwise exempted under this paragraph; provided, however, that construction of any such residence shall conform to the minimum requirements as set forth in O.C.G.A. § 12-7-6 and this paragraph. For single-family residence construction covered by the provisions of this paragraph, there shall be a buffer zone between the residence and any state waters classified as trout streams pursuant to Article 2 of Chapter 5 of the Georgia Water Quality Control Act. In any such buffer zone, no land-disturbing activity shall be constructed between the residence and the point where vegetation has been wrested by normal stream flow or wave action from the banks of the trout waters. For primary trout waters, the buffer zone shall be at least 50 horizontal feet, and no variance to a smaller buffer shall be granted. For secondary trout waters, the buffer zone shall be at least 50 horizontal feet, but the director may grant variances to no less than 25 feet. Regardless of whether a trout stream is primary or secondary, for first order trout waters, which are streams into which no other streams flow except for springs, the buffer shall be at least 25 horizontal feet, and no variance to a smaller buffer shall be granted. The minimum requirements of O.C.G.A. § 12-7-6(b) and the buffer zones provided by this paragraph shall be enforced by the local issuing authority;
+(5)
+Agricultural operations as defined in O.C.G.A. § 1-3-3, "definitions," to include raising, harvesting or storing of products of the field or orchard; feeding, breeding or managing livestock or poultry; producing or storing feed for use in the production of livestock including, but not limited to, cattle, calves, swine, hogs, goats, sheep, and rabbits or for use in the production of poultry, including but not limited to chickens, hens and turkeys; producing plants, trees, fowl, or animals; the production of aqua culture, horticultural, dairy, livestock, poultry, eggs and apiarian products; farm buildings and farm ponds;
+(6)
+Forestry land management practices, including harvesting; provided, however, that when such exempt forestry practices cause or result in land-disturbing or other activities otherwise prohibited in a buffer, as established in paragraphs 72-26(15) and (16) of subsection (c) of this article, no other land-disturbing activities, except for normal forest management practices, shall be allowed on the entire property upon which the forestry practices were conducted for a period of three years after completion of such forestry practices;
+(7)
+Any project carried out under the technical supervision of the natural resources conservation service (NRCS) of the United States Department of Agriculture;
+(8)
+Any project involving less than one acre of disturbed area; provided, however, that this exemption shall not apply to any land-disturbing activity within a larger common plan of development or sale with a planned disturbance of equal to or greater than one acre or within 200 feet of the bank of any state waters, and for purposes of this paragraph, "state waters" excludes channels and drainage ways which have water in them only during and immediately after rainfall events and intermittent streams which do not have water in them year-round; provided, however, that any person responsible for a project which involves less than one acre, which involves land-disturbing activity, and which is within 200 feet of any such excluded channel or drainage way, must prevent sediment from moving beyond the boundaries of the property on which such project is located and provided, further, that nothing contained herein shall prevent the local issuing authority from regulating any such project which is not specifically exempted by paragraphs (1), (2), (3), (4), (5), (6), (7), or (10) of this section;
+(9)
+Construction or maintenance projects, or both, undertaken or financed in whole or in part, or both, by the department of transportation, the Georgia Highway Authority, or the state road and tollway authority; or any road construction or maintenance project, or both, undertaken by any county or municipality; provided, however, that construction or maintenance projects of the department of transportation or the state road and tollway authority which disturb one or more contiguous acres of land shall be subject to provisions of O.C.G.A. § 12-7-7.1; except where the department of transportation, the Georgia Highway Authority, or the state road and tollway authority is a secondary permittee for a project located within a larger common plan of development or sale under the state general permit, in which case a copy of a notice of intent under the state general permit shall be submitted to the local issuing authority, the local issuing authority shall enforce compliance with the minimum requirements set forth in O.C.G.A. § 12-7-6 as if a permit had been issued, and violations shall be subject to the same penalties as violations by permit holders;
+(10)
+Any land-disturbing activities conducted by any electric membership corporation or municipal electrical system or any public utility under the regulatory jurisdiction of the public service commission, any utility under the regulatory jurisdiction of the Federal Energy Regulatory Commission, any cable television system as defined in O.C.G.A. § 36-18-1, or any agency or instrumentality of the United States engaged in the generation, transmission, or distribution of power; except where an electric membership corporation or municipal electrical system or any public utility under the regulatory jurisdiction of the public service commission, any utility under the regulatory jurisdiction of the Federal Energy Regulatory Commission, any cable television system as defined in O.C.G.A. § 36-18-1, or any agency or instrumentality of the United states engaged in the generation, transmission, or distribution of power is a secondary permittee for a project located within a larger common plan of development or sale under the state general permit, in which case the local issuing authority shall enforce compliance with the minimum requirements set forth in O.C.G.A. § 12-7-6 as if a permit had been issued, and violations shall be subject to the same penalties as violations by permit holders; and
+(11)
+Any public water system reservoir.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-26. - Minimum requirements for erosion, sedimentation and pollution control using best management practices.
+(a)
+General provisions. Excessive soil erosion and resulting sedimentation can take place during land-disturbing activities if requirements of the ordinance and the NPDES general permit are not met. Therefore, plans for those land-disturbing activities which are not exempted by this article shall contain provisions for application of soil erosion, sedimentation and pollution control measures and practices. The provisions shall be incorporated into the erosion, sedimentation and pollution control plans. Soil erosion, sedimentation and pollution control measures and practices shall conform to the minimum requirements of subsections (b) and (c) of this section. The application of measures and practices shall apply to all features of the site, including street and utility installations, drainage facilities and other temporary and permanent improvements. Measures shall be installed to prevent or control erosion, sedimentation and pollution during all stages of any land-disturbing activity in accordance with requirements of this ordinance and the NPDES general permit.
+(b)
+Minimum requirements/BMPs.
+(1)
+Best management practices as set forth in of this article shall be required for all land-disturbing activities. Proper design, installation, and maintenance of best management practices shall constitute a complete defense to any action by the director or to any other allegation of noncompliance with paragraph (2) of this subsection or any substantially similar terms contained in a permit for the discharge of stormwater issued pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act." As used in this subsection the terms "proper design" and "properly designed" mean designed in accordance with the hydraulic design specifications contained in the "Manual for Erosion and Sediment Control in Georgia" specified in O.C.G.A. § 12-7-6(b).
+(2)
+A discharge of stormwater runoff from disturbed areas where best management practices have not been properly designed, installed, and maintained shall constitute a separate violation of any land-disturbing permit issued by a local issuing authority or of any state general permit issued by the division pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act," for each day on which such discharge results in the turbidity of receiving waters being increased by more than 25 nephelometric turbidity units for waters supporting warm water fisheries or by more than ten nephelometric turbidity units for waters classified as trout waters. The turbidity of the receiving waters shall be measured in accordance with guidelines to be issued by the director. This paragraph shall not apply to any land disturbance associated with the construction of single family homes which are not part of a larger common plan of development or sale unless the planned disturbance for such construction is equal to or greater than five acres.
+(3)
+Failure to properly design, install, or maintain best management practices shall constitute a violation of any land-disturbing permit issued by a local issuing authority or of any state general permit issued by the division pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act", for each day on which such failure occurs.
+(4)
+The director may require, in accordance with regulations adopted by the board, reasonable and prudent monitoring of the turbidity level of receiving waters into which discharges from land-disturbing activities occur.
+(5)
+The LIA may set more stringent buffer requirements than stated in subsections 72-26(c)(15) and (16), in light of O.C.G.A. § 12-7-6(c).
+(c)
+The rules and regulations, ordinances, or resolutions adopted pursuant to O.C.G.A. § 12-7-1 et seq. for the purpose of governing land-disturbing activities shall require, as a minimum, protections at least as stringent as the state general permit; and best management practices, including sound conservation and engineering practices to prevent and minimize erosion and resultant sedimentation; which are consistent with, and no less stringent than, those practices contained in the Manual for Erosion and Sediment Control in Georgia published by the Georgia Soil and Water Conservation Commission as of January 1 of the year in which the land-disturbing activity was permitted, as well as the following:
+(1)
+Stripping of vegetation, regrading and other development activities shall be conducted in a manner so as to minimize erosion;
+(2)
+Cut-fill operations must be kept to a minimum;
+(3)
+Development plans must conform to topography and soil type so as to create the lowest practicable erosion potential;
+(4)
+Whenever feasible, natural vegetation shall be retained, protected and supplemented;
+(5)
+The disturbed area and the duration of exposure to erosive elements shall be kept to a practicable minimum;
+(6)
+Disturbed soil shall be stabilized as quickly as practicable;
+(7)
+Temporary vegetation or mulching shall be employed to protect exposed critical areas during development;
+(8)
+Permanent vegetation and structural erosion control practices shall be installed as soon as practicable;
+(9)
+To the extent necessary, sediment in run-off water must be trapped by the use of debris basins, sediment basins, silt traps, or similar measures until the disturbed area is stabilized. As used in this paragraph, a disturbed area is stabilized when it is brought to a condition of continuous compliance with the requirements of O.C.G.A. § 12-7-1 et seq.;
+(10)
+Adequate provisions must be provided to minimize damage from surface water to the cut face of excavations or the sloping of fills;
+(11)
+Cuts and fills may not endanger adjoining property;
+(12)
+Fills may not encroach upon natural watercourses or constructed channels in a manner so as to adversely affect other property owners;
+(13)
+Grading equipment must cross flowing streams by means of bridges or culverts except when such methods are not feasible, provided, in any case, that such crossings are kept to a minimum;
+(14)
+Land-disturbing activity plans for erosion, sedimentation and pollution control shall include provisions for treatment or control of any source of sediments and adequate sedimentation control facilities to retain sediments on-site or preclude sedimentation of adjacent waters beyond the levels specified in subsection (b)(2) of this article;
+(15)
+Except as provided in paragraph (16) of this subsection, there is established a 25-foot buffer along the banks of all state waters, as measured horizontally from the point where vegetation has been wrested by normal stream flow or wave action, except where the director determines to allow a variance that is at least as protective of natural resources and the environment, where otherwise allowed by the director pursuant to O.C.G.A. § 12-2-8, where a drainage structure or a roadway drainage structure must be constructed, provided that adequate erosion control measures are incorporated in the project plans and specifications, and are implemented; or along any ephemeral stream. As used in this provision, the term "ephemeral stream" means a stream: That under normal circumstances has water flowing only during and for a short duration after precipitation events; that has the channel located above the groundwater table year round; for which groundwater is not a source of water; and for which runoff from precipitation is the primary source of water flow, Unless exempted as along an ephemeral stream, the buffers of at least 25 feet established pursuant to part 6 of article 5, chapter 5 of the "Georgia Water Quality Control Act", shall remain in force unless a variance is granted by the director as provided in this paragraph. The following requirements shall apply to any such buffer:
+a.
+No land-disturbing activities shall be conducted within a buffer and a buffer shall remain in its natural, undisturbed state of vegetation until all land-disturbing activities on the construction site are completed. Once the final stabilization of the site is achieved, a buffer may be thinned or trimmed of vegetation as long as a protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed; provided, however, that any person constructing a single-family residence, when such residence is constructed by or under contract with the owner for his or her own occupancy, may thin or trim vegetation in a buffer at any time as long as protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed; and
+b.
+The buffer shall not apply to the following land-disturbing activities, provided that they occur at an angle, as measured from the point of crossing, within 25 degrees of perpendicular to the stream; cause a width of disturbance of not more than 50 feet within the buffer; and adequate erosion control measures are incorporated into the project plans and specifications and are implemented: (i) Stream crossings for water lines; or (ii) Stream crossings for sewer lines; and
+(16)
+There is established a 50-foot buffer as measured horizontally from the point where vegetation has been wrested by normal stream flow or wave action, along the banks of any state waters classified as "trout streams" pursuant to article 2 of chapter 5 of the "Georgia Water Quality Control Act," except where a roadway drainage structure must be constructed; provided, however, that small springs and streams classified as trout streams which discharge an average annual flow of 25 gallons per minute or less shall have a 25-foot buffer or they may be piped, at the discretion of the landowner, pursuant to the terms of a rule providing for a general variance promulgated by the board, so long as any such pipe stops short of the downstream landowner's property and the landowner complies with the buffer requirement for any adjacent trout streams. The director may grant a variance from such buffer to allow land-disturbing activity, provided that adequate erosion control measures are incorporated in the project plans and specifications and are implemented. The following requirements shall apply to such buffer:
+a.
+No land-disturbing activities shall be conducted within a buffer and a buffer shall remain in its natural, undisturbed, state of vegetation until all land-disturbing activities on the construction site are completed. Once the final stabilization of the site is achieved, a buffer may be thinned or trimmed of vegetation as long as a protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed: provided, however, that any person constructing a single-family residence, when such residence is constructed by or under contract with the owner for his or her own occupancy, may thin or trim vegetation in a buffer at any time as long as protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the stream bed; and
+b.
+The buffer shall not apply to the following land-disturbing activities, provided that they occur at an angle, as measured from the point of crossing, within 25 degrees of perpendicular to the stream; cause a width of disturbance of not more than 50 feet within the buffer; and adequate erosion control measures are incorporated into the project plans and specifications and are implemented: (i) stream crossings for water lines; or (ii) stream crossings for sewer lines.
+(d)
+Nothing contained in O.C.G.A. § 12-7-1 et seq. shall prevent any local issuing authority from adopting rules and regulations, ordinances, or resolutions which contain stream buffer requirements that exceed the minimum requirements in subsections (b) and (c) of this article.
+(e)
+The fact that land-disturbing activity for which a permit has been issued results in injury to the property of another shall neither constitute proof of nor create a presumption of a violation of the standards provided for in this article or the terms of the permit.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-27. - Application/permit process.
+(a)
+General. The property owner, developer and designated planners and engineers shall design and review before submittal the general development plans. The local issuing authority shall review the tract to be developed and the area surrounding it. They shall consult the zoning ordinance, stormwater management ordinance, subdivision ordinance, flood damage prevention ordinance, this ordinance, and any other ordinances, rules, regulations or permits, which regulate the development of land within the jurisdictional boundaries of the local issuing authority. However, the owner and/or operator are the only parties who may obtain a permit.
+(b)
+Application requirements.
+(1)
+No person shall conduct any land-disturbing activity within the jurisdictional boundaries of the City of Thomaston without first obtaining a permit from the building and zoning office to perform such activity and providing a copy of notice of intent submitted to EPD if applicable.
+(2)
+The application for a permit shall be submitted to the building official's office and must include the applicant's erosion, sedimentation and pollution control plan with supporting data, as necessary. Said plans shall include, as a minimum, the data specified in subsection (c) of this section. Erosion, sedimentation and pollution control plans, together with supporting data, must demonstrate affirmatively that the land-disturbing activity proposed will be carried out in such a manner that the provisions of subsections (b) and (c) of this section will be met. Applications for a permit will not be accepted unless accompanied by five copies of the applicant's erosion, sedimentation and pollution control plans. All applications shall contain a certification stating that the plan preparer or the designee thereof visited the site prior to creation of the plan in accordance with EPD Rule 391-3-7-.10.
+(3)
+In addition to the local permitting fees, fees will also be assessed pursuant to O.C.G.A. § 12-5-23(a)(5), provided that such fees shall not exceed $80.00 per acre of land-disturbing activity, and these fees shall be calculated and paid by the primary permittee as defined in the state general permit for each acre of land-disturbing activity included in the planned development or each phase of development. All applicable fees shall be paid prior to issuance of the land disturbance permit. In a jurisdiction that is certified pursuant to O.C.G.A. § 12-7-8(a) half of such fees levied shall be submitted to the division; except that any and all fees due from an entity which is required to give notice pursuant to paragraph (9) or (10) of O.C.G.A. § 12-7-17 shall be submitted in full to the article, regardless of the existence of a local issuing authority in the jurisdiction.
+(4)
+Immediately upon receipt of an application and plan for a permit, the local issuing authority shall refer the application and plan to the district for its review and approval or disapproval concerning the adequacy of the erosion, sedimentation and pollution control plan. The district shall approve or disapprove a plan within 35 days of receipt. Failure of the district to act within 35 days shall be considered an approval of the pending plan. The results of the district review shall be forwarded to the local issuing authority. No permit will be issued unless the plan has been approved by the district, and any variances required by subsections (c)(15) and (16) have been obtained, all fees have been paid, and bonding, if required as per subsection (b)(6), have been obtained. Such review will not be required if the local issuing authority and the district have entered into an agreement which allows the local issuing authority to conduct such review and approval of the plan without referring the application and plan to the district. The local issuing authority with plan review authority shall approve or disapprove a revised plan submittal within 35 days of receipt. Failure of the local issuing authority with plan review authority to act within 35 days shall be considered an approval of the revised plan submittal.
+(5)
+If a permit applicant has had two or more violations of previous permits, this ordinance section, or the Erosion and Sedimentation Act, as amended, within three years prior to the date of filing the application under consideration, the local issuing authority may deny the permit application.
+(6)
+The local issuing authority may require the permit applicant to post a bond in the form of government security, cash, irrevocable letter of credit, or any combination thereof up to, but not exceeding, $3,000.00 per acre or fraction thereof of the proposed land-disturbing activity, prior to issuing the permit. If the applicant does not comply with this section or with the conditions of the permit after issuance, the local issuing authority may call the bond or any part thereof to be forfeited and may use the proceeds to hire a contractor to stabilize the site of the land-disturbing activity and bring it into compliance. These provisions shall not apply unless there is in effect an ordinance or statute specifically providing for hearing and judicial review of any determination or order of the local issuing authority with respect to alleged permit violations.
+(c)
+Plan requirements.
+(1)
+Plans must be prepared to meet the minimum requirements as contained in subsections (b) and (c) of this section, or through the use of more stringent, alternate design criteria which conform to sound conservation and engineering practices. The Manual for Erosion and Sediment Control in Georgia is hereby incorporated by reference into this chapter. The plan for the land-disturbing activity shall consider the interrelationship of the soil types, geological and hydrological characteristics, topography, watershed, vegetation, proposed permanent structures including roadways, constructed waterways, sediment control and stormwater management facilities, local ordinances and state laws. Maps, drawings and supportive computations shall bear the signature and seal of the certified design professional. Persons involved in land development design, review, permitting, construction, monitoring, or inspections or any land-disturbing activity shall meet the education and training certification requirements, dependent on his or her level of involvement with the process, as developed by the commission and in consultation with the division and the stakeholder advisory board created pursuant to O.C.G.A. § 12-7-20.
+(2)
+Data required for site plan shall include all the information required from the appropriate erosion, sedimentation and pollution control plan review checklist established by the commission as of January 1 of the year in which the land-disturbing activity was permitted.
+(d)
+Permits.
+(1)
+Permits shall be issued or denied as soon as practicable but in any event not later than 45 days after receipt by the local issuing authority of a completed application, providing variances and bonding are obtained, where necessary and all applicable fees have been paid prior to permit issuance. The permit shall include conditions under which the activity may be undertaken.
+(2)
+No permit shall be issued by the local issuing authority unless the erosion, sedimentation and pollution control plan has been approved by the district and the local issuing authority has affirmatively determined that the plan is in compliance with this article, any variances required by subsections (c)(15) and (16) are obtained, bonding requirements, if necessary, as per subsection (b)(6) are met and all ordinances and rules and regulations in effect within the jurisdictional boundaries of the local issuing authority are met. If the permit is denied, the reason for denial shall be furnished to the applicant.
+(3)
+Any land-disturbing activities by a local issuing authority shall be subject to the same requirements of this article, and any other ordinances relating to land development, as are applied to private persons and the division shall enforce such requirements upon the local issuing authority.
+(4)
+If the tract is to be developed in phases, then a separate permit shall be required for each phase.
+(5)
+The permit may be suspended, revoked, or modified by the local issuing authority, as to all or any portion of the land affected by the plan, upon finding that the holder or his successor in the title is not in compliance with the approved erosion and sedimentation control plan or that the holder or his successor in title is in violation of this ordinance. A holder of a permit shall notify any successor in title to him as to all or any portion of the land affected by the approved plan of the conditions contained in the permit.
+(6)
+The LIA may reject a permit application if the applicant has had two or more violations of previous permits or the Erosion and Sedimentation Act permit requirements within three years prior to the date of the application, in light of O.C.G.A. § 12-7-7(f)(1).
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-28. - Inspection and enforcement.
+(a)
+The building official's office will periodically inspect the sites of land-disturbing activities for which permits have been issued to determine if the activities are being conducted in accordance with the plan and if the measures required in the plan are effective in controlling erosion and sedimentation. Also, the local issuing authority shall regulate primary, secondary and tertiary permittees as such terms are defined in the state general permit. Primary permittees shall be responsible for installation and maintenance of best management practices where the primary permittee is conducting land-disturbing activities. Secondary permittees shall be responsible for installation and maintenance of best management practices where the secondary permittee is conducting land-disturbing activities. Tertiary permittees shall be responsible for installation and maintenance where the tertiary permittee is conducting land-disturbing activities. If, through inspection, it is deemed that a person engaged in land-disturbing activities as defined herein has failed to comply with the approved plan, with permit conditions, or with the provisions of this article, a written notice to comply shall be served upon that person. The notice shall set forth the measures necessary to achieve compliance and shall state the time within which such measures must be completed. If the person engaged in the land-disturbing activity fails to comply within the time specified, he shall be deemed in violation of this article.
+(b)
+The local issuing authority must amend its ordinances to the extent appropriate within 12 months of any amendments to the Erosion and Sedimentation Act of 1975.
+(c)
+The building official's office shall have the power to conduct such investigations as it may reasonably deem necessary to carry out duties as prescribed in this chapter, and for this purpose to enter at reasonable times upon any property, public or private, for the purpose of investigation and inspecting the sites of land-disturbing activities.
+(d)
+No person shall refuse entry or access to any authorized representative or agent of the local issuing authority, the commission, the district, or division who requests entry for the purposes of inspection, and who presents appropriate credentials, nor shall any person obstruct, hamper or interfere with any such representative while in the process of carrying out his official duties.
+(e)
+The district or the commission or both shall semi-annually review the actions of counties and municipalities which have been certified as local issuing authorities pursuant to O.C.G.A. § 12-7-8(a). The district or the commission or both may provide technical assistance to any county or municipality for the purpose of improving the effectiveness of the county's or municipality's erosion, sedimentation and pollution control program. The district or the commission shall notify the division and request investigation by the division if any deficient or ineffective local program is found.
+(f)
+The division may periodically review the actions of counties and municipalities which have been certified as local issuing authorities pursuant to O.C.G.A. § 12-7-8(a). Such review may include, but shall not be limited to, review of the administration and enforcement of a governing authority's ordinance and review of conformance with an agreement, if any, between the district and the governing authority. If such review indicates that the governing authority of any county or municipality certified pursuant to O.C.G.A. § 12-7-8(a) has not administered or enforced its ordinances or has not conducted the program in accordance with any agreement entered into pursuant to O.C.G.A. § 12-7-7(e), the division shall notify the governing authority of the county or municipality in writing. The governing authority of any county or municipality so notified shall have 90 days within which to take the necessary corrective action to retain certification as a local issuing authority. If the county or municipality does not take necessary corrective action within 90 days after notification by the division, the division shall revoke the certification of the county or municipality as a local issuing authority.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-29. - Penalties and incentives.
+(a)
+Failure to obtain a permit for land-disturbing activity. If any person commences any land-disturbing activity requiring a land-disturbing permit as prescribed in this article without first obtaining said permit, the person shall be subject to revocation of his business license, work permit or other authorization for the conduct of a business and associated work activities within the jurisdictional boundaries of the local issuing authority.
+(b)
+Stop-work orders.
+(1)
+For the first and second violations of the provisions of this article, the director or the local issuing authority shall issue a written warning to the violator. The violator shall have five days to correct the violation, if the violation is not corrected within five days, the director or the local issuing authority shall issue a stop-work order requiring that land-disturbing activities be stopped until necessary corrective action or mitigation has occurred; provided, however, that, if the violation presents an imminent threat to public health or waters of the state or if the land-disturbing activities are conducted without obtaining the necessary permit, the director or the local issuing authority shall issue an immediate stop-work order in lieu of a warning;
+(2)
+For a third and each subsequent violation, the director or the local issuing authority shall issue an immediate stop-work order; and
+(3)
+All stop-work orders shall be effective immediately upon issuance and shall be in effect until the necessary corrective action or mitigation has occurred;
+(4)
+When a violation in the form of taking action without a permit, failure to maintain a stream buffer, or significant amounts of sediment, as determined by the local issuing authority or by the director or his or her designee, have been or are being discharged into state waters and where best management practices have not been properly designed, installed, and maintained, a stop work order shall be issued by the local issuing authority or by the director or his or her designee. All such stop work orders shall be effective immediately upon issuance and shall be in effect until the necessary corrective action or mitigation has occurred. Such stop work orders shall apply to all land-disturbing activity on the site with the exception of the installation and maintenance of temporary or permanent erosion and sediment controls.
+(c)
+Bond forfeiture. If, through inspection, it is determined that a person engaged in land-disturbing activities has failed to comply with the approved plan, a written notice to comply shall be served upon that person. The notice shall set forth the measures necessary to achieve compliance with the plan and shall state the time within which such measures must be completed. If the person engaged in the land-disturbing activity fails to comply within the time specified, he shall be deemed in violation of this chapter, in addition to other penalties, shall be deemed to have forfeited his performance bond, if required to post one under the provisions of subsection (b)(6). The local issuing authority may call the bond or any part thereof to be forfeited and may use the proceeds to hire a contractor to stabilize the site of the land-disturbing activity and bring it into compliance.
+(d)
+Monetary penalties. Any person who violates any provisions of this article, or any permit condition or limitation established pursuant to this article, or who negligently or intentionally fails or refuses to comply with any final or emergency order of the director issued as provided in this article shall be liable for a civil penalty not to exceed $2,500.00 per day. For the purpose of enforcing the provisions of this article, notwithstanding any provisions in any City Charter to the contrary, municipal courts shall be authorized to impose penalty not to exceed $2,500.00 for each violation. Notwithstanding any limitation of law as to penalties which can be assessed for violations of county ordinances, any magistrate court or any other court of competent jurisdiction trying cases brought as violations of this article under county ordinances approved under this article shall be authorized to impose penalties for such violations not to exceed $2,500.00 for each violation. Each day during which violation or failure or refusal to comply continues shall be a separate violation.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-30. - Education and certification.
+(a)
+Persons involved in land development design, review, permitting, construction, monitoring, or inspection or any land-disturbing activity shall meet the education and training certification requirements, dependent on their level of involvement with the process, as developed by the commission in consultation with the division and the stakeholder advisory board created pursuant to O.C.G.A. § 12-7-20.
+(b)
+For each site on which land-disturbing activity occurs, each entity or person acting as either a primary, secondary, or tertiary permittee, as defined in the state general permit, shall have as a minimum one person who is in responsible charge of erosion and sedimentation control activities on behalf of said entity or person and meets the applicable education or training certification requirements developed by the commission present on site whenever land-disturbing activities are conducted on that site. A project site shall herein be defined as any land-disturbance site or multiple sites within a larger common plan of development or sale permitted by an owner or operator for compliance with the state general permit.
+(c)
+Persons or entities involved in projects not requiring a state general permit but otherwise requiring certified personnel on site may contract with certified persons to meet the requirements of this article.
+(d)
+If a state general permittee who has operational control of land-disturbing activities for a site has met the certification requirements of O.C.G.A. § 12-7-19(b)(1), then any person or entity involved in land-disturbing activity at that site and operating in a subcontractor capacity for such permittee shall meet those educational requirements specified in O.C.G.A. § 12-7-19(b)(4) and shall not be required to meet any educational requirements that exceed those specified in said paragraph.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-31. - Administrative appeal judicial review.
+(a)
+Administrative remedies. The suspension, revocation, modification or grant with condition of a permit by the local issuing authority upon finding that the holder is not in compliance with the approved erosion, sediment and pollution control plan; or that the holder is in violation of permit conditions; or that the holder is in violation of any ordinance; shall entitle the person submitting the plan or holding the permit to a hearing before the Thomaston City Council within 45 days after receipt by the local issuing authority of written notice of appeal.
+(b)
+Judicial review. Any person, aggrieved by a decision or order of the local issuing authority, after exhausting his administrative remedies, shall have the right to appeal de novo to the Superior Court of the Griffin Circuit.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-32. - Effectivity, validity and liability.
+(a)
+Effectivity. This article shall become effective [upon adoption].
+(b)
+Validity. If any section, paragraph, clause, phrase, or provision of this article shall be adjudged invalid or held unconstitutional, such decisions shall not affect the remaining portions of this article.
+(c)
+Liability.
+(1)
+Neither the approval of a plan under the provisions of this article, nor the compliance with provisions of this article shall relieve any person from the responsibility for damage to any person or property otherwise imposed by law nor impose any liability upon the local issuing authority or district for damage to any person or property.
+(2)
+The fact that a land-disturbing activity for which a permit has been issued results in injury to the property of another shall neither constitute proof of nor create a presumption of a violation of the standards provided for in this article or the terms of the permit.
+(3)
+No provision of this article shall permit any persons to violate the Georgia Erosion and Sedimentation Act of 1975, the Georgia Water Quality Control Act or the rules and regulations promulgated and approved thereunder or pollute any waters of the state as defined thereby.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-33—72-43. - Reserved.
+ARTICLE III. - ILLICIT DISCHARGE AND ILLEGAL CONNECTION
+
+Sec. 72-44. - General provisions.
+(a)
+Purpose and intent. The purpose of this article is to protect the public health, safety, environment and general welfare through the regulation of non-stormwater discharges to the municipal separate storm sewer system to the maximum extent practicable as required by federal law. This article establishes methods for controlling the introduction of pollutants into the municipal separate storm sewer system in order to comply with requirements of the National Pollutant Discharge Elimination System (NPDES) permit process. The objectives of this article are to:
+(1)
+Regulate the contribution of pollutants to the municipal separate storm sewer system by any person;
+(2)
+Prohibit illicit discharges and illegal connections to the municipal separate storm sewer system;
+(3)
+Prevent non-stormwater discharges, generated as a result of spills, inappropriate dumping or disposal, to the municipal separate storm sewer system; and,
+(4)
+To establish legal authority to carry out all inspection, surveillance, monitoring and enforcement procedures necessary to ensure compliance with this article.
+(b)
+Applicability. The provisions of this article shall apply throughout the corporate area of the City of Thomaston.
+(c)
+Compatibility with other regulations. This article is not intended to modify or repeal any other ordinance, rule, regulation, other provision of law. The requirements of this article are in addition to the requirements of any other ordinance, rule, regulation, or other provision of law, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule, regulation, or other provision of law, whichever provision is more restrictive or imposes higher protective standards for human health or the environment shall control.
+(d)
+Severability. If the provisions of any section, subsection, paragraph, subdivision or clause of this article shall be adjudged invalid by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of any section, subsection, paragraph, subdivision or clause of this article.
+(e)
+Responsibility for administration. The City of Thomaston through the city manager or through the city manager's designee shall administer, implement, and enforce the provisions of this article.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-45. - Definitions.
+Accidental discharge means a discharge prohibited by this article which occurs by chance and without planning or thought prior to occurrence.
+Clean Water Act means the Federal Water Pollution Control Act (33 U.S.C. § 1251 et seq.), and any subsequent amendments thereto.
+Construction activity means activities subject to the Georgia Erosion and Sedimentation Control Act or NPDES general construction permits. These include construction projects resulting in land disturbance. Such activities include but are not limited to clearing and grubbing, grading, excavating, and demolition.
+Illegal connection means either of the following:
+(1)
+Any pipe, open channel, drain or conveyance, whether on the surface or subsurface, which allows an illicit discharge to enter the storm drain system including but not limited to any conveyances which allow any non-stormwater discharge including sewage, process wastewater, and wash water to enter the storm drain system, regardless of whether such pipe, open channel, drain or conveyance has been previously allowed, permitted, or approved by an authorized enforcement agency; or
+(2)
+Any pipe, open channel, drain or conveyance connected to the municipal separate storm sewer system which has not been documented in plans, maps, or equivalent records and approved by an authorized enforcement agency.
+Illicit discharge means any direct or indirect non-stormwater discharge to the municipal separate storm sewer system, except as exempted in section 72-46 of this article.
+Industrial activity means activities subject to NPDES industrial permits as defined in 40 CFR, Section 122.26(b)(14).
+Municipal separate storm sewer system means any facility designed or used for collecting and/or conveying stormwater, including but not limited to any roads with drainage systems, highways, municipal streets, curbs, gutters, inlets, catch basins, piped storm drains, pumping facilities, structural stormwater controls, ditches, swales, natural and manmade or altered drainage channels, reservoirs, and other drainage structures, and which is:
+(1)
+Owned or maintained by the City of Thomaston or the Georgia Department of Transportation;
+(2)
+Not a combined sewer; and
+(3)
+Not part of a publicly-owned treatment works.
+National Pollutant Discharge Elimination System (NPDES) stormwater discharge permit means a permit issued by the Georgia EPD under authority delegated pursuant to 33 USC § 1342(b) that authorizes the discharge of pollutants to waters of the United States, whether the permit is applicable on an individual, group, or general area-wide basis.
+Non-stormwater discharge means any discharge to the storm drain system that is not composed entirely of stormwater.
+Person means, except to the extent exempted from this article, any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the state, any interstate body or any other legal entity.
+Pollutant means anything which causes or contributes to pollution. Pollutants may include, but are not limited to: paints, varnishes, and solvents; petroleum hydrocarbons; automotive fluids; cooking grease; detergents (biodegradable or otherwise); degreasers; cleaning chemicals; non-hazardous liquid and solid wastes and yard wastes; refuse, rubbish, garbage, litter, or other discarded or abandoned objects and accumulations, so that same may cause or contribute to pollution; floatables; pesticides, herbicides, and fertilizers; liquid and solid wastes; sewage, fecal coliform and pathogens; dissolved and particulate metals; animal wastes; wastes and residues that result from constructing a building or structure; concrete and cement; and noxious or offensive matter of any kind.
+Pollution means the contamination or other alteration of any water's physical, chemical or biological properties by the addition of any constituent and includes but is not limited to, a change in temperature, taste, color, turbidity, or odor of such waters, or the discharge of any liquid, gaseous, solid, radioactive, or other substance into any such waters as will or is likely to create a nuisance or render such waters harmful, detrimental or injurious to the public health, safety, welfare, or environment, or to domestic, commercial, industrial, agricultural, recreational, or other legitimate beneficial uses, or to livestock, wild animals, birds, fish or other aquatic life.
+Premises means any building, lot, parcel of land, or portion of land whether improved or unimproved including adjacent sidewalks and parking strips.
+State waters means any and all rivers, streams, creeks, branches, lakes, reservoirs, ponds, drainage systems, springs, wells, and other bodies of surface and subsurface water, natural or artificial, lying within or forming a part of the boundaries of the State of Georgia which are not entirely confined and retained completely upon the property of a single person.
+Stormwater runoff or stormwater means any surface flow, runoff, and drainage consisting entirely of water from any form of natural precipitation, and resulting from such precipitation.
+Structural stormwater control means a structural stormwater management facility or device that controls stormwater runoff and changes the characteristics of that runoff including, but not limited to, the quantity and quality, the period of release or the velocity of flow.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-46. - Prohibitions.
+(a)
+Prohibition of illicit discharges. No person shall throw, drain, or otherwise discharge, cause, or allow others under its control to throw, drain, or otherwise discharge into the municipal separate storm sewer system any pollutants or waters containing any pollutants, other than stormwater.
+The following discharges are exempt from the prohibition provision above:
+(1)
+Water line flushing performed by a government agency, other potable water sources, landscape irrigation or lawn watering, diverted stream flows, rising ground water, ground water infiltration to storm drains, uncontaminated pumped ground water, foundation or footing drains (not including active groundwater dewatering systems), crawl space pumps, air conditioning condensation, springs, natural riparian habitat or wetland flows, and any other water source not containing pollutants;
+(2)
+Discharges or flows from fire fighting, and other discharges specified in writing by the City of Thomaston's Fire Department as being necessary to protect public health and safety;
+(3)
+The prohibition provision above shall not apply to any non-stormwater discharge permitted under an NPDES permit or order issued to the discharger and administered under the authority of the state and the Federal Environmental Protection Agency, provided that the discharger is in full compliance with all requirements of the permit, waiver, or order and other applicable laws and regulations, and provided that written approval has been granted for any discharge to the municipal separate storm sewer system.
+(b)
+Prohibition of illegal connections. The construction, connection, use, maintenance or continued existence of any illegal connection to the municipal separate storm sewer system is prohibited.
+(1)
+This prohibition expressly includes, without limitation, illegal connections made in the past, regardless of whether the connection was permissible under law or practices applicable or prevailing at the time of connection.
+(2)
+A person violates this article if the person connects a line conveying sewage to the municipal separate storm sewer system, or allows such a connection to continue.
+(3)
+Improper connections in violation of this article must be disconnected and redirected, if necessary, to an approved onsite wastewater management system or the sanitary sewer system upon approval of the city sanitary sewer department.
+(4)
+Any drain or conveyance that has not been documented in plans, maps or equivalent, and which may be connected to the storm sewer system, shall be located by the owner or occupant of that property upon receipt of written notice of violation from the City of Thomaston requiring that such locating be completed. Such notice will specify a reasonable time period within which the location of the drain or conveyance is to be completed, that the drain or conveyance be identified as storm sewer, sanitary sewer or other, and that the outfall location or point of connection to the storm sewer system, sanitary sewer system or other discharge point be identified. Results of these investigations are to be documented and provided to the City of Thomaston.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-47. - Industrial or construction activity discharges.
+Any person subject to an industrial or construction activity NPDES stormwater discharge permit shall comply with all provisions of such permit. Proof of compliance with said permit may be required in a form acceptable to the City of Thomaston prior to allowing discharges to the municipal separate storm sewer system.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-48. - Access and inspection of properties and faculties.
+The City of Thomaston shall be permitted to enter and inspect properties and facilities at reasonable times as often as may be necessary to determine compliance with this article.
+(1)
+If a property or facility has security measures in force which require proper identification and clearance before entry into its premises, the owner or operator shall make the necessary arrangements to allow access to representatives of the City of Thomaston.
+(2)
+The owner or operator shall allow the City of Thomaston ready access to all parts of the premises for the purposes of inspection, sampling, photography, videotaping, examination and copying of any records that are required under the conditions of an NPDES permit to discharge stormwater.
+(3)
+The City of Thomaston shall have the right to set up on any property or facility such devices as are necessary in the opinion of the City of Thomaston to conduct monitoring and/or sampling of flow discharges.
+(4)
+The City of Thomaston may require the owner or operator to install monitoring equipment and perform monitoring as necessary, and make the monitoring data available to the City of Thomaston. This sampling and monitoring equipment shall be maintained at all times in a safe and proper operating condition by the owner or operator at his/her own expense. All devices used to measure flow and quality shall be calibrated to ensure their accuracy.
+(5)
+Any temporary or permanent obstruction to safe and easy access to the property or facility to be inspected and/or sampled shall be promptly removed by the owner or operator at the written or oral request of the City of Thomaston and shall not be replaced. The costs of clearing such access shall be borne by the owner or operator.
+(6)
+Unreasonable delays in allowing the City of Thomaston access to a facility is a violation of this article.
+(7)
+If the City of Thomaston has been refused access to any part of the premises from which stormwater is discharged, and the City of Thomaston is able to demonstrate probable cause to believe that there may be a violation of this article, or that there is a need to inspect and/or sample as part of a routine inspection and sampling program designed to verify compliance with this article or any order issued hereunder, or to protect the overall public health, safety, environment and welfare of the community, then the City of Thomaston may seek issuance of a search warrant from any court of competent jurisdiction.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-49. - Notification of accidental discharges and spills.
+Notwithstanding other requirements of law, as soon as any person responsible for a facility, activity or operation, or responsible for emergency response for a facility, activity or operation has information of any known or suspected release of pollutants or non-stormwater discharges from that facility or operation which are resulting or may result in illicit discharges or pollutants discharging into stormwater, the municipal separate storm sewer system, state waters, or waters of the U.S., said person shall take all necessary steps to ensure the discovery, containment, and cleanup of such release so as to minimize the effects of the discharge.
+Said person shall notify the authorized enforcement agency in person or by phone, facsimile or in person no later than 24 hours of the nature, quantity and time of occurrence of the discharge. Notifications in person or by phone shall be confirmed by written notice addressed and mailed to the City of Thomaston within three business days of the phone or in person notice. If the discharge of prohibited materials emanates from a commercial or industrial establishment, the owner or operator of such establishment shall also retain an on-site written record of the discharge and the actions taken to prevent its recurrence. Such records shall be retained for at least three years. Said person shall also take immediate steps to ensure no recurrence of the discharge or spill.
+In the event of such a release of hazardous materials, emergency response agencies and/or other appropriate agencies shall be immediately notified.
+Failure to provide notification of a release as provided above is a violation of this article.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-50. - Violations, enforcement and penalties.
+(a)
+Violations. It shall be unlawful for any person to violate any provision or fail to comply with any of the requirements of this article. Any person who has violated or continues to violate the provisions of this article, may be subject to the enforcement actions outlined in this section or may be restrained by injunction or otherwise abated in a manner provided by law.
+In the event the violation constitutes an immediate danger to public health or public safety, the City of Thomaston is authorized to enter upon the subject private property, without giving prior notice, to take any and all measures necessary to abate the violation and/or restore the property. The City of Thomaston is authorized to seek costs of the abatement as outlined in subsection (e) below.
+(b)
+Notice of violation. Whenever the City of Thomaston finds that a violation of this article has occurred, the City of Thomaston may order compliance by written notice of violation.
+(1)
+The notice of violation shall contain:
+a.
+The name and address of the alleged violator;
+b.
+The address when available or a description of the building, structure or land upon which the violation is occurring, or has occurred;
+c.
+A statement specifying the nature of the violation;
+d.
+A description of the remedial measures necessary to restore compliance with this article and a time schedule for the completion of such remedial action;
+e.
+A statement of the penalty or penalties that shall or may be assessed against the person to whom the notice of violation is directed; and,
+f.
+A statement that the determination of violation may be appealed to the City of Thomaston by filing a written notice of appeal within 30 days of service of notice of violation.
+(2)
+Such notice may require without limitation:
+a.
+The performance of monitoring, analyses, and reporting;
+b.
+The elimination of illicit discharges and illegal connections;
+c.
+That violating discharges, practices, or operations shall cease and desist;
+d.
+The abatement or remediation of stormwater pollution or contamination hazards and the restoration of any affected property;
+e.
+Payment of costs to cover administrative and abatement costs; and,
+f.
+The implementation of pollution prevention practices.
+(c)
+Appeal of notice of violation. Any person receiving a notice of violation may appeal the determination of the City of Thomaston. The notice of appeal must be received within 30 days from the date of the notice of violation. Hearing on the appeal before the City of Thomaston's City Manager's Office or his/her designee shall take place within 15 days from the date of receipt of the notice of appeal. The decision of the appropriate authority or their designee shall be final.
+(d)
+Enforcement measures after appeal. If the violation has not been corrected pursuant to the requirements set forth in the notice of violation, or, in the event of an appeal, within 30 days of the decision of the appropriate authority upholding the decision of the City of Thomaston, then representatives of the City of Thomaston may enter upon the subject private property and are authorized to take any and all measures necessary to abate the violation and/or restore the property. It shall be unlawful for any person, owner, agent or person in possession of any premises to refuse to allow the government agency or designated contractor to enter upon the premises for the purposes set forth above.
+(e)
+Costs of abatement of the violation. Within 30 days after abatement of the violation, the owner of the property will be notified of the cost of abatement, including administrative costs. The property owner may file a written protest objecting to the assessment or to the amount of the assessment within 15 days of such notice. If the amount due is not paid within 30 days after receipt of the notice, or if an appeal is taken, within 30 days after a decision on said appeal, the charges shall become a special assessment against the property and shall constitute a lien on the property for the amount of the assessment. Any person violating any of the provisions of this article shall become liable to the City of Thomaston by reason of such violation.
+(f)
+Civil penalties. In the event the alleged violator fails to take the remedial measures set forth in the notice of violation or otherwise fails to cure the violations described therein within ten days, or such greater period as the City of Thomaston shall deem appropriate, after the City of Thomaston has taken one or more of the actions described above, the City of Thomaston may impose a penalty not to exceed $1,000.00 (depending on the severity of the violation) for each day the violation remains unremedied after receipt of the notice of violation.
+(g)
+Criminal penalties. For intentional and flagrant violations of this article, the City of Thomaston may issue a citation to the alleged violator requiring such person to appear in City of Thomaston Municipal Court to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed $1,000.00 or imprisonment for 60 days or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+(h)
+Violations deemed a public nuisance. In addition to the enforcement processes and penalties provided, any condition caused or permitted to exist in violation of any of the provisions of this article is a threat to public health, safety, welfare, and environment and is declared and deemed a nuisance, and may be abated by injunctive or other equitable relief as provided by law.
+(i)
+Remedies not exclusive. The remedies listed in this article are not exclusive of any other remedies available under any applicable federal, state or local law and the City of Thomaston may seek cumulative remedies.
+The City of Thomaston may recover attorney's fees, court costs, and other expenses associated with enforcement of this article, including sampling and monitoring expenses.
+( Ord. No. 1162 , 12-7-21)
+Sec. 72-51—72-61. - Reserved.

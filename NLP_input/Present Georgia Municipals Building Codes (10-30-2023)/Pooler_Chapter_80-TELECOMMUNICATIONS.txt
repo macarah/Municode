@@ -1,0 +1,645 @@
+Chapter 80 - TELECOMMUNICATIONS
+ARTICLE I. - WIRELESS TELECOMMUNICATIONS FACILITIES
+
+Sec. 80-1. - Purpose and intent.
+The intent of this article is to provide standards for the development of wireless telecommunications facilities (WTFs) for personal wireless services and to:
+(1)
+Promote the health, safety and general welfare of the public by regulating the siting of and establishing development standards for WTFs and related equipment and infrastructure.
+(2)
+Minimize the impacts of WTFs on surrounding areas by recognizing the variety of facilities and establishing standards for location, aesthetics, structural integrity and compatibility.
+(3)
+Encourage the location and collocation of wireless communication equipment on existing structures thereby minimizing new visual, aesthetic and public safety impacts, effects upon the natural environment, and to reduce the need for additional WTFs.
+(4)
+Encourage coordination between suppliers and providers of personal wireless services in the City of Pooler (city).
+(5)
+Follow and promote the policies embodied in Section 704 of the Federal Telecommunications Act of 1996 in such a manner as to not unreasonably discriminate between providers of functionally equivalent personal wireless services or to prohibit or have the effect of prohibiting personal wireless services in the city.
+(6)
+Promote the orderly development of telecommunications infrastructure through coordination of master plans among the city and participating personal wireless service providers.
+(7)
+Protect the beauty and character of the city, particularly residential districts, recognized historic areas, and scenic vistas and landscapes, while meeting the needs of its citizens to enjoy the benefits of personal wireless services.
+(8)
+Encourage the use of public lands, buildings, and structures as locations for WTFs as a method to establish a precedence of quality concealment products that will minimize the aesthetic impact of related infrastructure.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-2. - Definitions.
+The following definitions are in addition to definitions in section 80-31. Where the same or similar definitions exist, the definitions of this article shall apply in reference to WTFs.
+Abandonment. The intent to abandon or discontinue operations as evidenced by voluntary conduct or failure to use a wireless telecommunications facility for a period of six months or more.
+Above ground level (AGL). A measurement of height from the natural grade of a site to the highest point of a structure.
+AGL. See Above ground level.
+Ancillary structures. Any development associated with a wireless telecommunications facility, including but not limited to foundations, concrete slabs on grade, guy wire anchors, generators and transmission cable supports. This definition does not include equipment compound.
+Antenna. Any apparatus designed for transmitting and/or receiving electromagnetic waves that includes but is not limited to: telephonic, radio or television communications. Types of antennas include, but are not limited to: omni-directional (whip) antennas, sectorized (panel) antennas, or parabolic (dish) antennas.
+Antenna array. A single set or group of antennas and their associated mounting hardware, transmission lines or other appurtenances which share a common attachment device such as a mounting frame or mounting support.
+Antenna support structure. A vertical projection, typically composed of metal, with or without a foundation that is for the express purpose of accommodating antennas at a desired height above grade.
+Antenna types (as referred to in the modifications section) for the purposes of this article are defined as cellular, panel, whip and dish. A change to the type of antenna installed on a tower shall be considered a modification.
+Applicant. A person or entity with an application for the permit of a wireless telecommunications facility. A co-applicant is any person or entity that joins with an applicant in an application for the same permit, including the property owner, antenna support structure owner, and any proposed tenants for the facility.
+Attached wireless telecommunications facility. An antenna or antenna array that is secured to an existing building or structure (except an antenna support structure) with any accompanying pole or device which attaches it to the building or structure, together with transmission cables, and an equipment cabinet, which may be located either on the roof or inside/outside of the building or structure. An attached wireless telecommunications facility is considered to be an accessory use to the existing principal use on a site.
+Base station. The primary sending and receiving site in a telecommunications facility network. More than one base station and/or more than provider can be located on a single antenna support structure.
+Breakpoint technology. The engineering design of a monopole wherein a specified point on the monopole is designed to have stresses concentrated so that the point is at least five percent more susceptible to failure than any other point along the monopole. In the event of a structural failure of the monopole, the failure will occur at the breakpoint rather than at the base plate, anchor bolts, or any other point on the monopole.
+Cellular telecommunications. A commercial low power mobile radio service bandwidth licensed by the FCC to providers in a specific geographical area in which the radio frequency spectrum is divided into discrete channels which are assigned in group to geographic cells within a service area and which are capable of being reused in different cells within the service area.
+City. The City of Pooler.
+City council. The city council for the City of Pooler.
+Collocation. A situation in which two or more wireless personal service providers place a wireless telecommunications antenna or antennas and feed lines on a common antenna support structure or other structure on which there is an existing antenna array. The term "collocation" shall not be applied to a situation where two or more wireless personal service providers independently place equipment on an existing building.
+Combined antenna. An antenna or antenna array designed and utilized to provide services for more than one wireless provider for the same or similar type of services.
+Concealed. A wireless telecommunications facility that is disguised, hidden, part of an existing or proposed structure or placed within an existing or proposed structure, to include antennas, ancillary structures, and utilities. Concealment is further explained in subsection 80-6(4).
+Contributing structure. A structure listed on the Georgia Register of Historic Places; the National Register of Historic Places; or that is at least 50 years old, has not had any major exterior alterations that has changed its original architectural character, and that has had an historic survey which documents the structure as contributing to the historic district in which it is located.
+Coverage. The geographic area reached by an individual wireless telecommunications facility installation.
+Decision. The conclusion of a wireless telecommunications facility application review that results in an approval or denial with or without conditions. Decisions may be appealed as identified within this article.
+Dual lighting systems. Strobe lights during daytime and flashing red lights during non-daytime.
+Equipment compound. The area or structure surrounding a ground-based wireless telecommunications facility including, but not limited to, the areas inside or under the following: an antenna support structure's framework and ancillary structures such as equipment necessary to operate the antenna on the facility that is above the base flood elevation including: cabinets, shelters, pedestals, generators and other similar structures.
+Equipment cabinet. A structure located at a base station that is above the base flood elevation and designed exclusively to contain radio or other equipment necessary for the transmission or reception of wireless telecommunication signals. A cabinet cannot be used for storage and/or habitable space.
+Existing structures and facilities. Any wireless telecommunications facility for which a permit has been properly issued prior to the effective date of the ordinance from which this article is derived.
+FAA. Federal Aviation Administration.
+FCC. Federal Communications Commission. The government agency responsible for regulating telecommunications.
+Feed lines. The interconnecting media between the transmission/receiving base station and the antenna.
+Functionally equivalent services. Cellular, personal communications services (PCS), enhanced specialized mobile radio, specialized mobile radio and paging services.
+Geographic search area (GSA). An area designated by a wireless provider or operator for a new base station, produced in accordance with generally accepted principles of wireless engineering.
+GSA. See Geographic Search Area.
+Guyed structure. A style of antenna support structure consisting of a single truss assembly composed of sections with bracing incorporated. The sections are attached to each other, and the assembly is attached to a foundation and supported by a series of wires that are connected to anchors placed in the ground or on a building.
+Lattice structure. Typically a tapered style of antenna support structure that consists of vertical and horizontal supports with multiple legs and cross-bracing and metal crossed strips or bars to support antennas.
+Least visually obtrusive profile. The design of a wireless telecommunications facility intended to present a visual profile that is the minimum profile necessary for the facility to properly function.
+Location. The area where a wireless telecommunications facility is located or proposed to be located. Reference to location shall be exact longitude and latitude, to the nearest tenth of a second. Bearing or orientation is referenced to true north.
+Modification. The change, or proposed change, of any portion of a wireless telecommunication facility from its description in a previously approved WTF permit. Modification includes structural reinforcement, change in antenna type, and changes that alter the appearance, size or height of a WTF.
+Monopole. A style of freestanding antenna support structure that consists of a single shaft usually composed of two or more hollow sections that are in turn attached to a foundation. This type of antenna support structure is designed to support itself without the use of guy wires or other stabilization devices. These facilities are mounted to a foundation that rests on or in the ground or on the roof of a building.
+Mount. The surface upon which antennas are mounted. Mounts described in this article include: roof-mounts (mounted on the roof of a building) and side-mounts (mounted on the side of a building).
+Personal wireless telecommunications services. Commercial mobile radio services, unlicensed wireless services and common carrier wireless exchange access service as identified in the Telecommunications Act of 1996.
+Planning and zoning commission. The planning and zoning commission for the City of Pooler.
+Provider. Any entity licensed by the FCC to provide subscriber-based personal wireless telecommunications services.
+Radio frequency engineer. An engineer specializing in electrical or microwave engineering, especially the study of radio frequencies.
+Recognized historic area. Districts or locations identified as having historic and/or architectural significance through an ordinance, guideline, map, listing or designation by a local, state or federal government.
+Review. A review of a wireless telecommunication facility application by applicable administrators, staff, or commissions that results in a decision.
+Screening. The use of design, existing buildings and structures, existing and proposed vegetation and color to obscure a wireless telecommunications facility.
+Separation. The vertical distance between one carrier's antenna array and the antenna array of another carrier.
+Siting. The method and form of placement of a wireless telecommunications facility on a specific area of a property.
+Unlicensed wireless services. Commercial mobile services that can operate on public domain.
+Wireless telecommunications facility (WTF). A staffed or unstaffed commercial facility for the transmission and/or reception of radio frequency signals, or other wireless communications, and usually consisting of an antenna or groups of antennas, transmission cables and equipment enclosures, and may include an antenna support structure. The following non-exclusive list shall be considered a wireless telecommunications facility: new and existing antenna support structures, replacement antenna support structures, collocations on existing antenna support structures, attached wireless telecommunications facilities and concealed wireless telecommunications facilities.
+WTF. See Wireless telecommunications facility.
+Zoning administrator. The city manager or his or her designee.
+(Ord. of 6-19-2006, §§ I, II; Ord. of 4-2-2012(1) , § I)
+Sec. 80-3. - Applicability and exemptions.
+(a)
+Applicability. This article shall apply to the installation, construction or modification of the following WTFs:
+(1)
+Existing antenna support structures.
+(2)
+Proposed antenna support structures.
+(3)
+Replacement and modification of existing antenna support structures.
+(4)
+Collocation or combining on existing antenna support structures.
+(5)
+Attached WTFs.
+(6)
+Concealed WTFs.
+(7)
+Temporary WTFs.
+(b)
+Exemptions. The following uses are exempt from the requirements of this article notwithstanding any other land development provision, but are subject to all applicable building code compliance and building permit reviews:
+(1)
+Non-commercial, amateur radio antennas.
+(2)
+Single-use local radio dispatch.
+(3)
+Television antennas for home reception use.
+(4)
+Satellite earth stations that are one meter (39.37 inches) or less in diameter in all residential districts and two meters or less in all other zoning districts.
+(5)
+Antenna support structures, antennas and/or antenna arrays for AM/FM/TV/HDTV broadcasting transmission facilities that are licensed by the FCC.
+(6)
+A temporary, commercial WTF, upon the declaration of emergency by federal, state or local government, or determination of public necessity by the city, and approval by the city manager or his or her designee; except that such WTF must comply with all federal and state requirements. The exemption may continue up to 120 days after the duration of the state of emergency with the approval of the city manager.
+(7)
+A temporary, commercial WTF for the purposes of providing coverage of a special event such as news coverage or sporting event, subject to approval of the city manager or his or her designee, except that such WTF must comply with all federal and state requirements. The exemption may continue up to seven days after the duration of the special event.
+(8)
+Any modification not described in section 80-7.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-4. - Wireless telecommunications facilities master plan.
+The wireless telecommunications facilities combines the land use planning strategies with the industry-accepted radio frequency (RF) engineering standards to create an illustrative planning tool that complements zoning regulations. The master plan offers strategies to reduce tower infrastructure by improving efforts to morph wireless deployments from various service providers, thereby minimizing tower proliferation by increasing shared sites. The master plan lists existing antenna locations and potential city-owned lands that may be used for future antenna locations.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-5. - Submittal requirements.
+An application for a WTF shall include the applicable items listed in this section, in addition to other requirements within this article.
+(1)
+Authorization from co-applicants. For all facilities, all parties with an ownership interest, including the land owner, support structure owner, and facility owner shall be co-applicants and be bound by and comply with all terms, limitations, requirements and conditions that are part of this article and of any permit issued. The WTF applicant shall provide signed authorization from co-applicants allowing the application.
+(2)
+Evidence of need report. For all WTFs, a report certified by a radio frequency engineer shall be provided that demonstrates that no existing WTF can accommodate the applicant's proposed facility due to technical or physical circumstances, or that existing facilities would prohibit personal wireless services in the area to be served by the proposed WTF. The following information shall be provided with the report:
+a.
+Identification of efforts to comply with the facility and location hierarchy in subsection 80-6(1). If the highest ranking facility type (concealed attached) is not proposed, the applicant must demonstrate that existing facilities or the mitigation of existing facilities within the applicant's geographic search area (GSA) cannot be reasonably made to accommodate the applicant's need because:
+1.
+There are no existing WTFs in the GSA that meet the applicant's engineering requirements, and why.
+2.
+The existing WTFs, buildings and structures in the GSA are not of sufficient height and cannot be increased in height to meet the applicant's engineering requirements.
+3.
+The existing WTFs, buildings and structures in the GSA do not have sufficient structural strength and cannot be structurally improved to support the applicant's proposed WTF and related equipment. Such information shall be certified by a Georgia-licensed professional engineer.
+4.
+There are other limiting factors that render existing WTFs in the GSA unsuitable.
+b.
+Graphics to be provided shall include:
+1.
+A map of the GSA to include the location of the proposed WTF and all existing WTFs (including those not owned by the applicant). The exact location of the facility (in longitude and latitude, to degrees, minutes and seconds to the nearest tenth) including the height of the antenna support structure and height, type and number of antennas shall be provided.
+2.
+A color plot demonstrating the existing coverage of all WTFs owned by the applicant within the GSA.
+3.
+A color plot demonstrating the existing coverage of all WTFs owned and proposed by the applicant within the GSA.
+4.
+Additional maps and calculations as may be deemed necessary by the city manager or his or her designee, the planning and zoning commission or city council.
+c.
+Any additional information that may be requested of the applicant or provided by the applicant to prove need for the proposed WTF.
+(3)
+Site plan. For freestanding WTFs and when a proposed WTF will create a site modification, a site plan (no larger than 24 inches by 36 inches with an 8½ inch by 11 inch reduced copy) prepared and certified by a Georgia-licensed professional engineer shall include all information listed on the WTF application checklist. Other site plan related information shall include:
+a.
+Existing and proposed access. Existing or proposed public rights-of-way, private roads and/or access easements through, on, or adjacent to the subject property. The proposed access driveway or roadway and parking area at the WTF site shall be shown, to include grading, drainage and traveled width and type of surface materials proposed. Parking shall also be shown.
+b.
+Landscape plan. Landscaping is to be provided in accordance with subsection 80-6(4). The method of irrigation and any proposed removal of vegetation shall be identified.
+c.
+Drainage. Plans for drainage of surface and sub-surface water to control erosion and sedimentation both during construction and as a permanent measure.
+d.
+Utilities. Proposed utilities, including distance from power source, sizes of service available and required, locations of any proposed utility or telecommunications lines, and whether utilities will be above ground or underground.
+(4)
+WTF plan. For all WTFs, a plan (no larger than 24 inches by 36 inches with an 8½ inch by 11 inch reduced copy) shall include a diagram of the proposed facility and antenna(s), including:
+a.
+Elevation of the antenna and/or antenna support structure to include the following proposed dimensions: height, width and breadth. Height shall include the base, the antenna support structure, and lightning rod.
+b.
+Elevation views of the security barrier or equipment compound, indicating architectural design, exterior appearance and materials, including color. Equipment enclosures shall be consistent with one of the alternatives identified in subsection 80-6(5).
+c.
+Mounting location on antenna support structure or building, including height (AGL).
+d.
+If a concealed or nonconcealed attached WTF is proposed, identification of all mounting frames, arms, brackets or other devices or equipment used to hold antennas and other equipment in place.
+e.
+Equipment brochures or drawings for the proposed facility, shall be provided for antennas, support structures/mounts, equipment shelters, feed lines and security barrier, if any.
+f.
+If a freestanding WTF is proposed, it shall be demonstrated that the structure will be able to accommodate additional facilities as identified in subsection 80-6(9).
+(5)
+Visual impact analysis. For all freestanding nonconcealed WTFs, a visual impact analysis shall be performed. All or a portion of the analysis shall be performed for other WTFs when, in the opinion of the city manager or his or her designee, the proposed type of WTF and its location requires additional assessment (i.e., within a residential district, recognized historic area, or scenic vista/landscape). The analysis shall include the following:
+a.
+Line-of-sight analysis. The applicant shall provide a line-of-sight analysis, including elevation views of the proposed facility. The analysis shall include a description of natural and manmade features that affect the buffering of the potential visual impact of the structure.
+b.
+Photo simulations. The applicant shall provide photo-simulated post-construction renderings of the completed proposed antenna support structure, equipment compound and/or equipment cabinets, ancillary structures, and landscaping, if any, from locations determined at the pre-application conference. The views shall incorporate before and after scenarios, a scaled color image of the proposed type of facility, an aerial map with the location of the selected views, and a description of the technical approach used to create the photo simulations. The simulations shall include a minimum of four vantage points (north, south, east, and west).
+c.
+Balloon test. A balloon test may be required subsequent to the receipt of the photo simulations in order to demonstrate the proposed height of the WTF. The applicant shall arrange to raise a colored balloon (no less than three feet in diameter) at the maximum height of the proposed WTF and within 50 horizontal feet of the center of the proposed antenna support structure.
+The date, time and location of the balloon test shall be advertised by the applicant at least seven but no more than 14 days in advance of the test date in the official legal organ for the City of Pooler. The applicant shall inform the city manager or his or her designee and abutting property owners in writing of the date and times of the test at least 14 days in advance. The balloon shall be flown for at least two consecutive hours during daylight hours on the date chosen. The applicant shall record the weather during the balloon test. [Note: Readvertisement will not be required if inclement weather occurs-advertisement will direct readers to the city for new date.]
+(6)
+Documentation from applicable regulatory agencies. For all WTFs, copies of all applicable licenses or approvals, if available, as required by the FCC and any other agency of the government with authority to regulate WTFs to include the following at the time of submission:
+a.
+A letter from the FAA establishing the maximum antenna support structure height or a written statement prepared a professional airspace safety consultant predicting the maximum height likely to be approved by the FAA.
+b.
+Evidence of compliance with applicable FAA requirements under 14 C.F.R. s. 77, as amended, which may be a copy of the FAA notice of proposed construction.
+c.
+A compliance letter from the Historic Preservation Division of the Georgia Department of Natural Resources.
+(7)
+Radio frequency engineer qualifications. For all WTFs, a curriculum vitae shall be provided for the radio frequency engineer who certifies any documentation provided as part of the application for a WTF. Information shall include education obtained in the area of radio frequency engineering, and experience in the field, including length of time.
+(8)
+Fees. In addition to any other fees required by the city, applicants shall pay a fee to cover the actual cost and the administrative fee for consulting services that may be required by the city to evaluate any technical aspect of the WTF application.
+(9)
+Address. All applicants and co-applicants shall keep the city notified of their current mailing address and shall advise the city of any change in mailing address within 30 days of such change.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-6. - Additional standards.
+modified
+To ensure compatibility with surrounding land uses, protect public safety and natural, cultural and scenic resources and preserve and enhance the character of neighborhoods, all WTFs subject to this article shall be located, developed and operated in compliance with the following:
+(1)
+Siting and location.
+a.
+Siting. WTFs are allowed in all zoning districts, subject to the limitation set forth herein. Siting of WTFs shall be in accordance with a hierarchy of facility alternatives. If a WTF is proposed that is a lower-ranking facility than the most preferred facility type (concealed attached), an evidence of need report as specified in section 80-5 shall be provided. Whenever feasible, a new facility, not to include collocation or combined antennas, should be located on city property to ensure that regular maintenance of the facility, as required by section 80-8, is occurring.
+EXPAND
+Zoning District Concealed Attached Colocated or Combined on Existing Concealed Freestanding Non-Concealed Attached* Non-Concealed Freestanding Reconstruction Or Replacement Antenna Element Replacement
+R-1 B B CUP n/a n/a B B
+R-2 B B CUP n/a n/a B B
+R-3 B B CUP n/a n/a B B
+R-4 B B CUP n/a n/a B B
+C B B B B CUP B B
+C-P B B B B CUP B B
+I B B B B CUP B B
+MH B B B B CUP B B
+R-A B B B B CUP B B
+PUD ** ** ** ** ** ** **
+  B means "By Right"
+CUP means "Conditional Use Permit"
+* Means "Permitted on utility distribution poles and light stanchions only"
+** Means as allowed by PUD Master Plan
+1.
+An applicant does not have to provide a concealed attached facility if collocation on an existing antenna support structure or other structure (i.e., athletic field light pole or water tank) is available within the applicant's geographic search area provided that the structure is not located within a residential district, recognized historic area or within the scenic vistas/landscapes identified in subsection (8) unless approved by the city council after recommendation by the planning and zoning commission.
+2.
+May be allowed within a recognized historic area with city council approval, but not on a contributing structure.
+3.
+Not allowed within a residential district, a recognized historic area or within 100 feet of either. A setback waiver may be requested if the criteria in subsection (8)c can be met.
+(2)
+Height.
+a.
+General. Height shall be measured in above ground level (AGL).
+b.
+Height, maximum.
+EXPAND
+Maximum Height by Type of Facility
+Type of Facility Maximum Height
+Concealed
+Attached Shall not exceed the height of the structure on which the facility is attached by more than 20 feet.
+Nonconcealed
+Attached Shall not exceed the height of the structure on which the facility is attached by more than 20 feet.
+Collocation or Combined on Existing Structure (General) A new WTF located on any of the following structures existing on the effective date of this Article shall be exempt from height restrictions provided that there is no increase in height of the existing structure as a result of the installation: water towers, guyed structures, lattice structures; police, fire, ambulance and other emergency dispatch and public works structures and monopoles.
+Collocation on Existing Structure at least 50 feet in height (Utilities) A new WTF located on any utility structure shall be exempt from height restrictions of this Article provided that there is no more than a 20 foot increase in the height of an existing structure as a result of the installation.
+Collocation on Existing Buildings and Structures (Legal Nonconforming) A WTF may locate on a building or structure that is legally non-conforming with respect to height, provided that the facility does not project above the existing height by more than 20 feet.
+Concealed
+Freestanding Shall not exceed 100' in Residential or PUD districts or a 199' in any other district.
+Nonconcealed
+Freestanding (Monopole) Up to 199 feet provided that the applicant has provided evidence of need.
+  c.
+Height, flexibility. The city council after recommendation by the planning and zoning commission may approve additional height beyond the maximum allowed if findings can be made that siting of the proposed WTF is appropriate to the context of the proposed location using the criteria listed in subsection (4).
+(3)
+Setbacks. All WTFs and their equipment enclosures and ancillary structures shall comply with the setback provisions of the zoning district in which the WTF is located. In addition, the following setbacks shall be observed:
+a.
+Setbacks required.
+1.
+In order to ensure public safety, the minimum distance from the base of any nonconcealed freestanding WTF to any property line, road, dwelling, commercial or institutional use or public recreational area shall be the height of the antenna support structure, including any antennas or other appurtenances, if the WTF has not been constructed with breakpoint design technology.
+The setback may be reduced by the city council after recommendation by the planning and zoning commission if documentation filed by a Georgia-licensed professional structural engineer certifies that the WTF utilizes breakpoint design technology. The minimum setback shall be equal to 110 percent of the distance from the top of the structure to the breakpoint level of the structure, plus the minimum setback distance of the zoning district. For example, a nonconcealed WTF of 100 feet in height with a breakpoint at 80 feet, the minimum setback would be 22 feet (110 percent of 20 feet-the distance from the top of the WTF) plus the minimum setback for the zoning district.
+2.
+The city council after recommendation by the planning and zoning commission may waive all or part of a required setback if the applicant can demonstrate that the proposed facility will be the least visually obtrusive profile, will not detract from the beauty and/or character of the area in which the WTF is proposed, and will not cause a public safety issue.
+3.
+Setbacks from residential districts, recognized historic areas, and certain scenic vistas and landscapes for nonconcealed freestanding WTFs, as described in subsection (8), are also required. If more than one standard applies, the more restrictive standard shall govern.
+4.
+All accessory buildings and ancillary equipment shall comply with all City of Pooler Zoning and Building requirements and fire safety codes.
+b.
+Setback not required. A setback may not be required by this article for concealed freestanding and attached WTFs. However, the setback provisions of the zoning district shall apply. In the case of pre-existing nonconforming structures, a WTF (including its equipment compound and/or cabinetry and ancillary structures) shall not increase any non-conformities, except as provided in section 80-10.
+(4)
+Aesthetics/visibility. To protect the beauty and character of the city, particularly residential districts, recognized historic areas and certain scenic vistas and landscapes as identified herein, all facilities shall be screened to the greatest extent possible. Screening shall occur through the use of design, existing buildings and structures, existing and proposed vegetation, appropriate materials and color. Unlike nonconcealed facilities, concealed facilities shall not be identifiable as a WTF.
+EXPAND
+Visibility of Facility
+Screening and/or Concealment Techniques Applicable WCF Explanation
+Design Concealed Attached
+
+Concealed Freestanding Concealed Attached: Feed lines and antennas shall be designed to architecturally match the facade, roof, wall or structure on which they are affixed in order to blend in with the existing structural design, color and texture and in order to provide the least visually obtrusive profile.
+
+Concealed Freestanding: Such facility shall blend into its surroundings through design and siting that is appropriate and typical to the context of the proposed location. Such facility shall also be designed to appear as a structure that would be allowed in the zoning district in which it is proposed to be located and that is customary to the location (e.g., a smokestack would not be allowed in a residential district). Examples of concealed facilities include chimneys, steeples, clock towers, light poles, and flag poles. Guyed structure and lattice structure construction is not allowed.
+Existing Buildings and Structures Nonconcealed Attached and Combined
+
+Nonconcealed Freestanding Roof Mount: When a WTF extends above the roof height of a building on which it is mounted, the WTF shall be camouflaged within or behind existing architectural features to limit the visibility from public rights-of-way. The WTF should be stepped back from the facade in order to limit its impact on the building's silhouette.
+
+Side Mount: The WTF shall blend with the building's existing architecture and shall be painted or shielded with material which is consistent with the design features and materials of the building.
+
+Freestanding Nonconcealed: To the extent possible, existing buildings and structures should be used to screen a WTF from rights-of-way.
+Existing and Proposed Vegetation Nonconcealed Freestanding
+
+NonconcealedAttached
+
+Collocation and Combined Nonconcealed Freestanding: The perimeter of the WTF shall be at least 15 feet in width for landscaping and include: 1) a row of evergreen trees a minimum of 10 feet in height at the time of planting with a minimum two-inch caliper, spaced a maximum of 12 feet apart; and, 2) a row of evergreen shrubs a minimum of two feet tall at the time of planting, planted four feet on center. Within a year of planting, the trees and shrubs shall achieve 80 percent opacity of the security barrier and/or equipment enclosure. Existing trees and vegetation may be used as an alternative or in combination with new plantings to achieve the opacity requirement subject to approval of the City Council after recommendation by the Planning and Zoning Commission upon a recommendation of the Director of the City Department of Park and Tree or his or her designee. An easement may be required to ensure that vegetation remains intact.
+
+Nonconcealed Attached: To the extent possible, vegetation should be used to screen a WTF from full view.
+
+Collocation and Combined: If the equipment compound and/or landscaping is not in compliance with this Article, compliance shall occur at the time of antenna installation. Landscaping compliance may be waived, wholly or partially, if the site lacks sufficient area.
+Color Nonconcealed Freestanding
+
+Attached Nonconcealed
+
+Collocation and Combined Nonconcealed Freestanding: The WTF shall maintain a galvanized gray finish or the City Council after recommendation by the Planning and Zoning Commission may accept other contextual or compatible color, except as required by federal rules or regulations.
+
+Nonconcealed Attached: The WTF shall be painted and/or constructed of materials to match the color of the building or structure on which it is attached, except as required by federal rules or regulations.
+Antenna Nonconcealed Freestanding The first antenna placement, and all subsequent collocated antennas, on new antenna support structures shall be flush-mounted, unless it is demonstrated through RF propagation analysis that such antennas will not meet the network objectives of the desired coverage area.
+  (5)
+Equipment compound and/or equipment cabinetry. Equipment related to the operation of a WTF shall be hidden and/or screened from public view by one or more of the following techniques, which shall also be consistent with the aesthetic/visibility standards identified in subsection (4):
+a.
+Ground equipment, including platforms. One or more of the following techniques can be used to hide and /or screen equipment:
+1.
+Locate equipment underground. If a nonconcealed freestanding WTF is proposed, an opaque security barrier consisting of brick, masonry, or other material approved by city council after recommendation by the planning and zoning commission shall be installed around the antenna support structure that will prevent unauthorized access to the structure. Landscaping as identified in subsection (4) shall be provided.
+2.
+Locate equipment within a building. The building shall be designed to be consistent with the prevailing architectural style of the neighborhood in which it is located, including exterior materials and roof pitch. The enclosure shall not exceed one story, unless location in a flood plain or other drainage concerns requires it to be elevated.
+3.
+Locate equipment behind a secured, landscaped perimeter. An evergreen landscape buffer shall surround the perimeter of the WTF. If this method is selected, the buffer requirements identified in subsection (4) apply. Additionally, an opaque fence (chain link with slats or webbing is not considered opaque) or masonry wall as approved by city council after recommendation by the planning and zoning commission shall be constructed to minimize opportunities for unauthorized access, climbing, vandalism, graffiti and other conditions that would result in hazardous conditions, visual blight and attractive nuisances. The fence or wall shall be no less than the above grade height of any equipment within the enclosure, which shall not be taller than one story, unless located in a flood zone. All fencing shall be secured with a Knox Lock to allow public safety access in the event of a natural hazard or other similar type emergency.
+b.
+Roof-top equipment. Equipment shall be screened from public view in a manner that is consistent with the architectural style of the building upon which the WTF is located.
+(6)
+Lighting and signage.
+a.
+Wireless telecommunications facilities taller than 199 feet AGL shall be lit according to FAA standards including light intensity and flashes per minutes. When applicable, dual lighting systems shall be employed. This dual lighting system includes red lights (L-864) for nighttime and medium intensity flashing white lights (L-865) for daytime and twilight use. This lighting system may be used in lieu of operating a medium intensity flashing white light system at night.
+b.
+Free-standing wireless telecommunications facilities between 100 and 199 feet AGL shall be equipped with:
+1.
+Red lights (L-864) for nighttime (only)—Strobe lighting of any kind is not permitted; and,
+2.
+White reflective tape/sheeting installed at 20 feet above ground level and continuing upward at ten foot intervals.
+c.
+Lighting of equipment enclosures and other ancillary structures on site shall be shielded from adjacent properties. The footcandle measurement at property lines shall be no more than 1.0 footcandle when measured at grade. FAA required lighting is exempt from this requirement.
+d.
+Signs shall be limited to those needed to identify the WTF, the owner, the party responsible for the operation and maintenance (including address and telephone number), to warn of danger and to comply with applicable federal regulations. Such signage shall be visible and legible at ground level.
+(7)
+Recognized historic areas.
+a.
+Freestanding WTFs within a recognized historic area shall be concealed. Attached WTFs proposed for existing structures shall also be concealed unless it can be demonstrated that the facility will not be visible from ground level.
+b.
+Any WTF located on or within an historic building or structure shall not alter the character-defining features, distinctive construction methods or original historic materials of the building or structure.
+(8)
+Scenic vistas and landscapes. To preserve scenic vistas and landscapes, any nonconcealed freestanding WTF shall:
+a.
+Not be developed within the scenic viewshed of the Savannah/Ogeechee Canal.
+b.
+Be separated from the following areas by the following distances:
+1.
+Residential districts, recognized historic areas: 100 feet.
+2.
+Public rights-of-way: 100 feet.
+3.
+Protected and restricted roadways as identified in the zoning ordinance: 300 feet.
+4.
+Amenity corridors as identified in the 2020 Long Range Transportation Plan: 300 feet.
+5.
+Marshes, to include estuarine waterways and/or spartina marshes: 500 feet. The distance shall be measured from the jurisdiction line established by the Georgia Department of Natural Resources.
+c.
+The city council after recommendation by the planning and zoning commission may waive all or part of separation distance if the applicant can demonstrate that the proposed facility will be the least visually obtrusive profile and not detract from the beauty and/or character of the scenic vistas and landscapes identified within this subsection.
+(9)
+Antenna support structure multiple user standards. If a freestanding WTF is proposed, it shall be engineered and constructed to accommodate multiple users, as indicated below:
+a.
+Ninety feet or less in height: at least three antenna arrays.
+b.
+More than 90 feet and up to 120 feet in height: at least four antenna arrays.
+c.
+More than 120 feet and up to 150 feet in height: at least five antenna arrays.
+d.
+More than 151 feet and up to 199 feet in height: at least six antenna arrays.
+e.
+If the city council after recommendation by the planning and zoning commission approves a height of more than 199 feet, additional antenna arrays may be required.
+(10)
+Structural integrity. All WTFs and antenna support structures shall be designed to meet or exceed all federal, state and local building code requirements, including windloading and American National Standards Institute standards (EIA/TIA) Document 222-G, Structural Standards for Steel Antenna Towers and Supporting Structures, for the Wind Code Zone for Chatham County, Georgia and any state/county building codes (as they may be amended and/or updated from time to time). Structural integrity shall be certified by a Georgia-licensed professional engineer.
+(11)
+Environmental standards. The following standards shall apply:
+a.
+Freestanding WTFs shall not be located in wetlands or wetlands buffers, whether federal or state designated.
+b.
+Freestanding WTFs shall not generate noise in excess of 60 dB at the property line. Attached WTFs shall not generate noise in excess of 60 dB at ground level at the base of a habitable building closest to the facility.
+(12)
+Safety standards.
+a.
+Radio frequency radiation (RFR) standards. All equipment for a WTF shall be authorized per the FCC Guidelines for Evaluating the Environmental Effects of Radiofrequency Radiation. Documentation shall be provided that these guidelines will be met.
+b.
+Interference with public safety communications.
+1.
+In order to facilitate the regulation, placement, and construction of a WTF and its interaction with public safety communications equipment, an applicant requesting such a facility shall agree in a written statement, to the following:
+(1)
+Compliance with FCC regulations regarding susceptibility to radio frequency interference (RFI), frequency coordination requirements, general technician standards for power, antenna, bandwidth limitations, frequency stability, transmitter measurements, operating requirements and any and all other federal statutory and regulatory requirements relating to RFI; and
+(2)
+In the case of collocation of facilities, the applicant, together with the owner of the site, shall provide a composite analysis of all users of the site to determine that the proposed facility will not cause RFI.
+2.
+When a base station is identified as causing RFI, the following shall occur:
+(1)
+The city shall provide notification to all WTF service providers operating in the jurisdiction of possible interference with the public safety communications equipment. Upon such notification, the owners shall use their best efforts to cooperate and coordinate with the city and among themselves to investigate and mitigate the interference, if any, utilizing the procedures set forth in the joint wireless industry-public safety Best Practices Guide, released by the FCC in February 2001, including the Good Engineering Practices, as may be amended by the FCC from time to time.
+(2)
+If any WTF provider fails to cooperate with the city in complying with the owner's obligations under this section or if the FCC makes a determination of RFI with the city's public safety communications equipment, the owner who fails to cooperate and/or the owner of the WTF which caused the interference shall be responsible, upon FCC determination of radio frequency interference, for reimbursing the city for all costs associated with ascertaining and resolving the interference including, but not limited to, any engineering studies obtained by the jurisdiction to determine the source of the interference. For the purposes of this subsection, failure to cooperate shall include failure to initiate any response or action as described in the Best Practices Guide within 24 hours of the city's notification.
+(Ord. of 8-20-2007, §§ I, II; Ord. of 4-2-2012(1) , § II, III)
+Sec. 80-7. - Modifications.
+(a)
+A modification is a proposed change to any portion of a WTF from its description in a previously approved permit that:
+(1)
+When viewed from ground level from surrounding properties, appears to be of a different height, size, antenna type or appearance than what presently exists on or is associated with the WTF;
+(2)
+Changes antenna type(s), changes the size, type and number of feed lines, or changes the size, type and number of antenna mounting devices; or
+(3)
+Any changes in structural wind loading capacity.
+(b)
+All modifications shall comply with any conditions or provisions of the existing permit, for the property or WTF and with all applicable standards of this article including the lighting and safety markings (taping) as described in section 80-6(6).
+(c)
+The city manager or his or her designee shall have the discretion to determine if a proposed change is a modification.
+(d)
+For the purposes of this subsection, collocation consistent with approved plans and equipment upgrade shall not be considered a modification unless the structural integrity is compromised by the addition of a collocation not originally approved for the structure.
+(Ord. of 8-20-2007, §§ I, II; Ord. of 4-2-2012(1) , § IV)
+Sec. 80-8. - Maintenance.
+(a)
+A WTF shall be maintained in good sanitary condition including but not limited to animal or foul excrement. Maintenance of a WTF shall include, but not be limited to the structural integrity of the antenna support structure and antennas, equipment compound and cabinets, painting, and irrigation and upkeep of buffer areas and landscaping.
+(b)
+If maintenance will impede access used by others, create noise in excess of 60 dB (at the property line) between the hours of 7:00 p.m. to 7:00 a.m., or have other potential nuisance effects during the period of maintenance, the owner of the facility undergoing maintenance shall notify the city manager or his or her designee and adjacent property owners in writing at least five days before maintenance is scheduled.
+(c)
+If maintenance of a WTF will result in a modification as described in section 80-7, the requirements of that section shall apply.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-9. - Abandonment or discontinuation of use.
+(a)
+At such time that an antenna support structure owner or wireless provider plans to abandon or discontinue operation of a WTF, said owner shall notify the city manager or his or her designee by certified U.S. mail of the proposed date of abandonment or discontinuation of operations.
+(b)
+In the event all legally approved use of any WTF has been discontinued for a period of six months and the antenna support structure owner or wireless provider has not notified the city manager or his or her designee, the facility shall be deemed to be abandoned. Determination of the date of abandonment shall be made by the city manager or his or her designee who shall have the right to request documentation and/or affidavits from the facility owner regarding the issue of usage, including evidence that use of the facility is imminent.
+(c)
+At such time as the city manager or his or her designee determines that a WTF is abandoned, the city manager or his or her designee shall provide the facility owner and property owner with written notice of an abandonment determination by certified mail addressed to all applicants at the addresses on file with the city, and to the owner of the property at the address on file with the city, the property address and at the address to which tax notices are sent; additionally, notice shall be made by publication in the Savannah Morning News or such other newspaper that is the official newspaper for the publication of legal notices. Failure or refusal by the facility owner or any other co-applicant to respond to such notice within 60 days of the receipt of the certified letter, or within 30 days of the last published notice, whichever is later, shall constitute prima facie evidence that the WTF has been abandoned.
+(d)
+If the owner of the WTF fails to respond or fails to demonstrate that the WCF is not abandoned, the facility shall be considered abandoned and the owner of the facility shall have an additional 120 days to:
+(1)
+Reactivate the use of the WTF or transfer the WTF to another owner who makes actual use of the facility, subject to permit approval, within a 120-day period; or
+(2)
+Dismantle and physically remove the WTF. "Physically remove" shall include, but not be limited to removal of antennas, antenna support structures, equipment shelters and an associated materials from the subject property, where applicable. Physically remove shall also include restoration of the location of the WTF to its natural condition, where applicable, except that any landscaping and grading shall remain in post-development condition.
+(e)
+Upon a determination of abandonment by the city manager or his or her designee pursuant to this section, and the failure of the WTF owner or other co-applicant to remove the facility in accordance with this article, the facility and related structures shall be deemed unfit for use and in violation of the permit requirements so as to be deemed a danger to public health and a public and private nuisance. Failure of the WTF owner or other co-applicant to dismantle and physically remove the facility and related structures in accordance with the terms of this article shall authorize the city to do so in order to abate the nuisance and/or ensure compliance with this article. The dismantling and the physical removal of such abandoned WTFs is the responsibility of the WTF owner and other co-applicants and shall become a lien upon the property. If the cost of such dismantling and physical removal is bourne by the city, the cost therefore shall be charged to the WTF owner and all co-applicants. The city shall have the authority to enforce the collection of the charges associated with the dismantling and physical removal of abandoned WTFs by any and all means provided by law when such charges are due and remain unpaid for a period of 30 days.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-10. - Reconstruction or replacement of existing antenna support structures.
+(a)
+Guyed structures, lattice structures, utility structures and nonconcealed freestanding structures in existence at the time of adoption of this article may be reconstructed, altered, extended or replaced on the same site, provided that the city council after recommendation by the planning and zoning commission finds that the proposed antenna support structure will be a lesser visually obtrusive profile than the existing structure. In making such a determination, the city council after recommendation by the planning and zoning commission shall consider whether the proposed action will create public benefits such as opportunities for collocation, improvements in public safety, reduction in the overall number of WTFs, improvement in network functionality resulting in compliance with this article and/or reduction in visual and environmental impacts.
+(b)
+No reconstruction, alteration, extension or replacement shall exceed the height of the existing WTF by more than 20 feet.
+(c)
+Reconstruction and replacement of guyed and lattice structures and nonconcealed freestanding structures shall not be allowed in residential districts, recognized historic areas or within the scenic vistas and landscapes listed in subsection 80-6(8).
+(d)
+Setbacks shall comply with subsection 80-6(3). Reconstructed facilities shall comply with all other current ordinance requirements. The city council after recommendation by the planning and zoning commission may waive compliance, wholly or partially, if requirements cannot be met because of physical limitations relating to the location of the proposed reconstruction.
+(Ord. of 8-20-2007, §§ I, II)
+Sec. 80-11. - Review procedures.
+(a)
+Pre-application conference. Prior to the submission of an application, the applicant shall have a pre-application conference with the city manager or his or her designee to discuss a new WTF and the filing requirements. It shall be the discretion of the city manager or his or her designee to waive this requirement.
+(b)
+Application submission.
+(1)
+An application shall be reviewed for completeness. If any required item fails to be submitted, the application shall be deemed incomplete. The city manager or his or her designee shall advise an applicant, in writing, within 15 business days after submittal of an application regarding completeness. If the application is incomplete, such notice shall set forth the missing items or deficiencies in the application which the applicant must correct and/or submit in order for the application to be deemed complete. If the application is complete, the notification will identify completeness and the type of review to be conducted.
+(2)
+Upon resubmittal of an application, the city manager or his or her designee shall have an additional 15 business days to give notice as to the completeness of the amended application.
+(c)
+Review responsibility. Review procedures vary by the type of WTF facility proposed. Where due to the complexity of the methodology or analysis required to review an application for a WTF requiring radio frequency analysis, the city manager or his or her designee will require a technical expert review as described in subsection 80-11(e). Review procedures are as follows:
+EXPAND
+Review Process
+Facility Type Review Responsibility Other Considerations
+Concealed Attached City Manager or his or her designee*
+Collocation or Combined on Existing Antenna Support Structure City Manager or his or her designee*
+Nonconcealed Attached City Manager or his or her designee*
+Concealed Freestanding City Manager or his or her designee* City Council after recommendation by the Planning and Zoning Commission review required if proposed in a recognized historic area.
+Nonconcealed Freestanding City Manager or his or her designee* •City Council after recommendation by the Planning and Zoning Commission review required if proposed in a recognized historic area.
+
+•Not allowed within a residential district, a recognized historic area, within 100 feet of either, or within a scenic vista or landscape as identified in subsection 80-6(8)
+Modification City Manager or his or her designee*
+Exceptions to the Above Facilities
+A request for any waiver identified in this Article City Manager or his or her designee* City Council after recommendation by the Planning and Zoning Commission*
+Replacement or reconstruction of existing antennas and monopoles. City Manager or his or her designee* City Council after recommendation by the Planning and Zoning Commission.*
+
+See Section 10.0
+  *All costs shall be borne by the applicant.
+(d)
+Notification. An application that requires review by the city council after recommendation by the planning and zoning commission (not to include reviews by the city manager or his or her designee shall have public notice to include:
+(1)
+Mailed notification. A notification of the date and time of the city council meeting shall be mailed to all property owners within a 300-foot radius of the proposed WTF subject property at least 15 days but no more than 45 days prior to the meeting.
+(2)
+Posting of property. A sign provided by the city shall be posted on the property to announce the date and time of the city council meeting at least 15 days but no more than 45 days before the meeting. The sign shall be posted to face the most traveled right-of-way.
+(e)
+Supplemental review. A supplemental review will be required for a freestanding WTF and may be required for all other types of WTFs, when determined necessary, subject to the following:
+(1)
+Where due to the complexity of the methodology or analysis required to review an application for a WTF, the city manager or his or her designee or the city council after recommendation by the planning and zoning commission will require a supplemental review by a third party expert, the costs of which shall be borne by the applicant and be in addition to other applicable fees.
+(2)
+The applicant shall submit a deposit towards the costs of such supplemental review upon written notification from the city manager or his or her designee that such review is required.
+(3)
+Based on the results of the expert review, changes to the application or items submitted as part of the application may be required.
+(4)
+The technical expert review shall address all of the following:
+a.
+The accuracy and completeness of the items submitted with the application.
+b.
+The applicability of analysis and techniques and methodologies.
+c.
+The validity of conclusions reached.
+d.
+Whether the proposed WTF complies with applicable approval criteria set forth in this article.
+e.
+Other matters deemed to be relevant to determining whether a proposed WTF complies with the provisions of this article.
+(f)
+Appeals.
+(1)
+An applicant or citizen with legal standing aggrieved by a decision may file an appeal within five days of the decision. The appeal shall be specific to the portion of the decision is being appealed.
+(2)
+An appeal of a decision of the city manager or his or her designee shall be to the city council after recommendation by the planning and zoning commission. The city council shall have the authority to review the application in its entirety.
+(3)
+An appeal of a decision of the city council shall be according to Georgia State Law.
+(4)
+Notification of an appeals meeting shall be consistent with the mailed notification requirement in subsection (d).
+(Ord. of 8-20-2007, §§ I, II)
+Secs. 80-12—80-30. - Reserved.
+ARTICLE II. - CABLE SERVICES AND OTHER TELECOMMUNICATIONS SERVICES FRANCHISING
+
+Sec. 80-31. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Cable services means cable services as defined in the Telecommunications Act of 1996, the Cable Communications Policy Act of 1984, and the Cable Television Consumer Protection and Competition Act of 1992, and as may be further amended from time to time (the Cable Act). In the event that cable services is no longer defined in the Cable Act or the definition in the Cable Act otherwise becomes inapplicable, cable services shall mean cable services as defined in the Cable Act immediately prior to such term no longer being defined in the Cable Act or such definition otherwise becoming inapplicable.
+Cable system means any cable system as defined in the Cable Act.
+Franchise means an initial authorization, or renewal thereof, issued by the city, whether such authorization is designated as a franchise, permit, license, resolution, contract, certificate, agreement or otherwise, which authorizes the occupation and use of the streets to provide telecommunications services.
+Grantee means the legal entity to which is granted the right, authority and responsibility to construct, install, operate and maintain a system of equipment as necessary to furnish, supply and distribute cable or telecommunications services or both, to inhabitants within the franchise area.
+May is permissive.
+Ordinance means this article and all modifications and amendments thereto.
+Shall means mandatory, not merely directive.
+Streets means the surface of, as well as the spaces above and below, any and all streets, alleyways, avenues, highways, boulevards, driveways, bridges, tunnels, parks, parkways, public grounds or waters, and other public rights-of-way within or belonging to the city.
+Telecommunications services means the receipt and/or distribution, through any means, including, without limitation, coaxial cable, optical fiber, or satellite or microwave transmission, of one or more audio, voice or data signals. Telecommunications services includes both cable services and noncable telecommunications services.
+(Ord. of 12-8-2000, § I(19-130))
+Sec. 80-32. - Granting authority and franchising procedure.
+(a)
+No person shall provide cable services or operate a cable system without a franchise granted in accordance with the provisions of this chapter and no person shall use or occupy the streets to provide any telecommunications service other than cable services without a franchise granted in accordance with the provisions of this chapter.
+(b)
+The aldermanic board may grant one or more franchises in accordance with this chapter, provided that the aldermanic board reserves the right to modify any provisions of this chapter by amendment hereof.
+(c)
+The grant of any franchise shall be made by adoption of a separate ordinance by the aldermanic board and shall be on such terms and conditions as may be specified in the separate ordinance and/or a franchise agreement between the city and the franchisee.
+(d)
+Any franchise granted shall be nonexclusive. The city specifically reserves the right to grant, at any time, such additional franchises as it deems appropriate and/or itself engage in the provision of telecommunications services.
+(e)
+A franchise may be granted for all or any defined portion of the city and for all or less than all telecommunications services, and for telecommunications services for all or less than all purposes.
+(f)
+The grant of franchises by the city shall be subject to the provisions of applicable law, such as the provisions in the Telecommunications Act of 1996, as amended, governing cable television franchises and renewals thereof.
+(Ord. of 12-8-2000, § I(19-131))
+Sec. 80-33. - Franchise applications.
+(a)
+Applications for franchises shall be submitted in such form and be issued on such terms and conditions as the aldermanic board may determine, subject to applicable law.
+(b)
+Any application for a franchise shall contain and/or require the following information with respect to the proposed franchise and such other information as the aldermanic board shall deem necessary or appropriate.
+(1)
+Applicant's name, address, telephone number, and federal employer identification number or social security number, copy of applicant's corporate charter or partnership agreement as applicable, and any trade names (and registrations) used by applicant.
+(2)
+A detailed statement of the corporation or business entity organization of the applicant, including but not limited to the following, and to whatever extent required by the city:
+a.
+The names, residence, and business addresses of all officers and directors of the applicant;
+b.
+The names, residence, and business addresses of all persons and entities having any share of the ownership of the applicant and the respective ownership share of each person or entity;
+c.
+The names and addresses of any parent or subsidiary of the applicant, namely, any other business entity owning or controlling the applicant in whole or in part or owned or controlled in whole or in part by the applicant, and a statement describing the nature of any such parent or subsidiary business entity, including but not limited to telecommunications or cable systems owned or controlled by the applicant, its parent, and subsidiary, and the areas served thereby;
+d.
+A detailed and complete financial statement of the applicant, certified by an independent certified public accountant, for the fiscal year immediately preceding the date of the application hereunder, or a letter or other acceptable evidence in writing from a recognized lending institution or funding source, addressed to both the applicant and the aldermanic board, setting forth the basis for a study performed by such lending institution or funding source, and a clear statement of its intent as a lending institution or funding source to provide whatever capital shall be required by the applicant to construct and operate the proposed telecommunications or cable system in the city, or a statement from an independent certified public accountant certifying that the applicant has available sufficient free, net, and uncommitted cash resources to construct and operate the proposed cable or telecommunications system in the city;
+e.
+A detailed financial plan (pro forma) describing for each year of the franchise, projected number of subscribers, rates, all revenues, operating expenses, capital expenditures, depreciation schedules, income statements, and a sources and uses of funds statement; and
+f.
+A statement identifying, by place and date, any other cable system or telecommunication franchise awarded to the applicant, its parent or subsidiary; the status of such franchise with respect to completion thereof; the total cost of completion of such franchised cable or telecommunication system; and the amount of applicant's and its parent's or subsidiary's resources committed to the completion thereof.
+(3)
+A detailed description of the proposed plan of operation of the applicant which shall include, but not be limited to, the following:
+a.
+A description of the cable services and any other telecommunications services proposed to be provided;
+b.
+A detailed map indicating all areas proposed to be served, and a proposed time schedule for the installation of all equipment necessary to become operational throughout the entire area to be serviced;
+c.
+A statement or schedule setting forth all proposed classifications or rates and charges to be made against subscribers and all rates and charges as to each of said classifications, including installation charges, cable service charges, and any other telecommunications service charges;
+d.
+A detailed informative, and referenced statement describing the actual equipment and operational standards proposed by the applicant;
+e.
+A copy of the form of any agreement, undertaking, or other instrument proposed to be entered into between the applicant and any subscriber to cable or telecommunications services; and
+f.
+A detailed statement setting forth in its entirety any and all agreements and undertakings, whether formal or informal, written, oral, or implied, existing or proposed to exist between the applicant and any person, firm, or corporation which materially relate or pertain to or depend upon the application and the granting of the franchise;
+(4)
+A copy of any agreement covering the franchise area, if existing between the applicant and any utility providing for the use of any facilities of the utility, including but not limited to, poles, lines, or conduits; and
+(5)
+Any other details, statements, supplementary information, or references pertinent to the subject matter of such application which shall be required or requested by the aldermanic board, or by any other provision of law.
+(c)
+Nonrefundable application fees for new franchises. No application for a new franchise shall be considered without payment by the applicant of application fees as provided in the schedule of fees and charges. If a franchise is granted, application fees will not be deemed a credit towards any other fees or sums due by the grantee. If an application is denied, the application fee will not be refunded.
+(1)
+Purpose of application fees. The application fees provided by this section will serve to cover the direct and indirect costs incurred by the city in processing the application, evaluating the applicant, and granting a franchise, and shall include, but not be limited to, administrative, engineering, publication, legal, and consultant's expenses.
+(2)
+Application fee. The applicant will be expected to pay the reasonable costs of the city in evaluating the application. Notwithstanding any other requirement of this chapter, each applicant must furnish with its proposal a nonrefundable application fee in the amount set forth in the schedule of fees and charges by certified check or cashier's check made payable to the city.
+(Ord. of 12-8-2000, § I(19-132))
+Sec. 80-34. - Responsibilities of applicants.
+It shall be the responsibility of each applicant for a franchise to comply with all applicable laws, ordinances, resolutions, rules, regulations and other directives of the city and any federal, state or local governmental authority having jurisdiction.
+(Ord. of 12-8-2000, § I(19-133))
+Sec. 80-35. - Public availability of applications.
+To the extent determined by the aldermanic board, applications for franchises, including any additions, modifications or amendments thereto, shall be available for public inspection at a designated city office during normal business hours.
+(Ord. of 12-8-2000, § I(19-134))
+Sec. 80-36. - Evaluation criteria.
+In making any determination hereunder as to any application for a franchise, the aldermanic board may consider such factors as it deems appropriate and in the public interest, including, without limitation:
+(1)
+The adequacy of the proposed compensation to be paid to the city, including the value of any facilities and telecommunications services offered by the applicant to the city;
+(2)
+The legal, financial, technical and other appropriate qualifications of the applicant;
+(3)
+The ability of the applicant to maintain the property of the city in good condition throughout the term of the franchise;
+(4)
+The value and efficiency to the city and its residents of the cable services and other telecommunications services to be provided, including the type of telecommunications services to be provided, as well as alternatives to those services and services that may be precluded by the grant of the franchise;
+(5)
+The willingness and ability of the applicant to meet construction and physical requirements and to abide by all purpose and policy conditions, limitations and requirements with respect to the franchise; and
+(6)
+Any other public interest factors or considerations deemed pertinent by the city for safeguarding the interests of the city and the public.
+(Ord. of 12-8-2000, § I(19-135))
+Sec. 80-37. - Procedure for consideration of and action on applications.
+(a)
+The city may make such investigations and take or authorize the taking of such other steps as the aldermanic board deems necessary or appropriate to consider and act on applications for franchises and determine whether a franchise should be granted to an applicant, and may require the applicant to furnish additional information and data for this purpose. In considering applications, the aldermanic board may seek advice from other city officials or bodies, from such other advisory bodies as it may establish or determine appropriate, or from the public, and may request the preparation of one or more reports to be submitted to the aldermanic board, which may include recommendations with respect to such applications.
+(b)
+If the aldermanic board, after considering such information as it determines to be appropriate, elects to further consider one or more applications, the aldermanic board shall set one or more public hearings for consideration of the application, fixing and setting forth a day, hour and place certain when and where any person having any interest therein or objections thereto may file written comments and appear before the aldermanic board and be heard, and providing notice of such public hearing in accordance with applicable law.
+(c)
+The aldermanic board may authorize negotiations between city officials and applicants to determine whether the city and such applicants are able to reach agreement on the terms of the proposed franchise.
+(d)
+Upon completion of the steps deemed appropriate by the city aldermanic board, the aldermanic board may grant the franchise, and may specify the conditions under which the franchise is granted. Alternatively, the city may reject any and all applications from whatever source and whenever received except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. The city also reserves the right to waive any or all requirements when it determines that the best interests of the city may be served thereby and may, if it so desires, request new or additional proposals.
+(Ord. of 12-8-2000, § I(19-136))
+Sec. 80-38. - Terms and conditions of franchise.
+(a)
+The terms and conditions applicable to any franchise granted pursuant to this chapter shall be set forth in the separate ordinance granting the franchise or in a separate written agreement. Such separate ordinance or written agreement, among other things, shall address the following subjects:
+(1)
+The term of the franchise;
+(2)
+The franchise area and the cable services and other telecommunications services and purposes of such other telecommunications services, if any, which are the subject of the franchise;
+(3)
+The compensation to be paid to the city, which may include the payment of fees or the provision of facilities or services, or both;
+(4)
+The circumstances upon which the franchise may be terminated or cancelled;
+(5)
+The mechanisms, such as performance bonds, security funds or letters of credit, to be put in place to ensure the performance of the franchisee's obligations under the franchise;
+(6)
+The city's right to inspect the facilities and records of the franchisee;
+(7)
+Insurance and indemnification requirements applicable to the franchisee;
+(8)
+The obligation of the franchisee to maintain complete and accurate books of account and records, and the city's inspection rights with respect thereto;
+(9)
+Provisions to ensure quality workmanship and construction methods;
+(10)
+Provisions to ensure that the franchisee will comply with all applicable city, state and federal laws, regulations, rules and policies, including, without limitation, those related to employment, purchasing and investigations;
+(11)
+Provisions to ensure adequate oversight and regulation of the franchisee by the city;
+(12)
+Provisions to restrict the assignment or other transfer of the franchise without the prior written consent of the city;
+(13)
+Remedies available to the city to protect the city's interest in the event of the franchisee's failure to comply with terms and conditions of the franchise;
+(14)
+Provisions to ensure that the franchisee will obtain all necessary licenses and permits from, and comply with, all laws, regulations, rules and policies of any governmental body having jurisdiction over the franchisee, including the federal communications commission;
+(15)
+Provisions to ensure that the franchisee will protect the property of the city and the delivery of public services from damage or interruption of operations resulting from the construction, operation, maintenance, repair or removal of improvements related to the franchise;
+(16)
+Provisions designed to minimize the extent to which the public use of the streets of the city are disrupted in connection with the construction of improvements relating to the franchise; and
+(17)
+Such other provisions as the city determines are necessary or appropriate in furtherance of the public interest.
+(Ord. of 12-8-2000, § I(19-137))
+Sec. 80-39. - Delegation.
+(a)
+Consistent with applicable law, the aldermanic board shall have the right to delegate and redelegate, and to revoke any such delegation or redelegation, from time to time, any of its rights or obligations under this chapter to any body, organization or official. Any such delegation, redelegation or revocation, no matter how often made, shall not be deemed an amendment to this chapter or to require the consent of any applicant for a franchise or franchisee. The aldermanic board may also establish and appoint one or more advisory boards, with such duration and such number of members as the aldermanic board shall determine, to advise it on such of the matters which are the subject of this chapter.
+(b)
+This chapter shall not be retroactively applied to franchises for cable services and other telecommunications services existing on the effective date of the ordinance from which this section derives.
+(Ord. of 12-8-2000, §§ I(19-139), II)

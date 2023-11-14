@@ -1,0 +1,546 @@
+Chapter 32 - SOLID WASTE[1]
+Footnotes:
+--- (1) ---
+State Law reference— Georgia Comprehensive Solid Waste Management Act, O.C.G.A. § 12-8-20 et seq.; local, multi-jurisdictional and regional solid waste plans, O.C.G.A. § 12-8-31.1; yard trimmings disposal restrictions, O.C.G.A. § 12-8-40.2; Georgia Hazardous Waste Management Act, O.C.G.A. § 12-8-60 et seq.; Litter Control Law, O.C.G.A. § 16-7-40 et seq.; transporting garbage or waste across state or county boundaries without permission, O.C.G.A. § 36-1-16; littering highways, O.C.G.A. § 40-6-249; transportation of biomedical waste, O.C.G.A. § 40-6-253.1; solid waste management education program, establishment of Georgia Clean and Beautiful Advisory Committee and Interagency Council on Solid Waste Management, O.C.G.A. § 50-8-7.3; authorization to provide garbage and solid waste collection and disposal, Ga. Const. art. IX, § II, ¶ III(a)(2).
+
+ARTICLE I. - IN GENERAL
+
+Sec. 32-1. - Provisions saved from repeal.
+Any ordinances adopting a comprehensive solid waste management plan (as approved in November 2004 and kept by the clerk) and short-term work update are not repealed and shall continue in full force and effect.
+Secs. 32-2—32-20. - Reserved.
+ARTICLE II. - SOLID WASTE MANAGEMENT
+DIVISION 1. - GENERALLY
+
+Sec. 32-21. - Purposes.
+The board of commissioners, a political subdivision of the state, hereby enacts this article in furtherance of its responsibility to protect the public health, safety, and well-being of the citizens of the county, and to protect and enhance the quality of the environment, to institute and maintain countywide rules and regulations controlling the spread of refuse and to establish rules and regulations concerning refuse and solid waste management to assure that refuse and solid waste systems, whether privately or publicly operated, do not adversely affect the health, safety, and well-being of the public and do not unduly degrade the quality of the environment.
+(Code 2005, § 66-31; Ord. of 6-13-2000(1), art. I)
+Sec. 32-22. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Asbestos means any naturally occurring hydrated mineral silicates separable into commercially used fibers, specifically the asbestiform varieties of serpentine, chrysatile cummingtomite-grunerite, amosite, rieheckite, crocidolite, anthophyllite, tremolite, and actinolite.
+Baling means a volume reduction technique whereby solid waste is compressed into bales.
+Building materials means any material such as lumber, roofing material, brick, concrete block, plaster, gutters, sand, gravel or other substances used in repairs or alterations of existing buildings, construction of new buildings, or demolition of existing buildings.
+Collector means the person as defined in this section who, under agreements, verbal or written, with or without compensation, does the work of collecting and/or transporting solid wastes, from industries, offices, retail outlets, businesses, institutions, and/or similar locations, or from residential dwellings; provided, however, that this definition shall not include an individual collecting and/or transporting wastes from his own single-family dwelling unit.
+Composting means the controlled biological decomposition of organic solid waste.
+Construction/demolition waste means the waste building materials and rubble resulting from construction, remodeling, repair, and demolition operations on pavements, houses, commercial buildings and other structures. Such wastes include, but are not limited to, wood, bricks, metal, concrete, asphalt, wall board, paper or cardboard.
+Disposal facility means any facility or location where any treatment, utilization, processing, or deposition of solid waste occurs.
+Disposal operation means the performance of solid waste disposal which includes administration, personnel, land, equipment, design, and other elements necessary or used in the work of solid waste disposal.
+Disposal site means the location where the final deposition of solid waste occurs.
+Garbage means the byproduct of animal or vegetable foodstuff resulting from the handling, preparation, cooking and consumption of food, or other matter which is subject to decomposition, decay, putrefaction or the generation of noxious or offensive gases or odors, or which during or after decay, may serve as breeding or feeding material for flies, insects or animals.
+Garbage bag means a plastic, or other similar nonporous material, bag or sack designed specifically to contain garbage or household trash in a secure airtight manner. Such bags shall also include suitable means of closure to ensure that the material contained therein is not exposed to the outside air.
+Hazardous refuse means materials such as poison, acids, caustics, chemicals, infected materials, offal, fecal matter and explosives.
+Household trash means every waste accumulation of paper, sweepings, dust, rags, bottles, cans or other matter of any kind, other than garbage, which is usually attendant to housekeeping.
+Incineration means a controlled process by which solid, liquid and gaseous combustible wastes are burned and changed into gases and residue produced which is relatively free of combustible materials.
+Industrial waste means all waste, including solids, semisolids, sludges and liquids, created by factories, processing plants or other manufacturing enterprises.
+Inert waste landfill means a disposal site accepting only wastes that will not or are not likely to cause production of leachate of environmental concern. Such wastes are limited to dirt and dirt-like products, concrete, rock, bricks, yard trimmings, stumps, limbs, and leaves. This definition excludes industrial and demolition waste.
+Infectious waste means all biomedical waste as defined in section 32-93.
+Junk vehicle includes any automobile, vehicle, trailer of any kind or type, or mechanical contrivance or part thereof, which is in an inoperative or junk condition by reason of its having been wrecked, dismantled or partially dismantled, inoperative, and which does not have a valid license plate; or which has been abandoned or discarded according to the definition of "abandoned motor vehicle" set forth in O.C.G.A. § 40-11-1. For the purposes of this article, a vehicle is inoperative if it is incapable of movement by its own power, or it remains in place for a period of more than seven days, and in neither case is within a carport or parking way or driveway.
+Junkyard includes land on which two or more junk vehicles are parked, standing, or allowed to remain.
+Landfill means any facility where any treatment, utilization, processing, storage, or depositing of solid waste occurs.
+Leachate means a liquid that has passed through or emerged from solid waste and contains soluble, suspended, or miscible materials removed from such wastes.
+Leachate collection system means a system at a sanitary landfill for collecting the leachate which may percolate through the wastes and into the soil surrounding the landfill.
+Liner means a continuous layer of natural or manmade materials, beneath or on the sides of a disposal site or disposal site cell which restricts the downward or lateral escape of solid waste, solid waste constituents, or leachate.
+Monofill means a method of solid waste handling that involves the burial of one waste type or wastes having very similar characteristics in a segregated trench or area which is physically separated from dissimilar or incompatible waste.
+Nuisance means anything which meets that definition of the term as defined by O.C.G.A. § 41-1-1 and which occurs during or as the result of the handling or disposing of solid waste.
+Open dump means a disposal site at which solid waste from one or more sources is consolidated and left to decompose, burn or otherwise create a threat to human health or the environment.
+Operator means the person having direct supervision of daily field operation of a disposal site to ensure that the site operates in compliance with the permit.
+Person means the county or any agency or institution thereof, and any municipality, political subdivision, public or private corporation, special district empowered to engage in solid waste management activities, individual, partnership, association or other entity in the county. This term also includes any officer or governing or managing body of any municipality, political subdivision, special district empowered in solid waste activities, or public or private corporation in the county, or any other county.
+Processing operation means any method, system or other treatment designed to change the physical form of chemical content of solid waste and includes all aspects of its management, administration, personnel, land, equipment, buildings and other elements.
+Public or private property means:
+(1)
+The right-of-way of any road, street or highway;
+(2)
+Any body of water or watercourse or the shores or beaches thereof;
+(3)
+Any park, playground, building, refuge, or conservation or recreation area; and
+(4)
+Residential or farm properties, timberlands or forests.
+Putrescible wastes means wastes that are capable of being quickly decomposed by microorganisms. Examples of putrescible wastes include, but are not necessarily limited to:
+(1)
+Kitchen wastes;
+(2)
+Animal manure;
+(3)
+Offal;
+(4)
+Hatchery and poultry processing plant wastes; and
+(5)
+Garbage.
+Pyrolysis means the chemical decomposition of a material by heat in the absence of oxygen.
+Reclamation means a controlled method of sorting and storing material from solid wastes for future use in accordance with procedure approved by the office of the board of commissioners.
+Recycling means any process by which reclaimed materials or other materials which would otherwise become solid waste are collected, separated, or processed and reused or returned to use in the form of raw material or products.
+Refuse means all asbestos, biomedical waste, construction/demolition waste, garbage, hazardous refuse, household trash, industrial waste, infectious waste, junk vehicles, litter, putrescible wastes, rubbish, slag or solid waste, as defined in this section, or any other discarded, used, or unconsumed substance which is not handled in accordance with the provisions of the article.
+Road and street shall be mutually inclusive, and shall likewise be deemed to include any alley, lane, court and other thoroughfare, however described or designated.
+Rubbish includes wastepaper, cartons, boxes, wood, tree branches, yard trimmings, furniture, appliances, metal, cans, glass, packing material, and similar material.
+Sanitary landfill means a disposal site where putrescible solid wastes are disposed of by means of placing an earth cover thereon.
+Sanitary landfilling means an engineered method of disposing of putrescible solid waste on land by spreading them in thin layers, compacting them to the smallest practical volume, placing an earth cover thereon and such other measures as are necessary to protect human health and the environment.
+Scavenge and scavenging mean any unauthorized or uncontrolled retrieval of discarded refuse materials.
+Shredding means the process by which solid waste is cut or torn into small pieces for final disposal or further processing.
+Solid waste means putrescible and nonputrescible wastes, except water-carried body waste and materials destined for recycling, and shall include the following:
+(1)
+Garbage;
+(2)
+Rubbish (paper, cartons, boxes, wood, tree branches, yard trimmings, furniture and appliances, metal, tin cans, aluminum cans, glass, crockery, or dunnage):
+a.
+Ashes;
+b.
+Plastic bottles;
+c.
+Nails;
+d.
+Tacks;
+e.
+Wire;
+f.
+Metal bottle caps;
+g.
+Plastic bottle caps;
+h.
+Street refuse;
+i.
+Dead animals;
+j.
+Sewage sludges;
+k.
+Animal manures;
+l.
+Industrial wastes (waste materials generated in industrial operations);
+m.
+Residue from incineration;
+n.
+Food processing wastes;
+o.
+Demolition wastes;
+p.
+Abandoned automobiles;
+q.
+Dredging wastes;
+r.
+Construction wastes; and
+s.
+Any other waste material in a solid or semisolid state not otherwise defined in this article.
+Solid waste handling means the storage, collection, transportation, treatment, utilization, processing, or disposal of solid wastes, or any combination thereof.
+Solid waste handling facility means any location where any storage, collection, transportation, treatment, utilization, processing, or disposal of solid waste, or any combination thereof occurs.
+Solid waste handling permit means written authorization granted to a person by the office of the board of commissioners to engage in solid waste handling.
+Solid Waste Management Act and Act wherever referred to in this article, means O.C.G.A. § 12-8-20.
+Special solid waste means any solid waste not otherwise regulated under the Georgia Hazardous Waste Management Act, O.C.G.A. § 12-8-60 et seq., and regulations promulgated thereunder or originating or produced from or by a source or generator not subject to regulation under O.C.G.A. § 12-8-27(g).
+Transfer station means a facility used to transfer solid waste from one transportation vehicle to another for transportation to a disposal site or processing operation.
+Uppermost aquifer means the geologic formation nearest the natural ground surface that is an aquifer, as well as lower aquifers that are hydraulically interconnected with this aquifer within the solid waste handling facility's property boundary.
+(Code 2005, § 66-33; Ord. of 6-13-2000(1), § 4.1)
+Sec. 32-23. - Enforcement of article provisions.
+(a)
+Any peace officer of the state or the county or county marshal or any employee of the county appointed by the board of commissioners by appropriate resolution to serve as its designee shall be authorized to oversee all matters concerning the enforcement of this article.
+(b)
+Any peace officer of the state or the county or county marshal or any employee of the county appointed by the board of commissioners as its designee shall be authorized to issue citations to violators of any provision of this article or to the owner or other person who may be in possession of any property upon which any condition exists which constitutes a violation of any provision of this article. Such citations shall be on a form approved by the board of commissioners and shall state the time and place at which the accused is to appear for trial, shall identify the offense with which the accused is charged, shall have an identifying number by which it shall be filed with the court, shall indicate the identity of the accused and the date of service, and shall be signed by the representative of the county who completes and serves it.
+(Code 2005, § 66-34; Ord. of 6-13-2000(1), § 9.0)
+Sec. 32-24. - Violations; penalties.
+(a)
+Investigation on private property. Upon discovery of any refuse on private property, or upon being informed of the existence of such items on private property, any county or municipal law enforcement officer, including the county marshal, shall be authorized to enter upon private property for the purpose of investigating the alleged refuse on the private property in violation of this article.
+(b)
+Presumptions.
+(1)
+Whenever any item of refuse as defined in this article is thrown, deposited, dropped, or dumped from any motor vehicle, boat, airplane, or other conveyance in violation of this article it shall be prima facie evidence that the operator of the conveyance has violated this article.
+(2)
+Whenever any item of refuse as defined in this article is dumped, deposited, thrown, or left on public or private property in violation of this article and is discovered to contain any article, including, but not limited to, letters, bills, publications, or other writings which display the name of a person thereon in such a manner as to indicate that the article belongs or belonged to such person, it shall be a rebuttable presumption that such person has violated this article.
+(c)
+Court proceedings.
+(1)
+Violations of this article shall be tried upon citations or accusations as described in section 32-23(b) and may be tried with or without a prosecuting attorney as well as upon accusations. The county attorney or another attorney designated by the board of commissioners shall serve as prosecuting attorney.
+(2)
+Violations of this article shall be tried in the magistrate court of the county, and shall be tried in accordance with O.C.G.A. § 15-10-1 et seq.
+(3)
+Nothing in section 32-23 and this section shall prevent the board of commissioners from bringing any civil action for injunction, mandamus or other proceedings to present, correct, or abate any violation of this article. No sanction, penalty or remedy prescribed in this article shall be considered exclusive of any other remedy by law.
+(4)
+Each violation of this article shall constitute a separate offense.
+(d)
+Penalty.
+(1)
+Any person violating this article, or any provision hereof, upon conviction, shall be punished as follows:
+a.
+As provided in section 1-12;
+b.
+In the sound discretion of a court in which conviction is obtained, the person may be directed to pick up and remove from any public street or highway or public right-of-way for a distance not to exceed one-mile, any refuse deposited thereon by anyone else prior to the date of the execution of sentence; or
+c.
+In the sound discretion of the judge of a court in which conviction is obtained, the person may be directed to pick up and remove from any public park, private right-of-way, or with the prior permission of the legal owner or tenant in lawful possession of such property, any private property upon which it can be established by competent evidence that he has deposited refuse, any and all refuse deposited thereon by anyone prior to the date of execution of sentence.
+(2)
+Records of convictions for violation of this article shall be a matter of public record.
+(3)
+No person accused of violating this article shall be arrested prior to trial, but any defendant who fails to appear for trial shall be arrested thereafter on the warrant of the magistrate judge and required to post a bond for his future appearance.
+(Code 2005, § 66-35; Ord. of 6-13-2000(1), §§ 9.1—9.4)
+Secs. 32-25—32-51. - Reserved.
+DIVISION 2. - REFUSE CONTROL; CLASSIFICATION FOR DISPOSAL
+
+Sec. 32-52. - Criteria for disposing of refuse.
+(a)
+Limitations. It shall be unlawful for any person to dump, deposit, throw, or leave or cause or permit the dumping, depositing, placing, throwing or leaving of refuse on any road or street or any public or private property in the county, unless:
+(1)
+The property is designated by the state or the county or by any of their agencies for the disposal of refuse and the person is authorized by the proper public authority to use such property; or
+(2)
+The refuse is placed into a refuse receptacle, container, or dumpster installed on such property and designated for the disposal of refuse.
+(b)
+Public streets and private property. No person shall place any accumulations of refuse or household trash in any street, median strip, alley or other place of travel, nor upon any private property except with the written consent of the owner thereof, and then only in accordance with the provisions of this article.
+(c)
+Blockage of drainage. No person shall place any refuse, trash, refuse receptacles, or containers on, over, or near any storm drain or drainage ditch, or so close thereto as to cause such material to interfere in any way with such drainage.
+(d)
+Unauthorized storage. Any accumulation of refuse or trash items on any lot, property, premises, public streets, alley or other public or private place not permitted by this article, is hereby declared to be a nuisance. Failure of owner or occupant to remove and correct any such accumulation of refuse after appropriate notice from the chairperson of the board of commissioners or his designee shall raise the presumption that such person intended to violate this article.
+(e)
+Appliances. It shall be unlawful for any person to leave outside any building in a place accessible to children any appliance, refrigerator, or other container which has an airtight snap lock or similar device without first removing therefrom the lock or door. This section shall not apply to any appliances, refrigerators or container which has been placed on or adjacent to the rear of the building and which has been crated, strapped or locked so that it will be impossible for a child to obtain access to any compartment thereof.
+(f)
+Use of streets. It shall be unlawful for any vehicle transporting loose materials on any road or street to transport such material without suitable covers securely fastened to the vehicle, provided that the transported materials present a danger of falling from the vehicle. This section shall apply to the transportation of any garbage, refuse, household trash or other material of any kind to any disposal site, which include, but are not limited to, any dumpster or sanitary landfill. This section shall not apply to the transportation of poultry, livestock, silage, or other feed grain used in the feeding of poultry or livestock.
+(g)
+Used tires. No person shall accumulate used vehicle tires in such a manner as to pose a danger to the public health, safety and welfare. Tires will only be placed in the county landfill at designated locations.
+(Code 2005, § 66-51; Ord. of 6-13-2000(1), § 5.0)
+Sec. 32-53. - Scavenging.
+It shall be unlawful for any person to scavenge, disturb, or in any way interfere with the contents of any public landfill or public waste disposal area.
+(Code 2005, § 66-52; Ord. of 6-13-2000(1), § 5.1)
+Sec. 32-54. - Private refuse control.
+(a)
+Every owner, occupant, tenant and lessee using or occupying any commercial, institutional, or industrial building or property shall be obligated, jointly and severally, to provide refuse containers of that character, size, number and type as may be required to hold refuse generated by operations on the premises. Specifically, and without limiting the generality of the foregoing, the requirement for those containers shall apply to shopping centers, supermarkets, convenience stores, fast food restaurants, service stations and similar establishments; and shall likewise apply to commercial establishments, garages, schools, colleges, and churches or property thereof.
+(b)
+Every owner and every operator of a private or commercial parking lot shall provide refuse containers of adequate size, character and number as specified by the board of commissioners, or its designee, or contain the refuse generated by the operations of that parking lot.
+(c)
+Property owners and prime contractors in charge of a construction site shall be jointly and severally required to furnish refuse containers for discarded building materials and other construction refuse. Construction site operators are required to control refuse and solid waste at the construction site, such as discarded building materials, concrete truck washout, chemicals, litter, and sanitary waste. All refuse from construction and related activities shall be containerized and shall be picked up and placed in containers at the end of each work day.
+(d)
+The owner, occupant, and lessee of all property, jointly and severally, are required to remove all refuse and place the same in proper containers, and vacant lots, borders, parking lots, embankments, fences, walls and sidewalks shall be kept free of refuse by those persons. Parking lots, shopping centers, convenience stores, drive-in restaurants and all other commercial and industrial enterprises shall see to it that their respective properties are kept refuse free.
+(Code 2005, § 66-53; Ord. of 6-13-2000(1), § 5.2; Ord. No. 15-004, 4-6-2015 )
+Sec. 32-55. - Domestic refuse.
+The following types of refuse shall be classed as domestic refuse and shall be accepted for disposal:
+(1)
+Garbage.
+(2)
+Business trash.
+(3)
+Refuse.
+(4)
+Household trash.
+(Code 2005, § 66-54; Ord. of 6-13-2000(1), § 7.0)
+Sec. 32-56. - Industrial waste.
+The following types of waste shall be classified as industrial waste and shall not be accepted for disposal:
+(1)
+Industrial waste.
+(2)
+Hazardous refuse.
+(Code 2005, § 66-55; Ord. of 6-13-2000(1), § 7.1)
+Sec. 32-57. - Building materials.
+Building materials, if presented to the county for disposal, may be accepted for disposal upon such terms and conditions as may be determined by the board of commissioners or its designee and specific locations within the landfill may be designated for the disposal of building materials.
+(Code 2005, § 66-56; Ord. of 6-13-2000(1), § 7.2)
+Secs. 32-58—32-87. - Reserved.
+DIVISION 3. - COLLECTION; HANDLING; DISPOSAL; LANDFILLS
+
+Sec. 32-88. - Garbage and wastes; applicability; prohibitions; recycling.
+(a)
+Manner of handling waste. No person shall engage in solid waste handling or transportation of garbage in a manner which will likely create a nuisance or litter the land, roads or streets of the county; be conducive to insect and rodent infestation or the harboring and feeding of wild dogs or other animals; impair the air quality; impair the quality of the groundwater or surface water; impair the quality of the environment; or likely create other hazards to the public health, safety or well-being as may be determined by the board of commissioners.
+(b)
+Applicability. Provisions of this division shall apply to all persons presently engaged in refuse/solid waste handling as well as all persons proposing to engage in refuse/solid waste handling.
+(c)
+Prohibited acts.
+(1)
+Burning. No refuse/solid waste may be burned at a solid waste handling facility, disposal site or processing operation except by an incineration method such as an air curtain destructor or other methods approved by the board of commissioners.
+(2)
+Open dump. No refuse/solid waste may be disposed of by any person in an open dump, nor may any person cause, suffer, allow or permit open dumping on his property.
+(d)
+Prohibited wastes. If, because of unusual physical or chemical properties, or geological or hydrological conditions, or for other reasons, the board of commissioners finds that solid waste should not be accepted at a solid waste handling facility, the board of commissioners may require that such waste be prohibited, and that a proposal for disposal of such waste, with supporting data as may be deemed necessary, be submitted by the originator of such waste for consideration of approval by the board of commissioners, and the prohibition of such waste shall continue in effect until an acceptable procedure for processing or disposal has been developed and approved.
+(e)
+Materials destined for recycling.
+(1)
+Materials which are destined for recycling are excluded from this article as refuse/solid wastes. To be considered exempt from this article, the material must be processed to recover a usable product, employed as an ingredient in an industrial process to make a product, or employed in a particular function or application as an effective substitute for a commercial product.
+(2)
+Materials accumulated speculatively are refuse/solid waste and must comply with all applicable provisions of this article.
+(3)
+A material is not accumulated speculatively if the person accumulating it can show that during the calendar year (commencing on January 1) the amount of material that is recycled equals at least 60 percent by weight or volume of the material accumulated at the beginning of the period.
+(f)
+Form of proof of recycling. Proof of recycling shall be provided in the form of manifests, bills of sale, or other records showing adequate proof of movement of the material in question to a recognized recycling facility from the accumulation point.
+(Code 2005, § 66-71; Ord. of 6-13-2000(1), § 6.3)
+Sec. 32-89. - Private collection.
+It shall be unlawful for any person to collect refuse within the county except from his own residence, business or individual plant, without first having obtained a proper permit from the state department of natural resources and without first having obtained a county permit and business license.
+(Code 2005, § 66-72; Ord. of 6-13-2000(1), § 6.0)
+Sec. 32-90. - Private landfills.
+(a)
+It shall be unlawful for any person to operate a landfill, waste disposal area, or waste storage area intended to be used by the owner or used by others for the disposal or storage of waste without first having filed the proper application for a special use permit and business license with the board of commissioners. The owner of any landfill must also obtain a proper permit from the department of natural resources and must meet all the requirements of the rules of the state department of natural resources environmental protection division, O.C.G.A. § 391-3-4, solid waste management.
+(b)
+No permit shall be issued by the county until the applicant has shown, to the satisfaction of the board of commissioners or its designee that all federal, state, and county regulations and ordinances will be complied with in the operation and management of the landfill, waste disposal area, or waste storage area, and that the location of such landfill, waste disposal area, or waste storage area is such that there is no or minimal detriment to the environment, including, but not limited to, noxious odors, runoff, or contamination of surface water and groundwater, so that the maximum protection is afforded to the health, safety and well-being of the citizens of the county.
+(c)
+It shall be the duty and responsibility of the owner of any private disposal site to keep the site in an orderly condition and maintained so as not to be a public nuisance or a menace to public health.
+(d)
+The board of commissioners shall designate county employees and its designees shall have the right to enter a private disposal site at any time during normal business hours for the purpose of inspecting the site to determine whether or not the site is in compliance with this article and all other pertinent laws and regulations of the county.
+(Code 2005, § 66-73; Ord. of 6-13-2000(1), § 6.1)
+Sec. 32-91. - Public landfills.
+(a)
+The county, through the board of commissioners, may operate and maintain public landfills located on county owned or leased property and in compliance with all applicable state and federal laws and regulations.
+(b)
+Public sites approved for the disposal of refuse shall be identified by appropriate directional signs posted near the roadside and at the location of the county transfer station.
+(c)
+Such sites shall be maintained while in use until permanently closed, at which time additional authorized sites shall be opened and publicized by posting notices and through public advertisements.
+(d)
+The board of commissioners may restrict certain sites or portions thereof to a specific type of refuse.
+(e)
+Commercial collectors, including yard maintenance men, may use the public designated sites.
+(f)
+Residents of the county, other than commercial collectors, may use public sites upon payment of a fee, if any, to be set by the board of commissioners in accordance with the regulations for the particular site and under the instruction of the site attendant.
+(g)
+Authorized public disposal sites shall be operated Monday through Saturday of each week, with the exception of holidays. During the hours designated by the board of commissioners or its designee, acceptable refuse generated in the county shall be received for disposal from any resident of the county.
+(h)
+No person shall enter a disposal site except when an attendant is present and during the hours and days stipulated by the board of commissioners. All materials delivered and deposited in a disposal site shall immediately become the property of the county.
+(Code 2005, § 66-74; Ord. of 6-13-2000(1), § 6.2)
+Sec. 32-92. - Permit by rule for collection transportation and disposal.
+(a)
+Generally. The owner or occupant of any premises, office, business establishment, institution, industry, or similar facilities, shall be responsible for the collection and transportation of all refuse/solid waste accumulated at the premises, office, business establishment, institution, or similar facility to a refuse/solid waste handling facility operating in compliance with this article unless arrangements have been made for such service with a collector operating in compliance with this article.
+(b)
+Permit by rule. Notwithstanding any other provision of this article, the following collection, transportation, and disposal operations shall be deemed to have a refuse/solid waste handling permit if the conditions listed are met:
+(1)
+Notification. Within 30 days of the effective date of the ordinance from which this article is derived or of commencing refuse/solid waste handling activities which are covered under a permit by ordinance, notification must be made to the board of commissioners of such activity. Notification shall be made on such forms as are provided by the board of commissioners. Persons failing to notify the board of commissioners of such activities shall be deemed to be operating without a permit.
+(2)
+Collection operations.
+a.
+Vehicle construction. Vehicles or containers used for the collection and transportation of garbage and similar putrescible wastes, or rubbish containing such wastes, shall be covered, substantially leakproof, durable, and of easily cleanable construction.
+b.
+Vehicle maintenance. Refuse/solid waste collection and transportation vehicles shall be cleaned frequently to prevent threats to human health and shall be maintained in good repair.
+c.
+Littering and spillage. Vehicles or containers used for the collection and transportation of solid waste shall be loaded and moved in such a manner that the contents will not fall, leak or spill therefrom and shall be covered when necessary to prevent blowing or falling of material from the vehicle.
+d.
+Hazardous waste. No regulated quantities of hazardous wastes may be collected and transported except in accordance with the provisions of the Georgia Hazardous Waste Management Act, O.C.G.A. § 12-8-60 et seq.
+e.
+Wastewater from cleaning vehicles. All wastewater from cleaning of vehicles must be handled in a manner which meets all applicable environmental laws and regulations.
+f.
+Collected refuse; solid waste. All collected refuse/solid waste must be deposited only in a permitted refuse/solid waste handling facility authorized to receive the applicable waste types.
+(3)
+Transfer stations.
+a.
+Refuse/solid waste shall be confined to the interior of transfer stations, and not allowed to scatter to the outside. Waste shall not be allowed to accumulate, and floors shall be kept clean and well drained.
+b.
+Sewage solids shall be excluded from transfer stations and shall be transported directly to the disposal facility, disposal site or processing operation.
+c.
+Dust, odors and similar conditions resulting from transfer operations shall be controlled at all times.
+d.
+Rodents, insects and other such pests shall be controlled.
+e.
+Any contaminated runoff washwater shall be discharged to a wastewater treatment system and, before final release, shall be treated in a manner approved by the board of commissioners.
+(4)
+Hazardous waste. No person owning or operating a transfer station shall cause, suffer, allow, or permit the handling of regulated quantities of hazardous waste.
+(5)
+Inert waste landfill operation.
+a.
+Only dirt, concrete, rock, bricks, yard trimmings, and land clearing debris such as stumps, limbs and leaves, are acceptable for disposal in an inert waste landfill. No industrial or demolition wastes may be accepted.
+b.
+Materials placed in inert waste landfills shall be spread in layers and compacted to the least practical volume.
+c.
+A uniform compacted layer of clean cover no less than one foot in depth shall be placed over all exposed inert waste material at least monthly.
+d.
+The inert waste landfill site shall be graded and drained to minimize runoff onto the landfill surface, to prevent erosion and to drain water from the surface of the landfill.
+e.
+Access to inert waste landfills shall be limited to authorized entrances which shall be closed when the site is not in operation.
+f.
+Suitable means shall be provided to prevent and control fires. Stockpiled soil is considered to be the most satisfactory firefighting material.
+g.
+A uniform compacted layer of final cover not less than two feet in depth and a vegetative cover shall be placed over the final lift not later than one month following final placement of inert waste within that lift.
+h.
+Notice of final closure must be provided to the board of commissioners within 30 days of receiving the final load of waste. Any site not receiving waste for in excess of 180 days shall be deemed abandoned and in violation of this article unless properly closed. Notice of closure must include the date of final waste receipt and an accurate legal description of the boundaries of the landfill.
+(Code 2005, § 66-75; Ord. of 6-13-2000(1), § 6.4)
+Sec. 32-93. - Biomedical waste.
+(a)
+Definitions. The following words, terms and phrases, when used in this section, shall have the meanings ascribed to them in this subsection, except where the context clearly indicates a different meaning:
+Biomedical waste means and includes the following:
+(1)
+Pathological waste, which means all recognizable human tissues and body parts which are removed during surgery, obstetrical procedures, autopsy, and laboratory procedures.
+(2)
+Biological waste, which means bulk blood and blood products, exudates, secretions, suctionings, and other bulk body fluids which cannot or are not directly discarded into a county/municipal sewer system.
+(3)
+Cultures and stocks of infectious agents and associated biologicals including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories wastes from the production of biologicals, discarded live and attenuated vaccines, and culture dishes and devices used to transfer, inoculate, and mix cultures.
+(4)
+Contaminated animal carcasses, body parts, their bedding, and other wastes from such animals which have been exposed to infectious agents, capable of causing disease in man, during research, production of biologicals, or testing of pharmaceuticals.
+(5)
+Sharps, which means any discarded article that may cause punctures or cuts. Such waste includes, but is not limited to, items such as needles, IV tubing and syringes with needles attached, and scalpel blades.
+(6)
+Chemotherapy waste, which means any disposable material which has come in contact with cytotoxic/antineoplastic agents (agents toxic to cells) and/or antineoplastic agents (agents that inhibit or prevent the growth and spread of tumors or malignant agents). Such waste includes, but is not limited to, masks, gloves, gowns, empty IV tubing bags and vials, and other contaminated materials. The waste set forth in this subsection must first be classified as empty which means such quantity that it is not subject to other federal or state waste management regulations prior to being handled as biomedical waste.
+(7)
+Discarded medical equipment and parts, not including expendable supplies and materials which have not been decontaminated, that were in contact with infectious agents.
+(b)
+Generation of biomedical waste.
+(1)
+This article shall apply to all facilities generating regulated quantities of biomedical waste, including, but not limited to:
+a.
+Clinics;
+b.
+Dental offices;
+c.
+Funeral homes;
+d.
+Health maintenance organizations (HMOs);
+e.
+Hospitals;
+f.
+Laboratories;
+g.
+Medical buildings;
+h.
+Physicians' offices;
+i.
+Veterinary offices;
+j.
+Research and manufacturing facilities;
+k.
+Nursing homes; and
+l.
+Blood banks.
+(2)
+In no case shall a person be a generator of biomedical waste if those wastes are generated from single-family residential premises or a single-family dwelling unit and disposed of as residential solid wastes.
+(c)
+Storage and containment of biomedical waste.
+(1)
+Containment of biomedical waste shall be in a manner and location which affords protection from animals, rain and wind, does not provide a breeding place or a food source for insects and rodents, and minimizes exposure to the public.
+(2)
+Biomedical waste shall be segregated by separate containment from other waste at the point of origin.
+a.
+Biomedical waste, except for sharps, shall be placed in containers which are impervious to moisture and have a strength sufficient to preclude ripping, tearing, or bursting under normal conditions of use. The containers shall be securely closed so as to prevent leakage or expulsion of solid or liquid wastes during storage, handling, or transport.
+b.
+Sharps shall be contained for storage, transportation, treatment and subsequent disposal in leakproof, rigid, puncture-resistant containers which are taped closed or tightly lidded to preclude loss of contents.
+(3)
+Rigid containers of discarded sharps and all other disposable containers used for containment of biomedical waste shall be red or orange in color or clearly identified with the universal biohazard symbol or clearly marked with the word "biohazard."
+(4)
+Biomedical waste contained in disposable containers as prescribed above, shall be placed for storage, handling, or transport in disposable or reusable pails; cartons, boxes, drums, dumpsters, or portable bins. The containment system shall have a tightfitting cover and be kept clean and in good repair. The containers may be of any color and shall be conspicuously labeled with the universal biohazard symbol and the word "biohazards" on the sides so as to be readily visible from any lateral direction when the container is upright.
+a.
+Reusable containers used for shipment of biomedical waste to a treatment facility of a permitted sanitary landfill shall be thoroughly washed and decontaminated each time they are emptied unless the surfaces of the containers have been protected from contamination by disposable liners, bags, or other devices removed with the waste.
+b.
+Reusable pails, drums, dumpsters or bins used for containment of biomedical waste shall not be used for other purposes except after being decontaminated by procedures as described in this subsection and after the universal biohazard symbol and word "biohazard" are removed.
+(d)
+Transfer of biomedical waste to off-site treatment or disposal facilities.
+(1)
+Any generator or biomedical waste shall transfer custody of the waste only to a collector who is operating under authority of this article.
+(2)
+Biomedical waste shall not be transported in the same vehicle with other solid waste unless the biomedical waste is contained in a separate, fully enclosed leakproof container within the vehicle compartment or unless all of the waste is to be treated as biomedical waste in accordance with the requirements of this article.
+(3)
+Biomedical waste shall be delivered for storage, including intermediate transfer, and treatment only to a facility or location for which there is a valid and appropriate operating permit as set forth in this article.
+(4)
+Surfaces of transport vehicles that have contacted spilled or leaked biomedical waste shall be decontaminated.
+(5)
+Packaged biomedical waste may not be compacted or shredded prior to delivery to the treatment or disposal facility unless such compaction or shredding is in conjunction with chemical or other treatment which renders the waste noninfectious.
+(e)
+Treatment, discharge and disposal of biomedical waster.
+(1)
+If treated in accordance with the following procedures, the waste shall no longer be considered biomedical waste and may be combined and handled with regular solid waste. Biomedical waste shall be treated by one of the following methods prior to disposal at a permitted solid waste disposal facility:
+a.
+Incineration in an incinerator which provides complete combustion of waste to render it nonpathogenic.
+1.
+Biomedical waste incinerators shall be capable of maintaining a minimum temperature in the primary chamber sufficient to destroy infectious agents and produce a residue essentially free of odors and unstable organic matter. If chemotherapy wastes are incinerated, the incinerator must be capable of maintaining a minimum of, 1,800 degrees Fahrenheit in the secondary combustion chamber and a minimum residence time of two seconds.
+2.
+Atmospheric emissions shall be controlled so as not exceed air quality standards of the department of natural resources, environmental protection division.
+b.
+Decontamination by heating with steam under pressure (autoclave) so as to render the biomedical waste noninfectious.
+1.
+Recording of the thermometer during each complete cycle shall be used to ensure the attainment of a temperature of 121 degrees Centigrade (250 degrees Fahrenheit) for one-half hour or longer in order to achieve decontamination of the entire load.
+2.
+Monitoring of the steam sterilization process shall be required in order to confirm the attainment of decontamination.
+3.
+Monitoring may be through the use of biological indicators or other methods as approved by the board of commissioners.
+c.
+Other methods as may be approved by the board of commissioners.
+(2)
+Biomedical waste may be discharged to a sewage treatment system that provides secondary treatment of waste if approved by the agency responsible for the operation of the sewage treatment system.
+(3)
+Biomedical wastes consisting of recognizable human anatomical remains shall not be disposed of by sanitary landfilling.
+(4)
+Chemotherapy waste, as defined in subsection (a)(6) of this section, shall be treated at a permitted incineration facility or other facility approved by the board of commissioners. Steam decontamination may not be used for treatment of chemotherapy waste.
+(f)
+Disposal of biomedical waste.
+(1)
+Biomedical wastes treated in accordance with the provisions contained in this section shall be properly disposed of at a facility permitted under the authority of this article unless otherwise approved by the board of commissioners.
+(2)
+Until such time as treatment is required, untreated biomedical waste shall be placed in the working face of a permitted sanitary landfill such that the disposal operations do not destroy the integrity of the biomedical waste containers, until sufficient nonbiomedical waste has been placed over the biomedical waste to preclude exposure of site workers to the contents of the containers upon handling and compaction.
+(Code 2005, § 66-76; Ord. of 6-13-2000(1), § 6.5)
+Sec. 32-94. - Asbestos containing waste.
+(a)
+Collection.
+(1)
+Vehicles used for the transportation of containerized asbestos waste shall have an enclosed carrying compartment or utilize a covering sufficient to contain the transported waste, prevent damage to containers, and prevent release or spillage for the vehicle.
+(2)
+Vehicles used to reduce waste volume by compaction shall not be used because containers may rupture.
+(3)
+Vacuum trucks used to transport waste slurry must be constructed and operated to ensure that water does not leak from the truck.
+(b)
+Disposal.
+(1)
+Asbestos waste is to be disposed of only in a permitted sanitary landfill authorized by the board of commissioners for acceptance of asbestos containing waste.
+(2)
+Asbestos waste shall be sealed in leakproof containers labeled with: "Caution—contains asbestos fibers—Avoid opening or breaking container—Breathing asbestos is hazardous to your health."
+(3)
+Asbestos waste shall be disposed of in such a manner as not to destroy the integrity of the asbestos containing material containers. This waste shall be covered immediately with other solid waste or soil.
+(4)
+Asbestos waste must be completely covered immediately after deposition with a minimum of six inches of nonasbestos material.
+(Code 2005, § 66-77; Ord. of 6-13-2000(1), § 6.6)
+Sec. 32-95. - Liquid waste restrictions at sanitary landfills.
+The following restrictions apply at sanitary landfills:
+(1)
+Liquid waste, either bulk or containerized, shall not be placed in a sanitary landfill except as otherwise provided in this article.
+(2)
+If liquid waste is demonstrated nonhazardous and is admixed with bladeable material into a bladeable form, it is acceptable for disposal at a sanitary landfill with concurrence of the sanitary landfill operator.
+(3)
+Gas condensate and recirculated leachate disposal at sanitary landfills may be approved on a case-by-case basis by the board of commissioners if sufficient evidence is provided to the board of commissioners to warrant such disposal.
+(Code 2005, § 66-78; Ord. of 6-13-2000(1), § 6.7)
+Secs. 32-96—32-118. - Reserved.
+DIVISION 4. - ABANDONED MOTOR VEHICLES
+
+Sec. 32-119. - Unlawful acts.
+(a)
+It shall be unlawful to abandon any motor vehicle as provided in O.C.G.A. § 40-11-1. Any motor vehicle abandoned within the county shall be disposed of by the proper authorities as provided in O.C.G.A. § 40-1-1 et seq.
+(b)
+It shall be unlawful to park or let stand any junk vehicle or abandoned vehicle on public property or within 20 feet of a county or state road located within the county.
+(c)
+It shall be unlawful for any person to maintain or keep any junk vehicle on any property adjoining or abutting any public road, street or other public property within the unincorporated portions of the county, and visible from such public road, street, way or other public property.
+(d)
+It shall be unlawful to dispose of a junk vehicle or an abandoned vehicle in or at any sanitary landfill.
+(e)
+The enforcement provisions of this article as they apply to junk vehicles are not exclusive, but shall be in addition to any other regulations and regulatory codes of the state or the county.
+(Code 2005, § 66-101; Ord. of 6-13-2000(1), § 8.0)
+Secs. 32-120—32-136. - Reserved.
+ARTICLE III. - BOUNTY PAYMENTS[2]
+
+Footnotes:
+--- (2) ---
+State Law reference— Litter Control Law, O.C.G.A. § 16-7-40 et seq.; littering highways, O.C.G.A. § 40-6-249.
+
+Sec. 32-137. - Findings.
+It is hereby found and determined that:
+(1)
+Indiscriminate littering and other illegal dumping of solid or liquid waste and hazardous substances is known to be harmful to the environment and a blight to the landscape;
+(2)
+The creation of a reward or bounty system will offer an incentive for the general public to report such illegal activity, thereby augmenting the capability of the county to monitor and to prevent indiscriminate littering and other illegal dumping throughout the county;
+(3)
+A reward or bounty system has been used by other governmental agencies with favorable results, curbing the amount and type of littering and other illegal dumping; and
+(4)
+Generating publicity pertaining to the bounty authorized by this article constitutes a public purpose in that it will increase the public's awareness of the adverse environmental and social effects of littering and other illegal dumping and the judicial consequences that can result therefrom and will thereby reduce littering and other illegal dumping within the county.
+(Code 2005, § 66-121; Ord. of 8-19-1993(1), § 1)
+Sec. 32-138. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Bounty means reward.
+County marshal means the county marshal of the county and/or the designee of such county marshal.
+Successful criminal prosecution means:
+(1)
+The conviction;
+(2)
+The placing upon probation;
+(3)
+The placing within a pretrial intervention program; or
+(4)
+Such other similar successful court ordered punishment or remedy imposed upon a person or entity for unlawful littering or dumping within the county.
+Unlawful littering or dumping means any action or activity that violates the county's solid waste management regulations in article II of this chapter.
+(Code 2005, § 66-122; Ord. of 8-19-1993(1), § 2)
+Sec. 32-139. - Development and implementation of program.
+The county marshal is hereby authorized and directed to develop and implement a bounty payment program for the reporting of unlawful littering or dumping when such reporting results in a successful criminal prosecution against the person or entity reported.
+(Code 2005, § 66-123; Ord. of 8-19-1993(1), § 3)
+Sec. 32-140. - Guidelines.
+The bounty payment program to be developed and implemented by the county marshal shall conform to the following general guidelines:
+(1)
+The bounty amount payable shall be $100.00 to $500.00 for each successful criminal prosecution against a person or entity. Separate counts or charges contained within the same governmental prosecuting document shall not be stacked or cumulated to create more than one successful criminal prosecution per prosecuting document.
+(2)
+To be eligible for payment of a bounty, the report of the unlawful littering or dumping must be made by the person claiming the bounty to the county staff person authorized by the county marshal to receive the report and the information reported must lead to a successful criminal prosecution of a person or entity for the unlawful littering or dumping reported.
+(3)
+The amount of the bounty will be determined based on the seriousness of the reported activity, the duration of the violation, the usefulness of the information reported in obtaining the successful criminal prosecution, and the willingness and ability of the reporting person to participate in the successful criminal prosecution. First in time reports containing the same essential information as subsequent reports shall be deemed the more useful of the reports. The county marshal may require that the bounty for a successful criminal prosecution be equitably divided between one or more persons eligible to receive the bounty.
+(4)
+The statute of limitation must not have expired on the alleged unlawful littering or dumping.
+(5)
+Although anonymity cannot be guaranteed to a person making a report concerning unlawful littering or dumping, the county marshal shall use his best efforts consistent with the laws of state to protect the confidentiality of the person making the report if such persons making the report requests such confidentiality.
+(6)
+Bounties paid pursuant to this article are hereby approved and shall be paid from the county's landfill fund.
+(Code 2005, § 66-124; Ord. of 8-19-1993(1), § 4)
+Sec. 32-141. - Authorization to promote program.
+The county marshal is authorized and directed to promote this article and the county's bounty payment program by utilizing appropriate communication mediums in order to ensure wide dissemination of information pertaining thereto to the public and thereby increase the effectiveness and success of the bounty payment program. Promotional costs incurred pursuant to this section shall not exceed $500.00 per year and shall be paid from the county's landfill fund.
+(Code 2005, § 66-125; Ord. of 8-19-1993(1), § 5)

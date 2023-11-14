@@ -1,0 +1,313 @@
+Chapter 34 - UTILITIES
+ARTICLE I. - IN GENERAL
+
+Secs. 34-1—34-19. - Reserved.
+ARTICLE II. - SEWERS AND SEWAGE DISPOSAL
+DIVISION 1. - GENERALLY
+
+Sec. 34-20. - General provisions.
+(a)
+The purpose of this article is to establish uniform requirements for the disposal of wastewater and to regulate wastewater discharged into the sanitary sewer collection system of the city (hereinafter city). This article establishes conditions for connection to the sanitary sewer system and requires a permit. Certain acts which may be detrimental to the sewer system are prohibited, and this article provides measures for enforcement of its provisions and abatement of violations thereof.
+(b)
+The city manager or a sewer superintendent (hereinafter superintendent) appointed by resolution of the city council shall exercise administrative management, control and jurisdiction over sanitary sewers, sewage treatment and disposal facilities, mains and drainage, including their locations, design, construction, operation, maintenance, repair and rehabilitation.
+(c)
+The city council shall hold hearings upon appeals from orders or actions of the city manager or superintendent as may be provided under any provision of this chapter.
+(Ord. No. 187, § 1-1, 1-21-1999)
+Sec. 34-21. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Biochemical oxygen demand (BOD) means the quantity of oxygen utilized in the biochemical oxidation of organic matter under EPA-approved laboratory procedures in five days at 20 degrees Celsius, expressed in milligrams per liter.
+Customer means every person who is responsible for contracting (expressly or implicitly) with the city in obtaining, having, or using sewer connections with, or sewer tap to, the city's sewer system for the purpose of disposing of wastewater and sewage through said system. Said terms shall include the occupants of each unit of a multiple-family dwelling as a separate and distinct customer.
+Easement means an acquired legal right for the specific use of land owned by others.
+Floatable oil means oil, fat, or grease in a physical state such that it will separate by gravity from wastewater by treatment in an approved pretreatment facility. Wastewater shall be considered free of floatable oil if it is properly pretreated and the wastewater does not interfere with the collection system.
+Flush toilet means the common sanitary flush commode in general use for the disposal of human excrement.
+Garbage means the animal and vegetable waste resulting from the handling, preparation, cooking, and serving of foods.
+Health officer means the director of the county board of health or other person designated by the county commissioner, and his duly appointed assistants.
+Industrial wastes means the wastewater from industrial processes as distinct from domestic or sanitary wastes.
+Infiltration/inflow means groundwater and surface water which leaks into the sewers through cracked pipes, joints, manholes, or other openings.
+Natural outlet means any outlet into a watercourse, pond, ditch, lake, or other body of surface water or groundwater.
+Normal wastewater means wastewater discharged into the sanitary sewers in which the average concentration of total suspended solids is not more than 350 milligrams per liter (mg/l), BOD 5 is not more than 300 mg/l, total phosphorous is not more than 15 mg/l, total Kjeldahl nitrogen is not more than 20 mg/l, and the total flow is not more than 25,000 gallons per day.
+pH means the logarithm of the reciprocal of the hydrogen-ion concentration.
+Pit privy means a shored, vertical pit in the earth completely covered with a fly-tight slab on which is securely located a fly-tight riser covered with a hinged fly-tight seat and lid.
+Properly shredded garbage means the wastes from the preparation, cooking, and dispensing of food that have been shredded to such a degree that all particles will be carried freely under the flow conditions normally prevailing in public sewers, with no particle greater than one-half inch in any dimension.
+Sanitary sewer means a sewer that carries liquid and water-carried wastes from residences, commercial buildings, and institutions together with minor quantities of groundwaters, stormwaters, and surface waters that are not intentionally admitted.
+Septic tank means a subsurface impervious tank designed to temporarily retain sewage or similar water-borne wastes together with:
+(1)
+A sewer line constructed with solid pipe, with the joints sealed, connecting the impervious tank with a plumbing stub-out; and
+(2)
+A subsurface system of trenches, piping, and other materials constructed to drain the clarified discharge from the tank and distribute it underground to be absorbed or filtered.
+Sewage means the spent water of a community. See Wastewater.
+Sewer means a pipe or conduit that carries wastewater.
+Sewer system means all facilities for collecting, pumping, treating, and disposing of sewage.
+Slug means any discharge of water or wastewater which, in concentration of any given constituent or in quantity of flow, exceeds for any period of duration longer than 15 minutes more than five times the average 24-hour concentration of flows during normal operation and adversely affects the collection system and/or performance of the sewer system.
+Suspended solids means total suspended matter that either floats on the surface of, or is in suspension in, water, wastewater, or other liquids, and that is removable by laboratory filtration as approved by the EPA and referred to as nonfilterable residue.
+Unpolluted water means water of quality equal to or better than the effluent criteria in effect or water that would not cause violation of receiving water quality standards and would not be benefited by discharge to the sanitary sewers and wastewater treatment facilities provided.
+Wastewater means the spent water of a community. From the standpoint of source, it may be a combination of the liquid and water-carried wastes from residences, commercial buildings, and institutions, together with any groundwater, surface water, and stormwater that may be present.
+Wastewater facilities means the structures, equipment, and processes required to collect, carry away, and treat domestic and industrial wastes and dispose of the effluent.
+Watercourse means a natural or artificial channel for the passage of water either continuously or intermittently.
+(Ord. No. 187, § 1-2, 1-21-1999)
+Sec. 34-22. - Connection with city sanitary sewer required.
+(a)
+Sewer connection required. Every building having plumbing fixtures installed and intended for human habitation, occupancy, or use on premises abutting a street, alley, or easement in which segment there is a sanitary sewer which is within 100 feet of the property line of the parcel containing the building shall be considered as being served by the city's sewer system.
+(1)
+All new buildings hereafter constructed which are served by the city's sewer system shall not be occupied until the connection has been made. The owner or occupant of each currently occupied building which is now served or which may hereafter be served by the city's sewer system shall, within three years after being sent notice by the city manager or superintendent that sewer service is available for the lot or parcel, cease to use any other method for the disposal of sewage and shall connect to the city's sewer system. In addition, upon any sale, conveyance or other transfer of property which is served by the city's sewer system, the transferee shall immediately be obligated to connect to the city's sewer system and to cease using any other method for the disposal of sewage, regardless of whether the transfer occurs before the expiration of the aforesaid three-year period. The city manager or superintendent shall make any decisions as to the availability of sewers to particular buildings. All premises served by the city's sewer system are subject to sewer use charges as described in division 2 of this article.
+(2)
+If, during the three-year period mentioned in subsection (a)(1) of this section any repairs, alterations or enlargements are required or undertaken on a septic tank or field lines being used on property for which sewer service is available, or if the health officer should declare such septic tank or field lines or the continued use thereof to be hazardous, unsafe, unsanitary or potentially injurious to the public health, the owner or occupant of the property shall, within 30 days, connect to the city's sewer system and pay all applicable fees and charges then in effect.
+(b)
+Violations declared a nuisance. The discharge of sewage in contravention of subsection (a) of this section is declared a nuisance. If the owner of any property which requires sewer connection fails or refuses to connect to the city's system, a notice shall be given to the city manager or superintendent, who may take such action to abate the nuisance as may be warranted under the circumstances.
+(Ord. No. 187, § 1-3, 1-21-1999)
+Sec. 34-23. - Installation, maintenance, repair of sewer service lines; charge; exception.
+(a)
+Standard sewer stub-outs; property owner to provide service line.
+(1)
+Hereafter, the city shall install, or cause to be installed, standard sanitary sewer service lines from mains or trunks located in a street, alley, or easement to the property line of each lot or residence on the street being served. Each property owner shall then be responsible, at his own expense, to provide the sewer service line from all buildings located on the property to the city-provided sewer line located in the street, ally, or easement. In the case of sewers being constructed in undeveloped subdivisions, the standard sanitary sewer service lines shall be constructed to each lot as shown on the plat of the subdivision by the developer as filed in the office of the clerk of the superior court of the county. Such construction shall be at the developer's expense and shall be in accordance with all applicable city standards, regulations and guidelines for such construction. An administrative fee may be charged to the developer in connection with the city's inspection and approval of the sewer service lines.
+(2)
+All sewer service lines, including those installed on private property by or on behalf of the property owner, shall be constructed and installed in conformity with all standards, regulations and guidelines established by the city for such construction, and shall be inspected and approved by the city before being placed into service. All designs for sewer lines and related facilities to be placed on commercial, tourist-oriented, multifamily and church-related property must be submitted to the city and formally approved by the city manager or superintendent before construction of the lines or related facilities begins.
+(b)
+Grinder pumps. All buildings served by the city's sewer system shall, in addition to the sewer service line, have a grinder pump installed for the purpose of pumping sewage from the building to the sewer main. Unless specifically approved by the city manager or superintendent for a single grinder pump, all business and commercial establishments within the city shall be equipped with duplex grinder pumps (i.e., one primary pump and one standby). All grinder pumps used within the city must be of the type and specifications expressly approved by the city manager or superintendent.
+(1)
+All grinder pumps installed on residential property shall remain the property of the city, and the city will be responsible for routine maintenance of the pumps. The city may, in its or the city manager's or superintendent's sole discretion, impose charges upon residential property owners for repairs of grinder pumps not due to ordinary wear and tear and pump usage.
+(2)
+Grinder pumps for commercial, institutional, multifamily, tourist and church-related uses must be purchased and maintained by the property owner at the property owner's own expense. Repairs of grinder pumps serving commercial, institutional, multifamily, tourist and church-related buildings will be subject to the city manager's or superintendent's inspection and approval.
+(c)
+Fee. There is hereby levied and imposed a sewer service connection charge or tap fee in the amount determined by the city council from time to time for each sanitary sewer service connection made by or on behalf of a property owner, where a lateral sewer connection has been provided for the property owner's use.
+(d)
+Location of sewer stub-out. The plumbing contractor is responsible for locating the sewer stub-out. City personnel will provide whatever information is available for this purpose. If a customer connection box needed for locating a service line has been lost, then the city shall be responsible for locating the customer connection box.
+(e)
+New taps on city sewers. All taps directly made into the city's sewer lines shall be made by city sewer maintenance personnel. The plumbing contractor shall excavate to the city's sewer and expose the pipe in preparation for the tap. Only one service line shall be allowed to be installed in a trench. New taps shall be made using a type of connection approved by the city.
+(f)
+Maintenance for sewer service lines. All repairs and maintenance of the property owner's sewer service line, including correction of excessive inflow or infiltration shall be the responsibility of the property owner or user of the sewer. The city shall be responsible for the maintenance of collector lines and interceptor lines only up to the point where the owner's sewer service line connects to the city's lines.
+(Ord. No. 187, § 1-4, 1-21-1999; Ord. No. 213, § 1, 3-17-2005; Ord. No. 284, § 2, 3-19-2015)
+Sec. 34-24. - Service lines to enter sanitary sewers at junction; exception.
+No service lines shall enter a sanitary sewer at any point except where a junction has been made and left therefor, unless by special permission of the city manager or superintendent. In all cases where such permission is given, the work shall be done under the inspection of the city manager or superintendent or other authorized representative of the city, and at the risk and expense of the party making the connection.
+(Ord. No. 187, § 1-5, 1-21-1999)
+Sec. 34-25. - Permit required to make connection.
+(a)
+Before the owner of any property within or beyond the corporate limits of the city connects such property to the city sewer, he or his agent shall make application to the city manager or superintendent for, and have issued to him, a permit so to do. Such work shall only be performed by a professional plumber who must sign the permit. The permit application shall be a form prescribed by the city. All connections shall be inspected and approved by the city before being used.
+(b)
+Connections made without an approved application may be cut off by order of the city manager or superintendent. Such unapproved connection may be allowed to remain active if inspected and accepted, however, the owner shall be required to pay a fee in lieu of a permit application fee that is double the regular permit fee then in effect.
+(Ord. No. 187, § 1-6, 1-21-1999)
+Sec. 34-26. - Sewer construction; acceptance of work.
+All sewer construction involving interceptor sewer lines, pump stations, metering stations and appurtenances which shall become a part of the city's sewer system shall not be constructed without the plans therefor having first been approved and the construction inspected and approved by the city manager or superintendent. Any construction work where city sewers are opened, uncovered, or undercut shall have been previously approved by the city manager or superintendent or the city's consulting engineers.
+(Ord. No. 187, § 1-7, 1-21-1999)
+Sec. 34-27. - Right to enter, inspect connection and maintenance.
+The city manager or superintendent, the building inspector or other designated employees of the city shall have free and unobstructed access to any part of the property or premises where sewer lines, septic tanks, grinder pumps, house drains or other facilities connected with or draining into the city sewers are laid, for the purpose of examining the construction, condition, maintenance and method of use of the same, upon cause or reasonable suspicion that there may be inadequate facilities, the facilities present (including both sewer lines and grinder pumps) may not be properly functioning or maintained, there is an improper discharge, or upon a periodic systematic inspection of a particular drainage basin or other large segment of the system through those facilities at any time of the day between the hours of 7:00 a.m. and 6:00 p.m., or any other time in the event of an emergency. If such entry is refused, the sewer service may be disconnected upon reasonable notice and an opportunity for a hearing. The service may be suspended immediately in the event of an emergency if there is reasonable cause to suspect that the discharge will endanger the public health or the environment, shall have the potential to interrupt the treatment process, or shall damage the city's lines or facilities, and a hearing shall thereafter be afforded the user as soon as possible.
+(Ord. No. 187, § 1-8, 1-21-1999)
+Sec. 34-28. - Demolished buildings.
+When a building is demolished, it shall be the responsibility of the owner to have the sewer service line plugged securely so that extraneous water will not enter the sewer. The owner of the premises or his agent shall notify the city manager or superintendent of such a plug, and allow same to be inspected prior to covering of any work. If such line is to be reused, it must first undergo inspection by the city and be in conformity with then-existing standards.
+(Ord. No. 187, § 1-9, 1-21-1999)
+Sec. 34-29. - Limitations on point of discharge; temporary facilities.
+No person shall discharge any substance directly into a manhole or other opening in a city sanitary sewer other than through an approved sewer line for a building, unless he shall have been issued a temporary permit by the city manager or superintendent. A temporary permit may be issued in the discretion of the city manager or superintendent to provide for discharges from portable sanitary facilities for festivals or public shows or for other reasonable purposes. The city manager or superintendent shall incorporate in such a temporary permit such conditions as he deems reasonably necessary to ensure compliance with the provisions of this article. The user shall be required to pay reasonable charges and fees for the permit and service in an amount not less than the charges and fees for normal discharges. Any discharge other than through an approved building sewer line or upon a permit issued by the city manager or superintendent shall be unlawful.
+(Ord. No. 187, § 1-10, 1-21-1999)
+Sec. 34-30. - Grease traps, grit traps, oil traps and lint traps.
+Restaurants, laundries, vehicle wash racks, vehicle service stations, private multi-user systems, engine or machinery repair shops and other facilities that produce grease, grit, oil, lint or other materials which accumulate and cause or threaten to cause stoppages or impair the efficiency of the city's sewers or threaten the safety of its employees, shall install and maintain a grease trap, grit trap, lint trap, oil interceptor, or other appropriate device of standard design and construction to prevent excess discharges of such materials. The design and construction of any such device shall be subject to prior approval of the city manager or superintendent, and constructed in accordance with applicable building codes.
+(Ord. No. 187, § 1-11, 1-21-1999)
+Sec. 34-31. - Restricted use of city sewer system.
+(a)
+No person shall discharge or cause to be discharged any unpolluted waters such as stormwater, groundwater, roof runoff, subsurface drainage, cooling water, or unpolluted industrial process waters to the city's sanitary sewer system.
+(b)
+No person shall discharge or cause to be discharged any of the following described water or wastes to the city's sanitary sewer system:
+(1)
+Any gasoline, benzene, naphtha, fuel oil, or other flammable or explosive liquid, solid, or gas.
+(2)
+Any waters containing toxic or poisonous solids, liquids, or gases in sufficient quantity, either singly or by interaction with other wastes, to injure or interfere with any waste treatment process, constitute a hazard to humans or animals, create a public nuisance, or create any hazard in the receiving waters of the wastewater treatment plant.
+(3)
+Any waters or wastes having a pH lower than 5.5 or greater than 9.0, or having any other corrosive property capable of causing damage or hazard to structures, equipment, and personnel of the wastewater works.
+(4)
+Solid or viscous substances in quantities or such size capable of causing obstruction to the flow in sewers, or other interference with the proper operation of the wastewater facilities such as, but not limited to, ashes, bones, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood, unground garbage, whole blood, paunch manure, hair and fleshings, entrails and paper dishes, cups, milk containers, etc., either whole or ground by garbage grinders.
+(5)
+Hospital, clinical, pathological, or surgical waste.
+(c)
+The following described substances, materials, waters, or waste shall be limited in discharges to municipal systems to concentrations or quantities which will not harm either the sewers, wastewater treatment process or equipment, will not have an adverse effect on the receiving stream, or will not otherwise endanger life, limb, or public property, or constitute a nuisance. The limitations or restrictions on materials or characteristics of waste or wastewater discharged to the sanitary sewer which shall not be violated without approval of the city are as follows:
+(1)
+Wastewater having a temperature higher than 150 degrees Fahrenheit (65 degrees Celsius) or wastewater which will elevate the temperature of the influent to the publicly-owned treatment works (POTW) to 104 degrees Fahrenheit (40 degrees Celsius) or higher.
+(2)
+Wastewater containing more than 25 milligrams per liter of petroleum oil, nonbiodegradable cutting oils, or products of mineral oil origin.
+(3)
+Wastewater containing more than 100 milligrams per liter of oils, fat, grease, or wax, whether emulsified or not, or containing substances which may solidify or become viscous at temperatures between 32 degrees Fahrenheit (zero degrees Celsius) and 150 degrees Fahrenheit (65 degrees Celsius).
+(4)
+Any garbage that has not been properly shredded.
+(5)
+Any waters or wastes containing taste-producing or odor-producing substances exceeding limits which may be established by the city.
+(6)
+Any radioactive wastes or isotopes of such half-life or concentrations as may exceed limits established in compliance with applicable state or federal regulations.
+(7)
+Quantities of flow, concentrations, or both, which constitute a slug as defined in section 34-20.
+(8)
+Waters or wastes containing substances which are not amenable to treatment or reduction by the wastewater treatment process employed, or are amenable to treatment only to such degree that the wastewater treatment plant effluent cannot meet the requirements of other agencies having jurisdiction over discharge to the receiving waters.
+(9)
+Any water or wastes which, by interaction with other water or wastes in the sewer system, release obnoxious gases, form solids which interfere with the collection system, or create a condition deleterious to structures and treatment processes.
+(10)
+Materials which exert or cause:
+a.
+Any unusual concentrations of inert suspended solids (such as, but not limited to, Fuller's earth, lime slurries, and lime residues) or of dissolved solids (such as, but not limited to, sodium chloride and sodium sulfate).
+b.
+Excessive discoloration (such as, but not limited to, dye wastes and vegetable tanning solutions).
+c.
+Unusual BOD (above 300 mg/l), chemical oxygen demand, or chlorine demand in such quantities as to constitute a significant load on the sewage treatment plant.
+(d)
+If any waters or wastes are discharged or are proposed to be discharged to the public sewers, which waters contain the substances or possess the characteristics enumerated above and which, in the judgment of the city, may have a deleterious effect upon the wastewater facilities, processes, equipment, or receiving waters, or which otherwise create a hazard to life or constitute a public nuisance, the city may:
+(1)
+Reject the wastes;
+(2)
+Require pretreatment to an acceptable condition for discharge to the public sewers;
+(3)
+Require control over the quantities and rates of discharge; and/or
+(4)
+Require a surcharge payment to cover added cost of handling and treating the wastes.
+(e)
+Waiver of requirements. There shall be no provision for the granting of variances for discharge of incompatible wastes. If a user begins to violate any of the provisions of this section, it shall be his responsibility to apply to the city manager or superintendent who may issue a temporary permit along with a compliance schedule for planning and construction of necessary treatment or pretreatment works. Each case will be carefully evaluated with respect to its effect on the wastewater treatment system and the environment prior to issuance of a temporary permit and compliance schedule.
+Any dilution of the wastewater by the user for the purpose of decreasing the concentrations of toxic materials shall be considered a violation of this article.
+(Ord. No. 187, § 1-12, 1-21-1999)
+Sec. 34-32. - Limitations on the use of garbage grinders.
+No waste from garbage grinders shall be discharged into the city's sewers except for private garbage grinders used in an individual residence or upon permit issued by the city manager or superintendent for preparation of food consumed on premises, and then only where applicable fees therefor are paid. Installation of any garbage grinder equipped with a three-fourths horsepower (or greater) motor shall require a permit. The city manager or superintendent may issue a permit when there is inadequate space on the user's premises to properly store food preparation waste between regularly scheduled garbage pickup by city crews or a private collection service with equal or greater frequency of collection. All garbage grinders used within the city (whether or not requiring a permit) must shred the waste sufficiently that it can be carried freely under normal flow conditions prevailing in the city's sewer lines. It shall be unlawful for any person to use a garbage grinder connected to the sewer system for the purpose of grinding and discharging plastic, paper products, inert materials or anything other than the waste products from normal food preparation and consumption.
+(Ord. No. 187, § 1-13, 1-21-1999)
+Sec. 34-33. - Obstruction of or damage to sewer lines.
+It shall be unlawful for any person to deposit or cause to be deposited any waste of any character whatsoever which may obstruct or damage sanitary sewer lines or which may inhibit, disrupt, or damage the sewer system, including the sewer treatment process and operations. This prohibition shall include any and all substances, whether liquid, solid, gaseous or radioactive and whether associated with human habitation, of human or animal origin, or from any producing, manufacturing or processing. It shall be unlawful to block or obstruct any catch basin, sewer line, or other appurtenance, or to break, injure or remove any portion from any part of a sewer, drain or catch basin, including plates covering manholes.
+(Ord. No. 187, § 1-14, 1-21-1999)
+Sec. 34-34. - Assessment of damages to users.
+When the discharge of waste or any other act or omission causes an obstruction, damage, or any other impairment to the city's facilities, causing an expense or damages of whatever character or nature to the city, the city manager or superintendent shall assess the expenses and damages incurred by the city to clear an obstruction, repair damage to the facility, and otherwise rectify any impairment, and bill the person responsible for the damage for reimbursement of all expenses and damages suffered by the city. If the person responsible refuses to pay, then the city manager or superintendent shall forward a copy of the statement and documentation of all expenses to the city attorney who shall be authorized to take such legal action as shall be appropriate. Such expenses shall constitute a lien on the property to which they relate, and the city attorney may, among other things, file appropriate evidence or documentation of the lien with the office of the clerk of superior court of the county, and may foreclose upon or otherwise enforce the lien in the same manner that city tax liens are enforced. If referral to the city attorney is made, the property owner will be responsible for paying the reasonable fees and expenses of the city attorney which shall be added to and constitute a part of the lien against the property.
+(Ord. No. 187, § 1-15, 1-21-1999)
+Sec. 34-35. - Violations; discontinuance of water service.
+(a)
+Other remedies. In addition to other remedies, the city manager or superintendent may issue a show cause notice to any user who appears to be violating any provisions of this article to show cause why sewer service should not be discontinued. The notice shall include the nature of the violation with sufficient specificity as to the character of the violation, and the date on which such violations occurred to enable the user to prepare a defense. Such notice shall be mailed to the user by certified mail, return receipt requested, or shall be personally delivered to the user at least 20 days prior to the proposed action, except in the event of an emergency. Such mailing or delivery may be made either to the user's last-known address as shown on the city's tax records or to the address of the property in question. At the show cause hearing, the user may present any defense he may have to such charges, either in person or through submission of written or documentary proof. Following such hearing or opportunity for a hearing, the city manager or superintendent may, in his discretion, order the termination of sewer service if satisfied from all the proof available that the violation was willful and the termination is necessary to abate the offending condition, or to prevent future violations. The city manager or superintendent may terminate service for a period not to exceed one year for a willful violation and may terminate service indefinitely to abate offending conditions or prevent future violations, subject to the correction of such conditions or violations by the user.
+(b)
+Emergency termination of service. If, in the opinion of the city manager or superintendent, it appears that such violation presents or may present an emergency situation endangering the public health, the environment, sewer system personnel, or the operation of the system, he may take immediate action to abate the condition and terminate service. In the event such emergency action adversely affects the user, the city manager or superintendent shall provide the user an opportunity for a hearing as soon as practicable thereafter to consider restoration of service upon abatement of the condition or other reasonable conditions. Following the hearing, the city manager or superintendent may take any such action authorized by subsection (c) of this section should the proof warrant such action.
+(c)
+Water service. Any violation of this article which is not corrected or abated following a notice and opportunity for a hearing shall be grounds for the termination of water service and/or plugging the sewer line, and the city may, in addition, pursue all other rights and remedies provided by this article or applicable law (including both statutory and common law).
+(Ord. No. 187, § 1-16, 1-21-1999)
+Secs. 34-36—34-58. - Reserved.
+DIVISION 2. - SEWER SERVICE CHARGES
+
+Sec. 34-59. - Levied.
+For the purpose of paying or contributing to the payment of the interest, principal and other obligations of the city pursuant to the promissory note and such other instruments and contracts heretofore or hereafter issued or entered into by the city for or in connection with the payment or the refinancing of the costs and expenses necessary or incidental to the construction of the sewer system and the acquisition, construction and installation of additions, extensions and improvements to the sewer system, consisting of sanitary sewers, intercepting and outfall sewers, and pumping facilities, and for the costs and expenses necessary or incidental to the operation and maintenance of the sewers and sewer system and sewage disposal facilities of the city, there hereby are imposed sewer service charges upon the owner or occupant of all property now served or which may hereafter be served by the city's sewer system at the rates and other amounts set forth in this article. Such charges shall be paid regardless of whether the owner or occupant of the property has elected to connect to and utilize the city's sewer system, so long as sewer service is available to the property.
+(Ord. No. 187, § 2-1, 1-21-1999; Ord. No. 267, § 1, 12-20-2012)
+Sec. 34-60. - Abutting property owners to pay charges.
+The owner or occupant of each lot or parcel of land which abuts a street, easement or other public way containing a sanitary sewer upon which lot or parcel a building has been or may hereafter be constructed for residential (both single-family and multifamily), commercial, institutional, tourist or church-related use shall pay the sewer service charges as provided in this article. The city manager or superintendent shall make the determination whether or not a lot or parcel abuts upon a segment of a street, alley, easement or other public way in which there is a sewer for the purposes of levying service charges, provided that he may waive the collection of such charges where the connection is infeasible based upon engineering or hydraulic principles, the connection would not comport with applicable plumbing or building codes, or the connection would not comport with other applicable codes, laws or regulations.
+(Ord. No. 187, § 2-2, 1-21-1999)
+Sec. 34-61. - Contracts with other entities.
+The mayor, city manager or other authorized city official may (subject to approval by the city council), enter into contracts with any municipality, county, incorporated district, business, college, association or other person or entity for the disposal of wastewater or sewage collected and pumped or delivered to some part of the city's sewer system; provided, however, that the charges to be paid for the disposal of such wastewater or sewage shall not be less than an amount which is fair and equitable, taking into account the cost to the city of such disposal and the cost of the sewage disposal system. All revenues received pursuant to such contracts shall be deemed to be revenues of the sewer system and shall be applied and accounted for in the same manner as other revenues derived from the operation of such system. Any such contract authorizing the disposal of wastewater or sewage into the city's sewer system by a business, college, association or other entity shall contain an obligation on the part of the business, college, association or other entity to indemnify and hold the city harmless from and against any and all claims, demands, liability, damages, costs, expenses and attorney fees in any way related to the design, construction, operation and maintenance of the sewer-related facilities and pipelines of such business, college, association or other entity, and the wastewater or sewage discharged into the city's sewer system. Any such contract may contain such other provisions which, in the judgment of the city attorney, are reasonable or necessary to protect the interests of the city.
+(Ord. No. 187, § 2-3, 1-21-1999; Ord. No. 263, § 1, 4-12-2012)
+Sec. 34-62. - Basis for charges.
+The sewer service charges imposed by this article shall be based upon the water consumption of the owner or occupant of the properties served, as measured by the meters of the water company or meters installed by the owner or occupant of the property, as provided in this article; provided, however, that the city may impose additional charges and fees which the city council may determine to be reasonably necessary to pay the city's obligations, costs and expenses associated with the sewer system as described in section 34-59.
+(Ord. No. 187, § 2-4, 1-21-1999; Ord. No. 267, § 2, 12-20-2012)
+Sec. 34-63. - Billing procedure.
+(a)
+The sewer service charges shall become effective upon water usage, shall be at the rates and other fees and charges hereinafter imposed, and shall be billed by the water company or by any other private or governmental entity with which the city may contract for sewer billing services. Such sewer charges shall be paid within 18 days after the issuance of the bill. If charges are not paid within said 18-day period, they shall be considered delinquent, and the city may, in addition to other available remedies, provide notice to the water company under applicable state law that water service to the customer is to be suspended.
+(b)
+Sewer service charges shall be billed as a separate designated item on the bills issued by the water company or other billing service provider.
+(c)
+Billing shall begin and the sewer service charges shall become payable upon the property owner's or occupant's connection to the city's sewer system or within 180 days after the city manager's or superintendent's issuance of notice pursuant to section 34-22(a) that sewer service is available for the property, whichever occurs first. Consistent with section 34-59, all owners or occupants to whom sewer service is available shall be billed for the sewer service charges regardless of whether they have elected to connect to the city's sewer system.
+(Ord. No. 187, § 2-5, 1-21-1999; Ord. No. 267, § 3, 12-20-2012)
+Sec. 34-64. - Schedule.
+(a)
+Sewer service charges; quantity of water used. Sewer service charges shall be based upon the quantity of water used as shown by water meter readings and shall be the dollar amount derived by applying monetary rates per gallon, cubic foot or other measure to the quantities of water used. The rates per gallon, cubic foot, or other measure of water used shall be established from time to time by the city council and may be different for different quantities of water used.
+(b)
+Additional monthly service charges. In addition to the sewer service charges based on the quantity of water used as set forth in subsection (a) of this section, each owner or occupant of a residential (both single-family and multifamily), commercial, institutional, tourist or church-related property which is obligated to pay sewer service charges pursuant to section 34-60 or pursuant to any contract or agreement with the city shall pay a monthly service charge in the amount determined from time to time by the city council for each lot or parcel of residential real estate and for each commercial, institutional, tourist or church-related establishment for which sewer service is provided or available.
+(Ord. No. 187, § 2-6, 1-21-1999; Ord. No. 267, § 4, 12-20-2012; Ord. No. 300, § 1, 1-19-2017)
+Sec. 34-65. - Minimum charges.
+Minimum sewer service charges shall be as determined by the city council from time to time.
+(Ord. No. 187, § 2-7, 1-21-1999)
+Sec. 34-66. - Designation of water accounts to be charged.
+The city manager or superintendent shall designate and report to the water company the water service accounts which shall be billed for sewer service charges, and shall furnish the water company serving the user with the rates, as they may be changed from time to time, to be charged for sewer services. This designation and report shall include all properties for which sewer service has been provided by the city. In the event of the extension of the city's sewer system to any property not now served by sewers, the city manager or superintendent shall immediately notify the water company serving the user of the additional account to be billed for sewer service.
+(Ord. No. 187, § 2-8, 1-21-1999)
+Sec. 34-67. - Charges where water usage not metered.
+(a)
+Generally. The owner or occupant of property obtaining water from a source other than through a meter of the water company which is discharged into the city's sewers shall install, without cost to the city, a meter to measure the quantity of water received from such source or the quantity of sewage generated by such source, and shall pay the same rates as provided in sections 34-64 and 34-65. No meter shall be installed or used for such purpose without the approval of the city manager or superintendent. If the owner of such property fails to install an approved meter, the city manager or superintendent shall make an estimate of the quantity of such water used by such property owner and discharged into the city's sewers from the property, and the owner or occupant of the property shall be liable to the city for the sewer service charges due, which may be collected by suit in any court of competent jurisdiction.
+(b)
+Multi-unit complexes. To provide more equality between single-family and multi-unit dwellings (with just one or less number of water meters than the total number of dwelling units in the complex), sewer service charges to multi-unit apartment complexes or other multi-unit establishments served by master meters or any combination of meters totaling less than the number of units served shall be charged by the following formula:
+U[adj] x S[c] x O[c]
+Where:
+U[adj] = U[tot] / O[c]
+U[tot] = Total usage of individual meter or master meter.
+O[c] = The number of units served by the referenced meter, times a 90 percent occupancy rate.
+S[c] = The service charge as detailed in sections 34-64 and 34-65.
+(Ord. No. 187, § 2-9, 1-21-1999)
+Sec. 34-68. - Consumers not to be charged sewer user charges for water used for commercial purposes not discharged into city sewers.
+(a)
+Secondary metering. Whenever a property upon which a sewer user charge is imposed under this article uses water for commercial purposes, which water so used is not discharged into the sewerage system of the city, the quantity of water so used and not discharged into the city's sewers shall be excluded in determining the sewer user charge of the owner or occupant, provided that the quantity of water so used and not discharged into the city sewers is measured by a device or meter (called a secondary meter) approved by the city manager or superintendent and installed by the owner or occupant without cost to the city. The sewer user charge based upon the consumption of water to be paid by the owner or occupant of such property shall be computed at the rates provided in this article, less the quantity not discharged into the city's sewers. The city reserves the right to require calibration of secondary meters when appropriate. A secondary meter shall meet the following requirements:
+(1)
+Meters should read in 100 cubic feet.
+(2)
+Meters must be located either in an outdoor meter box or vault, or inside the customer's building or structure in a clean, dry, safe place not subject to wide temperature variations so that the meter can be easily examined, read and removed.
+(3)
+The customer shall, at his expense, provide suitable pipe connections and shut-off valves, one each at the inlet and outlet sides of the meter.
+(4)
+The meter box or vault may be constructed to protect the meter from freezing and damage by vehicular traffic, and its location and design shall prevent, as far as possible, the inflow of surface water.
+(5)
+Any changes in location of secondary meters, malfunctions, replacements or any other changes in the approved secondary meter installation must be reported to the city manager or superintendent in writing. Also, a copy must be forwarded to the water company containing all pertinent information regarding that particular meter.
+(6)
+No retroactive credits will be issued, if the holder of the secondary meter permit fails to comply with the rules and regulations in force at any particular time.
+(7)
+If any water exempted from the sewer service charge is returned to the sewer system at any time or point, a metering device shall be installed. Any flow registered through such a meter shall be charged for sewer service.
+(8)
+Any secondary meter must be easily accessible by the water company. If this is not possible, remote-read meters shall be installed and be protected from any magnetic interference. It is the responsibility of the permit holder to ensure the accuracy of the remote read to the installed meter.
+(9)
+All meters must be calibrated and certified for accuracy once every 18 months. The certification of the inspection, or a copy thereof, must be forwarded to the city manager or superintendent.
+(b)
+Other sewer user charge credits. User charge credits may also be given by the city manager or superintendent for the following purposes:
+(1)
+Hidden or underground leaks;
+(2)
+Catastrophic leaks where water does not enter the sewer line;
+(3)
+Where secondary meters are installed for swimming pools, lawn or garden watering, sprinkler systems, and other processes where water is used but not returned to the sewer;
+(4)
+Filling a swimming pool will be allowed one credit per year for the initial fill if the water is not returned to the sewer at the end of the swimming season.
+No sewer user may receive a credit for an amount which would reduce the resultant sewer bill below the minimum charge required by section 34-65. To be considered for credit, leaks must be reported to the water company, and corrected by the owner or occupant without cost to the city. The sewer user charge based upon the consumption of water to be paid by the owner or occupant of such property shall be computed at the rates provided in this article, less the quantity not discharged into the city's sewers.
+(Ord. No. 187, § 2-10, 1-21-1999)
+Sec. 34-69. - Appeals.
+A user may contest a credit or billing determination by the city manager or superintendent by paying said bill under protest, and, within 30 days following the due date of said bill, lodging with the city manager or superintendent a notice of appeal with the city council. The appeal shall follow the procedures established by or for the city council or otherwise provided by applicable state or local law.
+(Ord. No. 187, § 2-11, 1-21-1999)
+Sec. 34-70. - Miscellaneous fees.
+(a)
+Applicability. There shall be and are hereby levied miscellaneous fees to be collected by the city manager or superintendent for various purposes relating to this chapter as set forth in this section. Such fees shall include the fees for garbage grinders set forth in subsection (b) of this section as well as other fees that may, from time to time, be established by the city council by ordinance or resolution.
+(b)
+Fees for garbage grinders. Any user of a garbage grinder, except users in a premises used exclusively for an individual residence, shall be charged at a rate determined from time to time by the city council. The city manager or superintendent shall bill users on a bi-monthly basis and the bills shall be due and payable within 30 days following the last day of the billing period.
+(Ord. No. 187, § 2-12, 1-21-1999)
+Secs. 34-71—34-98. - Reserved.
+DIVISION 3. - DISPOSAL OF EXCRETA
+
+Sec. 34-99. - Definitions.
+The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Cesspool means an underground cavity without water-tight walls, in which human excreta is placed.
+Human excreta means the bowel and kidney discharges of human beings.
+Sanitary water closet means any flush-type toilet which is properly connected to a city sewer or to a septic tank of approved construction.
+(Ord. No. 187, § 3-1, 1-21-1999)
+Sec. 34-100. - Disposal prohibited except in water closets.
+It shall be unlawful for any person to dispose of any human excreta in the city except in a sanitary water closet.
+(Ord. No. 187, § 3-2, 1-21-1999)
+Sec. 34-101. - Where water closet required.
+Every residence and building in the city in which human beings reside, are employed or congregated shall have, for the disposal of human excreta, at least one sanitary water closet.
+(Ord. No. 187, § 3-3, 1-21-1999)
+Sec. 34-102. - Liability of property owner.
+It shall be unlawful for any person owning, leasing or renting property in the city to permit the disposal of human excreta on any property owned, leased or rented by such person or his agent, except in a sanitary water closet.
+(Ord. No. 187, § 3-4, 1-21-1999)
+Sec. 34-103. - Connection with septic tank required.
+Any building in the city in which toilet facilities are required, which is not located within an area required for connection with a sewer as provided in section 34-22, shall have such toilet facilities connected to a septic tank.
+(Ord. No. 187, § 3-5, 1-21-1999)
+Sec. 34-104. - Permit and inspection fees required for septic tank installations.
+No septic tank shall be constructed in the city without a permit having first been obtained from the county health department. An inspection fee as determined by the city council from time to time shall be charged for each septic tank permit issued and for which a receipt shall be given. No permit shall be issued before payment is received therefor.
+(Ord. No. 187, § 3-6, 1-21-1999)
+Sec. 34-105. - Privies declared a nuisance; abatement.
+All privies in the city are declared to be a nuisance, dangerous to the public health, and shall be condemned and abated as provided by applicable state or local law.
+(Ord. No. 187, § 3-7, 1-21-1999)
+Sec. 34-106. - Cesspools prohibited.
+No cesspools shall be built or maintained in the city.
+(Ord. No. 187, § 3-8, 1-21-1999)
+Secs. 34-107—34-120. - Reserved.
+ARTICLE III. - SEWER ADVISORY BOARD
+
+Sec. 34-121. - Creation; purpose and authority.
+(a)
+Creation and composition of sewer advisory board. The city hereby creates a board which shall be known as the sewer advisory board of the city (the board). The board will be composed of seven members. The city's sewer superintendent will be a standing member of the board, and the remaining six members of the board will be appointed by the city council. Four of the remaining six members of the board will be residents of the city, one of the remaining six members will be affiliated with Covenant College and need not be a resident of the city, and one of the remaining six members will be affiliated with the Brow Wood Development and need not be a resident of the city.
+(b)
+Appointments and vacancies. Original appointments to the board will be for the following terms: one city resident and the Covenant College and Brow Wood representatives on the board will be appointed for a term of four years; one city resident will be appointed for a term of three years; one city resident will be appointed for a term of two years; and one city resident will be appointed for a term of one year. Subsequent appointments will be for terms of four years each. All resident and nonresident members of the board may, in the sole discretion of the city council, be reappointed to successive terms, or the city council may, in its sole discretion, choose to appoint different members. A vacancy on the board will occur if a board member resigns, dies, is physically or mentally unable to serve, is convicted of a felony or malfeasance in office, or accepts any federal, state, county, or other municipal office. A vacancy will also occur if one of the four resident members of the board ceases to be a resident of the city. Any vacancy in the membership of the board will be filled for the unexpired term by appointment by the city council. Members of the board will serve without compensation.
+(c)
+Chair, vice-chair and secretary. The board will elect one of the four appointed city residents as its chair, and he will serve as chair for one year or until re-elected or until a successor is elected. The board will elect a second city resident as its vice-chair, and he will serve as vice-chair for one year or until re-elected or until a successor is elected. The board will appoint a secretary who may be a member of the board or who may be an official or employee of the city.
+(d)
+Purpose and authority. The purpose of the board will be to act as an advisory board to the mayor and city council on matters relating to the city's sewer system, including budgeting, rates, maintenance, and short-term and long-term planning. The board will act solely in an advisory capacity and will have no authority to make policy, to adopt or establish budgets, or to set rates or fees. Rather, the board will make recommendations to the city council, and the city council will retain sole and final authority regarding all matters relating to the city's sewer system. The board may, in its discretion, prepare and submit to the city council for approval a more detailed mission statement setting forth more specific tasks and objectives consistent with the foregoing.
+(e)
+Meetings and minutes. The board will meet at least twice a year and will prescribe the time, place, and dates of its regular meetings. The board may, at the call of the board chair, schedule special meetings in addition to its regular meetings. Notice of regular and special meetings will be provided and minutes will be kept in accordance with state law. Unless otherwise provided or permitted by state law, all proceedings and minutes of the board will be open to the public.
+(f)
+Quorum and voting. Four members of the board will constitute a quorum. All members of the board (including the sewer superintendent and the chair and other appointed members) will be counted in determining whether a quorum exists. In making its recommendations to the city council and in taking any other authorized action, affirmative votes of a majority of the board members present will be required.
+(Ord. No. 297, §§ 1—6, 7-21-2016)

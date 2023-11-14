@@ -1,0 +1,738 @@
+ARTICLE 16. - STORMWATER MANAGEMENT[8]
+Footnotes:
+--- (8) ---
+Editor's note— Ord. No. 42-2014, § 1, adopted October 10, 2014, amended art. 16, divs. A—D, §§ 16-010—16-620, in its entirety. Former art. 16 pertained to similar subject matter and was derived from Ord. of 2-26-2009; Ord. No. 05-2012, adopted December 14, 2011 and Ord. No. 13-2012, §§ 1.1—7.2, adopted April 12, 2012.
+
+DIVISION A. - IN GENERAL
+
+Sec. 16-010. - Short title.
+This article shall be known as the "City of Tybee Island Stormwater Management Ordinance.'
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-020. - Definitions.
+For the purposes of this article, unless specifically defined below, words or phrases shall be interpreted so as to give them the meaning they have in common usage and to give this article its most effective application. Words in the singular shall include the plural, and words in the plural shall include the singular. Words used in the present tense shall include the future tense. The word "shall" connotes mandatory and not discretionary; the word "may" is permissive.
+For purposes of this article, the following terms, phrases and words, and their derivatives, shall have the meaning given in this section:
+Accidental discharge shall mean a discharge prohibited by this article into the city separate stormwater system which occurs by chance and without planning or consideration prior to occurrence.
+Agricultural practices shall mean practices involving the establishment, cultivation, or harvesting of products of the field or orchard; the preparation and planting of pastureland, farm ponds; and the construction of farm buildings.
+Best management practices (BMPs) shall mean a wide range of management procedures, activities, and prohibitions or practices which control the quality and/or quantity of stormwater runoff and which are compatible with the planned land use.
+City shall mean the incorporated entity known as the City of Tybee Island, Georgia.
+City engineer shall mean any professional engineer registered in the state hired or contracted by the city to provide civil engineering service to the city including but not limited to stormwater management, land use, site design and construction, and other duties as may be assigned
+City separate stormwater system shall mean a conveyance or system of conveyances (including roads with drainage systems, highways, rights-of-way, city streets, catch basins, curbs, gutters, ditches, both natural and manmade channels, storm drains, detention ponds, drainage easements dedicated to the city, other stormwater facilities) which meets all the following criteria:
+(1)
+Owned and maintained by the city;
+(2)
+Designed and used for collecting or conveying stormwater;
+(3)
+Not a known combined sewer; and
+(4)
+Not part of a publicly owned treatment works (POTW).
+Conveyance shall mean stormwater facilities designed for the movement of stormwater through the drainage system, such as concrete or metal pipes, ditches, depressions, swales.
+Department shall mean the city planning and economic development department or such other department as may be then designated for stormwater management purposes.
+Development shall mean:
+(1)
+The division of a lot, tract or parcel of land into two or more lots, plots, sites, tracts, parcels, or other divisions by plat or deed;
+(2)
+The construction, installation, or alteration of a structure, impervious surface, or drainage facility;
+(3)
+Clearing, scraping, grubbing, or other activities that significantly disturb the soil, vegetation, mud, sand or rock of a site; or
+(4)
+Adding, removing, exposing, excavating, leveling, grading, digging, burrowing, dumping, piling, dredging, or otherwise disturbing the soil, vegetation, mud, sand or rock of a site.
+Director shall mean the director of planning and economic development department or such other department head as may be then designated as responsible for stormwater management.
+Discharge shall mean the release of stormwater to the city separate stormwater system.
+Drainage shall mean the removal of stormwater from a given area either by gravity or by pumping.
+Easement shall mean an acquired legal right for the specific use of land owned by others.
+Employee shall mean any city employee as designated by the city manager to have authority in stormwater management, planning, maintenance, or construction.
+Exempt shall mean the release of the obligation to comply with specific sections of this article.
+Flood shall mean a general and temporary condition of partial or complete inundation of normally dry land areas from:
+(1)
+The overflow of inland or tidal waters; or
+(2)
+The unusual and rapid accumulation or runoff of surface waters from any source.
+Illicit connection shall mean an unauthorized or illegal connection to a city separate stormwater system which results in discharge that is not composed entirely of stormwater runoff.
+Indirect discharge shall mean any discharge to the city's separate stormwater system via another conveyance system that is not owned, operated, or maintained by the city.
+Maintenance shall mean any action necessary to preserve stormwater facilities in proper working condition, in order to serve the intended purposes set forth in this article.
+Maximum extent practicable (MEP) shall mean the discharge standards and controls necessary for the reduction of pollutants discharged into the city separate stormwater system. These standards and controls may consist of a combination of best management practices, control techniques, system design and engineering methods, and such other provisions for the reduction of pollutants discharged from the city separate stormwater system.
+NPDES shall mean the National Pollutant Discharge Elimination System permit granted by the Georgia Department of Natural Resources.
+Person shall mean any individual, firm, corporation, government agency, business trust, estate, trust, partnership, association, two or more individuals having a joint or common interest, or any other legal entity.
+Pollutant shall mean any substance contributing to the contamination or alteration of stormwater's physical, chemical or biological properties, including change in temperature, taste, color, turbidity, or odor; by the discharge of any liquid, gaseous, solid, radioactive, or other substance into any such waters that will or is likely to create a nuisance or have a detrimental impact on the city's stormwater system which would preclude the legitimate use of such a system.
+Private property shall mean property or facilities owned by individuals, corporations, and organizations other than the city, state, or federal government.
+Procedure shall mean the method adopted by the city, by and through the director, to implement a regulation or regulations adopted under this article, or to carry out other responsibilities as may be required by this Code or other codes, ordinances or resolutions of the city or other agencies.
+Quality shall mean those parameters of stormwater that relate to the physical, chemical, biological or radiological integrity of stormwater.
+Quantity shall mean those characteristics of stormwater that relate to the rate, volume, and duration of concentration of stormwater runoff.
+Regulation shall mean any local, state, or federal rule, ordinance, design directive or other policies adopted by the mayor and council pursuant to the requirements of this article.
+Sanitary sewer system means the complete sanitary sewer system of the city which discharges sewage directly or indirectly into the sewage treatment plant, including sanitary sewer pipelines, manholes and flushing inlets and appurtenances.
+Sediment shall mean solid particulate matter, both mineral and organic, that has been or is being transported by water, air, ice or gravity from its origin.
+Site shall mean any lot, plot, parcel or tract of land.
+Stormwater shall mean precipitation runoff, snowmelt runoff, and surface runoff.
+Stormwater management shall mean the procedures and steps taken to minimize the impact of stormwater as related to manmade changes in the land including, but not limited to, collection, conveyance, storage, treatment, and disposal of stormwater runoff.
+Stormwater management manual shall mean the most recent manual of stormwater management criteria of the city.
+Stormwater management facilities shall mean any and all components of a stormwater drainage system, designed to perform a particular function, or multiple functions, including, but not limited to, pipes, swales, ditches, culverts, streets, detention basins, retention basins, constructed wetlands, infiltration devices, catchbasins, oil/water separators, sediment basins, natural systems, modular pavement and pump stations.
+Stormwater management plan shall mean all documents that provide information and specifications for the drainage systems, structures, BMPs, concepts, and techniques that will be used to minimize the impact upon the stormwater system by a particular development.
+Stormwater runoff shall mean the direct response of a land surface to precipitation to include surface and subsurface runoff that enters a ditch, stream, storm drain or other concentrated flow during and following the precipitation.
+Variance shall mean the modification of the minimum stormwater management requirements for specific circumstances where strict adherence of the requirements would result in unnecessary hardship and not fulfill the intent of this article.
+Watercourse shall mean a permanent or intermittent stream or other body of water, either natural or manmade, which collects and/or conveys surface water.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-030. - Applicability of chapter.
+(a)
+This article shall apply to all existing and future discharges to the city separate stormwater system.
+(b)
+If any term, requirement or provision of this article becomes invalid or unenforceable, the remainder of this article shall not be affected, and any and all other requirements and provisions shall remain valid and be enforced to the fullest extent.
+(c)
+When this article is in conflict with other ordinances, the ordinance with the most stringent requirements shall apply as determined by the director of planning and economic development.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-040. - Restrictions and limitations on the use of the city stormwater system.
+The primary purpose of the stormwater system is the conveyance of stormwater and other permissible discharges as outlined in section 16-200.
+(1)
+No person shall discharge, spill, or dump substances or materials which are not entirely composed of stormwater or discharges otherwise exempted in section 16-200 into the city separate stormwater system or onto driveways, sidewalks, parking lots, streets, or other areas that discharge into the city separate stormwater system.
+(2)
+It shall be unlawful for any person to maliciously, willfully, or negligently break, damage, destroy, uncover, deface, modify, or tamper with any stormwater structure, appurtenance, or equipment.
+(3)
+It shall be unlawful, without prior written approval of the director, to alter in any way any part of the stormwater system including, but not limited to, rerouting, removing, deepening, widening, enlarging, filling or obstructing any part of the stormwater system including fencing easements and rights-of-way which render the system inaccessible to equipment necessary to perform maintenance and repairs.
+(4)
+It shall be unlawful for any person to connect any pipe, open channel, or any other conveyance system that discharges anything except stormwater or exempted discharges listed in section 16-200 to the city separate stormwater system. Illicit connections will be disconnected and redirected to the city sanitary sewer system upon approval by the water/sewer manager at the expense of the responsible person.
+(5)
+It shall be unlawful to increase stormwater quantity discharged to the city separate stormwater system without an accepted stormwater management plan.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-050. - The department responsibilities for stormwater management.
+The department shall be responsible for the management, maintenance, and improvement of the city's separate stormwater system, including activities necessary to control and monitor stormwater runoff quantity and quality.
+The department will:
+(1)
+Administer the city's stormwater management program;
+(2)
+Coordinate acceptance of stormwater management plans with city engineering with final acceptance based upon recommendations from the city engineer;
+(3)
+Direct operations and maintenance of the city's stormwater facilities to ensure optimal levels of service;
+(4)
+Establish and update this article and the stormwater management manual to include development standards and guidelines for regulating quantity and quality of stormwater runoff in compliance with NPDES permit requirements and changes in federal and state regulations;
+(5)
+Monitor private property discharges to the city separate stormwater system;
+(6)
+Take immediate steps to minimize effects of accidental discharges of pollutants into the city's stormwater system;
+(7)
+Develop stormwater educational and public awareness programs.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-060. - Criteria for variance.
+For those situations when enforcement of this article will not enhance stormwater quality or reduce the impact of additional discharges, a variance may be granted. The following must be met prior to consideration of a variance request. If there is:
+(1)
+No change to the rate, volume or concentration of runoff;
+(2)
+No negative impact on any wetland, watercourse, or waterbody;
+(3)
+No degradation of water quality; and
+(4)
+No increase in base flood elevation within the special flood hazard area based on National Flood Insurance Program maps.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-070. - Variance procedures.
+(a)
+All requests for a variance shall be submitted in writing to the director and shall state the specific variance requested, with supporting data, and reasons why a variance should be granted.
+(b)
+The stormwater management director will conduct a review and render a decision within ten working days of receiving the request.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-080. - Inspections.
+The department may inspect, survey, and monitor any stormwater facility, public or private, for reasons including but not limited to the following:
+(1)
+To ensure compliance with an accepted stormwater management plan;
+(2)
+To conduct sampling of any substance or parameters at any location;
+(3)
+To investigate suspicious discharges including illicit connections and spills;
+(4)
+To ensure all stormwater facilities are operational to the maximum extent practicable.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-090. - Powers and authority of inspectors.
+The director or other employees of the city bearing proper identification shall be permitted to enter all properties for the purposes of inspection, observation, measurement, sampling, testing. The city reserves the right to perform emergency repairs or maintenance to any portion of any stormwater system, public or private, when the stormwater system impacts a public stormwater system.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-100. - Discharge violation; remediation plan.
+(a)
+Whenever the director or his designee finds that any person has violated or is violating this article, he shall serve upon such person a written notice stating the nature of the violation, notice to cease all activities in violation of this article, and the potential penalty involved.
+(b)
+Upon determination that a violation of this article has occurred, a formal notice of violation shall be sent to the person from the director of stormwater management within five working days.
+(c)
+Upon receipt of notice of violation, the person shall submit a remediation schedule to the director within ten working days. All corrective measures shall be completed within 30 days of the initial notice of violation.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-110. - Emergency conditions.
+If a condition presents an immediate danger to the public health, safety, or general welfare because of unsafe conditions or improper maintenance, the city shall have the right, should the owner not take immediate action, to make necessary corrections to protect the public and to make the facility safe at the expense of the responsible person.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-120. - Enforcement.
+Enforcement of this article is final unless the person submits a written request for a hearing within ten days of the notice of violation being served.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-130. - Appeals.
+(a)
+Any person aggrieved by a decision of the director may appeal same by filing a written notice with the director within ten working days of the action by the director. A notice of appeal shall state the specific reasons why the action of the director has adversely affected the person.
+(b)
+The director shall prepare and send to the appellant a written response within ten working days of receipt of the appeal.
+(c)
+Shall the appellant be dissatisfied, an appeal with the city manager may be requested within ten working days. The hearing shall be held within 30 days after receipt or on a date mutually agreed upon by the appellant and the city manager. The city manager shall then make his findings in writing within ten working days of the appeal hearing.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-140. - Penalty; costs.
+Any person who is found to have willfully and negligently failed to comply with any provision of this article, and the orders, rules, and regulations issued hereunder, shall be subject to a penalty not to exceed $1,000.00 or imprisonment or both. Each day in which a violation shall occur or continue to occur shall be deemed a separate and distinct offense. In addition to the penalties provided in this section, any person violating any provision of this article shall become liable to the city for any expense, loss, or damage incurred by the city by reason of such violation.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+DIVISION B. - STORMWATER MANAGEMENT FOR DEVELOPMENT ACTIVITIES
+
+Sec. 16-150. - Exemptions from stormwater management plan submittal.
+The following development activities are exempt from stormwater management plan submittal:
+(1)
+Mining operations or oil and gas exploration, production, processing or treatment operations or transmission facilities, provided the stormwater runoff from these operations is composed entirely of flows which are from conveyances or systems of conveyances used for collecting and conveying precipitation runoff and which are not contaminated by contact with or that has not come into contact with any overburden, raw material, intermediate products, finished product or byproduct located on the site of such operations;
+(2)
+Minor development activities such as home gardens and individual home landscaping, individual residential repairs, individual residential maintenance work, and other individual residential activities which result in minor soil erosion as determined by the director;
+(3)
+Agricultural practices.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-160. - Stormwater management plan requirements.
+A stormwater management plan shall include as a minimum the following:
+(1)
+Site plan which conforms to all pertinent provisions of the subdivision regulation ordinance;
+(2)
+Soil erosion/sediment control plan;
+(3)
+Drainage report. The drainage report will contain a narrative that discusses pre- and post-development conditions and impacts for all upstream and downstream stormwater management facilities. The report shall include a site location plan, a detailed site plan for both the pre- and post-development conditions, pre- and post-development watershed boundaries, and all runoff and drainage system design calculations for the proposed development for the one-, five-, ten-, and 25-year 24-hour storms. Drainage calculations shall be performed using methods accepted by the director, as specified in the stormwater management guideline for private development activities.
+(4)
+For development activities in the special flood hazard areas (zones A, V, AE, and VE on the latest Federal Emergency Management Agency/National Flood Insurance rate maps), areas that are known to have flooded repetitively, or areas where a hydrologic model predicts flooding will occur in the 100-year, 24-hour event, the developer must demonstrate that the 100-year flood elevations will have no increase resulting from development activity.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-170. - Stormwater management plan acceptance.
+(a)
+Unless the development is specifically exempted in section 16-150 from requiring a stormwater management plan, any person planning a development shall submit to the permit center, three copies of a stormwater management plan for review and acceptance.
+(b)
+All stormwater management plans shall be reviewed by the director or designated representative, based on the requirements of this article and all federal and state requirements. Plans may be accepted, rejected, or conditionally accepted pending modifications.
+(c)
+Acceptance of a stormwater management plan will be acknowledged by a response from the director or his designated representative and will be valid for one year. Acceptance of a plan is solely an acknowledgment of satisfactory compliance with the requirements of these pertinent regulations and does not constitute a representation or warranty to the applicant or any other person concerning the safety, appropriateness, comprehensiveness, or effectiveness of any provision or omission from the stormwater management plan.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-180. - Requirements and procedures for modifications and renewals of accepted stormwater management plans.
+(a)
+If construction does not begin within one year after stormwater management plan acceptance, it will be necessary to renew the acceptance of the stormwater management plan.
+(b)
+All requests for modifications and renewals shall be submitted in writing to the director and shall include justification for the request. The director or his designated representative shall review and make a determination on the request within ten working days.
+(c)
+Acceptance of a stormwater management plan will be acknowledged by a response from the director or his designated representative and will be valid for one year. Acceptance of a plan is solely an acknowledgment of satisfactory compliance with the requirements of these pertinent regulations and does not constitute a representation or warranty to the applicant or any other person concerning the safety, appropriateness, comprehensive, or effectiveness of any provision or omission from the stormwater management plan.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-190. - Minimum stormwater system design standards.
+(a)
+There shall be no increase in the base flood elevation within the special flood hazard area (SFHA), as delineated by the latest National Flood Insurance Program (NFIP) maps, or in any areas that are known to have flooded repetitively, or areas where a hydrologic model predicts flooding will occur in the 100-year, 24-hour event. Where hydrologic model results are conflicting, the stormwater management director shall decide which model will be used.
+(b)
+Finished floor elevations for structures not included in the special flood hazard area shall be equal to or higher than that shown on the original subdivision plat or neighborhood grading and drainage plan or as determined by a registered civil engineer.
+(c)
+The post-development peak rate of runoff cannot exceed the predevelopment peak rate of runoff for the one-, five-, ten-, and 25-year 24-hour events. Exception to this requirement shall be made for single-family homes provided that post-development run-off does not exceed one cubic feet per second (CFS). Exception shall also be made for single family lots that lie within a subdivision with an approved drainage plan.
+(d)
+In all submittals, if drainage calculations indicate that post-development runoff will exceed predevelopment runoff, then on-site detention for the one-, five-, ten-, and 25-year 24-hour events is required at a discharge rate equal to or less than the pre-developed 24-hour peak rate of discharge for all storm events from the one-, five-, ten-, and including the 25-year event, or the capacity of the existing downstream conveyance system must be upgraded in capacity to accommodate the additional 25-year, 24-hour discharge generated by the new development. On projects that lie within drainage basins for which the city believes to have insufficient outfall or has knowledge of flooding that would be intensified by the proposed development, the 50- and 100-year events will also be considered in the drainage and drainage calculations. Where outfall is not existing or feasible, the city may allow retention. Stormwater management by retention will be for all events up to and including the 100-year storm.
+(e)
+Drainage easements. The width and configuration requirements of drainage and maintenance easements/rights-of-way are listed in Section 2.30 of the Stormwater Management Guide for Private Development.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+DIVISION C. - STORMWATER QUALITY
+
+Sec. 16-200. - Exemptions.
+The following discharges are exempt from the discharge limitations set forth in section 16-210:
+(1)
+Water line flushing and other discharges from potable water sources;
+(2)
+Landscape irrigation and lawn watering;
+(3)
+Irrigation water;
+(4)
+Diverted stream flows;
+(5)
+Rising groundwaters;
+(6)
+Infiltration to separate storm drains;
+(7)
+Uncontaminated pumped groundwater;
+(8)
+Foundation and footing drains;
+(9)
+Water from crawl space pumps;
+(10)
+Air conditioning condensation;
+(11)
+Springs;
+(12)
+Individual residential car washing;
+(13)
+Snowmelt;
+(14)
+Flows from riparian habitats and wetlands;
+(15)
+Flows from firefighting.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-210. - Stormwater discharge limitations.
+Discharges to the city's separate stormwater system shall, to the maximum extent practicable, not create a nuisance, cause interference with the legitimate use of city separate stormwater system, and shall not create the following conditions:
+(1)
+Foam or floating, suspended or deposited macroscopic particulate matter;
+(2)
+Bottom deposits or aquatic growth;
+(3)
+Alteration of temperature, turbidity, or apparent color beyond present natural background levels;
+(4)
+Visible, floating, suspended, or deposited oil, grease, or any products of petroleum origin;
+(5)
+Toxic or deleterious substances to be present in concentrations or quantities which will cause harmful effects on aquatic biota, wildlife, or waterfowl, or which render any of these unfit for human consumption either at levels created in the receiving waters or as a result of biological concentration.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-220. - Watercourse protection/accidental discharge reporting requirements.
+(a)
+Watercourse protection. Every person owning property through which a watercourse passes, or such person's lessee, shall keep and maintain that part of the watercourse within the property free of trash, debris, excessive vegetation, and other obstacles that would pollute, contaminate, or significantly retard the flow of water through the watercourse. In addition, the owner shall maintain existing privately owned structures within or adjacent to a watercourse, so that such structures will not become a hazard to the use, function, or physical integrity of the watercourse.
+(b)
+Accidental discharge reporting. In the event of an accidental discharge to the city's separate stormwater system of any material or substance other than stormwater runoff or those discharges specifically excluded in section 16-200, the stormwater department shall be contacted immediately and notified of the nature, quantity and time of occurrence of the discharge. The responsible party shall take immediate steps to contain, treat or to otherwise minimize effects of the discharge on the city's system and receiving streams. Immediate steps shall be taken to ensure no recurrence of the discharge. A written report addressed to the director of stormwater management detailing the date, time, cause, quantity, and characteristics of the discharge and the corrective and preventative actions taken will be sent to the director within five working days of the incident.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-230. - Industrial/commercial activities.
+(a)
+Any industry that discharges directly into the city's separate stormwater system and is required to obtain an individual NPDES permit is required to submit a copy of the NPDES permit and EPA form 2F or any that supersede it to the director. Additionally a site plan with drainage system and type and amount of discharge shall be included with the submittal.
+(b)
+Any industrial or commercial activity not required to obtain an individual NPDES permit as defined by the Standard Industrial Codes (SIC) in 40 CFR 122, 123, and 124 but discharges stormwater to the city separate stormwater system is required to submit to the director the type of industrial/commercial activity, type of discharge, a site map with internal drainage system, and point of connection or discharge to the city separate stormwater system.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+DIVISION D. - POST-CONSTRUCTION STORMWATER MANAGEMENT
+
+Sec. 16-240. - Description.
+This division addresses post-construction stormwater management in Georgia's Coastal Nonpoint Source Management Area. This division establishes requirements for stormwater plans that are to be submitted before land development commences. The plans document how post-construction stormwater runoff quality and quantity will be effectively managed according to performance criteria described in this division. Guidelines for inspection, maintenance, and violations are also included. This division is linked with existing stormwater management manuals including the Georgia Stormwater Management Manual, the Coastal Stormwater Supplement and local design manuals that provide the technical specifications for stormwater system design.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 1. - General Provisions
+
+Sec. 16-250. - Findings of fact.
+It is hereby determined that:
+(1)
+Land development activities alter the hydrologic response of local watersheds, increasing stormwater runoff rates, volumes, and pollutant loads, and increase flooding channel erosion, and pollutant transport and deposition in rivers and streams;
+(2)
+Land development activities alter the hydrologic response of local watersheds, increasing stormwater runoff rates, volumes, and pollutant loads, and consequently, alter water levels and fluctuations and increase pollutant transport and deposition in wetlands;
+(3)
+Land development activities alter the hydrologic response of local watersheds, increasing stormwater runoff rates, volumes, and pollutant loads, and alter salinity concentrations and fluctuations and increase productivity and pollutant transport and deposition in estuaries;
+(4)
+Land development activities and alter the hydrologic response of local watersheds, increasing stormwater runoff rates, volumes, and pollutant loads, and increase bacteria transport and deposition in near coastal waters, which leads to beach contamination and closure and poses a serious threat to human health;
+(5)
+Land development activities alter the hydrologic response of local watersheds, increasing stormwater runoff rates and volumes, and, consequently, decreasing the amount of rainfall that is available to recharge shallow groundwater aquifers;
+(6)
+The negative impacts of land development activities on these important local aquatic resources can adversely affect the health, safety and general welfare of the general public;
+(7)
+The negative impacts of land development can be controlled and minimized through the regulation of stormwater runoff rates, volumes, and pollutant loads on development and redevelopment sites;
+(8)
+Communities within the coastal nonpoint source management area are required to comply with a number of state and federal regulations that require the adverse impacts of increased stormwater runoff rates, volumes and pollutant loads to be controlled and minimized;
+(9)
+Therefore, the city has determined that it is in the public interest to control and minimize the adverse impacts of land development activities and has established this set of stormwater management provisions to regulate post-construction stormwater runoff rates, volumes and pollutant loads on development and redevelopment sites.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-260. - Purpose and intent.
+The purpose of this division is to protect and maintain the integrity of local aquatic resources, and, consequently, the health, safety and welfare of the general public, by establishing minimum stormwater management provisions that control and minimize the adverse impacts of land development activities. This division seeks to meet that purpose through the following objectives:
+(1)
+Establish decision-making processes surrounding land development activities that protect the integrity of local aquatic resources;
+(2)
+Establish minimum post-development stormwater management standards and design criteria that will reduce flooding, channel erosion, and pollutant transport and deposition in local aquatic resources;
+(3)
+Establish minimum post-development stormwater management standards and design criteria that will help preserve existing hydrologic conditions and development and redevelopment sites;
+(4)
+Establish design criteria for structural and nonstructural stormwater management practices that can be used to meet the minimum post-development stormwater management standards and design criteria;
+(5)
+Encourage the use of better site planning, better site design and low impact development practices to the maximum extent practical at development and redevelopment sites;
+(6)
+Establish provisions for the long-term upkeep and maintenance of structural and nonstructural stormwater management practices to ensure that they continue to function as designed and pose no threat to public safety; and,
+(7)
+Establish administrative procedures for the submission, review, approval and disapproval of stormwater management plans and for the inspection of approved land development projects.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-270. - Applicability and exemptions.
+(1)
+This division shall be applicable to all land development activities, including, but not limited to, site plan applications, subdivision applications, and grading applications, unless exempt pursuant to subsection (2). These standards apply to any new development or redevelopment activity within the city that meets one or more of the following criteria:
+(a)
+New development that involves the creation of 5,000 square feet or more of impervious cover or that involves other land development activities of one acre or more;
+(b)
+Redevelopment that includes the creation, addition, or replacement of 5,000 square feet or more of impervious cover or that involves other land development activities of one acre or more;
+(c)
+Any new development or redevelopment, regardless of size, that is defined by the designated city official to be a hotspot land use; or
+(d)
+Land development activities that are smaller than the minimum applicability criteria set forth above if such activities are part of a larger common plan of development, even though multiple, separate, and distinct land development activities may take place at different times on different schedules.
+(2)
+The following activities are exempt from this division:
+(a)
+Individual single-family or duplex residential lots that are not part of a subdivision or phased development project that is otherwise subject to this division;
+(b)
+Additions or modifications to existing single-family or duplex residential structures;
+(c)
+Projects that are exclusively for agricultural or silvicultural activities within areas zoned for these agricultural and silvicultural use;
+(d)
+Maintenance and repairs of any stormwater facility deemed necessary by the (administrator);
+(e)
+Any part of a land development project that was approved by the (administrator) prior to the adoption of the ordinance from which this division is derived; and
+(f)
+Redevelopment that constitutes the replacement of the original square footage of impervious cover and original acreage of other land development activity when the original development is wholly or partially lost due to natural disaster or other acts of God occurring after (date of adoption [October 10, 2014]).
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-280. - Designation of administrator of this division.
+The designated city official is hereby appointed to administer and implement the provisions of this division.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-290. - Compatibility with other regulations.
+This division is not intended to interfere with, modify or repeal any other ordinance, rule, regulation, or other provision of law. The requirements of this division should be considered minimum requirements, and where any provision of this division imposes restrictions different from those imposed by any other ordinance, rule, regulation, or other provision of law, whichever provision is more restrictive or imposes higher protective standards for human health or the environment shall control.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-300. - Severability.
+If the provisions of any section, subsection, paragraph, subdivision, or clause of this division shall be adjudged invalid by a court of competent jurisdiction, such judgment shall not affect or invalidate the remainder of any section, subsection, paragraph, subdivision, or clause of this division.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-310. - Stormwater management manual.
+The city will utilize the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement (CSS), the Georgia Stormwater Management Manual, and any relevant local addenda, for the proper implementation of this division. The CSS also serves as the local design manual for the purpose of this division. These references may be updated and expanded periodically, based on improvements in science, engineering, monitoring, and local experience.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 2. - Definitions
+
+Sec. 16-320. - Terms defined.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Applicant means a property owner or other responsible person who has submitted an application for a post-development stormwater management permit.
+Better site design means site design techniques that can be used during the site design process to minimize the creation of new impervious cover and reduce a site's impact on the watershed. Better site design techniques include reducing clearing and grading limits, roadway lengths and widths, and parking lot and building footprints.
+Better site planning means site planning techniques that can be used during the site planning process to protect and conserve natural areas that are critical in preserving pre-development site hydrology and reducing a site's impact on the watershed. Better site planning techniques include conserving significant stands of trees and other vegetation, natural drainage features, and riparian buffers.
+Building means any structure, either temporary or permanent, having walls and a roof, designed for the shelter of any person, animal, or property, and occupying more than 100 square feet of area.
+Channel means a natural or artificial watercourse with a definite bed and banks that conducts continuously or periodically flowing water.
+Conservation easement means an agreement between a land owner and the city or other government agency or land trust that permanently protects open space or greenspace on the owner's land by limiting the amount and type of development that can take place but continues to leave the remainder of the fee interest in private ownership.
+Dedication means the deliberate appropriation of property by its owner for general public use.
+Detention means the temporary storage of stormwater runoff in a stormwater management practice for the purpose of controlling the peak discharge.
+Detention facility means a detention basin or structure designed for the detention of stormwater runoff and gradual release of stored water at controlled rates.
+Developer means a person who undertakes land development activities.
+Development means a land development or land development project.
+Drainage easement means an easement appurtenant or attached to a tract or parcel of land allowing the owner of adjacent tracts or other persons to discharge stormwater runoff onto the tract or parcel of land subject to the drainage easement.
+Easement means a legal right granted by a land owner to a grantee allowing the use of private land for conveyance or treatment of stormwater runoff and access to stormwater management practices.
+Erosion and sedimentation control plan means a plan that is designed to minimize the accelerated erosion and sediment runoff at a site during land development activities.
+Evapotranspiration means the loss of water to the atmosphere by both evaporation and transpiration, which is the evaporation of water by plants.
+Extended detention means the detention of stormwater runoff for an extended period, typically 24 hours or greater.
+Extreme flood protection means measures taken to prevent adverse impacts from large low-frequency storm events with a return frequency of 100 years or more.
+Flooding means a volume of surface water that is too great to be confined within the banks or walls of a conveyance or stream channel and that overflows onto adjacent lands.
+Greenspace or open space means permanently protected areas of the site that are preserved in a natural state.
+Green infrastructure means better site planning and design techniques and low impact development practices that are used during the site planning and design process to preserve and/or replicate the pre-development hydrology of a development or redevelopment site and reduce a site's impact on the watershed.
+Hotspot means an area where the use of the land has the potential to generate highly contaminated runoff, with concentrations of pollutants in excess of those typically found in stormwater. Hotspots may be permanent or temporary. Hotspots include, but are not limited to, fueling stations (including temporary fueling stations during construction) and golf courses.
+Hydrologic soil group (HSG) means a natural resource conservation service classification system in which soils are categorized into four runoff potential groups. The groups range from group A soils, with high permeability and little runoff produced, to group D soils, which have low permeability rates and produce much more runoff.
+Impaired waters means those streams, rivers and lakes that currently do not meet their designated use classification and associated water quality standards under the Clean Water Act.
+Impervious cover means a surface composed of any material that greatly impedes or prevents the passive, natural infiltration of water into soil. Impervious surfaces include, but are not limited to, rooftops, buildings, streets, and roads, except those designed specifically to provide active, engineered infiltration.
+Industrial stormwater permit means a National Pollutant Discharge Elimination System (NPDES) permit issued to an industry or group of industries that regulates the pollutant levels associated with industrial stormwater discharges or specifies on-site pollution control strategies.
+Infill development means land development that occurs within designated areas based on local land use, watershed, and/or utility plans where the surrounding area is generally developed, and where the site or area is either vacant or has previously been used for another purpose.
+Infiltration means the process of percolating stormwater runoff into the subsoil.
+Infiltration facility means any stormwater management practice designed to provide active, engineered infiltration of retained water to the subsurface. These stormwater management practices may be above or below grade.
+Inspection and maintenance agreement and covenant means a written agreement and covenant providing for the long-term inspection and maintenance of stormwater management facilities and practices on a site or with respect to a land development project, which when properly recorded in the deed records constitutes a restriction on the title to a site or other land involved in a development project.
+Jurisdictional wetland means an area that is inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support a prevalence of vegetation typically adapted for life in saturated soil conditions, commonly known as hydrophytic vegetation.
+Land development means any change in land cover, including, but not limited to, clearing, digging, grubbing, stripping, removal of vegetation, dredging, grading, excavating, filling, and paving, that alters the hydrologic response of local watersheds.
+Land development activities means those actions or activities that comprise, facilitate, or result in land development.
+Land development project means a discrete land development undertaking.
+Low impact development means small-scale, distributed stormwater management practices that can be used during the site design process to replicate existing hydrologic conditions, help offset the creation of new impervious cover and reduce a site's impact on the watershed.
+New development means a land development activity on a previously undeveloped site.
+Nonpoint source pollution means a form of water pollution that does not originate from a discrete point, such as a sewage treatment plant or industrial discharge, but involves the transport of pollutants, such as sediment, fertilizers, pesticides, heavy metals, oil, grease, bacteria, organic materials, and other contaminants from land to surface water and groundwater via mechanisms such as precipitation, stormwater runoff, and leaching. Nonpoint source pollution is a by-product of land use practices, such as agricultural, silvicultural, mining, construction, subsurface disposal, and urban runoff sources.
+Nonstructural stormwater management practice or nonstructural practice means any natural or planted vegetation or other nonstructural component of the stormwater management plan that provides for or enhances stormwater quantity and/or quality control or other stormwater management benefits and includes, but is not limited to, riparian buffers, open and greenspace areas, overland flow filtration areas, natural depressions, and vegetated channels.
+Off-site facility means a stormwater management facility located outside the boundaries of the site.
+On-site facility means a stormwater management facility located within the boundaries of the site.
+Overbank flood protection means measures taken to prevent an increase in the frequency and magnitude of out-of-bank flooding (i.e. flow events that exceed the capacity of the channel and enter the floodplain) and that are intended to protect downstream properties from flooding for the two-year through 25-year frequency storm events.
+Owner means the legal or beneficial owner of a site, including, but not limited to, a mortgagee or vendee in possession, receiver, executor, trustee, lessee or other person, firm, or corporation in control of the site.
+Permit means the permit issued by the city to the applicant, which is required for undertaking any land development activity.
+Person means, except to the extent exempted from this division, any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, city, county or other political subdivision of the state, any interstate body, or any other legal entity.
+Post-development refers to the time period or the conditions that may reasonably be expected or anticipated to exist, after completion of the land development activity on a site as the context may require.
+Pre-development refers to the time period or the conditions that exist, on a site prior to the commencement of a land development project and at the time that plans for the land development of a site are approved by the plan approving authority. Where phased development or plan approval occurs (preliminary grading, roads and utilities, etc.), the existing conditions at the time prior to the first item being approved or permitted shall establish pre-development conditions.
+Project means a land development project.
+Recharge means the replenishment of groundwater aquifers.
+Redevelopment means a change to previously existing, improved property, including but not limited to the demolition or building of structures, filling, grading, paving, or excavating, but excluding ordinary maintenance activities, remodeling of buildings on the existing footprint, resurfacing of paved areas, and exterior changes or improvements that do not materially increase or concentrate stormwater runoff or cause additional nonpoint source pollution.
+Regional stormwater management facility or regional facility means stormwater management facilities designed to control stormwater runoff from multiple properties, where the owners or developers of the individual properties may assist in the financing of the facility and the requirement for on-site controls is either eliminated or reduced.
+Riparian buffer means an area of land at or near a streambank, wetland, or waterbody that has intrinsic water quality value due to the ecological and biological processes it performs or is otherwise sensitive to changes which may result in significant degradation of water quality.
+Runoff means stormwater runoff.
+Site means the parcel of land being developed, or the portion thereof on which the land development project is located.
+Stormwater hotspot means an area where land use or activities generate highly contaminated runoff, with concentrations of pollutants in excess of those typically found in stormwater runoff.
+Stormwater management means the collection, conveyance, storage, treatment, and disposal of stormwater runoff in a manner intended to prevent increased flood damage, streambank channel erosion, habitat degradation, and water quality degradation and to enhance and promote the public health, safety and general welfare.
+Stormwater management facility means any infrastructure that controls or conveys stormwater runoff.
+Stormwater management measure means any stormwater management facility or nonstructural stormwater practice.
+Stormwater management plan means a document describing how existing runoff characteristics will be affected by a land development project and containing measures for complying with the provisions of this division.
+Stormwater management practice means structural and nonstructural practices that control stormwater runoff and provide for or enhance stormwater quantity and/or quality control or other stormwater management benefits.
+Stormwater management system means the entire set of structural and nonstructural stormwater management practices that are used to capture, convey, and control the quantity and quality of the stormwater runoff.
+Stormwater retrofit means a stormwater management practice designed for an existing development site that previously had either no stormwater management practice in place or a practice inadequate to meet local stormwater management criteria.
+Stormwater runoff means the flow of surface water resulting from precipitation.
+Structural stormwater management practice means a structural stormwater management facility or device that controls stormwater runoff and changes the characteristics of that runoff including, but not limited to, the quantity and quality, the period of release, or the velocity of flow of such runoff.
+Subdivision means the division of a parcel of land resulting in one or more new lots or building sites for the purpose, whether immediately or in the future, of sale, transfer of ownership, or land development, and includes divisions of land resulting from or made in connection with the layout or development of a new street or roadway or a change in an existing street or roadway.
+Watercourse means a permanent or intermittent stream or other body of water, either natural or man-made, which gathers or carries surface water.
+Watershed management plan means a document, usually developed cooperatively by government agencies and other stakeholders, to protect, restore, and/or otherwise manage the water resources within a particular watershed or subwatershed. The plan commonly identifies threats, sources of impairment, institutional issues, and technical and programmatic solutions or projects to protect and/or restore water resources.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 3. - Permit Procedures and Requirements
+
+Sec. 16-330. - Permit application requirements.
+No owner or developer shall perform any land development activity without first meeting the requirements of this division and having been issued a permit from the city. Unless specifically exempted by this division, any owner or developer proposing a land development activity shall submit to the city a permit application on a form provided by the city for that purpose. Unless otherwise exempted by this division, the following items shall accompany a permit application:
+(1)
+Stormwater management concept plan and record of a consultation meeting held in accordance with section 16-340;
+(2)
+Stormwater management design plan in accordance with section 16-350;
+(3)
+Inspection and maintenance agreement and plan in accordance with section 16-360, if applicable;
+(4)
+Permit application and plan review fees in accordance with sections 16-370 and 16-380; and
+(5)
+Performance bond in accordance with section 16-390.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-340. - Stormwater management concept plan and consultation meeting.
+Prior to the submittal of a stormwater management design plan, inspection and maintenance agreement and plan, and permit application, the landowner or developer shall submit to the city for review and approval, a preliminary concept plan describing, in general, how stormwater runoff through and form the development will be conveyed and managed.
+The submittal should include the following components:
+(a)
+Natural resources inventory. A graphic illustration of the natural resources at the site as they exist prior to the start of the project. The natural resources inventory shall be prepared in accordance with section 16-420.
+(b)
+Proposed site plan. A graphic illustration of the proposed site layout including, at a minimum: existing and proposed topography; natural drainage features; perennial and intermittent streams; wetlands; soil types; groundwater recharge areas; floodplains; stands of trees and other vegetation; existing infrastructure; existing easements; proposed limits of clearing and grading; and location of proposed roads, buildings, parking areas, and other impervious surfaces.
+(c)
+Stormwater management concept plan. A graphic illustration of the proposed stormwater management system including, at a minimum; location of existing and proposed better site planning and design techniques, low impact development practices, and structural stormwater management practices; location of existing and proposed stormwater conveyance systems, such as grass channels, swales, and storm drains; flow paths; location of existing floodplains and floodways; the relationship of site to upstream and downstream properties and stormwater management systems; and the location of any proposed stream channel modifications, such as bridge or culvert crossings.
+The stormwater management concept plan shall utilize, to the maximum extent practical, better site planning and design techniques and low impact development practices to reduce stormwater runoff rates, volumes, and pollutant loads and reduce the site's impact on the watershed. Such techniques and practices include, but are not limited to: conservation and/or restoration of natural areas, such as forests, wetlands, and riparian buffers, minimization and/or disconnection of impervious surfaces, and small-scale distributed stormwater management practices that intercept and treat or otherwise manage stormwater runoff closer to its source.
+All applicants are encouraged to hold a consultation meeting with the city to discuss the proposed development project, the stormwater management concept plan, and opportunities to use better site planning and design techniques and low impact development practices to reduce runoff rates, volumes and pollutant loads and the site's impact on the watershed. This consultation meeting shall take place onsite after submittal, but prior to approval, of the stormwater management concept plan for the purposes of verifying site conditions and the feasibility of the stormwater management plan.
+Local watershed plans and any other relevant resource protection plans will be consulted during review of the stormwater management concept plan. If necessary, a follow-up meeting may be held with the applicant before formal site design commences to verify the feasibility of the stormwater management system that will be used to control and minimize the impacts of the proposed land development project.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-350. - Stormwater management design plan.
+Subsequent to approval of the stormwater management concept plan and completion of formal site design, the owner or developer shall submit to the city for review and approval, a stormwater management design plan that details how stormwater runoff through and from the development will be conveyed and managed. The stormwater management design plan shall detail how post-development stormwater runoff will be controlled or managed and how the proposed project will meet the requirements of this division, including the post-construction stormwater management criteria set forth in subdivision 4.
+The submittal should include the following components:
+(1)
+Certification by plan preparer. The stormwater management design plan shall be prepared in accordance with the criteria outlined in this section by a certified design professional such as a landscape architect, professional surveyor, or professional engineer who must certify that the design of the stormwater management system meets the requirements of this division and the latest edition of the Coastal Stormwater Supplement, the Georgia Stormwater Management Manual, and any relevant local addenda.
+(2)
+Certification by owner. The owner shall certify that all land clearing, construction, land development and drainage will be done according to the approved stormwater management design plan.
+(3)
+Stormwater management design plan. The stormwater management design plan shall address the requirements of this division and ensure that better site planning and design techniques and low impact development practices are being used to the maximum extent practical to reduce stormwater runoff rates, volumes, and pollutant loads and reduce the site's impact on the watershed. The stormwater management design plan shall include maps, narrative descriptions, and supporting design calculations (hydrologic and hydraulic) for the proposed stormwater management system. The stormwater management design plan shall include all of the information required in the latest edition of the Coastal Stormwater Supplement, the Georgia Stormwater Management Manual, and any relevant local addenda.
+(4)
+Stormwater management concept plan. A copy of the approved stormwater management concept plan shall be included with the submittal of the stormwater management design plan. The stormwater management design plan shall be consistent with the approved concept plan. If changes to the proposed land development activity have resulted in modification of the approved concept plan, the city may require a revised concept plan or a written statement providing rationale for the changes made to the approved concept plan.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-360. - Stormwater management inspection and maintenance agreement and plan.
+(1)
+Prior to the issuance of a permit for any land development activity requiring one, the applicant (or owner of the site, if different) must execute an inspection and maintenance agreement and plan that shall be binding on all subsequent owners of the site, unless the stormwater management system is dedicated to and accepted by the city.
+(2)
+The inspection and maintenance agreement and plan shall include the following information:
+(a)
+Identification by name or official title the person(s) responsible for carrying out the inspection and maintenance.
+(b)
+A statement that responsibility for the operation and maintenance of the stormwater management system, unless assumed by a governmental agency, shall remain with the property owner and shall pass to any successor owner.
+(c)
+A provision stating that, if portions of the land are sold or otherwise transferred, legally binding arrangements shall be made to pass the inspection and maintenance responsibility to the appropriate successors in title. These arrangements shall designate, for each portion of the stormwater management system, the person to be permanently responsible for its inspection and maintenance.
+(d)
+A maintenance schedule stating when and how often routine inspection and maintenance will occur to ensure proper function of the stormwater management system.
+(e)
+Plans for annual inspections to ensure proper performance of the stormwater management system between scheduled maintenance and remedies for the default thereof.
+(3)
+The inspection and maintenance agreement and plan shall be approved by the city prior to approval of the stormwater management design plan and recorded with the deed upon approval of the stormwater management design plan.
+(4)
+In addition to enforcing the terms of the inspection and maintenance agreement and plan, the city may also enforce all of the provisions for ongoing inspection and maintenance in subdivision 6 of this division.
+(5)
+The terms of the stormwater management inspection and maintenance agreement and plan shall provide for the city to enter the property at reasonable times and in a reasonable manner for the purpose of inspection. These terms include the right to enter a property when the city has a reason to believe that a violation of an approved stormwater management inspection and maintenance agreement and plan or this division is occurring or has occurred and to enter when necessary for abatement of a public nuisance or correction of a violation of an approved stormwater management inspection and maintenance agreement and plan or this division.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-370. - Permit application procedure.
+(1)
+Applications for post-construction stormwater management permits shall be filed with the city on a permit application on a form provided by the city for that purpose.
+(2)
+Permit applications shall include the items set forth in section 16-330 (two copies of the stormwater management design plan and the stormwater management inspection and maintenance agreement and plan, shall be included).
+(3)
+The city shall inform the applicant whether the application, stormwater management design plan, and inspection and maintenance agreement and plan are approved or disapproved.
+(4)
+If the permit application, stormwater management design plan, or inspection and maintenance agreement and plan are disapproved, the city shall notify the applicant of such fact in writing. The applicant may then revise any item not meeting the requirements of this division and resubmit the same, in which event subsection 16-370(3) and this section shall apply to such resubmittal.
+(5)
+Upon a finding by the city that the permit application, stormwater management design plan, and inspection and maintenance agreement and plan, if applicable, meet the requirements of this division, the city may issue a post-construction stormwater management permit for the land development project, provided all other legal requirements for the issuance of such permit have been met.
+(6)
+Notwithstanding the issuance of the permit, in conducting the land development project, the applicant or other responsible person shall be subject to the following requirements:
+(a)
+The applicant shall comply with all applicable requirements of the approved stormwater management design plan and the provisions of this division and shall certify that all land clearing, construction, land development, and drainage will be done according to the approved stormwater management design plan;
+(b)
+The land development project shall be conducted only within the area specified in the approved stormwater management design plan;
+(c)
+The city shall be allowed to conduct periodic inspections of the project in accordance with subdivisions 5 and 6 of this division;
+(d)
+No changes may be made to an approved stormwater management design plan without review and written approval by the city; and
+(e)
+Upon completion of the project, the applicant or other responsible person shall submit a statement certifying that the project has been completed in accordance with the approved stormwater management design plan and as-built plans for the stormwater management system, as required by section 16-550.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-380. - Application review fees.
+A non-refundable permit fee shall be collected at the time the post-construction stormwater management permit application is submitted. Any monetary collection shall be credited to a local budget to support plan review, administration and management of the permitting process, and inspection of all projects subject to this division. The city shall develop a fee schedule based on the area of land disturbed by the project and may amend the fee schedule from time to time.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-390. - Performance bonds.
+The city shall require from the developer a surety or cash bond, irrevocable letter of credit, or other means of security acceptable to the city prior to the issuance of any building and/or grading permit for any land development activity requiring a permanent stormwater management system. The amount of the security shall not be less than the total estimated construction cost of the permanent stormwater management system. The bond required in this section shall include provisions relative to forfeiture for failure to complete work specified in the approved stormwater management design plan, compliance with all of the provisions of this division, other applicable laws and regulations, and any time limitations. The bond shall not be fully released without a final inspection of the completed work by the city, submission of "as-built" plans, a recorded inspection and maintenance agreement and plan, and a certification of completion by the applicant that the stormwater management system complies with the approved stormwater management design plan and provisions of this division. A procedure may be used to release parts of the bond held by the city after various stages of construction have been completed and accepted by the city. The procedures used for partially releasing performance bonds must be specified by the local authority in writing prior to the approval of a stormwater management design plan.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-400. - Compliance through off-site stormwater management practices.
+The stormwater management design plan for each land development project shall include structural and nonstructural stormwater management practices located on the development or redevelopment site unless provisions are made to manage stormwater runoff at an off-site or regional facility. The off-site or regional facility must be located on property legally dedicated for that purpose, be designed and adequately sized to meet the post-construction stormwater management criteria set forth in subdivision 4 of this division, provide a level of stormwater quality and quantity control that is equal to or greater than that which would be provided by on-site stormwater management practices, and have a legally-obligated entity responsible for long-term operation and maintenance of the off-site or regional stormwater facility. In addition, stormwater management measures shall be implemented, where necessary, to protect upstream and downstream properties and drainage channels between the site and the location of the off-site or regional facility.
+To be eligible for compliance through an off-site stormwater management practice, the applicant must submit a stormwater management design plan to the city that shows the adequacy of the off-site or regional facility and demonstrates, to the satisfaction of the city, that the off-site or regional facility will not result in the following impacts:
+(1)
+Increased threat of flood damage or endangerment to public health or safety;
+(2)
+Deterioration of existing culverts, bridges, dams, and other structures;
+(3)
+Accelerated streambank or streambed erosion or siltation;
+(4)
+Degradation of in-stream biological functions or habitat; or
+(5)
+Water quality impairment in violation of state water quality standards, and/or violation of any state or federal regulations.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 4. - Post-Construction Stormwater Management Criteria
+
+Sec. 16-410. - Structural and nonstructural stormwater management practices criteria.
+All development and redevelopment sites shall utilize structural and nonstructural stormwater management practices to control and minimize the increased stormwater runoff rates, volumes, and pollutant loads caused by land development in accordance with the criteria presented below. Better site planning and design techniques and low impact development practices should be used to the maximum extent practical to reduce runoff rates, volumes, and pollutant loads and the site's impact on the watershed. Such techniques and practices include, but are not limited to, conservation and/or restoration of natural areas, such as forests, wetlands, and riparian buffers, minimization and/or disconnection of impervious surfaces, and small-scale distributed stormwater management practices, such as rain gardens, pervious pavement, and stormwater planters, that intercept and treat or otherwise manage stormwater runoff close to its source.
+For structural and nonstructural stormwater management practices not included in the Coastal Stormwater Supplement or the Georgia Stormwater Management Manual, or for which pollutant removal and runoff reduction rates have not been provided, the effectiveness of the structural or nonstructural stormwater management practice must be documented through prior studies, literature reviews, or other means and receive approval from the city before being included in the design of a stormwater management system. In addition, if hydrologic or topographic conditions or land use activities warrant greater control than that provided by the post-construction stormwater management criteria, the city may impose additional requirements deemed necessary to protect upstream and downstream properties and aquatic resources from damage due to increased volume, frequency, and rate of stormwater runoff or due to increased nonpoint source pollution loads created on the development or redevelopment site in question.
+The following criteria shall apply to all land development activities and stormwater management design plans, unless otherwise provided for in this division.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-420. - Natural resources inventory.
+A graphic illustration of the natural resources at the development or redevelopment site, as they exist prior to the start of land development activities, shall be prepared during the site planning process. The Natural Resources Inventory shall include, at a minimum: existing topography; natural drainage features; perennial and intermittent streams; wetlands; riparian buffers; floodplains; steep slopes; soil types; groundwater recharge areas; areas with high groundwater; stands of trees and/or other vegetation; and areas with significant habitat value. Protection, conservation and/or restoration of a site's natural resources through the use of better site planning techniques may, at the discretion of the city, allow for a reduction in stormwater runoff volume as a means of complying with the post-construction stormwater management criteria outlined in sections 16-430 through 16-480. The better site planning techniques that qualify for this credit, and the procedures for calculating the runoff reduction provided by these nonstructural stormwater management practices, is provided in the latest edition of the Coastal Stormwater Supplement.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-430. - Runoff reduction.
+(a)
+Some portion of the stormwater runoff generated on a development or redevelopment site shall be captured and retained, reused, or otherwise reduced in order to preserve and/or replicate pre-development site hydrology, recharge shallow groundwater aquifers, promote baseflow to on-site and downstream aquatic resources, and minimize the water quality impacts of land development. A stormwater management system complies with this requirement if:
+(1)
+It is designed to capture and retain, reuse, or otherwise reduce the prescribed runoff reduction volume from the site, as defined in the latest edition of the Coastal Stormwater Supplement;
+(2)
+Appropriate structural and nonstructural stormwater management practices that provide for the interception, evaporation, transpiration, passive infiltration, active (engineered) infiltration, extended filtration, and capture and reuse of stormwater runoff have been selected, designed, constructed, and maintained in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement; and,
+(3)
+Stormwater runoff from any development or redevelopment site that is defined by the city as a stormwater hotspot is not managed through the use of structural or nonstructural stormwater management practices that provide for passive or active (engineered) infiltration of stormwater runoff, unless adequate pre-treatment is provided, as defined by the city.
+(b)
+Green infrastructure, which includes better site planning and design techniques and low impact development practices, shall be used to the maximum extent practical during the site planning and design process to capture and retain, reuse, or otherwise reduce the prescribed runoff reduction volume on a development or redevelopment site.
+(c)
+The city may reduce or waive the runoff reduction requirements on a development or redevelopment site with high groundwater, groundwater recharge areas, tight or contaminated soils, or other site constraints that prevent the use of one or more runoff reduction processes. When seeking a reduction in or waiver from runoff reduction requirements, the applicant shall demonstrate that structural and nonstructural stormwater management practices that provide for the interception, evaporation, transpiration, passive infiltration, active (engineered) infiltration, extended filtration, and capture and reuse of stormwater runoff have been used to the maximum extent practical and that no additional runoff reduction can be provided on the site. Any of the prescribed runoff reduction volume that is not captured and retained, reused, or otherwise reduced on the site, shall be captured and treated in an appropriate structural stormwater management practice that has been selected, designed, constructed, and maintained in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-440. - Aquatic resource protection.
+All stormwater management systems shall be designed to protect on-site and downstream aquatic resources from the water quality and water quality impacts of land development. A stormwater management system is presumed to comply with this standard if:
+(1)
+It provides aquatic resource protection in accordance with the criteria and information provided in the latest edition of the Coastal Stormwater Supplement; and,
+(2)
+Appropriate structural and nonstructural stormwater management practices have been selected, designed, constructed, and maintained in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement and any relevant local addenda.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-450. - Water quality.
+A significant portion of the stormwater runoff generated on a development or redevelopment site shall be adequately treated before discharge to minimize the water quality impacts of land development. A stormwater management system complies with this requirement if it meets the runoff reduction requirements of section 16-430 and the aquatic resource protection requirements of section 16-440.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-460. - Groundwater recharge.
+Groundwater recharge shall be preserved on a development or redevelopment site in order to preserve and/or replicate pre-development site hydrology, recharge shallow groundwater aquifers, and promote baseflow to on-site and downstream aquatic resources. A stormwater management system complies with this requirement if it provides groundwater recharge in accordance with the criteria and information provided in the latest edition of the Coastal Stormwater Supplement.
+The prescribed groundwater recharge volume on a development or redevelopment site, as defined in the latest edition of the Coastal Stormwater Supplement, shall be considered part of the runoff reduction volume defined in section 16-430, and shall not be managed in addition to the prescribed runoff reduction volume. Green infrastructure, which includes better site planning and design techniques and low impact development practices, shall be used to the maximum extent practical during the site planning and design process to preserve groundwater recharge on a development or redevelopment site.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-470. - Overbank flood protection.
+All stormwater management systems shall be designed to control the post-development peak discharge generated by the overbank flood protection storm event, as defined in the latest edition of the Coastal Stormwater Supplement, to prevent an increase in the frequency and magnitude of damaging overbank flooding. A stormwater management system complies with this requirement if:
+(1)
+It provides overbank flood protection in accordance with the criteria and information provided in the latest edition of the Coastal Stormwater Supplement; and
+(2)
+Appropriate structural and nonstructural stormwater management practices have been selected, designed, constructed, and maintained in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement and any relevant local addenda.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-480. - Extreme flood protection.
+All stormwater management systems shall be designed to control and/or safety convey the post-development peak discharge generated by the extreme flood protection storm event, as defined in the latest edition of the Coastal Stormwater Supplement, to protect downstream properties from flood damage, maintain the boundaries of existing floodplains, and protect the physical integrity of downstream stormwater conveyance features, management practices, and flood control facilities. A stormwater management system complies with this requirement if:
+(1)
+It provides extreme flood protection in accordance with the criteria and information provided in the latest edition of the Coastal Stormwater Supplement; and
+(2)
+Appropriate structural and nonstructural stormwater management practices have been selected, designed, constructed, and maintained in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement and any relevant local addenda.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-490. - Redevelopment criteria.
+Land development that qualifies as redevelopment shall meet one of the following criteria:
+(1)
+Reduce impervious cover. Reduce existing site impervious cover by at least 20 percent.
+(2)
+Provide stormwater management. Manage the stormwater runoff from at least 20 percent of the site's existing impervious cover and any new impervious cover in accordance with the post-construction stormwater management criteria outlined in sections 16-430 through 16-480 using stormwater management practices designed in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement, the Georgia Stormwater Management Manual, and any relevant local addenda.
+(3)
+Provide off-site stormwater management. Provide a level of stormwater quality and quantity control that is equal to or greater than that which would be provided by on-site stormwater management practices, in accordance with section 16-400.
+(4)
+Combination of measures. Any combination of subsections (1)—(3) that is acceptable to the city.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-500. - Structural stormwater management practices.
+All structural stormwater management practices shall be selected, designed, constructed, and maintained in accordance with the standards, criteria, and information presented in the latest edition of the Coastal Stormwater Supplement, the Georgia Stormwater Management Manual, and any relevant local addenda. Applicants shall consult the latest edition of the Coastal Stormwater Supplement, the Georgia Stormwater Management Manual, and any relevant local addenda for guidance on selecting structural stormwater management practices that can be used to satisfy the post-construction stormwater management criteria outlined in sections 16-430 through 16-480.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-510. - Nonstructural stormwater management practices.
+The use of nonstructural stormwater management practices, including better site planning and design techniques and low impact development practices, is encouraged to preserve and/or replicate the pre-development hydrology of a development or redevelopment site, reduce a site's impact on the watershed, and minimize reliance on structural stormwater management practices. The use of nonstructural stormwater management practices may, at the discretion of the city, allow for a reduction in stormwater runoff volume as a means of complying with the post-construction stormwater management criteria outlined in sections 16-430 through 16-480. The nonstructural stormwater management practices that qualify for this credit, and procedures for applying and calculating the runoff reduction provided by these nonstructural stormwater management practices, is provided in the latest edition of the Coastal Stormwater Supplement.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-520. - Stormwater conveyance systems.
+Stormwater conveyance systems, which may include but are not limited to culverts, stormwater drainage pipes, catch basins, drop inlets, junction boxes, headwalls, gutters, swales, channels, ditches, and energy dissipaters, shall be provided when necessary for the protection of public right-of-way and private properties adjoining development and redevelopment sites and/or public right-of-ways. Stormwater conveyance systems that are designed to convey stormwater runoff from more than one parcel shall meet the following requirements:
+(1)
+Methods used to calculate stormwater runoff rates and volumes shall be in accordance with the latest edition of the Georgia Stormwater Management Manual;
+(2)
+All culverts, pipe systems, and open channel flow systems shall be sized in accordance with the stormwater management design plan using the methods included in the latest edition of the Georgia Stormwater Management Manual; and,
+(3)
+Planning and design of stormwater conveyance systems shall be in accordance with the criteria and specifications found in the latest edition of the Georgia Stormwater Management Manual.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 5. - Construction Inspection of Stormwater Management Systems
+
+Sec. 16-530. - Notice of construction commencement.
+The applicant must notify the city before the commencement of construction. In addition, the applicant must notify the city in advance of construction of critical components of the stormwater management practices shown on the approved stormwater management design plan. The city may, at its discretion, issue verbal or written authorization to proceed with critical construction steps, such as installation of permanent stormwater management practices based on stabilization of the drainage area and other factors.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-540. - Inspections during construction.
+Periodic inspections of the stormwater management practices shown on the approved stormwater management design plan shall be conducted by staff or representatives of the city during construction. Construction inspections shall utilize the approved stormwater management design plan for establishing compliance with the provisions of this division. All inspection shall be documented in written reports that contain the following information:
+(1)
+The date and location of the inspection;
+(2)
+The name of the inspector;
+(3)
+Whether construction is in compliance with the approved stormwater management design plan;
+(4)
+Violations of the approved stormwater management design plan; and,
+(5)
+Any other variations from the approved stormwater management plan.
+If any violations are found, the applicant shall be notified in writing about the nature of the violation and the remedial measures that are required to bring the action or inaction into compliance with the approved stormwater management design plan, as described in section 16-610. In the event that the remedial measures described in such notice have not been completed by the date set forth in the notice, any one or more of the enforcement actions outlined in section 16-620 may be taken against the applicant.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-550. - Final inspection and as built plans.
+Subsequent to the final installation and stabilization of all permanent stormwater management practices shown on the approved stormwater management design plan and before the issuance of a certificate of occupancy the applicant is responsible for certifying that the project has been completed in accordance with the approved stormwater management design plan and submitting "as built" plans for all permanent stormwater management practices shown on the approved stormwater management design plan. The "as built" plans must show the final design specifications for all structural and nonstructural stormwater management practices and must be certified by a licensed landscape architect, professional surveyor, or professional engineer. A final inspection shall be conducted by the staff or representatives of the city to confirm the accuracy of the "as built" plans. A final inspection is required before any performance bond or other guarantee can be released.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 6. - Ongoing Inspection and Maintenance of Stormwater Management Systems
+
+Sec. 16-560. - Maintenance responsibility.
+(a)
+The responsible party named in the recorded stormwater management inspection and maintenance agreement and plan (section 16-360), shall maintain in good condition and promptly repair and restore all structural and nonstructural stormwater management practices, maintenance access routes, and appurtenances, including, but not limited to grade surfaces, walls, drains, dams, structures, vegetation, erosion and sediment controls, and other protective devices. Such repairs, restoration, and maintenance shall be in accordance with the approved inspection and maintenance agreement and plan.
+(b)
+If the responsible party named in the recorded inspection and maintenance agreement and plan is a homeowner's association or other owner's association, such as a unit owner's association, the responsible party shall submit to the city a copy of a recorded declaration that provides:
+(1)
+That stormwater management practices are part of the common elements of the development and shall be subject to the requirements of the stormwater management inspection and maintenance agreement and plan;
+(2)
+That membership in the association shall be mandatory and automatic for all homeowners or unit owners of the development and their successors;
+(3)
+That the association shall have lien authority to ensure the collection of dues from all members;
+(4)
+That the requirements of the inspection and maintenance agreement and plan shall receive the highest priority for expenditures by the association except for any other expenditures that are required by law to have a higher priority;
+(5)
+That a separate fund shall be maintained by the association for the routine maintenance, reconstruction, and repair of the stormwater management practices, and kept in an account insured by the FDIC or by another entity acceptable to the city;
+(6)
+That the routine maintenance, reconstruction, and repair fund shall contain at all times the dollar amount reasonably determined from time to time by the city to be adequate to pay for the probable reconstruction and repair cost (but not routine maintenance cost) of the stormwater management system for a three-year period; and
+(7)
+That, to the extent permitted by law, the association shall not enter into voluntary dissolution unless responsibility for the stormwater management practices is transferred to a successor.
+(c)
+The city, in lieu of an inspection and maintenance agreement and plan, may accept dedication of any existing or future stormwater management practice or facility for maintenance, provided such practice or facility meets all of the requirements of this division, is in proper working order at the time of dedication, and includes adequate and perpetual access and sufficient area for inspection and regular maintenance. Such adequate and perpetual access shall be accomplished by granting of an casement to the city or through a fee simple dedication to the city.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-570. - Maintenance inspections.
+(a)
+Periodic inspections of the stormwater management practices shown on an approved stormwater management design plan and subject to the terms and conditions of an approved inspection and maintenance agreement and plan shall be conducted by staff or representatives of the city to document repair and maintenance needs and ensure compliance with the requirements of the approved inspection and maintenance agreement and plan and provisions of this division. All inspections should be documented in written reports that contain the following:
+(1)
+The date and location of the inspection;
+(2)
+The name of the inspector;
+(3)
+The condition of:
+a.
+Vegetation and filter media,
+b.
+Fences and other safety devices,
+c.
+Spillways, valves, and other hydraulic control structures,
+d.
+Embankments, slopes, and safety benches,
+e.
+Reservoirs and permanent pools,
+f.
+Inlet and outlet channels and structures,
+g.
+Underground drainage structures;
+h.
+Sediment and debris accumulation in storage and forebay areas;
+i.
+Nonstructural stormwater management practices;
+j.
+Any other item that could affect the proper function of the stormwater management system; and
+(4)
+A description of repair, restoration, and maintenance needs.
+(b)
+If any repair, restoration, or maintenance needs are found, the responsible party named in the recorded stormwater management inspection and maintenance agreement and plan shall be notified in writing about the repair, restoration, or maintenance needs and the remedial measures that are required to bring the stormwater management system into compliance with the approved stormwater management inspection and maintenance agreement and plan, as described in section 16-610. In the event that the remedial measures described in such notice have not been completed by the date set forth in the notice, any one or more of the enforcement actions outlined in section 16-620 may be taken against the responsible party named in the approved stormwater management inspection and maintenance agreement and plan.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-580. - Records of maintenance activities.
+The responsible party shall make and maintain records of all inspections, maintenance, and repairs, and shall retain the records for a minimum of five years. These records shall be made available to the city during inspections and at other reasonable times upon request of the city.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-590. - Failure to maintain.
+If the responsible party fails or refuses to meet the terms and conditions of an approved stormwater management inspection and maintenance agreement and plan and/or the requirements of this division, the city, after 30 days written notice (except, that in the event the violation constitutes an immediate danger to public health or safety, 24-hours-notice shall be sufficient), may correct a violation by performing the work necessary to place the stormwater management practice in proper working condition. The city may assess the responsible party for the cost of the repair work, which shall be a lien on the property, and may be placed on the ad valorum tax bill for such property and collected in the ordinary manner for such taxes by the city.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Subdivision 7. - Violations, Enforcement and Penalties
+
+Sec. 16-600. - Violations of this division.
+Any action or inaction that violates the provisions of this division or the requirements of an approved stormwater management design plan, stormwater management inspection and maintenance agreement and plan, or permit may be subject to the enforcement actions outlined in this subdivision. Any such action or inaction that is continuous with respect to time is deemed to be a public nuisance and may be abated by injunctive or other equitable relief. The imposition of any of the penalties described below shall not prevent such equitable relief.
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-610. - Notice of violation.
+If the city determines that an owner, applicant, or other responsible person has failed to comply with the provisions of this division, or the terms and conditions of an approved stormwater management design plan, permit, or inspection and maintenance agreement and plan, it shall issue a written notice of violation to such owner, applicant, or other responsible person. Where a person is engaged in a land development activity covered by this division without having first secured a stormwater management permit, the notice of violation shall be served on the owner or the person in charge of the land development activity being conducted on the development or redevelopment site.
+The notice of violation shall contain:
+(1)
+The name and address of the owner, applicant, or other responsible person;
+(2)
+The address or other description of the site upon which the violation is occurring;
+(3)
+A statement specifying the nature of the violation;
+(4)
+A description of the remedial measures necessary to bring the action or inaction into compliance with the provisions of this division, or the terms and conditions of the approved stormwater management design plan, permit, or inspection and maintenance agreement and plan, and the date for the completion of such remedial measures;
+(5)
+A statement of the penalty or penalties that may be assessed against the person to whom the notice of violation is issued; and,
+(6)
+A statement that the determination of violation may be appealed to the city by filing a written notice of appeal within 30 days after the notice of violation (except, that in the event the violation constitutes an immediate danger to public health or safety, a written notice of appeal must be filed within 24 hours after the notice of violation).
+(Ord. No. 42-2014, § 1, 10-10-2014)
+Sec. 16-620. - Penalties.
+(a)
+In the event that the remedial measures described in the notice of violation have not been completed by the date set forth for such completion in the notice of violation, any one or more of the following actions or penalties may be taken or assessed against the person to whom the notice of violation was issued.
+(b)
+Before taking any of the following actions or imposing any of the following penalties, the city shall first notify the owner, applicant, or other responsible person in writing of its intended action and shall provide a reasonable opportunity of not less than ten days (except, that in the event the violation constitutes an immediate danger to public health or safety, 24-hours-notice shall be sufficient) to correct the violation. In the event the owner, applicant, or other responsible person fails to correct the violation by the date set forth in said notice, the city may take any one or more of the following actions or impose any one or more of the following penalties.
+(1)
+Stop work order. The city may issue a stop work order that shall be served on the owner, applicant, or other responsible person. The stop work order shall remain in effect until the owner, applicant, or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise corrected the violation or violations described therein, provided the stop work order may be withdrawn or modified to enable the applicant or other responsible person to take the remedial measures necessary to correct such violation or violations.
+(2)
+Withhold certificate of occupancy. The city may refuse to issue a certificate of occupancy for the building or other structure constructed or being constructed on the site until the owner, applicant, or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise corrected the violation or violations described therein.
+(3)
+Suspension, revocation, or modification of permit. The city may suspend, revoke, or modify the permit authorizing the land development activity. A suspended, revoked, or modified permit may be reinstated after the owner, applicant, or other responsible person has taken the remedial measures set forth in the notice of violation or has otherwise corrected the violation or violations described therein, provided the permit may be modified as the city may deem necessary to enable the owner, applicant, or other responsible person to take the remedial measures necessary to correct such violation or violations.
+(4)
+Civil penalties. In the event the owner, applicant, or other responsible person fails to take the remedial measures set forth in the notice of violation or otherwise fails to correct the violation or violations described therein by the date set forth in the notice of violation, the city may impose a penalty not to exceed $1,000.00 (depending on the severity of the violation) for each day the violation remains unremedied after the date set forth in the notice of violation.
+(5)
+Criminal penalties. For intentional and flagrant violations of this division, the city may issue a citation to the applicant or other responsible person, requiring such person to appear in the city municipal court to answer charges for such violation. Upon conviction, such person shall be punished by a fine not to exceed $1,000.00 or imprisonment for up to 60 days or both. Each act of violation and each day upon which any violation shall occur shall constitute a separate offense.
+(Ord. No. 42-2014, § 1, 10-10-2014)

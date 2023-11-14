@@ -1,0 +1,329 @@
+Chapter 66 - TELECOMMUNICATIONS[1]
+Footnotes:
+--- (1) ---
+State Law reference— Communications Act, 47 U.S.C.A. 151 et seq.; power to grant franchise, O.C.G.A. § 36-34-2(7); theft of telecommunications services, O.C.G.A. § 46-5-2 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Secs. 66-1—66-18. - Reserved.
+ARTICLE II. - TELECOMMUNICATIONS TOWERS
+
+Sec. 66-19. - Purpose.
+The purpose of this article is to impose certain permitting requirements for the siting of all wireless, cellular, television and radio telecommunications towers and antennas; to encourage the location of towers in nonresidential areas; to minimize the total number of towers within the community necessary to provide adequate personal wireless services to residents of the city and surrounding areas; to encourage the joint use of new and existing tower sites among service providers; to locate telecommunications towers and antennas in areas where adverse impacts on the community are minimized; to encourage the design and construction of towers and antennas to minimize adverse visual impacts; and to enhance the ability of the providers of telecommunications services to deliver such services to the community effectively and efficiently.
+(Ord. No. 2000-1, § I(1.1), 10-3-2000)
+Sec. 66-20. - Definitions and rules of construction.
+(a)
+Words not defined herein shall be construed to have the meaning given by common and ordinary use, and shall be interpreted within the context of the sentence and section in which they occur. The word "erected" includes the words "constructed," "located" or "relocated." The word "map" or "zoning map" means the zoning maps of the city. The word "parcel" includes the word "plot" or "lot." The word "person" includes the words "individuals," "firms," "partnerships," "corporations," "associations," "governmental bodies" and all other legal entities. The word "shall" is always mandatory and never discretionary. The word "used" or "occupied" includes the words "intended, arranged or designed to be used or occupied."
+(b)
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this subsection, except where the context clearly indicates a different meaning:
+Administrator means the zoning administrator of the city or the administrator's designee as provided by the Liberty Consolidated Planning Commission.
+Alternative tower structure means clock towers, bell towers, church steeples, light/power poles, electric transmission towers, on-premises signs, outdoor advertising signs, water storage tanks, and similar natural or manmade alternative-design mounting structures that camouflage or conceal the presence of antennas or towers.
+Antenna means any exterior apparatus designed for wireless telecommunication, radio, or television communications through the sending and/or receiving of electromagnetic waves.
+Collocation means the placement of the antennas of two or more service providers upon a single tower or alternative tower structure.
+FAA means the Federal Aviation Administration.
+FCC means the Federal Communications Commission.
+Geographic antenna placement area means the general vicinity within which the placement of an antenna is necessary to meet the engineering requirements of an applicant's cellular network or other broadcasting need (as informed by industry standards).
+Governing authority means the city council of the City of Flemington.
+Height, when referring to a tower or other structure, means the distance measured from ground level to the highest point on the tower structure or appurtenance.
+Preexisting towers and antennas means structures as set forth in section 66-21(d).
+Scenic views means those geographic areas containing visually significant or unique natural features, as identified by the city council from time to time.
+Telecommunications facility means any tower, alternative tower structure, antenna, or other similar structure, facility or appurtenance governed by this article.
+Tower means any structure that is designed and constructed primarily for the purpose of supporting one or more antennas, including self-supporting lattice towers, guy towers, or monopole towers. The term "tower" includes radio and television transmission towers, microwave towers, common-carrier towers, cellular telecommunication towers, manmade trees (with accessory buildings/structures) and other similar structures.
+Visual quality means the appropriate design, arrangement and location of tower structures in relation to the built or natural environment to avoid abrupt or severe differences.
+(Ord. No. 2000-1, § I(1.2), 10-3-2000)
+Sec. 66-21. - Applicability.
+(a)
+Generally. Except as set forth in section 66-21(c), the provisions, requirements and limitations of this article shall govern the location of all wireless telecommunication, cellular telecommunication, television, microwave, radio, or similar transmission towers or antennas installed within the jurisdiction of the city council. The provisions, requirements and limitations of this article shall only apply to wireless telecommunication, cellular telecommunication, television, microwave, radio, or similar transmission towers or antennas installed within the jurisdiction of the city council. In addition, any provisions, requirements or limitations contained elsewhere within the zoning ordinance of the city, set forth in appendix A to this Code, which directly conflict with the administration of this article or the provisions, requirements or limitations hereof, shall be inapplicable to this article.
+(b)
+Governmental exemption. Except as otherwise specifically provided for in this article, the provisions of this article shall not apply to the city council's properties, facilities or structures. Private facilities and structures placed upon the city council's property shall be governed by a lease agreement or similar instrument between the city council and the provider.
+(c)
+Amateur radio; receive-only antennas. This article shall not govern any tower, or the installation of any antenna, that is 75 feet or less in height and is owned and operated by a federally licensed amateur radio station operator from the operator's residence, or is used exclusively as a receive-only antenna; provided, however, only one such tower or antenna per residence shall be excluded from this article.
+(d)
+Preexisting towers and antennas. Any tower or antenna for which a permit has been properly issued prior to the effective date of the ordinance from which this article is derived shall not be required to meet the provisions of this article, other than section 66-22(i)—(k) and section 66-27, and the requirements of section 66-22(d) (except subsection (d)(6)), (f) and (g)) within six months from the date of adoption of the ordinance from which this article is derived. Any such towers or antennas shall be referred to in this article as "preexisting towers" or "preexisting antennas;" provided, however, that the placement of antennas on any nonconforming structure shall not create a vested right for the continued use of the structures should the nonconforming use cease. If an additional antenna is collocated upon a preexisting tower after adoption of this article, then the requirements of section 66-22(d) (except subsection (d)(6)), (f) and (g)) shall be met as part of the permitting process.
+(Ord. No. 2000-1, § I(1.3), 10-3-2000)
+Sec. 66-22. - General provisions.
+(a)
+Principal or accessory use. A tower and/or antenna is considered a principal use if located on any lot or parcel of land as the sole or primary structure, and is considered an accessory use if located on a lot or parcel shared with a different existing primary use or existing structure. An existing use or structure on the same lot or parcel shall not preclude the installation of an antenna or tower. For purposes of determining whether the installation of a tower or antenna complies with zoning district requirements, including but not limited to setback, buffer and other requirements, the dimensions of the entire lot or parcel shall control, even though the antenna or tower may be located on a leased area within such lot or parcel. Towers that are constructed, and antennas that are installed, in accordance with the provisions of this article shall not be deemed to constitute the expansion of a nonconforming use of structure.
+(b)
+Collocation; design requirements. In addition to all applicable building and safety codes, all towers, except amateur radio towers, shall be designed to accommodate the collocation of cellular telecommunication antennas according to the following:
+(1)
+For towers up to 150 feet in height, the structure and fenced compound shall be designed to accommodate at least three providers or the maximum number of users as determined by the most current technology, whichever is greater;
+(2)
+For towers greater than 150 feet in height, the structure and fenced compound shall be designed to accommodate at least four providers or the maximum number of users as determined by the most current technology, whichever is greater.
+(c)
+Collocation; availability of suitable existing structures. No new tower, except amateur radio towers, shall be permitted unless the applicant demonstrates to the satisfaction of the administrator and/or city council (as the case may be) that no existing tower or existing alternative tower structure can accommodate the applicant's proposed antenna. All evidence submitted shall be signed and sealed by appropriate licensed professionals or qualified industry experts. Evidence submitted to demonstrate that no existing tower or structure can accommodate the proposed antenna shall consist of the following:
+(1)
+That no existing towers or suitable alternative tower structures are located within the geographic antenna placement area which will allow for the effective operation of the proposed antenna (as informed by industry standards);
+(2)
+That existing towers or structures are not of sufficient height to allow for the effective operation of the proposed antenna (as informed by industry standards);
+(3)
+That existing towers or structures do not have sufficient structural strength to support the applicant's antenna and related equipment (as informed by industry standards);
+(4)
+That the applicant's proposed antenna would cause electromagnetic interference with the antennas on the existing towers or structures, or the antenna on the existing towers or structures would cause interference with the applicant's proposed antenna, and such interference cannot be effectively remedied;
+(5)
+That the cost or contractual provisions required by the tower owner to share an existing tower or structure or to adapt an existing tower or structure for sharing substantially exceed the cost and requirements of new tower development and are otherwise entirely unreasonable;
+(6)
+That the applicant adequately demonstrates that there are other limiting factors that render existing towers and structures unsuitable, other than economic reasons.
+(d)
+Aesthetics. The guidelines set forth in this subsection shall govern the design and construction of all towers, and the installation of all antennas, governed by this article.
+(1)
+Towers and/or antennas shall either maintain a galvanized steel or concrete finish or, subject to any applicable standards of the FAA, be painted a neutral color so as to reduce visual obtrusiveness.
+(2)
+At all tower sites, the design of all buildings and related structures shall use materials, colors, textures, screening, and landscaping that will blend the tower facilities to the natural setting and building environment. Any equipment or cabinet that supports telecommunication facilities must be concealed from public view and made compatible with the architecture of the surrounding structures or placed underground. Equipment shelters or cabinets shall be concealed from public view by using landscaping and materials and colors consistent with the surrounding backdrop. The shelter or cabinet must be regularly maintained.
+(3)
+For antennas installed on a structure other than a tower, the antenna and supporting electrical and mechanical ground equipment shall be of a neutral color so as to make the antenna and related equipment visually unobtrusive.
+(4)
+Towers shall not be artificially lighted, unless required by the FAA or other applicable authority. If lighting is required, the governing authority may review the available lighting alternatives and approve the design that would cause the least disturbance to the surrounding views. The lighting shall be dimmed or changed to red lights from sunset to sunrise.
+(5)
+No signage or other identifying markings of a commercial nature shall be permitted upon any tower or alternative tower structure within the city.
+(6)
+To the extent practical, telecommunication facilities shall not be placed in a direct line of sight with historic or scenic view corridors as designated by the city council or by any state or federal law or agency.
+(7)
+Access to the tower site shall be restricted so as to minimize visibility of the access. Where possible, existing roads shall be used. Where no roads exist, access shall follow the existing contours of the land so as to minimize the visual impact of the site on the surrounding area.
+(8)
+Such other additional requirements as the administrator and/or city council, as the case may be, shall reasonably require to minimize the visual impact of the site on the surrounding area.
+(e)
+Setbacks and separation. The following setbacks and separation requirements shall apply to all towers:
+(1)
+Towers shall be set back a minimum distance equal to the height of the tower from its base to any public right-of-way or occupied structure, or property line of the lot or parcel containing the tower unless the owner of the adjoining property whose property is within the fall zone otherwise consents in writing.
+(2)
+Guy wires and accessory buildings and facilities shall meet the minimum accessory use location and setback requirements.
+(3)
+Towers shall not be located closer than 5,280 feet from any existing tower; provided, however, that the administrator or city council may waive this requirement when it is determined that the placement of another tower within said 5,280 feet is technologically required or visually preferable. This requirement shall not apply to amateur radio towers.
+(f)
+Security fencing/anti-climbing devices. All towers and supporting equipment shall be enclosed by fencing not less than six feet in height and shall also be equipped with appropriate anti-climbing devices. Fencing shall be of chainlink, wood or other approved alternative.
+(g)
+Landscaping. The following requirements shall govern landscaping surrounding all towers:
+(1)
+Where adequate vegetation is not present, tower facilities shall be landscaped with a landscaped strip of plant materials which effectively screens the view of the tower compound. Landscaped strips shall be a minimum of ten feet in width and eight feet in height at planting and located outside the fenced perimeter of the compound.
+(2)
+Existing mature tree growth and natural landforms on the site shall be preserved to the maximum extent possible. Where natural vegetation around the perimeter of the site would provide an adequate visual screen, an undisturbed buffer may be utilized. The applicant shall provide a site plan showing existing significant vegetation to be removed, and vegetation to be replanted to replace that lost.
+(3)
+Landscaping shall be maintained by the provider and shall be subject to periodic review by the administrator to ensure proper maintenance. Failure to maintain landscaping shall be deemed a violation of this article.
+Amateur radio towers and antennas or receive-only antennas shall not be subject to this subsection unless specifically required by the city council by virtue of other provisions of the zoning ordinance of the city.
+(h)
+Maintenance impact. Equipment at a transmission facility shall be automated to the greatest extent possible to reduce traffic and congestion. Where the site abuts or has access to a collector or local street, access for maintenance vehicles shall be exclusively by means of the collector or local street, utilizing existing access to the property on which such facility is to be located, where possible.
+(i)
+Federal requirements. All towers must meet or exceed current standards and regulations of the FAA, the FCC, and any other agency of the federal government with the authority to regulate towers and antennas. If such standards and regulations are changed, the permittee, owner or the lessee of the tower and/or antenna governed by this article shall bring such tower and/or antenna into compliance with such revised standards and regulations within six months of the effective date of such standards and regulations, unless a more or less stringent compliance schedule is mandated by the controlling federal agency. Failure to bring such tower and/or antenna into compliance with such revised standards and regulations shall be deemed to be a declaration of abandonment of the tower and/or antenna and constitute grounds for the removal of the tower or antenna at the owner's, permittee's, or lessee's expense. Any such removal by the city council shall be in the manner provided by section 5-84 of the Code of Ordinances of Liberty County, Georgia, governing unsafe or abandoned structures.
+(j)
+Building codes; safety standards. To ensure the structural integrity of towers, the owner, permittee or subsequent lessee of a tower or alternative tower structure shall ensure that it is maintained in compliance with standards contained in applicable local building codes and the applicable standards for towers that are published by the Electronic Industries Association, as amended from time to time. If, upon inspection, the administrator concludes that a tower fails to comply with all applicable codes and standards, or constitutes a danger to persons or property, then upon receipt of written notice by the owner, permittee or lessee of the tower, said party shall have 15 days to bring the tower into compliance with such standards. Failure to bring such tower into compliance within 15 days shall be deemed a declaration of abandonment of the tower and constitute grounds for removal of the tower as provided in section 5-84 of the Code of Ordinances of Liberty County, Georgia, governing unsafe or abandoned structures. Prior to the removal of any tower, the administrator may consider detailed plans submitted by the owner, permittee or subsequent lessee for repair of substandard towers, and may grant a reasonable extension of the compliance period referenced in this subsection.
+(k)
+Change of ownership notification. Upon the transfer of an ownership interest in any tower, alternative tower structure, or lot upon which such a structure has been erected, the tower permittee shall notify the administrator of the transaction in writing within 30 days.
+(Ord. No. 2000-1, § I(1.4), 10-3-2000)
+Sec. 66-23. - Application procedures.
+(a)
+General application requirements. Application for a permit for any telecommunications facility shall be made to the administrator by the person, company, organization, or duly authorized agent thereof, that will own and operate the telecommunications facility. An application will not be considered until it is complete. The administrator is authorized to develop application forms to assist in providing the required information and facilitate the application process. Except for a collocation information submittal under subsection (b) of this section, the following information shall be submitted when applying for any permit required by this article and must be submitted for an application to be considered complete:
+(1)
+A site plan to scale specifying the location of the telecommunications facility, transmission building and/or other accessory use, access, parking, fence, landscaped area, and adjacent land uses. Applicants shall submit both a paper location map and, if requested by the administrator, a digitized location map in a format compatible with the GIS software utilized by Flemington, Georgia.
+(2)
+A landscaped plan to scale indicating size, spacing and type of plantings required in section 66-22(g).
+(3)
+A full description of the environment surrounding the proposed telecommunications facility, including any adjacent residential structures and districts, structures and sites of historic significance, streetscapes or scenic view corridors.
+(4)
+A description of anticipated maintenance needs for the telecommunications facility, including frequency of service, personnel needs, equipment needs, and traffic, noise or safety impacts of such maintenance.
+(5)
+Report from a professional qualified engineer licensed in the state, or other appropriate qualified industry expert, documenting the following:
+a.
+Tower or antenna type, height, and design;
+b.
+Engineering, economic, and other pertinent factors governing selection of the proposed design;
+c.
+Total anticipated capacity of the telecommunications facility, including numbers and types of antennas which can be accommodated;
+d.
+Evidence of structural integrity of the tower or alternative tower structure;
+e.
+Structural failure characteristics of the telecommunications facility and demonstration that site and setbacks are of adequate size to contain debris; and
+f.
+Certification that the antenna and related equipment or appurtenances comply with all current regulations of the FCC.
+(6)
+Identification of the geographic service area for the subject installation, including a map showing the site and the nearest or associated telecommunications facility sites within the network, a description of the distance between the telecommunications facility sites, and a description of how this service area fits into and is necessary for the service network (i.e., whether such antenna or tower is needed for coverage or capacity).
+(7)
+If the proposed site is zoned R-1 through R-4, B-1, B-2, or PUD, applicants must describe why an alternate site zoned A-1, AR-1 or I-1 was not proposed by identifying:
+a.
+What good faith efforts and measures were taken to secure such an alternate site and why such efforts were unsuccessful;
+b.
+Why such an alternate site was not technologically, legally or economically feasible; and
+c.
+How and why the proposed site is essential to meet service demands for the geographic service area.
+The administrator will review with special care justifications that appeal only to undue expense and/or to undue difficulties in entering into a lease or similar agreement. The administrator shall carefully weight such claims, and the evidence presented in favor of them, against a project's negative impacts at the proposed site.
+(8)
+A utilities inventory showing the locations of all water, sewage, drainage and power line easements impacting the proposed tower site.
+(9)
+Any other information which may be requested by the administrator to fully evaluate and review the application and the potential impact of a proposed telecommunications facility.
+(b)
+Tower collocation information submittals. Any person or entity collocating an antenna or antennas which will add no more than ten feet to the height of the tower and related equipment or appurtenances on or around a tower for which a permit has already been issued shall submit the following information only:
+(1)
+The name of the person or entity collocating the antenna.
+(2)
+The name of the owner of the tower.
+(3)
+The tower's permit number.
+(4)
+The location of the tower.
+(5)
+The remaining structural capacity of the tower.
+(6)
+Certification that the antenna and related equipment or appurtenances comply with all current regulations of the FCC.
+(7)
+Such other information identified in subsection (a) of this section as may reasonably be required by the administrator.
+(c)
+Inventory of existing sites. To facilitate the collocation of antennas, each applicant seeking to locate a new tower, alternative tower structure or antenna, or modify any such existing structure shall provide to the administrator an inventory of its existing towers or alternative tower structures. The inventory shall include all such structures that are within the jurisdiction of the city council; and shall include specific information about the location (latitude and longitude coordinates), height, design, tower type and general suitability for antenna collocation of each tower, and other pertinent information as may be required by the administrator. The administrator may make such information available to members of the public, to include, without limitation, other organizations seeking to locate towers or antennas within the city, and in such form and manner as the administrator deems appropriate; provided, however, that the administrator is not, by sharing such information, in any way representing or warranting that such sites are available or otherwise suitable.
+(Ord. No. 2000-1, § I(1.5), 10-3-2000)
+Sec. 66-24. - Administrative approvals.
+(a)
+Generally.
+(1)
+The administrator may administratively approve the uses set forth in section 66-23 as provided by this section. All such uses shall comply with requirements set forth in this article and all other applicable codes and ordinances.
+(2)
+The administrator shall respond to each application within 45 days of its receipt by either approving, approving with conditions, or denying the application. One 45-day extension of this review period may be exercised by the administrator if such additional time is deemed necessary to adequately assess the request. If the administrator fails to respond to the applicant within a maximum of 90 days, the application shall be deemed to be approved.
+(3)
+As part of any administrative approval, the administrator may administratively reduce setback requirements by up to ten percent to compensate for irregularly shaped lots or parcels.
+(4)
+Any decision by the administrator that results in the denial of a request to place, construct, or modify a telecommunications facility shall be in writing and supported by substantial evidence. In addition to the requirements set forth in subsection (d) of this section for uses allowed by administrative approval, the administrator shall consider the applicable factors set forth in this article, to include section 66-25(e), in acting upon an application for administrative approval.
+(b)
+Application; contents; fee. All applications for administrative approval of a permit shall be submitted to the administrator. Each application shall contain as a part thereof detailed plans and specifications as set forth in section 66-23. An application for administrative approval of a permit shall not be accepted for processing without the information required in section 66-23. An application fee shall be charged by the administrator in an amount stated in section 66-28.
+(c)
+Collocation of antennas required. Applicants for the erection of a tower or placement of an antenna shall be required to collocate upon an existing tower or alternative tower structure. An exception to collocation shall only be made if the applicant adequately demonstrates that an existing tower suitable for collocation does not exist in the geographic antenna placement area, and that no suitable alternative tower structure is available as set forth in section 66-22(c).
+(d)
+Uses allowed by administrative approval. The following uses may be approved by the administrator after conducting an administrative review:
+(1)
+If it is adequately demonstrated that antenna collocation, as required in subsection (c) of this section, is not possible for a given geographic antenna placement area, construction of a new tower up to a height of 300 feet, including the placement of additional buildings or other supporting equipment used in connection with said tower or antenna, may be permitted in the following zoning districts:
+a.
+Agricultural (A-1);
+b.
+Agricultural-residential (AR-1); and
+c.
+Industrial (I-1);
+provided, however, that all structures shall meet the setback, screening and buffer requirements contained herein, together with such additional conditions which may be reasonably imposed by the administrator to minimize the adverse effects of such placement on surrounding properties.
+(2)
+So long as the addition of said antenna adds no more than ten feet to the height of the existing alternative tower structure:
+a.
+Installation of an antenna on an existing alternative tower structure in any zoning district, and further including the placement of additional structures or other supporting equipment used in connection with said antenna, provided that if such installation is proposed on an existing alternative tower structure located in zoning districts R-1 through R-4, the applicant shall be required to:
+1.
+Place all additional structures or other supporting equipment within the existing tower compound; and
+2.
+Meet such additional conditions which may be reasonably imposed by the administrator to minimize the adverse effects of such placement on surrounding properties; or
+b.
+Installation of an antenna on an existing county-owned alternative tower structure in any zoning district, provided a lease or similar agreement authorizing the antenna has been approved by the city council.
+(3)
+So long as the addition of said antenna adds no more than ten feet to the height of the existing tower:
+a.
+Installation of an antenna on an existing tower of any height in any zoning district, and further including the placement of additional structures or other supporting equipment used in connection with said antenna, provided that if such installation is proposed on an existing tower located in zoning districts R-1 through R-4, the applicant shall be required to:
+1.
+Place all additional structures or other supporting equipment within the existing tower compound; and
+2.
+Meet such additional conditions which may be reasonably imposed by the administrator to minimize the adverse effects of such placement on surrounding properties; or
+b.
+Installation of an antenna on an existing tower located on property owned, leased or otherwise controlled by the county in any zoning district, and further including the placement of additional buildings or other supporting equipment used in connection with said antenna, provided a lease or similar agreement authorizing the tower has been approved by the city council.
+(4)
+Construction of a new tower up to a height of 300 feet, including the placement of additional buildings or other supporting equipment used in connection with said tower or antenna, if placed upon property owned, leased or otherwise controlled by the county in any zoning district except R-1 through R-4, providing a lease or similar agreement authorizing the tower has been approved by the city council.
+(e)
+Public notice/appeal.
+(1)
+At least 15 days prior to the issuance of a permit for the construction of a tower or antenna as an administratively approved use, except for collocation permits, the administrator shall cause a sign to be conspicuously posted on the property and the publication of a public notice in the newspaper in which sheriff's advertisements appear. Said public notice shall state the nature of the application, height of the proposed structure, street address of the proposed location, or other identifying information necessary to inform the public of the proposed location. The expense of the public notice shall be borne by the applicant.
+(2)
+If during the public notice period a written objection to the permit application is filed, the validity of the application and all pertinent documentation shall be determined by the city council. Said objection must make reference to the specific section of the article which the objector contends is not met and provide supporting documentation therefor. The objection shall be placed on the first available agenda of a regularly scheduled meeting of the city council following the expiration of the 15-day appeal period. The city council shall dispense with the objection by either:
+a.
+A determination that the application is valid and meets all applicable criteria of this article, which shall result in the issuance of a permit as set forth herein.
+b.
+A determination that the application does not satisfy all applicable criteria of this article. Applications so found must, as a result, be processed through the conditional use permit process set forth in section 66-25.
+c.
+Review of the decision of the city council shall be made within 30 days and may be appealed as provided by law.
+(f)
+Appeal of administrative determination. If a permit application for a tower as an administratively permitted use is determined by the administrator not to meet all applicable criteria of this article, the applicant may appeal the determination of the administrator to the governing authority in accordance with the zoning ordinance of the city. The city council shall dispense with the appeal by either:
+(1)
+A determination that the application is valid and meets all applicable criteria of this article, which shall result in the issuance of a permit as set forth herein.
+(2)
+A determination that the application does not satisfy all applicable criteria of this article. Applications which do not satisfy all applicable criteria must, as a result, be processed through the conditional use permit process set forth in section 66-25.
+(3)
+Review of the decision of the city council shall be made within 30 days to a court a of competent jurisdiction.
+(Ord. No. 2000-1, § I(1.6), 10-3-2000)
+Sec. 66-25. - Conditional use permit required.
+(a)
+Generally.
+(1)
+If the proposed location, height, setback or other aspect of a proposed telecommunications facility cannot comply with the minimum requirements established in this article or is otherwise ineligible for administrative approval pursuant to section 66-24, then a conditional use permit shall be required for the construction of a tower or the placement of an antenna in any zoning district. All such uses shall comply with requirements set forth in this article and all other applicable codes and ordinances, unless the applicant can show that the denial of a permit in such a location will cause a significantly harmful and permanent degradation of service which cannot be overcome by any other means including planned or potential locations which would provide the same or similar coverage or capacity.
+(2)
+In granting a conditional use permit, the city council may impose additional conditions to the extent that it concludes such conditions are necessary to minimize adverse effects from the proposed tower on adjoining or nearby properties as set out in subsection (e) of this section.
+(b)
+Application; contents; fee. All applications for conditional use permits shall be submitted to the administrator who shall forward the same to the city council for its consideration. Each application shall contain as a part thereof detailed plans and specifications as set forth in section 66-23. An application for a conditional use permit shall not be accepted for processing without the information required in section 66-23. An application fee shall be charged by the administrator in the amount stated in section 66-28.
+(c)
+Collocation of antennas required. Applicants for the erection of a tower or antenna, except amateur radio operators, shall be required to collocate upon an existing tower structure. An exception to collocation shall only be made if the applicant adequately demonstrates that an existing tower suitable for collocation does not exist in the geographic antenna placement area, and that no suitable alternative tower structure is available as set forth in section 66-22(c).
+(d)
+Public hearing. Before taking action upon the proposed conditional use permit, the city council shall hold a public hearing on the matter. At least 15 days prior to the date of the public hearing, the city council shall cause the following notice requirements to be instituted by the administrator:
+(1)
+A sign shall be erected in a conspicuous location on or adjacent to the property under consideration. The sign shall state the time, place, location, and purpose of the public hearing.
+(2)
+A letter shall be sent by certified mail, return receipt requested, to all property owners of record of abutting parcels, and to all property owners of residentially-used parcels lying in whole or in part within a distance of two times the height of the proposed tower as measured from its base (as such property owners may be reasonably ascertained by the administrator), giving notice of the public hearing. The letter shall state the same information as required for the sign.
+(3)
+A public notice shall be published in the newspaper in which the sheriff's advertisements appear once a week for two consecutive weeks prior to the date of the hearing.
+(4)
+Subsections (d)(2) and (3) of this section shall be the responsibility of, and at the expense of, the applicant.
+(e)
+Considerations in approval or denial of conditional use permits. Any denial of a request to place, construct or modify a telecommunications facility shall be in writing and supported by substantial evidence contained in a written record. The following factors may be taken into consideration in acting upon a conditional use permit application under the provisions of this article:
+(1)
+The height and setbacks of the proposed tower, antenna, and equipment and structures in support thereof;
+(2)
+The proximity of the tower, antenna, and equipment and structures in support thereof to residential structures and residential district boundaries;
+(3)
+The nature of uses on adjacent and nearby properties;
+(4)
+The surrounding topography;
+(5)
+The surrounding tree coverage and foliage;
+(6)
+The design of the tower, antenna, and equipment and structures in support thereof, with particular reference to design characteristics that have the effect of reducing or eliminating visual obtrusiveness;
+(7)
+The proposed ingress and egress;
+(8)
+The availability of suitable existing towers or other structures for antenna collocation;
+(9)
+The impact of the proposed tower, antenna, and equipment and structures in support thereof upon scenic views and visual quality of the surrounding area;
+(10)
+The needs of the applicant as balanced against the detrimental effects on surrounding properties;
+(11)
+The impact of the proposed tower or antenna on adjacent and nearby properties; and
+(12)
+Such other considerations as may be implicated by the provisions of this article.
+(f)
+Requirements for issuance of conditional use permit. The conditional use permit may be issued by the city council only upon satisfaction of the following requirements:
+(1)
+A proper application filed in accordance with the requirements of section 66-23;
+(2)
+The application is otherwise in compliance with the conditions for the proposed conditional use required by this section;
+(3)
+The applicant complies with the conditions imposed by the city council for the purpose of reducing the harmful effects of the use on surrounding uses and ensuring compatibility with surrounding uses;
+(4)
+The city council determines that the benefits and need for the proposed conditional use are greater than any possible depreciating effects or damages to neighboring or nearby properties; and
+(5)
+All fees and other expenses required have been paid in full.
+(g)
+Independent expert review. The administrator or city council may engage a licensed professional engineer or other qualified industry professional as an independent expert to review any of the materials submitted by an applicant for a conditional use permit and render an opinion regarding any concerns about the proposal, including, but not limited to, structural integrity and the feasibility of alternative sites or collocation; provided, however, that prior to seeking the review of an independent expert, the zoning administrator or city council shall convey its concerns to the applicant in writing and shall allow the applicant a reasonable opportunity to address those concerns. If the applicant is unable to address those concerns to the satisfaction of the administrator or city council, the applicant shall be allowed a reasonable amount of time, not to exceed 30 days, following the receipt of the letter to such effect, in which to modify the application to alleviate the administrator's or city council's concerns or withdraw the application altogether. If the applicant fails to so modify or withdraw the application within the required time, the administrator or city council may proceed to engage a licensed professional engineer to conduct the independent expert review and the expert's reasonable fees, costs and expenses shall be paid by the applicant; provided that the administrator or city council shall give the applicant written notice of its intent to do so. The expert's opinion shall not necessarily be determinative, but shall be a significant factor to be considered in granting or denying the application. No permit shall be issued until the applicant has paid all such fees, costs and expenses incurred under this section.
+(h)
+Resubmittal of conditional use application. An application for a conditional use permit which has been denied shall not be resubmitted for a period of six months, and then only if the applicant can document a substantial change in need for a tower or antenna at the same location.
+(Ord. No. 2000-1, § I(1.7), 10-3-2000)
+Sec. 66-26. - Towers and antennas in residential and environmentally fragile areas.
+(a)
+Placement of towers and antenna in residential areas. Notwithstanding any other provision of this article, no tower (to also include the use of an alternative tower structure) shall be permitted in zoning districts R-1 through R-4 or within 2,000 feet of the boundary line of any property zoned R-1 through R-4 or any single-family residential dwelling located upon property not zoned R-1 through R-4 unless the applicant can show that the denial of a permit in such a location will cause a significantly harmful and permanent degradation of service that cannot be overcome by any other means including, without limitation, planned or potential locations which would provide the same or similar coverage or capacity; provided, however, that a tower (or use of an alternative tower structure) may, absent such showing, be permitted within 2,000 feet of any residential dwelling located on property not zoned R-1 through R-4 upon the written consent of the owner of such residentially used property. Applications for placement of a tower (or use of an alternative tower structure) within 2,000 feet of the external boundary line of any property zoned R-1 through R-4 shall be available only through the conditional use permit process.
+(b)
+Placement of towers or antennas in DM-1 district. Notwithstanding any other provision of this article, no tower or antenna shall be permitted in a zoning district classified dunes and marshland (DM-1).
+(Ord. No. 2000-1, § I(1.8), 10-3-2000)
+Sec. 66-27. - Removal of abandoned towers and antennas.
+(a)
+Notice of abandoned antenna and structures. The owner or lessee of a tower or antenna shall promptly notify the administrator of its intent to abandon, or the abandonment of, any tower or antenna.
+(b)
+Removal of abandoned antennas and towers. Any tower, antenna, or other equipment and structure in support thereof that is not operated for a continuous period exceeding 12 months shall be considered abandoned, and the owner of such antenna or tower shall remove the structure within 90 days of such abandonment. If said tower or antenna is not removed within said 90 days, the city council may, in the manner provided in this Code governing unsafe and abandoned structures, take such action as may be deemed necessary to remove, or cause to be removed, such tower, antenna, or other equipment and structure in support thereof at the owner's expense. If there are two or more users of a single tower, then this provision shall not become effective until all users cease utilizing the tower.
+(Ord. No. 2000-1, § I(1.9), 10-3-2000)
+Sec. 66-28. - Application and permit fees.
+The following fees will be required of any applicant submitting an application under this article:
+(1)
+Administrative approval of new tower construction. An application for construction of a new tower up to a height of 300 feet in A-1, AR-1 or I-1 zoning districts, otherwise eligible for administrative approval, shall be $1,000.00.
+(2)
+Administrative approval of antenna location on tower or alternative tower structure. An application for location of an antenna on an existing tower or alternative tower structure (so long as the addition of said antenna adds no more than ten feet to the height of the existing tower or structure), otherwise eligible for administrative approval, shall be $250.00.
+(3)
+Conditional use permit for construction of new tower. An application for construction of a new tower (including the placement of additional buildings or other supporting equipment used in connection with said tower or antenna) not eligible for administrative approval shall be $2,000.00.
+(4)
+Conditional use permit for location of antenna on tower or alternative tower structure. An application for location of an antenna on an existing tower or alternative tower structure not eligible for administrative approval shall be $500.00.
+(5)
+Building permit fees. In addition to the application fees set forth herein, the applicable construction and utility inspection permit fees in effect at the time of the application for the permit shall apply. The foregoing permit fees shall also be in addition to any and all other costs and expenses required by this article to be borne by the applicant.
+(Ord. No. 2000-1, § I(1.10), 10-3-2000)

@@ -1,0 +1,702 @@
+Chapter 105 - ENVIRONMENTAL CONTROL
+ARTICLE I. - IN GENERAL
+
+Secs. 105-1—105-18. - Reserved.
+ARTICLE II. - STORM DRAINAGE
+
+Sec. 105-19. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+As-built drawings means amended plans specifying the location, dimensions, elevations, capacities and operational capabilities of storm drainage facilities and structures as they have been constructed.
+Construction means any alteration of land or real property for the purpose of achieving its development or changed use, including, without limitation, any preparation for, building of, or erection of a structure, or any excavation, grading, paving or similar activities.
+Detention facility means a facility which provides for storage of stormwater runoff and the controlled release of this runoff during and after a flood or storm event.
+Developer means any person who acts in the person's own behalf or as the agent of an owner of property and engages in alteration of land, buildings or vegetation in preparation for or in conjunction with construction activity. The developer may also be referred to as the owner-developer.
+Development means any action in preparation for or in conjunction with construction activities which results in alteration of land, buildings or vegetation, including, but not limited to, the construction of buildings or other structures, mining, dredging, filling, grading, paving, excavating or drilling operations.
+Development site means the area of improved or unimproved real estate to be altered or changed by the act of development.
+Drainage means the general term applied to the removal of surface and subsurface water from a given area, either by gravity or by pumping. The term "drainage" is commonly applied herein to surface water.
+Drainage plan means a plan prepared using appropriate and commonly accepted engineering standards which specifies the means for alteration or development of a drainage system.
+Drainage study means a study, prepared by a professional engineer registered to practice in the state, which includes drainage plans, computations and other information required by section 105-24.
+Drainage system means the surface and subsurface system for the removal of water from land, including both the natural elements of streams, marshes, swales and ponds, whether of an intermittent or continuous nature, and the manmade elements including, but not limited to, culverts, ditches, channels, storm detention facilities and the storm drainage system.
+Flood means a general and temporary condition of partial or complete inundation of normally dry land areas from the overflow of inland waters and/or the unusual and rapid accumulation or runoff of surface waters from any source.
+Live detention means that quantity of water capable of being effectively contained by a designated facility for stormwater storage for a specified period of time.
+Maintenance of detention facility means preserving the enclosed walls, pipes, impounding embankments and other elements of a detention facility in good condition, ensuring structural soundness, functional adequacy and freedom from sediment and correcting any unforeseen problems from erosion or other natural or manmade actions.
+Owner or owner-developer means the person in whom is vested the fee ownership, dominion, title of property; the proprietor. The term "owner" or "owner-developer" may also include a tenant, if chargeable under the lease for maintenance of the property and any agent of the owner or tenant including, without limitation, a developer. The term "person" means and includes, without limitation, an individual, firm, corporation, partnership or other entity.
+Runoff means the portion of precipitation on the land which reaches the drainage system.
+Runoff coefficient means the ration of runoff to rainfall.
+Stream means natural, running water flowing continuously or intermittently in a channel on or below the surface of the ground. A stream may also be referred to as a creek.
+Structure means anything constructed or erected, the use of which requires a location on the ground, or attached to something having a location on the ground, including, but not limited to, buildings, pave surfaces such as parking lots, drives and walkways, tennis courts, fences and swimming pools.
+(Code 1977, § 9½-3; Ord. No. 00-09, § 1.3, 5-2-2000)
+Sec. 105-20. - Introduction and statement of policy.
+(a)
+Most types of urban development involve the construction of buildings and paved surfaces which lead to an increase in stormwater runoff. In order to minimize the impact from stormwater runoff caused by development, the city adopted the ordinance from which this article is derived in 2000. This article will require that new developments provide stormwater detention systems to control stormwater so that the rate of stormwater runoff is not increased. In other words, postdevelopment stormwater runoff rates should not exceed predevelopment stormwater runoff rates.
+(b)
+In order to provide an orderly and progressive improvement to the city storm drainage problems, the city is adopting a policy for controlling the stormwater runoff caused by development.
+(c)
+With the adoption of the ordinance from which this article is derived, it becomes the policy of the city to:
+(1)
+Require storm detention facilities for most types of new development; and
+(2)
+Require that the peak release rate of stormwater runoff from all developments, where stormwater detention is required, not exceed the peak release rate from the development site in its natural undeveloped state.
+(Code 1977, § 9½-1; Ord. No. 00-09, § 1.1, 5-2-2000)
+Sec. 105-21. - Purposes.
+The purposes of this article are as follows:
+(1)
+To recognize that the city is continually undergoing topographical changes due to development and redevelopment activities consisting of new construction or additions to existing facilities. These changes result in additional stormwater runoff due to land area being paved, roofed, or otherwise made impervious.
+(2)
+To recognize that development or redevelopment which caused stormwater runoff not only compounds existing drainage problems but also creates new problems, and that the resolution of these problems will require the joint efforts or the city, developers, and property owners.
+(3)
+To recognize the necessity of establishing guidelines, design requirements, rules and regulations, etc., for the resolution of these problems by formulating and adopting the storm drainage regulations contained in this article.
+(4)
+To assure the city's continued eligibility under the National Flood Insurance Program, by instituting effective drainage controls.
+(5)
+To provide developers and property owners with general information as to minimum stormwater runoff requirements that will be necessary for new developments or additions to existing facilities.
+(6)
+To provide design engineers with general basic design formulas and data for their use and as guidelines in designing storm drainage systems.
+(7)
+To reduce soil erosion and sedimentation in creeks, streams, ditches, etc., by incorporating effective soil erosion and sedimentation plans into the storm drainage plans.
+(Code 1977, § 9½-2; Ord. No. 00-09, § 1.2, 5-2-2000)
+Sec. 105-22. - Administration, inspection and enforcement.
+The city engineer is designated as the official responsible for the administration of this article for the city. The city engineer or his authorized representative shall be responsible for reviewing and approving the development plans, on-site inspections of construction and maintenance, initiation of enforcement actions when violations occur. The following procedures and/or requirements shall be followed:
+(1)
+Application.
+a.
+Submittal. The owner-developer or design engineer shall submit three copies of plans and two sets of computations to the city engineer.
+b.
+Application fees. A fee shall be charged for review of each application, according to the schedule adopted by the city commission
+c.
+Review. The city engineer will review plans and computations for compliance with this article.
+d.
+Disapproval. Plans not meeting all requirements will be disapproved. Disapproved plans will be returned along with statements as to reasons for disapproval. After plans are revised they shall be resubmitted to the city engineer for review.
+e.
+Approval. After approval, two approved copies of the plans and one copy of the computations will be returned to the design engineer or owner/developer. One copy of the approved plan and computations shall remain on file in the office of the city engineer.
+f.
+Drainage permit. The city engineer will issue a separate permit for the construction and installation of storm drainage facilities only. The permit will be issued to the owner/developer and he shall be deemed the party responsible for compliance with the plans and this article. The construction permit for the entire project will be issued by the city and permit fees for the drainage construction included in fee for the entire project. The city will not issue the construction permit until the drainage permit has been issued. No construction work shall commence until a building permit has been issued by the city.
+(2)
+Inspection.
+a.
+The city engineer or his authorized representative or any other authorized city representative shall make inspections as necessary to determine if construction and maintenance conforms to the plans, studies and other related ordinances.
+b.
+No person shall refuse entry or access to any authorized city representative who requests entry for purposes of making inspections, nor shall any person obstruct, hamper or interfere with any such representative while in the process of carrying out his official duties.
+(3)
+Violation.
+a.
+If, through inspection, it is determined that construction or maintenance does not comply with the plans or the owner-developer has not complied with other requirements of this article a written notice to comply shall be served upon the owner-developer. The notice shall set forth the deficiencies and actions necessary to comply with the plans or other requirements of this article, and shall state the time, not to exceed 30 days, within which such actions must be completed.
+b.
+If the owner-developer fails to comply within the stated time, he will be deemed in violation of this article.
+(4)
+Enforcement. The city engineer, or his designee, may, upon any owner/developer being deemed in violation, cause a citation to be issued to said person for his appearance in the municipal court. Said citation shall state nature of violation and time and date that he must appear. Such person will be subject to punishment as set forth in section 1-9.
+(5)
+Appeals. In the event the owner/developer and the city engineer cannot reach a satisfactory resolution to disputed points within the drainage plans, the plans shall be deemed disapproved by the city engineer. The city engineer shall immediately notify the owner/developer of such disapproval. The owner/developer shall have ten days from the city engineer's disapproval of such disapproval to file an appeal to be submitted to the city manager. If such action is not taken within a ten-day period, the owner/developer shall forfeit the right to appeal as provided in this article and the plans will be deemed disapproved until plans have been revised and resubmitted to the city engineer for a review.
+a.
+Step 1.
+1.
+Appeals submitted to the city manager shall be written for presentation which supports the owner/developer's position as to why certain regulations should be waived or modified, or other reason why the owner/developer disagrees with the decision of the city engineer disapproving said plans.
+2.
+Upon receipt of the appeal, the city manager will review and meet with both the city engineer and the owner/developer and hear both sides. Following the presentation, the city manager will render a decision within 15 days.
+b.
+Step 2.
+1.
+Following receipt of the city manager's opinion, the owner/developer has 15 days to appeal the city manager's decision to the city commission. The notice of appeal shall be filed with the city clerk.
+2.
+The appeal to the city commission shall be on the evidentiary record as developed before the appeal to the city commission. The city commission shall not hear or allow additional evidence. The owner/developer and the city manager may submit a written argument or brief and may request oral argument. The decision to grant or deny oral argument shall be at the discretion of the city commission.
+The city commission shall review the record and evidence at either a special called meeting or a regularly scheduled meeting within 20 days of the filing of the notice of appeal. The city commission shall render a decision within a reasonable period of time thereafter. The decision of the city commission shall be the final decision of the city.
+(Code 1977, § 9½-7; Ord. No. 00-09, § 1.7, 5-2-2000)
+Sec. 105-23. - Drainage requirements.
+(a)
+Design of all development (except single-family residential) shall include the following signed certification from a Georgia-licensed Professional Engineer:
+"I, (Name of Professional), a Registered (Professional Engineer / Landscape Architect) in the State of Georgia, hereby certify that the grading and drainage plans for the project known as (Project Name) have been prepared under my supervision, and, state that in my opinion, the construction of said project will not produce storm drainage conditions that will cause damage or adversely affect the surrounding properties. This (day) day of (Month), (Year)."
+(b)
+The City of Waycross hereby adopts the Georgia Stormwater Management Manual, Vol. 2: Technical Handbook by reference, including all standards, criteria, methodologies, and requirements included therein. This document is referred to as "GSMM" in the city's ordinances.
+(c)
+Peak flow attenuation: Unless exempt from the requirements of this article, all new developments or additions to existing developments shall comply with the following: peak stormwater flows discharging from the site in the post-construction condition shall be equal to or less than those flows in the pre-development condition for the following events: 2-year, 24-hour; 10-year, 24-hour; 25-year, 24-hour.
+(d)
+The developer shall submit a drainage study, prepared and certified by a professional engineer, registered to practice in the state, and shall include plans, computations, and other information as required in section 105-24.
+(e)
+Developments having exemptions from peak flow attenuation requirements are as follows:
+(1)
+Developments disturbing less than one acre that also create less than 5,000 square feet of impervious surface. The nature of impervious surface shall be up to the discretion of the city.
+(2)
+Single-family residential lots presently undeveloped. These lots, if used for one single-family residential structure, will be exempt from complying with the requirements of this article.
+(3)
+Developments having special conditions shall comply with the following: Any development consisting of, but not limited to, additions to existing structures, new separate structures, paving, filling, excavating, grading, etc., in floodplains, are to be discouraged. Should an owner or developer, however, consider development of such sites he will be required, in addition to this article, to comply with the National Flood Insurance Program regulations. The city has on file in the offices of the city engineer a flood hazard boundary map, latest revision furnished by the Department of Housing and Urban Development, Federal Insurance Administration. This map shows the sections of creeks within the city which are included in the National Flood Insurance Program.
+(f)
+The drainage study shall show what effects the developments will have both upstream and downstream. The city shall have the right to require a ten percent downstream analysis (as described by Minimum Standard # 6 in the GSMM) from the developer/engineer at any point during the review process.
+(g)
+The lowest finished floor level, shall be set at least two feet above the 100-year flood level. Parking lots, carports, garages, and driveways shall have the lowest elevation set a minimum of one foot above the 100-year flood level. Floodproofing of residential and nonresidential structures is acceptable under certain conditions, as may be determined by the city engineer.
+(Code 1977, § 9½-4; Ord. No. 00-09, § 1.4, 5-2-2000; Ord. No. 00-17, § 1, 7-18-2000; Ord. No. O21-28(1) , § 1, 8-17-2021; Ord. No. O21-29(2) , § 1, 12-21-2021)
+Sec. 105-24. - Design standards.
+The following requirements shall be used for the design and review of site development, storm drain pipes, culverts and detention facilities.
+(1)
+Runoff/peak flow. Runoff/peak flow calculations shall be calculated in accordance with the following:
+Detention-related calculations shall utilize the SCS Method for 24-hour durations. Pipe capacity flow calculations with drainage areas less than 50 acres may utilize the Rational Method or the SCS Method (24-hour storm duration). Pipe flow calculations with drainage areas greater than 50 acres shall utilize the SCS Method only (24-hour storm duration).
+(2)
+Rainfall intensity. Rainfall data, including tables and intensity-duration curves, shall be derived from the latest information available from NOAA for the City of Waycross.
+(3)
+Pipe selection. Manning's Formula shall be used to select size of pipe and slopes (grade).
+(4)
+Detention facility design. The reservoir routing method of design shall be used for determining the required storage volume and design of the outlet control structure of the detention facility. The peak stormwater runoff release rate for the proposed development shall not exceed the peak stormwater runoff rate from the development site in pre-development state for all storm intensities from the two-year storm up to and including the 25-year storm. Detention facility outlet control structures and other drainage improvements shall be located and designed to prevent erosion damage to adjacent property owners.
+(5)
+All detention facilities shall be equipped with an emergency spillway and designed in accordance with the GSMM. Emergency spillways shall be constructed of rip-rap.
+(6)
+All development (except single-family residential) shall include a stormwater conveyance system capable of containing and conveying the 25-year event without surcharging. Analysis shall include all flows collected by the drainage system, regardless of whether those flows originate onsite or offsite. Storm drainage profiles shall be provided for all pipes showing the hydraulic grade of the 25-year design event.
+(7)
+Connection to existing storm drains. The drainage study shall show what effect development will have on existing drainage facilities when connection is being proposed. If discharge is not made to an existing facility then study shall show what the effect will be on the first drainage facility (pipe, culvert, etc.) downstream from the point of discharge.
+(8)
+Underground detention facilities will be considered on a case-by-case basis at the discretion of the city.
+(9)
+All stormwater discharge areas shall be equipped with rip-rap aprons to provide energy dissipation. Rip-rap aprons shall be designed in accordance with the GSMM.
+(10)
+Plans. Drainage study shall include a site plan showing the drainage facilities and the following general information:
+a.
+Scale. Site plan, one-inch equals 20 feet. Other scales may be acceptable if pre-approved by the city engineer.
+b.
+Contours. One-foot increment.
+c.
+Elevation datum. Mean sea level.
+d.
+Elevations. Pipes, spillways, head walls, pavement, etc.
+e.
+Drainage basins. Plans shall show both pre-development and post-development drainage basins.
+f.
+Details. Construction details of manholes, catchbasins, head walls, grate size, spillways, dam construction, outlet control structures, etc.
+g.
+Fencing. Permanent fencing at least six feet in height shall be required around all detention facilities having a maximum water depth of more than three and one-half feet or a bank with slope ratio greater than one and one-half horizontal to one vertical. Fencing shall be designed, installed and maintained to allow the free flow of runoff into the detention facility. Fencing shall include a gate of sufficient size to permit entrance of equipment necessary to allow periodic maintenance. Fencing may be waived by the city engineer in nonresidential developments where the detention facility is 500 feet or more from a residence and in residential developments where detention is provided in natural areas such as stream channels and where the fencing would affect stream flow or cause other environmental damage.
+h.
+Floodplain. One hundred-year flood elevation and contour, floor elevations, basement or crawl space elevations, driveway and parking lot elevations, garage or carport elevations, etc.
+i.
+Engineer's seal. All plans shall have the seal and signature of the design engineer. The design engineer shall be a professional engineer registered to practice in the state.
+j.
+Soil erosion control. Plans shall comply with the Georgia Soil Erosion and Sedimentation Control Act of 1975 as amended and Georgia Rule 391-3-7 Erosion and Sedimentation Control, and acts and regulations amending or supplementing such act and such regulations.
+(11)
+Certification. The drainage study shall be prefaced with a signed certification by the design engineer. A sample of the storm drainage certificate is included as Chart 1. (Chart 1 is not set out herein, but is on file and available for reference in the office of the city clerk.)
+(12)
+Computations. The drainage study shall include runoff computations, curves, volume computations of detention facilities for at least five storms (including the two-year storm, the 100-year storm and any three storms in-between), and floodplain cross sections and computations where filling and excavation is proposed in a floodplain.
+(13)
+Final certification at completion. At completion of project the owner shall have the design engineer inspect and furnish as-built drawings of the detention facilities and a certification that facilities were constructed in accordance with the plans.
+(14)
+Changes. No changes will be permitted in drainage structures, grading, elevations, etc., unless submitted by the design engineer and approved by the city engineer.
+(15)
+Runoff coefficients and curve cumbers. The runoff coefficient (C value) and curve number (CN value), shall be obtained from the GSMM or other sources as approved by the city engineer.
+(16)
+Time of concentration. Time of concentration shall be determined in accordance with methods as described in the GSMM. In no case shall a time of concentration value be less than five minutes.
+(Code 1977, § 9½-5; Ord. No. 00-09, § 1.5, 5-2-2000; Ord. No. O21-29(2) , § 1, 12-21-2021)
+Sec. 105-25. - Maintenance of private storm drainage facilities.
+The owner-developer shall be responsible for the maintenance of storm drainage and detention facilities during the grading, construction and following final approval of the completed project. This maintenance obligation shall be binding on future owners, successors and assigns of the property. The city engineer or his authorized representative may inspect such facilities at any reasonable time and notify the owner-developer of any maintenance requirements or deficiencies to be corrected.
+(Code 1977, § 9½-6; Ord. No. 00-09, § 1.6, 5-2-2000)
+Secs. 105-26—105-54. - Reserved.
+ARTICLE III. - SOIL EROSION, SEDIMENTATION AND POLLUTION CONTROL[1]
+
+Footnotes:
+--- (1) ---
+State Law reference— Control of soil erosion and sedimentation, O.C.G.A. § 12-7-1 et seq.
+
+Sec. 105-55. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Best management practices (BMPs) includes sound conservation and engineering practices to prevent and minimize erosion and resultant sedimentation, which are consistent with, and no less stringent than, those practices contained in the "Manual for Erosion and Sediment Control in Georgia" published by the commission as of January 1 of the year in which the land disturbing activity was permitted.
+Board means the board of natural resources.
+Buffer means the area of land immediately adjacent to the banks of state waters in its natural state of vegetation, which facilitates the protection of water quality and aquatic habitat.
+Certified personnel means a person who has successfully completed the appropriate certification course approved by the Georgia Soil and Water Conservation Commission (GSWCC).
+Commission means the Georgia Soil and Water Conservation Commission (GSWCC).
+CPESC means certified professional in erosion and sediment control with current certification by EnviroCert, Inc., which is also referred to as CPESC or CPESC, Inc.
+Cut means a portion of land surface or area from which earth has been removed or will be removed by excavation; the depth below original ground surface to the excavated surface. Also known as "excavation."
+Department means the state department of natural resources (DNR).
+Design professional means a professional licensed by the state in the field of: engineering, architecture, landscape architecture, forestry, geology, or land surveying; or a person that is a certified professional in erosion and sediment control (CPESC) with a current certification by EnviroCert, Inc. Design Professionals shall practice in a manner that complies with applicable Georgia law governing professional licensure.
+Director means the director of the environmental protection division or an authorized representative.
+District means the Satilla Soil and Water Conservation District.
+Division means the environmental protection division (EPD) of the department of natural resources.
+Drainage structure means a device composed of a virtually nonerodible material such as concrete, steel, plastic or other such material that conveys water from one place to another by intercepting the flow and carrying it to a release point for stormwater management, drainage control, or flood control purposes.
+Erosion means the process by which land surface is worn away by the action of wind, water, ice or gravity.
+Erosion, sedimentation and pollution control plan means a plan required by the Erosion and Sedimentation Act, O.C.G.A. § 12-7-1 et seq., that includes, as a minimum protections at least as stringent as the state general permit, best management practices, and requirements in section 105-57(c).
+Fill means a portion of land surface to which soil or other solid material has been added; the depth above the original ground surface or an excavation.
+Final stabilization means all soil disturbing activities at the site have been completed, and that for unpaved areas and areas not covered by permanent structures and areas located outside the waste disposal limits of a landfill cell that has been certified by EPD for waste disposal, 100 percent of the soil surface is uniformly covered in permanent vegetation with a density of 70 percent or greater, or landscaped according to the plan (uniformly covered with landscaping materials in planned landscape areas), or equivalent permanent stabilization measures as defined in the manual (excluding a crop of annual vegetation and seeding of target crop perennials appropriate for the region). Final stabilization applies to each phase of construction.
+Finished grade means the final elevation and contour of the ground after cutting or filling and conforming to the proposed design.
+Grading means altering the shape of ground surfaces to a predetermined condition; this includes stripping, cutting, filling, stockpiling and shaping or any combination thereof and shall include the land in its cut or filled condition.
+Ground elevation means the original elevation of the ground surface prior to cutting or filling.
+Land disturbing activity means any activity which may result in soil erosion from water or wind and the movement of sediments into state waters or onto lands within the state, including, but not limited to, clearing, dredging, grading, excavating, transporting, and filling of land but not including agricultural practices as described in section 105-56(5).
+Larger common plan of development or sale means a contiguous area where multiple separate and distinct construction activities are occurring under one plan of development or sale. For the purposes of this definition, the term "plan" means an announcement; piece of documentation such as a sign, public notice or hearing, sales pitch, advertisement, drawing, permit application, zoning request, or computer design; or physical demarcation such as boundary signs, lot stakes, or surveyor markings, indicating that construction activities may occur on a specific plot.
+Local issuing authority means the governing authority of any county or municipality which is certified pursuant to O.C.G.A. § 12-7-8(a).
+Metropolitan River Protection Act (MRPA) means a state law referenced as O.C.G.A. § 12-5-440 et seq., which addresses environmental and developmental matters in certain metropolitan river corridors and their drainage basins.
+Natural ground surface means the ground surface in its original state before any grading, excavation or filling.
+Nephelometric turbidity units (NTU) means numerical units of measure based upon photometric analytical techniques for measuring the light scattered by finely divided particles of a substance in suspension. This technique is used to estimate the extent of turbidity in water in which colloidally dispersed or suspended particles are present.
+NOI means a notice of intent form provided by EPD for coverage under the state general permit.
+NOT means a notice of termination form provided by EPD to terminate coverage under the state general permit.
+Operator means the party that has:
+(1)
+Operational control of construction project plans and specifications, including the ability to make modifications to those plans and specifications; or
+(2)
+Day-to-day operational control of those activities that are necessary to ensure compliance with stormwater pollution prevention plan for the site or other permit conditions, such as a person authorized to direct workers at a site to carry out activities required by the stormwater pollution prevention plan or to comply with other permit conditions.
+Outfall means the location where stormwater in a discernible, confined and discrete conveyance, leaves a facility or site or, if there is a receiving water on site, becomes a point source discharging into that receiving water.
+Permit means the authorization necessary to conduct a land disturbing activity under the provisions of this article.
+Person means any individual, partnership, firm, association, joint venture, public or private corporation, trust, estate, commission, board, public or private institution, utility, cooperative, state agency, municipality or other political subdivision of the state, any interstate body or any other legal entity.
+Phase or phased means subparts or segments of construction projects where the subpart or segment is constructed and stabilized prior to completing construction activities on the entire construction site.
+Project means the entire proposed development project regardless of the size of the area of land to be disturbed.
+Properly designed means designed in accordance with the design requirements and specifications contained in the "Manual for Erosion and Sediment Control in Georgia" (manual) published by the Georgia Soil and Water Conservation Commission as of January 1 of the year in which the land disturbing activity was permitted and amendments to the manual as approved by the commission up until the date of NOI submittal.
+Roadway drainage structure means a device such as a bridge, culvert, or ditch, composed of a virtually nonerodible material such as concrete, steel, plastic, or other such material that conveys water under a roadway by intercepting the flow on one side of a traveled roadway consisting of one or more defined lanes, with or without shoulder areas, and carrying water to a release point on the other side.
+Sediment means solid material, both organic and inorganic, that is in suspension, is being transported, or has been moved from its site of origin by wind, water, ice, or gravity as a product of erosion.
+Sedimentation means the process by which eroded material is transported and deposited by the action of water, wind, ice or gravity.
+Soil and water conservation district approved plan means an erosion, sedimentation and pollution control plan approved in writing by the Satilla Soil and Water Conservation District.
+Stabilization means the process of establishing an enduring soil cover of vegetation by the installation of temporary or permanent structures for the purpose of reducing to a minimum the erosion process and the resultant transport of sediment by wind, water, ice or gravity.
+State general permit means the National Pollution Discharge Elimination System (NPDES) general permit or permits for stormwater runoff from construction activities as is now in effect or as may be amended or reissued in the future pursuant to the state's authority to implement the same through federal delegation under the Federal Water Pollution Control Act, as amended, 33 USC 1251 et seq., and O.C.G.A. § 12-5-30(f).
+State waters means any and all rivers, streams, creeks, branches, lakes, reservoirs, ponds, drainage systems, springs, wells, and other bodies of surface or subsurface water, natural or artificial, lying within or forming a part of the boundaries of the state which are not entirely confined and retained completely upon the property of a single individual, partnership, or corporation.
+Structural erosion, sedimentation and pollution control practices means practices for the stabilization of erodible or sediment-producing areas by utilizing the mechanical properties of matter for the purpose of either changing the surface of the land or storing, regulating or disposing of runoff to prevent excessive sediment loss. Examples of structural erosion and sediment control practices are riprap, sediment basins, dikes, level spreaders, waterways or outlets, diversions, grade stabilization structures and sediment traps, etc. Such practices can be found in the publication "Manual for Erosion and Sediment Control in Georgia."
+Trout streams means all streams or portions of streams within the watershed as designated by the wildlife resources division of the state department of natural resources under the provisions of the Georgia Water Quality Control Act, O.C.G.A. § 12-5-20, in the rules and regulations for water quality control, chapter 391-3-6 at www.epd.georgia.gov. Streams designated as primary trout waters are defined as water supporting a self-sustaining population of rainbow, brown or brook trout. Streams designated as secondary trout waters are those in which there is no evidence of natural trout reproduction, but are capable of supporting trout throughout the year. First order trout waters are streams into which no other streams flow except springs.
+Vegetative erosion and sedimentation control measures means measures for the stabilization of erodible or sediment-producing areas by covering the soil with:
+(1)
+Permanent seeding, sprigging or planting, producing long-term vegetative cover;
+(2)
+Temporary seeding, producing short-term vegetative cover; or
+(3)
+Sodding, covering areas with a turf of perennial sod-forming grass.
+Such measures can be found in the publication "Manual for Erosion and Sediment Control in Georgia."
+Watercourse means any natural or artificial watercourse, stream, river, creek, channel, ditch, canal, conduit, culvert, drain, waterway, gully, ravine, or wash in which water flows either continuously or intermittently and which has a definite channel, bed and banks, and including any area adjacent thereto subject to inundation by reason of overflow or floodwater.
+Wetlands means those areas that are inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+(Code 1977, § 32½-2; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012; Ord. No. O18-10 , § 1, 8-7-2018)
+Sec. 105-56. - Exemptions.
+This article shall apply to any land disturbing activity undertaken by any person on any land except for the following:
+(1)
+Surface mining, as the same is defined in O.C.G.A. § 12-4-72, "The Georgia Surface Mining Act of 1968."
+(2)
+Granite quarrying and land clearing for such quarrying.
+(3)
+Such minor land disturbing activities as home gardens and individual home landscaping, repairs, maintenance work, fences, and other related activities which result in minor soil erosion.
+(4)
+The construction of single-family residences, when such construction disturbs less than one acre and is not a part of a larger common plan of development or sale with a planned disturbance of equal to or greater than one acre and not otherwise exempted under this subsection; provided, however, that construction of any such residence shall conform to the minimum requirements as set forth in O.C.G.A. § 12-7-6 and this subsection. For single-family residence construction covered by the provisions of this subsection, there shall be a buffer zone between the residence and any state waters classified as trout streams pursuant to O.C.G.A. § 12-5-20 et seq., of the Georgia Water Quality Control Act. In any such buffer zone, no land disturbing activity shall be constructed between the residence and the point where vegetation has been wrested by normal stream flow or wave action from the banks of the trout waters. For primary trout waters, the buffer zone shall be at least 50 horizontal feet, and no variance to a smaller buffer shall be granted. For secondary trout waters, the buffer zone shall be at least 50 horizontal feet, but the director may grant variances to no less than 25 feet. Regardless of whether a trout stream is primary or secondary, for first order trout waters, which are streams into which no other streams flow except for springs, the buffer shall be at least 25 horizontal feet, and no variance to a smaller buffer shall be granted. The minimum requirements of O.C.G.A. § 12-7-6(b) and the buffer zones provided by this subsection shall be enforced by the local issuing authority.
+(5)
+Agricultural operations as defined in O.C.G.A. § 1-3-3, to include those practices involving the establishment, cultivation or harvesting of products of the field or orchard; the preparation and planting of pasture land; farm ponds; dairy operations; livestock and poultry management practices; and the construction of farm buildings.
+(6)
+Forestry land management practices, including harvesting; provided, however, that when such exempt forestry practices cause or result in land disturbing or other activities otherwise prohibited in a buffer, as established in section 105-57(c)(15) and (16), no other land disturbing activities, except for normal forest management practices, shall be allowed on the entire property upon which the forestry practices were conducted for a period of three years after completion of such forestry practices.
+(7)
+Any project carried out under the technical supervision of the Natural Resources Conservation Service (NRCS) of the United States Department of Agriculture.
+(8)
+Any project involving less than one acre of disturbed area; provided, however, that this exemption shall not apply to any land disturbing activity within a larger common plan of development or sale with a planned disturbance of equal to or greater than one acre or within 200 feet of the bank of any state waters, and for purposes of this subsection, the term "state waters" excludes channels and drainageways which have water in them only during and immediately after rainfall events and intermittent streams which do not have water in them year-round; provided, however, that any person responsible for a project which involves less than one acre, which involves land disturbing activity, and which is within 200 feet of any such excluded channel or drainageway, must prevent sediment from moving beyond the boundaries of the property on which such project is located and provided, further, that nothing contained herein shall prevent the local issuing authority from regulating any such project which is not specifically exempted by subsection (1), (2), (3), (4), (5), (6), (7), (9) or (10) of this section;
+(9)
+Construction or maintenance projects, or both, undertaken or financed in whole or in part, or both, by the department of transportation, the state highway authority, or the state road and tollway authority; or any road construction or maintenance project, or both, undertaken by any county or municipality; provided, however, that construction or maintenance projects of the department of transportation or the state road and tollway authority which disturb one or more contiguous acres of land shall be subject to provisions of O.C.G.A. § 12-7-7.1; except where the department of transportation, the state highway authority, or the state road and tollway authority is a secondary permittee for a project located within a larger common plan of development or sale under the state general permit, in which case a copy of a notice of intent under the state general permit shall be submitted to the local issuing authority, the local issuing authority shall enforce compliance with the minimum requirements set forth in O.C.G.A. § 12-7-6 as if a permit had been issued, and violations shall be subject to the same penalties as violations by permit holders;
+(10)
+Any land disturbing activities conducted by any electric membership corporation or municipal electrical system or any public utility under the regulatory jurisdiction of the public service commission, any utility under the regulatory jurisdiction of the Federal Energy Regulatory Commission, any cable television system as defined in O.C.G.A. § 36-18-1, or any agency or instrumentality of the United States engaged in the generation, transmission, or distribution of power; except where an electric membership corporation or municipal electrical system or any public utility under the regulatory jurisdiction of the public service commission, any utility under the regulatory jurisdiction of the Federal Energy Regulatory Commission, any cable television system as defined in O.C.G.A. § 36-18-1, or any agency or instrumentality of the United States engaged in the generation, transmission, or distribution of power is a secondary permittee for a project located within a larger common plan of development or sale under the state general permit, in which case the local issuing authority shall enforce compliance with the minimum requirements set forth in O.C.G.A. § 12-7-6 as if a permit had been issued, and violations shall be subject to the same penalties as violations by permit holders; and
+(11)
+Any public water system reservoir.
+(Code 1977, § 32½-3; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-57. - Minimum requirements for erosion, sedimentation and pollution control using best management practices.
+(a)
+General provisions. Excessive soil erosion and resulting sedimentation can take place during land disturbing activities if requirements of this article and the NPDES general permit are not met. Therefore, plans for those land disturbing activities which are not exempted by this article shall contain provisions for application of soil erosion, sedimentation and pollution control measures and practices. The provisions shall be incorporated into the erosion, sedimentation and pollution control plans. Soil erosion, sedimentation and pollution control measures and practices shall conform to the minimum requirements of subsections (b) and (c) of this section. The application of measures and practices shall apply to all features of the site, including street and utility installations, drainage facilities and other temporary and permanent improvements. Measures shall be installed to prevent or control erosion, sedimentation and pollution during all stages of any land disturbing activity in accordance with requirements of this article and the NPDES general permit.
+(b)
+Minimum requirements/BMPs.
+(1)
+Best management practices as set forth in subsections (b) and (c) of this section shall be required for all land disturbing activities. Proper design, installation, and maintenance of best management practices shall constitute a complete defense to any action by the director or to any other allegation of noncompliance with subsection (b)(2) of this section or any substantially similar terms contained in a permit for the discharge of stormwater issued pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act." As used in this subsection the terms "proper design" and "properly designed" mean designed in accordance with the hydraulic design specifications contained in the "Manual for Erosion and Sediment Control in Georgia" specified in O.C.G.A. § 12-7-6(b).
+(2)
+A discharge of stormwater runoff from disturbed areas where best management practices have not been properly designed, installed, and maintained shall constitute a separate violation of any land disturbing permit issued by a local issuing authority or of any state general permit issued by the division pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act," for each day on which such discharge results in the turbidity of receiving waters being increased by more than 25 nephelometric turbidity units for waters supporting warm water fisheries or by more than ten nephelometric turbidity units for waters classified as trout waters. The turbidity of the receiving waters shall be measured in accordance with guidelines to be issued by the director. This subsection shall not apply to any land disturbance associated with the construction of single-family homes which are not part of a larger common plan of development or sale unless the planned disturbance for such construction is equal to or greater than five acres.
+(3)
+Failure to properly design, install, or maintain best management practices shall constitute a violation of any land disturbing permit issued by a local issuing authority or of any state general permit issued by the division pursuant to O.C.G.A. § 12-5-30(f), the "Georgia Water Quality Control Act," for each day on which such failure occurs.
+(4)
+The director may require, in accordance with regulations adopted by the board, reasonable and prudent monitoring of the turbidity level of receiving waters into which discharges from land disturbing activities occur.
+(c)
+The rules and regulations, ordinances, or resolutions adopted pursuant to O.C.G.A. § 12-7-1 et seq., for the purpose of governing land disturbing activities shall require, as a minimum, protections at least as stringent as the state general permit; and best management practices, including sound conservation and engineering practices to prevent and minimize erosion and resultant sedimentation, which are consistent with, and no less stringent than, those practices contained in the "Manual for Erosion and Sediment Control in Georgia" published by the state soil and water conservation commission as of January 1 of the year in which the land disturbing activity was permitted, as well as the following:
+(1)
+Stripping of vegetation, regrading and other development activities shall be conducted in a manner so as to minimize erosion.
+(2)
+Cut-fill operations must be kept to a minimum.
+(3)
+Development plans must conform to topography and soil type so as to create the lowest practicable erosion potential.
+(4)
+Whenever feasible, natural vegetation shall be retained, protected and supplemented.
+(5)
+The disturbed area and the duration of exposure to erosive elements shall be kept to a practicable minimum.
+(6)
+Disturbed soil shall be stabilized as quickly as practicable.
+(7)
+Temporary vegetation or mulching shall be employed to protect exposed critical areas during development.
+(8)
+Permanent vegetation and structural erosion control practices shall be installed as soon as practicable.
+(9)
+To the extent necessary, sediment in run-off water must be trapped by the use of debris basins, sediment basins, silt traps, or similar measures until the disturbed area is stabilized. As used in this subsection, a disturbed area is stabilized when it is brought to a condition of continuous compliance with the requirements of O.C.G.A. § 12-7-1 et seq.
+(10)
+Adequate provisions must be provided to minimize damage from surface water to the cut face of excavations or the sloping of fills.
+(11)
+Cuts and fills may not endanger adjoining property.
+(12)
+Fills may not encroach upon natural watercourses or constructed channels in a manner so as to adversely affect other property owners.
+(13)
+Grading equipment must cross flowing streams by means of bridges or culverts except when such methods are not feasible, provided, in any case, that such crossings are kept to a minimum.
+(14)
+Land disturbing activity plans for erosion and sedimentation control shall include provisions for treatment or control of any source of sediments and adequate sedimentation control facilities to retain sediments on-site or preclude sedimentation of adjacent waters beyond the levels specified in subsection (b)(2) of this section.
+(15)
+Except as provided in subsection (c)(16) of this section, there is established a 25-foot buffer along the banks of all state waters, as measured horizontally from the point where vegetation has been wrested by normal stream flow or wave action, except where the director determines to allow a variance that is at least as protective of natural resources and the environment, where otherwise allowed by the director pursuant to O.C.G.A. § 12-2-8, where a drainage structure or a roadway drainage structure must be constructed, provided that adequate erosion control measures are incorporated in the project plans and specifications, and are implemented; or along any ephemeral stream. As used in this provision, the term "ephemeral stream" means a stream: that under normal circumstances has water flowing only during and for a short duration after precipitation events; that has the channel located above the groundwater table year-round; for which groundwater is not a source of water; and for which runoff from precipitation is the primary source of water flow. Unless exempted as along an ephemeral stream, the buffers of at least 25 feet established pursuant to O.C.G.A. § 12-5-20 et seq., the "Georgia Water Quality Control Act," shall remain in force unless a variance is granted by the director as provided in this subsection. The following requirements shall apply to any such buffer:
+a.
+No land disturbing activities shall be conducted within a buffer and a buffer shall remain in its natural, undisturbed state of vegetation until all land disturbing activities on the construction site are completed. Once the final stabilization of the site is achieved, a buffer may be thinned or trimmed of vegetation as long as a protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the streambed; provided, however, that any person constructing a single-family residence, when such residence is constructed by or under contract with the owner for his own occupancy, may thin or trim vegetation in a buffer at any time as long as protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the streambed; and
+b.
+The buffer shall not apply to the following land disturbing activities, provided that they occur at an angle, as measured from the point of crossing, within 25 degrees of perpendicular to the stream; cause a width of disturbance of not more than 50 feet within the buffer; and adequate erosion control measures are incorporated into the project plans and specifications and are implemented:
+1.
+Stream crossings for water lines; or
+2.
+Stream crossings for sewer lines.
+(16)
+There is established a 50-foot buffer as measured horizontally from the point where vegetation has been wrested by normal stream flow or wave action, along the banks of any state waters classified as "trout streams" pursuant to O.C.G.A. § 12-5-20 et seq., of the "Georgia Water Quality Control Act," except where a roadway drainage structure must be constructed; provided, however, that small springs and streams classified as trout streams which discharge an average annual flow of 25 gallons per minute or less shall have a 25-foot buffer or they may be piped, at the discretion of the landowner, pursuant to the terms of a rule providing for a general variance promulgated by the board, so long as any such pipe stops short of the downstream landowner's property and the landowner complies with the buffer requirement for any adjacent trout streams. The director may grant a variance from such buffer to allow land disturbing activity, provided that adequate erosion control measures are incorporated in the project plans and specifications and are implemented. The following requirements shall apply to such buffer:
+a.
+No land disturbing activities shall be conducted within a buffer and a buffer shall remain in its natural, undisturbed, state of vegetation until all land disturbing activities on the construction site are completed. Once the final stabilization of the site is achieved, a buffer may be thinned or trimmed of vegetation as long as a protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the streambed; provided, however, that any person constructing a single-family residence, when such residence is constructed by or under contract with the owner for his own occupancy, may thin or trim vegetation in a buffer at any time as long as protective vegetative cover remains to protect water quality and aquatic habitat and a natural canopy is left in sufficient quantity to keep shade on the streambed; and
+b.
+The buffer shall not apply to the following land disturbing activities, provided that they occur at an angle, as measured from the point of crossing, within 25 degrees of perpendicular to the stream; cause a width of disturbance of not more than 50 feet within the buffer; and adequate erosion control measures are incorporated into the project plans and specifications and are implemented:
+1.
+Stream crossings for water lines; or
+2.
+Stream crossings for sewer lines.
+(d)
+The fact that land disturbing activity for which a permit has been issued results in injury to the property of another shall neither constitute proof of nor create a presumption of a violation of the standards provided for in this article or the terms of the permit.
+(Code 1977, § 32½-4; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-58. - Application/permit process.
+(a)
+General. The property owner, developer and designated planners and engineers shall design and review before submittal the general development plans. The local issuing authority shall review the tract to be developed and the area surrounding it. They shall consult the stormwater management provisions of article II of this chapter, soil erosion and sedimentation control provisions of this article, subdivision regulations contained in chapter 113, the flood damage prevention ordinance, the zoning ordinance, and any other ordinances, rules, regulations or permits, which regulate the development of land within the jurisdictional boundaries of the local issuing authority. However, the owner and/or operator are the only parties who may obtain a permit.
+(b)
+Application requirements.
+(1)
+No person shall conduct any land disturbing activity within the jurisdictional boundaries of the city without first obtaining a permit from the city engineer's office to perform such activity and providing a copy of notice of intent submitted to EPD if applicable.
+(2)
+The application for a permit shall be submitted to the city engineer's office and must include the applicant's erosion, sedimentation and pollution control plan with supporting data, as necessary. Said plans shall include, as a minimum, the data specified in subsection (c) of this section. Erosion, sedimentation and pollution control plans, together with supporting data, must demonstrate affirmatively that the land disturbing activity proposed will be carried out in such a manner that the provisions of section 105-57(b) and (c) will be met. Applications for a permit will not be accepted unless accompanied by three copies of the applicant's erosion, sedimentation and pollution control plans. All applications shall contain a certification stating that the plan preparer or the designee thereof visited the site prior to creation of the plan in accordance with EPD Rule 391-3-7-.10.
+(3)
+In addition to the local permitting fees, fees will also be assessed pursuant to O.C.G.A. § 12-5-23(a)(5), provided that such fees shall not exceed $80.00 per acre of land disturbing activity, and these fees shall be calculated and paid by the primary permittee as defined in the state general permit for each acre of land disturbing activity included in the planned development or each phase of development. All applicable fees shall be paid prior to issuance of the land disturbance permit. In a jurisdiction that is certified pursuant to O.C.G.A. § 12-7-8(a), half of such fees levied shall be submitted to the division; except that any and all fees due from an entity which is required to give notice pursuant to O.C.G.A. § 12-7-17(9) or (10) shall be submitted in full to the division, regardless of the existence of a local issuing authority in the jurisdiction.
+(4)
+Immediately upon receipt of an application and plan for a permit, the local issuing authority shall refer the application and plan to the district for its review and approval or disapproval concerning the adequacy of the erosion, sedimentation and pollution control plan. The district shall approve or disapprove a plan within 35 days of receipt. Failure of the district to act within 35 days shall be considered an approval of the pending plan. The results of the district review shall be forwarded to the local issuing authority. No permit will be issued unless the plan has been approved by the district, and any variances required by section 105-57(c)(15) and (16) has been obtained, all fees have been paid, and bonding, if required as per subsection (b)(6) of this section, have been obtained. Such review will not be required if the local issuing authority and the district have entered into an agreement which allows the local issuing authority to conduct such review and approval of the plan without referring the application and plan to the district. The local issuing authority with plan review authority shall approve or disapprove a revised plan submittal within 35 days of receipt. Failure of the local issuing authority with plan review authority to act within 35 days shall be considered an approval of the revised plan submittal.
+(5)
+If a permit applicant has had two or more violations of previous permits, this section, or the Erosion and Sedimentation Act, as amended, within three years prior to the date of filing the application under consideration, the local issuing authority may deny the permit application.
+(6)
+The local issuing authority may require the permit applicant to post a bond in the form of government security, cash, irrevocable letter of credit, or any combination thereof up to, but not exceeding, $3,000.00 per acre or fraction thereof of the proposed land disturbing activity, prior to issuing the permit. If the applicant does not comply with this section or with the conditions of the permit after issuance, the local issuing authority may call the bond or any part thereof to be forfeited and may use the proceeds to hire a contractor to stabilize the site of the land disturbing activity and bring it into compliance. These provisions shall not apply unless there is in effect an ordinance or statute specifically providing for hearing and judicial review of any determination or order of the local issuing authority with respect to alleged permit violations.
+(c)
+Plan requirements.
+(1)
+Plans must be prepared to meet the minimum requirements as contained in section 105-57(b) and (c), or through the use of more stringent, alternate design criteria which conform to sound conservation and engineering practices. The "Manual for Erosion and Sediment Control in Georgia" is hereby incorporated by reference into this article. The plan for the land disturbing activity shall consider the interrelationship of the soil types, geological and hydrological characteristics, topography, watershed, vegetation, proposed permanent structures including roadways, constructed waterways, sediment control and stormwater management facilities, local ordinances and state laws. Maps, drawings and supportive computations shall bear the signature and seal of the certified design professional. Persons involved in land development design, review, permitting, construction, monitoring, or inspections or any land disturbing activity shall meet the education and training certification requirements, dependent on his level of involvement with the process, as developed by the commission and in consultation with the division and the stakeholder advisory board created pursuant to O.C.G.A. § 12-7-20.
+(2)
+Data required for site plan shall include all the information required from the appropriate erosion, sedimentation and pollution control plan review checklist established by the commission as of January 1 of the year in which the land disturbing activity was permitted.
+(d)
+Permits.
+(1)
+Permits shall be issued or denied as soon as practicable but in any event not later than 45 days after receipt by the local issuing authority of a completed application, providing variances and bonding are obtained, where necessary and all applicable fees have been paid prior to permit issuance. The permit shall include conditions under which the activity may be undertaken.
+(2)
+No permit shall be issued by the local issuing authority unless the erosion, sedimentation and pollution control plan has been approved by the district and the local issuing authority has affirmatively determined that the plan is in compliance with this article, any variances required by section 105-57(c)(15) and (16) are obtained, bonding requirements, if necessary, as per subsection (b)(6) of this section are met and all ordinances and rules and regulations in effect within the jurisdictional boundaries of the local issuing authority are met. If the permit is denied, the reason for denial shall be furnished to the applicant.
+(3)
+Any land disturbing activities by a local issuing authority shall be subject to the same requirements of this article, and any other ordinances relating to land development, as are applied to private persons and the division shall enforce such requirements upon the local issuing authority.
+(4)
+If the tract is to be developed in phases, then a separate permit shall be required for each phase.
+(5)
+The permit may be suspended, revoked, or modified by the local issuing authority, as to all or any portion of the land affected by the plan, upon finding that the holder or his successor in the title is not in compliance with the approved erosion and sedimentation control plan or that the holder or his successor in title is in violation of this article. A holder of a permit shall notify any successor in title to him as to all or any portion of the land affected by the approved plan of the conditions contained in the permit.
+(6)
+The LIA may reject a permit application if the applicant has had two or more violations of previous permits or the Erosion and Sedimentation Act permit requirements within three years prior to the date of the application, in light of O.C.G.A. § 12-7-7(f)(1).
+(Code 1977, § 32½-5; Ord. No. 96-1, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-59. - Inspection and enforcement.
+(a)
+The city engineer or his designee will periodically inspect the sites of land disturbing activities for which permits have been issued to determine if the activities are being conducted in accordance with the plan and if the measures required in the plan are effective in controlling erosion and sedimentation. Also, the local issuing authority shall regulate primary, secondary and tertiary permittees as such terms are defined in the state general permit. Primary permittees shall be responsible for installation and maintenance of best management practices where the primary permittee is conducting land disturbing activities. Secondary permittees shall be responsible for installation and maintenance of best management practices where the secondary permittee is conducting land disturbing activities. Tertiary permittees shall be responsible for installation and maintenance where the tertiary permittee is conducting land disturbing activities. If, through inspection, it is deemed that a person engaged in land disturbing activities as defined herein has failed to comply with the approved plan, with permit conditions, or with the provisions of this article, a written notice to comply shall be served upon that person. The notice shall set forth the measures necessary to achieve compliance and shall state the time within which such measures must be completed. If the person engaged in the land disturbing activity fails to comply within the time specified, he shall be deemed in violation of this article.
+(b)
+The city engineer's office shall have the power to conduct such investigations as it may reasonably deem necessary to carry out duties as prescribed in this article, and for this purpose to enter at reasonable times upon any property, public or private, for the purpose of investigation and inspecting the sites of land disturbing activities.
+(c)
+No person shall refuse entry or access to any authorized representative or agent of the local issuing authority, the commission, the district, or division who requests entry for the purposes of inspection, and who presents appropriate credentials, nor shall any person obstruct, hamper or interfere with any such representative while in the process of carrying out his official duties.
+(Code 1977, § 32½-6; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-60. - Penalties and incentives.
+(a)
+Failure to obtain a permit for land disturbing activity. If any person commences any land disturbing activity requiring a land disturbing permit as prescribed in this article without first obtaining said permit, the person shall be subject to revocation of his business license, work permit or other authorization for the conduct of a business and associated work activities within the jurisdictional boundaries of the local issuing authority.
+(b)
+Stop work orders.
+(1)
+For the first and second violations of the provisions of this article, the director or the local issuing authority shall issue a written warning to the violator. The violator shall have five days to correct the violation. If the violation is not corrected within five days, the director or the local issuing authority shall issue a stop work order requiring that land disturbing activities be stopped until necessary corrective action or mitigation has occurred; provided, however, that, if the violation presents an imminent threat to public health or waters of the state or if the land disturbing activities are conducted without obtaining the necessary permit, the director or the local issuing authority shall issue an immediate stop work order in lieu of a warning.
+(2)
+For a third and each subsequent violation, the director or the local issuing authority shall issue an immediate stop work order.
+(3)
+All stop work orders shall be effective immediately upon issuance and shall be in effect until the necessary corrective action or mitigation has occurred.
+(4)
+When a violation in the form of taking action without a permit, failure to maintain a stream buffer, or significant amounts of sediment, as determined by the local issuing authority or by the director or his designee, have been or are being discharged into state waters and where best management practices have not been properly designed, installed, and maintained, a stop work order shall be issued by the local issuing authority or by the director or his designee. All such stop work orders shall be effective immediately upon issuance and shall be in effect until the necessary corrective action or mitigation has occurred. Such stop work orders shall apply to all land disturbing activity on the site with the exception of the installation and maintenance of temporary or permanent erosion and sediment controls.
+(c)
+Bond forfeiture. If, through inspection, it is determined that a person engaged in land disturbing activities has failed to comply with the approved plan, a written notice to comply shall be served upon that person. The notice shall set forth the measures necessary to achieve compliance with the plan and shall state the time within which such measures must be completed. If the person engaged in the land disturbing activity fails to comply within the time specified, he shall be deemed in violation of this article and, in addition to other penalties, shall be deemed to have forfeited his performance bond, if required to post one under the provisions of section 105-58(b)(6). The local issuing authority may call the bond or any part thereof to be forfeited and may use the proceeds to hire a contractor to stabilize the site of the land disturbing activity and bring it into compliance.
+(d)
+Monetary penalties. Any person who violates any provisions of this article, or any permit condition or limitation established pursuant to this article, or who negligently or intentionally fails or refuses to comply with any final or emergency order of the director issued as provided in this article shall be liable for a civil penalty not to exceed $2,500.00 per day. For the purpose of enforcing the provisions of this article, notwithstanding any provisions in the city Charter to the contrary, municipal courts shall be authorized to impose penalty not to exceed $2,500.00 for each violation. Each day during which violation or failure or refusal to comply continues shall be a separate violation.
+(Code 1977, § 32½-7; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-61. - Education and certification.
+(a)
+Persons involved in land development design, review, permitting, construction, monitoring, or inspection or any land disturbing activity shall meet the education and training certification requirements, dependent on their level of involvement with the process, as developed by the commission in consultation with the division and the stakeholder advisory board created pursuant to O.C.G.A. § 12-7-20.
+(b)
+For each site on which land disturbing activity occurs, each entity or person acting as either a primary, secondary, or tertiary permittee, as defined in the state general permit, shall have as a minimum one person who is in responsible charge of erosion and sedimentation control activities on behalf of said entity or person and meets the applicable education or training certification requirements developed by the commission present on site whenever land disturbing activities are conducted on that site. A project site shall herein be defined as any land-disturbance site or multiple sites within a larger common plan of development or sale permitted by an owner or operator for compliance with the state general permit.
+(c)
+Persons or entities involved in projects not requiring a state general permit but otherwise requiring certified personnel on site may contract with certified persons to meet the requirements of this article.
+(d)
+If a state general permittee who has operational control of land disturbing activities for a site has met the certification requirements of O.C.G.A. § 12-7-19(b)(1), then any person or entity involved in land disturbing activity at that site and operating in a subcontractor capacity for such permittee shall meet those educational requirements specified in O.C.G.A. § 12-7-19(b)(4) and shall not be required to meet any educational requirements that exceed those specified in said O.C.G.A. § 12-7-19(b)(4).
+(Code 1977, § 32½-8; Ord. No. 04-22, § B, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-62. - Administrative appeal and judicial review.
+(a)
+Administrative remedies. The suspension, revocation, modification or grant with condition of a permit by the local issuing authority upon finding that the holder is not in compliance with the approved erosion, sediment and pollution control plan; or that the holder is in violation of permit conditions; or that the holder is in violation of any ordinance; shall entitle the person submitting the plan or holding the permit to a hearing before the city commission within 15 days after receipt by the local issuing authority of written notice of appeal.
+(b)
+Judicial review. Any person, aggrieved by a decision or order of the local issuing authority, after exhausting his administrative remedies, shall have the right to appeal de novo to the superior court of the county.
+(Code 1977, § 32½-9; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Sec. 105-63. - Liability.
+(a)
+Neither the approval of a plan under the provisions of this article, nor the compliance with provisions of this article shall relieve any person from the responsibility for damage to any person or property otherwise imposed by law nor impose any liability upon the local issuing authority or district for damage to any person or property.
+(b)
+The fact that a land disturbing activity for which a permit has been issued results in injury to the property of another shall neither constitute proof of nor create a presumption of a violation of the standards provided for in this article or the terms of the permit.
+(c)
+No provision of this article shall permit any persons to violate O.C.G.A. § 12-7-1 et seq., the Georgia Erosion and Sedimentation Act of 1975; O.C.G.A. § 12-5-20 et seq., the Georgia Water Quality Control Act or the rules and regulations promulgated and approved thereunder or pollute any waters of the state as defined thereby.
+(Code 1977, § 32½-10; Ord. No. 96-19, § 2, 7-9-1996; Ord. No. 04-22, § A, 11-15-2004; Ord. No. 12-11, § A, 9-4-2012; Ord. No. 12-12, § A, 10-2-2012)
+Secs. 105-64—105-70. - Reserved.
+ARTICLE IV. - STORMWATER UTILITIES[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Ord. No. O21-23, § 1, adopted Sept. 21, 2021, set out provisions intended for use as §§ 105-55—105-67. Inasmuch as there were already provisions so designated, said sections has been codified herein as §§ 105-71—105-83 at the discretion of the editor.
+
+Sec. 105-71. - Purpose.
+This chapter is enacted for the purpose of establishing the stormwater utility and stormwater user fee system and other provisions relating thereto.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-72. - Findings of fact.
+The city commission makes the following findings of fact:
+(a)
+The City of Waycross is authorized by the Georgia Constitution of 1983, including, without limitation, Article IX, Section II, Paragraph III, and O.C.G.A. § 36-82-62 to provide stormwater management service systems and facilities throughout the corporate boundaries of the City of Waycross (hereinafter "the city" or "Waycross") and to assess and collect fees for the provision of those services.
+(b)
+In promulgating the regulations contained in this article, the city is acting pursuant to authority granted by the Constitution and laws of the State of Georgia and its City Charter to provide for stormwater collection, treatment, and disposal. A system for the collection, conveyance, storage, treatment and disposal of stormwater provides services to all properties within the city limits.
+(c)
+Failure to effectively manage stormwater runoff can result in:
+(1)
+Erosion of lands which could threaten businesses, residences, and other structures with water damage and may environmentally impair the rivers, streams and other bodies of water within, and downstream of, the city;
+(2)
+Adverse effects to the city's sanitary sewer system operations thereby increasing the potential for infiltration and inflow into the sanitary sewer system;
+(3)
+Potential degradation of the quality of both surface water and ground water resources.
+(d)
+The city presently owns and operates a stormwater program, which has been developed over many years. The future usefulness and operational function of the existing stormwater management systems and facilities owned and operated by the city, and the additions and improvements thereto, rests on the ability of the city to effectively manage, protect, control, regulate, use, and enhance stormwater systems and facilities within the city in concert with the management of other water resources within the city. In order to do so, the city must have both a stormwater management program as well as an adequate and stable funding strategy for its stormwater management program operation and drainage-related capital improvement needs.
+(e)
+The city desires to implement a stormwater management program to address stormwater runoff quality and quantity and to mitigate the impacts of pollution and flooding which may impact the public storm sewer system, private property and downstream receiving waters of the State of Georgia and/or United States.
+(f)
+Compliance with applicable regulatory obligations, including but not limited to, the city's National Pollution Discharge Elimination System (NPDES) wastewater discharge permit; the National Flood Insurance Program (NFIP); the FEMA Flood Program; the Georgia Comprehensive Statewide Water Management Plan; the city's watershed protection plan; and other applicable state and federal water resources related regulations, as well as other identified stormwater management program needs, will affect the cost of providing stormwater management services, systems and facilities above what is currently being spent for stormwater quality management, drainage system maintenance, flood plain management, capital drainage projects and other stormwater management program activities.
+(g)
+The cost of operating and maintaining the city's stormwater management system and the funding of necessary repairs, replacements, improvements, and extensions thereof should, to the extent practicable, be allocated in relationship to the services provided by the city's stormwater management program and the demand imposed by improved property on the city's drainage system and stormwater management program.
+(h)
+The stormwater management program assessment and financial analysis performed by the city's consultant properly assesses and defines the city's stormwater management program problems, needs, goals, priorities as well as the stormwater management program funding strategy.
+(i)
+Given the stormwater management program problems, needs, goals, priorities and funding strategy identified in the aforementioned stormwater program assessment and financial analysis, it is appropriate that the city authorize the formation of an organizational and accounting entity dedicated specifically to the management, maintenance, protection, control, regulation, use, and enhancement of storm water management services, systems, and facilities within the city in concert with other water resources management programs. Therefore, it is appropriate for the city to establish a stormwater utility and impose a stormwater user fee charge upon all improved/developed properties that may discharge, directly or indirectly, into the public stormwater conveyance system, whether the property is private or public in nature. Other documents utilized and provided by the city in support of this program include the city's stormwater management program document, stormwater utility business plan, stormwater utility credit manual, and the city's stormwater capital improvement plan.
+(j)
+Stormwater management is applicable and needed throughout the entire incorporated areas of the city. While specific service and facility demands may differ from area to area at any given point in time, a stormwater management system and service area encompassing all lands and water bodies within the incorporated areas of the city is appropriate given the present and future needs of the city. All properties will receive a benefit for disposal of storm water according to their contribution.
+(k)
+The stormwater management services rendered may differ depending on many factors and considerations, including but not limited to location, demands and impacts imposed on the stormwater management systems and programs, and risk exposure. It is practical and equitable to allocate the cost of stormwater management among the owners and/or tenants of improved properties in proportion to the demands the properties impose on the city's stormwater management systems and facilities which result in services to such properties and the owners and/or tenants thereof. The fair and equitable apportionment of costs via the stormwater user fee charge correlates to the stormwater management services provided to that property and the runoff demand that the property imposes on the public drainage system and the city stormwater management program.
+(l)
+Stormwater management needs in the city include, but are not limited to, protection of the public health, safety, and welfare of the community. Provision of stormwater management services renders and/or results in both a service to customers and benefit to all properties, property owners, citizens, and residents of the city in a variety of ways although the benefits may be indirect or immeasurable.
+(m)
+A stormwater management program provides the most practical and appropriate means of properly delivering stormwater management services throughout the city. The imposition of a stormwater user fee charge is the most equitable means to allocate the costs to users of the stormwater management services and to generate sufficient revenue to implement the defined level of service for the city's stormwater management program.
+(n)
+The presence and amount of impervious surfaces on each improved property is the most important factor influencing the stormwater runoff contribution of that property; the corresponding demand the property imposes on the stormwater management program; and the cost of providing stormwater management services to that property by the city. Therefore, the amount of impervious surface on each property is the most significant parameter for calculating a periodic stormwater user fee charge; and the city deems it appropriate to impose a stormwater user fee charge upon all improved properties that may discharge, directly or indirectly, into the public drainage system whether the property is private or public in nature.
+(o)
+A schedule of stormwater utility user fee charges based primarily on the amount of impervious surface located on each improved property is the most appropriate and equitable means of allocating the cost of stormwater management services throughout the city. Stormwater utility user fee charges may be designed with specific modifiers to further enhance customer equity, as well as customer understanding of the user fee charge rate structure, while at the same time minimizing the city's customer account management and maintenance efforts.
+(p)
+Stormwater utility user fee charges may be supplemented by other funding which addresses specific needs, including, but not limited to, special district service fees, general fund allocations, revenue bonds, use of proceeds from special purpose local option sales taxes (SPLOST) and other forms of revenue, as deemed appropriate by the city commission.
+(q)
+The existence of privately owned and maintained on-site stormwater control facilities, activities or assets which reduce, or otherwise mitigate, the impact of a particular property on the city's stormwater management program, and the stormwater utility's cost of providing stormwater management services and/or stormwater management systems and facilities, should be taken into account to reduce the user fee charge on that property in the form of a credit, and such credit should be conditioned upon continuing provision of such services, systems, facilities, activities or assets in a manner complying with the standards and codes as determined by the stormwater utility. Credits for privately owned and maintained stormwater management systems, facilities, activities or assets shall be generally proportional to the affect that such systems have on the reduction and mitigation of the stormwater runoff impacts from the property.
+(r)
+It is required that the revenue proceeds from all user fee charges for stormwater management services, systems or facilities, together with any other supplemental revenues raised or otherwise allocated specifically to stormwater management services, systems or facilities, be dedicated solely to those purposes. Such user fee revenue proceeds, and other supplemental revenues, shall be deposited into the City of Waycross Stormwater Utility Enterprise Fund. The user fee proceeds, and other supplemental revenues shall remain in the enterprise fund, and be dispersed only for stormwater management capital improvements, facilities, equipment, operating and non-operating costs, lease payments, debt service payments, or other indebtedness related to the stormwater management program.
+(s)
+To protect the health, safety and welfare of the public, the governing authority of the City of Waycross hereby exercises its authority to establish a stormwater utility, as the best available means of addressing the foregoing stormwater management program needs and priorities. By means of this article, the city will enact a stormwater user fee rate structure and a procedure for the establishment of a user fee charge billing rate related to the provision of stormwater management services.
+( Ord. No. O21-23(2) , § 1, 9-21-2021; Ord. No. O21-30(2) , § 1, 12-21-2021)
+Sec. 105-73. - Definitions.
+The following words, terms, and phrases, when used in this article, shall have the meanings ascribed to them in this article, except where the context clearly indicates a different meaning:
+Act means and refers to the Clean Water Act codified at 33 U.S.C. § 1251 et seq., and the rules and regulations promulgated by the United States Environmental Protection Agency pursuant thereto.
+Credit means a reduction in the amount of a customer's stormwater user fee charge in recognition of a customer's efforts to mitigate the stormwater runoff impact that developed property has on the city stormwater management services and systems, and/or the efforts of a customer to offset the city's cost for implementation of stormwater management program related activities.
+Customers of the stormwater utility shall include all persons, properties, and entities serviced by and/or benefitting from the services provided by the city's stormwater management program and the stormwater utility. These services include, but are not necessarily limited to, the stormwater utility's administration, management, maintenance, expansion, and improvement of the stormwater management systems for the handling and disposal of stormwater runoff from private and public properties, and the regulation of the public and private stormwater management systems, controls, facilities, and activities.
+Dwelling unit shall mean a structure, regardless of the type or method of construction, which contains one or more bedrooms, a bathroom, and cooking facilities, designed for occupancy by a one or more person(s) regardless of relationship, living as a single-family unit.
+Enterprise fund means a fund used to account for operations that are financed and operated in a manner similar to private business enterprises where the intent of the governing authority is that the cost of providing services to the public on a continuing basis be financed or recovered primarily through user charges.
+Equivalent residential unit (ERU) means the stormwater user fee charge billing unit increment related to the median horizontal impervious surface area footprint of 2,900 square feet for a typical single family dwelling unit within the city.
+Fiduciary fund means a trust or agency fund used to account for assets held by a local government in a trustee capacity.
+Hydrologic response defines the manner and means whereby stormwater runoff collects, remains, diverts, infiltrates, and is conveyed from a property. Hydrologic response is dependent on several factors including, but not limited to, the presence of impervious surface, the parcel's size, the parcel's shape, the parcel's topography, the parcel's vegetative canopy, the parcel's groundwater characteristics, the parcel's on-site operations, the parcel's stormwater controls, the parcel's antecedent moisture as well as the parcel's geologic and hydro-geologic characteristics.
+Impervious area shall mean and have the same definition as impervious surface.
+Impervious surface means those areas which prevent or impede the infiltration of stormwater into the soil in the manner in which it entered the soil, in natural conditions, prior to development and causes stormwater runoff to collect, concentrate or flow in a manner materially different from what would occur if the land were in an unaltered/undeveloped natural condition. Common impervious surfaces include, but are not limited to, rooftops, buildings or structures, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, awnings and other fabric or plastic coverings, and other surfaces such as compacted soil and gravel, which prevent or impede the natural infiltration of stormwater runoff which existed prior to development.
+Improved property (or developed property) means property altered from its natural state by construction or installation of more than 500 square feet of impervious surfaces.
+Manufactured home park means a common development (with a single property owner or entity) of more than one factory-built or pre-fabricated housing structures that have been partially or entirely assembled at another location and moved into the development.
+Multi-family residential (MFR) property means developed property containing more than two dwelling units in or attached thereto, situated upon a single lot of record. MFR properties shall not include improved property containing structures used primarily for nonresidential purposes and as defined herein or vacant/undeveloped property.
+Non-single family residential (NSFR) customer shall mean a utility customer whose property meets the definition of NSFR whether such customer is the owner of the parcel or a tenant of the owner.
+Non-single family residential (NSFR) property shall mean a developed parcel of land that consists of various nonresidential land uses including, but not limited to:
+(1)
+Multi-family, commercial (including mixed commercial and residential), office/institutional, public, transportation, industrial, manufacturing and storage buildings and facilities;
+(2)
+Parking lots, parks, public and private schools, universities and hospitals;
+(3)
+Streets, roads, water and wastewater treatment plants; and
+(4)
+Any other form of use not specifically defined as a single family residential property (SFR).
+Parcel shall mean a designated parcel or tract, established by plat, subdivision, or as otherwise permitted by law, to be separately owned, used, developed, or built upon.
+Partial impervious surface shall mean those areas which allow for limited infiltration of rainfall and surface water runoff into the soil in the manner that is more similar to natural conditions than "impervious surface" as defined above. Partial impervious surfaces influence and affect stormwater runoff such that the runoff is collected, concentrated and/or flows in a manner that is materially different from what would occur if the land were in an unaltered natural condition. Common partial impervious surfaces include, but are not limited to, compacted gravel and/or compacted soils.
+Private stormwater management systems and facilities shall mean those natural and manmade channels, swales, ditches, rivers, streams, creeks, branches, reservoirs, ponds, drainageways, inlets, catch basins, pipes, headwalls, storm drains, lakes and other physical works, properties and improvements which transfer, control, convey or otherwise influence the movement of stormwater runoff or water quality, for which operation and maintenance is the responsibility of the owner or successor or assignee thereof, and which have not been conveyed or dedicated to the city for future maintenance.
+Public stormwater management systems and facilities shall mean that portion of the drainage system consisting of natural and/or man-made structures, within the political boundaries of the city which channel or convey storm water from its point of collection to a point of discharge, owned by the city, over which the city has a legal right of access, have been formally dedicated to and accepted by the city for maintenance, or over which the city exercises dominion and control.
+Service area means the entire land area within the corporate limits of the city.
+Single-family residential (SFR) property means developed property containing one residential structure with no more than two dwelling units in or attached thereto, situated upon a single lot of record. Improved property may be classified as SFR even if supplemental accessory structures are present such as garages, carports, storage buildings, guesthouses, servants or caretakers quarters, cottages or barns, or the presence of a commercial use within the residence, as long as such use does not result in significant additional amounts of impervious surfaces, as determined by the governing body or its designee. SFR properties shall not include improved property containing structures used primarily for nonresidential purposes and as defined herein; manufactured homes located within manufactured home parks where the land is owned by someone other than the owners of the manufactured homes; residential condominium developments with more than two units; or vacant/undeveloped property.
+Single-family residential (SFR) customer means a utility customer of the city residing in a dwelling unit whether such customer is the owner of the dwelling unit or a tenant of the owner of the dwelling unit.
+Stormwater management services means all water quality and water quantity related services provided by the city which relate to the following:
+(1)
+Transfer, control, conveyance or movement of stormwater runoff through the incorporated portions of the city;
+(2)
+Maintenance, repair and replacement of existing stormwater management systems and facilities;
+(3)
+Planning, development, design and construction of additional stormwater management systems and facilities to meet current and anticipated needs;
+(4)
+Regulation of the use of stormwater management services, systems and facilities; and
+(5)
+Compliance with applicable state and federal stormwater management regulations and permit requirements;
+(6)
+Other services as deemed appropriate by the city.
+Stormwater management systems and facilities mean those natural and manmade channels, swales, ditches, rivers, streams, creeks, branches, reservoirs, ponds, drainage ways, inlets, catch basins, pipes, headwalls, storm sewers, public streets, curbs and gutters, lakes and other physical works, properties and improvements which transfer, control, convey, detain, retain, treat or otherwise influence the movement of stormwater runoff.
+Stormwater utility manager means the person appointed by the city manager to administer the provisions of this article.
+Stormwater user fee charge means the periodic user fee charge for the provision of stormwater management services imposed pursuant to this article of the Waycross Stormwater Utility Ordinance. This term shall exclude special charges to the owners and/or tenants of particular properties for services, systems or facilities related to stormwater management, including, but not limited to, charges for development plan review, inspection of development projects, post-construction maintenance and inspection of existing facilities, on-site stormwater control systems and other stormwater management related services provided by Waycross for which a corresponding fee is collected for the service rendered.
+Undeveloped land means land in its unaltered natural condition or which is modified to such a minimal degree as to have a hydrologic response comparable to land in an unaltered natural condition shall be deemed undeveloped. For purposes of this article, undeveloped land includes property altered from its natural condition by the existence and/or installation of 500 square feet or less of impervious surface.
+User is defined as any person who uses property, which maintains connection to, discharges to, or otherwise receives stormwater management services from the city.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-74. - Stormwater utility and enterprise fund established.
+(a)
+There is hereby established a stormwater utility to be known as the City of Waycross Stormwater Utility, which shall be responsible for stormwater management services throughout the incorporated area of the city, and which shall provide for the management, protection, control, regulation, use and enhancement of the city's stormwater management systems and facilities and stormwater management program services.
+(b)
+There is hereby established a stormwater utility enterprise fund in the city accounting systems for the purpose of dedicating and protecting all funding generated by the stormwater utility user fee charge to the operation of the stormwater management program and stormwater utility, including, but not limited to, rates, charges, and fees as may be established by the city commission from time to time, and other funds that may be allocated to the stormwater utility. Such fund shall be both an enterprise fund and a fiduciary fund, consistent with the definitions within this article.
+(c)
+All revenues and receipts generated from the storm water user fee charges shall be segregated and placed into the stormwater utility enterprise fund in trust, and be expended solely for stormwater management purposes; provided, however, such fund may also pay a reasonable allocation of costs provided to the stormwater utility by the city's general fund, or other utilities of the city, in order to account for application overhead costs. Stormwater utility user fee charge revenue shall be used only for the operating expenses, compliance costs, and/or capital investments of the stormwater utility. However, other forms of revenue and/or financial resources, not accounted for in the stormwater utility user fee revenue, may be allocated as deemed appropriate by the city, to provide supplemental funding to the stormwater management program and stormwater management services.
+(d)
+Under the supervision and oversight of the city manager, the city shall place responsibility with the stormwater utility manager for operation of the stormwater utility and stormwater management program and facilities owned and operated, or maintained by the city, and other related assets, including, but not limited to, properties upon which such stormwater management systems and facilities are located, easements, rights-of-entry and access and certain equipment used solely for stormwater management.
+( Ord. No. O21-23(2) , § 1, 9-21-2021; Ord. No. O21-30(2) , §1, 12-21-2021)
+Sec. 105-75. - Stormwater utility service area.
+There shall be one stormwater utility service area in the city which shall encompass the entire municipal boundaries of Waycross. The city has established that all developed parcels within the municipal boundaries receive stormwater management program services from the city. Improved/developed properties within the defined service area will receive a stormwater user fee charge bill because they contribute stormwater runoff to the public drainage system, are directly or indirectly connected to the city's drainage system, and/or receive stormwater management services from the city to varying degrees.
+( Ord. No. O21-23(2) , § 1, 9-21-2021; Ord. No. O21-30(2) , § 1, 12-21-2021)
+Sec. 105-76. - Scope of responsibility for stormwater management systems and facilities.
+(a)
+The stormwater utility shall provide stormwater management services for existing public stormwater management systems and facilities as defined in this article, subject to funding availability and policy considerations made in the best interest of the public health, safety and general welfare, and of the environment. Additionally, the stormwater utility may accept the responsibility for providing stormwater management services to private stormwater management systems and facilities, acceptance of which conforms to policies established by the city commission.
+(b)
+The city owns land in fee simple, or has legal rights established by written agreements, which allow it to operate, maintain, improve, and access those stormwater management systems and facilities which are located:
+(1)
+On property owned by, or within the possession and control of, the city;
+(2)
+Within public rights-of-way where the city has by agreement with the county or state agreed to maintain public roads and highways on the county road system and/or state highway system;
+(3)
+On private property within easements granted to, and accepted by, the city;
+(4)
+On private property where the city has been granted, by written agreements, rights-of-entry, rights-of-access, rights-of-use or other provisions for operation, maintenance, improvement and access to the stormwater management system facilities located thereon; or
+(5)
+On public land which is owned by another governmental entity with whom the city has a written agreement providing for the operation, maintenance, improvement and access to the stormwater management systems and facilities located thereon.
+(c)
+Operation, maintenance and/or improvement of stormwater management systems and facilities which are located on private or public property not owned by the city, and for which there has been no written agreement granting easements, rights-of-entry, rights-of-access, rights-of-use dedication thereof to the city for operation, maintenance, improvement and access of such stormwater management systems and facilities shall be and remain the legal responsibility of the property owner except as otherwise provided for by state and federal laws and regulations.
+(d)
+The stormwater utility may provide periodic inspection, testing, or engineering assessment of privately owned stormwater management systems and facilities to ascertain that said facilities are functioning as designed and approved. After notice to the property owner, the stormwater utility may provide for remedial maintenance of said private facilities based upon the severity of stormwater problems and potential hazard to the public health, safety, and welfare and the environment. In cases where such remedial maintenance is required to be performed by the city, the city shall have the right to bill the owner of said private facility for the costs of such maintenance and impose a lien against the property to enforce collection.
+(e)
+It is the express intent of this article to protect the public health, safety and welfare of people and property in general, but not to create any special duty or relationship with any person or entity, or to any specific property within or outside the municipal boundaries of the city. The city expressly reserves the right to assert all available immunities and defenses in any action seeking to impose monetary damages or equitable remedies upon the city, its elected officials, officers, employees, and agents arising out of any alleged failure or breach of duty or relationship.
+(f)
+If any permit, plan approval, inspection, or similar act is required by the city as a condition precedent to any land disturbance or construction activity upon property not owned by the city pursuant to this or any other regulatory code, ordinance, regulation or rule of the city, or under federal or state law, the issuance of such permit, plan approval or inspection shall not be deemed to constitute a warranty, express or implied, nor shall it afford the basis for any action, including any action based on failure to permit, negligent issuance of a permit, negligent plan approval, negligent construction of permitted system or facility, or negligent maintenance of any permitted stormwater management system or facility not expressly dedicated to and accepted by the city for further maintenance in an action seeking the imposition of money damages or equitable remedies against the city, its mayor and city commission members, officers, employees or agents.
+( Ord. No. O21-23(2) , § 1, 9-21-2021; Ord. No. O21-30(2) , § 1, 12-21-2021)
+Sec. 105-77. - Stormwater utility customer classes.
+(a)
+The stormwater utility shall establish specified customer classes within the service area to reflect differences in impervious surface and stormwater runoff characteristics; stormwater management program services provided by the city to the stormwater utility customers; and the respective demand that those customers' properties place on the city stormwater management program and drainage system components. All publicly owned developed properties, other than streets or roads, are subject to the user fee charges on the same basis as private properties. The stormwater utility classes will encompass all developed and undeveloped properties within the city and are defined as follows:
+(1)
+The single family residential (SFR) class shall consist of all developed properties classified as SFR customers per the applicable definition.
+(2)
+The non-single family residential (NSFR) class shall consist of all developed properties classified as NSFR customers per the applicable definition.
+(3)
+The undeveloped class shall consist of properties classified as undeveloped per the applicable definition.
+(b)
+Documentation pertaining to the stormwater utility customer classes shall be kept on file in the office of the stormwater utility manager for public inspection.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-78. - Stormwater user fee charges.
+(a)
+It shall be the policy of the city that user fee charges for stormwater management services to be provided by the stormwater utility in the designated service area shall be equitably derived through methods which have a demonstrable relationship to the varied demands and impacts imposed on the stormwater management services by individual properties and/or the level of service rendered by, or resulting from, the provision of stormwater management services by the city.
+(b)
+The basis for calculation of the stormwater user fee charge for developed properties within the city is established in this article. The city shall assign or determine the customer class, amount of impervious area and other pertinent factors as may be needed for the fair, reasonable and equitable allocation of the costs to deliver stormwater management services and to calculate the stormwater user fee charges for developed properties in the city.
+(c)
+Stormwater user fee charge rates shall be structured so as to be uniform within the customer class, and the resultant user fee charges shall bear a reasonable connection, or rational nexus, to the cost of providing stormwater management services. User fee charge rates shall be in addition to other rates, charges, or fees employed for stormwater management within the incorporated areas of the city as defined herein.
+(d)
+To the extent practicable, credits against stormwater user fee charges shall be provided for on-site stormwater control systems and activities constructed, operated, maintained and performed to the city's standards by public and private property owners and/or tenants which eliminate, mitigate or compensate for the impact that the property or person may have upon stormwater runoff discharged to public stormwater management systems and facilities, or to private stormwater management systems and facilities which impact the proper function of public stormwater management systems and facilities.
+(e)
+The stormwater user fee charges shall accrue beginning October 1, 2021, and be billed in arrears each month to customers.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-79. - Stormwater user fee charge billing rates.
+(a)
+The stormwater utility shall impose a stormwater user fee charge on all developed properties within the service area in accordance with the provisions of this article. The stormwater utility shall apportion the cost of delivering stormwater services to all developed properties based on the demand the property places on the city's stormwater management program, the stormwater services provided by the city and the benefits derived by the property as a result of the provision of services.
+(b)
+The city commission shall establish by resolution the stormwater user fee charge rates, and the billing rates may be modified by the city commission from time to time to meet the financial and operational needs of the Waycross Stormwater Utility. A current schedule of said rates shall be on file in the office of the city clerk of Waycross. In setting or modifying such rates, it shall be the goal of the city to establish rates that are fair, equitable and reasonable, and which, together with other funding sources available to the Waycross Stormwater Utility for services, systems, and/or facilities related to stormwater management are sufficient to support the cost of the stormwater management program, including, but not limited to, the payment of principal and interest on debt obligations, lease payments, operating expenses, capital outlays, non-operating expenses, provisions for prudent reserves and other stormwater utility related costs as deemed appropriate by the city.
+(c)
+Stormwater user fee charges shall be based upon the total number of equivalent residential units (ERUs) associated with developed properties within the city. Each ERU shall correspond to 2,900 square feet of impervious surface.
+(d)
+Calculation of user fee charges. The periodic stormwater user fee charges imposed on all developed properties shall be calculated by multiplying the stormwater user fee billing rate (per ERU) times the number of ERUs for each customer account. The number of ERUs that will be utilized to calculate the user fee charge for each customer account shall be in general accordance with the following:
+(1)
+SFR customer class: Each SFR customer account shall be charged 1.0 ERU per month unless the conditions outlined below applies.
+(2)
+If two customer accounts are assigned to a SFR property (i.e. a duplex) then each customer account on that parcel will be charged 0.5 ERU per month for billing purposes.
+(3)
+NSFR customer class: Each NSFR customer shall be charged 1.0 ERU for each 2,900 square feet, or increment thereof, of impervious surface located on the property to establish the total number of ERUs for billing. Fractional ERUs will be rounded to one decimal place to establish the number of ERUs for billing each month.
+(4)
+Undeveloped land customer class: Undeveloped land shall be assigned zero ERUs and will not receive a stormwater user fee bill.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-80. - Stormwater user fee charge exemptions.
+(a)
+Except as provided in this section or otherwise provided by law, no developed public or private property located in the incorporated area of the city, containing more than 500 square feet of impervious surface, shall be exempt from the stormwater user fee charges. The stormwater utility user fee charge is not a tax and no exception, credit, offset, or other reduction in stormwater user fee charges shall be granted based on age, tax status, economic status, race, religion, disability, or other condition unrelated to the stormwater utility's cost of providing stormwater management program services and facilities.
+(b)
+Exemptions to the stormwater user fee charges are as follows:
+(1)
+Parcels which contain 500 square feet, or less, of impervious surfaces shall be exempt from stormwater user fee charges.
+(2)
+Linear railroad rights-of-way (i.e. tracks, rails, rail bed) outside of the defined rail yard limits shall be exempt from stormwater user fee charges. This exemption is in recognition of routine drainage system maintenance and capital construction activities undertaken by the rail road company associated with rights-of-way and drainage conveyance systems. However, railroad stations, rail yards, maintenance buildings, and/or other improved property used for railroad operations shall not be exempt from stormwater user fee charges.
+(3)
+City of Waycross streets and rights-of-way shall be exempt from stormwater user fee charges. The stormwater utility shall not charge the city a user fee charge for the impervious surface associated with city's streets and other impervious surfaces within the rights-of-way of the city's municipal street system. This exemption is granted in consideration of the city allowing the stormwater utility to utilize the city's existing streets, curbs, gutters, drainage ways and ditches, storm sewers, culverts, inlets, catch basins, pipes, head walls and other structures, natural and man-made, within and owned by the city which controls, diverts, and conveys surface water for the purposes of collecting, diverting, transporting and controlling surface runoff and storm waters. All other developed property owned by the city shall be subject to the imposition of stormwater user fee charges in accordance with this article.
+(4)
+Ware County roads and rights-of-way on the county road system located within the city limits shall be exempt from stormwater user fee charges inasmuch as Ware County has legal responsibility to perform all drainage system maintenance and capital construction activities with respect to such roads and rights-of-way. This exemption is in recognition of the drainage system maintenance and capital construction responsibilities undertaken by Ware County. All other developed property owned by Ware County that is within the service area shall be subject to the imposition of stormwater user fee charges in accordance with this article.
+(5)
+Georgia Department of Transportation (GDOT) highways, federal interstates, and rights-of-way on the state highway system within the city limits shall be exempt from stormwater user fee charges. This exemption is in recognition of routine drainage system maintenance, NPDES regulatory compliance, and capital construction activities undertaken by GDOT in association with GDOT rights-of-way road and drainage conveyance systems. However, offices, maintenance buildings, and/or other developed property used for GDOT purposes shall not be exempt from stormwater user fee charges.
+(6)
+Publicly owned developed property of the federal and state governments, their departments, agencies, boards, commissions, and authorities, shall not be exempt from stormwater user fee charges under this article.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-81. - Stormwater user fee charge credits.
+(a)
+The stormwater utility manager may grant credits or adjustments based on the technical and procedural criteria set forth in the City of Waycross Stormwater Utility Credit Manual (credit manual), which is incorporated into this article by reference and made a part hereof. Copies of the credit manual will be maintained by and made available from the stormwater utility manager.
+(1)
+Customers may apply for credits and/or adjustments in accordance with the credit manual.
+(2)
+A stormwater user fee charge credit shall be determined based upon meeting all technical requirements, standards and criteria contained in the credit manual. The amount of credit, or reduction of the stormwater user fee charge, shall be in accordance with the criteria contained in the credit manual.
+(3)
+Any credit allowed against the stormwater user fee charge is conditioned on continuing compliance, including proper future maintenance of the stormwater management systems and facilities with design and performance standards as stated in the credit manual and upon continuing provision of the controls, systems, facilities, services, and activities provided, operated, and maintained by the customer. The stormwater utility manager may revoke a credit at any time for noncompliance with applicable standards and criteria as established in the credit manual or this article.
+(4)
+In order to obtain a credit, the customer must make application to the city on forms provided by the stormwater manager for such purpose, and in accordance with the procedures outlined in the credit manual.
+(5)
+The application for any credit or adjustment must be in writing and must include the information necessary to establish eligibility for the credit or adjustment, and be in the format described in the credit manual. The customer's public utility account must be paid and current prior to review and approval of a stormwater utility credit application by the city. Incomplete applications will not be accepted for consideration and processing.
+(b)
+When an application for a credit is deemed complete by the stormwater utility manager, the stormwater utility manager shall have 30 days from the date the complete application is received to approve the credit in whole, approve the credit in part, or deny the credit. The stormwater utility manager's decision shall be in writing and will be mailed to the address provided on the adjustment request, and service shall be complete upon mailing. Credits applied for by the customer and approved in whole or in part, shall apply to all stormwater user fee charges in accordance with the terms defined in the credit manual.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)
+Sec. 105-82. - Stormwater user fee charge billing; delinquencies and collections; and adjustments.
+(a)
+Billing. The property owner or utility customer account holder, as identified from city public utility billing database information, Tax Digest and other public records of Ware County, shall be obligated to pay the applicable stormwater user fee charge.
+(1)
+Stormwater user fee charges shall begin to accrue October 1, 2021, and shall be billed in arrears on the customer's monthly public utility bill thereafter beginning in the November 2021 billing cycle.
+(2)
+The stormwater user fee charge will be billed and collected on a combined utility bill and collected along with other city utility services from the person in whose name such services have been placed on account with the city. If and when the account is closed or becomes delinquent, the bills for unpaid previous service as well as for current and future service shall be reverted to the property owner.
+(3)
+Customers that do not have another utility service shall receive a utility bill with stormwater user fees only or shall be billed via another method and frequency established by the city.
+(4)
+The city reserves the right to bill the stormwater user fee charge to either the property owner or the utility customer account holder (i.e. the tenant) as described herein.
+a.
+The city shall have the authority to bill the property owner's tenant for the stormwater user fee charge in situations where the tenant has opened an account with the city for public utility services; provided, however, the property owner shall remain ultimately liable for payment of the stormwater user fee charge imposed on the property.
+b.
+The city shall be authorized to bill the landlord or property owner for stormwater services where accurate and equitable apportionment of the user fee charges to multiple accounts on a parcel is not practical as determined by the city, and/or to facilitate efficient billing and collection of customer stormwater user fee charges. For example, the user fee charge for multi-family properties, i.e. properties with more than two units, may be billed to the property owner, landlord or property management company.
+(5)
+Frequency of the billing of stormwater user fee charges shall be specified by the city commission.
+(6)
+Failure of the customer to receive a utility bill or a stormwater user fee charge shall not be justification for nonpayment. Regardless of the party to whom the bill is initially directed, the property owner of each developed property subject to stormwater user fee charges shall be ultimately obligated to pay stormwater user fee charges and any interest on delinquent stormwater user fee charge payments.
+(7)
+If a property is unbilled, or if no bill is sent for a particular tract of developed property, the stormwater utility may back bill for a period of up to three years, but shall not be entitled to any interest or any delinquency charges during the back billed period.
+(b)
+Delinquencies and collections.
+(1)
+The stormwater utility user fee charge shall be billed and collected as an integral part of the city's billing for other utility services and the customer may not elect to separate such fee from the remainder of the utility bill for nonpayment. If the customer fails to include payment of the stormwater utility user fee charge portion of the utility bill when the utility bill is paid, or otherwise separates the stormwater utility user fee charge from the remainder of the bill for nonpayment, the entire billing will be in default notwithstanding any other payment made towards the bill, and, in addition to all other remedies which the city may have for nonpayment, any or all other utility services, including water service, may be terminated on the date printed on the bill in accordance with the procedures established in the City Code of Ordinances for such termination. Acceptance and retention by the city of any portion of the utility bill shall not constitute a waiver of the foregoing provisions.
+(2)
+All bills not paid by the due date are subject to the late payment charge, as approved by resolution of the city commission. In addition, all costs of collection, including attorney's fees and court costs, shall be added.
+(3)
+Unpaid stormwater service fees may also be collected by filing suit to collect on an unpaid account and by using all methods allowed by Georgia law to collect on any civil judgment obtained thereby, including enforcement of any lien resulting from any such judgment. Unless reduced to a judgment and a writ of fieri facias issued, the unpaid user fee charge shall not constitute a direct lien against the owner or the property.
+(c)
+Adjustments. The stormwater utility manager shall administer the procedures and standards for the adjustment of the stormwater user fee charge.
+(1)
+If a NSFR customer believes his/her stormwater user fee charge amount is incorrect, the NSFR customer may seek an adjustment of the stormwater user fee charge for the account at any time by submitting the request in writing to the stormwater utility manager and setting forth in detail the grounds upon which relief is sought. The customer's public utility account must be paid and current prior to consideration of an adjustment request by the city.
+(2)
+NSFR Customers requesting the adjustment shall be required, at their own expense, to provide accurate impervious area and other supplemental information to the stormwater utility manager, including, but not limited to, a survey certified by a registered land surveyor or a professional engineer or as otherwise allowed by the stormwater utility manager. Submittal of this information will be required if the city staff cannot make a determination based on field inspection and/or review of existing city aerial photography. Failure to provide the required information within the time limits established by the stormwater utility manager, as may be reasonably extended, may result in denial of the customer's adjustment request.
+(3)
+Once a completed adjustment request and all required information are received by the stormwater utility manager, the stormwater utility manager shall within 30 calendar days render a written decision.
+(4)
+In considering an adjustment request, the stormwater utility manager shall consider whether the calculation of the stormwater user fee charge for the account is correct.
+(5)
+The stormwater utility manager's decision shall be in writing and will be mailed to the address provided on the adjustment request, and service shall be complete upon mailing.
+(6)
+If the result of an adjustment is that a refund is due the applicant, the refund will be applied as a credit on the applicant's next stormwater user fee charge bill.
+( Ord. No. O21-23(2) , § 1, 9-21-2021; Ord. No. O21-30(2) , § 1, 12-21-2021)
+Sec. 105-83. - Appeals and hearings.
+(a)
+Appeals. An appeal to the city manager may be taken by any customer aggrieved by any decision of the stormwater utility manager. The appeal shall be taken within 30 calendar days of the decision of the stormwater utility manager by filing with the city manager a notice of appeal in writing specifying the grounds thereof. Upon the filing of the notice of appeal, the stormwater utility manager shall forthwith transmit to the city manager all documentation constituting the record upon which the decision appealed from was taken.
+(b)
+Hearings. The city manager shall fix a reasonable time for hearing the appeal and give written notice to the appellant at least ten calendar days prior to the hearing date. The notice shall indicate the place, date and time of the hearing. The city manager shall affirm, reverse, affirm in part, or reverse in part the decision of the stormwater utility manager after hearing the evidence. If the decision of the stormwater utility manager is reversed in whole or in part, resulting in a refund or credit due to the property owner or customer, then such refund or credit shall be calculated retroactive to the date of the initial appeal. The decision of the city manager shall be final, and there shall be no further administrative appeal. Any person aggrieved or dissatisfied with the decision of the city manager may petition the Superior Court of Ware County for writ of certiorari.
+( Ord. No. O21-23(2) , § 1, 9-21-2021)

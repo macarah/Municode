@@ -1,0 +1,534 @@
+Chapter 62 - SOLID WASTE[1]
+Footnotes:
+--- (1) ---
+Cross reference— Buildings and building regulations, ch. 18; businesses, ch. 22; environment, ch. 30; health and sanitation, ch. 42; streets, sidewalks and other public places, ch. 66; utilities, ch. 82.
+State Law reference— Authorization to provide garbage and solid waste collection and disposal, Ga. Const. art. 9, sec. 2, par. 3; Solid Waste Management Act, O.C.G.A. § 12-8-20 et seq.; local and regional solid waste plans, O.C.G.A. § 12-8-31.1; hazardous waste disposal, O.C.G.A. § 12-8-61 et seq.; Litter Control Law, O.C.G.A. § 16-7-40; transporting garbage or waste across state or county boundaries pursuant to contract, O.C.G.A. § 36-1-16; Resource Recovery Development Authorities Law, O.C.G.A. § 36-63-1 et seq.; littering highways, O.C.G.A. § 40-6-249.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 62-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Ashes, cinders and clinkers. The term "ashes" means the residue from the burning of wood, coal, coke and other combustible material in homes, stores, institutions and small commercial establishments and industrial plants, which is produced as the result of heating, cooking, and disposing of waste combustible material. The terms "cinders" and "clinkers" include large residue from the burning of coal and coke as produced from larger furnaces such as steam generator plants or large heating furnaces.
+Biomedical waste means pathological waste, biological waste cultures and stocks of infectious agents and associated biologicals, contaminated animal carcasses (body parts, their bedding, and other wastes from such animals), sharps, chemotherapy waste, discarded medical equipment and parts, not including expendable supplies and materials which have not been decontaminated, as further defined in Rule 391-3-4.15 of the Georgia Board of Natural Resources, and other such waste materials.
+Building rubbish means waste material resulting from construction, remodeling, repairs and demolition operations on houses, commercial buildings and other structures, including driveways and walks, and it comprises waste and rejected matter such as excavated earth, stones, bricks, plaster, wallpaper, sheetrock and laths, lumber, shingles, tile, concrete and waste parts occasioned by the installation or replacement of plumbing, heating systems, electrical work and roofing.
+Combustible rubbish means any burnable materials such as paper, rags, cartons, cardboard and wooden boxes, wood, excelsior, furniture, bedding, leather, rubber, tree branches, yard trimmings, sawdust, leaves, linoleum, plastics and the like.
+Dead animal means the carcass of any small animal such as a dog, cat, squirrel, opossum, rabbit, rat, reptile, fowl, bird or any other such animal of this size.
+Garbage means the animal and vegetable waste resulting from the handling, preparation, cooking and serving of foods, being composed largely of putrescible organic matter and its natural moisture content, originating primarily in home kitchens, stores, markets, restaurants, hotels, hospitals or other places where food is stored, prepared or served.
+Hazardous waste means any solid waste which has been defined as a hazardous waste in regulations promulgated by the administrator of the United States Environmental Protection Agency pursuant to the federal Solid Waste Disposal Act, as amended, particularly by the Resource Conservation and Recovery Act of 1976 (Public Law 94-580, 42 U.S.C. 6901, et. seq.), as amended, particularly by but not limited to the Used Oil Recycling Act of 1980 (Public Law 96-463), the Solid Waste Disposal Act Amendments of 1980 (Public Law 96-482), the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (Public Law 96-510), the Hazardous and Solid Waste Amendments of 1984 (Public Law 98-616), and the Superfund Amendments and Reauthorization Act of 1986 (Public Law 99-499), as amended, which are in force and effect on February 1, 1996, codified as 40 CFR § 261.3 and any designated hazardous waste.
+Household sharp medical waste means any type of product capable of puncturing or lacerating the skin that is designed or used to treat, diagnose, or prevent a disease or medical condition, including, but not limited to, scalpels and hypodermic needles.
+Industrial refuse means solid waste materials from factories, processing plants, wholesale establishments, assembling plants or shops and garages, such as paper, cardboard, cartons, food processing wastes, cinders and ashes, lumber scraps, sawdust, excelsior, shavings, floor sweepings, metal scrap and shavings, glass and other waste products.
+Leachate collection system means a system for collection of the leachate which may percolate through the waste and into the soils surrounding a facility the primary purpose of which is the storage, collection, transportation, treatment, utilization, processing, or disposal, or any combination thereof, of solid waste.
+Noncombustible rubbish means materials such as metals, tin cans, metal furniture, dirt, glass, crockery, ashes and cinders and mineral matter that will not burn at 2,000 degrees Fahrenheit.
+Recyclable materials means all glass, tin, aluminum, cardboard, paper and other materials that can be processed for reuse.
+Refuse means all classifications of solid waste.
+Roll-out cart and garbage roll-out cart mean a plastic 80-gallon container, furnished by the city, which has a lid and wheels to roll on. A roll-out cart may be referred to as a cart or receptacle.
+Rubbish comprises combustible rubbish and noncombustible rubbish.
+Sharps container means a container specifically manufactured for the disposal of sharp medical waste.
+Sludge includes the accumulated solid, residues, and precipitates generated as a result of waste treatment or processing, including wastewater treatment, water supply treatment, or operation of an air pollution control facility, and mixed liquids and solids pumped from septic tanks, grease traps, privies, or similar waste disposal appurtenances.
+Solid waste means any garbage or refuse; sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility; and other discarded material including solid, semisolid, or contained gaseous material resulting from industrial, commercial, mining, and agricultural operations and community activities, but does not include recovered materials; solid or dissolved materials in domestic sewage; solid or dissolved materials in irrigation return flows or industrial discharges that are point sources subject to permit under 33 U.S.C. 1342; or source, special nuclear, or by-product material as defined by the federal Atomic Energy Act of 1954, as amended (68 Stat. 923).
+Solid waste transfer station means an intermediate waste facility in which solid waste collected from any source is temporarily deposited to await transportation to the final disposal site or facility.
+Street refuse includes both combustible and noncombustible materials such as street sweepings, dirt, leaves, catchbasin collections, grass trimmings, contents of litter receptacles and glass.
+Yard rubbish means tree branches, stumps, twigs, grass and shrub trimmings, bushes, weeds, leaves and general yard and garden waste materials, and includes stone and dirt rakings and any waste materials resulting from landscaping.
+(Code 1976, §§ 4-2001, 4-2007; Ord. of 11-17-97, § 1; Ord. of 5-4-98(1), § 1)
+Cross reference— Definitions and rules of construction generally, § 1-2.
+Sec. 62-2. - Authority to prescribe additional rules and regulations.
+The superintendent of sanitation, subject to the approval of the mayor, shall have the authority to establish rules and regulations, consistent with the provisions of this chapter, governing the keeping, collection, removal and disposal of garbage and refuse. It shall be unlawful for any person to fail, neglect or refuse to comply with such rules and regulations.
+(Code 1976, § 4-2002)
+Sec. 62-3. - Unauthorized collection prohibited.
+No person other than a person under the direction of the superintendent of sanitation or a person otherwise authorized by the city shall haul away any garbage and refuse set out for collection by the sanitation department.
+(Code 1976, § 4-2003)
+Sec. 62-4. - Collection or transport of combustible refuse.
+No person shall engage in the collection or transportation of combustible refuse matter without having applied for permission therefor and received the approval of the mayor in the form of a written permit. Every person obtaining such permission shall conform to the rules of the department of sanitation. Upon violation of the rules, such permit shall be revoked by the mayor.
+(Code 1976, § 4-2004)
+Secs. 62-5—62-25. - Reserved.
+ARTICLE II. - RECEPTACLES
+DIVISION 1. - GENERALLY
+
+Sec. 62-26. - Use required; unlawful deposit of waste.
+(a)
+Throwing waste on street or sidewalk. It shall be unlawful for any person to place or throw waste paper, trash, waste material or garbage on any street, sidewalk or alley of the city.
+(b)
+Deposit of waste generally. It shall be unlawful to deposit garbage, trash or waste material upon any vacant or unoccupied premises or any public property within the city, and no garbage, trash or waste material shall be placed on any private property except in garbage containers specifically provided therefor.
+(c)
+Unsecured waste prohibited. It shall be unlawful for any property owner or tenant or other person to permit garbage, waste materials, trash, paper, paper cups or food containers of any kind to remain unsecured on his property. Such materials shall be placed in a closed, approved garbage container immediately after use.
+(Code 1976, § 4-2006)
+Sec. 62-27. - Interference with receptacles.
+No person shall overturn or otherwise interfere with the contents of any receptacle set out for removal by the city.
+(Code 1976, § 4-2037)
+Secs. 62-28—62-40. - Reserved.
+DIVISION 2. - ROLL-OUT CARTS
+
+Sec. 62-41. - Furnishing by city.
+The city shall furnish to each owner or lessee of a residence or apartment within the city an 80-gallon roll-out cart. Any owner or lessee shall be allowed to purchase, at his expense, an additional roll-out cart at the city's cost. The cart will be delivered after the resident or tenant furnishes either a utility deposit as required in section 82-171, or, if only sanitation services are provided, a sanitation deposit as required by subsection 62-141(a).
+(Code 1976, § 4-2008; Ord. of 1-19-87, § 1)
+Sec. 62-42. - Serial number; assignment; agreement by persons receiving carts.
+A roll-out cart furnished by the city shall be stamped with the name of the city and a serial number and shall be assigned to an address and to the owner or lessee at such address. Under no circumstances shall a roll-out cart be removed from the premises. The owner or lessee shall, for each roll-out cart furnished by the city, agree to the following in writing:
+Roll-out Garbage Cart Serial Number _____.
+The undersigned hereby acknowledges the receipt of one roll-out garbage cart supplied by the City of Garden City for the use of the resident at the below-stated address. Further, the undersigned agrees to pay for the replacement of the roll-out garbage cart should it be lost or stolen and to pay for the cost of any repairs to the roll-out cart made necessary because of abuse or negligence. The city will pay for all repairs to the roll-out cart caused by normal wear and tear. The undersigned acknowledges receipt of a copy of the City of Garden City regulations governing the collection and disposal of solid waste material.
+The undersigned is the (owner) (lessee) (check one) of the below address. The undersigned must be one or the other. The undersigned further acknowledges his responsibility and liability should the cart be lost or stolen or damaged as stated herein.
+EXPAND
+Date: _____
+Name: _____
+Address: _____
+  (Code 1976, § 4-2009)
+Sec. 62-43. - Ownership.
+The city shall retain ownership of roll-out carts which are provided to residences for garbage collection. Such carts shall not be removed from the premises.
+(Code 1976, § 4-2010)
+Sec. 62-44. - Marking of name or address.
+Where more than one family occupies a dwelling or an apartment, the roll-out cart shall be so marked as to indicate the family using the particular garbage cart. The cart may be identified by putting the apartment number thereon or the name of the persons having control of the disposal of garbage in the household. When carts are so identified, such cart may be used only by the person whose name or other identification is shown thereon.
+(Code 1976, § 4-2011)
+Sec. 62-45. - Report of stolen or damaged carts.
+If a roll-out cart is stolen or damaged, this fact should be reported within 48 hours to the city.
+(Code 1976, § 4-2012)
+Sec. 62-46. - Replacement of lost, stolen or damaged carts.
+Any residential roll-out cart provided by the city which becomes lost or stolen shall be replaced by the city and shall be paid for by the owner or lessee of the residence to which the cart is assigned. Carts which are damaged through normal use shall be repaired or replaced by the city. Carts which are damaged through no fault of the city shall be replaced by the city and paid for by the owner or lessee of the residence to which the cart is assigned.
+(Code 1976, § 4-2013)
+Sec. 62-47. - Notification of moving; reclamation of cart by city.
+If an owner or lessee moves from the residence to which a roll-out cart has been assigned, such owner or lessee shall notify the superintendent of sanitation at least two days prior to moving and the cart will be reclaimed by the city.
+(Code 1976, § 4-2014)
+Sec. 62-48. - Deposit of garbage.
+All garbage shall be deposited daily in the roll-out cart provided by the city. The cart shall be kept closed to keep out water and animals and to comply with state health and sanitation regulations.
+(Code 1976, § 4-2015)
+Sec. 62-49. - Time and location of placement for collection.
+Roll-out carts provided to residences by the city as provided in this division shall be placed near the curb, or near the street, but not in the street, or in such other accessible place approved by the superintendent of sanitation. Carts shall be placed in such location no earlier than 5:00 p.m. one day prior to the date of collection, and shall be removed no later than 7:00 p.m. on the date of collection. The superintendent of sanitation shall provide a schedule to each residence receiving garbage collection service from the carts from the city, which shall indicate the days on which such collection will be made. Any person who is physically unable to place the garbage roll-out cart at the curb or near the street by reason of physical limitations shall be excused from doing so by submitting a written request to the superintendent of sanitation setting forth such physical limitations and receiving permission from the superintendent to be excluded from placing the cart at the curb or near the street. Customers should make suitable arrangements with neighbors or friends to set out and remove their roll-out carts from the curbside if absent during the hours specified herein. A customer allowing a container to remain at curbside outside the hours specified herein shall be deemed to create a nuisance. Accordingly, containers observed to be on the street at times not allowed shall be removed by employees or designated agents of the city's solid waste collection provider and placed near the front edge of the residence or near the garage area. A tag shall be left on the cart handle explaining the infraction and service performed. A fee as stated in the city's rate schedule for the service will be charged to the monthly utility bill.
+(Code 1976, § 4-2016; Ord. No. 2010-13, § 1, 10-4-10; Ord. No. 2014-4, §§ 1, 2, 5-19-14; Ord. No. 2014-5, §§ 1, 2, 6-16-14)
+Secs. 62-50—62-60. - Reserved.
+DIVISION 3. - BULK CONTAINERS
+
+Sec. 62-61. - Required containers for townhouses and apartments.
+Owners of townhouse developments and owners of residential apartment buildings, or of a group of residence apartment buildings in the same complex wherein there are more than four living units either in a single building or in the complex treated as a unit, are hereby required to install and maintain for each townhouse development and for each residence apartment building which contains more than four living units, and for each residence apartment group or complex which group or complex contains in the aggregate more than four living units, stationary bulk refuse containers according to the following specifications:
+(1)
+A stationary bulk refuse container with a minimum capacity of four cubic yards is required for each townhouse development and for each residence apartment building which contains more than four and less than 13 living units, and for each residence apartment group or complex which group or complex contains in the aggregate more than four and less than 13 living units.
+(2)
+A stationary bulk refuse container with a minimum capacity of six cubic yards is required for each townhouse development and for each residence apartment building which contains more than 12 and less than 17 living units, and for each residence apartment group or complex which group or complex contains in the aggregate more than 12 and less than 17 living units.
+(3)
+A stationary bulk refuse container with a minimum capacity of eight cubic yards is required for each townhouse development and for each residence apartment building which contains more than 16 and less than 31 living units, and for each residence apartment group or complex which group or complex contains in the aggregate more than 16 and less than 31 living units.
+(4)
+Where a townhouse development or a residence apartment building or a residence apartment group or complex contains in excess of 30 living units, additional stationary bulk refuse containers are required to be installed and maintained as a minimum in the same ratio as set forth in subsections (1), (2) and (3) of this section for the living units in excess of 30.
+(5)
+The provisions of this section notwithstanding, a developer of a townhouse development having a ground floor entrance and living area may elect, at the time of site plan approval, to have such development served by individual containers at each dwelling unit rather than by stationary bulk containers. The developer shall indicate any such election by means of a notation on the required site plan for the development. The location of individual containers to be provided pursuant to such election shall be subject to the approval of the mayor or his designee, who shall determine, as a condition of approving the location of such individual containers, that all such individual containers are:
+a.
+At ground level;
+b.
+Located in such a manner as to provide reasonable accessibility to refuse collectors; and
+c.
+Located, with respect to buildings and roadways, in such a manner as to afford the most reasonably short distance from the nearest roadway to the container.
+For the purposes of this subsection, a developer of a townhouse development shall include an owner of a multifamily dwelling who proposes to develop or sell such multifamily dwelling as individually owned townhouses. A developer of a townhouse development whose site plans have already been approved shall have 90 days from the effective date of the ordinance from which this section derives to make the election set forth in this subsection (5).
+(Code 1976, § 4-2017(a))
+Sec. 62-62. - Required containers for businesses.
+Businesses are required to store their waste matter in either roll-out containers (regulation receptacles) or the city-prescribed metal bulk waste containers. The metal bulk containers are optional if a business has no more than three regulation receptacles. If the waste accumulated between collections exceeds three regulation receptacles, the business must purchase and maintain a prescribed bulk container. The size of the container and its location are to be prescribed by the superintendent of sanitation. If a business's waste exceeds the capacity of one bulk container, the business must purchase an additional container.
+(Code 1976, § 4-2017(b); Ord. of 6-5-95, § 2)
+Sec. 62-63. - Location.
+The location of required stationary bulk refuse containers shall be such as to permit convenient and safe access by the servicing truck and equipment using all-weather streets or alleys of adequate strength, to minimize as far as reasonably permitted excessive walking distances for tenants and occupants, and to be as aesthetically pleasing as the circumstances will reasonably allow, in order to conveniently permit servicing of such stationary bulk refuse containers upon a collection schedule of twice per week.
+(Code 1976, § 4-2018)
+Sec. 62-64. - Emptying of containers near residential districts prohibited during certain hours.
+(a)
+It shall be unlawful for any person to pick up or empty bulk refuse containers at businesses located in a C-1 and C-2 zoning classification lying adjacent to and abutting an R-1 residential zoning classification during the hours from 10:00 p.m. to 7:00 a.m.
+(b)
+A person convicted of a violation of this section shall, upon conviction, be punished as provided in section 1-13.
+(Ord. of 11-19-90, §§ 1, 2)
+Sec. 62-65. - Bulk container and dumpster areas.
+(a)
+All bulk containers and dumpsters in commercial zoning districts shall be located and designed so as not to be visible from the view of adjacent streets and properties. If the bulk container or dumpster is not visible from off the site, then it need not be screened. If the bulk container or dumpster is visible from off the site, screening is required in accordance with the following standards:
+(1)
+The screen shall be at least as high as the highest point of the bulk container or dumpster.
+(2)
+The screen shall be made of a material that is opaque at the time of installation and compatible with the design and materials of the principal building.
+(3)
+The screening shall contain gates to allow for access to the container and security.
+(4)
+The screening shall completely enclose the bulk container or dumpster so as to retain windblown litter.
+(5)
+The dumpster or bulk container must be accessible to the handicapped.
+(b)
+All bulk containers and dumpsters existing upon the effective date of this section (April 19, 1999), which do not meet the screening requirements as provided for herein shall be altered to comply with these provisions within ninety days of said date. A variance may be granted in the manner provided for by this chapter to grant a time extension in specific instances for compliance with the provisions of this section. Such variance shall only be granted if the applicant can demonstrate that:
+(1)
+The granting of a time extension will not be detrimental to persons or property in the neighborhood.
+(2)
+The granting of a time extension is not contrary to the intent of this section.
+(3)
+The granting of a time extension will alleviate a hardship on the applicant.
+(c)
+Variances in general. The board of appeals shall be authorized to grant general variances to the screening requirements of this section.
+(Ord. of 4-19-99(1), § 1)
+Secs. 62-66—62-85. - Reserved.
+ARTICLE III. - PREPARATION AND PLACEMENT FOR COLLECTION
+
+Sec. 62-86. - Wrapping and draining of garbage; materials permitted in receptacles.
+All garbage placed in receptacles shall be wrapped and shall be drained and free of dishwater, and no liquids, except the natural moisture content of garbage, shall be placed in receptacles. Combustible refuse such as paper, cardboard, rags, grass trimmings and small tin cans and glass bottles may be placed in garbage receptacles.
+(Code 1976, § 4-2021)
+Sec. 62-87. - Placement of leaves in receptacles.
+Subject to section 62-89, leaves shall not be placed in receptacles.
+(Code 1976, § 4-2022)
+Sec. 62-88. - Separate container required for certain materials.
+Separate receptacles shall be provided for ashes, glass, floor sweepings and other incombustibles, and for recyclable materials.
+(Code 1976, § 4-2023)
+Sec. 62-89. - Preparation and storage of trash and large objects.
+(a)
+Property owners or occupants shall be required to prepare and store trash for collection in the following manner:
+(1)
+Leaves, yard clippings, paper, straw and other small or flexible objects shall be placed in approved watertight containers. Approved containers shall include standard paper or plastic bags manufactured for refuse disposal, or other suitable containers which, when full, do not exceed 50 pounds in weight.
+(2)
+Subject to section 62-90, discarded tree branches, heavy brush, furniture, appliances and other large objects which cannot be placed in containers shall be stored or stacked in a neat and orderly manner until arrangements for special unscheduled collection by the city or other means of disposal have been made by the property owner.
+(b)
+Where collection service is provided from a public lane or alley, property owners shall place trash containers and bundles at the rear property line. Placement shall be made in a manner which does not create an obstruction to refuse collection and other vehicles which use the lane or alley. Offsets in fences, walls and hedges shall be provided, when necessary, to prevent such obstructions.
+(c)
+Where collection service is provided from a street, trash containers and bundles shall be placed in front of the property, adjacent to the road right-of-way. Placement shall be made in a manner which does not create an obstruction to pedestrian or vehicular traffic or interfere with roadside ditches.
+(d)
+Property owners and occupants are responsible for maintaining in a neat and orderly manner trash containers and bundles prepared and stored in accordance with the provisions of this section until collection is made.
+(Code 1976, § 4-2024)
+Sec. 62-90. - Size of tree and shrub trimmings.
+Tree and shrub trimmings shall not exceed four feet in length and 18 inches in diameter.
+(Code 1976, § 4-2025; Ord. of 12-2-85, § 1)
+Sec. 62-91. - Noncontainerized trash.
+(a)
+Any trash or debris which has not been containerized, bundled or stored in accordance with the provisions of this article shall be prohibited unless arrangements for special collection by the city or other means of disposal have been made.
+(b)
+No such trash or debris shall be placed in the public right-of-way, and all owners and occupants shall be responsible for the removal and storage of such trash or debris as provided in this article.
+(Code 1976, § 4-2028)
+Sec. 62-92. - Enforcement, violations and penalties.
+(a)
+If items of solid waste are placed for collection by a resident or business in violation of article III, article IV, or article VII of this chapter 62 by virtue of such items not being of the type collected by the city as provided herein or not being prepared or stored in compliance with the terms of this chapter, the city may cause such items to be removed and the owner of such premises will be liable for the cost to the city for such removal, including but not limited to employee and equipment costs, disposal costs, including the cost of any bags, which should have been used with respect to such items for collection, together with an administrative fee of $75.00. The city may, but shall not be required to, notify the owner of the premises of such violation and may, but shall not be required to, give the owner an opportunity to correct the violation. However, if notice of the violation is not given prior to the city's removing or having such items removed and assessing the costs in accordance with this section, the owner shall be given notice that the city has removed such items and of the assessed costs which shall be included on the owner's next utility bill. Such owner shall appeal such charge in writing with the director of public works. Using the information provided by the appellant, the director shall conduct a review of the circumstances surrounding the solid waste ordinance violation and respond to the appeal in writing within 30 days. If, among other grounds, it is determined by the director that neither the owner nor anyone who occupied the premises was responsible for the placement of such items or the failure to remove such items, he may waive such costs assessed against such property owner. A decision of the director to which is adverse to an appellant may be further appealed to the city manager within 30 days of receipt of notice of the adverse decision. Notice of the appeal shall be served on the city manager by the appellant, stating the grounds for the appeal. The city manager shall issue a written decision on the appeal within 30 days. All decisions of the city manager shall be served on the appellant personally or by registered or certified mail, sent to the billing address of the appellant. All decisions of the city manager shall be final.
+(b)
+Remedy not exclusive. The remedy listed above is not exclusive of any other remedy available under any applicable state or local law and the city may seek cumulative remedies
+(c)
+Each day any violation of any provision of article III, article IV, or article VII of this chapter exists shall constitute a separate offense.
+(d)
+In addition to any other penalty or sanction imposed in this section 62-92, a violation of any provision of article III, article IV, or article VII, pertaining to the preparation and placement of solid waste for collection shall also constitute a municipal civil infraction subject to the penalties in Code section 1-13.
+(Ord. No. 2012-13, § 1, 12-3-12)
+Secs. 62-93—62-100. - Reserved.
+ARTICLE IV. - COLLECTION SERVICE
+
+Sec. 62-111. - Generally.
+In order to protect the public health and sanitation of the city, to prevent the spread of contagious or infectious diseases, and to prevent the breeding of rodents, insects, and other vermin, all improved residential properties (single-family and multifamily residences) within the city shall receive regular municipal solid waste collection services from the city. No owner of a residential property shall be exempt or relieved from payment of the sanitation and handling fee by reason of failure or refusal to receive services provided the city. Such fee shall be imposed against the property itself and payment of the fee shall be enforceable and collected as provided by law for levy and sale of in rem liens.
+(Ord. No. 2010-4, § 1, 3-1-10)
+Editor's note— Ord. No. 2010-4, § 1, adopted March 1, 2010, repealed former § 62-111, and enacted a new § 62-111 as set out herein. Former § 62-111 pertained to similar subject matter. See the Code Comparative Table for complete derivation.
+Sec. 62-112. - Collection services available.
+Regular collection service shall be provided for:
+(1)
+Garbage, rubbish, and ashes, when stored in proper receptacles outside of buildings and placed in accessible locations.
+(2)
+Leaves, yard clippings, paper, straw, and other flexible objects when placed in a container as required by this chapter.
+(3)
+Tree branches, heavy brush, and other large shrubbery cuttings when prepared as required by this chapter.
+(Ord. No. 2010-4, § 2, 3-1-10)
+Editor's note— Ord. No. 2010-4, § 2, adopted March 1, 2010, repealed former § 62-112, and enacted a new § 62-112 as set out herein. Former § 62-112 pertained to regular trash collection. See the Code Comparative Table for complete derivation.
+Sec. 62-113. - Special service.
+Unscheduled collection service shall be provided on a request basis for large objects which cannot be placed in containers, but which are stored or bundled in accordance with this chapter.
+(Code 1976, § 4-2030(2))
+Sec. 62-114. - Materials not collected by city.
+Collection service shall not be provided for the following items:
+(1)
+Materials used in the construction of buildings or resulting from the demolition of buildings.
+(2)
+Logs and limbs resulting from commercial, contracted or major tree trimming operations.
+(3)
+Any garbage, refuse, rubbish, trash or waste material generated by [from] commercial establishments which accumulates as a result of conducting business. "Commercial establishment" shall mean any nonresidential building or establishment, for profit or nonprofit, including, but not limited to, those used for retail, wholesale, industrial, manufacturing, dining offices, professional services, automobile services, hotels and motels, restaurants, or shipping and receiving areas. Commercial establishments shall not include trailer parks or multi-unit residential dwellings.
+(4)
+Explosive or inflammable liquids and materials.
+(Code 1976, § 4-2030(3); Ord. of 6-5-95, § 1)
+Sec. 62-115. - Removal of dead animals.
+Dead animals which weigh 75 pounds or less shall be removed and disposed of by the city upon request at no charge. The property owner shall be responsible for the removal of dead animals which weigh over 75 pounds.
+(Code 1976, § 4-2038; Ord. of 12-2-85, § 2)
+Sec. 62-116. - Location for storage and placement of refuse.
+(a)
+Generally. Refuse of all classes shall be placed and stored outside of buildings at easily accessible locations.
+(b)
+Reserved.
+(Code 1976, §§ 4-2032, 4-2033; Ord. of 6-5-95, § 3)
+Sec. 62-117. - Collectors to use care in handling receptacles.
+All garbage and refuse collectors shall exercise every reasonable care in handling receptacles and shall not willfully break, deface or injure such receptacles.
+(Code 1976, § 4-2034)
+Sec. 62-118. - City not to be responsible for articles used as containers.
+The city and its employees shall not be responsible for any kitchen utensil, kitchen waste can or other article of value used for a waste receptacle or otherwise placed with regular refuse containers for the collectors to handle.
+(Code 1976, § 4-2035)
+Sec. 62-119. - Setting out of receptacle on collection day.
+Subject to the provisions of section 62-49, if the roll-out cart is not near the street side prior to the arrival of the garbage truck on the date of collection, it will indicate no service is needed on that collection day.
+(Code 1976, § 4-2036.1)
+Sec. 62-120. - Removal of receptacles from street.
+No garbage or other refuse receptacle of any kind shall remain upon any public street or sidewalk.
+(Code 1976, § 4-2036)
+Sec. 62-121. - Reserved.
+Editor's note— Ord. No. 2009-9, § 2, adopted Aug. 17, 2009, deleted § 62-121, which pertained to disposition of recyclable materials. See the Code Comparative Table for complete derivation.
+Sec. 62-122. - Disposition of sharp medical waste from households.
+Household sharp medical waste shall not be deposited in any other place or manner in the city than as herein provided:
+(1)
+Acceptable means of disposing of household sharp medical waste shall include:
+a.
+Disposal in an approved medical waste box, such as a sharps container; or
+b.
+Disposal in a heavy plastic container, such as a laundry soap bottle, providing that the lid is permanently affixed thereto using tape or other means, and the container is marked "medical waste: do not open".
+(2)
+No container for household sharp medical waste or loose household sharp medical waste may be mixed with recyclables.
+(3)
+The city's collector shall refuse to pick up any solid waste or recyclable material containing household sharp medical waste not separately contained and prepared as provided herein.
+(Ord. of 5-4-98(1), § 2)
+Secs. 62-123—62-140. - Reserved.
+ARTICLE V. - FEES
+
+Sec. 62-141. - Deposit.
+(a)
+The owner, tenant or occupant of the premises being furnished with garbage service shall deposit with the city manager a sanitation deposit in an amount set from time to time by council for residential service whenever the occupant, owner or tenant is not being furnished water to the premises and has not made the required utility deposit. The city manager shall issue his receipt for a deposit to the user on payment of the deposit. The deposit shall bear no interest and shall be kept by the city manager in a bank account separate from other funds and shall be used by the city only for the purpose of applying such deposit to unpaid and past due garbage charges and to pay for any lost or missing garbage roll-out carts.
+(b)
+If a garbage service user moves from the premises being furnished such services and he owes no unpaid garbage service bill to the city, the deposit shall be refunded to him without interest.
+(Ord. No. 2010-4, § 3, 3-1-10)
+Editor's note— Ord. No. 2010-4, § 3, adopted March 1, 2010, repealed former § 62-141, and enacted a new § 62-141 as set out herein. Former § 62-141 pertained to similar subject matter. See the Code Comparative Table for complete derivation.
+Sec. 62-142. - Monthly charges.
+It shall be the duty of the city manager to place into effect, with the approval of the mayor and council, a schedule of fees and charges for the collection of garbage, refuse, recyclable materials, and similar materials and, as often as it may appear necessary, to revise and adjust said schedules to produce funds sufficient to pay the operating expenses of regular sanitation service.
+(Ord. No. 2009-9, § 3, 8-17-09)
+Editor's note— Ord. No. 2009-9, § 3, adopted Aug. 17, 2009, deleted former § 62-142, and enacted a new § 62-142 as set out herein. Former § 62-142 pertained to similar subject matter. See the Code Comparative Table for complete derivation.
+Sec. 62-143. - Charge for special service.
+(a)
+Fees for special collection service shall be computed on the basis of crew hours required to make the collection. The rate of $12.00 per crew hour shall be used as a basis for computing fees, and there shall be a minimum fee of $10.00.
+(b)
+Fees due for special collection service may be billed along with the fee for water service, and shall be due and payable at the same time and under the same conditions as fees for water service.
+(Code 1976, § 4-2053)
+Sec. 62-144. - Due date for payment; authority to discontinue service.
+(a)
+Generally. All fees and charges for the collection of garbage, refuse and similar material shall be due and payable on the first day of each month in advance. When any user is 30 days delinquent in the payment of garbage service charges, the city may order the discontinuation of garbage service. All sanitary sewer, garbage and water service charges shall be due and payable on the first of each month. Upon the user becoming 30 days delinquent in the payment of such charges, the city may order the discontinuance of all such services.
+(b)
+Notice of discontinuance of service. Prior to the termination of garbage services to any property, a notice shall be transmitted to the person in whose name the account is established at such address as specified on the account. This notice of the discontinuation of such service may be incorporated in or transmitted with any regular or special billing and may be contained in the same notice for the discontinuation of water service. The notice shall contain the same language or similar language as provided in the notice specified in section 82-181 for the termination of water service.
+(c)
+Pickup of roll-out cart. Whenever garbage service is discontinued for nonpayment of the charges due the city, the city shall cause the garbage roll-out cart to be picked up by the city and there shall be a charge of $15.00 made by the city for picking up the garbage roll-out cart for the nonpayment of garbage service charges. If the roll-out cart is picked up by the city for nonpayment of garbage services, such services shall not be resumed or be reinstated until all accrued charges have been paid in full plus a charge of $15.00 for the picking up and redelivery of the roll-out garbage cart.
+(Code 1976, § 4-2052(c), (d), (f))
+Sec. 62-145. - Lien for payment of charges.
+The owner of the premises and real property shall be liable for all garbage charges for services made available by the city. When charges are due and remain unpaid for a period of 60 days, the mayor and council may cause an execution to be issued by the city manager against the owner of the premises to which the garbage services are furnished, and any other persons as may be liable therefor. The execution shall be a lien upon the premises, and when recorded in the general execution docket of the county shall be a lien upon all the property of the defendant in execution from the date of such record. The execution may be levied by the marshal of the city or his deputy, and after advertisement and other proceedings as in the case of sales for the nonpayment of taxes, the property levied upon shall be sold at public outcry to the highest bidder, and such sale shall vest an absolute title in the purchaser; provided that the defendant shall have the right to file an affidavit denying that the whole or any part of the amount for which the execution is issued is due, and stating what amount he admits to be due. The amount so admitted to be due shall be paid or collected before the affidavit is received, and the affidavit received for the balance. All affidavits shall set out in detail the reasons why the affiant claims the amount is not due. When received by the city marshal, such affidavits shall be returned to the municipal court if the amount is $500.00 or under, and the superior court of the county if the amount contested is over $500.00, and there the matter shall be tried and the issue determined.
+(Ord. No. 2010-4, § 4, 3-1-10)
+Editor's note— Ord. No. 2010-4, § 4, adopted March 1, 2010, repealed former § 62-145, and enacted a new § 62-145 as set out herein. Former § 62-145 pertained to similar subject matter. See the Code Comparative Table for complete derivation.
+Secs. 62-146—62-165. - Reserved.
+ARTICLE VI. - RECYCLING[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Ord. No. 2009-9, § 1, adopted Aug. 17, 2009, deleted former Art. VI, §§ 62-166—62-173, and enacted a new Art. VI as set out herein. Former Art. VI pertained to similar subject matter. See the Code Comparative Table for complete derivation.
+
+Sec. 62-166. - Findings.
+The mayor and council of Garden City, Georgia, hereby find that recycling will cause benefits by reducing demand on landfills and by conserving resources. Recycling will be encouraged and increased by having the city's waste management service equipment pick-up separated recyclable materials at residences utilizing roll-out carts for trash pick-up on a regular schedule. The mayor and council further find that, a survey of the residents having been taken and public hearings having been held, it appears that curbside pick-up of recyclable materials will be effective.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-167. - Pick-up by city's waste management service of certain recyclable materials from residences utilizing roll-out carts for trash pick-up.
+Effective September 1, 2009, the following recyclable materials shall be picked-up by the city's waste management service from residences utilizing roll-out carts for trash pick-up:
+(1)
+Plastics (Category 1 (PETE), including drink bottles and milk trays);
+(2)
+Plastics (Category 2 (PETE), including bottles for milk, washing up liquids, etc.);
+(3)
+Glass (clear, brown, green);
+(4)
+Aluminum/cans; and,
+(5)
+Paper (including newspaper, cardboard, magazines, and phone books).
+The above-mentioned list is subject to change depending upon the increased or reduced capabilities of the city's waste management service provider. Persons desiring to take recyclables to pick-up locations operated by any public or private enterprise may do so, and thus bypass the city's curbside recycling program for some or all of their recycling needs.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-168. - Obtaining Recyclable Containers.
+Persons electing to use the city pick-up of recyclable materials shall obtain from the city's waste management service a "single-stream" recycling container into which they may place all accepted recyclable materials. The container shall be furnished to the residence at no charge.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-169. - Common location of collection of recyclable materials.
+The city manager shall provide a schedule to each resident requesting collection of recyclable materials which shall indicate the days on which such collection will be made. Recycling containers shall be placed near the curb, or near the street, but not in the street, or in such other accessible place approved by the city manager. They shall be placed in such location on the day prior to collection and shall be removed no later than 7:00 p.m. on the date of collection.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-170. - Unlawful to take recyclable materials.
+Recyclable materials shall become the property of the city when they are placed at the curbside for collection.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-171. - Costs and revenues.
+The charge for curbside recycling service shall be included in the resident's monthly sanitation fee which also covers weekly trash collection. Any revenue received by the city or the city's waste management service for sale of recyclable materials shall be allocated to help defray costs of operating the recycling program.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-172. - Recycling coordinator.
+(a)
+The collection of materials designated for recycling by the city shall be supervised by the city manager's office.
+(b)
+The city manager's office is authorized to promulgate reasonable regulations to implement the collection of recyclable materials as detailed in this article.
+(Ord. No. 2009-9, § 1, 8-17-09)
+Sec. 62-173. - Reserved.
+Editor's note— Ord. No. 2009-9, § 1, adopted Aug. 17, 2009, repealed § 62-173, which pertained to designated recovered materials and derived from Ord. of 10-4-93, § 7.
+Secs. 62-174—62-179. - Reserved.
+ARTICLE VII. - YARD TRIMMINGS DISPOSAL REGULATIONS
+
+Sec. 62-180. - Definitions.
+As used in this article, the following terms shall have the meanings indicated:
+Commercial solid waste means all types of solid waste generated by stores, offices, restaurants, warehouses, and other non-manufacturing activities, excluding residential and industrial waste.
+Composting means the controlled biological decomposition of organic matter into stable, odor free humus.
+Leachate collection system means a system at a landfill for collection of the leachate which may percolate through the waste and into the soils surrounding the landfill.
+Municipal solid waste means any solid waste derived from households, including garbage, trash and sanitary waste in septic tanks and includes solid waste from single-family and multi-family residences, hotels, and motels, bunkhouses, campgrounds, picnic grounds, and day use recreation areas. The term includes yard trimmings and commercial solid waste but does not include solid waste from mining, agricultural, or silvicultural operations or industrial processes or operations.
+Municipal solid waste disposal facility means any facility or location where the final deposition of any amount of municipal solid waste occurs, whether or not mixed with or including commercial or industrial solid waste, including but not limited to municipal solid waste landfills.
+Municipal solid waste landfill means a disposal facility where any amount of the municipal solid waste, whether or not mixed with or including commercial waste, industrial waste, nonhazardous sludges or small quantity generator hazardous waste, is disposed of by means of placing an approved cover thereon.
+Yard trimmings means leaves, bush, grass clippings, shrub and tree prunings, discarded Christmas trees, nursery and greenhouse vegetative residuals, and vegetative matter resulting from landscaping, development and maintenance, other than mining, agricultural and silvicultural operations.
+(Ord. of 10-21-96(2), § 1)
+Sec. 62-181. - Placement and disposal; prohibitions.
+(a)
+It shall be unlawful to place or mix yard trimmings with municipal solid waste within the city limits.
+(b)
+Yard trimmings shall not be disposed at any municipal solid waste disposal facility having a liner and leachate collection system or requiring vertical expansion located within the city.
+(Ord. of 10-21-96(2), § 1)
+Sec. 62-182. - Sorting, storing, composting and collecting.
+Yard trimmings shall be handled in the following hierarchy:
+(1)
+Naturalized, low maintenance landscaping requiring little or no cutting;
+(2)
+Grass cycling by mowing it high and letting it lie;
+(3)
+Stacking branches into brush piles for use as wildlife habitats and for gradual decomposition into the soil;
+(4)
+Composting on the site where the material was grown, followed by incorporation of the finished compost into the soil at that site;
+(5)
+Chipping woody material on the site where such material was generated;
+(6)
+Collecting yard trimmings and transporting them to another site to be chipped or composted for later use;
+(7)
+Chipping woody material for later use as fiber fuel; and
+(8)
+Collecting yard trimmings and transporting them to solid waste facilities other than municipal solid waste disposal facilities which have a liner and leachate collection system or which continue to operate only because they have been approved for vertical expansion.
+(Ord. of 10-21-96(2), § 1)
+Sec. 62-183. - Penalties.
+Any person violating any section of this chapter shall be punished by a fine not to exceed $1,000.00, by imprisonment for a term not to exceed 30 days, or by a combination of such fine and imprisonment.
+(Ord. of 10-21-96(2), § 1)
+Secs. 62-184—62-199. - Reserved.
+ARTICLE VIII. - PERMITTING AND REGULATION OF PRIVATELY OWNED AND/OR OPERATED SOLID WASTE TRANSFER STATIONS
+
+Sec. 62-200. - Permit required.
+Permits issued by the city council shall be required for all privately owned and/or operated solid waste transfer stations.
+(Ord. of 11-17-97, § 2)
+Sec. 62-201. - Application for permits; fee; proof of financial ability.
+For each parcel of property for which a permit is sought, a separate application for a permit shall be filed with the director of public works, by the owner of the property and the proposed operator of the solid waste transfer station, containing:
+(1)
+The description, plat, ownership and present zoning of the land involved.
+(2)
+An engineering plan prepared by a professional engineer registered in the state, as required by the director of public works, which shall contain:
+a.
+Operation plan. An operation plan shall provide written instructions for the daily operation of the facility. The plan shall be revised when operational procedures change and such revisions shall be filed with the director of public works 30 days before taking effect. The plan shall include detailed procedures where applicable:
+1.
+Identification of persons responsible for the operation and maintenance of the facility, including the ownership of the facility and corporate structure;
+2.
+Adequate contingency operations, alternate waste handling and disposal methods in case of emergency such as a natural disaster or equipment failure;
+3.
+Types of waste to be handled;
+4.
+Methods for controlling a type of waste received at the facility. The plan shall specify inspection procedures, number and location of spotters, if applicable, and procedures to be followed if prohibited wastes are discovered;
+5.
+Adequate vehicle traffic controls and unloading;
+6.
+Adequate operations for gas, leachate, and stormwater control;
+7.
+Adequate ground water and surface water monitoring systems;
+8.
+Adequate type and capacity of equipment to be used; and
+9.
+Adequate plans for fire, nuisance, water pollution, odor and vermin control.
+b.
+Reserved.
+(3)
+Such other information as the director of public works may reasonably require, including but not limited to, the business addresses of the applicant.
+(4)
+An application processing fee of $1,500.00.
+(5)
+Adequate proof of financial ability to perform under the terms and conditions of the proposed permit.
+(6)
+Adequate proof that the proposed site meets the requirements of the zoning code of the city.
+(7)
+All information submitted to the state environmental protection division of the state department of natural resources for the issuance of a general state permit.
+(Ord. of 11-17-97, § 2)
+Sec. 62-202. - Recommendations of director of public works.
+The director of public works shall review the permit application within 30 days of receipt and may, within said 30 days, request submittal of additional information needed for him to make an evaluation of the proposed facility. The director shall submit a written report and recommendation of approval or denial of a permit to the city council within 30 days after receipt of a completed application. An application shall be deemed complete 30 days from application or upon receipt of all information requested by the director during the initial 30 day period following application. The director's report may include recommended conditions. In reviewing the permit application, the director shall consider and include in his report a recommendation:
+(1)
+Whether the proposed method of operation will comply with the requirements of this Code, and with all state and federal laws and regulations.
+(2)
+Whether any hazard or menace to the public health would be created by the proposed use of the land involved or by the proposed method of operation.
+(3)
+Compliance with the zoning code of the city.
+(4)
+The impact of the proposed facility on surrounding and nearby land uses including those impacts caused by anticipated traffic patterns associated therewith.
+(5)
+Such other considerations as he deems relevant.
+(Ord. of 11-17-97, § 2)
+Sec. 62-203. - Council procedure.
+After receipt of the report or recommendation of the director of public works, but no more than 90 days after the application is complete, the city administrator shall schedule a public hearing before the city council in accordance with the following:
+(1)
+The city administrator shall provide at least 20 days notice of a hearing to be given by mail to the applicants.
+(2)
+The city clerk shall provide notice of the time and place of the public hearing which shall be given by mail to all owners of real property within 300 feet of the boundaries of the proposed facility. The applicants shall be responsible for providing the names and addresses of said owners to the city administrator. For purpose of notice requirements to adjoining owners, the names and addresses of these owners shall be deemed to be those on the current tax records of the property on file with the Chatham County Tax Assessor. Failure of the applicants or owners of real property required by this section to be notified by mail to receive the notice shall not invalidate or otherwise have any effect on the public hearing or action by the city council.
+(3)
+Notice of the public hearing held pursuant to this section shall be published once in a newspaper of general circulation not less than 30 days in advance of the date of the hearing. The published notice shall be in a form prescribed by the city administrator and shall be published by the applicant at its expense. The applicants shall file proof of publication with the city administrator prior to the public hearing.
+(4)
+The applicants shall post a sign on the property upon which the application is made in such form as required by the city administrator not less than 14 days prior to the date of the public hearing. The sign shall be posted in full view of the public on the street side of the land involved and shall be continuously maintained by the applicants until the public hearing before the city council.
+(5)
+Once begun pursuant to the notice herein, the public hearing may be continued, as necessary, as announced by the chair prior to the close of the public hearing.
+(Ord. of 11-17-97, § 2)
+Sec. 62-204. - Issuance of permit.
+(a)
+The city council may issue the permit with or without conditions if it finds that the facility satisfies the criteria properly considered by the director of public works.
+(b)
+No permit shall be issued until the proposed site has acquired all appropriate zoning designations, including but not limited to, necessary zoning classification, necessary land use designation, necessary variances and necessary exceptions.
+(Ord. of 11-17-97, § 2)
+Sec. 62-205. - Operation of solid waste transfer station.
+The following regulations apply to the operation of a privately owned and/or operated solid waste transfer station:
+(1)
+A solid waste transfer station shall be supervised during the hours of operation. The area shall be kept neat and sanitary and public access shall be controlled at all times. The director of public works may require that the solid waste transfer station be supervised at times other than during the hours of operation if necessary to prevent unlawful fires, unauthorized dumping or littering of nearby property.
+(2)
+Seepage, drainage, or escape of any material or gas from the facility which is an odor, nuisance or health hazard or which pollutes a stream is prohibited.
+(3)
+No asbestos, biomedical waste, hazardous waste, liquid waste, radioactive waste, or sludge, shall be handled at a solid waste transfer station.
+(4)
+Rodents shall be exterminated and insects shall be controlled at a solid waste transfer station.
+(5)
+There will be displayed at the entrance of each solid waste transfer station handling site a prominent sign stating the permit holder's name, address, and telephone of number and the phrase: "Operated Under City of Garden City Permit No. _____."
+(6)
+Any leachate emanating from a solid waste transfer station shall be collected and treated off-site to meet the applicable standards of state law.
+(7)
+A solid waste transfer station shall be operated to provide for the collection, control and treatment of surface water run-off from the site if necessary to meet applicable standards of state law.
+(8)
+The permit holders must provide the department of public works personnel, upon reasonable notice and upon presentation of appropriate credentials, access to the solid waste transfer station premises, at reasonable times, for the following purposes:
+a.
+Inspection of the facility, equipment, practices or operations regulated or required under the conditions of the permit; and
+b.
+Sampling or monitoring any substances or parameters at any location reasonably necessary to assure compliance with the permit.
+(9)
+The city shall have a right to be present whenever and shall be notified before ground or surface water samples or measurements are taken for required regulatory analysis and to receive promptly, upon request, a split sample and a copy of the analytical report.
+(10)
+The transfer station shall comply with all city ordinances, rules and regulations related to odor.
+(11)
+All unloading and storage areas shall be screened from view from adjacent properties occupied by residential, institutional, office and retail uses, and shall be conducted within an enclosed building when the property on which the facility is located is contiguous to, or across a right-of-way from, property having a residential classification or containing a residence.
+(12)
+The level of sound emitted from the facility shall not exceed:
+a.
+Fifty-five dBA when measured at the closest property line of residentially zoned property; or
+b.
+Sixty-five dBA when measured at the closest property line of property occupied by institutional, office, or retail uses.
+(13)
+The facility shall operate only between the hours of 7:00 a.m. and 7:00 p.m.
+(Ord. of 11-17-97, § 2)
+Sec. 62-206. - Environmental damage insurance policy.
+(a)
+Required. The director of public works shall require, as a condition for the issuance of a permit under this article, to obtain and maintain in force an environmental damage insurance policy, a security bond, a self-insurance certificate or a trust bond certificate in the amount of $1,000,000.00.
+(b)
+Indemnification. The owners and/or operators of solid waste transfer stations shall indemnify the city against all claims of damages and responsibilities for clean-up due to environmental degradation of the air, land, surface water and groundwater within the jurisdiction of the city caused by the facility during the period in which such owner owns and such operator operates, the solid waste handling transfer station.
+(c)
+Proof of insurance. The owner and/or operator of a solid waste transfer station shall show proof of insurance, self-insurance, a trust fund certificate or a security bond before the owner and/or operator are issued the permit by the city.
+(d)
+Conflict with federal or state requirements. The requirements for obtaining and maintaining in force an environmental damage insurance policy, a security bond, a trust fund certificate, or a self-insurance certificate shall not be construed as usurping any financial requirements established by the United States Environmental Protection Agency of the state environmental protection division.
+(Ord. of 11-17-97, § 2)
+Sec. 62-207. - Correction of violations.
+The director of public works may issue an order to correct any violation of the conditions of the permit within a reasonable period of time as provided by the director. If the order is not obeyed, the director may suspend the permit, seek judicial penalties, and/or request injunctive relief.
+(Ord. of 11-17-97, § 2)
+Sec. 62-208. - Suspension, revocation, termination of permit; renewal application; and notification of transferred permit.
+(a)
+The director of public works may, by order, suspend the operation of any solid waste transfer station, and suspend the permit applicable thereto, for any violation of the requirements of this article or for violation of any condition of the permit.
+(b)
+The city council may, after notice and a public hearing, revoke a permit issued under this article for repeated or continual violations of this article's requirements or the conditions of the permit.
+(c)
+Operation of the facility following the revocation or suspension of the permit shall be a violation of this article.
+(d)
+In the event that the permit holders appeal the issues related to a suspension or revocation to a court of law and the city prevails, the city shall be entitled to reasonable attorneys' fees and costs.
+(e)
+An application for the renewal of the permit must be submitted six months prior to the expiration of the permit. The director of public works shall recommend conditions for the renewal permit and said requirements shall be designed to provide assurances that the continued operation of a facility will pose no significant threat to the public health or the environment. Renewal permits require the city council's approval and are discretionary.
+(f)
+In the event a permit is transferred, the permit holders have 90 days before transfer to notify the director of public works in writing regarding the transfer. The new owner and/or operator must disclose ownership and corporate structure and must submit proof of financial responsibility for operation of the facility. Transfer does not relieve any previous owner and/or operator of liability for any violation during the term of operation by the prior owner and/or operator.
+(Ord. of 11-17-97, § 2)
+Sec. 62-209. - Violations and penalties.
+(a)
+It is unlawful for any person to violate any provision of this article or an order of the director of public works entered pursuant to this article.
+(b)
+A person who knowingly, willfully, or with culpable negligence violates any provision of this article or an order of the director of public works entered pursuant to this article shall be guilty of a misdemeanor.
+(c)
+In addition to any other penalty, a person who violated any provision of this article shall be liable for several penalties of up to $2,000.00 per offense. Each day during any portion of which such violation occurs shall constitute a separate offense. Such civil penalty shall be collected in a civil action brought in the name of the city.
+(Ord. of 11-17-97, § 2)
+Sec. 62-210. - Financial responsibility.
+The holder and any transferee of a permit shall provide to the city a copy of any financial audit which may be required by state law by reason of owning and/or operating the transfer station, simultaneously with the submission of said audit to the state. Failure to supply such information shall constitute grounds for suspension and revocation of the permit.
+(Ord. of 11-17-97, § 2)

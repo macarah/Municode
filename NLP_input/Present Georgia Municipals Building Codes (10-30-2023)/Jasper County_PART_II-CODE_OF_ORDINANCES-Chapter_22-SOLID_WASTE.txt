@@ -1,0 +1,261 @@
+Chapter 22 - SOLID WASTE[1]
+modified
+Footnotes:
+--- (1) ---
+State Law reference— Authorization to provide garbage and solid waste collection and disposal, Ga. Const. art. IX, § II, ¶ III(a)(2); Georgia Comprehensive Solid Waste Management Act, O.C.G.A. § 12-8-20 et seq.; local, multijurisdictional and regional solid waste plans, O.C.G.A. § 12-8-31.1; Georgia Hazardous Waste Management Act, O.C.G.A. § 12-8-60 et seq.; Litter Control Law, O.C.G.A. § 16-7-40 et seq.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 22-1. - Solid waste management plan adopted.
+The solid waste management plan for the county and the cities of Monticello and Shady Dale is adopted.
+(Code 2000, § 58-1)
+Sec. 22-2. - Definitions.
+modified
+(a)
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this subsection, except where the context clearly indicates a different meaning:
+Dump means to throw, discard, place, deposit, discharge, bury, burn, or dispose of a substance.
+Inert waste means wastes that will not or are not likely to cause production of leachate of environmental concern. Such wastes are limited to earth and earth-like products, concrete, cured asphalt, rock, bricks, yard trimmings, stumps, limbs, and leaves. This definition excludes industrial and demolition waste not specifically listed under O.C.G.A. § 12-8-22(12.1).
+Litter means discarded materials of every kind as defined in O.C.G.A. § 16-7-42(1).
+Open dump or dump site means a disposal site, location or facility at which solid waste from one or more sources is left to decompose, to burn or to otherwise create a threat to human health or the environment as defined in Ga. Comp. Rules & Regs. § 391-3-4.01(44) of the Georgia Rules for Solid Waste Management.
+Public or private property means the right-of-way of any road or highway; any body of water or watercourse or the shores or beaches thereof; any park, playground, building, refuge, or conservation or recreation area; and any residential or farm properties, timberlands, or forests, as defined in O.C.G.A. § 16-7-42(2).
+Scrap tire carrier means any person engaged in picking up or transporting scrap tires not otherwise exempted under Ga. Comp. Rules & Regs. § 391-3-4.19(5.g) for the purpose of removal to a scrap tire processor, end user or disposal facility under O.C.G.A. § 12-8-22(32).
+Scrap tire generator means any person who generates scrap tires as defined in Ga. Comp. Rules & Regs. § 391-3-4.19(2.i) of the Georgia Rules of Solid Waste Management.
+Waste means all discarded substances and materials whatsoever exceeding ten pounds in weight or 15 cubic feet in volume, or any such substance in any weight or volume if biomedical waste, hazardous waste (as that term is defined in O.C.G.A. § 12-8-62), or any such substance or material dumped for commercial purposes. With the exception of nonhazardous, low-impact animal byproducts classified by DNR, the term "waste" includes, without limitation, bottles, boxes, containers, papers, tobacco products, tires, dead animals including their bedding and other wastes from such animals, appliances, mechanical equipment or parts, building or construction materials, tools, machinery, wood products, motor vehicles and motor vehicle parts, vessels, aircraft equipment, waste oil, batteries, antifreeze, sludge from a wastewater treatment facility, water supply treatment plant, or air pollution control facility, air contaminants from any source or facility, and any other discarded material or substance of every kind and description resulting from domestic, industrial, commercial, mining, or governmental operations, including household, commercial, construction and demolition waste, or industrial solid waste which is nonhazardous, nonmedical, and in a form classified as solid waste by the state department of natural resources.
+(b)
+The definitions set forth in O.C.G.A. § 12-8-22 ("Solid Waste Management - General Provisions - Definitions"), shall be effective as definitions of the words, terms and phrases used in this chapter. All words, terms and phrases used herein, other than those specifically defined elsewhere in this chapter, shall have the respective meanings ascribed to them in O.C.G.A. § 12-8-22, and shall have the same scope and effect that the same words, terms and phrases have where used in O.C.G.A. § 12-8-22.
+(Ord. of 9-11-2000, § I)
+State Law reference— Similar definition for "egregious litter," O.C.G.A. § 16-7-51(4).
+Sec. 22-3. - Waste disposal.
+(a)
+The owner or occupant of any premises shall be responsible for the sanitary handling and disposing of all litter, scrap tires, and municipal, commercial, or industrial solid waste on the premises used or occupied by such person.
+(b)
+It shall be unlawful to dump, open dump, or permit the dumping of litter, scrap tires, municipal, commercial, or industrial solid waste or recyclables at any place in the county, including, and without limitation, any public or private property in the county or any waters in the county unless such litter or waste originates in the county or other areas authorized by the county board of commissioners and:
+(1)
+The property is designated and permitted by the state and/or by the county board of commissioners for disposal of litter and waste, and the person is authorized to use such property;
+(2)
+The litter, municipal, commercial or industrial solid waste, recyclables or scrap tires are placed into a receptacle or container installed specifically for such property; and
+(3)
+The property has a valid solid waste handling permit issued by EPD.
+(c)
+It shall be unlawful for any person to dump or place waste unless authorized to do so by law or by a duly issued permit:
+(1)
+In or on any public highway, road, street, alley, or thoroughfare, including any portion of the right-of-way thereof, or on any other public lands except in containers or areas lawfully provided for such dumping;
+(2)
+In or on any freshwater lake, river, canal, stream, or creek; or
+(3)
+In or on any public or private property unless such dumping will not adversely affect the public health and is not in violation of any other local, state or federal law, rule or regulation.
+(d)
+No person defined as a tire retailer will hold more than 1,000 scrap tires in storage. All persons defined as scrap tire generators, scrap tire carriers, or tire retailers shall be subject to rules as defined in Ga. Comp. Rules & Regs. § 391-3-4.19 and shall handle scrap tires in accordance with the provisions of O.C.G.A. § 12-8-20 et seq., and the Rules for Solid Waste Management, Ga. Comp. Rules & Regs. ch. 391-3-4 applicable to solid waste, except where the requirements of this chapter are more stringent.
+(Ord. of 9-11-2000, § II)
+Sec. 22-4. - Transporting solid waste and litter.
+(a)
+It shall be unlawful to drive or operate a vehicle in the county hauling municipal, commercial, or industrial solid waste that leaks, flows freely, or spills from said vehicle.
+(b)
+Any litter or municipal, commercial, or industrial solid waste hauled on a moving vehicle shall be covered in such a manner that litter will not blow or escape from said vehicle while moving or parked on public or private property in the county.
+(c)
+It shall be unlawful for any vehicle to transport litter or waste on any public street, or roadway, in the county without suitable coverings or other restraint devices securely fastening such litter or waste to the vehicle so as to prevent any material from being deposited onto other motor vehicles, pedestrians, or the roadway and its adjoining areas. However, this section shall not prohibit the necessary and permitted spreading of any substance in public road maintenance or public road construction operations.
+(d)
+It shall be unlawful for a business or private person engaged in waste hauling or transportation for hire from businesses or private residences to a county landfill or dump site to dispose of materials as solid waste that have been intentionally sorted as recyclables by the business or private residence customers, rather than placing the material in the location designated by the county for said recyclables.
+(Ord. of 9-11-2000, § III)
+Sec. 22-5. - Regulation of all solid waste or litter containers and receptacles.
+(a)
+All solid waste or litter containers or receptacles shall be maintained in as sanitary a manner as is reasonably possible consistent with its use for solid waste and litter disposal.
+(b)
+Persons using solid waste and litter containers or receptacles shall deposit only authorized solid waste and refuse in the container or receptacle.
+(c)
+No person shall deposit a scrap tire in any container or receptacle unless the container has been designated for the collection of scrap tires and unless authorized by the owner of the receptacle or the county board of commissioners or its designee.
+(d)
+No person shall deposit any burning or smoldering material in any solid waste or litter container or receptacle.
+(e)
+No person shall set fire to the contents of any such container or receptacle.
+(f)
+No person shall deposit large non-compactable articles in containers or receptacles such as, but not limited to, stoves, refrigerators, bed springs, automobile parts, boat parts, tree limbs, or air conditioning units, except in those containers or receptacles designated for that purpose only.
+(g)
+No person shall deposit any flammable or explosive materials in any such container or receptacle.
+(h)
+No dead animals, livestock, or poultry shall be deposited in any such container or receptacle.
+(i)
+No person shall willfully damage or alter the location of any such container or receptacle without the written consent of the county board of commissioners.
+(j)
+No salvage or scavenging operations shall be conducted in or around such containers or receptacles except by written consent of the board of commissioners.
+(k)
+No person shall deposit any solid waste at a county solid waste collection and recycling center unless such solid waste is contained in such a manner that the attendant can handle it. Solid waste shall be deposited only during the official hours of operation, unless the county board of commissioners or its designee gives express written permission.
+(l)
+No person shall deposit solid waste, water or litter of any kind at any county solid waste collection and recycling center into county-owned receptacles or containers designated for the collection of recovered materials. Only authorized materials such as glass, aluminum, newspaper, cardboard, and plastic, or other accepted material, may be deposited in the appropriate container designated for said material.
+(Ord. of 9-11-2000, § IV)
+Sec. 22-6. - Regulation of municipal solid waste landfills, inert landfills, construction and demolition landfills, and solid waste collection and recycling centers.
+(a)
+No landfill shall be operated in the county other than a landfill designated by the board of commissioners as the county landfill, and no private municipal solid waste landfill shall be operated in the county without a solid waste handling permit issued by the state environmental protection division, with the exception of inert construction and demolition landfills having been properly permitted as such by the state DNR/EPD.
+(b)
+It shall be unlawful for any person to deposit solid waste of any kind outside the gate of a solid waste collection and recycling center.
+(c)
+No scavenging operation of any kind shall be allowed at a solid waste collection and recycling center, without express written permission from the board of commissioners.
+(d)
+No person shall move, remove, or cross any fence, gate, barrier, or sign at a solid waste and recycling center.
+(e)
+The price on solid waste brought to said center will be set to defray the total cost of solid waste and recycling operations.
+(f)
+The hours of operation of said centers will be set to maximize convenience to residents of that area.
+(g)
+All recovered materials (recyclables) brought to collection centers will be accepted free of charge, provided that they are separated under current market specifications and likewise uncontaminated.
+(h)
+The attendant on duty will have the full authority of said center consistent with this chapter.
+(i)
+All rules listed in this section shall apply to all public and/or private property in said county, all waters and/or waterways of the county, and all county solid waste collection and recycling centers.
+(Ord. of 9-11-2000, § V)
+Sec. 22-7. - Accumulation.
+(a)
+No owner or occupant of any premises shall allow litter or waste to accumulate thereon. No owner or occupant of any such property shall bury or burn litter or waste without prior authorization and written permission from the county board of commissioners or applicable regulatory agency, including, but not limited to, the environmental protection agency, environmental protection division, and/or the state forestry service. A burn permit from the state forestry service must be obtained before burning brush, stumps or yard trimmings unless the burn is conducted by, or under the supervision of, the state forestry service. Nothing in this provision shall authorize or be construed to permit the burial or burning of any material which is otherwise prohibited by state or federal law.
+(b)
+No owner or occupant of any property shall allow the accumulation, on his premises, of garbage or waste where such material creates or causes a health hazard to neighbors or other citizens, or which is unsightly or emits foul or obnoxious odors.
+(c)
+It shall be unlawful for any person to set fire to the contents of, indiscriminately scatter, or disperse the contents of, or otherwise vandalize any containers used for the storage or dumping of litter or waste.
+(d)
+The conduct described in subsections (a) through (c) of this section shall constitute a separate violation of this chapter for each day the garbage or waste material remains or continues to unlawfully pollute, contaminate, or burn on such premises.
+(Ord. of 9-11-2000, § VI)
+Sec. 22-8. - Violations and penalties.
+(a)
+Any person violating any portion of this chapter shall be guilty of a misdemeanor and, upon conviction thereof, in the magistrate court of the county, shall be punished as follows:
+(1)
+For the first offense, by a fine of not less than $100.00 and not more than $1,000.00, or up to 30 days imprisonment, or both. Each day the violation continues shall constitute a separate offense. However, this section shall not preclude the county from choosing to seek civil redress in a court of competent jurisdiction in addition to the criminal prosecution, it being the intent of the county to have both the civil and criminal rights of prosecution in this area;
+(2)
+For the second or more offenses, the violator shall be guilty of a misdemeanor of high and aggravated nature punishable by a fine of not less than $750.00 and not more than $1,000.00, or up to 60 days imprisonment, or both. Each day the violation continues shall constitute a separate offense.
+(b)
+In the sound discretion of the magistrate court, the offender may also be directed to pick up and remove litter from any public streets or highways and/or other public rights-of-way for a distance not to exceed one mile, any litter the person has deposited and any and all litter deposited thereon by anyone else prior to the date of execution or sentence as provided in O.C.G.A. § 16-7-43.
+(c)
+In the sound discretion of the magistrate court, the person may be directed to pick up and remove litter from any public park, private right-of-way, or with the prior permission of the legal owner or tenant in lawful possession of such property, any private property upon which it can be established by competent evidence that the person has deposited litter thereon, and all litter deposited thereon by anyone prior to the date of execution of sentence.
+(d)
+The court may order the publication of the names of persons convicted of violating this chapter.
+(e)
+The court may order the violator to repair or restore property damaged, or pay damages resulting from such violations or perform public service related to the repair or restoration of property damaged by the violation.
+(f)
+In the case of an improper garbage or waste disposal site, the property owner, contractor, developer, builder or other person responsible for the property shall cause the property to be cleaned and to come into full compliance with this chapter. The county shall not be responsible for any costs of cleanup or remediation.
+(g)
+The expenses incurred by the county for cleanup, enforcement of violations, and penalties shall be chargeable to the violator, including, but not limited to: court costs, filing fees, special investigations, mutual aid assistance from other agencies and other costs necessary for the reasonable enforcement of this chapter.
+(h)
+In addition to actions filed by the county for violations of this chapter, any state or federal agency may independently file separate or concurrent charges within their respective applicable authority and seek conviction within a court of competent jurisdiction.
+(Ord. of 9-11-2000, § VII)
+Sec. 22-9. - Enforcement.
+(a)
+Enforcement of this chapter shall be the responsibility of the county board of commissioners, the environmental education and enforcement officer or his designee, the county marshal's office, and the county sheriff's office.
+(b)
+Any person authorized to enforce this chapter shall be empowered to enter any property, upon reasonable cause, at reasonable or necessary times in order to properly inspect for violations of this chapter, subject to the condition that to allow entry onto private property for inspection, the alleged violation of this chapter must be visible from a public road or right-of-way, or upon said officer having received a valid complaint by a resident of the county, alleging a violation of this chapter, or by a judge's order upon said officer so having received information or allegations that constitute reasonable suspicion that a serious unlawful act or threat to the health and safety of the community and/or the environment has occurred or is about to occur. Any search of a building must be accomplished in accordance with applicable federal law.
+(c)
+Appeals for violation of this chapter may be made to the magistrate court of the county.
+(Ord. of 9-11-2000, § VIII)
+Sec. 22-10. - Civil remedies and abatement of nuisance.
+(a)
+In the event that any person violates any provision of this chapter, the county or other appropriate authority may, in addition to other remedies, institute an action for injunction, cleanup or stop work orders, mandamus, irreversible damage fines, lien on property or other appropriate action or proceeding to prevent such unlawful acts or to correct or abate such violation.
+(b)
+Upon finding evidence, a written notice of violation may be issued at the discretion of the enforcing officer in lieu of a citation. In the absence of corrective action or in the event that a second violation occurs, the evidence constituting the notice of violation shall be submitted as evidence for consideration of the first offense before the magistrate court of the county and the pending case treated as a second offense as defined in section 22-8(a)(2).
+(c)
+If a person is found guilty of a violation of the provisions of this chapter, the court and/or the board of commissioners may cause written notice to be given to the violator instructing that person to properly address any provision still remaining in violation of this chapter for which said violator is convicted. Such notice shall be by personal service and in the event the violator cannot be so served, then by registered mail sent to the violator's last known address.
+(d)
+Failure to comply.
+(1)
+Upon failure, neglect, or refusal of any person so notified to properly address said provisions within five business days after receipt of notice provided in this section, the board of commissioners is hereby authorized and empowered to cause the cleanup, removal or disposal of, including, but not limited to, any litter, or any types of waste dumped, deposited, thrown, or left on the public or private property in violation of this chapter on behalf of the county. The expenses incurred by the county shall be chargeable to the violator and the board of commissioners and/or the court shall send a statement of the amount due for said expenses by registered mail except in those cases where voluntary arrangements were made under subsection (d)(2) of this section.
+(2)
+In instances were a resident does not have the means to dispose of large items that cannot be addressed by the contract holder for county curbside pickup, an individual may request assistance through the county public works department utilizing the fee schedule established by resolution. In such cases where the resident has made proper arrangements through public works, citations will not be issued for items addressed in said manner.
+(e)
+When the full amount of such charges are not paid by the violator within 30 days after receipt of said statement as provided for in this section, the board of commissioners shall cause to be recorded in the execution docket a sworn statement showing the cost and expense incurred by the county, the dates of county action, the location of the property for which action was taken, and the name of the person to be charged for the expenses incurred. The recordation of such statement shall constitute a lien on the personal and real property of the person to be charged and shall remain in full force and effect until final payment is received in full, including accrued interest from the date of recording and any and all costs. Such amount as shall constitute final payment shall be subject to collection in the manner fixed by law for the collection of taxes.
+(f)
+In the event that waste or hazardous materials in a dump site cannot be removed from public or private property without causing further endangerment to the environment and/or public health, whether legal or illegal, caused with intent or by accident, acts of God of force of nature, or where a permit for such long-term or permanent disposal has been issued by the proper authority as defined in section 22-6, the county may attach or otherwise affix a permanent addendum to the deed of real property wherein the dump site exists, stating the approximate size and location of the dump on the property and a description of the materials contained therein, as well as the dates such dumping occurred, to be recorded on the property plat as a fill area (O.C.G.A. § 12-8-30). The purpose of said attachment is to preserve the health and safety of current and future landowners and users of said properties, to promote the integrity of property description and values, and to record the location of said dump sites. The county's exercise of this subsection shall in no way be mandatory, and the county or its agents shall not be held liable for exercise of action or inaction for implementation of this subsection, nor for the costs of such action or inaction.
+(g)
+This section shall apply with full force and effect regardless of the provisions of any order of the court in which the violator was convicted. This section should not be construed as an excuse for failure on the part of the violator to perform any cleanup ordered by the court, nor shall it be considered as a mitigating factor in any contempt action against a violator who has failed to obey the order of the court.
+(Ord. of 9-11-2000, § IX; Ord. of 11-21-2011, §§ 1, 2)
+Sec. 22-11. - Evidence of violations.
+(a)
+Whenever litter, or any type of waste, is thrown, deposited, dropped, or dumped by any person or from any motor vehicle, boat, airplane, or other conveyance in violation of this chapter, it shall be prima facie evidence that said person or the operator of the conveyance has violated this chapter.
+(b)
+Whenever any litter, or any type of waste, which is dumped, deposited, thrown, or left on public or private property in violation of this chapter is discovered to contain any articles, including, but not limited to, letters, bills, publications, or other writings which display the name of a person thereon in such a manner as to indicate that the article belongs or belonged to such person, it shall be a rebuttable presumption that such person has violated this chapter.
+(Ord. of 9-11-2000, § X)
+Sec. 22-12. - Yard trimmings.
+Yard trimmings shall not be placed in or mixed with solid waste. Yard trimmings shall not be disposed at any solid waste disposal facility having liners and leachate collection systems or requiring vertical expansion within the county. Yard trimmings shall be considered inert waste. Yard trimmings shall be sorted and stockpiled or chipped, composted, used as mulch or otherwise beneficially reused or recycled to the maximum extent feasible. Any yard trimmings to be collected by any entity other than the property owner shall be sorted and stored in such a manner as to facilitate collection, composting, or other handling.
+(Ord. of 9-11-2000, § XI)
+Sec. 22-13. - Recycling.
+The county board of commissioners hereby finds that it is in the best interest of the citizens of the county, in order to promote the health, safety, and welfare of the citizens of the county, to recycle as many waste materials as possible in order to reduce the accumulation of litter and garbage and solid waste materials which must be properly disposed of; therefore, it is the policy of the county board of commissioners to encourage recycling whenever practicable.
+(Ord. of 9-11-2000, § XII)
+Sec. 22-14. - Curbside fee.
+(a)
+The county has instituted a fee system to provide for payment of the costs for the curbside garbage pickup.
+(b)
+All dwellings occupied or maintained for occupancy (i.e., active utility service) shall be required to pay for this service.
+(c)
+Fees are set for each household, church or fraternal organization, to wit:
+(1)
+A fee per month billed annually. The amount of the fee shall be as established by the board of commissioners from time to time.
+(2)
+The fee shall be due and payable in quarterly installments no later than 30 days after the beginning of each quarter.
+(3)
+There shall be a discount available for payments of the entire annual amount made within the 30 days of receipt of the initial annual invoice. The amount of the discount shall be as established by the board of commissioners from time to time.
+(4)
+A late fee shall be charged for a payment over 30 days delinquent. The amount of the fee shall be as established by the board of commissioners from time to time.
+(5)
+A payment over 60 days delinquent may be turned over to the magistrate court for collection.
+(6)
+The magistrate court, in addition to the delinquent fees, may charge a fine not exceeding $100.00 plus court costs.
+(Ord. No. 0070108-01, 2-5-2007)
+Secs. 22-15—22-31. - Reserved.
+ARTICLE II. - CDI LANDFILL
+
+Sec. 22-32. - Definitions.
+modified
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+CDI landfill means the county-operated landfill created for construction, demolition and industrial wastes located at 544 Ted Sauls Road, Monticello, Georgia.
+Construction and/or demolition waste means refuse derived from the construction or demolition by any person or entity of any structure, building, or facility within the boundaries of the county, including, but not limited to: wood, metals, glass, plastics, masonry, fiber, cement, or any commonly used building material.
+Construction, demolition and/or industrial waste shall not mean animal and vegetable substances that are food waste or farm waste, paper waste, food and beverage containers, glass, cans, crockery, and includes those materials which are commonly and generally accepted as waste from households.
+Industrial waste means any byproduct, remains, discharge, remnants, refuses, irregulars, or other remainder derived from the operation of a commercial operation in the county which is not regulated by either the U.S. Environmental Protection Agency or the state department of natural resources, environmental protection division, which is not disposed of on the premises of the operation.
+(Ord. of 7-7-2008, § 58-20)
+Sec. 22-33. - Disposal of wastes covered under this article.
+(a)
+All construction, demolition, and/or industrial waste derived from property located within the boundaries of the county shall be disposed of by the operator, vendor, agent, or owner in the CDI landfill, and the then-prevailing fees set for such disposal paid by the person or entity making such disposal at the time of transport into the CDI landfill.
+(b)
+It shall be unlawful for any person or entity to haul, transport, or contract for the hauling or transportation of construction, demolition, and/or industrial waste derived from property located within the boundaries of the county to any other facility, whether located inside the county or otherwise. The county sheriff is authorized to cite any violation of this section when violations are found, and the maximum fine for violation of this section shall be a fine of $1,000.00, per occurrence, as determined by the magistrate court of the county, where all such cited violations shall be heard.
+(Ord. of 7-7-2008, § 58-21)
+Sec. 22-34. - Fees for disposal of wastes covered under this article in the CDI landfill.
+(a)
+The board of commissioners shall set the fees charged at the CDI landfill for disposal of refuse from time to time as such is required to pay for the maintenance, operations, and eventual closure expenses associated with it.
+(b)
+The per-ton fee for disposal of wastes at the CDI landfill shall be charged as set forth in the county fee schedule, as said schedule may be changed from time to time by the board of commissioners.
+(c)
+The board of commissioners may, at its discretion, contract with any individual or entity for a lesser or greater fee for disposal of wastes at the CDI landfill based on a guaranteed volume of deposited waste.
+(Ord. of 7-7-2008, § 58-22)
+Secs. 22-35—22-56. - Reserved.
+ARTICLE III. - YARD TRIMMINGS DISPOSAL[2]
+modified
+
+Footnotes:
+--- (2) ---
+State Law reference— Yard trimmings disposal restrictions, O.C.G.A. § 12-8-40.2.
+
+Sec. 22-57. - Definitions.
+modified
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Commercial solid waste means all types of solid waste generated by stores, offices, restaurants, warehouses and other non-manufacturing activities, excluding residential and industrial wastes.
+Composting means the controlled biological decomposition of organic matter into a stable, odor-free humus.
+Leachate collection system means a system at a landfill for collection of the leachate which may percolate through the waste and into the soils surrounding the landfill.
+Municipal solid waste means any solid waste derived from households, including garbage, trash and sanitary waste in septic tanks and includes solid waste from single-family and multifamily residences, hotels and motels, bunkhouses, campgrounds, picnic grounds, and day use recreation areas. The term "municipal solid waste" includes yard trimmings and commercial solid waste but does not include solid waste from mining, agricultural or silvicultural operations or industrial processes or operations.
+Municipal solid waste disposal facility means any facility or location where the final deposition of any amount of municipal solid waste occurs, whether or not mixed with or including commercial or industrial solid waste, including but not limited to municipal solid waste landfills.
+Municipal solid waste landfill means a disposal facility where any amount of municipal solid waste, whether or not mixed with or including commercial waste, industrial waste, nonhazardous sludges or small quantity generator hazardous waste, is disposed of by means of placing an approved cover thereon.
+Yard trimmings means leaves, brush, grass clippings, shrub and tree prunings, discarded Christmas trees, nursery and greenhouse vegetative residuals, and vegetative matter resulting from landscaping development and maintenance, other than mining, agricultural and silvicultural operations.
+(Code 2000, § 58-31; Ord. of 9-9-1996)
+Sec. 22-58. - Penalties.
+Any person violating the provisions of this article shall be punished according to the general penalties described in section 1-11.
+(Code 2000, § 58-32; Ord. of 9-9-1996)
+Sec. 22-59. - Sorting, storing, composting and collecting.
+Yard trimmings shall be sorted and stored in the following manner:
+(1)
+Naturalized, low-maintenance landscaping requiring little or no cutting;
+(2)
+Grass cycling by mowing it high and letting it lie;
+(3)
+Stacking branches into brush piles for use as wildlife habitats and for gradual decomposition into the soil;
+(4)
+Composting on the site where the material was grown, followed by incorporation of the finished compost into the soil at that site;
+(5)
+Chipping woody material on the site where such material was generated;
+(6)
+Collecting yard trimmings and transporting them to another site to be chipped or composted for later use; and
+(7)
+Chipping woody material for later use as fiber fuel.
+(Code 2000, § 58-34; Ord. of 9-9-1996)

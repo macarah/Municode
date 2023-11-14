@@ -1,0 +1,264 @@
+ARTICLE XII. - ACTUARIAL EQUIVALENT CONVERSION TABLES
+
+Section 12.01. - Early Retirement Reduction Table.
+Unless otherwise elected in the Adoption Agreement or an Addendum thereto, the following early retirement reduction table is to be used:
+EXPAND
+Number of Years Before
+Normal Retirement Percentage of Normal
+Retirement Benefit
+0 1.000
+1 .933
+2 .867
+3 .800
+4 .733
+5 .667
+6 .633
+7 .600
+8 .567
+9 .533
+10 .500
+  *Interpolate for whole months.
+Section 12.02. - Option B Tables.
+(a)
+Standard Joint & Survivor Factors.
+(1)
+Participant Same Age Or Older — The following table is to be used for a Participant who is the same age or older than his Beneficiary:
+EXPAND
+Participant Age—
+Beneficiary Age Contingent Annuity Factor
+100% 75% 50% 25%
+0 .833 .870 .909 .952
+1 .826 .864 .905 .950
+2 .819 .857 .900 .947
+3 .811 .851 .896 .945
+4 .804 .845 .891 .943
+5 .797 .839 .887 .940
+6 .790 .833 .882 .938
+7 .783 .828 .878 .935
+8 .776 .822 .874 .933
+9 .769 .816 .870 .930
+10 .763 .811 .866 .928
+11 .757 .806 .861 .926
+12 .751 .800 .858 .923
+13 .745 .795 .854 .921
+14 .739 .791 .850 .919
+15 .733 .786 .846 .917
+16 .728 .781 .843 .915
+17 .723 .777 .839 .913
+18 .718 .772 .836 .911
+19 .713 .768 .833 .909
+20 .708 .764 .830 .907
+21 or more * * * *
+  *Factor for twenty (20) year age difference minus extrapolation factor below times number of years in excess of twenty (20) that Participant's age exceeds his Beneficiary's age.
+EXPAND
+Participant Age—
+Beneficiary Age Contingent Annuity Factor
+100% .005
+75% .004
+50% .003
+25% .002
+  (2)
+Standard Factors; Participant Younger — The following table is to be used for a Participant who is younger than his Beneficiary:
+EXPAND
+Beneficiary Age—
+Participant Age Contingent Annuity Factor
+100% 75% 50% 25%
+1 .841 .876 .914 .955
+2 .848 .882 .918 .957
+3 .856 .888 .922 .960
+4 .863 .894 .926 .962
+5 .870 .899 .931 .964
+6 .877 .905 .935 .966
+7 .885 .911 .939 .968
+8 .892 .916 .943 .970
+9 .898 .922 .947 .973
+10 .905 .927 .950 .974
+11 .912 .932 .954 .976
+12 .918 .937 .957 .978
+13 .924 .942 .960 .980
+14 .930 .946 .964 .981
+15 .935 .951 .967 .983
+16 .941 .955 .969 .984
+17 .945 .959 .972 .986
+18 .950 .962 .974 .987
+19 .955 .966 .977 .988
+20 .959 .969 .979 .989
+21 or more .960 .970 .980 .990
+  (b)
+Option C Pop-Up Factors.
+(1)
+Participant Same Age or Older — The following table is to be used for a Participant who is the same age or older than this Beneficiary:
+EXPAND
+Participant Age—
+Beneficiary Age Contingent Annuity Factor
+100% 75% 50% 25%
+0 .800 .842 .889 .941
+1 .794 .837 .885 .939
+2 .788 .832 .882 .937
+3 .782 .827 .878 .935
+4 .777 .823 .874 .933
+5 .771 .818 .871 .931
+6 .765 .813 .867 .929
+7 .760 .808 .864 .927
+8 .755 .804 .860 .925
+9 .749 .799 .857 .923
+10 .744 .795 .853 .921
+11 .739 .791 .850 .919
+12 .734 .786 .847 .917
+13 .729 .782 .844 .915
+14 .725 .778 .840 .913
+15 .720 .774 .837 .912
+16 .716 .771 .834 .910
+17 .712 .767 .832 .908
+18 .708 .763 .829 .906
+19 .704 .760 .826 .905
+20 .700 .757 .823 .903
+21 or more * * * *
+  *Factor for twenty (20) year age difference minus extrapolation factor below times number of years in excess of twenty (20) that Participant's age exceeds his Beneficiary's age.
+EXPAND
+Contingent Annuity Percentage Extrapolation Factor
+100% .005
+75% .004
+50% .003
+25% .002
+  (2)
+Pop-Up Factors; Participant Younger — The following table is to be used for a Participant who is younger than his Beneficiary:
+EXPAND
+Contingent Annuity Percentage Extrapolation Factor
+100% 75% 50% 25%
+1 .806 .847 .893 .943
+2 .812 .852 .896 .945
+3 .818 .857 .900 .947
+4 .824 .862 .904 .949
+5 .830 .867 .907 .951
+6 .836 .872 .911 .953
+7 .842 .877 .914 .955
+8 .848 .881 .918 .957
+9 .854 .886 .921 .959
+10 .860 .891 .925 .961
+11 .866 .896 .928 .963
+12 .871 .900 .931 .964
+13 .877 .905 .934 .966
+14 .882 .909 .937 .968
+15 .888 .913 .941 .969
+16 .893 .918 .943 .971
+17 .898 .922 .946 .972
+18 .903 .926 .949 .974
+19 .908 .930 .952 .975
+20 .913 .933 .955 .977
+21 or more .918 .937 .957 .978
+  Section 12.03. - Option D Table.
+EXPAND
+Period Factor
+5 Years .973
+10 Years .911
+15 Years .842
+20 Years .780
+  Section 12.04. - Option E Tables.
+(a)
+The following table is to be used when the benefits under the Social Security Option are payable for life:
+EXPAND
+Age Factor
+50 0.29019
+51 0.31906
+52 0.35122
+53 0.38712
+54 0.42726
+55 0.47225
+56 0.52278
+57 0.57966
+58 0.64387
+59 0.71653
+60 0.79899
+61 0.89284
+62 1.00000
+  (b)
+The following table is to be used when the benefits under the Social Security Option cease at age sixty-two (62):
+EXPAND
+Age Factor
+50 1.40883
+51 1.46856
+52 1.54136
+53 1.63163
+54 1.74599
+55 1.89483
+56 2.09545
+57 2.37905
+58 2.80798
+59 3.52774
+60 4.97485
+61 9.33194
+62 N/A
+  Section 12.05. - Life Annuity Factors to be Used in Computing Actuarial Reserve Death Benefit.
+EXPAND
+Age Factor
+21 12.5773
+22 12.5567
+23 12.5337
+24 12.5082
+25 12.4804
+26 12.4501
+27 12.4170
+28 12.3809
+29 12.3416
+30 12.2994
+31 12.2541
+32 12.2056
+33 12.1535
+34 12.0976
+35 12.0383
+36 11.9754
+37 11.9088
+38 11.8384
+39 11.7640
+40 11.6855
+41 11.6026
+42 11.5154
+43 11.4236
+44 11.3274
+45 11.2264
+46 11.1207
+47 11.0102
+48 10.8952
+49 10.7755
+50 10.6509
+51 10.5213
+52 10.3869
+53 10.2479
+54 10.1041
+55 9.9552
+56 9.8010
+57 9.6415
+58 9.4769
+59 9.3076
+60 9.1331
+61 8.9537
+62 8.7698
+63 8.5818
+64 8.3903
+65 8.1958
+  Section 12.06. - Late Retirement Actuarial Increase Factors.
+EXPAND
+Current Age Factor
+65 1.0000
+66 1.1317
+67 1.2850
+68 1.4645
+69 1.6755
+70 1.9246
+71 2.2204
+72 2.5734
+73 2.9967
+74 3.5073
+75 4.1274
+  *Figure factor using years and months. Divide difference between next highest age factor and age factor lower, by twelve (12), then multiply by number of months. Add this onto age for years factor to arrive at correct factor. (Round off to 4 decimals). Note: If normal retirement age differs from sixty-five (65), factors must be supplied by Actuary.
+Section 12.07. - Other Annuity Forms.
+Conversion factors for other annuity forms shall be computed by an enrolled Actuary on an actuarially equivalent basis assuming that the Participant is retiring at age sixty-five (65) and using the UP-1984 Mortality Table without age setback with interest at eight percent (8%), regardless of the actual age and sex of any Participant or Beneficiary. If appropriate, such factors may vary by the difference between the Participant's age and the Beneficiary's age. The value of Retirement benefits received by a Participant for purposes of Section 6.06 shall be determined using the UP-1984 Mortality Table without age setback with interest at eight percent (8%).
+Section 12.08. - Lump Sum Payments.
+Effective January 1, 2001, a single sum distribution of benefits payable under Section 7.05, or upon plan termination, or if required for compliance with Code Section 401(a)(9), shall be computed on the basis of the actual age of the Participant and/or Beneficiary at the time of distribution and under the following actuarial assumptions:
+(a)
+Interest: The applicable interest rate established by the Internal Revenue Service under Code Section 417(e)(3) and accompanying regulations, without regard to updates under the Pension Protection Act of 2006, as in effect for the month of September preceding the calendar year during which the distribution is paid.
+(b)
+Mortality: The applicable mortality table established by the Internal Revenue Service pursuant to IRC Section 417(e)(3) and accompanying regulations, without regard to updates under the Pension Protection Act of 2006.
+(c)
+Age at Which Payments Begin: The greater of the Normal Retirement Date or the age at the time of distribution of the Participant and/or Beneficiary.

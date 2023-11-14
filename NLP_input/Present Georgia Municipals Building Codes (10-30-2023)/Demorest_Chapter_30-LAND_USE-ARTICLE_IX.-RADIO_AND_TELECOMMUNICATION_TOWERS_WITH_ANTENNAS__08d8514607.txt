@@ -1,0 +1,543 @@
+ARTICLE IX. - RADIO AND TELECOMMUNICATION TOWERS WITH ANTENNAS AND RELATED APPURTENANCES
+
+Sec. 30-391. - Purpose and goals.
+The purpose of this article is to establish general guidelines for the siting of towers and antennas. The goals of the article are to:
+(1)
+Encourage the location of towers in non-residential areas and minimize the total number of towers throughout the community;
+(2)
+Encourage strongly the joint use of new and existing tower sites;
+(3)
+Encourage users of towers and antennas to locate them, to the extent possible, in areas where the adverse impact on the community is minimal;
+(4)
+Protect the health, safety and integrity of residential neighborhoods;
+(5)
+Encourage users of lowers and antennas to configure them to minimize the adverse visual impact of the towers and antennas;
+(6)
+Enhance the ability of the providers of telecommunications services to provide such services to the community quickly, effectively, and efficiently; and
+(7)
+Protect the public interest in prompt removal of any wireless communication facility that is no longer used.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-392. - Definitions.
+As used in this article, the following terms shall have the meanings indicated:
+Alternative lower structure includes man-made trees, clock towers, bell steeples, light poles and similar alternative-design mounting structures that camouflage or conceal the presence of antennae or towers.
+Antenna is any exterior apparatus designed for the sending and/or receiving of electromagnetic waves for telephonic, radio, television, or personal wireless services. For the purposes of this article the term "antenna" does not include; any tower and antenna under 70 feet in total height which is owned and operated by an amateur radio operator licensed by the Federal Communications Commission; any device designed for over-the-air reception of radio or television broadcast signals, multichannel multipoint distribution service or direct broadcast satellite service; or any cable television headend or hub towers and antennae used solely for cable television services.
+Building official is the chief building official for the city, or his/her designee.
+Colocation is the placement of two or more antennae, micro telecommunications facilities or macro telecommunications facilities by more than one wireless provider in the same location, tower, or monopole tower.
+Commercial and industrial structures includes warehouses, factories, retail outlets, supermarkets, banks, garages, service stations or similar uses.
+FAA is the Federal Aviation Administration.
+FCC is the Federal Communications Commission.
+Height, when referring to a tower, antennae or other structure, means the distance measured vertically from the highest point when positioned for operation to the lowest point which is defined as the bottom of the base of the structure being measured at either roof or ground level, whichever is applicable. The height of a tower shall include the height of any antennae positioned for operation attached or which may be attached to the highest point on the tower.
+High density district is any district which permits multi-family units of eight or more.
+Macro telecommunications facilities are those facilities located on existing buildings, poles or other existing support structures and which project more than three (3) feet above the top of the structure but no more than ten (10) feet above the roof line, parapet or top of the structure. Macro telecommunication facilities may exceed the height limitation specified for the land use district.
+Micro telecommunications facilities are those facilities located on existing buildings, poles or other existing support structures where antennae do not project more than three feet above the top of the structure and there are no more than six antennae per site.
+Mixed use buildings are those buildings containing both residential and nonresidential uses; provided however, that for purposes of this article, this shall not include in-home occupations.
+Monopole tower is a telecommunications tower consisting of a single, self-supporting pole, constructed without guy wires or ground anchors.
+Publicly used structures include, but are not limited to, facilities such as lire stations, libraries, community centers, convention centers, courthouses, utility structures, water towers, elevated roadways, bridges, flag poles, schools, hospitals, clock or bell towers, light poles and churches.
+Telecommunications facility consists of the equipment and structures involved in receiving telecommunications or radio signals from a mobile radio communications source and transmitting those signals to a central switching computer which connects the mobile unit with the land-based telephone lines.
+Tower is a structure, such as a lattice tower, guy tower, or monopole tower, constructed as a free-standing structure or in association with a building, other permanent structure or equipment, on which is located one or more antennae intended for transmitting or receiving analog, digital, microwave, cellular, telephone, personal wireless service or similar forms of electronic communication. The term includes microwave towers, common carrier towers, and cellular telephone towers.
+Wireless telecommunications antenna is the physical device through which electromagnetic, wireless telecommunications signals authorized by the Federal Communications Commission are transmitted or received.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-393. - Exclusions.
+The following shall be exempt from this article:
+(1)
+Any tower and antenna under 70 feet in total height that is owned and operated by an amateur radio operator licensed by the Federal Communications Commission;
+(2)
+Any telecommunications facilities located on property owned, leased or otherwise controlled by the city, provided that a license or lease authorizing the telecommunications facility has been approved by the city council.
+(2)
+The city's fire, police or other public service facilities owned and operated by the city.
+(4)
+Facilities used exclusively for providing unlicensed spread spectrum technologies, such as IEEE 802.11a, b, g services (e.g., Wi-Fi and Bluetooth) where the facility does not require a new tower.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-394. - Appropriate districts for telecommunications facilities.
+(a)
+Use by right. The following types of telecommunication facilities may be allowed as a use by right following approval of a complete application and design review by the building official and receipt of a building permit.
+(1)
+Micro telecommunication facilities. Micro telecommunication facilities may be allowed in the following districts;
+(2)
+Macro telecommunication facilities: Macro telecommunication facilities may be allowed in the following districts.
+(b)
+Special land use permit. All other telecommunication facilities may be permitted as a special land use according to the provisions in this article.
+(c)
+Prohibited location.
+(1)
+Towers shall not be permitted in any approved residential subdivision.
+(2)
+Telecommunications facilities shall not be placed in any historic district or in any scenic corridors as designated by the city council or by any state or federal law or agency.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-395. - Preferred and disfavored location sites.
+(a)
+Preferred location sites.
+(1)
+Colocation sites. Any existing telecommunications towers currently being used for transmitting or receiving analog, digital, microwave, cellular, telephone, personal wireless service or similar forms of electronic communication shall be a preferred co-location site regardless of the underlying land use designation of the site, or the legally nonconforming height of the tower; provided, however, that locations meeting this criteria shall be subject to all physically possible design and siting requirements of this ordinance. Colocation sites shall not become "antenna farms" or otherwise be deemed by the building official director or the city council to be visually obtrusive.
+(2)
+Publicly-used structures.
+(3)
+Commercial and industrial structures. Wholly commercial and industrial structures shall be preferred location sites particularly where existing visual obstructions or clutter on the roof or along a roofline can and will be removed as part of the installation of the telecommunications facility.
+(4)
+Mixed use buildings.
+(b)
+Disfavored location sites. Any single-family residential structure or site or multi-family complex shall be a disfavored site for the location of telecommunications facilities.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-396. - Requirements for telecommunications facilities.
+The requirements set forth in this section shall govern the location and construction of all telecommunications facilities governed by this ordinance regardless of whether application is submitted for a use by right or a special land use permit.
+(1)
+Building codes and safety standards. All telecommunications facilities shall be maintained in compliance with applicable building codes and the applicable standards for such telecommunications facilities, as may be amended. Owners shall cause inspections of each facility to be made every year by the anniversary date of the application to ensure structural integrity by qualified, independent engineers licensed to practice in the state. The results of such inspection shall be provided to the building official.
+(2)
+Regulatory compliance. All telecommunications facilities shall meet or exceed standards and regulations as may be amended of the FAA, the FCC and any other agency of the state or federal government with the authority to regulate telecommunications facilities. Owners shall provide certification to the building official that each telecommunications facility is in compliance with all applicable federal and state requirements when any new users are added or building permit is sought.
+(3)
+Security.
+a.
+All towers shall be enclosed by decay resistant security fencing not less than six feet in height.
+b.
+All telecommunications facilities shall be equipped with appropriate anti-climbing devices or other similar protective devices to protective unauthorized access to the telecommunications facility.
+(4)
+Lighting.
+a.
+No illumination is permitted on telecommunications facilities unless:
+1.
+Required by the FCC, FAA or other state or federal agency of competent jurisdiction;
+2.
+Necessary for air traffic safety; or
+3.
+An antenna is placed on an alternative tower structure or publicly used structure that otherwise requires lighting.
+b.
+Where lighting is required or necessary, the building official or the city council may review and select the available lighting alternative that causes the least disturbance to the surrounding uses and views.
+(5)
+Advertising. No advertising is permitted on telecommunications facilities. However, a whip antenna or panel antenna up to 12 square feet in size with appropriate shrouding may be allowed on any legally permitted permanent sign provided that all other requirements of this article are met.
+(6)
+Visual impact.
+a.
+Site location and development shall preserve the pre-existing character of the surrounding buildings and land uses and land use districts to the extent possible.
+b.
+Towers, buildings and related structures shall be integrated through location, design, materials, colors, textures, screening and landscaping to blend with the existing characteristics of the site to the extent possible.
+c.
+Telecommunications facilities shall either maintain a galvanized steel finish or, subject to any applicable standards of the FAA or other applicable federal or state agency, be painted a neutral color or painted and/or textured to match the existing structure so as to reduce visual obtrusiveness.
+d.
+If an antenna is installed on a structure other than a tower, or an alternative tower structure, the antenna, associated electrical and mechanical equipment, equipment shelter or cabinet, must be of a neutral color identical to, or closely compatible with, the color of the supporting or surrounding structure(s) so as to make the antenna and related equipment as visually unobtrusive as possible. Roof-mounted antennae shall be made visually unobtrusive by screening which may include matching them with existing air conditioning units, stairs, elevator towers or other background.
+e.
+Where feasible, telecommunications facilities shall be placed directly above, below or incorporated with vertical design elements of a building to assist further camouflage.
+f.
+Any equipment shelter or cabinet supporting telecommunications facilities shall be concealed from public view, made compatible with the architecture of the surrounding structures or placed underground. The shelter or cabinet shall be regularly maintained.
+(7)
+Landscaping.
+a.
+Landscaping shall effectively screen the view of telecommunications facilities, equipment, equipment shelters or cabinets, associated buildings and fencing, where required, from adjacent public right-of-ways, public property and residential property.
+b.
+Native vegetation and existing topography on the site shall be preserved or improved to the greatest practical extent. Disturbance of the existing topography shall only be permitted when, in the opinion of the director, it would result in less visual impact of the site to the surrounding area.
+c.
+The building official or the city council may waive or modify the landscaping requirements where lesser requirements are desirable: for visibility or security purposes; for continued operation of existing bona fide agricultural or forest uses such as farms, nurseries and tree farms; other remote agricultural or rural locations; for placement of an antenna on an existing structure; or for developed heavy industrial areas.
+(8)
+Maintenance impacts. Equipment at a transmission facility shall be automated to the greatest extent possible to reduce traffic and congestion. Access for maintenance vehicles shall be exclusively by means of a local street abutting the site or otherwise is accessible to the site.
+(9)
+Principal, accessory and joint uses.
+a.
+Accessory structures used in direct support of a telecommunications facility shall be allowed but not be used for offices, vehicle storage or other outdoor storage. Mobile or immobile equipment not used in direct support of a telecommunications facility shall not be stored or parked on the site of the telecommunications facility.
+b.
+Telecommunications facilities may be located on sites containing another principal use in the same buildable area (towers are not permitted in required setbacks).
+(10)
+Placement, lot size and setbacks.
+a.
+The following setback requirements shall apply to all telecommunications facilities, provided however, that the building official or the city council may reduce the standard setback requirements of this section if the goals of this ordinance would be better served thereby.
+1.
+Telecommunications towers must:
+i.
+Be set back a distance of 50 feet from any property line and a distance equal to the lull height of the tower from any off-site residential structure and public local or collector road right-of-ways, whichever is greater;
+ii.
+Be placed no closer than 1,500 feet from an existing tower 90 feet in height or greater unless otherwise technologically required or visually preferable as determined by the building official or the city council.
+2.
+Towers, guy wires and accessory facilities must satisfy the minimum district setback requirements.
+b.
+For antennae attached to the roof or a supporting structure on a rooftop, a 1:1 setback ratio shall be maintained unless an alternative placement is approved by the building official or the city council.
+c.
+Placement of more than one tower on a lot shall be permitted provided that all other requirements may be met as to each tower. Structures may be located as close to each other as technically feasible provided that tower failure characteristics of the towers will not lead to multiple failures.
+d.
+Towers shall not be located in the setback area in any district.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-397. - Special use permit application procedures.
+(a)
+All applicants for a special use permit for wireless telecommunications facilities or any modification of such facility shall comply with the requirements set forth in this section. The building official is the officially designated person within the city to whom applications for a special use permit for wireless telecommunications facilities must be made, and s/he is authorized to review, analyze, evaluate and make recommendations to the city council with respect to granting or not granting or revoking special use permits for wireless telecommunications facilities.
+(b)
+The city council may at its discretion delegate or designate other official agencies or expert consultants to accept, review, analyze, evaluate and make recommendations to the city council with respect to the granting or not granting or revoking special use permits for wireless telecommunications facilities.
+(c)
+The nonrefundable application fees for special use permits for telecommunications facilities shall be as set forth in the city's schedule of fees.
+(d)
+To prevent the taxpayers from having to pay for the expert technical services needed by the city that is necessitated by the application, an applicant shall be required to place with the city an escrow deposit of no less than $6,500.00 pursuant to section 30-409.
+(e)
+All applicants shall closely follow the instructions for preparing an application. Instructions shall be provided prior to the submittal of an application or at any time upon request. Not closely following the instructions without permission to deviate from such may result in the application being returned without action and forfeiting the application fee, but not the escrow deposit.
+(f)
+The building official may reject applications not meeting the requirements stated herein or which are otherwise not complete.
+(g)
+No wireless telecommunications facilities shall be installed, constructed or modified until the application is reviewed and approved by the city and the special use permit has been issued.
+(h)
+Any and all representations made by the applicant to the city on the record during the application process, whether written or verbal, shall be deemed a part of the application and will be deemed to have been relied upon in good faith by the city. Any verbal misrepresentation shall be treated as if it were made in writing.
+(i)
+An application for a special use permit for wireless telecommunications facilities shall be signed on behalf of the applicant by the person preparing the same and with knowledge of the contents and representations made therein and attesting to the truth and completeness of the information.
+(j)
+The applicant must provide documentation to verify it has the right to proceed as proposed on the site. This requires an executed copy of the lease with the landowner or landlord or a signed letter of agency acknowledging authorization. If the applicant owns the site, a copy of the ownership record is required.
+(k)
+The applicant shall include a statement in writing:
+(1)
+That the applicant's proposed wireless telecommunications facilities shall be maintained in a safe manner, and in compliance with all conditions of the special use permit, without exception, unless specifically granted relief by the city in writing, as well as all applicable and permissible local codes, ordinances, and regulations, including any and all applicable city, county, state and federal laws, rules, and regulations; and
+(2)
+That the construction of the wireless telecommunications facilities is legally permissible, including, but not limited to the fact that the applicant is authorized to do business in the state.
+(l)
+Where a certification is called for in this section, such certification shall bear the signature and seal of a professional engineer licensed in the state.
+(m)
+In addition to all other required information as stated in this section, all applications for the construction or installation of new wireless telecommunications facilities or modification of an existing facility shall contain the information hereinafter set forth. Note that an applicant will be granted permission for anything that it can conclusively prove the technical need for, but that there is often a significant difference between "need" and "want" or "desire." For example, an assertion that the "need" is based on an applicant's own design criteria shall not suffice to prove the technological need for what is requested. For purposes of permitting under this section, "need" shall mean what is technologically needed for the equipment to function as designed by the manufacturer and that anything less will result in prohibiting or acting in a manner that prohibits the provision of service as intended and described in the narrative of the application.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-398. - Pre-Application meeting.
+There shall be a pre-application meeting for all intended applications. The purpose of the pre-application meeting will be to address issues that will help to expedite the review and permitting process and certain issues or concerns the city may have. A pre-application meeting shall also include a site visit, if there has not been a prior site visit for the requested facility. Costs of city consultants to prepare for and attend the pre-application meeting will be borne by the applicant and paid for out of the required escrow deposit.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-399. - Contents of application.
+In addition to the requirements of section 30-397, an application for special use permit must include the following:
+(1)
+Proof of need for the facility.
+a.
+The information that the company used to make its business decision regarding the need for the facility in the first place, the need and reason for the requested location and the need for the height requested, including the information outlined below in this section;
+b.
+A detailed narrative description and explanation of the specific objective(s) for the new facility, or the modification of an existing wireless facility, expressly including and explaining the purpose and need for the facility, such as coverage and/or capacity needs or requirements, and the specific geographic area of intended coverage;
+c.
+Technical documentation that proves the need for the wireless telecommunications facility to provide service primarily and essentially within the city. Such documentation shall include a propagation study of the proposed site and all adjoining planned, proposed or existing sites, that demonstrates a significant gap in coverage and/or, if a capacity issue is involved, to include an analysis of the current and projected usage (traffic studies) using generally accepted industry methods and standards so as to conclusively prove the need for what is proposed. A desire to change, upgrade, or improve the technology or the service shall not be deemed a need in the context of this section;
+d.
+All of the modeling information (i.e., data) inputted into the software used to produce propagation studies, including, but not limited to any assumptions made, such as ambient tree height;
+e.
+A copy of the FCC license applicable for the intended use of the wireless telecommunications facility, as well as a copy of the five- and ten-year build-out plan required by and filed with the FCC;
+f.
+The frequency, modulation and class of service of radio or other transmitting equipment;
+g.
+The maximum transmission power capability of all radios, as designed, if the applicant is a cellular or functional equivalent carrier, or the maximum transmission power capability, as designed, of all transmission facilities if the applicant is not a cellular or functional equivalent carrier; and
+h.
+The actual intended transmission power stated as the maximum effective radiated power (ERP) both in dBm's and watts.
+(2)
+Ownership and management.
+a.
+The name, address and phone number of the person preparing the application;
+b.
+The name, address, and phone number of the property owner and the applicant, including the legal name of the applicant. If the owner of the structure is different than the applicant, the name and all necessary contact information shall be provided;
+c.
+The postal address and tax map parcel number of the property;
+d.
+If attaching to the existing tower or structure, documentation of permission to use the tower or structure.
+(3)
+Planning.
+a.
+The district or land use designation in which the property is situated;
+b.
+The size of the property on which the structure to be attached to is located, stated both in square feet and lot line dimensions, and a survey showing the location of all lot lines;
+c.
+The location, size and height of all existing and proposed structures on the property on which the structure is located and that is the subject of the application;
+d.
+If attaching to an existing tower, a site plan showing the vertical rendition of the tower identifying all users and attachments to the tower and all related fixtures, structures, appurtenances and apparatus, including height above pre-existing grade, materials, color and lighting;
+e.
+If attaching to a building or other structure, a site plan showing the proposed attachments and all related fixtures, structures, appurtenances and apparatus, including height above the roof or balustrade, whichever is appropriate; and
+f.
+A written report justifying proposed tower location, as specified in subsection 30-403e).
+(4)
+Tower specifications.
+a.
+The azimuth, size and center line height location of all proposed and existing antennas on the supporting structure;
+b.
+The number, type and model of the antenna(s) proposed, along with a copy of the specification sheet(s) for the antennas; the type, locations and dimensions of all proposed and existing landscaping, and fencing;
+c.
+The number, type and design of the telecommunications tower(s) and antenna(s) proposed and the basis for the calculations of the telecommunications tower's capacity to accommodate multiple users; and
+d.
+Any agreement in existence prior to submission of the application that would limit or preclude the ability of the applicant to share any new telecommunication tower that it constructs.
+(5)
+Safety.
+a.
+If attaching to an existing tower, the age of the tower in years, including the date of the grant of the original permit or authorization for the tower;
+b.
+If attaching to an existing tower, a description of the type of tower, e.g. guyed, self-supporting lattice or monopole;
+c.
+If attaching to an existing tower, the make, model, type and manufacturer of the tower and the structural design calculations, certified by a professional engineer licensed in the state, proving the tower's capability to safely accommodate the facilities of the applicant without change or modification;
+d.
+If any change or modification of the tower or other structure to be attached to is needed, a detailed narrative explaining what changes are needed, why they are needed and who will be responsible to assure that the changes are made;
+e.
+If the structure proposed to be attached to is a tower that has not previously been permitted under this law, or unless the applicant can provide proof that this was provided at the time of the initial application for the tower or other structure, the applicant shall provide a copy of the installed foundation design, as well as a geotechnical subsurface soils investigation, evaluation report and foundation recommendation for the tower site or other structure;
+f.
+If increasing the height of an existing structure, or a tower that is five years old or older, or for a guyed tower that is three years old or older, a copy of the latest ANSI report done pursuant to the latest edition of ANSI-EIA/TIA 222F - Annex E for any self-supporting tower. If an ANSI report has not been done pursuant to the preceding schedule, an ANSI report shall be done and submitted as part of the application. No building permit shall be issued for any wireless facility where the structure being attached to is in need of remediation, unless and until all remediation work needed has been completed or a schedule for the remediation work has been approved by the planning department;
+g.
+If not attaching to an existing tower, a structural report signed by a professional engineer licensed to do business in the state and bearing that engineer's currently valid stamp, showing the structural adequacy of the structure to accommodate the proposed wireless facility(s), including any equipment shelter, unless the equipment shelter is located on the lowest floor of a building;
+h.
+If attaching to a structure and thereby increasing the height of the structure, other than a tower, to which the public has or could reasonably have or gain access to, documentation shall be provided, including all calculations, proving that the potential exposure to RF radiation (i.e. NIER or non-ion-emitting radiation), will be in compliance with the most recent federal communications commission regulations governing RF radiation and exposure thereto, and further denoting the minimum distance from any antennas an individual may safely stand without being exposed to RF radiation in excess of the FCC's permitted standards and any portion(s) of the structure that would be exposed to RF radiation in excess of the FCC's permitted standards. In compliance with the FCC's regulations, in such an instance the RF radiation from all wireless facilities at that location shall be included in the calculations to show the cumulative effect on any area of the building or structure deemed accessible by the public or workers. Such report or analysis shall be signed and sealed by a professional engineer licensed in the state;
+i.
+In an instance involving a tower where the new wireless facilities will be ten meters or more above ground level, signed documentation such as the FCC's "Checklist to Determine whether a Facility is Categorically Excluded" shall be provided to verity that the wireless telecommunication facility with the proposed installation will be in full compliance with the current FCC's RF emissions regulations. If not categorically excluded, a complete RF emissions study is required to enable verification of compliance, pursuant to subsection (M)(28) of this section [this section], including providing all calculations so that such may be verified;
+j.
+In certain instances, the city may deem it appropriate to have an RF survey of the facility done after the construction or modification and activation of the facility, such to be done under the direction of the city or its designee, and an unredacted copy of the survey results provided, along with all calculations;
+k.
+If any section or portion of the structure to be attached to is not in compliance with the FCC's regulations regarding RF radiation, that section or portion must be barricaded with a suitable barrier to discourage approaching into the area in excess of the FCC's regulations, and be marked off with yellow and black plastic chain and striped warning tape, as well as placing RF radiation signs as needed and appropriate to warn individuals of the potential danger;
+l.
+A signed statement that the applicant will expeditiously remedy any physical or RF interference with other telecommunications or wireless devices or services; and
+m.
+Certification with documentation (i.e. structural analysis) including calculations that the telecommunication facility tower and foundation and attachments, rooftop support structure, privately owned water tank structure, or any other supporting structure as proposed to be utilized are designed and will be constructed to meet all local, state and federal structural requirements for loads, including wind and ice loads and including, but not limited to all applicable ANSI (American National Standards Institute) guidelines.
+(6)
+A written copy of an analysis, completed by a qualified individual or organization, to determine if the proposed new tower or existing structure intended to support wireless facilities is in compliance with Federal Aviation Administration Regulation Part 77 and if it requires lighting. This requirement shall also be for any existing structure or building where the application increases the height of the structure or building. If this analysis determines that an FAA determination is required, then all filings with the FAA, all responses from the FAA and any related correspondence shall be provided with the application.
+(7)
+A written report demonstrating the applicant's meaningful efforts to secure shared use of existing tower(s) or the use of alternative buildings or other structures within the city that are at or above the surrounding tree height or the tallest obstruction and are within one mile of the proposed tower. The applicant shall submit a comprehensive report inventorying all existing towers and other suitable structures within one mile of the location of any proposed new tower, unless the applicant can show that some other distance is more appropriate and reasonable and demonstrate conclusively why an existing tower or other suitable structure cannot be used. Copies of written requests and responses for shared use shall be provided to the building official in the application, along with any letters of rejection stating the reason for rejection.
+(8)
+A demonstration that the facility be sited so as to create the least visual intrusiveness reasonably possible given the facts and circumstances involved, and thereby have the least adverse visual effect on the environment and its character, on existing vegetation, and on the residences in the area of the wireless telecommunications facility. The city expressly reserves the right to require the use of stealth or camouflage technology or techniques such as DAS (distributive antenna system technology) or its functional equivalent to achieve this goal and such shall be subject to approval by the city council.
+(9)
+If the application is for a new tower, or a new antenna attachment to an existing structure other than a tower, or for a modification that noticeably changes the appearance of the structure, the applicant shall furnish a visual impact assessment, which shall include:
+a.
+A computer generated "zone of visibility map" at a minimum of one mile radius from the proposed structure to illustrate locations from which the proposed installation may be seen, with and without foliage;
+b.
+Pictorial representations (photo simulations) of "before and after" views from key viewpoints inside of the city as may be appropriate and required, including but not limited to state highways and other major roads; state and local parks; other public lands; historic districts; preserves and historic sites normally open to the public; and from any other location where the site is visible to a large number of visitors, travelers or residents. Guidance will be provided concerning the appropriate key sites at the pre-application meeting. The applicant shall provide a map showing the locations of where the pictures were taken and the distance(s) of each location from the proposed structure; and
+c.
+A written description of the visual impact of the proposed facility, including, as applicable, the tower base, guy wires, fencing and accessory buildings from abutting and adjacent properties and streets as relates to the need or appropriateness of screening.
+(10)
+A writing and/or by drawing demonstrating how the applicant shall effectively screen from view the base and all related equipment and structures of the proposed wireless telecommunications facility.
+(11)
+An applicant shall submit to the city the number of completed applications determined to be needed at the pre-application meeting. Applications, however, need not be provided to the city, other than for staff, until the application is deemed complete.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-400. - Required balloon test.
+In order to better inform the public, in the case of a new telecommunication tower, the applicant shall hold a "balloon test" prior to the initial public hearing on the application. The applicant shall arrange to fly or raise upon a temporary mast, a minimum of ten feet in length, brightly colored balloon at the maximum height of the proposed new tower.
+(1)
+At least 14 days prior to the conduct of the balloon test, a sign shall be erected so as to be clearly visible from the road nearest the proposed site and shall be removed no later than 14 days after the conduct of the balloon test. The sign shall be at least four feet by eight feet in size and shall be readable from the road by a person with 20/20 vision.
+(2)
+Such sign shall be placed off, but as near to, the public right-of-way as is possible.
+(3)
+Such sign shall contain the times and date(s) of the balloon test, as well as a copy of the proposed site plan.
+(4)
+The dates, (including a second date, in case of poor visibility or wind in excess of 15 mph on the initial date) times and location of this balloon test shall be advertised by the applicant seven and 14 days in advance of the first test date in a newspaper with a general circulation in the city and as agreed to by the city. The applicant shall inform the city in writing, of the dates and times of the test, at least 14 days in advance. The balloon shall be flown for at least four consecutive hours between 10:00 am and 2:00 p.m. on the dates chosen. The primary date shall be on a weekend, but the second date, in case of poor visibility on the initial date, may be on a weekday. A report with pictures from various locations of the balloon shall be provided with the application.
+(5)
+The applicant shall notify all property owners and residents located within 1,500 feet of the nearest property line of the subject property of the proposed construction of the tower and wireless facility and of the date(s) and time(s) of the balloon test. Such notice shall be provided at least 14 days prior to the conduct of the balloon test and shall be delivered by U.S. Certified Mail.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-401. - Shared use of wireless telecommunications facilities and other structures.
+(a)
+Design requirements of new towers. The tower shall be structurally designed to accommodate at least five additional antenna arrays equivalent to those of the applicant regarding the load and stress created on the tower, and located as close to the applicant's antenna as possible without causing interference. A claim of interference because of a need to have greater than six feet of vertical clearance between facilities, measured from the vertical centerline of one array to the vertical centerline of another, must be proven by technical data and not merely verbal or written assertions. This requirement may be waived, provided that the applicant, in writing, demonstrates that the provisions of future shared usage of the tower is not technologically feasible, is commercially impracticable or creates an unnecessary and unreasonable burden, based upon:
+(1)
+The kind of wireless telecommunications facilities site and structure proposed;
+(2)
+Available space on existing and approved towers; and
+(3)
+The need for more than six feet of vertical clearance between antenna arrays, measured from the vertical centerline of one array to the vertical centerline of another, such that there would not be adequate vertical space to accommodate a total of four carriers.
+(b)
+The owner of a proposed new tower, and his/her successors in interest, shall negotiate in good faith for the shared use of the proposed tower by other wireless service providers in the future, and shall:
+(1)
+Respond within 60 days to a request for information from a potential shared-use applicant;
+(2)
+Negotiate in good faith concerning future requests for shared use of the new tower by other telecommunications providers;
+(3)
+Allow shared use of the new tower if another telecommunications provider agrees in writing to pay reasonable charges. The charges may include, but are not limited to, a pro rata share of the cost of site selection, planning, project administration, land costs, site design, construction and maintenance financing, return on equity, less depreciation, and all of the costs of adapting the tower or equipment to accommodate a shared user without causing electromagnetic interference; and
+(4)
+Failure to abide by the conditions outlined above may be grounds for revocation of the special use permit.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-402. - Design of the telecommunications facility.
+(a)
+The wireless telecommunications facility and any and all accessory or associated facilities shall maximize the use of building materials, colors and textures designed to blend with the structure to which it may be affixed and/or to harmonize with the natural surroundings. This shall include the utilization of stealth or camouflage or concealment technology as may be required by the city council.
+(b)
+All utilities at a wireless telecommunications facilities site shall be installed underground and in compliance with all laws, ordinances, rules and regulations of the city, including specifically, but not limited to. the National Electrical Safety Code and the National Electrical Code where appropriate.
+(c)
+At a wireless telecommunications facilities site an access road, turn around space and parking shall be provided to assure adequate emergency and service access. Maximum use of existing roads, whether public or private, shall be made to the extent practicable. Road construction shall at all times minimize ground disturbance and the cutting of vegetation. Road grades shall closely follow natural contours to assure minimal visual disturbance and reduce soil erosion.
+(d)
+All wireless telecommunications facilities shall be constructed, operated, maintained, repaired, provided for removal of, modified or restored in strict compliance with all current applicable technical, safety and safety-related codes adopted by the city, state, or United States, including, but not limited to, the most recent editions of the ANSI Code, National Electrical Safety Code and the National Electrical Code, as well as accepted and responsible workmanlike industry practices and recommended practices of the National Association of Tower Erectors. The codes referred to are codes that include, but are not limited to construction, building, electrical, fire, safety, health, and land use codes. In the event of a conflict between or among any of the preceding the more stringent shall apply.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-403. - Location of wireless telecommunications facilities.
+(a)
+Applicants for wireless telecommunications facilities shall locate, site and erect said wireless telecommunications facilities in accordance with the following priorities, one being the highest priority and five being the lowest priority:
+(1)
+On existing towers or other structures without increasing the height of the tower or structure.
+(2)
+On government-owned properties or facilities.
+(3)
+On properties in areas zoned for business use.
+(4)
+On properties in areas zoned for agricultural use.
+(5)
+On properties in areas zoned for residential use.
+(b)
+If the proposed site is not proposed for the highest priority listed above, then a detailed explanation and justification must be provided as to why a site of all higher priority designations was not selected. The person seeking such an exception must satisfactorily demonstrate the reason or reasons why such a permit should be granted for the proposed site, and the hardship that would be incurred by the applicant if the permit were not granted for the wireless facility as proposed.
+(c)
+An applicant may not by-pass sites of higher priority by stating the site proposed is the only site leased or selected or because there is an existing lease with a landowner. An application shall address colocation as an option. If such option is not proposed, the applicant must explain to the reasonable satisfaction of the city why colocation is commercially impracticable or otherwise impracticable. Agreements between providers limiting or prohibiting colocation shall not be a valid basis for any claim of commercial impracticability or hardship.
+(d)
+Notwithstanding the above, the city may approve any site located within an area in the above list of priorities, provided that the city finds that the proposed site is in the best interest of the health, safety and welfare of the city and its inhabitants and will not have a deleterious effect on the nature and character of the community and neighborhood. Conversely, the city may direct that the proposed location be changed to another location that is more in keeping with the goals of this section and the public interest as determined by city.
+(e)
+The applicant shall submit a detailed written report demonstrating the applicant's review of the above locations in order of priority, demonstrating the technological reason for the site selection. If appropriate, based on selecting a site of lower priority, a detailed written explanation as to why sites of a higher priority were not selected shall be included with the application, including the technical justification for such.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-404. - Height of telecommunications towers.
+(a)
+All new towers shall be of the monopole type, unless such is able to be proven to be technologically impracticable. No new towers of a lattice or guyed-type shall be permitted, unless relief is otherwise expressly granted.
+(b)
+The applicant shall submit documentation justifying the technical need by the service provider for the total height of any tower, facility and/or antenna requested and the basis therefore. To enable verification of the need for the requested height, documentation in the form of propagation studies must include all backup data used to produce the studies at the height requested and at a minimum of ten feet lower height. Such documentation will be analyzed in the context of the justification of the height needed to provide service primarily and essentially within the city, to the extent practicable, unless good cause is shown.
+(c)
+The maximum permitted total height of a new tower shall be 100 feet above preconstruction ground level, unless it can be proven that such height would prohibit or have the effect of prohibiting the provision of service in the intended service area. The 100-foot maximum permitted height is not as-of-right height, but rather the maximum permitted height, absent proof of the technological need for a greater height.
+(d)
+Notwithstanding the 100-foot maximum permitted height, telecommunications towers and facilities shall be no taller than the minimum height technologically necessary to enable the provision of wireless service coverage or capacity as needed within the city.
+(e)
+Spacing or the distance between towers shall be such that the service may be provided without exceeding the maximum permitted height.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-405. - Visibility of wireless telecommunications facilities.
+(a)
+Telecommunications facilities shall not be artificially lighted or marked, except as required by ordinance.
+(b)
+All new wireless telecommunications facilities, including, but not limited to, towers, shall utilize stealth or camouflage techniques and technology, unless such can be shown to be either commercially or technologically impracticable.
+(c)
+In order to minimize the number of antenna arrays and thus the visual impact, the city may require the use of dual mode antennas to be used, including by two different carriers, unless it can be proven that such will not work technologically and that such would have the effect of prohibiting the provision of service.
+(d)
+Towers shall be galvanized and/or painted with a rust-preventive paint of an appropriate color to harmonize with the surroundings and shall be maintained in accordance with the requirements of this section.
+(e)
+If lighting is required, applicant shall provide a detailed plan for sufficient lighting of as unobtrusive and inoffensive an effect as is permissible under state and federal regulations. All towers requiring lighting shall be lighted so as to effectively eliminate the ground scatter effect of the lighting and so as to prevent the light from being seen from the ground.
+(f)
+All new or replacement antennas, except omni-directional whip antennas, shall be flush-mounted on any tower or other structure, unless the applicant can prove that it is technologically impracticable.
+(g)
+If attached to a building, all antennas shall be mounted on the facie of the building and camouflaged so as to match the color and, if possible, texture of the building or in a manner so as to make the antennas as visually innocuous and undetectable as is possible given the facts and circumstances involved.
+(h)
+For any wireless facility for which lighting is required under the FAA's regulations, or that for any reason has lights attached, all such lighting shall be affixed with technology that enables the light to be seen as intended from the air. but that prevents the ground scatter effect so that it is not able to be seen from the ground to a height of at least 12 degrees vertical for a distance of at least one mile in a level terrain situation. Such device must be compliant with or not in conflict with FAA regulations. A physical shield may be used, as long as the light is able to be seen from the air, as intended by the FAA.
+(i)
+In the event a tower that is lighted is modified, at the time of the modification the city may require that the tower be retrofitted with the technology set forth in the preceding subsection (f) of this section.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-406. - Security of wireless telecommunications facilities.
+All wireless telecommunications facilities and antennas shall be located, fenced or otherwise secured in a manner that prevents unauthorized access. Specifically:
+(1)
+All antennas, towers and other supporting structures, including guy anchor points and wires, shall be made inaccessible to individuals and constructed or shielded in such a manner that they cannot be climbed or collided with; and
+(2)
+Transmitters and telecommunications control points shall be installed in such a manner that they are readily accessible only to persons authorized to operate or service them.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-407. - Signage.
+Wireless telecommunications facilities shall contain a sign no larger than four square feet in order to provide adequate notification to persons in the immediate area of the presence of RF radiation or to control exposure to RF radiation within a given area. A sign of the same size is also to be installed to contain the name(s) of the owner(s) and operator(s) of the antenna(s) as well as emergency phone number(s). The sign shall be on the equipment shelter or cabinet of the applicant and be visible from the access point of the site and must identify the equipment owner of the shelter or cabinet. On tower sites, an FCC registration site, as applicable, is also to be present. The signs shall not be lighted, unless applicable law, rule or regulation requires lighting.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-408. - District size and setbacks.
+(a)
+All proposed towers and any other proposed wireless telecommunications facility attachment structures shall be set back from abutting parcels, recorded rights-of-way and road and street lines by the greater of the following distances: a distance equal to the height of the proposed tower or wireless telecommunications facility structure plus ten percent of the height of the tower or structure, otherwise known as the fall zone, or the existing setback requirement of the underlying land use district, whichever is greater. Any accessory structure shall be located so as to comply with the applicable minimum setback requirements for the property on which it is situated. The fall zone or setback shall be measured from the nearest portion of the right-of-way of any public road or thoroughfare and any occupied building or domicile. Further, the nearest portion of any access road to a wireless facility shall be no less than 15 feet from the nearest property line.
+(b)
+There shall be no development of habitable buildings within the fall zone or setback area set forth in the preceding subsection (a).
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-409. - Retention of expert assistance and reimbursement by applicant.
+(a)
+The city may hire any consultant" and/or expert necessary to assist the city in reviewing and evaluating the application, including the construction and modification of the site, once permitted, and any site inspections.
+(b)
+To prevent the taxpayers from having to bear the cost related to the issue of the regulation of wireless telecommunications facilities, an applicant shall deposit with the city funds sufficient to reimburse the city for all reasonable costs of consultant and expert evaluation and consultation to the city in connection with the review of any application where applicable, the lease negotiation, the pre-approval evaluation, and including the construction and modification of the site, once permitted. The initial deposit shall be $6,500.00. The placement of the $6,500.00 with the city shall precede the pre-application meeting or any work being done with regard to processing an application. The city will maintain a separate escrow account for all such funds. The city's consultants/experts shall invoice the city for its services in reviewing the application, including the construction and modification of the site, once permitted. The initial deposit shall not be increased without action by the city council finding that the initial application request has been modified, that the scope of the review is unique, or the applicant has failed to cooperate with consultant's review causing the consultant to spend substantial time and effort to complete the evaluation of the application. However, if at any time during the process this escrow account has a balance less than $2,500.00, and the city council finds that the increase is warranted, the applicant shall immediately, upon notification by the city, replenish said escrow account so that it has a balance of at least $5,000.00. Such additional escrow funds shall be deposited with the city before any further action or consideration is taken on the application. In the event that the amount held in escrow is more than the amount of the actual invoicing at the conclusion of the project, the remaining balance shall be promptly refunded to the applicant.
+(c)
+To prevent the taxpayers from having to bear any cost related to the issue of the regulation of wireless telecommunications facilities, no work shall be done on an application for which the full amount of the escrow deposit as set forth in the preceding subsection (b) of this section has not been placed with the city. In the event the escrow deposit minimum balance as set forth in subsection (b) is not maintained, all work on the application shall cease until the deposit is replenished as required.
+(d)
+The total amount of the funds needed as set forth in subsection (b) of this section may vary with the scope and complexity of the project, the completeness of the application and other information as may be needed to complete the necessary review, analysis and inspection of any construction or modification.
+(e)
+Records of all outside costs associated with the review and permitting process shall be maintained and available for public inspection, in compliance with applicable Georgia law.
+(f)
+Any application submitted to the city's consultant shall be reviewed by the consultant for completion within 30 days of submittal to the city. Once the application has been found to be complete, in no event shall the consultant's recommendation and evaluation process on the application take more than 60 days.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-410. - Public hearing and notification requirements.
+The planning commission and the city will conduct public hearings on a special use permit required herein. The city will cause notice of the public hearing to be published in the newspaper of general circulation within the city not more than 45 days and not less than 15 days prior to the public hearing. The city will provide a sign for the applicant to post next to the closest public right-of-way, notifying the public of the filing of a special use permit application and including the public meeting dates.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-411. - Action on an application for a special use permit for wireless telecommunications facilities.
+(a)
+The city will undertake a review of an application pursuant to this article in a timely fashion, consistent with its responsibilities, and shall act within a reasonable period of time given the relative complexity of the application and the circumstances, with due regard for the public's interest and need to be involved, and the applicant's desire for a timely resolution.
+(b)
+The planning commission shall hold a public hearing on the application submitted pursuant to this article. At the conclusion of the meeting, the planning commission shall provide the city council with a recommendation about approval of the application after analysis of the application's compliance with the requirements of this article.
+(c)
+The city may disapprove an application for any of the following reasons:
+(1)
+Conflict with safety and safety-related codes and requirements;
+(2)
+Conflict with the historic nature or character of a neighborhood or district;
+(3)
+The use or construction of wireless telecommunications facilities which is contrary to an already stated purpose of a specific zoning or land use designation;
+(4)
+The placement and location of wireless telecommunications facilities which would create an unacceptable risk, or the reasonable probability of such, to residents, the public, employees and agents of the city, or employees of the service provider or other service providers;
+(5)
+The placement and location of a wireless telecommunications facility would result in a conflict with or compromise in or change the nature or character of the surrounding area;
+(6)
+Conflicts with the provisions of this article;
+(7)
+Failure to submit a complete application as required under this article.
+(d)
+Notwithstanding anything to the contrary in this section, for good cause shown, such as the ability to utilize a shorter or less intrusive facility elsewhere and still accomplish the primary service objective, the city may require the relocation of a proposed site, including allowing for the fact that relocating the site chosen by the applicant may require the use of more than one site to provide substantially the same service if the relocation could result in a less intrusive facility or facilities, singly or in combination.
+(e)
+After the public hearing and after formally considering the application, the city may approve, approve with conditions, or deny a special use permit. Its decision shall be in writing and shall be supported by substantially evidence contained in a written record. The burden of proof for the grant of the permit shall always be upon the applicant.
+(f)
+If the city approves the special use permit for wireless telecommunications facilities, then the applicant shall be notified of such approval in writing within 30 calendar days of the city council's action, and the special use permit shall be issued within 30 days after such approval.
+(g)
+If the city denies the special use permit for wireless telecommunications facilities, then the applicant shall be notified of such denial in writing within 30 calendar days of the city council's action and shall set forth in writing the reason or reasons for the denial.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-412. - Extent and parameters of special use permit for wireless telecommunications facilities.
+The extent and parameters of a special use permit for wireless telecommunications facilities shall be as follows:
+(1)
+Such special use permit shall not be assigned, transferred or conveyed without the express prior written permission of the city.
+(2)
+In the event of a violation of this section, following an opportunity to cure and, if not cured within the time frame set forth in the notice of violation, a hearing shall be held upon due prior notice to the applicant. Following such hearing, if found to be in violation of this section, the special use permit may be revoked, canceled, or terminated for a violation of the conditions and provisions of the special use permit, or for a material violation of this section or other applicable law, rule or regulation.
+(3)
+Notice of a violation and of the date, time and place of a hearing shall be provided by registered mail to the last known address of the holder of the special use permit.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-413. - Application fee.
+At the time that a person submits an application for a special use permit for a new tower, such person shall pay a nonrefundable application fee set forth in the city's fee schedule as may be amended or changed from time-to-time.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-414. - Removal and performance security.
+The applicant and the owner of record of any proposed wireless telecommunications facilities property site shall, at its cost and expense, be jointly required to execute and file with the city a bond, or other form of security acceptable to the city as to type of security and the form and manner of execution, in an amount of at least $75,000.00 for a tower with such sureties as are deemed sufficient by the city to assure the faithful performance of the terms and conditions of this article and conditions of any special use permit issued pursuant to this article. The full amount of the bond or security shall remain in full force and effect throughout the term of the special use permit and/or until any necessary site restoration is completed to restore the site to a condition comparable to that, which existed prior to the issuance of the original special use permit.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-415. - Reservation of authority to inspect wireless telecommunications facilities.
+In order to verify that the holder of a special use permit for wireless telecommunications facilities and any and all lessees, renters, and/or licensees of wireless telecommunications facilities, place and construct such facilities, including towers and antennas, in accordance with all applicable technical, safety, fire, building, and zoning codes, laws, ordinances and regulations and other applicable requirements, the city may inspect all facets of said permit holder's, renter's, lessee's or licensee's placement, construction, modification and maintenance of such facilities, including, but not limited to, towers, antennas and buildings or other structures constructed or located on the permitted site.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-416. - Liability insurance.
+(a)
+A holder of a special use permit for wireless telecommunications facilities shall secure and at all times maintain public liability insurance for personal injuries, death and property damage, and umbrella insurance coverage, for the duration of the special use permit in amounts as set forth below:
+(1)
+Commercial general liability covering personal injuries, death and property damage: $1,000,000.00 per occurrence/$2,000,000.00 aggregate; and
+(2)
+A $3,000,000.00 umbrella coverage; and
+(3)
+Workers compensation and disability: statutory amounts.
+(b)
+For a wireless telecommunications facility on city property, the commercial general liability insurance policy shall specifically include the city and its officers, council members, employees, committee members, attorneys, agents and consultants as additional insureds.
+(c)
+The insurance policies shall be issued by an agent or representative of an insurance company licensed to do business in the state and with a Best's rating of at least A.
+(d)
+The insurance policies shall contain an endorsement obligating the insurance company to furnish the city with at least 30 days prior written notice in advance of the cancellation of the insurance.
+(e)
+Renewal or replacement policies or certificates shall be delivered to the city at least 15 days before the expiration of the insurance that such policies are to renew or replace.
+(f)
+Prior to the issuance of a special use permit, the holder of the special use permit shall deliver to the city a copy of each of the policies or certificates representing the insurance in the required amounts.
+(g)
+A certificate of insurance that states that it is for informational purposes only and does not confer rights upon the city shall not be deemed to comply with this section.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-417. - Indemnification.
+(a)
+Any application for wireless telecommunication facilities that is proposed for city property, pursuant to this ordinance, shall contain a provision with respect to indemnification. Such provision shall require the applicant, to the extent permitted by the ordinance, to at all times defend, indemnify, protect, save, hold harmless, and exempt the city, and its officers, councils, employees, committee members, attorneys, agents, and consultants from any and all penalties, damages, costs, or charges arising out of any and all claims, suits, demands, causes of action, or award of damages, whether compensatory or punitive, or expenses arising therefrom, either at law or in equity, which might arise out of, or are caused by, the placement, construction, erection, modification, location. products performance, use, operation, maintenance, repair, installation, replacement, removal, or restoration of said facility, excepting, however, any portion of such claims, suits, demands, causes of action or award of damages as may be attributable to the negligent or intentional acts or omissions of the city, or its servants or agents. With respect to the penalties, damages or charges referenced herein, reasonable attorneys' fees, consultants' fees, and expert witness' fees are included in those costs that are recoverable by the city.
+(b)
+Notwithstanding the requirements noted in subsection (a) of this section, an indemnification provision will not be required in those instances when the city itself applies for and secures a special use permit for wireless telecommunications facilities.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-418. - Fines.
+(a)
+In the event of a violation of this article or any special use permit issued pursuant to this article, the city may impose and collect, and the holder of the special use permit for wireless telecommunications facilities shall pay to the city, fines or penalties as set forth below.
+(b)
+If the holder of a special use permit fails to comply with provisions of this article such shall constitute a violation of this article and shall be subject to a fine not to exceed $500.00 per day per violation following due and proper notice and, further, each day or part thereof that a violation remains uncured after proper notice shall constitute a separate violation, punishable separately.
+(c)
+Notwithstanding anything in this section, the holder of the special use permit for wireless telecommunications facilities may not use the payment of fines, liquidated damages or other penalties, to evade or avoid compliance with this section or any section of this section. An attempt to do so shall subject the holder of the special use permit to termination and revocation of the special use permit. The city may also seek injunctive relief to prevent the continued violation of this section, without limiting other remedies available to the city.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-419. - Default and/or revocation.
+If a wireless telecommunications facility is repaired, rebuilt, placed, moved, relocated, modified or maintained in a way that is inconsistent or not in compliance with the provisions of this section or of the special use permit, then the city shall notify the holder of the special use permit in writing of such violation. A permit holder in violation may be considered in default and subject to fines as in section 30-418 and if a violation is not corrected to the satisfaction of the city in a reasonable period of time the special use permit is subject to revocation.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-420. - Removal of wireless telecommunications facilities.
+(a)
+The owner of any tower or wireless facility shall be required to provide a minimum of 30 days' written notice to the city prior to abandoning any tower or wireless facility.
+(b)
+Under the following circumstances, the city may determine that the health, safety, and welfare interests of the city warrant and require the removal of wireless telecommunications facilities.
+(1)
+Wireless telecommunications facilities with a permit have been abandoned (i.e., not used as wireless telecommunications facilities) for a period exceeding 90 consecutive days or a total of 180 days in any 365-day period, except for periods caused by force majeure or acts of God, in which case, repair or removal shall commence within 90 days;
+(2)
+Permitted wireless telecommunications facility falls into such a state of disrepair that it creates a health or safety hazard; and
+(3)
+Wireless telecommunications facilities have been located, constructed, or modified without first obtaining, or in a manner not authorized by, the required special use permit, or any other necessary authorization and the special permit may be revoked.
+(c)
+If the city makes such a determination as noted in subsection (a) of this section, then the city shall notify the holder of the special use permit for the wireless telecommunications facilities within 48 hours that said wireless telecommunications facilities are to be removed, the city may approve an interim temporary use agreement/permit, such as to enable the sale of the wireless telecommunications facilities.
+(d)
+The holder of the special use permit, or its successors or assigns, shall dismantle and remove such wireless telecommunications facilities, and all associated structures and facilities, from the site and restore the site to as close to its original condition as is possible, such restoration being limited only by physical or commercial impracticability, within 90 days of receipt of written notice from the city. However, if the owner of the property upon which the wireless telecommunications facilities are located wishes to retain any access roadway to the wireless telecommunications facilities, the owner may do so with the approval of the city.
+(e)
+If wireless telecommunications facilities are not removed or substantial progress has not been made to remove the wireless telecommunications facilities within 90 days after the permit holder has received notice, then the city may order officials or representatives of the owner or special use permit holder to remove the wireless telecommunications facilities at the sole expense of the owner or special use permit holder.
+(f)
+If, the city removes, or causes to he removed, wireless telecommunications facilities, and the owner of the wireless telecommunications facilities does not claim and remove it from the site to a lawful location within ten days, then the city may take steps to declare the wireless telecommunications facilities abandoned, and sell them and their components.
+(g)
+Notwithstanding anything in this section to the contrary, the city may approve a temporary use permit/agreement for the wireless telecommunications facilities, for no more than 90 days, during which time a suitable plan for removal, conversion, or relocation of the affected wireless telecommunications facilities shall be developed by the holder of the special use permit, subject to the approval of the city, and an agreement to such plan shall be executed by the holder of the special use permit and the city. If such a plan is not developed, approved and executed within the 90-day time period, then the city may take possession of and dispose of the affected wireless telecommunications facilities in the manner provided in this article and utilize the bond in section 30-214.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-421. - Variances.
+Any applicant desiring variance relief, waiver or exemption from any aspect or requirement of this ordinance may request such at the pre-application meeting, provided that the relief or exemption is contained in the submitted application for either a special use permit, or in the case of an existing or previously granted special use permit a request for modification of its lower and/or facilities. Such relief may he temporary or permanent, partial or complete. However, the burden of proving the need for the requested relief, waiver or exemption is solely on the applicant to prove. The applicant shall bear all costs of the city in considering the request and the relief, waiver or exemption. No such relief or exemption shall be approved unless the applicant demonstrates by clear and convincing evidence that, if grainted, the relief, waiver or exemption will have no significant affect on the health, safety and welfare of the city, its residents or other service providers.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-422. - Adherence to state and/or federal rules and regulations.
+(a)
+To the extent that the holder of a special use permit for wireless telecommunications facilities has not received relief, or is otherwise exempt, from appropriate state and/or federal agency rules or regulations, then the holder of such a special use permit shall adhere to, and comply with, all applicable rules, regulations, standards, and provisions of any state or federal agency, including, but not limited to, the FAA and the FCC. Specifically included in this requirement are any rules and regulations regarding height, lighting, security, electrical and RF emission standards.
+(b)
+To the extent that applicable rules, regulations, standards, and provisions of any state or federal agency, including but not limited to, the FAA and the FCC, and specifically including any rules and regulations regarding height, lighting, and security are changed and/or are modified during the duration of a special use permit for wireless telecommunications facilities, then the holder of such a special use permit shall conform the permitted wireless telecommunications facilities to the applicable changed and/or modified rule, regulation, standard, or provision within a maximum of 24 months of the effective date of the applicable changed and/or modified rule, regulation, standard, or provision, or sooner as may be required by the issuing entity.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Sec. 30-423. - Conflict with other laws.
+Where this section differs or conflicts with other laws, rules and regulations, unless the right to do so is preempted or prohibited by the city, state or federal government, this section shall apply.
+(Ord. No. 2009-01, § 1, 1-6-2009)
+Secs. 30-424—30-450. - Reserved.

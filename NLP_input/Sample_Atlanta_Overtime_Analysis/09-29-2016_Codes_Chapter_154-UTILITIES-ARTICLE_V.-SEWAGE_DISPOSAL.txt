@@ -1,0 +1,1128 @@
+ARTICLE V. - SEWAGE DISPOSAL[5]
+DIVISION 1. - GENERALLY
+
+Sec. 154-196. - Definitions
+Unless the context specifically indicates otherwise, the meaning of terms used in this article shall be as follows:
+(1)
+Act or the Act : The federal Water Pollution Control Act, also known as the Clean Water Act, 33 U.S.C. § 1251, et. seq., as it may be amended.
+(2)
+Ammonia (NH 3 ): A colorless gaseous alkaline compound of nitrogen and hydrogen that is very soluble in water.
+(3)
+Authorized representative of industrial user :
+a.
+If the industrial user is a corporation, authorized representative shall mean the president, secretary, treasurer, or a vice-president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation.
+b.
+If the industrial user is a partnership or a sole proprietorship, the authorized representative shall mean a general partner or proprietor, respectively.
+c.
+If the industrial user is a federal, state, or local governmental facility, the authorized representative shall mean the director or highest designated official overseeing the activities of the facility.
+d.
+The commissioner may allow the individuals described in subparagraphs (a) and (b) above to designate another authorized representative if the authorization is in writing, and if the authorization specifies the individual or position responsible for the overall operation of the facility from which the discharge originates, or having overall responsibility for environmental matters for the company.
+(4)
+Biochemical oxygen demand: The quantity of oxygen utilized in the biochemical oxidation of organic matter under standard laboratory procedure, five days at 20° Celsius expressed in terms of weight or concentration (milligrams per liter, mg/1).
+(5)
+Building sewer: A sewer conveying wastewater from the premises of a user to the water pollution control facilities.
+(6)
+Bypass: The diversion (both intentional and accidental) of wastestreams from any portion of any pretreatment system.
+(7)
+Categorical pretreatment standard or categorical standard: Any regulation containing pollutant discharge limits promulgated by EPA in accordance with sections 307(b) and (c) of the Act (33 U.S.C. § 1317) which apply to a specific category of users and which appear in 40 CFR Chapter I, Subchapter N, Parts 405-471.
+(8)
+Chemical oxygen demand: A measure of the oxygen-consuming capacity of inorganic and organic matter present in water and wastewater. It is expressed as the amount of oxygen in milligram per liter by weight consumed from a chemical oxidant in a specific test.
+(9)
+City: The City of Atlanta, Georgia.
+(9.1)
+Collection system: Sewers, force mains, pump stations, ejector stations and other equipment for the conveyance of wastewater to a publicly-owned treatment works.
+(10)
+Combined sewer: A sewer receiving both storm water and wastewater.
+(11)
+Commissioner: The commissioner of the department of watershed management or his/her duly authorized assistant, agent, or representative, or such person as the mayor may designate to carry out the functions set forth herein.
+(12)
+Compliance: The level of conformity with all applicable regulations. There are three levels of compliance:
+a.
+Consistent compliance.
+b.
+Infrequent noncompliance.
+c.
+Significant noncompliance.
+(13)
+Composite sample: The accumulation of a number of individual samples over a period of time, so taken as to represent the nature of the wastewater.
+(14)
+Constituents: The combination of particles, chemicals, or conditions which exist in the wastewater.
+(15)
+Customer: Every person who is responsible for contracting (expressly or implicitly) with the city in obtaining, having or using water or wastewater connections with, or sewer taps to the city wastewater system and in obtaining, having or using water or other related services furnished by the city for the purpose of disposing of wastewater through said system. The term "customer" shall also include illicit users of the water or wastewater systems.
+(15.1)
+Dilute: To make any pollutant, pollution, waste or wastewater thinner or weaker by adding water or any other substance.
+(16)
+Direct discharge: The discharge of treated or untreated wastewater directly to the waters of the State of Georgia.
+(17)
+Domestic wastewater: That wastewater discharged into the wastewater system from domestic sources such as toilets, washing machines, dishwashers, sinks, showers, and bathtubs from normal household usage.
+(18)
+Effluent: The treated flow discharged from a water pollution control facility.
+(19)
+Environmental Protection Agency or EPA: The U.S. Environmental Protection Agency, or where appropriate, the term may also be used to designate the administrator or other duly authorized official of said agency.
+(20)
+Existing source: Any source of discharge, the construction or operation of which commenced prior to the publication by EPA of proposed Categorical Pretreatment Standards, which will be applicable to such source if the standard is thereafter promulgated in accordance with section 307 of the Act.
+(21)
+Flammable: As defined by existing City of Atlanta Fire Department regulations.
+(22)
+Floatable oil and grease: Oil, fat or grease in a physical state such that it will separate from wastewater by treatment in an American Petroleum Institute (API) type oil/water gravity separator.
+(23)
+Food processing industry: Any user whose primary business is the preparation of food products. Users are identified as having SIC Codes in the range 2011-2099, including but not limited to baking products, canned products, dairy products, grain mill products, sugar and confectionery products and meat products.
+(24)
+Food service establishment: Any restaurant, eatery, food caterer, cafeteria, or other institution processing and serving food.
+(25)
+Grab sample: A sample which is taken from a wastewater stream on a one-time basis with no regard to the flow in the wastewater stream and over a period of time not to exceed 15 minutes.
+(26)
+Grease and oil: The group of substances with similar physical characteristics, which includes fatty acids, soaps, fats, waxes, oils and any other material that can be solvent extracted and is not volatilized during evaporation of the solvent.
+(27)
+Grit: Matter consisting of sand, gravel, cinders, or other heavy solid materials that has settling velocities or specific gravity's greater than those of organic putrescible solids normally encountered in domestic wastewater.
+(28)
+Health department: The Fulton County Board of Health, or any successor agency.
+(29)
+Holding tank waste: Any waste from holding tanks such as vessels, chemical toilets, campers, trailers and septic tanks.
+(30)
+Industrial user: A source of discharge of industrial wastewater into water pollution control facilities.
+(30.1)
+Indirect discharge: The discharge of treated or untreated wastewater to the publicly owned treatment works (POTWs) of the city.
+(31)
+Industrial wastewater: Wastewater in which the solid, liquid and gaseous wastes from process of industry, manufacture, trade or business, or from the development or recovery of any natural resource (as distinct from domestic or sanitary wastes) is found.
+(32)
+Industrial waste surcharge: The additional service charge assessed against industrial users in the city whose wastewater characteristics exceed established limits for COD, TKN, and TSS.
+(33)
+Infiltration: Groundwater and surface water which leaks into the wastewater system through cracked pipes, joints, manholes or other openings.
+(34)
+Inflow: Water that flows into the wastewater system from the surface, streams, roof drains, down spouts, or other such sources.
+(35)
+Influent: The wastewaters arriving at the water pollution control treatment facility.
+(36)
+Interference: An inhibition or disruption of operation or maintenance of the water pollution control facilities, city wastewater treatment processes or operations, or sludge processes, use or disposal:
+a.
+Which is a cause of or significantly contributes to a violation of any requirement of the city's NPDES permit (including an increase in the magnitude or duration of a violation); or
+b.
+Which causes or significantly contributes to an increase in the discharge of pollutants above normal conditions or an increase in the cost of operation of the POTW above normal conditions; or
+c.
+Which causes or significantly contributes to the prevention of sludge use or disposal by the city in accordance with the Georgia Water Quality Control Act, and any permits or regulations issued thereunder. Section 405 of the Act, (33 U.S.C. § 1345), the federal Solid Waste Disposal Act (SWDA), the federal Clean Air Act, and the federal Toxic Substances Control Act. An industrial user significantly contributes to such interference or prevention of sludge use or disposal in accordance with above-cited authorities whenever such user:
+1.
+Discharges a daily pollutant loading in excess of that permitted by the provisions of this article or by federal or state law;
+2.
+Discharges wastewater which substantially differs in nature or constituents from a user's average discharge; or
+3.
+Knows or has reason to know that the user's discharge, along or in conjunction with discharge from other sources, would result in a NPDES permit violation by the city or would prevent sludge use or disposal in accordance with the above-cited authorities as they apply to the city's selected method of sludge management.
+(36.1)
+Maintenance, operations and management ("MOM") program: A program for the efficient and proper operation and maintenance of the sewer collection system and includes, but is not limited to, a collection system contingency and emergency plan, an operations plan, a grease management plan, a maintenance management plan and a training program for appropriate personnel of the department of public works.
+(37)
+Medical waste: Isolation wastes, infectious agents, human blood and blood products, pathological wastes, sharps, body parts, contaminated bedding, surgical wastes, potentially contaminated laboratory wastes, cultures and dialysis wastes.
+(38)
+Metered water: The amount of water used by the customer as measured by a city water meter, or other approved metering device.
+(39)
+Milligrams per liter (mg/1): The units for expressing weight per unit volume and when multiplied by the factor 8.34, mg/l is equivalent to pounds per million gallons of water. For a water solution, mg/l is equivalent to parts per million (ppm) on a weight basis.
+(40)
+National pollutant discharge elimination system permit: A permit issued pursuant to section 402 of the Act (33 U.S.C. § 1342).
+(41)
+New source: Any building, structure, facility or installation from which there is or may be a discharge of pollutants, the construction of which commenced after the publication of proposed pretreatment standards under section 307(c) of the Act which will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:
+a.
+The building, structure, facility or installation is constructed at a site at which no other source is located; or
+b.
+The building, structure, facility or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or
+c.
+The production or wastewater generating processes of the building, structure, facility or installation are substantially independent of an existing source at the same site. In determining whether these are substantially independent, factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source should be considered.
+1.
+Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of paragraphs (41)(b), or (c) of this section but otherwise alters, replaces, or adds to existing process or production equipment.
+2.
+Construction of a new source as defined under this paragraph has commenced if the owner or operator has:
+d.
+Begun, or caused to begin, as part of a continuous onsite construction program:
+1.
+Any placement, assembly, or installation of facilities or equipment; or
+2.
+Significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or
+e.
+Entered into a binding contractual obligation for the purchase of facilities or equipment which are intended to be used in its operation within a reasonable time. Options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this paragraph.
+(42)
+Noncontact cooling water: Water used for cooling which does not come into direct contact with any raw material, intermediate product, waste product, or finished product or to which the only pollutant added is heat. Examples are water discharged from any use such as air conditioning, cooling, or refrigeration.
+(43)
+Nondomestic user: Any user of the Atlanta water pollution control facilities who discharges wastewater from a structure other than a residential unit.
+(44)
+Nondomestic wastewater: The wastewater generated from nondomestic users as distinct from domestic or sanitary wastes.
+(45)
+Pass-through: Any discharge which exits the POTW into waters of the United States in quantities or concentrations which, alone or in conjunction with a discharge or discharges from other sources, is a cause of a violation of any requirement of the POTW's NPDES permit (including an increase in the magnitude or duration of a violation).
+(46)
+Person: Any individual, partnership, co-partnership, firm, company, corporation, association, joint stock company, trust, estate, governmental entity, or any other legal entity; or its legal representatives, agents, or assigns. This definition includes all federal, state and local governmental entities.
+(47)
+pH: The logarithm (base 10) of the reciprocal of the concentration of hydrogen ions expressed in grams per liter of solution. A measurement of the acidity or alkalinity of a substance expressed on a scale of 0—14 standard units, with 0 being highly acidic and 14 being highly alkaline.
+(48)
+Pollutant: Any dredged material, spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discharged equipment, rock, sand, cellar dirt and industrial, municipal, or agricultural waste discharge into water.
+(49)
+Pollution: The man-made or man-induced detrimental alteration of the chemical, physical, biological and radiological integrity of water or soil.
+(50)
+Pretreatment or treatment: The reduction of the amount of pollutants, the elimination of pollutants, or the alteration of the nature of pollutant properties to a less harmful state, prior to or in lieu of discharging or otherwise introducing such pollutants into the wastewater treatment system. The reduction or alteration can be obtained by physical, chemical or biological processes, or by process changes or other means, except as prohibited by 40 CFR § 403.6(d).
+(51)
+Publicly-owned treatment works (POTW): A treatment works as defined by section 212 of the Act, (33 U.S.C. § 1292), including any devices or systems designed, intended, or used in the collection, storage, treatment, recycling, and reclamation of wastewater.
+(52)
+Pumpage: The wastes removed from a container by pumping.
+(53)
+Receiving waters: Those waters into which wastewaters are discharged.
+(54)
+Sanitary sewer: A sewer which carries wastewater from which storm, surface, and ground waters are excluded.
+(55)
+Self-monitoring: Monitoring by an industrial user of the regulated discharge of that industrial user at the expense of the user.
+(56)
+Septage: Any wastes removed from a portable toilet, chemical toilet, holding tank, or septic tank.
+(57)
+Septic tank: A subsurface impervious tank designed to temporarily retain sewage or similar waterborne wastes together with:
+a.
+A sewer line constructed with solid pipe, with the joints sealed, connecting the impervious tank with a plumbing stub out; and
+b.
+A subsurface system of trenches, piping and other materials constructed to drain the clarified discharge from the tank and distribute it underground to be absorbed or filtered.
+(58)
+Severe property damage: The substantial physical damage to property, damage to the treatment facilities which causes them to become inoperable, or substantial and permanent loss of natural resources which can reasonably be expected to occur in the absence of a bypass. Severe property damage does not mean economic loss caused by delays in production.
+(59)
+Sewer: A pipe or conduit in which all owners of abutting properties have equal rights and which is controlled by a public entity.
+(60)
+Sewer assessment rate: The average cost per foot of all lateral sewers constructed in the city during the previous year, exclusive of house connection, and adjusted for unusual or extraordinary costs.
+(61)
+Sewer meter: Those devices approved by the commissioner for the purpose of establishing the quantity of wastewater discharged by a premise or person.
+(62)
+Sewer service charge: The charge assessed against the persons in the city that are connected to, or have access to, the city water pollution control facilities.
+(63)
+Significant industrial user or SIU .
+a.
+Except as provided in paragraph (63)(b) of this section, the term significant industrial user means:
+1.
+All industrial users subject to categorical pretreatment standards under 40 CFR § 403.6 and 40 CFR Chapter I, Subchapter N; and
+2.
+Any other industrial user that: discharges an average of 25,000 gallons per day or more of process wastewater to the POTW (excluding sanitary, noncontact cooling and boiler blowdown wastewater); contributes a process wastestream which makes up 5 percent or more of the average dry weather hydraulic or organic capacity of the POTW treatment plant; or is designated as such by the Control Authority as defined in 40 CFR § 403.12(a) on the basis that the industrial user has a reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement (in accordance with 40 CFR § 403.8(f)(6)).
+b.
+Upon a finding that an industrial user meeting the criteria in subparagraph (a)(1)(2) of this section has no reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement, the control authority (as defined in 40 CFR § 403.12(a)) may at any time, on its own initiative or in response to a petition received from an industrial user or POTW, and in accordance with 40 CFR § 403.8(f)(6), determine that such industrial user is not a significant industrial user.
+(64)
+Slug loading: Any pollutant released in a discharge of such volume or strength as to cause interference in the water pollution control facility.
+(65)
+Standard industrial classification (SIC): A classification pursuant to the most current Standard Industrial Classification Manual issued by the U.S. Office of Management and Budget.
+(66)
+Standard methods: The examination and analytical procedures set forth in the latest edition, at the time of analysis, of Standard Methods for the Examination of Water and Wastewater as prepared, approved and published jointly by the American Public Health Association, the American Water Works Association, and the Water Environment Federation.
+(67)
+Storm sewer: A sewer which carries storm and surface waters and drainage, but excludes domestic and industrial wastewaters.
+(68)
+Suspended solids: The total suspended matter that floats on the surface of, or is suspended in, water, wastewater or other liquids, and which is removable by laboratory filtering.
+(69)
+TKN: Total nitrogen as measured by the Kjeldahl technique, expressed in milligrams per liter by weight.
+(70)
+Toxic: Any pollutant or combination of pollutants listed as toxic in regulations promulgated by the administrator of the EPA under the provision of the Clean Water Act, section 307(a) or other acts.
+(70.1)
+Trucked or hauled pollutants: Any dredged material, spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discharged equipment, rock, sand, cellar dirt and industrial, municipal, or agricultural waste discharge transported by truck, rail or dedicated pipeline.
+(71)
+User: Any person who contributes, causes, or permits the contribution of wastewater into the city's water pollution control facilities.
+(72)
+Waste: Includes sewage and any and all other waste substances, liquid, solid, gaseous or radioactive, associated with human habitation, or of human or animal origin, or from any producing, manufacturing or processing operation of whatever nature, including such waste placed within containers of whatever nature prior to, and for purposes of, disposal.
+(73)
+Wastewater: A combination of the water-carried wastes from residences, business buildings, institutions, and commercial establishments, together with those ground, surface, and storm waters as may be present.
+(74)
+Water meter: Those devices approved by the commissioner for the purpose of establishing the quantity of water used by a premise or person.
+(75)
+Water pollution control facilities: All facilities for collecting, pumping, or treating wastewater or storm water.
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 1999-30, §§ 2, 3, 2-9-99; Ord. No. 2006-53, § 37, 8-29-06; Ord. No. 2013-67(12-O-0563), § 1, 12-11-13 )
+Sec. 154-197. - Abbreviations.
+The following abbreviations shall have the designated meanings:
+BOD, biochemical oxygen demand.
+CFR, Code of Federal Regulations.
+COD, Chemical oxygen demand
+EPA, Environmental Protection Agency.
+GPD, gallons per day.
+mg/l, milligrams per liter.
+MOM, maintenance, operations and management.
+NPDES, National Pollutant Discharge Elimination System.
+O&M, operation and maintenance.
+POTW, publicly owned treatment works.
+RCRA, Resource Conservation and Recovery Act.
+SIC, standard industrial classification.
+TKN, total Kjeldahl nitrogen.
+TSS, total suspended solids.
+USC, United States Code.
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 1999-30, § 4, 2-9-99)
+Sec. 154-198. - Findings and purposes.
+The city finds that, in order to provide for the public health and welfare, and to comply with the laws and regulations of the State of Georgia and the United States Government, it is necessary to set uniform requirements for all users of the water pollution control facilities of the city; to establish effluent limits; to require minimum frequencies of inspections depending upon size of the city sewer system, to require pretreatment, where necessary, by system users; to regulate the use of municipal pollution control facilities through the issuance of permits to certain industrial users; to establish charges and fees for the equitable distribution of costs; and to authorize monitoring and enforcement activities.
+The purpose of article V is to prevent the introduction into the municipal pollution control facilities of pollutants which will interfere with the proper operation of the system or contaminate the resulting sludge; to prevent the introduction into the municipal pollution control facilities of pollutants which will cause the city to be in violation of any permits; to prevent the introduction into municipal pollution control facilities of toxic pollutants which would pass through the facilities in toxic amounts, into receiving water or the atmosphere, or otherwise be incompatible with the facilities; to prevent unauthorized discharges of pollutants into the environment; to improve the opportunity to recycle and reclaim wastewaters and sludges from the facilities; and to provide for equitable distribution of the cost of the municipal pollution control facilities.
+The city finds that criteria are needed to better control the discharge of grease and oils to the city's sewer system and that due to the diameters of the existing sewer piping system that certain portions of the city require additional inspections to accommodate compliance with this section. The accumulation of grease and oils discharged into the sewer system can lead to grease blockages, which in turn can cause overflows from the sewer system. The city must protect its sewer system against accumulations of grease and oils. Sources of grease and oil discharges include industrial users of the sewer system and food service establishments. Industrial users are subject to industrial user permitting and pretreatment requirements. The best method for reducing discharges of grease and oil from food service establishments is the installation of grease traps at the food service establishment and proper maintenance of the grease traps by the owner or operator of the food service establishment. The sewer use ordinance establishes requirements that control the discharge of grease and oil from industrial sources and food service establishments.
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 1999-30, § 1, 2-9-99; Ord. No. 2001-5, § I, 1-23-01)
+Sec. 154-199. - Public nuisance.
+It shall constitute a nuisance and shall be unlawful for any user to discharge a wastewater in any manner in violation of this article, or of any condition of an industrial wastewater discharge permit.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Secs. 154-200—154-210. - Reserved.
+DIVISION 2. - ADMINISTRATION AND ENFORCEMENT
+Subdivision I. - General Provisions
+
+Sec. 154-211. - Confidential information.
+All information and data concerning a user or obtained from a user shall be available to the public or other governmental agencies in accordance with the requirements of the Georgia Open Records Act, O.C.G.A. § 50-18-70, et seq., and subject to exemption from disclosure only as authorized by Georgia law.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-212. - Notification of pretreatment standards promulgation.
+The commissioner shall notify industrial users of applicable national pretreatment standards within 30 days of promulgation of final pretreatment standards.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-213. - Right to object.
+The industrial user has the right to object within 30 days of notification of action taken on behalf of the city which changes the industrial user's obligations or subjects it to penalties, restrictions or further obligations. The objection and all evidence supporting such objection must be made in writing to the commissioner. In his/her discretion, the commissioner shall make written response to the objection, stating his/her decision and reasons thereof. All decisions by the commissioner shall be final.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-214. - Reporting requirements for the permittee.
+(a)
+Reporting requirements for all industrial users subject to pretreatment standards; the baseline monitoring report. Within 180 days after the effective date of a national categorical pretreatment standard promulgated under section 307(b) or (c) of the Act, all existing industrial users subject to such standards shall submit to the commissioner the information listed in subparagraphs (a)(1)—(10) of this section.
+At least 90 days prior to commencement of discharge, new sources and sources that become industrial users subsequent to the promulgation of an applicable standard, shall be required to submit to the commissioner a report which contains the information requested in subparagraphs (a)(1—3) and (a)(5—-7) of this section.
+(1)
+The name and address of the facility, including the name of the operator and owners.
+(2)
+A list of any environmental control permit(s) applied for or held by the facility.
+(3)
+A brief description of the nature, average rate of production and standard industrial classification of the operation(s) carried out by the industrial user. This description should include a schematic process diagram, site plans, floor plans, and plumbing plans which indicates points of discharge to the water pollution control facility from the regulated processes.
+(4)
+Number of employees and hours of operation of the facility.
+(5)
+Information showing the time, duration, and volume, including average daily and maximum daily flow in gallons per day, to the water pollution control facilities from each of the following:
+a.
+Regulated process streams; and
+b.
+Other streams as necessary to allow use of a combined wastestream formula of 40 CFR § 403.6(e), if applicable.
+(6)
+The pretreatment standard applicable to each regulated process.
+(7)
+The results of sampling and analysis identifying the nature and concentration of regulated pollutants in the discharge from each regulated process. Both daily maximum and average concentration (or mass, where required) shall be reported. The sample shall be representative of daily operations and subject to the following conditions:
+a.
+A minimum of four grab samples must be used for pH, cyanide, total phenols, oil and grease, sulfide, and volatile organics. For all other pollutants, 24-hour composite samples must be obtained through flow-proportional composite sampling techniques, where feasible. The commissioner may waive flow-proportional composite sampling for any industrial user that demonstrates that flow-proportional composite sampling is not feasible. In such cases, samples may be obtained through time-proportional composite sampling techniques or through a minimum of four grab samples where the industrial user demonstrates that this will provide a representative sample of the effluent being discharged;
+b.
+The industrial user must take a minimum of three representative samples, in a time frame to be determined by the commissioner, to compile the data necessary to comply with the requirements of this paragraph;
+c.
+Samples should be taken immediately downstream from pretreatment facilities if such exist or immediately downstream from the regulated process if no pretreatment exists. If other wastewaters are mixed with the regulated wastewater prior to pretreatment, the user should measure the flows and concentrations necessary to allow use of the combined wastestream formula of 40 CFR § 403.6(e) in order to evaluate compliance with the pretreatment standards;
+d.
+Sampling and analysis shall be performed in accordance with the techniques prescribed in 40 CFR, Part 136 and amendments thereto. Where 40 CFR, Part 136 does not contain sampling or analytical techniques for the pollutant in question, or where the EPA determines that the Part 136 sampling and analytical techniques are inappropriate for the pollutant in question, sampling and analysis shall be performed by using procedures approved by EPA;
+e.
+A baseline monitoring report may be submitted which utilizes only historical data so long as the data provides information sufficient to determine the need for industrial pretreatment measures; and
+f.
+The baseline monitoring report shall indicate the time, date, and place of sampling, and methods of analysis, and shall certify that such sampling and analysis is representative of normal work cycles and expected pollutant discharges to the water pollution control facility.
+(8)
+A statement, reviewed by an authorized representative of the industrial user and certified by a registered professional engineer in the State of Georgia, indicating whether pretreatment standards are being met on a consistent basis and, if not, whether additional O&M and/or additional pretreatment is required for the industrial user to meet the pretreatment standards and requirements.
+(9)
+If additional pretreatment and/or O&M will be required to meet the pretreatment standards; the shortest schedule by which the industrial user will provide such additional pretreatment and/or O&M. The completion date in this schedule shall not be later than the compliance date established for the applicable pretreatment standard.
+(10)
+Any other information deemed necessary by the commissioner to ensure compliance with this article or other applicable ordinances, laws, or regulations.
+(b)
+Pretreatment compliance schedule: Where pretreatment is required to meet pretreatment standards or the provisions of this article, a compliance schedule must be submitted to the commissioner for which the following conditions apply:
+(1)
+The schedule shall contain increments of progress in the form of dates for the commencement and completion of major events leading to the construction and operation of additional pretreatment required for the industrial user to meet the applicable standards (e.g., hiring an engineer, completing preliminary plans, completing final plans, executing the contract for major components, commencing construction, completing construction, etc.).
+(2)
+No increment referred to in subparagraph (b)(1) of this section shall exceed nine months.
+(3)
+Not later than 14 days following each date in the schedule and the final date of compliance, the industrial user shall submit a progress report to the commissioner including, as a minimum, whether it complied with the increment of progress to be met on such date and, if not, the date on which it expects to comply with this increment of progress, the reason for delay, and the steps being taken by the industrial user to return the construction to the schedule established. In no event shall more than nine months elapse between such progress reports to the commissioner.
+(4)
+Compliance with categorical pretreatment standard deadline: Within 90 days following the date for final compliance with applicable pretreatment standards or, in the case of a new source following commencement of the introduction of wastewater into the wastewater treatment facility, any industrial user subject to pretreatment standards or permit requirements shall submit to the commissioner a report containing the information described in subparagraphs (a)(5) through (a)(8) of this section. For industrial users subject to equivalent mass or concentration limits, this report shall contain a reasonable measure of the user's long-term production rate. For all other industrial users subject to pretreatment standards expressed in terms of allowable pollutant discharge per unit of production (or other measure of operation), this report shall include the user's actual production during the appropriate sampling period.
+(c)
+Reporting of monitoring results: Demonstrating continued compliance with applicable standards. Any industrial user required to self-monitor by the industrial wastewater discharge permit required by subdivision II herein shall submit to the commissioner during the months of January and July, unless required more frequently, a report indicating the nature and concentration or mass, if required, of pollutants in the effluent which are limited in the industrial wastewater discharge permit. In addition, this report shall include a record of measured or estimated average and maximum daily flows for the reporting period for the discharge. At the discretion of the commissioner and in consideration of such factors as high or low flow rates, holidays, budget cycles, etc., the commissioner may agree to alter the months during which the above reports are to be submitted. Falsification of self-monitoring reports shall be considered a violation of this article. For industrial users subject to equivalent mass or concentration limits established by the commissioner, the report required by this paragraph shall contain a reasonable measure of the user's long-term production rate. For all other industrial users subject to pretreatment standards expressed only in terms of allowable pollutant discharge per unit of production (or other measure of operation), the report required by this paragraph shall include the user's actual average production rate for the reporting period. Written reports will be deemed to have been submitted on the date postmarked. For reports which are not mailed, postage prepaid, into a mail facility serviced by the United States Postal Service, the date of receipt of the report shall govern.
+(d)
+Self-monitoring and analysis of industrial discharges:
+(1)
+The monitoring reports required in subparagraphs (a), (b), and (c) of this section shall contain the results of sampling and analysis of the discharge, including the flow and the nature and concentration, or production and mass where required, of pollutants contained therein which are limited by the industrial wastewater discharge permit. The commissioner may allow the use of monitoring results obtained by the city, in lieu of self-monitoring by the industrial user. This will only be granted by permit condition or written authorization from the commissioner.
+(2)
+If a sampling performed by the industrial user indicates a violation, the industrial user shall notify the commissioner within 24 hours of becoming aware of the violation. The industrial user shall also repeat the sampling and analysis and shall submit the results of the repeat analysis to the commissioner within 30 days after becoming aware of the violation, except that the industrial user is not required to resample if (i) the control authority performs the sampling at the industrial user's site at a frequency of at least once per month, or (ii) the control authority performs sampling at the industrial user's site between the time when the industrial user performs its initial sampling and the time when the industrial user receives the results of the sampling.
+(3)
+The reports required in subparagraph (c) of this section shall be based upon data obtained through appropriate sampling and analysis performed during the reporting period and must be obtained so as to be representative of the reporting period. The date of month, day of week, and in the case of grab samples, time of day, shall be altered for each sampling cycle.
+(4)
+The frequency of monitoring to demonstrate compliance shall be prescribed in the industrial wastewater discharge permit. All analyses shall be performed in accordance with procedures established by the EPA pursuant to section 304(g) of the Act and contained in 40 CFR, Part 136 and amendments thereto, or with any other test procedures approved by the EPA. Sampling shall be performed in accordance with the techniques approved by the EPA. Where 40 CFR, Part 136 does not include sampling or analytical techniques for the pollutants in question, or where EPA determines that the Part 136 sampling and analyses techniques are inappropriate for the pollutant in question, sampling and analyses shall be performed using validated analytical methods or any other sampling and analytical procedures, including procedures suggested by the city or other parties, and approved by the EPA.
+(5)
+If an industrial user subject to self-monitoring requirements contained in subparagraph (c) of this section monitors any pollutant more frequently than required by the industrial wastewater discharge permit, using procedures prescribed in subparagraph (d)(4) of this section, the results of this monitoring shall be included in the report.
+(e)
+Reporting of potential problems, including slug loadings:
+(1)
+The industrial user shall notify the commissioner within one hour of becoming aware of any spill, dump, or discharge that could cause problems in the water pollution control facility; including, but not limited to, any slug loading as defined in section 154-196.
+(2)
+Additionally, within five days of becoming aware of a discharge described in subparagraph(e)(1) of this section, the industrial user must submit a written report to the commissioner. This report shall include the date, time, duration, cause of discharge and, in accordance with section 154-303, provisions of protection against such discharges.
+(f)
+Reporting of changes in discharge: The industrial user shall notify the commissioner at least 30 days in advance of any change in the facility or pretreatment operations which may substantially change the volume or character of the discharge. Additionally, any industrial user operating under an industrial wastewater discharge permit incorporating equivalent mass or concentration limits calculated from a production-based standard shall notify the commissioner within two business days after the industrial user has a reasonable basis to know that the production level will significantly change within the next calendar month.
+(g)
+Certification and signatory requirements: The reports required in subparagraphs (a), (b), and (c) of this section shall include the following statement: "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of the person or persons who manage the system, or these persons directly responsible for gathering the information, the information within this document and attachments is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including fines and/or imprisonment for knowing violations."
+Pursuant to 40 CFR § 403.6(a)(2), each report must include a statement describing, and providing evidence and/or reasons a particular industry subcategory is or is not applicable.
+These reports must be signed in accordance with section 154-196(3).
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 2013-67(12-O-0563), §§ 4, 5, 12-11-13 )
+Sec. 154-215. - Notification of the discharge of hazardous waste.
+(a)
+Any user who commences the discharge of hazardous waste shall notify the commissioner, the state hazardous waste authorities, and the EPA regional waste management division director, in writing, of any discharge into the POTW of a substance which, if otherwise disposed of, would be a hazardous waste under 40 CFR, Part 261. Such notification must include the name of the hazardous waste as set forth in 40 CFR, Part 261, the EPA hazardous waste number, and the type of discharge (continuous, batch, or other). If the user discharges more than 100 kilograms of such waste per calendar month to the POTW, the notification shall also contain the following information to the extent such information is known and readily available to the user: (i) an identification of the hazardous constituents contained in the waste; (ii) an estimation of the mass and concentration of such constituents in the wastestream discharged during that calendar month; and (iii) an estimation of the mass of constituents in the wastestream expected to be discharged during the following 12 months. All notifications must take place no later than 180 days after the discharge commences. Any notification under this section needs to be submitted only once for each hazardous waste discharged. This notification requirement does not apply to pollutants already reported by users subject to section 154-214(d).
+(b)
+Users are exempt from the requirements of subparagraph (a) of this section above, during a calendar month in which they discharge no more than 15 kilograms of hazardous wastes, unless the wastes are acute hazardous wastes as specified in 40 CFR §§ 261.30(d) and 261.33(e). Discharge of more than 15 kilograms of nonacute hazardous wastes in calendar month, or of any quantity of acute hazardous wastes as specified in 40 CFR §§ 261.30(d) and 261.33(e), requires a one-time notification. Subsequent months during which the user discharges more than such quantities of any hazardous wastes do not require additional notification.
+(c)
+In the case of any new regulations under section 3001 of RCRA identifying additional characteristics of hazardous waste or listing any additional substance as a hazardous waste, the user must notify the commissioner, the state hazardous waste authorities, and the regional waste management division director of the discharge of such substance within 90 days of the effective data of such regulations.
+(d)
+In the case of any such notification made under this section, the user shall certify that it has a program in place to reduce the volume and toxicity of hazardous wastes generated to the degree determined to be economically practical.
+(e)
+This provision does not create a right to discharge any substance not otherwise permitted to be discharged by this article, any permit issues thereunder, or any applicable federal or state law.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-216. - Maintenance of records.
+(a)
+Sampling and analysis records: Any industrial user subject to the reporting requirements established in section 154-214 of this article shall maintain records of all information resulting from any monitoring activities required by such section 154-214. Such records shall be maintained on site and available for the city's review at any time. These records shall include for all samples:
+(1)
+The date, exact place, method, and time of sampling and names of the person or persons taking the samples;
+(2)
+The dates analyses were performed;
+(3)
+The name(s) of the person or persons who performed the analyses;
+(4)
+The analytical techniques/methods used; and
+(5)
+The results of such analyses.
+(b)
+Monitoring activities and results record: Any industrial user subject to the reporting requirements established in section 154-214 of this article shall be required to retain for a minimum of three years any records of monitoring activities and results (whether or not such monitoring activities are required by this article) and shall make such records available for inspection and copying by EPA, the state, and the city. This period of retention shall be extended during the course of any unresolved litigation regarding the industrial user, or when requested by the commissioner, State of Georgia, or EPA.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Secs. 154-217—154-225. - Reserved.
+Subdivision II. - Industrial Wastewater Discharge Permit
+
+Sec. 154-226. - Required permitted discharges.
+It shall be unlawful for any industrial user to discharge any industrial waste or wastewater to any city water pollution control facility without an approved industrial wastewater discharge permit.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-227. - Industrial wastewater discharge permitting process.
+(a)
+Approval pre-requisite to plumbing permit. The plumbing inspector shall not issue a plumbing permit for changes in existing plumbing or the installation of new plumbing, to any significant industrial user, until the applicant presents plans reviewed and stamped by the commissioner.
+(b)
+Baseline monitoring report required. Any significant industrial user discharging or proposing to discharge an industrial waste or wastewater, may be required by the commissioner to submit a baseline monitoring report as outlined in section 154-214 of this article.
+(c)
+Incomplete baseline monitoring reports. Persons who have filed incomplete baseline monitoring reports, as deemed by the commissioner, will be notified of the deficiency and will be given 30 days to correct such deficiency. If the deficiency is not corrected within 30 days or an extended period as allowed by the commissioner, the commissioner can deny the permit and shall notify the applicant in writing of such action. The applicant may object to such action, as provided in this article.
+(d)
+Permit application form. The commissioner may require any significant industrial user to submit a completed permit application form prior to issuance of an industrial wastewater discharge permit. A new user must submit an application for a permit within 60 days prior to any wastewater discharge. An existing user must apply for a reissuance of the permit at least 30 days prior to permit expiration. The application may contain a statement describing which categorical pretreatment subcategories might be applicable and cite evidence and reasons why a particular category is applicable and why others are not. Any person signing the application statement pursuant to this section shall make the following certification: "I certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system designed to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of the person or persons who manage the system, or these persons directly responsible for gathering the information, the information within this document and attachments is, to the best of my knowledge and belief, true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including fines and/or imprisonment for knowing violations."
+(e)
+Permit issued. Upon receipt of a completed baseline monitoring report or permit application form, the commissioner shall review and evaluate the information and shall issue a permit subject to any necessary conditions. The applicant may object in writing to any conditions within 30 days of permit issuance, as provided in this article. Conditions may include, but are not limited to, the following:
+(1)
+A statement of permit duration, as per sections 154-229 of this article;
+(2)
+A statement on nontransferability, as per sections 154-230 of this article;
+(3)
+Pretreatment requirements;
+(4)
+Average and maximum wastewater pollutant concentrations;
+(5)
+Limits on rate and time of discharge or requirements for flow regulations and equalization;
+(6)
+Requirements for installation of inspection and sampling facilities;
+(7)
+Requirements for self-monitoring of wastewater, including sampling location, frequency, and methods of sampling and analysis;
+(8)
+Requirements for maintenance of records and submission of reports relating to wastewater discharge;
+(9)
+A compliance schedule to ensure the industrial user's compliance with pretreatment requirements of this article or other applicable law or requirements;
+(10)
+Requirements for installation of facilities to prevent and control accidental or unpermitted discharge or spills by the industrial user;
+(11)
+Statement of applicable penalties (civil and criminal) for violations;
+(12)
+Statement of permission to the commissioner and other duly authorized employees of the city, bearing proper identification, to enter upon the user's property without prior notification for the purpose of inspection, observation, photography, records examination and copying, measurement, sampling or testing; and/or
+(13)
+Other conditions deemed necessary by the commissioner to ensure compliance with this article or other applicable ordinance, law, or regulation.
+(f)
+Questionnaire required. At the discretion of the commissioner, any user of the water pollution control facility may be required to complete a wastewater discharge questionnaire form furnished by the commissioner, which may contain, but is not limited to, questions concerning type of manufacturing or service activity, location of sewers, quality and quantity of discharge to the city facilities, other disposal facilities and other pertinent data.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-228. - Conditions for issuance of permits.
+The commissioner may decline to issue an industrial wastewater discharge permit to any user which has failed to comply with the terms and provisions of this article, any lawful orders issued by the commissioner or a previous industrial wastewater discharge permit. The commissioner may require the filing of a bond payable to the city, in a sum determined by the commissioner, to ensure consistent compliance by the user. In appropriate circumstances, the commissioner may require the user to submit proof that it has obtained financial assurances sufficient to restore or repair damage to the POTW caused by its discharge.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-229. - Permit duration.
+Permits shall be issued for a time period not to exceed five years. The terms and conditions of the permit may be subject to modification by the commissioner during the term of the permit as limitations or requirements of this article are modified or for any other just cause. The permittee shall be informed of any proposed changes in its permit at least 30 days prior to the effective date of change. Any more stringent or new conditions in the permit shall include a reasonable time schedule for compliance.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-230. - Permit transfer.
+Industrial wastewater discharge permits are issued to a specific user for a specific operation. A request for transfer or reassignment shall be submitted in writing to the commissioner at least 60 days prior to the proposed date of transfer or reassignment by the permittee. The permittee must provide a copy of the industrial wastewater discharge permit to the new owner or operator. No user is authorized to operate pursuant to the permit issued to a previous owner or user without the written approval of the commissioner.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Secs. 154-231—154-240. - Reserved.
+Subdivision III. - Inspection, Monitoring, and Entry
+
+Sec. 154-241. - Installation, location, and maintenance of monitoring manhole.
+(a)
+When required by the commissioner, industrial users shall install a suitable monitoring manhole on the building sewers on their property to facilitate observation, sampling, and measurement of wastewaters. The manhole, when required, shall be accessibly and safely located and shall be constructed in accordance with plans approved by the commissioner. The manhole shall be installed by the industrial user at their expense and shall be so maintained by the industrial users as to be safe and accessible at all times.
+(b)
+It shall be unlawful for any industrial user to discharge, or cause or allow to be discharged, any industrial wastewater which bypasses or does not flow through the monitoring manhole, unless discharged through a NPDES permitted facility or disposed of off site at a licensed disposal facility.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-242. - Inspection, testing, and observation.
+The commissioner or other duty authorized employees of the city bearing proper credentials and identification, and under appropriate legal authority for entry, shall be given immediate access to all properties without prior notification for the purpose of inspection, observation, photography, records examination and copying, measurement, sampling or testing, in accordance with the provisions of this article.
+(1)
+Where an industrial user has security measures in force which require proper identification and clearance prior to entry, the industrial user shall make necessary arrangements with its security guards so that upon presentation of suitable identification, personnel from the city will be permitted immediate access.
+(2)
+The commissioner shall have the right to set up on the industrial user's property, or require the installation of, such devices as are necessary to conduct sampling, metering, and/or observation of the user's operations. It shall be a violation of this article for any person or industrial user to tamper with, remove, adjust, disconnect or otherwise interfere with the operation of these devices.
+(3)
+The commissioner may require the industrial user to install equipment necessary to conduct sampling, metering, and/or observation of the user's operations. The facilities equipment shall be maintained at all times in a safe and proper operating condition. All devices used to measure wastewater flow shall be calibrated at least annually to ensure their accuracy. Records of this calibration must be submitted to the commissioner upon request.
+(4)
+If the commissioner has been refused access to a building, structure, or property, or any part thereof, and is able to demonstrate probable cause to believe that there may be a violation of this article, or that there is a need to inspect and/or sample as a part of a routine inspection and sampling program of the city designed to verify compliance with the ordinance or any permit or order issued hereunder, or to protect the overall public health safety and welfare of the community, then the commissioner may seek issuance of a search warrant.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-243. - Standards for sampling, measurements, testing and analysis of wastewater.
+All sampling, measurements, tests and analyses of the characteristics of wastewaters to which reference is made in this article, shall be performed in accordance with procedures established by the EPA pursuant to section 304(g) of the Act and contained in 40 CFR, Part 136, as amended.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Secs. 154-244—154-255. - Reserved.
+Subdivision IV. - Enforcement Procedures
+
+Sec. 154-256. - Notification of user of violation.
+Whenever the commissioner finds that any person has violated or is violating this article or industrial wastewater discharge permit, the commissioner may serve written notice upon the person, stating the nature of the violation and requiring submission of a plan for the satisfactory correction thereof within a specified time limit.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-257. - Compliance meetings.
+The commissioner may invite representatives of the user to a compliance meeting to review the commissioner's determination that a violation of this article or industrial wastewater discharge permit has occurred, and the consequent remedial action to be taken. If the user and the commissioner can agree to appropriate remedial and preventive measures, such measures and a reasonable compliance schedule shall be incorporated as a supplemental condition of the user's industrial wastewater discharge permit. If an agreement is not reached through this process, the commissioner shall institute such other actions, as deemed advisable, to ensure the user's compliance with the provisions of this article or other laws or regulations.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-258. - Show cause hearing.
+The commissioner may order any user which causes or contributes to violations of this article or industrial wastewater discharge permits, to appear before the commissioner and show cause why enforcement actions should not be taken. Notice shall be served on the user specifying the date, time, and location of the hearing, the reasons for this hearing, and proposed enforcement actions. Such notice shall be served on any representative of the user or by registered or certified mail.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-259. - Citation to municipal court.
+The commissioner may cite any person to the municipal court for violation of any provision of this article or other portions of the city Code or for violation of any condition of the user's industrial wastewater discharge permit.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-260. - Assessment of damages.
+When a discharge of waste causes an obstruction, damage, or any other impairment to the facilities, or any expense of whatever character or nature to the city, the commissioner shall assess the expenses incurred by the city to clear the obstruction, repair damage to the facility, and any other expenses or damages incurred by the city. The commissioner shall file a claim with the user, or any other person causing said damages, seeking reimbursement for any and all expenses or damages suffered by the city. If the claim is ignored or denied, the commissioner shall notify the city attorney to take such measures as shall be appropriate to recover for any expense or other damages suffered by the city.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-261. - Disconnection for violation.
+In the event of an actual or threatened discharge of wastes or wastewater which, in the opinion of the commissioner, presents an imminent and substantial danger to the health or welfare of persons or the environment, or causes interference with the water pollution control facilities or cause the violation of any permit held by the city, the commissioner shall seek authority immediately, pursuant to section 74-161 of this Code of Ordinances, to disconnect the water discharge from the city's system by discontinuing water service to that property or by disconnecting sewer service to that property.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-262. - Consent agreements.
+The commissioner is hereby empowered to enter into consent agreements, consent orders, or other similar documents establishing an agreement with any user responsible for noncompliance. Such orders will include specific action(s) to be taken by the user to correct the noncompliance within a time frame specified in the order.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-263. - Significant noncompliance.
+Any industrial user whose actions or failure to act meet any or all of the following criteria may be placed in the category of significant noncompliance.
+(1)
+Violations of wastewater discharge limits:
+a.
+Chronic violations. A pattern of violations of specific pollutant limitations, as defined in this article, indicated by 66 percent or more of the measurements exceeding (by any magnitude) the same daily maximum limit or the same average limit for a given pollutant in a six-month period; or
+b.
+Technical review criteria (TRC). A pattern of violations of specific pollutant limitations, as defined by this article, indicated by 33 percent or more of the measurements exceeding the same daily maximum limit or the same average limit by more than the TRC in a six-month period. The TRC = 1.4 for conventional pollutants, and 1.2 for all other pollutants except pH; or
+c.
+Any other violation or violations of a pretreatment effluent limit (longer term average or daily maximum) that has caused, alone or in combination with other discharges, interference or pass-through; or endangered the health of city personnel or the public.
+(2)
+Any discharge of a pollutant that has caused imminent endangerment to human health, welfare or the environment or has resulted in the POTW's exercise of it's emergency authority to halt or prevent such a discharge.
+(3)
+Failure to meet, within 90 days of the scheduled date, a compliance schedule milestone, contained in an industrial wastewater discharge permit, a compliance directive, a consent agreement, or any other compliance schedule.
+(4)
+Failure to provide within 30 days of the due date, any reports such as, but not limited to, the following: self-monitoring reports, baseline monitoring reports, 90-day compliance reports, periodic reports, or any other reports required by the city.
+(5)
+Failure to report accurately noncompliance.
+(6)
+Any other violation or group of violations which the commissioner determines will adversely affect the operation or implementation of the pretreatment program.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-264. - Publication of list of violators.
+The city shall publish, annually, in the newspaper with the largest daily circulation in the city, a list of industrial users which during the previous 12 months were significantly violating applicable pretreatment standards as defined in 40 CFR, Part 403.8(f)(2)(vii).
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-265. - Federal, state and municipal enforcement.
+In addition to the enforcement actions provided herein, the commissioner may petition the state or the EPA, as appropriate, to exercise such methods or remedies as shall be available to such governmental entities to seek criminal penalties, injunctive relief, as may be provided by applicable federal or state laws to ensure compliance by industrial users with applicable pretreatment standards, to prevent the introduction of toxic pollutants in toxic amounts, or other regulated pollutants into the water pollution control facilities or to prevent such other water pollution as may be regulated by state or federal law.
+Under 40 CFR § 403.10, the city has legal authority, pursuant to its Code of Ordinances, including, but not limited to, sections 1-8 and 74-161 to prosecute violations of the sewer use ordinance, and to abate the violating condition as a public nuisance. Such actions may be brought in Atlanta Municipal Court.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-266. - Revocation of permits.
+Any permit issued under the provisions of this article may be suspended or revoked in whole or in part during its terms for the following causes:
+(1)
+Any discharge of industrial wastewater which causes or contributes to any violation of any section of this article;
+(2)
+Violation of any terms or conditions of the industrial wastewater discharge permit;
+(3)
+Obtaining a permit by misrepresentation or failure to disclose fully all relevant facts;
+(4)
+Refusal of immediate access to the user's premises;
+(5)
+Failure to accurately report the constituents and characteristics of the wastewater discharge;
+(6)
+A change in volume or character of the discharge;
+(7)
+A discharge which, in the opinion of the commissioner, may cause interference with the operation or maintenance of the water pollution control facilities or threaten human health or safety;
+(8)
+Failure to provide advance notice of the transfer of the business ownership of a permitted facility; or
+(9)
+Failure to pay fines;
+(10)
+Failure to pay sewer charges;
+(11)
+Failure to meet compliance schedules;
+(12)
+Falsifying self-monitoring reports; or
+(13)
+Tampering with monitoring equipment.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-267. - Penalty for violation.
+A person convicted of a violation of this article shall be punished by a fine not exceeding $1,000.00, imprisonment for a term not exceeding six months, or any combination thereof. With respect to violations of this article that are continuous with respect to time, each day the violation continues is a separate offense.
+( Ord. No. 2013-67(12-O-0563), § 6, 12-11-13 )
+Secs. 154-268—154-275. - Reserved.
+DIVISION 3. - RATES AND CHARGES
+
+Sec. 154-276. - Establishment of charges.
+Sewer service charges shall be as established by the city.
+Sewer rates are hereby waived by 30 percent for domestic customers, aged 65 and older, with a maximum household income of $25,000.00 or less.
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 2001-99, § 2, 12-11-01; Ord. No. 2004-01, § 2, 1-9-04; Ord. No. 2004-05, § 2, 1-5-04)
+Sec. 154-277. - Sewer service charge.
+(a)
+Established. It is hereby determined to be necessary, in order to provide facilities for the protection of the public health, safety, welfare, and to comply with state and federal water quality laws and regulations for the protection of the quality of the waters of the state, to fix and collect charges upon all premises or facilities served by the water pollution control facilities of the city.
+(b)
+Uses of proceeds. The revenue received from the collection of these charges, as hereinafter authorized, together with other revenue derived from the operation of the system and from the sale of water, shall be deposited with the chief financial officer and credited to the water and sewer revenue fund and shall be used for the operation and maintenance of the water pollution control and water purification systems and incidental expenses connected therewith to (i) pay debt requirements on revenue bonds issued; (ii) provide funds for the planning, design, construction, improvement, repair and extension of the water pollution control and water purification systems, facilities and appurtenances used in connection with the operation of the systems; (iii) acquire necessary easements or the purchase of land; and (iv) provide funds for the necessary reserves for debt and improvements; however, said revenues shall not be used for the construction of lateral or storm sewers.
+(c)
+Determination of amounts. For the purposes provided in subparagraph (b) hereof, there is hereby charged and assessed to each premise or facility served by the water pollution control facilities of the city, or otherwise discharging wastewater, industrial wastes, water or liquids, either directly or indirectly into the water pollution control facilities, a sewer service charge and assessment payable as hereinafter provided, and in the amount determinable as follows:
+(1)
+The sewer service charge shall be based upon the quantity of water used by the premises or facility therein or thereon as measured by a water meter or meters there in use, or as otherwise currently established.
+(2)
+The sewer service charge shall consist of a charge per hundred cubic feet of water consumed, including adjustments thereto.
+(3)
+Water used from private sources shall be metered as required in subparagraph (d) of this section and shall be figured at prevailing city water rates and the sewer service charges shall be billed accordingly.
+(d)
+Independent water supply; installation of meter. In the event a lot, parcel of land, premises or facility discharging wastewater, industrial waste, water, or other liquids which either directly or indirectly enters into the city's water pollution control facilities, or ultimately enters the facilities, is supplied either in whole or in part with water from wells or any source other than the City Bureau of Operations - Drinking Water, those wells or other sources of supply shall be registered with the City Bureau of Operations - Drinking Water on or before the effective date of this article, and if not measured by a water meter, the owner or occupant shall, at his own cost, install and maintain a meter on the supplies in such a location and in such a manner as is satisfactory to the commissioner. These meters shall serve as a control for the establishment of the sewer service charge and shall be read monthly or bimonthly by employees of the City Bureau of Operations - Drinking Water. Rainwater catchment systems installed and operated pursuant to Atlanta City Code Section 1300 of Appendix C "Plumbing Code Amendments," Chapter I shall be exempt from the requirements of this subsection.
+(e)
+Additional meters. Where it can be shown to the satisfaction of the commissioner that a significant portion of the water used by customers, as measured by the water meter or meters, does not enter the water pollution control facilities, then that portion of water shall not be used for billing of the sewer service charge. The commissioner may require or permit the installation of additional meters or other devices as may be deemed necessary to establish that portion which does not enter the system.
+(f)
+Applicability of section. Where the commissioner determines that sewer service is available to any lot, parcel of land, premises, or facility, 60 days' notice will be given to the owner of such lot, parcel of land, premises, or facility directing connection to available sewer, and billing as provided in subparagraphs (a) through (e) above will thereafter be initiated unless an exemption is authorized as set forth in subparagraph (g) below.
+(g)
+Exemption authorized. The mayor or his designee is hereby authorized to waive 12 percent of the sewer service charges for those domestic customers in the city who make application for such waiver and who can show to the satisfaction of the commissioner by certification of a master plumber licensed in the City of Atlanta, that they are not connected to the city's water pollution control facilities. Said 12 percent constitutes that part of the sewer service charge imposed for the city's water pollution control facilities' operating costs that is directly associated with the treatment of wastewater.
+The mayor is hereby authorized to waive the entire sewer service charge for those domestic customers in the city who make application for such waiver and who can show to the satisfaction of the commissioner by certification of a master plumber licensed in the city that they are not connected to the city's water pollution control facilities. This certification must state that the lowest floor of their residence which contains rest room facilities, cannot be served by gravity flow. The waiver, once granted, shall continue in force, unless revoked, until plumbing permits are issued by the city's plumbing inspector for connection to the sewer. Such waiver, when authorized by the mayor, shall become effective on the first day of the next billing cycle after the date of authorization. No waiver will be authorized if any portion of the residence is connected to the city's water pollution control facilities.
+Sewer rates are hereby waived by 30 percent for domestic customers, aged 65 and older, with a maximum household income of $25,000.00 or less.
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 2001-99, § 2, 12-11-01; Ord. No. 2003-83, § 8, 7-29-03; Ord. No. 2004-01, § 2, 1-9-04; Ord. No. 2004-05, § 2, 1-5-04; Ord. No. 2011-43(11-O-0740), § 2, 9-28-11)
+Sec. 154-278. - Industrial wastewater surcharges.
+(a)
+Established. All persons discharging industrial wastes into the public sewers shall be charged and assessed a surcharge, in addition to any sewer service charges, if these wastes have a concentration greater than the following:
+(1)
+A COD content of 500 mg/l as determined by laboratory analysis in accordance with procedures prescribed in section 154-282, subparagraph (b).
+(2)
+A TSS content of 250 mg/l as determined by laboratory analysis in accordance with procedures prescribed in sections 154-282, subparagraph (b).
+(3)
+A TKN content of 25 mg/l as determined by a laboratory analysis in accordance with procedures prescribed in section 154-282, subparagraph (b).
+The amount of the surcharge, which is hereby charged and assessed against all persons discharging industrial wastewater into the public sewers, shall reflect the cost incurred by the city in handling the excess COD, TKN, and TSS. This surcharge shall include a proportionate share of charges for maintenance and operation of the water pollution control facilities including depreciation and other incidental expenses.
+(b)
+Formula determining surcharge. When any or all the COD, TKN, and TSS of wastewater or waste accepted for admission to the city water pollution control facilities exceed values of these constituents set forth in subparagraph (a) hereof, the excess concentrations of any or all, as the case may be, shall be evaluated in terms of these values and be subject to a surcharge on the amount derived in accordance with the following formula: Amount of surcharge = (B + C + D) × effluent flow (CCF)
+Where:
+EXPAND
+B = The cost factor for TSS discharged to the sewer above 250 mg/l. This quantity is determined by the multiplication of a factor herein called "X", by the excessive pounds of TSS in the wastewater as measured in samples collected so as to be representative of the daily wastewater discharge.
+C = The cost factor for COD discharged to the sewer above 500 mg/l. This quantity is determined by the multiplication of a factor herein called "Y", by the excessive pounds of COD in the wastewater as measured in samples collected so as to be representative of the daily wastewater discharge.
+D = The cost factor for TKN discharged to the sewer above 25 mg/l. This quantity is determined by the multiplication of a factor herein called "Z", by the excessive pounds of TKN in the wastewater as measured in samples collected so as to be representative of the daily wastewater discharge.
+X = The annual average cost of removal of one pound of TSS.
+Y = The annual average cost of removal of one pound of COD.
+Z = The annual average cost of removal of one pound of TKN.
+  (c)
+Determination of amounts. The rates of surcharge for each of the aforementioned constituents shall be determined annually by the commissioner in order that the above factors may correctly represent current treatment costs. A schedule of the surcharge shall be filed with the municipal clerk by the commissioner.
+(d)
+Changing industrial wastewater surcharge. The industrial waste surcharge cost factors shall not be increased in any year by more than 20 percent of the charges for the preceding year without written approval of the city council.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-279. - Reserved.
+Sec. 154-280. - Billing procedure.
+Industrial wastes surcharges provided for in this article shall be prepared and rendered with the regular water bill. The volume of flow used in billing the industrial waste surcharges shall be based upon metered, estimated, or prorated water consumption for the period during which the sampling was conducted.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-281. - Payment of bills.
+Sewer service charges and surcharges provided in this article shall be payable at the office of the chief financial officer in the city hall or at other authorized locations, at the same time as the water bills for a lot, parcel of land, building, premise or facility are payable and payments for water shall not be accepted unless payment of the sewer service charge or surcharge is made at the same time, provided however, the sewer service and/or surcharge is applicable.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-282. - Annual analysis.
+(a)
+Frequency of analysis. The industrial wastewater of each significant industrial user discharging into the city sewers shall be subject to periodic inspection and a determination of character and concentration of the wastewater shall be made annually, or more often, as may be deemed necessary by the commissioner.
+(b)
+Sampling and analysis procedures. Sampling and analysis shall be performed in accordance with procedures established by the EPA pursuant to section 304(g) of the Act and contained in 40 CFR, Part 136, as amended. If 40 CFR, Part 136 does not contain sampling or analytical techniques for the pollutant in question, sampling and analysis must be performed in accordance with procedures approved by EPA.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Secs. 154-283—154-295. - Reserved.
+DIVISION 4. - DISCHARGE RESTRICTIONS
+
+Sec. 154-296. - Discharge of septic tanks.
+(a)
+Restricted. It shall be unlawful to empty, dump, throw or otherwise discharge into any manhole, catch-basin or other opening into city water pollution control facilities, or any sewer connected with and discharging into the collection facilities, the contents of any septic tank or chemical toilet, sludge, wastewater or other similar matter or material, except as provided in subparagraph (b) of this section.
+(b)
+Authority of commissioner. The commissioner is hereby authorized to grant permits to discharge the contents of septic tanks or chemical toilets at locations specified by him/her and under his/her supervision, provided that such permits shall be limited to the discharge of domestic wastewaters. The permits may be revoked at any time if, in his/her opinion, continued discharge of that matter will be injurious to water pollution control facilities, or if any provisions of ordinances regulating such discharges are violated by the permittee. Permits shall include provisions, standards, and requirements to be met by the discharger. A current Fulton County Health Department Permit must be presented with the permit application.
+(c)
+Fees. The fee for discharges authorized under subparagraph (b) hereof shall be determined annually by the commissioner based on the current costs for treatment of the discharges. The schedule of fees for the discharges shall be filed with the municipal clerk by the commissioner annually.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-297. - City of Atlanta Grease Management Ordinance.
+This division shall be known and may hereafter be referred to as the "City of Atlanta Grease Management Ordinance."
+(Ord. No. 2003-90, § 1(Exh. A), 9-10-03)
+Sec. 154-297.00. - Definitions.
+The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Applicant means any owner or agent of the owner of any food service, food sales or food processing establishment submitting an application for a food service wastewater discharge permit to the department of watershed management for consideration for approval.
+Commissioner means the commissioner of the department of watershed management or his designee, or such person as the mayor may designate to carry out the functions set forth herein.
+Department means the department of watershed management.
+Facility means a building or a location where food service, sales or processing, as defined in this section, occurs as identified by the numbering system for public streets used as directions for delivery.
+FOG means fats, oil and grease.
+Food means any raw, cooked, or processed edible substance, ice, beverage or ingredient used or intended for use or for sale in whole or in part for human consumption.
+Food processing establishment means a commercial establishment in which food is manufactured or packaged for human consumption. The term does not include a food service establishment, retail food sales store, or commissary.
+Food sales establishment means retail and wholesale grocery stores, retail seafood stores, bakeries, confectioneries, fruit, nuts, and vegetable stores and places of business, and similar establishments, mobile or permanent, engaged in the sale of food primarily for consumption off premises.
+Food service establishment means any establishment for the preparation and/or serving of meals, lunches, short orders, sandwiches, frozen desserts, or other edible products. The term includes: restaurants, coffee shops, cafeterias, short order cafes, luncheonettes, taverns, lunchrooms, places which manufacture retail sandwiches, soda fountains; institutional cafeterias, catering establishments, food vending vehicles and operations connected therewith; and similar facilities by whatever name called. The term "food service establishment" shall not mean a "food sales establishment," as defined in this division, which does not provide seating or facilities for consumption of food on the premises.
+Fryer oil means oil that is used and/or reused in fryers for the preparation of such foods as fried chicken or french fries.
+Grease means rendered animal fat, vegetable shortening, and other such oily matter used for the purposes of and resulting from cooking and/or preparing foods.
+Grease trap means a device or interceptor that is designed, installed and operated in accordance with the manufacturer's specifications to separate and retain fats, oils and grease from liquid waste and allow the remaining liquid waste to discharge into the city's sewer collection system.
+Mobile food unit means a self-propelled vehicle or mounted unit intended to be used as a food service establishment and is not regulated by this division.
+Permit means written authorization to discharge to the city's wastewater collection system granted by the department to the owner of a facility or his/her authorized agent to operate a food service establishment, food sales or food processing establishment and indicates satisfactory compliance with this division.
+Sampling port means the last point downstream of a grease trap that will accommodate sampling to take place prior to the discharge of effluent to the city's sewer collection system.
+Temporary food service establishment means a food service establishment that has no permanent sewer connection and operates at the same location for a period of time of not more than 14 consecutive days in conjunction with a single event, such as a fair, carnival, circus, exhibition or similar temporary gathering, is not regulated by this division.
+User means, for purposes of this division, the owner or operator of a food service, food sales or food processing establishment that discharges wastewater into the city sewer system.
+(Ord. No. 2001-5, § II, 1-23-01; Ord. No. 2003-90, § 1(Exh. A), 9-10-03)
+Sec. 154-297.01. - Food processing, sales, and/or service establishment (grease trap) regulations/new installation.
+modified
+(a)
+Permit required. For new construction after the effective date of this section and after the issuance of a plumbing permit issued by the bureau of buildings, the owner or operator (hereinafter called the user) of a food processing, sales, or service establishment which discharges wastewater into the city's sewer system shall obtain a food service wastewater discharge permit. This permit shall be obtained prior to the issuance of any business license issued by the city. Failure to obtain the food service wastewater discharge permit shall be grounds for revocation of the city business license.
+(1)
+Annual fee. There will be an annual permit fee for a food service wastewater discharge permit as set forth in the schedule below:
+EXPAND
+Number of Grease Traps Fee
+0—5 $ 300.00
+6—10 600.00
+11—15 900.00
+16—20 1,200.00
+21—25 1,500.00
+26—30 1,800.00
+31—35 2,100.00
+36—40 2,400.00
+41—45 2,700.00
+46—50 3,000.00
+51—55 3,300.00
+56—60 3,600.00
+  For each five additional grease traps in excess of 60 traps, the maximum fee shall be increased by $300.00.
+(2)
+A re-inspection fee of $100.00 dollars per each trap shall be charged for any facility that fails any grease trap inspection, in addition to any fines that may be imposed by the courts for any other violations as provided in this section.
+(3)
+The commissioner will evaluate these fees annually, based on the cost to the city of operation and maintenance, and adjust such fees administratively to ensure full cost recovery; provided however, a fee increase of less than ten percent per year shall not require approval of the city council. Any such fee adjustment shall be posted in the office of the municipal clerk and permittees shall be given written notice prior to the time for renewal of annual permits.
+(4)
+Application. All information requested in the food service wastewater discharge permit application shall be certified by the applicant as true and complete prior to review for approval. The application shall apply to all grease traps located at the same facility having the same street address and operated by the same owner and/or management (referred to as "user"). Each grease trap shall be identified by a unique identifier selected and noted in the application by the user. The commissioner shall review completed applications for approval within 30 days of receipt.
+(5)
+Permit conditions may include, but are not limited to, the following:
+a.
+Permit duration;
+b.
+Permit fee;
+c.
+Permit non-transfer;
+d.
+Frequency of inspections;
+e.
+Pretreatment requirements;
+f.
+Maintenance requirements;
+g.
+Limitations on time or rate of discharge;
+h.
+Compliance schedules;
+i.
+Requirements for maintenance of records and submission of reports;
+j.
+Statement of permission to the commissioner and other duly authorized employees of the city to enter upon the user's property without prior notification for the purposes of inspection, observation, photography, records examination and copying, measurement, sampling or testing; and/or
+k.
+Other conditions deemed necessary by the commissioner to ensure compliance with this article or other applicable ordinances, laws, or regulations.
+(6)
+Denial of permit. If a permit for a location is denied, the applicant will be notified within 60 calendar days of the commissioner's determination to deny the application.
+a.
+Notification. The applicant will be advised in writing of the specific cause for the denial.
+b.
+Process. An applicant who is denied a permit under this article shall have the right to appeal such denial to the mayor. The appeal shall be filed within three business days after the notice of denial is received.
+(b)
+Grease trap requirements. All food service, sales and processing establishments, except for small areas designated as break areas or the equivalent and/or industrial user's wastewater discharge regulated under the pretreatment ordinance, discharging wastewater containing fats, oils and grease (FOG) to the city's sewer collection system and water pollution control facilities shall install, operate, and maintain a sufficiently sized "grease trap" necessary to achieve and maintain compliance as indicated below:
+(1)
+Outdoor grease traps requirements.
+a.
+Grease traps for new food processing, sales, or service establishments shall have a capacity not less than two 1,500 gallon traps in series for a total capacity of 3,000 gallons. See City of Atlanta Detail entitled Recommended Grease Trap Design.
+Exceptions:
+1.
+Limited space available to install outside grease traps. The commissioner may approve the installation of a single 1,500-gallon grease trap in cases where site conditions prevent the installation of two 1,500-gallon traps in series.
+2.
+Seating capacities of 100 persons or less. The commissioner may approve the installation of a single 1,500-gallon grease trap in facilities having a seating capacity of 100 persons or less. See City of Atlanta Detail entitled Recommended Grease Trap Design.
+3.
+Indoor grease trap. The commissioner may approve the installation of indoor grease traps provided the establishment is not equipped with a dishwasher and/or food waste grinder. All indoor traps shall be sized and installed in accordance with the following Tables I, II, and III, which have been extracted from Plumbing and Drainage Standard PDI-6101, Testing and Rating Procedure for Grease Interceptors with Appendix of Sizing and Installation Data, 1996 or as updated from time to time.
+(2)
+It is prohibited to discharge the following materials into an indoor grease trap:
+a.
+Wastewater with a temperature higher than 140 degrees Fahrenheit.
+b.
+Wastewater discharge from dishwasher.
+c.
+Acid or caustic trap cleaners.
+d.
+Wastewater discharge from garbage disposals.
+Table I. Typical Sizes and Volumes of Sink Compartments
+EXPAND
+Fixture Compartment
+Size
+(Inches) Number of
+Compartments Drainage
+Load
+(Gallons) Recommended PDI
+Size Grease
+Interceptor
+18 × 12 × 6 1 4.2 7
+16 × 14 × 8 1 5.8 7
+20 × 18 × 8 1 9.4 10
+18 × 16 × 8 2 15.0 15
+20 × 18 × 8 2 18.7 20
+30 × 20 × 8 1 15.5 20
+24 × 20 × 12 1 18.7 20
+22 × 20 × 8 2 23.0 25
+22 × 20 × 12 2 34.0 35
+48 × 24 × 12 2 44.9 50
+22 × 20 × 12 3 51.4 70
+22 × 20 × 12 4 68.6 70
+  Table II. Procedure for Sizing Indoor Grease Traps
+(Flow rates shall be calculated based on a two minute drainage period)
+EXPAND
+Steps Formula Example
+1 Determine cubic content of fixture by multiplying length width × depth A sink 48" length by 24" wide by 12" deep. Cubic content 48 × 24 × 12 = 13,824 cubic inches.
+2 Determine capacity in gallons.
+1 gal. = 231 cubic inches Contents in gallons
+13,824/231 = 59.8 gallons.
+3 Determine actual drainage load. The fixture is normally filled to about 75% of capacity with water. The items being washed displace about 25% of the content, thus actual drainage load = 75% of fixture capacity 0.75 × 59.8 = 44.9 gallons.
+>4 Determine flow rate and drainage period. In general, drainage period is the actual time required to completely drain the fixture. Flow rate = (Actual Drainage Load)/(Drainage Period) Flow rates shall be calculated on the basis of a two-minute drainage period.
+Two-minute period 44.9/2 = 22.5 GPM flow rate.
+5 Select indoor grease trap using the Following Table A1.2 for Sizing & Rating, which corresponds to the flow Rate, calculated.
+Note: Select next larger size when flow rate falls between two sizes listed. For two-minute period:
+22.5 GPM requires PDI size "25."
+  Table III. Sizing and Rating of Indoor Traps
+EXPAND
+PDI Size Symbol 4 7 10 15 20 25 35 50
+Flow Rate GPM 4 7 10 15 20 25 35 50
+Grease Capacity Pounds 8 14 20 30 40 50 70 100
+  (c)
+Outdoor grease traps shall have the following design features. A tee inlet in which one tee branch extends a minimum of one foot below the liquid level, an outlet tee with a minimum submergence of 2/3 the liquid depth, a baffle to separate the trap into two compartments and two manhole access ways for inspection of inlet and outlet tees. The trap shall have cleanouts and be located for easy access for pump out and inspection. Dishwasher, floor drains, mop sink and food grinder wastewater shall be discharged to outdoor grease traps. See City of Atlanta Detail entitled Recommended "Grease Trap Design.
+(d)
+Alternative grease trap technologies.
+(1)
+The commissioner may approve the use of alternative grease trap technologies, e.g. skimmers, for controlling FOG discharges in lieu of a passive grease trap if he determines such device would be as effective or more effective. If approved, any such device must be wired directly to the circuit breaker and contain an audio and visual alarm that can only be reset by opening and servicing such device.
+(2)
+The user shall provide the following information to allow the commissioner to evaluate the proposed technology:
+a.
+A proposal that is specific for the food service, sales or processing establishment under consideration. The commissioner will not consider a general or generic proposal.
+b.
+Complete information regarding the performance, and proof of effectiveness of removing FOG of the proposed alternative grease trap technology, including specifications for maintenance service frequency and other performance related documents as may be required.
+c.
+The manufacturer's installation and operation manuals.
+(3)
+If approved, the user shall install and maintain such device in accordance with the manufacturer's installation and operation specifications; provided however, frequency of maintenance shall not be less than as specified in the user's permit.
+(Ord. No. 2001-5, § II, 1-23-01; Ord. No. 2003-90, § 1(Exh. A), 9-10-03)
+Sec. 154-297.02. - Food service establishment (grease trap) regulations/existing installations.
+modified
+(a)
+Permit required. The owner or operator (hereinafter called the user) of a food processing, sales, or service establishment which discharges wastewater into the city's sewer collection system, installed before the adoption of the section, shall obtain a food service wastewater discharge permit. This permit shall be obtained prior to the issuance of any business license issued by the city. Failure to obtain the food service wastewater discharge permit shall be grounds for revocation or denial of the city business license.
+(1)
+There will be a fee for a food service wastewater discharge permit as set forth in the schedule below.
+EXPAND
+Number of Grease Traps Fee
+0—5 $300.00
+6—10 600.00
+11—15 900.00
+16—20 1,200.00
+21—25 1,500.00
+26—30 1,800.00
+31—35 2,100.00
+36—40 2,400.00
+41—45 2,700.00
+46—50 3,000.00
+51—55 3,300.00
+56—60 3,600.00
+  For each five additional traps in excess of 60 traps, the maximum fee shall be increased by $300.00.
+(2)
+A re-inspection fee of $100.00 dollars for each grease trap shall be charged for any facility that fails any grease trap inspection, in addition to any fines that may be imposed by the courts for any other violations as provided in this section.
+(3)
+The commissioner will evaluate these fees annually, base on the cost to the city of operation and maintenance, and adjust such fees administratively to ensure full cost recovery; provided however, a fee adjustment of less than ten percent per year shall not require approval of the city council. Any such fee adjustment shall be posted in the office of the municipal clerk and permittees shall be given written notice prior to the time for renewal of annual permits.
+(4)
+Application. All information requested in the food service wastewater discharge Permit application shall be certified by the applicant as true and complete prior to review for approval. The application shall apply to all grease traps located at the same facility having the same street address and operated by the same owner and/or management (referred to as "user"). Each grease trap shall be identified by a unique identifier selected and noted in the application by the user. The commissioner shall review completed applications for approval within 30 days of receipt.
+(5)
+Permit conditions may include, but are not limited to, the following:
+a.
+Permit duration;
+b.
+Permit fee;
+c.
+Permit non-transfer;
+d.
+Frequency of inspection;
+e.
+Pretreatment requirements;
+f.
+Maintenance requirements;
+g.
+Limitations on time or rate of discharge;
+h.
+Compliance schedules;
+i.
+Requirements for maintenance of records and submission of reports;
+j.
+Statement of permission to the commissioner and other duly authorized employees of the city, to enter upon the user's property without prior notification for the purposes of inspection, observation, photography, records examination and copying, measurement, sampling or testing; and/or;
+k.
+Other conditions deemed necessary by the commissioner to ensure compliance with this article or other applicable ordinances, laws, or regulations.
+(6)
+Denial of permit. If a permit for a location is denied, the applicant will be notified within 60 calendar days of the commissioner's determination to deny the application.
+a.
+Notification. The applicant will be advised in writing of the specific cause for the denial.
+b.
+Process. An applicant who is denied a permit under this article shall have the right to appeal such denial to the mayor. The appeal shall be filed within three business days after the notice of denial is received.
+(b)
+Replacement of an existing grease trap shall be subject to the standards applicable to new installation of a grease trap set out in this section, unless otherwise approved by the commissioner pursuant to other authority set out in Part 154 of the Code.
+(Ord. No. 2001-5, § II, 1-23-01; Ord. No. 2003-90, § 1(Exh. A), 9-10-03)
+Sec. 154-297.03. - Maintenance and inspection requirements for new and existing grease traps.
+(a)
+Frequency of maintenance by the owner/user.
+(1)
+Maintenance of an outdoor grease trap. Maintenance shall be performed at frequencies necessary to protect the capacity of the sewer system against the accumulation of fats, grease and oils (FOG), as required by the "25 Percent Rule" as defined in paragraph (4) below, and at intervals specified in the permit but, in any event, not less than once every 90 days.
+(2)
+Maintenance of indoor grease trap. Maintenance shall be performed at frequencies necessary to protect the capacity of the sewer system against the accumulation of fats, grease and oils (FOG) as required by the "25 Percent Rule" as defined in this section. Indoor grease traps must be cleaned at intervals specified in the permit, but, in any event, at intervals no less than once every 14 days. For those food service, sales or processing establishments that are operated infrequently and only for special events, the commissioner may permit a maintenance frequency related to the event schedule.
+(3)
+It is specifically prohibited to maintain grease traps or any component of the plumbing system tributary to a grease trap or interceptor that discharges into the city's waste system by the introduction or addition of bacteriological, chemical, or enzymatic addition or treatment.
+It shall also be prohibited to dispose of fryer oil to the city's wastewater collection system.
+(4)
+The "25 Percent Rule" requires that the depth of oil and grease (floating and settled) in a trap shall not be equal to or greater than 25 percent of the total operating depth of the trap. The operating depth of a trap is determined by measuring the internal depth from the outlet water elevation to the bottom of the trap. In application of this rule, the depth of floating oil and grease shall not be greater than 20 percent of total operating depth of a trap since five percent of the oil and grease is generally settled at the bottom of the trap.
+(5)
+The user shall be responsible for the proper removal and disposal of the grease trap waste to a transporter and maintenance of records of disposal as specified in this section. All waste removed from each grease trap must be disposed of at an appropriate facility designed to receive such waste. In no manner shall any grease trap pumpage be discharged to the city's sewer collection or stormwater sewer system as otherwise prohibited in the sewer use ordinance.
+Maintenance shall include the complete removal of all contents, including floatable materials, wastewater, sludges, and solids. Top skimming of outdoor grease traps, decanting or back flushing of the grease trap or its wastes for the purpose of reducing the volume to be hauled is prohibited.
+Further, the discharge of liquid, semi-solids, or solids into a grease trap from vehicles after servicing is prohibited. Vehicles capable of separating water from grease shall not discharge separated water into the grease trap or into the wastewater collection system.
+Grease traps must be operated in accordance with the manufacturer's specifications and/or in accordance with generally accepted engineering standards and practices.
+(6)
+Record keeping requirement. The user shall be responsible for maintaining records (manifests), permit applications, correspondence, sample data or any documentation as may be requested by the commissioner) as to the dates of service, quantity of waste removed, end disposal site of waste, and waste hauler. These records shall be kept on-site at the user's location for a period of three years and subject to the commissioner review without prior notification. The records shall also be submitted for annual permit renewal as required by the commissioner.
+The manifest shall contain the information listed below:
+Food service, sales or processing
+establishment
+Name:
+Address:
+Phone:
+Food service establishment wastewater discharge permit #:
+Trap type and size:
+Authorized signature (verifying that grease trap was cleaned and in operable condition): and
+Date of service:
+Service company information
+(waste hauler)
+Name:
+Address:
+Phone:
+Hauler permit #:
+Total gallons removed from grease trap:
+Disposal method:
+Authorized signature and date of service:
+Disposal site
+Name:
+Address:
+Phone:
+Facility permit #:
+Total gallons received:
+Authorized signature and date of disposal:
+(b)
+Frequency of inspections by the city.
+(1)
+In order to achieve compliance with this section, certain food service establishments located in designated portions of the city which have a small diameter public sewer system (i.e., 8″, 10″, and 12″), shall be inspected a minimum of three times per year. Such inspection frequency shall be indicated on the "permit."
+(2)
+Inspection of a grease trap shall be performed at frequencies necessary to protect the capacity of the sewer system against the accumulation of grease and oils, as required by the "25 Percent Rule" as defined in paragraph (a)(4) above.
+(3)
+Once a grease trap fails an inspection, the inspector notifies the owner that the grease trap must be cleaned out within three days. After three days, the inspector will inspect the grease trap. If the grease trap is found to be in compliance, the inspector shall schedule the next inspection within 90 days for outside grease traps and 14 days for inside grease traps. If upon re-inspection the grease trap is found to be in compliance, the inspection schedule shall revert to that time period found on the food service establishment's permit.
+Upon the re-inspection, if the grease trap is found to still be in violation, a notice of non-compliance will be issued and the grease trap user must clean the grease trap immediately.
+Any grease trap, which receives three notices of non-compliance within a 24-month period, shall be deemed a nuisance by the commissioner of watershed management and shall require such corrections necessary to abate said nuisance.
+Any mechanically operated grease trap found in non-compliance, shall be deemed a nuisance by the commissioner and must be upgraded to the new installations requirements of this section.
+(c)
+Notice of non-compliance. Whenever the commissioner discovers a violation of the "25 Percent Rule," or of the plans or specifications submitted and approved hereunder, or of a permit issued hereunder, a written notice or order shall be served by the commissioner upon the person responsible for directing discontinuance of such illegal action and the remedying of the condition that is in violation of the provisions of 154-297.03(b)(2) of this division.
+(d)
+Disregard of notice. If a person served with a notice or order to remove existing unsafe conditions from systems, appliances or equipment or discontinue the use of same, should fail within a reasonable time as set by the commissioner of watershed management to comply with the requirements thereof, the commissioner of watershed management shall institute an appropriate action in the courts to compel a compliance.
+(e)
+Penalties.
+(1)
+Any person who shall violate a provision of this Code or fails to comply therewith or with any of the requirements thereof shall be deemed guilty of an offense and upon conviction thereof shall be punished as provided in section 1-8 (General Penalty) of the Code of Ordinances of the City of Atlanta, which provides:
+"Whenever in this Code or in any ordinance of the City any act is prohibited or is made or declared to be lawful or any offense, or whenever in this Code or ordinance the doing of any act is declared to be unlawful, where no specific penalty is provided therefore, the violation of a provision of this Code or that ordinance shall be punished by a fine not to exceed $1,000.00 and cost of imprisonment in the City jail for not more than 60 days, or work on the public streets or on public works of the City for not more than 60 days, or by any one or more of these punishments, subject to all limitations contained in the Charter of the City. Each day any violation of this Code or of any ordinance shall constitute a separate offense. In addition to the penalties hereinabove provided, any condition caused or permitted to exist in violation of any of the provisions of this Code or any ordinance shall be deemed a public nuisance and may be abated by the City as provided by law, and each day that the condition continues shall be regarded as a new and separate offense."
+(2)
+The grease trap users are subject to the enforcement provisions set forth in section 154 [§ 256 et seq., article V,] subdivision 4. In addition, food processing, sales, or service establishment grease trap users are subject to the following penalties for violation of this section 154-297.
+a.
+First offense. A fine of $1,000.00
+b.
+Second offense. A fine of $1,000.00 and a 90-day probationary period with confinement in the city jail for a period not to exceed 30 days.
+c.
+Third offense. A fine of $1,000.00 and a 180 day probationary period with confinement in the city jail for a period not less than seven days and not more than 60 days.
+d.
+In addition to the penalties provided above, if user violates the grease discharge permit ordinance three times within 24 months, the food service wastewater discharge permit will be revoked and the Commissioner may formally request that the business license of the violator be revoked and for water service to the property be disconnected.
+The Code of Ordinances provides for penalties of $1,000.00 or a maximum of six months in jail (General Code section 1-8 subpart (c). The city council may modify the penalties set out in Code section 154-256 et seq.] within these limits.
+(3)
+Additional pretreatment. If additional pretreatment and/or maintenance is required to meet the provisions in this section, the commissioner may require that food processing, sales, or service establishments in existence prior to the codification of this section upgrade to the provisions provided herein and above.
+(f)
+Abatement. The imposition of the penalties herein prescribed shall not preclude the city from instituting an appropriate civil action or proceeding to prevent an unlawful construction, reconstruction, alteration, repair, conversion, maintenance or use, or to restrain, correct or abate a violation, or to prevent the use of any equipment, appliance or system covered by this Code.
+(g)
+Publication of names. The commissioner may publish the name(s) of users convicted of violation of this section in a local newspaper annually, semi-annually or quarterly.
+(Ord. No. 2001-5, § II, 1-23-01; Ord. No. 2003-90, § 1(Exh. A), 9-10-03)
+Sec. 154-298. - Discharge to storm sewers regulated.
+It shall be illegal to discharge any polluted waters, including but not limited to, sewage, sludges, industrial wastewater, into any privately or city-owned storm sewer system.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-299. - General discharge prohibitions.
+(a)
+The discharge of any wastewater, including contaminated storm water, spillage, and clean-up water, except through one of the following procedures is prohibited:
+(1)
+Permitted discharge to the city water pollution control facilities;
+(2)
+Direct discharge with a NPDES permit; or
+(3)
+Off-site disposal by a company licensed to disposal of wastewater.
+(b)
+It shall be unlawful, and grounds for revocation of its permit, for any user to introduce or cause to be introduced, directly or indirectly, into a POTW, any pollutant or wastewater which will interfere with the operation or performance of the water pollution control facilities, cause a pass-through, or cause the city to be in violation of any permits, whether or not the user is subject to other national pretreatment standards or any national, state, or local pretreatment requirements. No user shall contribute, or cause to be contributed, any of the following to city water pollution control facilities:
+(1)
+Any liquid, solids or gases which by reason of their nature or quantity are, or may be, sufficient either alone or by interaction with other substances to cause fire or explosion or be injurious or hazardous in any way to the wastewater treatment facility personnel or the operation of the facility. At no time shall any discharge have a flash point of less than 140° Fahrenheit as measured by a closed cup flash point tester using the test methods specified in 40 CFR § 261.21, nor shall two successive readings on a meter capable of reading L.E.L. (lower explosive limit) at any point in the pollution control facility be more than five percent nor any single reading be greater than ten percent. (Examples of liquids, solids or gases to which this section includes, but is not limited to, are gasoline, kerosene, naphtha, benzene, toluene, xylene, ethers, alcohols, ketones, aldehydes, peroxides, chlorates, perchlorates, bromates, polychlorinated biphenyls, polybromated biphenyls, carbides, hydrides, stoddard solvents, and sulfides.)
+(2)
+Any ashes, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, offal, plastics, wood, paunch manure, hair and fleshlings, entrails, lime residues, beer or distillery slops, chemical residues, paint or ink residues, cannery waste, bulk solids, fatty oil and grease or any other solid or viscous substance capable of causing obstruction to the flow in sewers or other interference with the proper operation of the water pollution control facilities.
+(3)
+Any wastewaters or wastes having a pH lower than 5.0 or higher than 12.0 at any time, or having any corrosive property capable of causing damage or hazard to structures, equipment, and personnel of the water pollution control facilities.
+(4)
+Any wastewaters or wastes containing toxic substances in such concentrations as to constitute a hazard to humans or animals, or to interfere with any wastewater treatment process, or which results in the discharge of a toxic substance in toxic amounts to the water pollution control facility, or causing alone or in conjunction with other sources, the POTW's effluent to fail a toxicity test.
+(5)
+Any reactive, noxious or malodorous gas or substance capable of creating toxic gases in toxic amounts, vapors, fumes, public nuisance, or acute worker health or safety problems, hazard to life, or of preventing entry into sewers for their maintenance, inspection, and repair.
+(6)
+Any substance which may cause the water pollution facility effluent or may cause other products of the water pollution control facility such as residues, sludges or scums, to be unsuitable for reclamation and reuse.
+(7)
+Any substance which will cause the water pollution control facility to violate its NPDES permit or cause a violation of the water quality standards of the receiving waters.
+(8)
+Any wastewater with objectionable color not removed in the treatment process, such as, but not limited to, dye wastes, paint wastes, pulp and paper manufacturing wastes, and vegetable tanning solutions.
+(9)
+Any wastewater having a temperature exceeding 65.5° Celsius (150° Fahrenheit) or containing heat in amounts which will inhibit biological activity in the water pollution control facility, but in no case heat in such quantities that the temperature at the influent to a water pollution control treatment facility exceeds 40° Celsius (104° Fahrenheit).
+(10)
+Any pollutant, including oxygen-demanding pollutants or suspended solids, released at a flow and/or pollutant concentration which will cause interference to the operations and maintenance of the water pollution control facilities.
+(11)
+Any wastewater containing quantities of radium, or naturally occurring or artificially produced radioisotopes in excess of accepted limits for drinking water.
+(12)
+Any wastewater containing more than 100 mg/l of petroleum oil, cutting oil, or products of mineral oil origin; as tested by Standard Methods, 19th edition, test number 5520 F (hydrocarbons).
+(13)
+Any unpolluted cooling water, process water, ground water, roof drainage, basement drainage, subsurface drainage, or yard drainage through direct or indirect connection to the sanitary sewer, unless a storm sewer or other reasonable alternative for removal of such drainage does not exist, and then only when discharge is permitted by the industrial wastewater discharge permit and the appropriate charges are paid for the volume thereof.
+(14)
+Any septage, chemical toilet contents, industrial sludges or similar matter or materials, unless specifically authorized by the commissioner through issuance of a permit pursuant to this article.
+(15)
+Medical wastes, except as specifically authorized by the commissioner in a wastewater discharge permit.
+(16)
+Detergents, surface-active agents, or other substances which may cause excessive foaming in the POTW.
+(17)
+Any trucked or hauled pollutants, except at discharge points designated by the commissioner.
+(c)
+No user shall ever increase the use of process water, or in any way attempt to dilute or dilute a discharge, as a partial or complete substitute for adequate treatment to achieve compliance with the limitations contained in the federal categorical pretreatment standards, or for any other pollutant-specific limitation developed by the city or the State of Georgia.
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 2013-67(12-O-0563), §§ 2, 3, 12-11-13 )
+Sec. 154-300. - National categorical pretreatment standards.
+The national categorical pretreatment standards found in 40 CFR, Chapter I, Subchapter N, Parts 405-471 are hereby incorporated. The national categorical pretreatment standard, if more stringent than limitations imposed under this article for sources in that category, shall supersede the limitations imposed under this article and such limits shall become part of this article by reference.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-301. - Specific pollutant limitations.
+(a)
+Limitations on wastewater strength. No person or user shall discharge, or cause to be discharged, directly or indirectly, wastewater at such concentration or mass as to cause interference or pass-through. The limits on process discharges by the user listed below may be used as a guide in design and plant control, but may be altered by the commissioner in the event of a discharge causing interference or pass-through. Allowable pollutant levels are provided as concentration limits and, for industrial users having discharges of less than 10,000 gallons per day (gpd), as mass limits. Industrial users classified as food processors under section 154-196(23) of this article are granted a mass limit on phosphorus on discharges under 25,000 gallons per day (gpd). No person or user shall discharge, or cause to be discharged, wastewater containing in excess of the following limits.
+EXPAND
+Parameter
+Daily Maximum
+
+Concentration (mg/L)
+
+(24 hour composite)
+Daily Maximum Mass (Lb's)
+
+(under 10,000 gpd only)
+Arsenic 0.195 0.016
+Beryllium 0.0005 0.0004
+Cadmium 0.335 0.028
+Chromium 2.25 0.187
+Copper 3.104 0.259
+Lead 0.653 0.055
+Mercury 0.002 0.0002
+Nickel 1.79 0.149
+Selenium 1.31 0.109
+Silver 1.47 0.123
+Zinc 4.473 0.373
+Concentration, mg/1(**)
+
+Grab Sample
+Daily Maximum Mass (Lb's)
+
+(under 10,000 gpd only)
+Cyanide 0.894 0.075
+Daily Maximum
+
+Concentration (mg/L)
+
+(24 hour composite)
+Daily Maximum Mass (Lb's)
+
+(under 25,000 gpd only)
+Phosphorus 10.0(*) 2.0
+*Exception for food processing industry: Food processing industry may discharge up to 25 mg/l phosphorous.
+
+As measured in discharge from manufacturing process only, excluding domestic waste or unpolluted discharges.
+  (b)
+The maximum levels listed below are based on fume toxicity standards. No person or user shall discharge or cause to be discharged any waters, wastewaters, or wastes containing concentrations in excess of the following.
+EXPAND
+Parameter Maximum
+Allowable
+Concentration (mg/l)
+Benzene 0.13
+Bromomethane 0.002(i)
+Carbon disulfide 0.06
+Carbon tetrachloride 0.03
+Chlorobenzene 2.35
+Chloroethane 0.42
+Chloroform 0.42
+Chloromethane 0.007(i)
+1,2-Dichlorobenzene 3.74
+1,4-Dichlorobenzene 3.54
+1,1-Dichloroethane 4.58
+Trans-1,2 Dichloroethylene 0.28
+1,2-Dichloropropane 3.65
+1,3-Dichloropropane 0.09
+Ethyl benzene 1.59
+Ethylene dichloride 1.05
+Formaldehyde 0.07
+Hexacloro-1, 3-butadiene 0.002(i)
+Hexachloroethane 0.96
+Methylene chloride 4.15
+Toluene 1.35
+1,2,4-Trichlorobenzene 0.43
+1,1,1-Trichloroethane 1.55
+Trichloroethylene 0.71
+Trichlorofluoromethane 1.22
+Vinyl chloride 0.003(i)
+1,1-Dichloroethylene 0.003
+Aroclor 1242 0.01
+Aroclor 1254 0.005
+  (i)  In cases where the listed maximum allowable concentration is less than the detection limit and the sample result is also less than the detection limit, the user shall report "less than detection limit."
+(Ord. No. 1998-71, § 2, 10-13-98; Ord. No. 2007-35(07-O-0937), §§ 1, 2, 6-12-07)
+Sec. 154-302. - Pretreatment of waste.
+Users of the water pollution control facilities shall design, construct, operate, and maintain pretreatment facilities whenever necessary for the user to achieve compliance with the limitations set forth in this article. Plans, specifications, operating procedures, and supporting data must be submitted to the commissioner for review prior to installation of a pretreatment system as specified under section 154-214(b).
+Except where expressly authorized to do so by an applicable pretreatment standard or requirement, no user shall ever increase the use of process water, or in any other way attempt to dilute a discharge as a partial or complete substitute for adequate treatment to achieve compliance.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-303. - Protection against potential discharge problems, including slug loadings.
+Provision of protection from accidental discharge and slug loading. Each user shall provide protection from accidental discharge of prohibited materials or other substances regulated by this article, including the protection against the discharge of slug loadings of any waste. Bi-annually the commissioner shall evaluate whether each SIU needs a slug control plan. Facilities and/or procedures to prevent these occurrences shall be provided and maintained by the user at its expense. A slug control plan shall address, at a minimum, the following:
+(1)
+Description of discharge practices, including non-routine batch discharges;
+(2)
+Description of stored chemicals;
+(3)
+Procedures for immediately notifying the city of any accidental or slug discharge, as required by section 154-214 of this article;
+(4)
+Procedures to prevent adverse impact from any accidental or slug discharge. Such procedures include, but are not limited to, inspection and maintenance of storage areas, handling and transfer of materials, loading and unloading operations, control of plant site runoff, worker training, building of containment structures or equipment, measures for containing toxic organic pollutants, including solvents, and/or measures and equipment for emergency response.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-304. - Bypassing.
+(a)
+Notice.
+(1)
+If an industrial user knows in advance of the need for a bypass, the user shall submit written notification to the commissioner at least ten days in advance and receive approval prior to the bypass.
+(2)
+An industrial user shall submit oral notice of an unanticipated bypass to the commissioner within one hour from the time the industrial user becomes aware of the bypass.
+(3)
+A written submission shall also be provided within five days of the time the industrial user becomes aware of the bypass. The written submission shall contain the following:
+a.
+The cause of the bypass;
+b.
+The exact dates and times of the bypass;
+c.
+A description of the bypassed materials;
+d.
+If the bypass has not been corrected, the anticipated time it is expected to continue; and
+e.
+Steps being taken or planned to reduce, eliminate, and prevent reoccurrence of the bypass.
+(b)
+Prohibition of bypass. Bypass is prohibited, and the commissioner may take enforcement action against the industrial user for a bypass. The commissioner may approve a bypass, after considering its adverse effects, if the commissioner determines the following:
+(1)
+The bypass was unavoidable to prevent loss of life, personal injury, or severe property drainage;
+(2)
+There were no feasible alternatives to the bypass, such as the cessation of production or operation, operational changes to reduce the impact or duration of the bypass, the use of auxiliary treatment facilities, retention of untreated wastes, or maintenance during normal periods of equipment downtime. This condition is not satisfied if adequate back-up equipment should have been installed in the exercise of reasonable engineering judgment to prevent a bypass; and
+(3)
+The industrial user submitted notices as required under subparagraph (a) of this section.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-305. - Upset provision.
+(a)
+For the purposes of this section, upset means an exceptional incident in which there is unintentional and temporary noncompliance with effluent standards because of factors beyond the reasonable control of the user. An upset does not include noncompliance to the extent caused by operational error, improperly designed facilities, inadequate treatment facilities, lack of preventive maintenance, or careless or improper operation.
+(b)
+An upset shall constitute an affirmative defense to an action brought for noncompliance with effluent standards if the requirements of section (c) below are met.
+(c)
+A user who wishes to establish the affirmative defense of upset shall demonstrate, through properly signed, contemporaneous operating logs or other relevant evidence, that:
+(1)
+An upset occurred and the user can identify the cause(s) of the upset;
+(2)
+The facility was at the time being operated in a prudent and workman-like manner and in compliance with applicable operation and maintenance procedures; and
+(3)
+The user has submitted the following information to the commissioner within 24 hours of becoming aware of the upset. If this information is provided orally, a written submission must be provided within five days and contain the following:
+a.
+A description of the indirect discharge and the cause of noncompliance;
+b.
+The period of noncompliance, including exact dates and times or, if not corrected, the anticipated time the noncompliance is expected to continue; and
+c.
+Steps being taken and/or planned to reduce, eliminate, and prevent recurrence of the noncompliance.
+(d)
+In any enforcement proceeding, the user seeking to establish the occurrence of an upset shall have the burden of proof.
+(e)
+Users shall control production of all discharges to the extent necessary to maintain compliance with effluent standards upon reduction, loss, or failure of its treatment facility until the facility is restored or an alternative method of treatment is provided. This requirement applies in the situation where, among other things, the primary source of power of the treatment facility is reduced, lost, or fails.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-306. - Prohibited discharge provision.
+modified
+(a)
+User shall have an affirmative defense in any action brought against it alleging a violation of prohibited discharges, including but not limited to discharges described in sections 154-299 and 154-301, where the user can demonstrate:
+(1)
+It did not know or have reason to know that its discharge, alone or in conjunction with a discharge or discharges from the other sources, would cause pass-through or interference; and
+(2)
+a. A local limit designed to prevent pass-through and/or interferences, was developed in accordance with the POTW pretreatment program required by 40 CFR § 403.5(c) for each pollutant in the user's discharge that caused pass-through or interference, and the user was in compliance with each such local limit directly prior to and during the pass-through or interference; or
+b.
+A local limit designed to prevent pass-through and/or interference has not been developed in accordance with 40 CFR § 403.5(c) for the pollutant(s) that caused the pass-through or interference, and the user's discharge did not change substantially in nature or constituents from the user's prior discharge when the POTW was regularly in compliance with the POTW's NPDES permit requirements, and in the case of interference, was in compliance with applicable requirements for sewage sludge use or disposal.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Sec. 154-307. - Sewage pumping station specifications.
+The sewage pumping station specifications of the city, revised August 1973, copies of which are on file in the office of the municipal clerk and of the commissioner, are hereby adopted.
+(Ord. No. 1998-71, § 2, 10-13-98)
+Secs. 154-308—154-315. - Reserved.

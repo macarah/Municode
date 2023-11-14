@@ -1,0 +1,358 @@
+ARTICLE XV. - PROCEDURES FOR SUBDIVISION PLAT APPROVAL
+
+Sec. 150. - Platting authority.
+The Planning Commission shall be the official platting authority.
+Sec. 151. - Pre-application review.
+Whenever the subdivision of a tract of land within the jurisdiction of the Commission is proposed, the prospective developer should consult early and informally with the Director of Community Planning and Development for advice and assistance. The prospective developer may submit sketch plans and data showing existing conditions within the site and in its vicinity, and the proposed layout and development of the subdivision. The Director of Community Planning and Development shall return within fifteen (15) days the submitted sketch to the prospective developer and shall inform the prospective developer where the plans do not comply with the regulations set forth in the Ordinance. No fee shall be charged for the pre-application review and no formal application shall be required.
+Sec. 152. - Procedure for preliminary plat approval.
+Prior to the cutting or grading of any street or the making of any street improvements or the installation of utilities, the prospective developer shall submit to the Planning Commission a Preliminary Plat of the proposed subdivision in accordance with the following:
+152.1. Application for Preliminary Plat. Following the pre-application review of a proposed subdivision, the prospective developer shall submit to the Director of Community Planning and Development, at least twenty-six (26) days prior to the next regular meeting of the Commission, a letter requesting review and approval of a preliminary plat and other documents, as specified in Section 153 herein.
+152.1.1. Preliminary Plat Filing Fees. Preliminary Plats, when submitted to the Planning Commission in accordance with Section 152.1., shall be accompanied by a fee as determined from the following schedule:
+PRELIMINARY PLAT:
+1-10 Lots (per lot) .....$25.00
+11-30 Lot .....$260.00
+plus $10.00 for each lot over 11
+31 or more lots .....$454.00
+plus $4.00 for each lot over 31
+152.2. Review of Preliminary Plat. The Director of Community Planning and Development shall check the plat for conformance to the rules and regulations of this Ordinance and report his findings and recommendations to the Planning Commission, which shall afford a hearing on the preliminary plat.
+152.2.1. Preliminary Approval. Following the hearing of the Preliminary Plat and other related material the Commission may express preliminary approval noting the conditions of such approval on three copies of the Preliminary Plat with one copy being returned to the prospective developer, one copy to the office of the Building Inspector for the Council and one copy to be added to the records of the Commission. Approval of a Preliminary Plat does not constitute approval of a Final Plat; it indicates only approval of the layout as a guide to the preparation of the Final Plat. It is the subdivider's decision if or not to submit the three copies of the Preliminary Plat. Because the plat is being submitted in digital format the GIS Department within the City of Kingsland can furnish these copies, provided the digital data is correct and available.
+152.2.2. Expiration Time. Preliminary approval shall expire and be of no further effect twelve (12) months from the date of the preliminary approval unless final plat approval has been given on at least one lot of the development.
+152.2.3. Disapproval. Following the hearing of the Preliminary Plat and other related material, the Commission may find reasons detrimental to the public safety, health, and general welfare, or in conflict with adopted plans of the Commission which required the disapproval of the Preliminary Plat. A statement of the reasons for disapproval shall be made on two copies of the Preliminary Plat with one copy being added to the records of the Commission. The applicant may reapply for Preliminary Plat approval in accordance with Section 152.1. herein.
+152.2.4. Automatic Approval. Failure of the Commission to act on the Preliminary Plat within thirty (30) days after submission thereof, without due cause, shall be deemed to be approval of the Plat and a Certificate of Preliminary Approval shall be issued by the Commission on demand, provided, however, that the prospective developer may waive this requirement and consent to an extension of time.
+(Amend. of 7-23-2007)
+Sec. 153. - Preliminary plat specification.
+153.1. Scale. The Preliminary Plat shall be clearly and legibly drawn at a scale not smaller than 200 feet to one inch.
+153.2. Sheet Size. Sheet size shall not be smaller than 18 inches by 24 inches or larger than 24 inches by 36 inches. If the complete plat cannot be shown on a sheet of this size, it may be shown on more than one sheet with an index map on a separate sheet of a reduced scale. All plats shall be submitted in digital format in accordance with the "CAD Layering Specifications for Land Plats Submitted within the City of Kingsland, Georgia",
+153.3 CAD LAYERING SPECIFICATIONS - Digital Drawing Specifications for Subdivision Plats Submitted within the City of Kingsland - Camden County, Georgia
+153.3.1 Overview. The City of Kingsland GIS Department has prepared a set of CAD standards for the digital submittal of subdivision plat drawings within the city. The GIS Department will work with developers within the city and the county to institute these standards. The purpose of defining these standards is to allow the city when applicable to import the plat data directly into their geographic information system (GIS). Adherence to the standards will allow for quicker plat approval and a quicker update of the county's cadastral data files, saving tax dollars while improving service.
+In general, a GIS is a geographic database whose graphic elements are directly tied to non-graphic tabular database records. The graphics and databases are so intrinsically tied that changing the graphics alters the database records, while altering the database may alter the graphic display. There are significant differences between the county's GIS and data stored in a CAD-generated drawing file. Certain data standards must be met to ensure that data prepared with a standard CAD package such as AutoCAD can be quickly and easily converted into the county's GIS data format.
+Following is the 'reserved layer' list that specifies the type of data to be drawn on each of the reserved layers: name, line type, color, width, font and text size specifications for any layers to be used in the description and filing of a subdivision plat within the City of Kingsland, GA. In addition to the layering specifications, some general specifications apply, as shown below.
+153.3.2 General Specifications
+a) All plats submitted within Kingsland will use State Plane Coordinates or UTM (NAD 83). This is the preferred projection; however, it is optional at this time.
+b) All submitted drawings will be submitted in both DWG and DXF formats.
+c) All submitted DXF files will provide attribute data as an insertion block on layer 9.
+d) No other data will be drawn on the reserved layer except those specified.
+e) Unspecified data may be added to the drawing file placed on a layer not specified for other use.
+f) No symbology, block, or text may be drawn on a reserved layer except those line, block, and text elements specified below.
+g) Closure is critical for converting the CAD data into a GIS format.
+h) All text elements will be inserted as 'center' unless otherwise specified. In addition, each text element should be located near the center of the feature that it represents; for example, lot number should be located near the center of the lot.
+i) Any bearing/distance table generated should be labeled with the Layer number and it's description. For example: Layer 10-Subdivision Distance Table
+153.3.3 Methods to submit the digital data
+a) Data can be submitted on a 3.5 Floppy disk if it can fit. This file can be compressed as a WinZip file with a .zip extension.
+b) Data can be submitted on an Iomega 100MB Zip Disk.
+c) Data can be submitted on a CD-ROM
+d) Or data can be submitted electronically via email. Prior to sending this file via email though, verbal contact must be made with Ken Kessler, GIS Manager at (912)729-8279. The email address will be kkessler@kingslandgeorgia.com.
+153.3.4 Layer Descriptions
+1 Subdivision Boundary (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 5 (Blue)
+This line forms the legal limits or the outer boundary of the entire subdivision plat. It forms a closed polygon. This layer may be composed of many lines, but it should result in one and only one closed polygon for each subdivision.
+1 Subdivision Name (Text String)
+Font: Unspecified
+Color: 5 (Blue)
+Text Height: Unspecified
+This is a text string with an insertion point located any where within the outer boundary of the subdivision (or line work on layer 1).
+Brentwood estates
+2 Block Boundary (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 7 (White)
+This line or set of lines creates the outer boundary of each block within a subdivision. Block boundaries are generally formed by a combination of right-of-way lines and the subdivision boundary. A block boundary may be further subdivided into many lots or it may not be further subdivided at all, as in the case of a common area such as a large street island or small park. It is also likely that the block boundary lines will be a set of lines that are duplicated on other drawing layers. These will usually be composed of right-of-way lines that bound a block. In this instance, this type of block boundary line will only be drawn if block numbering will be used as a part of the subdivision-block-lot legal description. (That is, the lots are described as lot 17 of block 2). If block numbering will not be used within the subdivision (and there are no common areas that will require a block designation), this layer is to be left blank.
+2 Block Number (Text String)
+Font: Unspecified
+Color: 7 (White)
+Text Height: Unspecified
+The block number should appear once for every block boundary polygon. If there are no blocks within the subdivision, this layer should be left blank.
+Block number text string
+3 Lot Boundary (Line or Pline)
+Type: Continuous
+Width: 0.0
+Color: 1 (Red)
+Lines to be entered on this layer are those that separate one lot from an adjacent lot within the same subdivision, but are not a block boundary or a right-of-way line. These internal lot boundaries may be thought of as side-lot-lines and back-lot-lines.
+3 Lot Number (Text String)
+Font: Unspecified
+Color: 1 (Red)
+Text Height: Unspecified
+The lot number should appear once for every lot within the subdivision. The lot number should be a text string with an insertion point within the outer boundary of the lot it identifies.
+Lot number text string
+4 ROW Line (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 3 (Green)
+A line used to divide the privately held property from land to be publicly held, used, and maintained as public right-of-way. The endpoints of any right-of-way segment should be snapped to the end points of the following: lot boundary segments; other right-of-way line endpoints; or the subdivision lot boundary.
+4 ROW Text or Street Name (Text String)
+Street names should be input on the Street Centerline (Layer 15).
+Row text
+5 Public Common Area (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 3 (Green)
+A line which delineates an area of land that is to be platted and dedicated as a common public area, such as a street island or median strip that will most likely be included as right-of-way, and is not intended to have a lot and block legal description. This type of area may also be referred to as a 'tract'.
+5 Public Common Area ID (Text String)
+Font: Unspecified
+Color: 3 (Green)
+Text Height: Unspecified
+If the common area will contain a tract number designation, that number should be included on this layer.
+Public common area ID
+6 Private Common Area or Private Tract (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 2 (Yellow)
+A line, which delineates an area of land, that may be platted and dedicated as a common publicly held area (such as a street island, median or park space) that will be owned and maintained by a homeowner's association. This type of area may also be known as a 'tract'.
+6 Private Common Area ID (Text String)
+Front: Unspecified
+Color: 2 (Yellow)
+Text Height: Unspecified
+If such an area of land is to have a tract number or description other than a lot and block number, that description should be entered on this layer.
+Private common area ID
+7 Easements (Line or Pline)
+Line Type: Unspecified
+Width: 0.0
+Color: Unspecified
+Any easement information should be placed on this layer.
+7 Easement Text (Text String)
+Font: Unspecified
+Color: Unspecified
+Text Height: Unspecified
+All descriptive text and easement dimensions should be placed on this layer.
+8 Water Bodies (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 5 (Blue)
+This line delineates the boundaries of the bodies of water that exist within the area of platted tract of land. Bodies of water to be included in this layer are lakes, rivers, creeks etc.
+8 Water Bodies Text (Text String)
+Front: Unspecified
+Color: 5 (Blue)
+Text Height: Unspecified
+This specifies the type of water body with its formal name.
+Water Bodies Text
+9 Title Block All information within the Title Block will be stored as a block. The block is named TITLBLK.DWG. This block will be inserted at a point that corresponds to the lower left corner of the drawing. The title block requires an area roughly 500' × 500' (five hundred feet by five hundred feet) of real space (space in state plane coordinates).
+EXPAND
+Title Block Data Input Format
+Subdivision Name: Green Acres
+City: Kingsland County: Camden
+Submittal Date: 02/28/97
+Name/Address of owner: John Doe, 112 My Street, Kingsland, GA
+Projection Type: UTM. Zone 17 or Stateplane, Zone 3651—NAD83
+Prepared By: ACME Surveying
+Drawing/File #: AC130.97.005
+GMD: 1606th
+Number of Lots: 35 Number of Blocks: 2
+Number of Private Common Areas: 0 Number of Public Common Areas: 3
+Total Acreage: 115.08
+Building Restrictions:       Front—20 Feet       Sides—7.5 Feet       Rear—10 Feet
+Current Zoning: Property is currently zoned planned development(Single-Family Residential)
+Property Services: The property will be serviced with city water and sewer. Developer to install lines within subdivision.
+Easement Description: 7.5 foot wide drainage and utility easement on the front, side and rear property lines.
+Wetland Type: Property sits in the Flood Hazard Zone 'X'
+"NOT FOR FINAL RECORDING"
+  Title Block Data Input Format
+Subdivision Name A text field containing the legal name of the subdivision.
+City A text field containing the city in which the plat has been submitted.
+County A text field containing the county name. The default string is 'Camden'.
+Submittal Date A text field containing the date the plat was submitted to the city or county for consideration.
+Name/Address of Owner This is the name and address of owner of record and of sub-divider.
+Projection Type This is the projection type of the digital plat. The projection will be either UTM Zone 17 or Stateplane Zone 3651-both using Datum North American Datum 83 (NAD83)
+Prepared by A text field containing the name of the company that prepared the subdivision drawing.
+Drawing/File number This is the plat preparer's internal drawing number. Any response is valid.
+GMD: Georgia Militia District.
+Number of Lots This value records the number of legal lots within the plat, excluding right-of-way and any publicly held or privately held common areas such as street median strips or green space maintained by a homeowner's association.
+Number of Blocks This field records the number of legal blocks within the subdivision if applicable.
+Number of Private Commons This field records the number of privately held common areas, such as green space that will be privately held and maintained by a neighborhood association.
+Number of Public Commons This field records the number of publicly held common areas, such as median strips, that will become part of the public right-of-way and maintained by the appropriate city or county.
+Total Acreage This is the total acreage for the plat or subdivision.
+Building Restrictions Any building restrictions on the front, rear, and side of the lot in a subdivision.
+Current Zoning The current zoning of the plat.
+Easements Any easements, drainage, and utilities that might exist around the property.
+Wetland Type This is the wetland type existing on the property. This data is available through the FEMA FIRM.
+"NOT FOR FINAL RECORDING" This will only be noted in the title block when the plat is in its preliminary stages. It will be omitted when the plat is for final review and submittal.
+Subdivision (Dimension) Annotation
+10 Subdivision Distance (Text String)
+Font: Unspecified
+Color: 7 (White)
+Text Height: Unspecified
+Any descriptive text that describes the bearing and distance of a line element around the plat perimeter to the nearest 1/10 -foot, 1/100 if possible (preferred method). (Layer 1). Please note that although the bearings aren't shown, they are expected in this layer as well. If desired, a table can be generated for the bearings and distances corresponding to specific lines for easier management of space, but the lines must be shown. The error should not exceed 1/5000 .
+Subdivision distance
+11 Lot Line Distance/Acreage (Text String)
+Font: Unspecified
+Color: 7 (White)
+Text Height: Unspecified
+Any descriptive text that describes the bearing and distance of a line element defining an internal lot line (see layer 3). Please note that although the bearings aren't shown, they are expected in this layer as well. If desired, a table can be generated for the bearings and distances corresponding to specific lines for easier management of space, but the lines must be shown. Acreage for the lots should be shown on this layer and centered in each lot.
+Lot line distance
+12 Row Line Distance (Text String)
+Font: Unspecified
+Color: 7 (White)
+Text Height: unspecified
+Any descriptive text that describes the bearing and distance of a line element defining a right-of-way line (see layer 4). If desired, a table can be generated for the bearings and distances corresponding to specific lines for easier management of space, but the lines must be shown on layer 4.
+13 House Numbers (Text String)
+Font: Unspecified
+Color: 1(Red)
+Text Height: Unspecified
+This layer will be used for the final plat approval only. This is the number of the address assigned to each of the lots.
+House numbers
+14 Adjoining Streets/Parcels (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: 1(Red)
+The closest land-lot corners and streets shall be accurately tied to the lines of the subdivision by bearings and distances.
+14 Adjoining Streets/Parcels (Text String)
+Font: Unspecified
+Color: 1(Red)
+Text Height: Unspecified
+This layer will specify the distance and bearings for the adjacent lot line and streets. A table depicting this information can be used here.
+Adjoining streets
+Proposed Improvements
+15 Street Centerlines
+Line Type: Continuous
+Width: 0.0
+Color: 5 (Blue)
+This line delineates the centerline of the street within subdivision plat.
+15 Street Annotation (Text String)
+Font: Unspecified
+Color: 5 (Blue)
+Text Height: Unspecified
+Any street names, dimensions, and bearings associated with the centerline should be entered on this layer. Text is to be centered within the right-of-way.
+16 Pavement Edges (if available)
+Line Type: Continuous
+Width: 0.0
+Color: Unspecified
+The pavement edges represent actual road edges such as curbs.
+Survey Control Points
+Insert: Point
+Color: Unspecified
+Any surveyed, centimeter-accurate GPS control points should be placed on this layer. NAD83 should be used for the horizontal datum and NAVD88 for the vertical datum.
+20 Survey Control Points Text (Text String)
+Font: Unspecified
+Color: Unspecified
+Text Height: Unspecified
+Any descriptive text associated with survey control points should be placed on this layer.
+21 Floodplains (or Drainage)-(Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: Unspecified
+If floodplain information is available it should be placed on this layer. This information will only be used for internal analysis, not as a substitute for official FEMA maps. A floodplain line table can be used to replace the line data if desired provided that an X, Y starting point expressed in the same units as the layers is given.
+21 Floodplain Text (Text String)
+Font: Unspecified
+Color: Unspecified
+Text Height: Unspecified
+Any descriptive floodplain text should be placed on this layer.
+22 Wetlands (Line or Pline)
+Line Type: Continuous
+Width: 0.0
+Color: Unspecified
+If wetlands exist in the subdivision, the information should be placed on this layer. This information will only be used for internal analysis, not as a substitute for official NWI maps. A wetland line table can be used to replace the line data if desired provided that an X, Y starting point expressed in the same units as the projection type is given.
+22 Wetland Text (Text String)
+Font: Unspecified
+Color: Unspecified
+Text Height: Unspecified
+Any descriptive wetland text should be placed on this layer.
+>23 Other Features
+Layers 23-39 are reserved for future uses. Any extra information from the digital drawing can be input on these layers as long as it is documented.
+>40 Proposed Utilities
+None of the utility information will be imported by the city immediately; however, this series of utility information may be very useful for the identification and location of the underground infrastructure. Layers 40 and above are therefore being reserved for future definition.
+153.4. Ground Elevations. The Preliminary Plat shall show elevations based on the datum plane of the U.S. Coast and Geodetic Survey, with a contour interval of five (5) feet (or less if determined by the Commission).
+The City of Kingsland also reserves the right to require ground elevation on any plat of one lot or more submitted for approval.
+153.5. Information to be Provided on Preliminary Plat. The Preliminary Plat shall contain the following information:
+a. Name and address of owner of record and/or prospective developer.
+b. Proposed name of subdivision and its acreage.
+c. North point and graphic scale and date.
+d. Vicinity map showing location in relation to obvious geographic locations.
+e. Exact boundary lines of the tract by bearing and distance.
+f. Names of owners of record of adjoining land with its approximate acreage.
+g. Existing streets, utilities and easements on and adjacent to the tract, including the size and width of each.
+h. Proposed layout including streets, alleys and easements with both dimensions and proposed street names; lot lines with approximate dimensions; and any land to be used for purpose other than single-family dwelling.
+i. Block letters lot size and numbers.
+j. Provisions for water supply, sewage and drainage.
+k. Minimum building setback lines.
+l. Such typical street cross-sections and center line profile as may be required.
+m. Location of streams, lakes, and swamps and land subject to flooding as determined from past history of flooding.
+n. Existing zoning district classification of the proposed subdivision and of adjoining properties.
+o. Inscription stating "NOT FOR FINAL RECORDING".
+153.6. Certificate of Preliminary Approval. A Certificate of Approval of the Preliminary Plat by the Commission shall be inscribed on the plat as follows:
+"In that all the requirements of Preliminary Approval having been fulfilled, this subdivision plat was given Preliminary Approval by the Kingsland Planning Commission on _______. This Preliminary Approval does not constitute approval of the Final Plat. This Certificate of Preliminary Approval shall expire and be null and void on _______.
+Date         Director of Community Planning and Development
+153.7. Initiation of Installing Physical Improvements. After receiving a Certificate of Preliminary Approval by the Commission, the subdivider may then proceed to grade the streets and install all improvements prior to submission of the Final Plat, provided the subdivider posts a performance bond with the Treasurer of the Council in an amount and with surety conditions satisfactory to it, providing for and assuring to the Council the actual construction and installation of such improvements within the period of time specified by the Commission and stated in the bond.
+153.8. Guarantee of Improvements/Bonds.
+153.8.1. Performance Bond.
+1. The Planning Commission in its discretion may waive the requirement that the applicant complete and dedicate all public improvements prior to the signing of the final subdivision plat and that, as an alternative, the applicant post a bond at the time of application for final subdivision approval in an amount estimated by the Planning Commission and City Council as sufficient to secure to the local government the satisfactory construction, installation, and dedication of the uncompleted portion of required improvements. The performance bond shall also secure all lot improvements on the individual lots of the subdivision as required in these regulations.
+2. Such performance shall comply with all statutory requirements and shall be satisfactory to the City Attorney as to form, sufficiency, and manner of execution as set forth in these regulations. The period within which required improvements must be completed shall be specified by the Kingsland City Council in the resolution approving the final subdivision plat and shall be incorporated in the bond which shall not, in any event, exceed two (2) years from date of final approval.
+3. Such bond shall be approved by the Kingsland City Council as to amount and surety and conditions satisfactory to the Kingsland City Council. The Planning Commission may, upon proof of difficulty, recommend to the Kingsland City Council extension of the completion date set forth in such bond for a maximum period of one (1) additional year. The Kingsland City Council may at any time during the period of such bond accept a substitution of principal or sureties on the bond upon recommendation of the Planning Commission.
+153.8.2. Temporary Improvements. The Applicant shall build and pay for all costs of temporary improvements required by Kingsland City Council. Prior to construction of any temporary facilities, a Performance Bond will be required, which bond shall ensure that the temporary facilities will be properly constructed, maintained, and removed.
+153.8.3. Costs of Improvements. All required improvements shall be made by the applicant, at his expense, without reimbursement by the City or any improvement district therein.
+153.8.4. Governmental Units. Governmental units to which these bonds and contract provisions apply may file in lieu of said contractor bond a certified resolution or ordinance from officers or agencies authorized to act on their behalf, agreeing to comply with the provisions of this Ordinance.
+153.8.5. Failure to Complete Improvement. In those cases where a performance bond has been posted and required improvements have not been installed within the terms of such performance bond, the local government may thereupon declare the bond to be in default and require that all the improvements be installed regardless of the extent of the building development at the time the bond is declared to be in default.
+153.8.6. Acceptance of Dedication Offers. Acceptance of formal offers of dedication of streets, public areas, easements, and parks shall be by resolution of the City Council accompanied by the appropriate deed or written easement. The approval by the Planning Commission of a subdivision plat shall not be deemed to constitute or imply the acceptance by the local government of any street, easement, or park shown on said plat. The Planning Commission may require said plat to be endorsed with appropriate notes to this effect.
+153.8.7. Alternate Improvement Guarantees. If the Kingsland City Council finds that a developer is not able to post a performance bond, the City Council may require the prospective developer to use one of the following improvements guarantee techniques:
+1) Escrow Account The prospective developer shall deposit cash, or collateral readily convertible to cash at face value, either with the City Council or in escrow with a bank. The use of collateral other than cash, and the selection of the bank with which funds are to be deposited, are subject to the approval of the City Council.
+Where an escrow account is to be employed, the prospective developer shall file with the City Council his agreement with the bank guaranteeing the following:
+(a) That the funds in the escrow account are to be held in trust until released by the City Council and may not be used or pledged by the prospective developer as security for any obligation during that period.
+(c) That in case the prospective developer fails to complete the required improvements, the bank shall immediately make the funds in escrow available to the City for the completion of these improvements.
+153.8.8. Property Escrow. The prospective developer may offer as a guarantee land or other property, including corporate stocks or bonds. A qualified real estate appraiser shall establish the value of any real property so used and in so doing, shall take into account the possibility of a decline or rise in the value of the property during the guarantee period. If requested by the prospective developer, the City Council may exchange the property for an amount of money sufficient to complete the required improvements. When property is offered as an improvement guarantee, the prospective developer shall:
+1. Execute an agreement with the escrow agent when it is not the City instructing the agent to release the property to the City in the case of default. The agreement shall be placed on file with the Clerk of the Superior Court.
+2. File with the City Council an affidavit affirming that the property to be used as a guarantee is free and clear of any encumbrances or liens at the time it is to be put in escrow.
+3. Execute and file with the City Council an agreement stating that the property to be placed in escrow as an improvement guarantee will not be used for any other purpose, or pledged as a security in any other matter, until it is released by the City Council.
+153.8.9. Sequential Development. Where a subdivision is to be developed in phased portions, the City Council may waive the use of a guarantee on the initial portion, provided that such portion may not contain more than twenty-five (25) lots, or fifty percent (50%) of the total number of lots proposed for the subdivision, whichever is less. The City Council may grant final plat approval to only one portion at a time, with the plat approval to only one succeeding portion being contingent upon completion of all contracted improvements in each preceding portion, and acceptance of those improvements by the City Council. Completion of improvements in the final portion of the subdivision, which must include at least 25 lots or 50 percent of the total number of lots in the subdivision, whichever is less, must be guaranteed through the use of one or the other methods detailed herein.
+153.8.10. Letter of Credit. Subject to the approval of the City Council, the subdivider shall provide a letter of credit from a bank or other reputable institution or individual. This letter shall be deposited with the City Council and shall certify the following:
+1. That the creditor guarantees funds in an amount equal to the cost, as estimated by the prospective developer and approved by the City Council, of completing all required improvements.
+2. That if the prospective developer fails to complete the specified improvements within the required period, the creditor will pay to the City immediately, and without further action, such funds as are necessary to finance the completion of those improvements, up to the limit of credit stated in the letter.
+153.8.11. Other Methods. Any other method of sufficient financial commitment that may be acceptable to the City Council.
+(Amend. of 7-23-2007)
+Sec. 154. - Final plat procedure.
+After the completion of the physical development of the subdivision or the posting of a performance bond the subdivider shall submit to the Commission a Final Plat in accordance with the following procedure:
+(1)
+A letter requesting review and approval of the Final Plat.
+(2)
+Ten (10) printed copies and one (1) original of the Final Plat with signed certification and other documents as specified in Section 125.
+(3)
+Where Office Approval is applicable, four (4) printed copies and one (1) original as per Section 124.3.
+(4)
+Digital submittal of the final plat based on the "CAD Layering Specifications"
+154.1. Final Plat Filing Fee. A final plat filing fee is required for those subdivisions which have filed a preliminary plat and paid the appropriate fee as determined by the schedule included in Section 152.1.1. However, if a preliminary plat is not required as per Section 157, a fee, determined by the schedule included in Section 152.1.1 shall accompany all such final plats submitted in accordance with Article XV (Procedures for Subdivision Plat Approval).
+154.2. Office Approval. The Director of Community Planning and Development may give final approval in the name and on behalf of the Commission provided the final plat is the same as that granted preliminary approval by the Commission and that all conditions specified herein have been met; and shall sign a certificate of approval on all printed drawings with two (2) copies being returned to the subdivider, one (1) copy to the Office of the Building Inspector for the Council, and one (1) copy being added to the records of the Commission. No final plat shall be approved by the Director of Community Planning and Development until the required certifications have been approved by the appropriate approving agents as required in Section 154.
+154.3. Commission Approval. The Commission may give final approval if the Commission had previously required the Final Plat to be presented at a Public Hearing; and require the Director of Community Planning and Development to sign a certificate of approval on all printed drawings with the same distribution of the drawings as described in Section 154. No final Plat shall be approved by the Commission until the required certifications have been approved by the appropriate approving agents as required in Section 154.2.
+154.4. Disapproval. The Commission or Director of Community Planning and Development may find the Final Plat in conflict with the tentatively approved Preliminary Plat or with this Ordinance requiring the disapproval of said plat. The disapproval shall be placed on two (2) copies of the final plat with one (1) copy being returned to the subdivider and one (1) copy being added to the records of the Commission. No certificate of approval shall be given. The Final Plat may be resubmitted within ninety (90) days of disapproval, as a new application for Final Plat approval for hearing after the corrections noted by the Commission are made.
+154.5. City Council Approval. The City Council shall approve all Final Plats and issue a signed certification upon the Final Plat as per Section 155.6.
+154.6. Automatic Approval. Failure of the Commission to act on the Final Plat within thirty (30) days after submission thereof shall be deemed to be approval of the plat and a certificate of Final Approval shall be issued by the Commission on demand, provided, however, that the subdivider may waive this requirement and consent to an extension of time.
+Sec. 155. - Final plat specifications.
+155.1. Conformance with Preliminary Plat. The Final Plat shall conform to the conditions of the tentatively approved Preliminary Plat. The final plat will further have an additional layer to include the house numbers designated by the Community Planning and Zoning Director for the City of Kingsland as specified in the "CAD Layering Specifications"
+155.2. Original Tracing Specifications. The Final plat shall be clearly and legibly drawn on any acceptable tracing material as required by the Office of the Clerk of the Superior Court of Camden County. The scale shall be 100 feet or 50 feet to the inch on a sheet size of not less 18" × 24" and not greater than 24" × 36". If the complete plat cannot be shown on one sheet of this size, it may be shown on more than one sheet with an index map on a separate sheet of a reduced scale.
+155.3. Additional Specifications. The Final Plat shall conform with the Georgia Plat Act and shall contain the following information:
+(1) Name and address of owner of record and of subdivider.
+(2) North point and graphic scale and date.
+(3) Vicinity map showing location and acreage of the subdivision.
+(4) Names and owners of record of adjoining land with its appropriate acreage.
+(5) Location of streams, lakes, and swamps and land subject to flood as determined from past history of flooding.
+(6) Bearing and distance to permanent points on the nearest existing street lines or bench marks or other permanent monuments (not less than three) shall be accurately described on the plat.
+(7) Municipal and county lines shall be accurately tied to the lines of the subdivision by distance and angles when such lines traverse or are reasonably close to the subdivision.
+(8) The closest land-lot corner shall be accurately tied to the lines of the subdivision by distance and angles.
+(9) Land-lot and land-district number shall be shown.
+(10) Exact boundary lines of the tract determined by a field survey, giving distances to the nearest one-tenth ( 1/10 ) foot and angles to the nearest minute, shall be balanced and closed with an apparent error of closure not to exceed one in five thousand.
+(11) Name of subdivision, exact locations, widths, and names of all streets and alleys within and immediately adjoining the new subdivision shall be shown on the plat.
+(12) Street right-of-way lines shall show angles of deflection, angles of intersection, radii, and lines of tangents.
+(13) Lot lines shall be shown with dimensions to the nearest one-tenth ( 1/10 ).
+(14) Lots shall be numbered in numerical order and blocks lettered alphabetically.
+(15) Each lot shall have a house number.
+(16) Location, dimension, and purposes of any easements and any areas to be reserved or depicted for the public use shall be shown on the plat.
+(17) Accurate location, material, and description of monuments and markers, shall be described on the Plat.
+(18) Minimum building front yard setback lines shall be shown.
+(19) The Final Plat shall conform with the 'Georgia Plat Act' and the 'City of Kingsland CAD Layering Specifications'.
+155.4. Surveyor's Certification. A signed certification by a registered land surveyor certifying to the accuracy of the survey and stamp shall be placed on the Final Plat as follows:
+"The field data upon which this map is based have a closure precision of one foot in _______ feet and an angular error of _______ per angle point, and was adjusted using the _______ rule.
+This map or plat has been calculated for closure and is found to be accurate within one foot in _______ feet.
+The linear and angular measurements shown on this plat were obtained by using a _______ and _______.
+BY:  _____
+Ga. Registered Land Surveyor No. _______"
+155.5. Owner's Certification. A signed certification of ownership shall be placed on the Final Plat as follows:
+"Owner's Certification:
+State of Georgia, County of Camden
+The undersigned certifies that he is the owner of the land shown on this plat and acknowledges this plat and allotment to be his free act and deed and dedicated to public use forever all areas shown or indicated on this plat as streets, alleys, easements or parks.
+Date           Owner's Name"
+155.6. Certificate of Approval by the Council. A signed certification of the Council shall be placed on the Final Plat as follows:
+"We certify that the owner, or his agent, has completed the construction and installation of the streets, drainage, utilities and other improvements in accordance with the laws and specifications of the City of Kingsland, Georgia; or has posted a performance in lieu thereof.
+Date         Title of Director of Community Planning Development
+Sec. 156. - Recording of final plat.
+Upon the approval of a Final Plat by the Commission, the owner or his agent, shall have the Final Plat recorded in the Office of the Clerk of the Superior Court prior to the sale of any lot in the subdivision. Upon recording of the approved Final Plat, a copy of any private covenants or deed restrictions shall be provided by the subdivider for the records of the Commission.
+Sec. 157. - Subdivisions not exceeding five (5) lots.
+Notwithstanding the provisions stated elsewhere in this Ordinance, the Director of Community Planning and Development is hereby delegated the authority to give preliminary and final approval in the name and on behalf of the Commission to applications for approval of a subdivision not exceeding five (5) lots in size, pending the review and approval of the Director of Public Works and the Municipal Utilities Director and the City Building Inspector, provided no new street is involved; the required certifications have been approved by the appropriate agent; no variances are involved; and all the requirements set forth in this Ordinance are met. Final approval may be given by the Director of Community Planning and Development on a plat that was preliminarily approved by the Commission.
+(Ord. No. 2016-07 , 11-14-2016)

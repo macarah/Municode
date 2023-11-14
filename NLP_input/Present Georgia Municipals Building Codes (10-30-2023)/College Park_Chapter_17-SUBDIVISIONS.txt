@@ -1,0 +1,869 @@
+Chapter 17 - SUBDIVISIONS[1]
+Footnotes:
+--- (1) ---
+Editor's note— Ord. No. 2007-20, § 1, adopted April 3, 2007 repealed former Arts. I—VI of this chapter in their entirety and enacted new provisions as herein set out. Section 2 of Ord. No. 2007-20 renumbered former Art. VII as Art. IV. The repealed provisions of former Arts. I—VI pertained to subdivisions and derived from the Code of 1963 and the following:
+EXPAND
+Ord. No. Section Date
+87-5 1, 2  1-19-87
+88-29 1 10- 3-88
+88-33 1 11- 7-88
+  EXPAND
+Ord. No. Section Date
+88-34 1 11- 7-88
+89-13 1  3- 6-89
+  Cross reference— Organization of planning commission, § 15-1; zoning, App. A; payment of cost of water line extension, § 10-30.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 17-1. - Purpose and intent.
+This chapter shall be known as the "Subdivision Ordinance" and serves the purpose of promoting the public health, safety, convenience and general welfare of the City of College Park by setting standards for the form and content of preliminary and final plats or plats; by setting standards to regulate the division of land; and by establishing procedures for the review of subdivision plats by the planning commission and mayor and council. This chapter further serves the following purposes:
+(1)
+To encourage economically sound and stable development of the city;
+(2)
+To assure the provision of required streets, utilities, and other facilities and services to new land developments;
+(3)
+To assure the adequate provision of safe and convenient traffic access and circulation, both vehicular and pedestrian, to new land developments;
+(4)
+To assure the provision of needed public open spaces and building sites in new land developments through the dedication or reservation of land for recreational, educational, and other public purposes; and
+(5)
+To assure, in general, the wise development of new areas, in harmony with the master plan of the city.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-2. - Definitions.
+In addition to the definitions below, this chapter shall include all the definitions appearing in the city zoning ordinance [Appendix A], unless such definitions otherwise conflict with the definitions below:
+(1)
+Alley: A secondary access road, typically to the rear of a building site.
+(2)
+Arterial street: Arterial streets provide the principal network for traffic flow within the community. They connect areas of major activity within the urban area and function primarily as carriers of cross-town traffic. Arterial streets should be designed as four-lane facilities with maximum operating speeds as referenced in the thoroughfare plan. Maximum capacity would be approximately thirty thousand (30,000) vehicles per day. Arterial streets should have limited access to adjacent land uses with driveways that do not require a vehicle to back into the street.
+(3)
+Block: A parcel of land entirely surrounded by public streets and other rights-of-way, other than alleys, or land which is designated as a block on any recorded subdivision map. In cases where the plotting is incomplete or disconnected, the subdivider may determine the outline of the block.
+(4)
+Condominium: An estate in real property consisting of an undivided interest in common in a portion of a parcel in real property together with a separate interest in space in a residential, industrial or commercial building on such real property, such as an apartments office or store. A condominium may include, in addition, a separate interest in other portions of such real property.
+(5)
+Design: Includes, but is not limited to, street alignments, grades and widths; the alignment and widths of easements and rights-of-way for drainage, sanitary sewers, water, utilities and other facilities for public use or benefit; the size, configuration, and location of park, open space, and recreation sites; and the lot area, width, depth, shape and pattern as may be required or otherwise provided for in this chapter, the City Code, any site plans, zoning plat or planned development plans, and the comprehensive plan and any of its elements.
+(6)
+Easement: A grant by the property owner for the use by the public, a corporation or persons of a strip of land for specified purposes.
+(7)
+Final plat: Refers to a plat showing a subdivision for which a preliminary and final plat is required by this chapter, prepared in accordance with the Georgia Plat Act and this chapter, which is designed to be recorded with the superior court clerk of Fulton or Clayton County.
+(8)
+Georgia Plat Act: The Georgia Plat Act of the State of Georgia codified at Official Code of Georgia, Section 15-6-67.
+(9)
+Improvement: Includes, but is not limited to streets, curbs, gutters, sidewalks, drainage facilities, sanitary sewer facilities, utilities, water facilities, street lights, landscaping, parks, or other improvements to be installed, or agreed to be installed by the subdivider on the land/or land appurtenant thereto, to be used for public streets, highways, ways, easements, park and recreation facilities or as otherwise may be necessary for the general use or benefit of the lot owners in the subdivision and the surrounding area as a condition precedent to approval and acceptance of the final plat. Improvement also refers to such specific improvements or types of improvements the installation of which, either by the subdivider, by public agencies, by private utilities, or by a combination thereof, are necessary or convenient to ensure conformity with or implementation of the comprehensive plan and any of its elements, this chapter, the City Code, or any specific plans or planned unit development plans.
+(10)
+Local street: Provides direct access to abutting properties and allows for localized movement of traffic. Local streets are characterized by low daily volumes of less than two thousand (2,000) vehicles per day, and low operating speeds as indicated in the city thoroughfare plan.
+(11)
+Lot of record: A lot which is part of a subdivision, the plat of which as been recorded in the office of the clerk of the superior court of Fulton or Clayton Counties; or a parcel of land, the deed of which was recorded in the office of the clerk of the superior court of Fulton or Clayton Counties.
+(12)
+Lot or parcel: Lot or parcel shall mean a parcel of land established or to be established by procedures as provided for in this chapter.
+(13)
+Lot depth: The horizontal distance from the midpoint of the front to the midpoint of the rear lot line.
+(14)
+Lot depth-average: The sum of the length of the two (2) side lines of the lot divided by two (2). In the case of irregularly shaped lots having four (4) or more sides, "average lot depth" shall be the sum of the length of two (2) lines, drawn perpendicular to the front lot line at the widest and narrowest portions of the lot, divided by two (2).
+(15)
+Lot line-front: In the case of an interior lot, the boundary of the lot along the public right-of-way; and in the case of a corner lot, a line separating the narrowest street frontage of the lot from the right-of-way, except in those cases where the latest recorded tract deed restrictions, approved as part of a subdivision approval, specify another line as the front lot line.
+(16)
+Lot line-rear: A lot line which is not a front or side lot line as defined herein, which is parallel or approximately parallel to and opposite the front lot line. In the case of an irregularly-shaped lot, a line within the lot most nearly parallel to and at the farthest distance from the front lot line.
+(17)
+Lot line-side: Any lot line not a front lot line or a rear lot line as defined herein.
+(18)
+Lot width-average: The sum of the length of the front and rear lot line divided by two (2). In the case of irregularly-shaped lots having four (4) or more sides, "average lot width" shall be the sum of the length of two (2) lines, drawn perpendicular to one (1) side line at the widest and narrowest portions of the lot, divided by two (2).
+(19)
+Owner: The individual(s), or entity(ies), having sufficient proprietary interest in the land sought to be subdivided, and to commence and maintain proceedings to subdivide the same under the law of the State of Georgia and this chapter.
+(20)
+Pedestrian way: An easement exclusively for pedestrian use.
+(21)
+Planting strip: The strip of land adjacent to the back of curb line or sidewalk line, which may be used for street trees, mailboxes, and traffic signs and may be reflected on the final plat.
+(22)
+Preliminary plat: Any plat made for the purpose of showing the design and improvement of a proposed subdivision and the existing conditions in and around it, prepared in accordance with this chapter and the Georgia Plat Act.
+(23)
+Reserve strip: A strip of land not less than ten (10) feet in width deeded or dedicated to the city for the purpose of regulating access to a partially improved or dedicated or dead-end, alley, street or highway, or to any arterial street.
+(24)
+Subdivider: A person(s), or entity(ies), who causes land to be subdivided into any number of parcels.
+(25)
+Subdivision: Any division or revision of a lot, tract or parcel of real property improved or unimproved, or portion thereof shown on the latest equalized county tax roll as a unit or as contiguous units, which is proposed to be divided by a subdivider, including the combination or recombination of previously platted lots into a larger parcel, either by platting or by metes and bounds, into two (2) or more lots, building sites, or other divisions, or the recombination of previously platted lots into a larger parcel, including all division or recombination of land involving the dedication, change, or abandonment of a street, site, easement or other right-of-way for any public use or facility for the purpose of sale, lease, or financing, whether immediate or future, by any subdivider within any period. When appropriate to the context, the term "subdivision" shall relate to the process of subdividing or to the land area subdivided. The following, however, are not subdivisions with the meaning of this chapter:
+a.
+Financing or leasing of industrial buildings, stores, offices, apartments or similar space within a building or spaces within a trailer park;
+b.
+Mineral, oil or gas leases;
+c.
+Cemetery lot.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-3. - Applicability.
+The provisions of this chapter shall apply to the following:
+(1)
+When any parcel of land within the city is to be divided into two (2) or more separate lots or parcels; or
+(2)
+Where the lot lines between contiguous parcels are proposed to be adjusted; or
+(3)
+Where two (2) or more parcels of land are proposed to be merged into lesser number of parcels.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-4. - Administration.
+These regulations shall be administered by the city planning commission. The planning commission shall have all the powers and duties with respect to preliminary and final plats and the related procedures, which are specified by law and by this chapter. The city planning commission shall review and recommend approval of any amendment to this chapter prior to adoption by the mayor and council.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-5. - Approval required.
+No land in the City of College Park shall hereafter be subdivided and sold or otherwise transferred in ownership by reference to, or exhibition of, or by any other use of a plat of a subdivision until such plat has received final approval by the planning commission, after which such plat shall be duly recorded in the office of the clerk of the superior court of the county in which the subdivision is located. The description by metes and bounds in the document of sale or transfer shall not exempt the transaction from the regulations.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-6. - Compliance with other laws.
+Compliance with this chapter shall not substitute for compliance with federal and state laws nor for other City of College Park ordinances and resolutions. Whenever the following regulations conflict with federal, state or local law, the more stringent regulation shall apply.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-7. - Violations and penalties.
+(a)
+Any person violating any of the provisions of these regulations shall be deemed guilty of an offense and upon conviction thereof shall be punished by a fine not to exceed one thousand dollars ($1,000.00) or imprisonment in the city jail for not more than ninety (90) days. Each day of continuance of a violation shall be considered a separate offense. The owner of any lands or parts thereof where anything in violation of these regulations shall be placed or shall exist, or any builder, contractor or agent of the owner who may have assisted in the commission of any such violation, shall be guilty of a separate offense.
+(b)
+In any case in which any land is or is proposed to be used in violation of these regulations, the city attorney or any owner of real estate may, in addition to other remedies provided by law, institute injunction, abatement, or any appropriate action or proceeding to prevent, enjoin or abate such unlawful use.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Secs. 17-8, 17-9. - Reserved.
+ARTICLE II. - PROCEDURE
+DIVISION 1. - PREREQUISITES AND OTHER REQUIREMENTS
+
+Sec. 17-10. - Perequisites to grading and/or building permits.
+(a)
+Any person proposing to subdivide land within the city shall conform to the comprehensive plan and its elements, the zoning ordinance of the City of College Park, any specific plans, and all policies of the city, or any part thereof, including but not limited to the type, density, and intensity of use established for the site, any phasing requirements, and reservations of utility and infrastructure service capacities.
+(b)
+No subdivider shall proceed with any construction work on a proposed subdivision before obtaining approval from the planning commission.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-11. - Commencement of construction work.
+Subsequent to the approval of the civil plans, the developer may commence construction work in accordance with either of the following:
+(1)
+The improvements may be installed per the approved plans and then the final plat may be recorded; or
+(2)
+Prior to installation of the improvements, a bond or other suitable financial security sufficient to cover the cost of all improvements shall be submitted to the city engineer; the developer shall enter into a subdivision agreement to be approved and accepted by the mayor and council; and the final plat is recorded.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-12—17-19. - Reserved.
+DIVISION 2. - PRELIMINARY PLATS
+
+Sec. 17-20. - Preliminary plats.
+The procedures set forth in this Division 2 for preliminary plats shall apply to all subdivisions, parts of subdivisions or any division of land.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-21. - Pre-application review.
+(a)
+When a subdivision is contemplated, the subdivider may submit sketch plans and other information which shall indicate the nature and workability of the proposed subdivision, for informal consideration by the city engineer. The purpose of this review is to acquaint the subdivider of city plans and policies that might be significant to the proposed subdivision.
+(b)
+No fee shall be charged for pre-application review.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-22. - Application for preliminary plat approval.
+Whenever any subdivision is proposed to be made, the subdivider shall submit to the city engineer an application for preliminary plat approval, which shall consist of:
+(1)
+A plat and other information, as specified in section 17-24; and
+(2)
+A filing fee, as set forth by the mayor and council pursuant to resolution.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-23. - Compliance with Chapter 5, section 5-6.
+No preliminary or final plat submitted to the city engineer by a person desiring to subdivide, in whole or in part, a single-family residential lot shall be approved under the provisions of this chapter, unless the person applying for such subdivision, in addition to any applicable provisions in this Code, has complied with the provisions of section 5-6.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-24. - Data and design required.
+The preparation of any preliminary plat shall comply with all applicable provisions of this chapter and, at a minimum, shall include the following data:
+(1)
+Vicinity plat that depicts the location of the property from nearest arterial road. This vicinity plat is a directional aid only.
+(2)
+Name and address of owner of record and subdivider.
+(3)
+Name, address and license number of licensed land surveyor, registered civil engineer or other qualified professional who prepared the preliminary plat.
+(4)
+Date, north point arrow and scale. Maximum scale: one (1) inch = one hundred (100) feet for parcels more than twenty (20) acres and one (1) inch = fifty (50) feet for parcels less than twenty (20) acres. Minimum plat: size eighteen (18) inches by twenty-six (26) inches (18″ × 26″).
+(5)
+Name or number of proposed subdivision, and of all adjacent subdivisions; locations of names and width of adjacent streets, highways, alleys and ways, and easements of all kinds, together with the type and location of street improvements including fire hydrants, curbs, gutters, sidewalks, walkways and street light locations.
+(6)
+Contour of the land at intervals of one (1) foot of elevation up to five (5) percent slope; two-foot intervals up to ten (10) percent slope and five-foot intervals over ten (10) percent slope.
+(7)
+Sufficient data to define the boundaries of the tract or a legal description of the tract and border.
+(8)
+Width, approximate location and purpose of all existing and proposed easements and adjacent easements adjoining such land.
+(9)
+Width, approximate grade and name of all streets, highways. alleys and of the rights-of-way proposed within the subdivision.
+(10)
+Approximate radii of all curves.
+(11)
+All lots numbered consecutively by block throughout the entire development; the approximate dimensions of all lots; approximate lot areas should be shown for all lots not rectangular in shape.
+(12)
+Approximate locations of areas subject to inundation by storm water overflow, and the location, width and direction off flow of all water courses existing and proposed.
+(13)
+Location and footprint to scale of each existing building or structure including underground utilities within the subdivision, noting thereon whether or not such building or structure is to be removed or remain in the development of the subdivision, and its existing and proposed future use.
+(14)
+Elevation of street intersections.
+(15)
+Location, pipe size and grades of proposed sewers, water lines and underground storm drains, including the proposed location of fire hydrants, street lights, gas mains, power and communication lines, and TV cables.
+(16)
+Location of all trees on the site over ten (10) inches in diameter at a height of four and one-half (4½) feet from the ground at the base of the tree. Where stands of trees are located, individual trees need not be shown, but may be shown as a group.
+(17)
+Location of existing fences, ditches, wells, pumps, cesspools, reservoirs, sewers, culverts, drain pipes, underground structures, utility lines or sand, gravel or other excavation within two hundred (200) feet of any portion of the subdivision, noting thereon whether they are to be abandoned or used.
+(18)
+Typical street sections and details as indicated in the Fulton or Clayton County specifications.
+(19)
+All major cross sections of all cuts and fills before and after grading to determine the scope of the work involved, including the estimate of contemplated earth work.
+(20)
+If the preliminary plat or the final plat indicates any grading which involves a removal of earthen material from the proposed subdivision, the subdivider shall show the elevations of the property by contour lines. The subdivider shall file with the preliminary plat a written application for grading and excavation, if any, in conformity with the provisions of the City Code. Original elevations shall be indicated by solid lines not greater than five (5) feet, and the proposed elevations shall be shown by broken lines upon completion of the grading and excavation.
+(21)
+Proposed public areas, if any.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-25. - Additional requirements.
+Accompanying, or on the preliminary plat shall be statements and reports by the subdivider as follows:
+(1)
+Existing zoning and existing and proposed use or uses.
+(2)
+Soil tests by a registered geotechnical engineer as required by this chapter.
+(3)
+Intention of subdivider to control erosion and improvements to be constructed, as required by this chapter and any other applicable ordinances of the city.
+(4)
+Building setback lines.
+(5)
+Proposed source of water supply and method of sewage disposal and availability.
+(6)
+Proposed type of tree planting and landscaping including indication of any existing trees to be removed or left in place.
+(7)
+Proposed public areas to be dedicated or scenic easements proposed.
+(8)
+Type and location of street lighting proposed in conformance with the adopted standards of the city.
+(9)
+Preliminary title report prepared by a qualified title insurance firm.
+(10)
+Justification and reasons for any exceptions to provisions of this chapter.
+(11)
+The subdivider shall submit with the preliminary plat, a copy of a letter to each serving utility and agency requesting submission of utility easement requirements and a copy of the reply of each affected utility and agency.
+(12)
+A geological report shall be required in any area, so determined by the city engineer, where there are known geological hazards.
+(13)
+Existing conditions, restrictive reservations or covenants, and any which a proposed.
+(14)
+Any additional information as may be deemed necessary by the city planner and/or the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-26. - Filing requirements.
+(a)
+The subdivider shall submit to the secretary of the planning commission, fifteen (15) copies of the preliminary plat and any statements or other information required by this article relating to the proposed subdivision of land. All submissions shall be presented to the secretary of the planning commission at least thirty (30) days prior to the planning commission meeting, together with a fee set by resolution of the mayor and council.
+(b)
+The city planner and the city engineer shall review all preliminary plat applications and supporting information to determine whether all necessary information has been submitted. Within thirty (30) days of receipt of any such plat, the city planner shall notify the applicant, indicating whether the application is complete. Any parts which are incomplete shall be specified and the manner in which they can be made complete shall be indicated. In the case of any subdivision which requires the preparation of an environmental impact statement (EIS), negative declaration or is categorically exempt, no application shall be deemed complete until a professional environmental engineer of the developer has certified the EIS or negative declaration to be adequate or the project qualifies for a categorical exemption. The date upon which notice is given to the applicant that the application is complete shall be deemed the date of filing of the application; provided that, if at any stage of processing the plat, a professional environmental engineer of the developer determines that an EIS or negative declaration is required, the date of filing shall be revised to the date upon which that EIS or negative declaration is required, the date of filing shall be revised to the date upon which that EIS or negative declaration is certified by a professional environmental engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-27. - Findings for denial of a preliminary plat.
+The planning commission shall deny a preliminary plat upon any of the following findings:
+(1)
+That the proposed preliminary plat is not consistent with the city's comprehensive plan or its elements or other applicable plans or the city's zoning ordinance.
+(2)
+That the design or improvement of the proposed subdivision is not consistent with the city's comprehensive plan or its elements or any other applicable plans.
+(3)
+That the design of the subdivision or the proposed improvements is likely to cause substantial environmental damage or substantially and avoidably injure fish or wildlife or their habitat.
+(4)
+That the design of the subdivision or the type of improvements is likely to cause serious public health problems.
+(5)
+That the design of the subdivision or the type of improvements will conflict with easements acquired by the public at large for access through or use of property within the proposed subdivision. In this case, the planning commission may approve a preliminary plat upon a finding that alternate easements, for access or for use, will be provided, and that these will be substantially equivalent to one previously acquired by the public.
+This subsection shall apply only to easements of record or to easements established by judgment of a court of competent jurisdiction and no authority is hereby granted to the mayor and council to determine that the public at large has acquired easements for access through or use of property within the proposed subdivision.
+(6)
+That the discharge of waste water, including sewage and storm water runoff from the proposed subdivision would result in a violation of existing water quality requirements prescribed by EPD.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-28. - Expiration and extensions of time
+(a)
+Except as may otherwise be provided in this chapter, a final plat shall be submitted for processing within twelve (12) months from the date of final action by the planning commission to approve or conditionally approve a preliminary plat.
+(b)
+Where the city engineer determines that a subdivider is required to expend one hundred twenty-five thousand ($125,000.00) or more to construct or improve public facilities outside the boundaries of the preliminary plat that are reasonably related to the proposed development on the site, final plat shall be submitted for processing within thirty-six (36) months from the date of final action by the planning commission to approve or conditionally approve a preliminary plat.
+(c)
+The planning commission may extend the expiration date of any preliminary plat for not more than twelve (12) months at any one time. A maximum of two (2) such extensions may be granted.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-29. - Shortcut procedure.
+The provisions of sections 17-22 and 17-26 may be waived and the subdivider may submit an application for final plat approval, without submitting a preliminary plat, if the following conditions exist:
+(1)
+Each lot in the proposed subdivision abuts an existing public street;
+(2)
+The proposed subdivision will not effect any major alterations of utility installations, or other existing or proposed public facilities; and
+(3)
+The application for final plat approval meets all the applicable procedural, design and other requirements of these regulations.
+(4)
+A subdivider intending to proceed in accordance with subsection (3) shall first consult with the city engineer, supplying sufficient information to satisfy the city engineer that the specified conditions will be met.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-30. - Plat certificates.
+(a)
+Before submitting a preliminary plat. the subdivider shall have the following certificates signed by the appropriate authority, with the following language:
+(1)
+Preliminary engineering or surveying certificate: "I hereby certify that this proposed preliminary plat correctly represents boundary of a survey completed by me, or under my supervision, on _______, 20___, of the property shown and described hereon.
+_____ Registered C. E. No. _____
+or
+_____ Registered L. S. No. _____
+_____
+Date"
+(2)
+Request for preliminary plat approval: "The undersigned hereby applies to the College Park Planning Commission for preliminary plat approval, and certifies that no improvements shall be undertaken with respect to the subdivision represented by this plat prior to the endorsement hereon of preliminary plat approval by the planning commission. The undersigned recognizes that all improvements otherwise made or commenced may not be approved by the city engineer.
+EXPAND
+_____ _____
+Subdivider Agent
+_____ _____
+Date Date"
+  (3)
+Certificate of preliminary plat approval: "All the requirements of the College Park subdivision regulations relative to the preparation and submission of a preliminary plat having been fulfilled, preliminary approval of this plat hereby granted subject to the further provisions of such regulations. This certificate shall expire ______________, 20 ___.
+Approved
+_____
+Planning Commission Secretary, College Park
+PRELIMINARY PLAT NOT TO BE RECORDED"
+(b)
+Before a final plat has been submitted to the city engineer, the subdivider shall have had stamped or printed thereon, and signed, the following:
+(1)
+Permit for final improvements: "Preliminary subdivision improvements having been made in accordance with the College Park subdivision regulations and city specifications, and the attached plat and drawings conforming with such regulations and specifications, permission is hereby granted for installation of final improvements.
+___________, 20 ___
+City Engineer"
+(2)
+Engineering or surveying certificate: "I hereby certify that this plat true and correct and was prepared from an actual survey of the property made by me or under my supervision; that all monuments shown hereon actually exist or are marked as "Future," and their location, size, type and material are correctly shown.
+_____ Registered C. E. No. _____
+_____ Registered L. S. No. _____       :
+_______, 20___"
+(3)
+Owner's acknowledgment:
+"State of Georgia
+County of Fulton/Clayton
+The owner of the land shown on this plat and whose name is subscribed hereto, in person or through a duly authorized agent, dedicates to the use of the public forever, all streets, easements and other public grounds shown on such plat.
+EXPAND
+_____ _____
+Owner Agent
+_____ _____
+Date Date"
+  (4)
+Certificate of final plat approval: "Pursuant to the provisions of the College Park subdivision regulations, this plat was given final approval by the College Park Planning Commission at the meeting held _________, 20___. All of the conditions of approval having been satisfied, this plat is hereby accepted and this approval granted under authority of such regulations.
+EXPAND
+_____ _____
+Planning Commission Secretary Date"
+  (5)
+Certificate of recording.
+(Ord. No. 2007-20, § 1, 4-3-07)
+DIVISION 3. - FINAL PLATS
+
+Sec. 17-31. - Filing.
+(a)
+The subdivider shall cause the subdivision or any substantial part thereof to be surveyed and a final plat to be prepared in conformance with the preliminary plat as approved or conditionally approved, within twenty-four (24) months after approval or conditional approval of the plat. If the subdivider fails to comply with these requirements within twenty-four (24) months after approval or conditional approval of the plat, the preliminary plat approval shall expire.
+(b)
+The compact disc and two (2) blue line or black line prints of the final plat shall be filed with the city engineer, together with a plat checking fee set by resolution of the mayor and council to be paid to the city engineer. Prior to the recording of the final plat with the clerk of the superior court of the county, the permanent reproducible final plat shall bear all required signatures and the civil engineer's seal.
+(c)
+An extension of time, for the filing of a final plat, may be granted by the planning commission, provided that written application for such extension is made by the subdivider prior to expiration of the preliminary plat. The planning commission may grant an extension for not more than twelve (12) months. The planning commission may grant no more than two (2) such extensions.
+(d)
+At the time of the filing of the final plat with the city engineer, the subdivider shall also file the following:
+(1)
+Four (4) recordable instrument prohibiting traffic over the side lines of a major highway, parkway, street or freeway, when and if required under the provisions of this chapter. A dedication of a planting strip may be accepted as a satisfactory alternative.
+(2)
+A copy of the deed restrictions and covenants applicable to the subdivision.
+(3)
+Sheets or drawings showing traverse closures and the computation of all distances, angles and courses shown on the final plat, ties to existing and proposed monuments and adjacent subdivisions, street corners, and/or highway stations.
+(4)
+Two (2) copies of infrastructure civil plans.
+(5)
+Subdivision agreement.
+(6)
+The minutes of the meeting of the planning commission approving the final plat and any conditions of approval.
+(7)
+A title report of the property to be subdivided.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-32. - Form of final plat.
+The final plat, when submitted, shall comply with the following specifications.
+(1)
+Clearly and legibly drawn upon reproducible media. All lines, letters, figures, certifications acknowledgments and signatures shall be made in black ink. Typewriting or rubber stamps shall not be used. The plat shall be in such condition, when filed, that good legible blueprints and negatives can be made. The size of the sheets of reproducible media shall be eighteen by twenty-six (18 × 26) inches leaving a margin of two (2) inches at the left edge and one (1) inch at the other three (3) edges of the sheets. The scale of the final plat shall be large enough and a sufficient number of sheets shall be used to show all details clearly.
+(2)
+When the final plat consists of more than two (2) sheets, the relation of sheets shall be indicated by note. Every sheet comprising the plat shall bear the scale, north point arrow, legend, sheet number and number of sheets comprising the plat.
+(3)
+The final plat shall show clearly what stakes, monuments or other evidence found on the ground or set to determine the boundaries of the subdivision. The corners of all adjoining subdivisions shall be identified by lot and block numbers, subdivision name and place of record, and other proper designation.
+(4)
+Sufficient data must be shown to readily determine the bearing and length of every lot line, block line and boundary line and shalt be shown in feet and hundredths of a foot. No ditto marks shall be used. Lots containing one (1) acre or more shall show total acreage to the nearest hundredth. Bearing and lengths of straight lines, and radii and arc length for all curves as may be necessary to determine the location of the center of curves and tangent points shall be shown. No lot shall be dimensioned to contain any part of an existing or proposed public right-of-way.
+(5)
+The final plat shall be prepared in full compliance with the following requirements:
+a.
+Show the line of high water for the 100-year flood where the subdivision is adjacent to a stream, channel or any body of water and shall also show any area subject to periodic inundation by water.
+b.
+The boundary of the subdivision shall be designated by a border that shall not interfere with the legibility of figures or other data.
+c.
+Show the lines of all streets and rights-of-way, the total width of all streets and rights-of-way, the width of the portion being dedicated, the width of existing dedications, and the width of any railroad rights-of-way appearing on the plat. Each street shall be named.
+d.
+Show the side lines of all easements to which the lots are subject. The easements must be clearly labeled and identified and if already of record, the recorded reference given. If any easement is not definitively labeled of record, a statement of such easement must appear on the title sheet. Easements for storm drains, sewers and other purposes shall be denoted by dashed lines. The width of the easement and sufficient datum ties to definitively locate the easement with respect to the subdivision must be shown. If the easement is being dedicated by the plat, it shall be properly referenced in the owner's certificates of dedication.
+e.
+City limit crossing or bounding the subdivision shall be clearly designated and referenced.
+f.
+Lot numbers shall begin with the number "1" in each block and shall be numbered in a clockwise direction from the upper left hand corner; north shall be generally at the top of the sheet of the final plat.
+g.
+Block numbers shall begin with the letter "A" continuing consecutively without omission or duplication throughout the subdivision. The letters shall be solid and of sufficient font size and line weight, shall be so placed as not to obliterate any fixture and shall be enclosed in a circle. Where adjoining blocks appear on separate sheets, the street adjoining both blocks shall be shown on both sheets with complete property line data.
+h.
+Specifically define, delineate and designate all lots intended for sale or reserved for private purposes. all parcels offered for dedication for any purpose, public or private, with all dimensions, boundaries, and courses clearly shown and defined in every case.
+i.
+Show all other data that is or may be required by law, and any additional information that may be required by the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec 17-33. - Certificates and tax bond.
+The following certificates and acknowledgments and all other certificates or acknowledgements now or hereafter required by law shall appear on the final plat or accompanying documents. Such certificates may be combined where appropriate.
+(1)
+Certification of owner(s) of record. Except as may be noted in subsection (2) below, a certificate signed and acknowledged by the owner or owners of record.
+(2)
+Exceptions to owner's certification. The signatures of parties owning following types of interest may be omitted if their names and the nature of their interests are set forth on the plat:
+a.
+Rights-of-way, easements or other interests, none of which can ripen into a fee.
+b.
+Rights-of-way, easements or reversions, which by reason of changed conditions, long disuse or lapses, appear to be no longer of practical use or value and signature for which is impossible or impractical to obtain in this case, a reasonable statement of the circumstances preventing he procurement of the signature shall be set forth on the plat.
+c.
+Any subdivision plat including land originally patented by the United States or the State of Georgia, under patent reserving interest to either or both of these entities, may be recorded under the provision of this Code without the consent of the United States or the State of Georgia.
+(3)
+Dedication certificate. A certificate signed and acknowledged as above, irrevocably offering for dedication all parcels of land shown on the final plat and intended for any public use, except those parcels other than streets, which are intended for the exclusive use of the owners in the subdivision, their licensees, visitors, tenants and employees.
+(4)
+Design engineer's certificate. A certificate by the registered civil engineer or licensed surveyor responsible for the survey and final plat. The signature of such civil engineer or surveyor must be accompanied by seal, and include the date of license expiration.
+(5)
+City engineer or surveyor certification. A certificate for execution by the city engineer, including the state license number and date of expiration of the license.
+(6)
+Planning commission secretary's certification. A certificate for execution by the planning commission secretary stating that the planning commission approved the final plat. Such certificate must also include a certification that the mayor and council accepted, subject to improvement, or rejected, on behalf of the public, any real property offered for dedication for public use in conformity with the terms of the offer of dedication.
+(7)
+Certificate of clerk of the superior court. A certificate for execution by the county clerk.
+(8)
+Reapportionments. Where any property is encumbered by assessments or similar instruments secured by the property, the subdivider shall prepare or cause to be prepared any assessment reapportionments necessary for the parcel. The reapportionments shall conform to the lots created by the subdivision such that each lot shall be a separate reapportionment. Prior to recording the final plat, the subdivider shall submit any and all completed reapportionment diagrams and legal documents to the city engineer for review, distribution, and recording.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-34. - Action on final plat.
+(a)
+Approval by city engineer. Upon receipt of the final plat and other data, the plat and data shall be referred to the city engineer who shall determine:
+(1)
+Whether the subdivision as shown is substantially the same as appeared on the preliminary plat, with any approved alterations; and
+(2)
+That all provisions of the conditions of approval and this chapter applicable at the time of approval of the preliminary plat have been met; and
+(3)
+That the plats are technically correct.
+Upon determination by the city engineer that full conformity has not been made, the city engineer shall notify the subdivider of the revisions needed. Upon determination by the city engineer that full conformity has been made, the city engineer shall certify conformity on the plat and transmit the plat to the planning commission secretary.
+(b)
+Approval by planning commission. At its first regular meeting, following the filing of the certified plat with the planning commission secretary, or within thirty (30) days following the filing, the planning commission shall consider the certified plat.
+(1)
+Upon determination by the planning commission that the certified plat is in conformity with the preliminary plat, the conditions of approval and this chapter, the planning commission shall approve the plat. When the subdivider has filed, with the planning commission secretary, any agreement and bonds or deposits required, and such agreement and bonds and deposits have been approved by the city attorney and the city engineer, the planning commission secretary shall certify the plat. When all bonds, money or negotiable bonds, required under the provisions of this Code to secure the payment of taxes and assessments which are a lien on some part of the subdivision but which are not yet payable, have been deposited with and approved by the planning commission secretary, the planning commission secretary shall transmit the final plat to the subdivider for recording in the office of the clerk of the superior court of the county.
+(2)
+Upon determination by the planning commission that the plat is not in conformity with the requirements of this chapter, it shall deny the plat, specifying its reasons. The planning commission secretary shall, in writing, notify the subdivider.
+(3)
+Within thirty (30) days of denial of any plat by the planning commission, the subdivider may file an altered plat for approval by the planning commission. No plat shall have any force or effect until the final plat has been approved by the planning commission and recorded in the office of the clerk of the superior court of the county, and no title to any property described in any offer of dedication shall be transferred until the recording of the final plat.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-35. - Subdivision agreement and performance, payment, and surety bond for improvements required.
+(a)
+Prior to consideration of the final plat by the planning commission, the subdivider shall execute a subdivision agreement with the city. The agreement shall provide for installation of all improvements as shown on the approved plans and specifications for the project, and specify the time period within which the subdivide, agent or contractor shall complete all improvement work to the satisfaction of the city engineer. In the event the subdivider fails to complete such work within the specified period, the agreement shall include provisions for the city to complete all improvements and recover the full cost and expense from the subdivider. Such agreement may also provide the following:
+(1)
+Construction of the improvements in phases, if applicable and approved by the mayor and council.
+(2)
+An extension of time under conditions specified.
+(3)
+Termination of the agreement for the construction of improvements deemed by the city engineer to be at least the equivalent of the improvements specified in the subdivision agreement and required to be constructed by the subdivider.
+(b)
+To assure full and faithful performance, the subdivider shall also file with the subdivision agreement:
+(1)
+A financial security for such sum, as is deemed sufficient by the city engineer, to cover the cost of improvements and incidental expenses, replacement or repair of existing streets, other improvements damaged in the development of the subdivision, and any applicable fees.
+(2)
+A labor and materials bond and a separate warranty/surety bond in amounts satisfactory to the city engineer. Such bonds shall be executed by a surety company authorized to transact a surety business in the State of Georgia and must be satisfactory to and approved by the city attorney as to form and by the city engineer as to sufficiency.
+(c)
+The city shall be reimbursed by the surety for the following occurrences:
+(1)
+Failure of the subdivider to complete all improvement work in accordance with the provisions of this chapter, and the city completes such work; or
+(2)
+Failure of the subdivider to reimburse the city for the cost of inspection, engineering and incidental expenses for the work performed; or
+(3)
+The cost of replacement and repair of existing streets or other improvements damaged in the development of the subdivision.
+If the amount of the surety bond or cash deposit is less than all costs and expenses incurred by the city, the subdivider shall be liable to the city for such difference, plus applicable attorneys' fees.
+(d)
+No extension of time, progress payments from cash deposits, or releases of surety bond or cash deposit shall be made except upon certification by the city engineer that work covered has been satisfactorily completed, and upon approval of the mayor and council.
+(e)
+Any performance bond filed with the city engineer must contain a provision for the maintenance by the subdivider of all installations and improvements required by these regulations in the subdivision for a period of two (2) years following the date of acceptance of the streets and other public lands by the governing body.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-36. - Revocation of approvals.
+In the event no lots in a subdivision for which a final plat has been approved and recorded under this chapter have been sold within five (5) years from the date of recording of the final plat or if all of the required improvements have not been made within two (2) years from the date of recording, the mayor and council may, on its own motion, hold a public hearing, after notice to all property owners affected, to determine whether the approval of such final plat should be revoked. If it is determined that such approval should be revoked, the mayor and council shall, by resolution, revoke such approval without prejudice to the filing of a new plat pursuant to this chapter. Such revocation shalt be effective upon recording of a certified copy of such resolution in the county and all streets, ways and other easements dedicated or offered for dedication by such plat shall be of no further force or effect.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-37—17-39. - Reserved.
+ARTICLE III. - DESIGN AND IMPROVEMENT STANDARDS
+DIVISION 1. - DESIGN STANDARDS.
+
+Sec. 17-40. - Streets and highways.
+(a)
+The streets and highways to be provided or improved within or adjacent to any proposed division of land, shall conform both in width and alignment to the transportation element of the comprehensive plan or any other specific plans as adopted by the mayor and council. Rights-of-way for any such street or highway indicated on the comprehensive plan shall be dedicated for public use.
+(b)
+New streets and highways not shown in the comprehensive plan shall not be of less width than the standards set forth in the transportation element for similar streets and highways to accommodate future traffic volumes unless approved by the mayor and council upon the positive recommendation of the city engineer.
+(c)
+Increased widths may be required when warranted by projected traffic conditions. Approval of determination of street or highway classification shall be made by the city engineer.
+(d)
+New streets and highways to be provided or improved within or adjacent to any proposed division of land shall conform with the International Fire Code as adopted and amended by the city to allow for fire apparatus access.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-41. - Continuation of existing streets.
+All streets shall, as far as practicable be in alignment with existing adjacent streets by continuations of the center lines thereof or by adjustments by curves and shall be in general conformity with the adopted comprehensive plan for the most advantageous development of the area in which the subdivision lies.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-42. - Intersections.
+Streets shall be required to intersect one another at an angle as near to a right angle as is practicable.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-43. - Street stubs.
+Where necessary to give access to, or permit a satisfactory future subdivision of adjoining land, streets shall extend to the boundary of the property and the resulting dead-end streets shall have a temporary turn-around. Control of access across such dead-end street shall be vested in the city by dedication of a one (1) foot non-access strip across the entire right-of-way width. In all other cases, a turn-around having a minimum radius of forty-five (45) feet shall be required.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-44. - Street jogs.
+Intersections with centerline offsets of less than two hundred (200) feet shall not be permitted.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-45. - Intersection corner rounding.
+Whenever an arterial street or state highway intersects any other street or highway, the property lines at each block corner shall be rounded with a curve having radius of not less than thirty (30) feet. On all other street intersections, the property line at each block corner shall be rounded with a curve having a radius of not less than twenty (20) feet. In either case, a greater curve radius may be required if streets intersect other than at right angles.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-46. - Curve radius.
+The center line curve radius on all streets and highways shall conform to accepted engineering standards of design and shall be subject to approval by the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-47. - Grades of streets and highways.
+The maximum grade on streets and highways shall be ten (10) percent unless topographical conditions or other exceptional conditions are required and the city engineer determines that a grade in excess thereof is necessary. The minimum grade shall be one-half (½) percent. Any grade in excess of ten (10) percent shall be reviewed by the College Park Fire Department and may be approved by mayor and council upon the positive recommendation of the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-48. - Reserve strips.
+Reserve strips controlling the access to public ways will not be approved unless such strips are necessary for the protection of the public welfare or of substantial property rights, or both, and in no case unless the control and disposal of the land comprising such strips is placed definitively within the jurisdiction of the city under conditions approved by the mayor and council.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-49. - Acre or large lot subdivisions.
+Where a parcel is subdivided into lots of one (1) acre or more, the planning commission may require that the blocks shall be of such size and shape, and be so divided into lots, as to provide for the extension and opening of streets and alleys at such intervals that will not preclude a subsequent division of any parcel into lots.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-50. - Street names.
+Prior to approval of any preliminary plat, the College Park Chief of Police and the College Park Fire Department Fire Chief shall approve all street names.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-51. - Public utility easements.
+Unless otherwise approved by mayor and council upon the positive recommendation of the city engineer, the subdivider shall grant easements not less than twenty (20) feet in width for public utilities, including but not limited to sanitary sewer, water, communications, and energy as may be necessary. Such easements may be located along each lot line, parallel to the front property line or the back of sidewalk in planting strips, in common areas of a subdivision. Dedication of easements shall be to the city for the purposes as may be ordered by mayor and council upon the positive recommendation of the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-52. - Storm drain easements.
+Unless otherwise approved by mayor and council upon the positive recommendation of the city engineer, the subdivider shall grant storm drain easement of not less than twenty (20) feet in width as may be necessary. Dedication of easements shall be to the city for the purposes as may be ordered by mayor and council upon the positive recommendation of the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-53. - Block design.
+Residential blocks shall not be greater than fifteen hundred (1,500) feet in length, or less than three hundred (300) feet in length. In blocks over one thousand (1,000) feet long, the planning commission may, when existing or proposed public gathering places so justify, require public crosswalks across the block.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-54. - Lot design.
+(a)
+The side lines of all lots, so far as possible, shall be at right angles to street which the lot faces, or radial or approximately radial if the street is curved. Each lot shall abut upon a public street.
+(b)
+The size, shape and orientation of every lot shall be subject to approval of the planning commission for the type of development and use contemplated. No lot shall be more than six (6) times as deep as it is wide at the building setback, without specific approval by the planning commission.
+(c)
+Corner lots shall have extra width to permit appropriate building setback from and orientation to both streets.
+(d)
+Lot remnants (parcels of land below minimum lot area or width left over after subdividing) shall be prohibited. Such remnant areas shall be added to adjacent lots, rather than remain as unusable parcels.
+(e)
+In subdividing land adjacent to or surrounding an existing or proposed lake, the lot lines of lots abutting the lake shall be drawn to the centerline of the lake. Such requirement may be waived upon approval by the planning commission of an alternative method for ensuring proper maintenance of the lake and any recreational operations to be provided thereon.
+(f)
+No new lot created subsequent to the effective date of this chapter shall be divided by a city boundary line.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-55. - Lot frontage on two (2) streets—Through lots.
+Lots, other than corner lots, shall not face on more than one (1) street unless there is a reserve strip.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-56. - Trails and walkways.
+The subdivider may be required to dedicate and improve trails and walkways having a minimum width of ten (10) feet within blocks exceeding eighty (80) feet in length or to provide access to schools, parks, open spaces or other public areas, and where such trails or walkways are shown on any plat or diagram in the comprehensive plan and any of its elements or any adopted plan of the city.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-57. - Watercourses.
+Unless otherwise approved by the city engineer, the subdivider shall dedicate an easement for storm drainage purposes conforming substantially with the lines of any natural watercourse or channel, stream, or creek within or contiguous with any subdivision, or at the option of the subdivider provide by dedication further and sufficient easements or construction, or both, to dispose of such surface and storm waters.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-58. - Land subject to inundation.
+Any portion of any land within the boundaries shown on any subdivision plat subject to overflow, inundation, or flood hazard by storm waters, shall be noted and said portion shall be clearly shown on such final plat enclosed in a border on each sheet of the plat. Further, adequate storm drain system and/or levees, dikes and pumping system is shall be provided to the satisfaction of the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-59. - Special provisions for lands of ten (10) per cent or greater slope.
+In the event a subdivision application is filed for any property with slopes of ten (10) percent or greater, the following information shall be provided:
+(1)
+A grading plan must be submitted with the preliminary plat. with the following:
+a.
+Existing contours at a maximum interval of five (5) feet.
+b.
+Proposed finished contours at a maximum interval of five (5) feet.
+Finished contours shall show the following:
+ii.
+Tops of all banks and toes of all slopes.
+ii.
+All side banks must be benched horizontally ten (10) feet for every vertical twenty-five (25) feet change in elevation.
+iii.
+Maximum fill slopes two horizontal to one vertical (2:1).
+iv.
+Maximum cut slope two horizontal to one vertical (2:1). Special conditions may require flatter slopes, if determined to be necessary by the city engineer.
+v.
+Maximum height of a cut bank fifty (50) feet vertical; of a fill bank twenty-five (25) feet vertical.
+c.
+Lot drainage shall be so arranged that water from upper lots does not flow across banks unless carried in a storm sewer or similar feature as otherwise may be approved by the city engineer.
+d.
+Estimate of the cubic yardage to be imported or exported.
+e.
+Earth shall not be exported from the site without specific approval of the mayor and council. Necessity for substantial earth removal from the site must be demonstrated before any radical grading will be permitted. All haul routes and the disposal sites shall be approved by the mayor and council.
+f.
+Sufficient topsoil shall be stockpiled and returned to horizontal cut areas to cover a minimum of eight (8) inches.
+g.
+Fill must have a certified relative compaction of ninety-five (95) percent State of Georgia, Division of Highways Test Methods 216-9 unless otherwise approved by the city engineer.
+h.
+Rear and side lot lines shall occur at tops of banks rather than at center or toe of bank unless otherwise approved by the city engineer.
+i.
+Adequate erosion control measures not limited to seeding.
+j.
+Driveway to garage or carport shall not exceed ten (10) percent grade unless specifically approved by the city engineer.
+(2)
+Streets.
+a.
+Maximum street grade shall for all streets shall be ten (10) percent unless otherwise approved by the city engineer.
+b.
+Vertical curbs shall be required on slopes of over five (5) percent grade, unless otherwise approved by the city engineer.
+c.
+Cul-de-sacs.
+i.
+Property line radius at bulb of cul-de-sac shall be forty (40) feet minimum unless otherwise approved by the city engineer and the city fire chief.
+ii.
+Minimum lot frontage at property line in bulb of cul-de-sacs shall be thirty-five (35) feet unless otherwise approved by the city engineer and the city fire chief.
+iii.
+Minimum lot width measured along setback line of lots in bulb of cul-de-sac shall be sixty (60) feet unless otherwise approved by the city engineer.
+iv.
+Overall cul-de-sac maximum length shall be eight hundred (800) feet unless otherwise approved by the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-60. - Underground utilities.
+All utilities shall be installed underground in accordance with the provisions of the College Park Municipal Code. All underground utilities shall be installed before preparation of sub-grade for paving or any other site improvements that may effect the orderly installation of the underground utilities.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-61. - Street lights.
+Street lighting shall be installed throughout the subdivision in accordance with College Park Power Department Standards.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-62—17-69. - Reserved.
+DIVISION 2. - IMPROVEMENT STANDARDS
+
+Sec. 17-70. - Standard specification conformance.
+All improvements mentioned in this chapter shall conform to the requirement of the city engineer and to the requirements of the "City of College Park Public Works Department Engineering Standard Plans and Specifications for Public improvements" (Engineering Standards), copies of which are on file in the office of the city engineer. Every subdivider at such subdivider's own expense shall be required to install, or at such subdivider's own expense to have installed by the appropriate public agency or utility, the physical subdivision improvements specified in this article.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-71. - Civil plans, all subdivisions.
+After approval by the city of any preliminary plat, the subdivider shall furnish the following civil plans to the development director and city engineer as a part of the final plat submitted:
+(1)
+Three (3) sets of civil plans, signed and wet-stamped by a licensed civil engineer, including but not limited to plans and profile drawings of all streets, and sewer, water, and drainage improvements. Utility distribution lines may be shown in plan only.
+(2)
+Two (2) sets of signed engineer's estimate of all proposed public improvement
+(3)
+Two (2) sets of signed engineer's estimate of all proposed private improvements.
+(4)
+Plan check and inspection fee as set by resolution of the mayor and council.
+(5)
+Two (2) copies of soils report.
+(6)
+Two (2) sets of hydraulic and hydrologic calculations for the proposed drainage system.
+(7)
+Two (2) sets of calculations for the proposed sanitary sewer system.
+(8)
+Two (2) copies of the planning commission secretary's notice of approval, preliminary plat, and the list of conditions of approval.
+(9)
+Three (3) copies of a grading plan consisting of typical cross-sections and finished grades of all lots, roads, streets, and highways in the proposed new subdivision.
+(10)
+All tracings or duplicate tracings shall be filed with the city engineer. Scale of plans shall be one (1) inch = forty (40) feet horizontally; one (1) inch = four (4) feet vertical in profile, unless otherwise approved by the city engineer.
+(11)
+Any other pertinent information required by the conditions of approval of the planning commission or city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-72. - As built drawings.
+A reproducible media showing all improvements, including structures, as built shall be filed with the city engineer upon completion of said improvements.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-73. - Improvements to be installed.
+Improvements to be installed by each subdivider shall include the following:
+(1)
+Streets, curbs, gutters sidewalks, and walkways as shown on the preliminary plat as approved by the planning commission.
+(2)
+Sidewalks shall be required in residential areas on each side of every street and shall have a minimum width of five (5) feet. In addition, sidewalks may be required on at least one (1) side of every street in commercial and industrial subdivisions, as well as in major developments which do not meet the definition of a subdivision. Sidewalks in commercial and industrial areas shall have a minimum width of five (5) feet. Sidewalks shall be installed in accordance with standards of the city engineer.
+(3)
+Sidewalks in residential areas shall not be adjacent to street curbs.
+(4)
+Water lines to serve each lot stubbed to property line prior to paving. A "W" shall be stamped or otherwise permanently marked on the curb to identify stub locations.
+(5)
+Sanitary sewers and laterals to serve each lot and stubbed to property line prior to paving. An "S" shall be stamped or otherwise permanently marked on the curb to identify stub locations.
+(6)
+Fire hydrants of a type and size approved by the fire department and in compliance with the International Fire Code, as amended and adopted by the city. Fire flows shall be as approved by the fire department.
+(7)
+Storm drain lines, catch basins, inlets, and channel improvements.
+(8)
+Silt basins or other forms of erosion control when necessary.
+(9)
+Ornamental and safety street lights as required by this chapter and the power department.
+(10)
+Unless otherwise approved by the planning commission and the director of power, street trees shall be installed to the following standards:
+a.
+Not less than one (1) tree per lot with an average spacing of fifty (50) feet on center.
+b.
+The type, size and location shall be approved by the city engineer and indicated on the final plat.
+c.
+Said trees shall be maintained by the developer for a period of one (1) year, to the satisfaction of the city engineer.
+(11)
+Street signs at locations approved by the city engineer.
+(12)
+Street end barricades, walls or facing where required by the city engineer.
+(13)
+Stop or yield signs where street intersects with a major street or at other locations required by the city engineer.
+(14)
+Utility distribution lines, including but not limited to, electric, communications, street lighting and cable television shall be required to be placed underground. The subdivider shall be responsible for complying with the requirements of this chapter, and shall make the necessary arrangements with the utility companies or the installation of such facilities. Minor exceptions to this section may be granted by he College Park Power Department only when requested by the serving utility.
+(15)
+Reclaimed water lines as shown on a reclaimed water master plan or as required by the city engineer.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-74. - Off-site improvements.
+Off-site improvements may be required if determined to be necessary by the public works director and city planner and required by the planning commission as conditions of subdivision approval. The nature and extent of any off-site improvement shall be identified to the maximum extent practical prior to final action by the planning commission on a preliminary plat. The public works director and the city planner may require additional off-site project improvements, but not system improvements, based upon the circumstances of each individual case.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Sec. 17-75. - Monuments.
+The following monuments shall be installed to the satisfaction of the public works director:
+(1)
+Permanent iron pipe monuments of a type approved by the public works director shall be set at each boundary corner of the subdivision, long exterior boundaries at intervals of not over five hundred (500) feet, at the beginning and sd of property line curves, and at any other points as may be required by the public works director.
+(2)
+Concrete monuments installed below street grade with cast iron ring and cover of a type approved by the public works director shall be set at intersections of street center line tangents or offsets, and where such intersect on private property, at the beginning and end of centerline curve and/or offset. The exact location of all such monuments shall be shown on the final plat.
+(3)
+Any monument or benchmark, as required by this Code that is disturbed or destroyed before acceptance of all improvements, shall be replaced by the subdivider.
+(4)
+Monuments and benchmarks shall be set before acceptance of all improvements by the mayor and council.
+(5)
+Iron pins at least one-half (½) inch by twenty-four (24) inches or iron pipes at least three-fourths (¾) inch by twenty-four (24) inches shall be placed at all corners of each lot and driven so as to be set two (2) inches above the finished grade, unless otherwise approved by the public works director.
+(Ord. No. 2007-20, § 1, 4-3-07)
+Secs. 17-76—17-79. - Reserved.
+ARTICLE IV. - CONSERVATION SUBDIVISION/OPEN SPACE DEVELOPMENT[2]
+
+Footnotes:
+--- (2) ---
+Editor's note— Formerly numbered as Art. VII and renumbered by § 2 of Ord. No. 2007-20, adopted April 3, 2007.
+
+Sec. 17-80. - Purpose.
+(a)
+To provide for the preservation of greenspace as a nonstructural stormwater runoff and watershed protection measure;
+(b)
+To provide a residential zoning district that permits flexibility of design in order to promote environmentally sensitive and efficient uses of the land;
+(c)
+To preserve in perpetuity unique or sensitive natural resources such as groundwater, floodplains, wetlands, streams, steep slopes, woodlands and wildlife habitat;
+(d)
+To permit clustering of houses and structures on less environmentally sensitive soils which will reduce the amount of infrastructure, including paved surfaces and utility easements necessary for residential development;
+(e)
+To reduce erosion and sedimentation by minimizing land disturbance and removal of vegetation in residential development;
+(f)
+To promote interconnected greenways and corridors throughout the community;
+(g)
+To promote contiguous greenspace with adjacent jurisdictions;
+(h)
+To encourage interaction in the community by clustering houses and orienting them closer to the street, providing public gathering places and encouraging use of parks and community facilities as focal points in the neighborhood;
+(i)
+To encourage street designs that reduce traffic speeds and reliance on main arteries;
+(j)
+To promote construction of convenient landscaped walking trails and bike paths both within the subdivision and connected to neighboring communities, businesses, and facilities to reduce reliance on automobiles;
+(k)
+To conserve scenic views and reduce perceived density by maximizing the number of houses with direct access to and views of open space; and
+(l)
+To preserve important historic and archaeological sites.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-81. - Applicability.
+This conservation subdivision option is available as a use by right in the zoning districts listed and referenced in the most recently adopted zoning ordinance. Applicant shall comply with all other provisions of the zoning code and all other applicable laws, except those that are incompatible with the provisions contained herein.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-82. - Definitions.
+(a)
+Open space. The portion of the conservation subdivision that has been set aside for permanent protection. Activities within the open space are restricted in perpetuity through the use of an approved legal instrument.
+(b)
+Best management practices. A collection of structural practices and vegetative measures which, when properly designed, installed and maintained, will provide effective erosion and sedimentation control and assist in the preservation of open space.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-83. - Ownership of development site.
+The tract of land to be subdivided may be held in both single and separate ownership or in multiple ownership. If held in multiple ownership, however, the site shall be developed according to a single plan with common authority and common responsibility.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-84. - Housing density determination.
+The maximum number of lots in the conservation subdivision shall be determined by either of the following two (2) methods, at the discretion of the city planner:
+(a)
+Calculation: The maximum number of lots is determined by dividing the area of the tract of land by the minimum lot size specified in the underlying zoning. In making this calculation, the following shall not be included in the total area of the parcel:
+(1)
+Slopes over twenty-five (25) percent of at least five thousand (5,000) square feet contiguous area;
+(2)
+The 100-year floodplain;
+(3)
+Bodies of open water over five thousand (5,000) square feet contiguous area;
+(4)
+Wetlands that meet the definition of the Army Corps of Engineers pursuant to the Clean Water Act; or
+(5)
+Anticipated right-of-way needs for roads and utilities.
+(b)
+Yield plan: The maximum number of lots is based on a conventional subdivision design plan, prepared by the applicant, in which the tract of land is subdivided in a manner intended to yield the highest number of lots possible based on a minimum lot size of 6000 square feet. The plan is not required to meet formal requirements for a site design plan, but the design must be capable of being constructed given site features and all applicable regulations.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-85. - Application requirements.
+(a)
+Site analysis map required: Concurrent with the submission of a site concept plan, applicant shall prepare and submit a site analysis map. The purpose of the site analysis map is to ensure that the important site features have been adequately identified prior to the creation of the site design, and that the proposed open space will meet the requirements of this article. The preliminary site plan shall include the following features:
+(1)
+Property boundaries;
+(2)
+All streams, rivers, lakes, wetlands and other hydrologic features;
+(3)
+Topographic contours of no less than ten-foot intervals;
+(4)
+All primary and secondary conservation areas labeled by type, as described in section 17-86 of this article;
+(5)
+General vegetation characteristics;
+(6)
+General soil types;
+(7)
+The planned location of protected open space;
+(8)
+Existing roads and structures; and
+(9)
+Potential connections with existing greenspace and trails.
+(b)
+Open space management plan required: An open space management plan, as described in section 17-90, shall be prepared and submitted prior to the issuance of a land disturbance permit;
+(c)
+Instrument of permanent protection required: An instrument of permanent protection, such as a conservation easement or permanent restrictive covenant, as described in section 17-91, shall be placed on the open space concurrent with the issuance of a land disturbance permit; and
+(d)
+Other requirements: The applicant shall adhere to all other applicable requirements of this chapter and the city zoning ordinance.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec 17-86. - Standards to determine open space.
+(a)
+The minimum restricted open space shall comprise at least forty (40) percent of the gross tract area;
+(b)
+The following are considered primary conservation areas and are required to be included within the open space, unless the applicant demonstrates that this provision would constitute an unusual hardship and contradict the purposes of this article:
+(1)
+The regulatory 100-year floodplain;
+(2)
+Buffer zones of at least seventy-five (75) feet wide along all perennial and intermittent streams;
+(3)
+Slopes above (25) percent of at least five thousand (5,000) square feet contiguous area;
+(4)
+Wetlands that meet the definition used by the Army Corps of Engineers pursuant to the Clean Water Act;
+(5)
+Populations of endangered or threatened species, or habitat for such species; and
+(6)
+Archaeological sites, cemeteries and burial grounds;
+(c)
+The following are considered secondary conservation areas and should be included within the open space to the maximum extent feasible:
+(1)
+Important historic sites;
+(2)
+Existing healthy, native forests of at least one (1) acre contiguous area;
+(3)
+Individual existing healthy trees greater than eight (8) inches caliper, as measured from their outermost drip line;
+(4)
+Other significant natural features and scenic view sheds, such as ridge lines, peaks and rock outcroppings, particularly those that can be seen from public roads;
+(5)
+Prime agricultural lands of at least five (5) acres contiguous area; and
+(6)
+Existing trails that connect the tract to neighboring areas;
+(d)
+Above-ground utility rights-of-way and small areas of impervious surface may be included within the protected open space but cannot be counted towards the forty (40) minimum area requirement, except historic structures and existing trails. Large areas of impervious surface shall be excluded from the open space;
+(e)
+At least seventy-five (75) percent of the open space shall be in a contiguous tract. The open space should adjoin any neighboring areas of open space, other protected areas, and non-protected natural areas that would be candidates for inclusion as part of a future area of protected open space; and
+(f)
+The open space shall be directly accessible to the largest practicable number of lots within the subdivision. Non-adjoining lots shall be provided with safe, convenient access to the open space.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-87. - Permitted uses of open space.
+Uses of open space may include the following:
+(a)
+Conservation of natural, archeological or historical resources;
+(b)
+Meadows, woodlands, wetlands, wildlife corridors, game preserves, or similar conservation-oriented areas;
+(c)
+Walking or bicycle trails, provided they are constructed of porous paving materials;
+(d)
+Passive recreation areas;
+(e)
+Active recreation areas, provided that they are limited to no more than ten (10) percent of the total open space and are not located within primary conservation areas. Active recreation areas may include impervious surfaces. Active recreation areas in excess of this limit must be located outside of the protected open space;
+(f)
+Agriculture, horticulture, silviculture or pasture uses, provided that all applicable best management practices are used to minimize environmental impacts, and such activities are not conducted within primary conservation areas;
+(g)
+Nonstructural stormwater management practices;
+(h)
+Easements for drainage, access, and underground utility lines; or
+(i)
+Other conservation-oriented uses compatible with the purposes of this article.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-88. - Prohibited uses of open space.
+(a)
+Golf courses;
+(b)
+Roads, parking lots and impervious surfaces, except as specifically authorized in the previous sections;
+(c)
+Agricultural and forestry activities not conducted according to accepted best management practices; and
+(d)
+Other activities as determined by the applicant and recorded on the legal instrument providing for permanent protection.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-89. - Ownership of open space.
+The applicant must identify the owner of the open space who is responsible for maintaining the open space and facilities located thereon. If a homeowners' association is the owner, membership in the association shall be mandatory and automatic for all homeowners of the subdivision and their successors. If a homeowners' association is the owner, the homeowners' association shall have lien authority to ensure the collection of dues from all members. It is the owner's responsibility to maintain the open space and any facilities located thereon.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-90. - Management of open space.
+Applicant shall submit a plan for management of open space and common facilities (the "plan") that:
+(a)
+Allocates responsibility and guidelines for the maintenance and operation of the open space and any facilities located thereon, including provisions for ongoing maintenance and for long-term capital improvements;
+(b)
+Estimates the costs and staffing requirements needed for maintenance and operation of and insurance for the open space and outlines the means by which such funding will be obtained or provided;
+(c)
+Provides that any changes to the plan be approved by the planning commission; and
+(d)
+Provides for enforcement of the plan.
+In the event the party responsible for maintenance of the open space fails to maintain all or any portion in reasonable order and condition, the city may assume responsibility for its maintenance and may enter the premises and take corrective action, including the provision of extended maintenance. The costs of such maintenance may be charged to the owner, homeowners' association, or to the individual property owners that make up the homeowners' association, and may include administrative costs and penalties. Such costs shall become a lien on all subdivision properties.
+(Ord. No. 06-35, § 1, 10-16-06)
+Sec. 17-91. - Legal instrument for permanent protection.
+The open space shall be protected in perpetuity by a binding legal instrument that is recorded with the deed. The instrument shall be one of the following:
+(1)
+Permanent conservation easement in favor of either:
+(a)
+A land trust or similar conservation-oriented non-profit organization with legal authority to accept such easements. The organization shall be bona fide and in perpetual existence and the conveyance instruments shall contain an appropriate provision for retransfer in the event the organization becomes unable to carry out its functions; or
+(b)
+A governmental entity with an interest in pursuing goals compatible with the purposes of this article.
+(1)
+If the entity accepting the easement is not the city, then a third right of enforcement favoring the city shall be included in the easement, which shall be one of the following:
+(a)
+A permanent restrictive covenant for conservation purposes in favor of a governmental entity; or
+(b)
+An equivalent legal tool that provides permanent protection, if approved by the city. The instrument for permanent protection shall include clear restrictions on the use of the open space. These restrictions shall include all restrictions contained in this article, as well as any further restrictions the applicant chooses to place on the use of the open space.
+(Ord. No. 06-35, § 1, 10-16-06)

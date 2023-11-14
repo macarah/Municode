@@ -1,0 +1,367 @@
+Chapter 82 - SOLID WASTE[1]
+Footnotes:
+--- (1) ---
+Cross reference— Environment, ch. 42; health and sanitation, ch. 54; streets, sidewalks and other public places, ch. 86.
+State Law reference— Georgia Comprehensive Solid Waste Management Act, O.C.G.A. § 12-8-20 et seq.; local, multijurisdictional and regional solid waste plans, O.C.G.A. § 12-8-31.1; scrap tire disposal restrictions, O.C.G.A. § 12-8-40.1; yard trimmings disposal restrictions, O.C.G.A. § 12-8-40.2; Georgia Hazardous Waste Management Act, O.C.G.A. § 12-8-60 et seq.; authorization to provide garbage and solid waste collection and disposal, Ga. Const. art. IX, § II, ¶ III(a)(2); transporting garbage or waste across state or county boundaries without permission, O.C.G.A. § 36-1-16; littering highways, O.C.G.A. § 40-6-249; transportation of biomedical waste, O.C.G.A. § 40-6-253.1; solid waste management education program; establishment of Georgia Clean and Beautiful Advisory Committee and Interagency Council on Solid Waste Management, O.C.G.A. § 50-8-7.3.
+
+ARTICLE I. - IN GENERAL
+
+Sec. 82-1. - Definitions.
+The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:
+Approved commercial refuse container means a manufactured container suitable for emptying by mechanical equipment and approved by the director of sanitation. The following standards are prescribed for commercial containers:
+(1)
+All containers shall be steel with properly reinforced, full-seam welds.
+(2)
+All lids shall be flanged and reinforced for strength.
+(3)
+The pickup side of the container shall be reinforced inside or outside at the point of torque tube contact.
+(4)
+Inside reinforcement shall be pressed steel angle.
+(5)
+Bottoms shall be reinforced with a 1½ inch drain plug, installed flush with bottom.
+(6)
+All containers shall be primed and finished with enamel or epoxy paint.
+(7)
+Body dimensions as to length and height of the container may vary with the size of container; however, all container widths shall be 72 inches. Minimum gauges of steel shall be as follows:
+EXPAND
+Walls 12 gauge
+Ends 12 gauge
+Bottoms 12 gauge for four cubic feet and below; 10 gauge for all over four cubic feet
+Lids 16 gauge (or durable molded plastic)
+Doors 14 gauge
+  Approved recyclables container means a durable plastic container of a capacity not to exceed 18 gallons, with the recycling symbol clearly visible on one side.
+Approved refuse container means a galvanized metal or durable plastic container of a capacity of not less than 20 gallons and not to exceed 32 gallons, having two handles on the sides or a bail by which it may be lifted, with a tight fitting metal or plastic top with a handle or so constructed as to permit the free discharge of its contents. Containers shall be waterproof. Oil or grease drums, paint cans, and similar salvaged containers shall not be acceptable.
+Approved litter container means a stone, metal, plastic or wooden container with a plastic or metal insert designed to be used for the collection of litter. Such containers may be placed at strategic locations to encourage pedestrians to use them for discarded packaging, bottles and cans. It shall be a violation of this chapter to use litter cans for the disposal of garbage, trash (other than litter) or yard trimmings.
+Approved single-use refuse container means a plastic bag, watertight paper bag, or corrugated cardboard box used to contain refuse for disposal and intended to be discarded with its contents. The capacity of the container shall not exceed 30 gallons, shall be of sufficient strength to be loaded into a collection vehicle without spilling its contents, and its total filled weight shall not exceed 50 pounds.
+Approved single-use yard trimmings container means a watertight paper bag or corrugated cardboard box used to contain yard trimmings for disposal and intended to be discarded with its contents. The capacity of the container shall not exceed 30 gallons, shall be of sufficient strength to be loaded into a collection vehicle without spilling its contents, and its total filled weight shall not exceed 50 pounds.
+Collector means a person who, under agreements, oral or written, with or without compensation, does the work of collecting or transporting refuse or recyclables, from residential dwellings, businesses, institutions, offices, retail outlets, or similar locations; provided, however, that this definition shall not include an individual collecting or transporting refuse or recyclables from the individual's own dwelling unit.
+Commercial and industrial refuse means waste material from industrial processes, manufacturing canneries, packing plants, or similar industries, and large quantities of condemned foods. Commercial refuse also includes waste material from the construction, remodeling and repair operations on houses, commercial buildings, multiple dwellings and other structures, such as concrete, bricks, plaster, stone, rocks, earth, lumber, roofing materials, gutters, shavings and sawdust.
+Commercial establishment means any hotel, motel, apartment house, rooming house, business, industrial, public or semipublic establishment of any nature or kind whatsoever other than a single dwelling unit, residential unit or condominium.
+Compactor container means a manufactured commercial container of any size with a self-contained compacting mechanism or an external compactor which is designed to be used in conjunction with a front loading vehicle other than those used in conjunction with individual home appliances.
+Compost means rich black soil suitable for use as fertilizer or for conditioning land.
+Compost facility means any installation operated by, under contract to, or licensed by the county or other jurisdictional authority to which yard trimmings may be transported by public or private transportation to be converted to mulch or compost.
+Condominium means individual ownership units in a multifamily structure with a front and back entrance to each such unit on the ground level.
+Disposal facility means any landfill, pulverization plant, transfer station or incinerator operated by, under contract to, or licensed by the county or other jurisdictional authority to which refuse may be transported by public or private transportation.
+Dwelling unit means a residence for one family.
+Front building line means the line established by the front of the dwelling between a property's two side property lines.
+Garbage means food waste, including waste accumulation of animal or vegetable matter used or intended for use as food, or that attends the preparation, use, cooking, dealing in or storing of meat, fish, fowl, fruit or vegetables.
+Hazardous waste means any refuse which has been defined as a hazardous waste in regulations promulgated by the Georgia Board of Natural Resources, Chapter 391-3-11.
+Home composting means collecting yard trimmings in piles or bins in the backyard and allowing them to become mulch or compost onsite.
+Incinerator means the incinerator operated by the county.
+Landfill means a disposal site for disposing of refuse, other than putrescible wastes or hazardous wastes, on land by placing an earth cover thereon.
+Litter means scattered garbage or trash.
+Managing agent means a third party-organization or person that manages apartment and condominium buildings. Most apartment and condo buildings will hire a managing agent to maintain the building, collect rent or monthly maintenance fees, manage the building staff, etc.
+Multiple dwelling means (for the purpose of this chapter) a building designed for and containing more than four dwelling units.
+Municipal landfill means a landfill operated by the county or some other jurisdictional authority for disposal of putrescible solid waste in compliance with Subtitle D of the United States Resource Conversion and Recovery Act of 1976 as amended.
+Noncombustible trash means materials which are unburnable in the incinerator or at incinerator temperatures of 800 to 1,800 degrees Fahrenheit such as dirt, concrete, bricks, plaster, rocks, stone, metal furniture, large metal straps and wires, auto bodies or parts, logs over six inches in diameter and other similar material, or construction debris.
+Owner means any person owning, leasing, renting, occupying or managing any premises within the jurisdiction of the city.
+Person means the state or any agency or institution thereof, any municipality, political subdivision, public or private corporation, special district empowered to engage in solid waste management or recycling activities, individual, partnership, association or other entity, and includes any officer or governing or managing body of any municipality, political subdivision, special district empowered in solid waste or recycling activities, or public or private corporation.
+Approved single-use plastic bag means a polyethylene or other heavy-duty plastic bag meeting the National Sanitation Foundation standard of at least 1.5 mils and having either a 30-gallon or 15-gallon capacity to be used for the disposal of trash and garbage. The city manager shall designate an approved single-use plastic bag.
+Private contractor or commercial solid waste or recycling firm means any person, other than a municipality, who collects, removes, salvages, or disposes of refuse or recyclables from one or more public or private premises, other than the person's own, whether or not under written contract, and whether or not for compensation.
+Putrescible waste means wastes that give off foul odors while being decomposed by microorganisms. Examples of putrescible wastes include, but are not necessarily limited to, animal manure, feces, and garbage.
+Recyclables means items designated by the city to be collected separately from refuse for diversion from a municipal landfill and conveyed to a recycling firm. Recyclables may include newspapers, cans, glass containers, and similar materials, but the list of recyclable items will vary with market conditions. Other items such as yard trimmings, appliances and motor vehicle tires may sometimes be considered to be recyclables.
+Recycling means any process by which materials which would otherwise become refuse are collected, separated, or processed and reused or returned to use in the form of raw materials or products.
+Refuse means garbage or trash. It is interchangeable with solid waste.
+Residential unit (for the purpose of this chapter) means any freestanding structure that contains from one to four dwelling units.
+Scavenge means unpermitted removal of refuse or recyclables.
+Solid waste means refuse that is free from liquid. It does not include recyclables, yard trimmings, appliances or motor vehicle tires.
+Special fee basis means subject to the availability of personnel and equipment, and when the director of sanitation considers such action to be in the best interests of the city, the director of sanitation may authorize the collection by the city of refuse which does not otherwise comply with the standards of this chapter. Where such collection is made at the request of the owner or other responsible individuals, a special charge shall be made based on the actual time required at a rate as set forth in the schedule of fees and charges.
+Special industrial waste container means any container such as a metal box, bucket, an open bed container or special container used for transporting chemicals, paint, metals, glass, oil products, plastics or any type of material that requires special handling and cannot be incinerated.
+Stationary compactor means an object of a refuse container system which compacts refuse at the site of generation into a pull-on detachable container.
+Trash means discarded solid waste that is not considered recyclable by the city including paper, cartons, boxes, clothing, lumber, furniture, crockery, dunnage, and similar materials.
+Yard trimmings means plant leaves, brush, grass clippings, vines, discarded Christmas trees, and plant branches (up to six inches in diameter). Also, known as landscape materials.
+(Code 1967, § 10-2; Ord. No. O-96-07, 4-15-96; Ord. No. O-97-04, § 1, 1-21-97; Ord. No. O-98-08, § I, 3-16-98; Ord. No. O-07-13, 12-3-07; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Cross reference— Definitions generally, § 1-2.
+Sec. 82-2. - Administration and enforcement of chapter.
+(a)
+The director of sanitation shall be responsible for the administration and enforcement of the provisions of this chapter. The director of sanitation may call upon the city chief of police and the county director of public health for assistance in its enforcement. All regulatory actions of the director of sanitation shall be subject to review and approval by the public works director, city manager and city commission.
+(b)
+The director of sanitation and the sanitation services supervisor shall be sanitation inspectors who shall have authority, and whose duty shall be, to make routine inspections of refuse and recyclables containers and collection areas and determine the serviceability and condition of said containers and collection areas. Upon determining that a container or area is becoming or has become unserviceable or unsanitary or likely to cause an unsanitary condition, the inspector shall issue a notice to the owner or occupant of the premises upon which said container or condition exists to inform the owner or occupant of the existing condition. It shall be the duty of the inspector to issue a summons directed to the owner or occupant to whom such notice has been issued and who has failed to take corrective action within a reasonable time as determined by the director of sanitation to appear in the municipal court to answer the charge of violation of the appropriate section of this chapter.
+(c)
+Inspectors shall have the authority to enforce all the provisions of this chapter and may issue a summons to any violator of any provision to appear in the municipal court to answer to the charge of violation of the appropriate section of this chapter.
+(Code 1967, § 10-3; Ord. No. O-96-07, 4-15-96; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Sec. 82-3. - Penalty for violation of chapter.
+Any violation of this chapter is punishable, upon conviction, according to the provisions of section 1-12.
+(Code 1967, § 10-12)
+Secs. 82-4—82-30. - Reserved.
+ARTICLE II. - COLLECTION AND DISPOSAL
+
+Sec. 82-31. - Establishment of collection routes and areas.
+The director of sanitation shall divide the city area into collection areas and routes, with areas and routes plainly outlined on a map of the city and listed numerically. The director shall prepare a list of the names of all the streets, roads, alleys, drives, highways and other public thoroughfares within each such route and shall keep such map and lists in the director of sanitation's office for public inspection and shall furnish a copy of the map showing any particular route along with a list of the names of the public thoroughfares therein to any person who requests same upon the payment of the actual cost for the reproduction of such map and list by either a city or commercial facility, whichever in the director of sanitation's discretion is available.
+(Code 1967, § 10-4; Ord. No. O-96-07, 4-15-96; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Sec. 82-32. - Preparation and storage of residential refuse and recyclables for collection; placement of certain refuse and recyclables for collection prohibited.
+It shall be the duty of the occupant or owner of any premises to keep all refuse and recyclables pending collection and disposal as follows:
+(1)
+Garbage. All garbage shall be free from liquid and placed in an approved single-use plastic bag with the top secured and placed in an approved refuse container. The total filled weight of an approved single-use plastic bag shall not exceed 50 pounds. Containers adequate to hold the garbage normally accumulating between scheduled removals shall be provided on each premises.
+(2)
+Trash. Trash shall be free from liquid and placed in an approved single-use plastic bag in an approved refuse container. Trash may be placed in the same bag as garbage as long as the total filled weight of an approved single-use plastic bag does not exceed 50 pounds. Packing materials such as Styrofoam "peanuts" shall be placed in an approved single-use plastic bag to prevent scattering. Trash that does not completely fit in an approved single-use plastic bag and large items such as furniture shall be set on the curb separately from yard trimmings and metal appliances.
+(3)
+Recyclables. Recyclables shall be placed in an approved recyclables container. If one container is too small to hold all recyclables, additional approved containers may be placed beside the first container at the curb of each premises.
+(4)
+Yard trimmings. Yard trimmings shall not be mixed with other solid waste. To the maximum extent feasible, yard trimmings shall be chipped, composted, used as mulch or otherwise beneficially reused or recycled. Yard trimmings shall be sorted and stored for collection in such a manner as to facilitate collection, composting or other handling. Yard trimmings shall be containerized in approved refuse containers, or approved single-use yard trimmings containers, except that tree branches and heavy brush which will not fit into containers shall be cut in lengths not exceeding four feet and stacked in a compact pile on the curb (or property line in the case of streets where curbing has not been installed) in front of the premises, but such piles shall not extend into the street or obstruct the sidewalk. Sticks, hedge clippings and small brush shall be gathered into bundles and tied securely so that each bundle does not exceed four feet in length nor weigh more than 50 pounds. Yard trimmings or containers shall be placed or piled on the curb in such location or manner so as not to impede passengers from boarding or departing from vehicles. The city shall not collect logs and limbs over four feet in length, larger than six inches in diameter or weighing more than 50 pounds.
+(5)
+Noncombustible trash. Noncombustible trash, except as provided under subsection (9) below of this section and liquids shall not be collected by the city and shall be properly disposed of by the owner.
+(6)
+Cleanliness of containers. All refuse and recycling containers, except single-use containers, shall be kept clean and free of accumulated waste and shall be treated with an effective insecticide, if necessary, to prevent nuisance.
+(7)
+Accumulations of refuse or recyclables; responsibility of the owner. Each owner shall prevent, or otherwise be held responsible for, unsightly accumulations of refuse or recyclables upon the property occupied by the owner or public thoroughfares adjoining the owner's property.
+(8)
+Dangerous or corrosive materials. It shall be a violation of this chapter to place or cause to be placed in any refuse or recyclables container for collection any acid, explosive material, inflammable liquids or dangerous or corrosive material of any kind.
+(9)
+Household appliances. Inoperable or worn out privately used household appliances (refrigerators, stoves, washing machines, dryers) shall be collected at the curb for recycling. Refrigerators and freezers must have their doors removed or secured shut prior to being left at the curb.
+(10)
+Commercial waste. Commercial waste generated from the conduct of business or commercial enterprise carried on from residential units shall not be collected except on a special fee basis.
+(11)
+Pet litter; disposable diapers; other similar waste. Pet litter, disposable diapers and similar waste must be contained in a securely tied plastic bag and placed in a refuse container at the curb.
+(Code 1967, § 10-5; Ord. No. O-96-07, 4-15-96; Ord. No. O-97-04, § 2, 1-21-97; Ord. No. O-98-08, § II, III, 3-16-98; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Sec. 82-33. - Preparation and storage of commercial and multiple dwelling refuse and recyclables for collection.
+(a)
+Arrangements for storage of refuse and recyclables, and location of containers; approval required. It shall be the responsibility of each commercial establishment, condominium, or multiple dwelling to provide adequate containers for storage of its own waste. Before a building permit shall be issued for construction of a commercial establishment, condominium, or multiple dwelling, arrangements for the storage of refuse and recyclables, and location of containers shall be approved by the director of sanitation.
+(b)
+Location. Commercial refuse containers at existing commercial establishments and multiple dwellings serviced by city collection vehicles shall be placed at locations approved by the director of sanitation for collection by the sanitation department. The city shall not collect refuse from commercial establishments or multiple dwellings unless it is placed in commercial containers, properly located, except where space or other limitations dictate other arrangements which shall be specifically approved by the director of sanitation. Similarly, if recyclables are collected by city collection vehicles, recyclables containers and their location for collection must be approved by the director of sanitation.
+(c)
+Joint responsibility of owners sharing use of a container. Where the occupants of two or more commercial establishments share the use of a commercial refuse container or recyclables container, it shall be the joint responsibility of the users to maintain the area surrounding such container clean and free of accumulations of refuse or recyclables.
+(d)
+Maintenance of surrounding area. The occupant of a commercial establishment and the management of multiple dwellings serviced by a commercial refuse container or a recyclables container shall be responsible for maintaining the area surrounding the container clean and free of refuse and recyclables.
+(e)
+Preparation of refuse. All refuse shall be free of liquid and placed in watertight paper or plastic bags with the tops secured prior to being placed in a commercial refuse container.
+(f)
+Cardboard boxes. Empty cardboard boxes shall be flattened before being placed in a commercial refuse or a recyclables container.
+(g)
+Prohibited items. A commercial refuse container containing the following items shall not be emptied until such items are removed:
+(1)
+Large household or industrial appliances.
+(2)
+Furniture and wooden crates.
+(3)
+Tires and heavy motor vehicle parts such as engines and transmissions.
+(4)
+Liquids, including paint, cooking oil and motor vehicle fluids and lubricants.
+(5)
+Logs or limbs over four feet in length or six inches in diameter.
+(6)
+Bed springs and mattresses.
+(7)
+Rocks, dirt, bricks, concrete, stone, plaster, sheetrock, roofing or other similar materials.
+(8)
+Uncontainerized refuse.
+(9)
+Items such as lumber that protrude from the container or refuse placed on top or in front of the container.
+(10)
+Yard trimmings.
+(h)
+Household appliances. Normal household appliances shall be collected at multiple dwellings served by commercial refuse containers, when placed adjacent to (but not in front of) the container and reported to the sanitation department. Refrigerator and freezer doors shall be removed or secured shut prior to the appliance being left by the container.
+(i)
+Maintenance of containers. The users of commercial refuse containers and recyclables containers shall be responsible for the appearance, maintenance and serviceability of containers procured by them or placed for their use.
+(j)
+Continuation of service. The city shall continue to empty commercial refuse containers presently in use, subject to their serviceability, as determined by the director of sanitation. All commercial containers put into service after enactment of the ordinance from which this section derives shall meet the requirements set forth under section 82-1 and shall have a capacity of not less than four cubic yards or more than eight cubic yards when emptied by front loading refuse vehicles and not more than three cubic yards when emptied by rear loading refuse vehicles.
+(Code 1967, § 10-6; Ord. No. O-96-07, 4-15-96; Ord. No. O-97-04, § 3, 1-21-97; Ord. No. O-07-13, § 2, 12-3-07)
+Sec. 82-34. - Collection of refuse and recyclables generally; conditions for collection by the city.
+(a)
+Collection by licensed persons or firms under city contract. Refuse or recyclables may be collected for disposal by the city by persons or commercial solid waste or recycling firms under contract to or authorized by the city.
+(b)
+Conditions for refuse and recyclables collection. The city shall collect refuse and recyclables under the following conditions:
+(1)
+Refuse and recyclables shall be collected once each week from residential units; except for exceptionally large piles of limbs which may require an excessive period of time to load.
+(2)
+Refuse and recyclables shall be collected from commercial establishments and multiple dwellings as often as the director of sanitation determines is necessary. Recyclables shall be collected at least once per week.
+(3)
+Dead dogs and house pets shall be collected only from animal hospitals, curbsides and public rights-of-way. Dead house pets shall be in a plastic bag placed at the curb and shall be collected on an on-call basis to the sanitation department during normal working hours. Large dead animals shall be disposed of by the individual concerned, the animal owner or property owner, since the city has no responsibility to supply service for the removal and disposal of large dead animals.
+(4)
+Collection service shall be discontinued where refuse and recyclables containers are inadequate or have been condemned as unfit by a sanitation inspector and notice of same has been given to the owner or occupant of the premises who has refused to correct the situation. If the owner or occupant continues to use improperly a city-issued recyclables container after a notice has been given by a sanitation inspector, the container shall be collected by the sanitation department. Similarly, if a litter container is repeatedly used for refuse other than litter, it shall be removed from that location.
+(5)
+Collection on special fee basis. The city shall not be responsible for collecting or hauling discarded building material, dirt, rock or discarded furniture and appliances from private property, nor shall it be responsible for collecting or hauling trees, bushes or other vegetation from or generated by commercial tree trimmers, landscapers or building contractors.
+(c)
+Conditions for removal of residential units on a scheduled basis. City collectors will remove household garbage from residential units on a scheduled basis under the following conditions:
+(1)
+Garbage containers shall be located behind the front building line and no more than 150 feet from the curb or street edge in front of the building, except that, in the case of existing units which are sited at a greater distance, garbage containers shall be placed no farther from the curb or street edge than the rear building line.
+(2)
+Garbage containers must be readily accessible. Containers shall not be emptied which are:
+a.
+Inside a garage or carport; or
+b.
+Inside a fenced area which has a gate that is locked or otherwise secured; or
+c.
+In a yard where a dog is loose or secured in such a manner as to represent a threat to the collector; or
+d.
+Not readily accessible using a refuse collection vehicle because of obstructions such as overgrown brush, trash or parked motor vehicles, or unsafe driveways.
+(d)
+Location of prepared residential trash. City collectors will remove properly prepared residential trash from the curbside only.
+(e)
+Timing for placement of prepared refuse. The owner or occupant shall place the approved refuse and recyclables containers at the curb at or before 7:30 a.m. or prior to the arrival of the collectors. Placement of refuse and recyclables shall not be made before 5:00 p.m. on the day prior to collection day. Yard trimmings, furniture and appliances shall be placed at the curb as close as practical to the next collection day.
+(f)
+Removal of emptied containers. The owner or occupant shall remove all refuse and recyclables containers from the curb to the storage location not later than 12:00 midnight on the day the contents are collected.
+(g)
+Abandoned motor vehicles or parts and refuse generated by commercial tree trimmers and building contractors. The city shall not collect abandoned motor vehicles, or discarded parts therefrom, or trees, bushes or other vegetation from or generated by commercial tree trimmers, or trash resulting from work done by building contractors. Such items shall be disposed of by other means by the respective owner or contractor concerned.
+(h)
+Paint cans. Paint cans shall be collected if empty or if the paint therein is dry or solidified with sand or pet litter and the cans are placed at the curb with lids off.
+(Code 1967, § 10-7; Ord. No. O-96-07, 4-15-96; Ord. No. O-07-13, § 3, 12-3-07)
+Sec. 82-35. - Establishment of multiple dwelling recycling program.
+All multiple dwelling properties with more than four units not serviced under the residential unit collection process must provide on-site recycling services. Multiple dwelling properties may choose their own private contractors or commercial solid waste haulers or recycling firms and negotiate prices for these services.
+(Ord. No. O-07-13, § 5, 12-3-07)
+Sec. 82-36. - Program requirements.
+(a)
+Service responsibility. All multiple dwelling properties in the City of Decatur with more than four dwelling units not serviced under the residential unit collection process shall provide an on-site recycling program and shall recycle a minimum of four designated materials. Multiple dwelling properties may sell or exchange at fair market value their own recyclable materials. The multiple dwelling property owner shall not be responsible for tenants' actual use of the recycling system, so long as the system itself has been properly established and maintained.
+(b)
+Service agreements. All multiple dwelling properties may enter into a written service agreement with a collector or private contractor or commercial solid waste or recycling firm. The service agreement must provide, at a minimum, once per week on-site collection of recyclable materials. The on-site recycling program shall be initiated by a multiple dwelling property owner by the effective date.
+(c)
+Effective date.
+(1)
+For existing multiple dwelling properties, the effective date of this article is January 1, 2009, or the end date of the property's refuse-collection service contract in effect on the date of adoption, whichever is later;
+(2)
+For new multiple dwelling properties or those that are under construction, this article shall be effective six months after the issuance of the property's first certificate of occupancy (CO).
+(d)
+Private collectors. Collectors or private contractors or commercial solid waste or recycling firms who collect solid waste, and/or recyclable materials from multiple dwelling properties in the City of Decatur must comply with all applicable federal, state, county and local laws, ordinances, rules and regulations.
+(e)
+Termination of service. Such recycling programs shall be maintained regardless of any change of building ownership or private collection service.
+(f)
+Schedules and locations. Recycling collection schedules and pickup locations shall be mutually agreed upon by the multiple dwelling property owner and the collector or private contractor or commercial solid waste or recycling firm. The city shall not be responsible for unauthorized collections, liabilities, or any other problems that may arise between the service provider and the multiple dwelling property.
+(g)
+Recyclable materials to be collected from multiple dwelling properties. The multi-dwelling property shall recycle a minimum of four materials listed below. Materials should be prepared and/or separated in a manner mutually acceptable to the collector or private contractor or commercial solid waste or recycling firm and the multiple dwelling property owner.
+This requirement shall not limit the recycling of additional materials as desired by the multiple dwelling property, nor does it prohibit a multiple dwelling property from self-hauling material to a material recovery facility, processor, or material broker, subject to other applicable provisions of this chapter.
+Steel cans (vegetable, soup, beans, cat food, etc.)
+Aluminum cans
+Glass bottles — any color
+Newspapers
+Magazines
+Cardboard
+Junk mail and catalogs
+White milk jugs
+Clear and green plastic soda and water bottles
+Chipboard (cereal boxes, six pack containers, shoe boxes, etc.)
+All PET or No. 1 plastic containers
+All HDPE or No. 1 plastic containers, including black planting trays and black plastic flower pots, bleach bottles, yellow plastic milk cartons, etc.
+Substitutions for items on the list will be considered by City of Decatur City Manager or the city manager's designee on a case-by-case basis subject to the applicable procedural requirements and collection of any material under this article.
+(h)
+Containers. Containers provided by the collector or private contractor or commercial solid waste or recycling firm for recyclables, including compactors, shall be clearly labeled in English and in other languages if appropriate, including an indication of the material to be placed in the container and the word "recycling" or "recyclable" or the "chasing arrows" recycling symbol.
+The types of containers used for collection of recyclables shall be established between the multiple dwelling property owner or owner's representative and the collector or private contractor or commercial solid waste or recycling firm.
+The collector or private contractor or commercial solid waste or recycling firm or multiple dwelling property owner will provide any recycling containers needed to establish the recycling program.
+The recycling containers at a multiple dwelling property shall be placed in a location or locations at least as convenient to tenants as the refuse containers, including trash chutes, insofar as is practical.
+Indoor common-area collection/storage areas shall be established in accordance with appropriate City of Decatur fire and/or life safety codes.
+Exterior recyclables storage areas shall be established in accordance with City of Decatur requirements for approved commercial refuse containers.
+The multiple dwelling property owner shall maintain all recycling areas, including the containers, in a clean, sanitary and litter-free manner.
+(i)
+Minimum capacity of recycling containers. Containers used to collect the recyclable material should have adequate capacity and durability to function efficiently and meet the spatial constraints of the multiple dwelling.
+(j)
+Promotion and education. A multiple dwelling property owner and/or the managing agent of the property, if applicable, is responsible for notifying and educating residents of the property on recycling issues and practices through an informal and on-going education campaign. Every new resident of a multiple dwelling property shall be provided, within 30 days of occupancy, general recycling information and current program recycling guidelines. All existing residents of multiple dwelling properties shall be provided at least annually with general recycling information and current program recycling guidelines by the property owner and/or the managing agent of the property.
+(k)
+Reporting. All multiple dwelling properties shall maintain records and reports as directed herein and promptly respond to periodic requests for such records and reports.
+(1)
+Delivery of reports. For reporting purposes, the delivery address for the reports or correspondence pertaining to this ordinance is City of Decatur, Public Works Department, P.O. Box 220, Decatur, Georgia 30031. The City of Decatur fax number for reporting purposes is 404-378-4153. Reports may be submitted in hard copy or readable fax form. Reports faxed to any other number are not considered to have been submitted.
+(2)
+Report due date. A multiple dwelling property required to provide recycling services under this article must file a quarterly volume report on the amount of recyclable materials collected on or before January 15, April 15, July 15, and October 15 of each calendar year for the prior three-month period (for example, October/November/December report due on or before January 15). When the specified quarterly report dates fall on a Saturday, Sunday or legal holiday, the report is due on the next business day. This data should include scale tickets or receipts from the processor if the business self-hauls, or invoices from collectors or private contractors or commercial solid waste or recycling firms, showing the amount and type of each of the recyclable materials collected from the property, including additional optional recyclables, for the preceding reporting quarter.
+Failure to submit required information within ten days following the due date shall constitute a violation of this article.
+All reports are public record to the extent required by the Georgia Open Records Act. All such reports, data and information once received by the City of Decatur or its designee shall become the property of the City of Decatur to be used, as it shall determine without obligation to any person, firm or corporation.
+(l)
+Compliance and enforcement. City inspection. In determining whether a violation of this article has occurred, City of Decatur staff shall have the right to visit the premises as provided in Ch. 82, Section 2 of the City Code and to inspect the presence and capacity of recycling containers, the presence and quantities of recyclables in recycling containers, the presence of signs, flyers, stickers and other information which promotes recycling, and to question employees, tenants and owners, and collectors or private contractors or commercial solid waste or recycling firms, regarding the applicable recycling program.
+Any processing and storage of recyclables shall be undertaken in a location suitable and adequate for such activity. Processing and storage facilities shall comply with all applicable zoning ordinances and any other applicable local and state statutes, ordinances and regulations.
+(m)
+Assistance. City of Decatur Public Works staff shall provide assistance to multiple dwelling property owners in setting up a recycling program and achieving compliance with this article.
+(Ord. No. O-07-13, § 5, 12-3-07; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Sec. 82-37. - Assessment and collection of special charges for collection by the city of refuse on a special fee basis.
+When, at the request of the owner or other responsible individuals, the director of sanitation authorizes the collection by the city of refuse which does not otherwise comply with the standards of this chapter, the special charge made therefor shall be assessed, based upon the actual time required at the rate as set forth in the schedule of fees and charges, and the amount of such assessment shall be a lien on the real estate from which such refuse is collected, such lien dating from the time of collection. The city commissioners shall have full power and authority to enforce collection of the amount of such assessment so made for such refuse collection, by execution to be issued by the clerk of the city against the real estate and the owner thereof. Such executions shall be levied by the marshal of the city and, after advertising and other proceedings, as in the case of sale of realty for city taxes, such property so levied upon, or so much thereof as may be necessary to bring the amount of such assessment and costs, may be sold by the marshal of the city at public outcry to the highest bidder. Such sale shall vest absolute title to such property in the purchaser, provided that the defendant in execution shall have the right to file an affidavit denying that the whole or any part of the amount of such execution is due and stating what the defendant admits to be due, if any, which amount so admitted to be due shall be paid before the affidavit shall be received. The affidavit shall be filed with the marshal of city and, when received, shall be returned by the marshal of city to the county superior court, and there shall be tried and the issue determined as in cases of illegality, subject to all the penalties provided by law in cases of illegality of delay. The lien for the assessment on real property shall have rank and priority of payment next in point of dignity to lien for taxes and liens for assessment of street and sidewalk improvement, if any.
+(Code 1967, § 10-7.1; Ord. No. O-96-07, 4-15-96; Ord. No. O-07-13, § 4, 12-3-07; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Editor's note— Section 4 of Ord. No. O-07-13, adopted Dec. 3, 2007, renumbered §§ 82-35—82-39 as §§ 82-37—82-41.
+Sec. 82-38. - Regulation of private transportation of refuse and recyclables.
+(a)
+It shall be unlawful for any person including city collectors and solid waste and recycling contractors to haul, convey, or cause to be conveyed any refuse or recyclables, including discarded building material or discarded furniture, upon or along the public streets and roadways except when the material transported is adequately secured in such a manner as to prevent it from falling, leaking, or being blown from transporting vehicles. The operator or owner of the offending vehicle shall be personally responsible for any violation of this section.
+(b)
+It shall be a violation of this chapter for any person, not approved by the city, to collect and haul any refuse or recyclables other than that arising from said person's own accumulation. All areas are serviced by the city.
+(Code 1967, § 10-8; Ord. No. O-96-07, 4-15-96; Ord. No. O-07-13, § 4, 12-3-07; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
+Editor's note— See editors note following § 82-37.
+Sec. 82-39. - Regulation of commercial solid waste and recycling firms.
+(a)
+Provision of service by solid waste and recycling firms. The director of sanitation shall maintain a list of solid waste and recycling firms authorized to provide or service commercial refuse containers, stationary compactors, stationary compactor containers or industrial waste containers in the city.
+(b)
+Authorization to provide service and pertinent information supplied by the director of sanitation. Commercial solid waste and recycling firms providing service in the city shall submit a letter of intent to the director of sanitation listing the type, size and frequency of service of all commercial containers, stationary compactors (excluding residential units), stationary compactor containers, and industrial waste containers to be installed or serviced by them. The director of sanitation shall provide each applicant firm with a written authorization for the service proposed and furnish a copy to the office of the inspector. The director shall, upon request, provide applicant firms with pertinent information as to any other provisions of this chapter relative to the service they propose to provide.
+(c)
+List of containers supplied to the director of sanitation. Commercial solid waste or recycling firms authorized to provide service within the city shall provide the director of sanitation with a list showing the type, size and frequency of service of all commercial refuse containers, recyclables containers, stationary compactors (excluding residential units), stationary compactor containers, and industrial waste containers serviced by them. Such list shall be provided within 30 days following enactment of the ordinance from which this section derives. Failure to comply may result in suspension or cancellation of the authorization to provide such service. Changes to the list shall be provided to the director of sanitation by the firm as they occur.
+(d)
+Permit decal, name, address and phone number of the firm required on containers. Each commercial refuse container, recycling container, stationary compactor, and industrial waste container serviced by a commercial solid waste or recycling firm shall have affixed in a conspicuous place a distinctive red decal issued by the city sanitation department which shows it is authorized to operate in the city. Commercial solid waste or recycling firms authorized to provide service within the city shall obtain decals from the sanitation department and shall place them on the containers that they service. In addition each commercial refuse container, recyclables container, stationary compactor, or waste container shall carry in a conspicuous place the name, telephone number and address of the firm authorized to service it. Distinctive decals shall be placed on commercial refuse containers serviced by the city sanitation department.
+(Code 1967, § 10-9; Ord. No. O-96-07, 4-15-96; Ord. No. O-07-13, § 4, 12-3-07)
+Editor's note— See editors note following § 82-37.
+Sec. 82-40. - Disposal of refuse.
+(a)
+Prohibited without approval. It shall be unlawful for any person to dump or to cause to be dumped any refuse such as garbage, trash, litter, building material, motor vehicle parts, or equipment, or recyclables such as appliances, cans, bottles, newspapers, telephone books, grass clippings, trees, tree limbs, brush or parts thereof anywhere in the city without the expressed approval by action of the city commission under such terms and conditions as may be invoked from time to time by the city commission.
+(b)
+Exception; conditions. The provisions of subsection (a) of this section do not apply to the dumping on private property with the owner's permission of sand, dirt, broken brick, blocks or broken pavement or other suitable materials for use as to fill to raise the elevation of the land, provided the same is not maintained in an unsightly condition and provided the owner of the property on which such material is dumped agrees to level such dumped material with appropriate grading equipment, and to cover it with dirt, upon direction of the city commission.
+(c)
+Identification of party engaging in illegal dumping. If any of the material dumped in violation of the provisions of subsection (a) of this section can be identified as having last belonged to, been in the possession of, sent to or received by, or to have been the property of any person prior to its being dumped as prohibited therein, such identification shall be presumed to be prima facie evidence that such owner dumped or caused to be dumped such matter and material in violation of this chapter.
+(Code 1967, § 10-10; Ord. No. O-96-07, 4-15-96; Ord. No. O-07-13, § 4, 12-3-07)
+Editor's note— See editors note following § 82-37.
+Sec. 82-41. - Sanitation fees; assessment and payment.
+(a)
+Sanitary fees shall be established by the city commission.
+(b)
+Fees for sanitary purposes shall be due on or before the first day of June, 1998. Sanitary fees not paid on or before June 1, 1998, shall bear interest at the rate of one percent per month or fraction thereof from June 1, 1998; and, penalty of ten percent of such unpaid fees shall be added and attached to the total amount of said fees due and payable unless paid by June 15, 1998; and, the interest at said rate on the principal sum and said penalty shall be collected at the time of collecting such taxes thereafter.
+(c)
+Unpaid sanitary fees may be collected by execution against the parcel of real estate for which the fee was established and the owner thereof. On or after the first day of August, 1998, the city clerk shall issue an execution against the real property for which such sanitary fee was established and remains unpaid, and the owner thereof; and the unpaid amount, interest, penalty and cost and shall be a lien on such property from the date the fee was established. Executions are to be issued and enforced in the same manner as tax executions are issued and enforced in the city.
+(Code 1967, § 10-11; Ord. No. O-96-07, 4-15-96; Ord. No. O-98-08, § IV, 3-16-98; Ord. No. O-07-13, § 4, 12-3-07)
+Editor's note— See editors note following § 82-37.
+Secs. 82-42—82-49. - Reserved.
+ARTICLE III. - LITTER CONTROL
+
+Sec. 82-50. - Description.
+Litter found throughout our community often finds its way into our streams, rivers and lakes and detracts from our quality of life. Pollutants carried into our streams, rivers, and lakes by litter, diminish the quality of our water and its aquatic resources. Litter control ordinances provide a prohibition against littering and provide an enforcement mechanism with penalties for dealing with those found littering.
+(Ord. No. O-04-10, 3-15-04)
+Sec. 82-51. - General provisions.
+(a)
+Purpose and intent. The purpose of this article is to protect the public health, safety, environment, and general welfare through the regulation and prevention of litter. The objectives of this article are:
+(1)
+To provide for uniform prohibition throughout the city of any and all littering on public or private property; and,
+(2)
+To prevent the desecration of the beauty and quality of life of the city and prevent harm to the public health, safety, environment, and general welfare, including the degradation of water and aquatic resources caused by litter.
+(b)
+Applicability. This article shall apply to all public and private property within the City of Decatur, Georgia.
+(c)
+Compatibility with other regulations. This article is not intended to interfere with, abrogate, or annul any other ordinance, rule or regulation, statute, or other provision of law. The requirements of this article should be considered minimum requirements, and where any provision of this article imposes restrictions different from those imposed by any other ordinance, rule or regulation, or other provision of law, whichever provisions are more restrictive or impose higher protective standards for human health or the environment shall be considered to take precedence.
+(d)
+Severability. If the provisions of any article, section, subsection, paragraph, subdivision or clause of this article shall be judged invalid by a court of competent jurisdiction, such order or judgment shall not affect or invalidate the remainder of any article, section, subsection, paragraph, subdivision or clause of this article.
+(Ord. No. O-04-10, 3-15-04)
+Sec. 82-52. - Definitions.
+[The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:]
+Litter means any organic or inorganic waste material, rubbish, refuse, garbage, trash, hulls, peelings, debris, grass, weeds, ashes, sand, gravel, slag, brickbats, metal, plastic, and glass containers, broken glass, dead animals or intentionally or unintentionally discarded materials of every kind and description which are not "waste" as such term is defined in O.C.G.A., § 16-7-51, paragraph 6.
+Public or private property means the right of way of any road or highway; any body of water or watercourse or the shores or beaches thereof; any park, playground, building, refuge, or conservation or recreation area; timberlands or forests; and residential, commercial, industrial, or farm properties.
+(Ord. No. O-04-10, 3-15-04)
+Cross reference— Definitions generally, § 1-2.
+Sec. 82-53. - Prohibition against littering public or private property or waters.
+It shall be unlawful for any person or persons to dump, deposit, throw or leave or to cause or permit the dumping, depositing, placing, throwing or leaving of litter on any public or private property in the city or any waters in the city unless:
+(1)
+The property is designated by the state or by any of its agencies or political subdivisions for the disposal of such litter, and such person is authorized by the proper public authority to use such property;
+(2)
+The litter is placed into a receptacle or container installed on such property; or,
+(3)
+The person is the owner or tenant in lawful possession of such property, or has first obtained consent of the owner or tenant in lawful possession, or unless the act is done under the personal direction of the owner or tenant, all in a manner consistent with the public welfare.
+(Ord. No. O-04-10, 3-15-04)
+Sec. 82-54. - Vehicle loads causing litter.
+No person shall operate any motor vehicle with a load on or in such vehicle unless the load on or in such vehicle is adequately secured to prevent the dropping or shifting of materials from such load onto the roadway.
+(Ord. No. O-04-10, 3-15-04)
+Sec. 82-55. - Violations, enforcement and penalties.
+(a)
+Violations. It shall be unlawful for any person to violate any provision or fail to comply with any of the requirements of this article. Any person who has violated or continues to violate the provisions of this article, may be subject to the enforcement actions outlined in this section or may be restrained by injunction or otherwise sentenced in a manner provided by law.
+(b)
+Evidence.
+(1)
+Whenever litter is thrown, deposited, dropped or dumped from any motor vehicle, boat, airplane, or other conveyance in violation of this article, it shall be prima facie evidence that the operator of the conveyance has violated this article.
+(2)
+Except as provided in subsection (1), whenever any litter which is dumped, deposited, thrown or left on public or private property in violation of this article is discovered to contain any article or articles, including, but not limited to, letters, bills, publications or other writing which display the name of the person thereon in such a manner as to indicate that the article belongs or belonged to such person, it shall be a rebuttable presumption that such person has violated this article.
+(c)
+Penalties. Any person who violates this article shall be guilty of a violation and, upon conviction thereof, shall be punished as follows:
+(1)
+According to the provisions of section 1-12 of the City Code; and
+(2)
+In addition to the penalties described in subsection (1) above, the violator shall reimburse the city for the reasonable cost of removing the litter when the litter is or is ordered removed by the city; and
+(3)
+a.
+In the sound discretion of the municipal court, the person may be directed to pick up and remove from any public street or highway or public right-of way for a distance not to exceed one mile any litter said person has deposited and any and all litter deposited thereon by anyone else prior to the date of execution of sentence; or
+b.
+In the sound discretion of the municipal court, the person may be directed to pick up and remove any and all litter from any public property, private right-of-way, or with prior permission of the legal owner or tenant in lawful possession of such property, any private property upon which it can be established by competent evidence that said person has deposited litter. Pick up and removal shall include any and all litter deposited thereon by anyone prior to the date of execution of sentence; and,
+(4)
+The court may publish the names of persons convicted of violating this article.
+(d)
+Enforcement.
+(1)
+General. All law enforcement agencies, officers and officials of this state or any political subdivision thereof, or any enforcement agency, officer or any official of any commission of this state or any political subdivision thereof, are hereby authorized, empowered and directed to enforce compliance with this article.
+(2)
+In addition to those described in item (1) above, the city public works director or the city public works director's designees, the city engineer or the city engineer's designees, and codes enforcement officers are hereby authorized, empowered and directed to enforce compliance with this article.
+(Ord. No. O-04-10, 3-15-04; Ord. No. O-22-11 , § 2(Exh. A), 10-17-22)
