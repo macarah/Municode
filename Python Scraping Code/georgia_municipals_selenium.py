@@ -96,9 +96,9 @@ def extract_sub_links(link, directory, heading_text):
     try:
         # Head to the provided link
         driver.get(link)
-        click_load_more_button(driver)
         # Wait for <li> elements with nodedepth="2"
         wait = WebDriverWait(driver, 5)
+        click_load_more_button(driver)
         if(link==old_link):
             li_elements = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'li[nodedepth="3"]')))
         else:
@@ -195,7 +195,7 @@ for state in state_data:
         print(state_name + ", " + city_name)
 
         #we only want ordinances from Georgia cities
-        if state_name == "Georgia" and city_name=="Atlanta":
+        if state_name == "Georgia":
             print(city_data)
             driver.get(city_link) #visit the city page of ordinances
             #scrape textual data of ordinances
@@ -215,6 +215,7 @@ for state in state_data:
 
                 # Parse the page source with BeautifulSoup
                 soup = BeautifulSoup(page_source, "html.parser")
+                click_load_more_button(driver)
                 
 
                 # Find <li> elements with ng-repeat="node in toc.topLevelNodes track by node.Id"
@@ -278,6 +279,7 @@ for state in state_data:
 
                         # Parse the page source with BeautifulSoup
                         soup = BeautifulSoup(page_source, "html.parser")
+                        click_load_more_button(driver)
                         
 
                         # Find <li> elements with ng-repeat="node in toc.topLevelNodes track by node.Id"
