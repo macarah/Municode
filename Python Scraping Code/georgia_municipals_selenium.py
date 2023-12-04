@@ -7,6 +7,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
+
 
 url = "https://library.municode.com/#G"
 
@@ -93,7 +96,7 @@ def extract_sub_links(link, directory, heading_text):
     try:
         # Head to the provided link
         driver.get(link)
-        
+        click_load_more_button(driver)
         # Wait for <li> elements with nodedepth="2"
         wait = WebDriverWait(driver, 5)
         if(link==old_link):
@@ -119,6 +122,23 @@ def extract_sub_links(link, directory, heading_text):
         # Call the function to extract and save text to a file (you need to provide this function)
         extract_and_save_text(link, directory, heading_text)
         print("---")
+
+def click_load_more_button(driver):
+    while True:
+        try:
+            # Wait for the button to be clickable
+            load_more_button = WebDriverWait(driver, 20).until(
+                EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Load more')]"))
+            )
+            
+            if load_more_button:
+                # If the button is found, click it
+                load_more_button.click()
+                print("Clicked the 'Load more' button.")
+        except TimeoutException:
+            # If the button is not found within the given time, print a message and break the loop
+            print("No more 'Load more' buttons found or not clickable.")
+            break
 
 # Find state links
 state_links_elements = soup.find_all("li", {"ng-repeat": "state in stateGroup.states"}, class_="col-xs-12 col-md-6 col-lg-4 text-center")
@@ -153,6 +173,12 @@ for state in state_data:
     
     # Parse the state page with BeautifulSoup
     state_soup = BeautifulSoup(state_page_source, "html.parser")
+
+    try:
+        wait = WebDriverWait(driver, 30)
+        wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '[ng-repeat="letterGroup in letterGroups"]')))
+    except TimeoutException as ex:
+        print(f"Timed out waiting for elements: {ex}")
     
     # Find city elements for the current state
     city_elements = state_soup.find_all("li", {"ng-repeat": "client in letterGroup.clients"}, class_="col-xs-12 col-sm-6 col-md-4 col-lg-3 text-center")
@@ -166,9 +192,11 @@ for state in state_data:
         # Create city directory inside the state directory
         city_directory = os.path.join(state_directory, city_name)
         os.makedirs(city_directory, exist_ok=True)
+        print(state_name + ", " + city_name)
 
         #we only want ordinances from Georgia cities
-        if state_name == "Georgia":
+        if state_name == "Georgia" and city_name=="Atlanta":
+            print(city_data)
             driver.get(city_link) #visit the city page of ordinances
             #scrape textual data of ordinances
             #convert to txt file
