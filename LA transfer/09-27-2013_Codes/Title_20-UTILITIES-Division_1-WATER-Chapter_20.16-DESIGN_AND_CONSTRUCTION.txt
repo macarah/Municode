@@ -1,0 +1,153 @@
+Chapter 20.16 - DESIGN AND CONSTRUCTION
+Parts:
+Part 1 - GENERAL PROVISIONS
+Sections:
+
+20.16.010 - Application of provisions—Considerations.
+In applying the minimum requirements found in this Division 1 for design and construction of a water system, consideration shall be given to the quantity of water pumped and stored, the adequacy and dependability of all waterworks facilities, the physical conditions known to exist at the time and place of installation, and the probable operating requirements.
+(Ord. 7834 Ch. 2 Art. 1 § 201, 1960.)
+20.16.015 - P.s.i.g. defined.
+As used in this chapter, the letters "p.s.i.g." mean "pounds per square inch gage."
+(Ord. 7834 Ch. 2 Art. 1 § 202, 1960.)
+Part 2 - DESIGN
+Sections:
+
+20.16.020 - Design principles generally.
+All facilities of the water system shall be designed and constructed to withstand, with adequate safety factors, the physical stresses to which they will be subjected, including those resulting from earthquakes, and shall be free from structural and sanitary hazards. All equipment shall be of adequate size and capacity, and shall be correlated with available supply from the source facilities and storage to meet the requirements of Section 20.16.030, on fire flow requirements.
+(Ord. 96-0002 § 4, 1996: Ord. 7834 Ch. 2 Art. 2 § 221, 1960.)
+20.16.030 - Water flow—Total requirements designated.
+The required total water flow for any given service area under consideration, or unit water system, shall be the sum of the minimum fire flow plus the maximum daily water flow requirements. The maximum daily water flow requirement shall be either two times or four times the average daily water flow requirement, depending on whether the water system is to be metered or unmetered.
+EXPAND
+Qt equals Qf plus 2Qd for metered service
+Qt equals Qf plus 4Qd for unmetered service
+  Qt equals the required total water flow in gallons per minute.
+Qf equals the minimum fire-flow water requirement in gallons per minute.
+Qd equals the average daily water flow requirement in gallons per minute, which is the sum of the residential or domestic water flow requirements plus the commercial, industrial, irrigation or other uses.
+(Ord. 7834 Ch. 2 Art. 2 § 222, 1960.)
+20.16.040 - Water flow—Residential or domestic uses.
+The average daily water flow requirement in gallons per minute in the water system described in the application for water utility authorization shall be obtained by multiplying the estimated daily water consumption in gallons per capita, times the total estimated population to be served and dividing by 1,440. In no case shall the average daily design flow consumption per capita be less than 100 gallons per day at a normal operating pressure of not less than 35 p.s.i.g. Supporting data shall be submitted with the application for water utility authorization.
+(Ord. 7834 Ch. 2 Art. 2 § 223, 1960.)
+20.16.050 - Water flow—Commercial, industrial, irrigation and other uses.
+The average daily flow requirement in gallons per minute in the water system described in the application for water utility authorization shall be determined and supporting data thereon shall be submitted with the application.
+(Ord. 7834 Ch. 2 Art. 2 § 224, 1960.)
+20.16.060 - Minimum fire flow and fire hydrant requirements.
+A.
+The minimum fire flow and fire hydrant requirements shall be determined by the fire chief or fire marshal. The computation of the available fire flow shall be based upon a minimum of 20 p.s.i.g. residual operating pressure remaining in the street main from which the fire flow is being measured at the time of measurement of the fire flow. The fire chief or fire marshal shall be guided by but may adjust the quantities set forth in the fire department's regulations on the basis of local conditions, exposure, congestion and construction of buildings. Should the fire chief or fire marshal determine that it is necessary to require a fire flow pursuant to this section in excess of 5,000 gallons per minute, that determination must first be approved by the water appeals board. The fire department and water purveyors shall cooperate to establish improved duration requirements to increase the water available for wildfires in very high fire hazard severity zones.
+Also:
+1.
+Very High Fire Hazard Severity Zones, Fire Zone 4, and Mountainous Areas Involving Slopes of Eight Percent Grade or Greater. When developments occur in such areas, the fire flow duration should be provided from storage located at an elevation capable of delivering the fire flow by gravity. Pumping stations in gravity feed systems shall have available two separate means of pumping; one such means may be either a portable emergency generator or portable pumping unit driven by an internal combustion engine. An alternative system employing dual pumping facilities utilizing two independent sources of power, one of which shall be an internal combustion engine utilizing natural gas piped to the site or other fuel stored on the site, may be substituted for a gravity system.
+2.
+Required fire flows may be based on the land use allowed and/or zoning within a proposed subdivision.
+3.
+500 gpm may be added for each additional floor level, in addition to the first floor, to a total required fire flow not to exceed 5,000 gpm.
+4.
+5,000 gpm may be required for industrial and/or commercial subdivisions where land use or zoning allows the construction of buildings that justify such a flow.
+5.
+Where buildings are constructed of fire-resistive materials such as concrete, brick, etc., and/or provided with automatic fire-sprinkler systems, required fire flows may be reduced. All such reductions shall be predicated on recognized standards and recommendations of the public fire protection grading and rating agencies providing that service.
+B.
+The combined capacities of all water source facilities, at period of maximum daily demand, shall support a rate of flow of "Qt" to the water system for the duration requirement indicated in the fire department regulations.
+C.
+All required fire flows up to and including 2,000 gpm must be available from any accessible single public street hydrant within the required distance of the proposed structure. For required fire flows greater than 2,000 gpm, the total required fire flow must be available from no more than the two closest public street fire hydrants to the proposed structure.
+(Ord. 96-0002 § 5, 1996: Ord. 11040 § 3, 1974: Ord. 7834 Ch. 2 Art. 2 § 225, 1960.)
+20.16.070 - Distribution system.
+The distribution system shall be of adequate size and so designed in conjunction with related facilities to maintain normal operating pressures of not less than 35 p.s.i.g. nor more than 125 p.s.i.g. at the water main in streets or highways in use, except that during periods of hourly maximum demand the pressure shall not be less than 30 p.s.i.g., and that during periods of hourly minimum demand the pressure may be not more than 150 p.s.i.g. The pressure may be greater if the customer is so notified.
+(Ord. 7834 Ch. 2 Art. 2 § 226, 1960.)
+20.16.080 - Circulating system.
+All water systems shall be designed to permit circulating water flows except where impractical because of cul-de-sacs and like conditions or the incomplete development of the grid system.
+(Ord. 7834 Ch. 2 Art. 2 § 227, 1960.)
+20.16.090 - Transmission pipelines.
+The transmission pipelines from sources of supply shall be designed to deliver, in combination with related storage facilities and to the limits of the capacity of those sources of supply, the maximum requirements of that portion of the system which is dependent upon such transmission pipelines. These lines may be gravity lines from source facility to terminal storage, in which case they cannot be used to deliver water to customers. Otherwise, the lines shall be designed under the same qualifications as any line in the distribution system.
+(Ord. 7834 Ch. 2 Art. 2 § 233, 1960.)
+20.16.100 - Water main sizes.
+The minimum size for use in the distribution shall be nominal six-inch diameter on which fire hydrants are located, except where a smaller size will deliver the flow requirements of Section 20.16.030, and except where total flow requirements on cul-de-sacs and similar cases are satisfied.
+(Ord. 7834 Ch. 2 Art. 2 § 229, 1960.)
+20.16.110 - Water pipe and fittings.
+All water pipe and fittings used in distribution mains shall be designed to withstand the maximum internal and external forces to which they may be subjected under normal operating conditions, with an ample safety factor.
+(Ord. 7834 Ch. 2 Art. 2 § 228, 1960.)
+20.16.120 - Service pipe sizes.
+In no case shall the diameter of the water service connection be less than the service pipe required by the Plumbing Code for the building to be served thereby. (See Title 28 of this code.) The service pipe shall be equipped with a valve at the inlet to the meter, or at the property line if unmetered.
+(Ord. 7834 Ch. 2 Art. 2 § 230, 1960.)
+20.16.130 - Valves—Location.
+All mainline valves on distribution mains shall be installed on not less than a three-valve pattern at street intersections having single intersecting mains.
+(Ord. 7834 Ch. 2 Art. 2 § 231, 1960.)
+20.16.140 - Fire hydrants—Size, type and location.
+A.
+The size and type of fire hydrants shall be designated by the fire chief or fire marshal and the location shall be approved by the fire chief or fire marshal and by the road commissioner.
+B.
+The waterway from street main to hydrant riser shall be not smaller than the street main, up to a nominal six-inch diameter, and shall be gated.
+C.
+Fire hydrants located in very high fire hazard severity zones shall be constructed with a four feet by four feet by four inches concrete base.
+D.
+Fire hydrants shall be provided within 100 feet of each other to the satisfaction of the fire marshal, in those areas where adjoining water systems and pressure zones exist, to facilitate emergency interconnections.
+E.
+Blue reflective pavement markers shall be installed on adjacent paved roads, indicating the location of fire hydrants.
+(Ord. 96-0002 § 6, 1996: Ord. 7834 Ch. 2 Art. 2 § 232, 1960.)
+20.16.150 - Source facility pumping equipment.
+Pumping equipment delivering water to the distribution system shall, in conjunction with the storage facilities, be so designed as to meet the requirements of Section 20.16.030. Each pumping unit shall be driven by a separate power unit of adequate size. A master meter or other suitable measuring device shall be provided for each source facility to register accurately the quantity of water delivered to the distribution system.
+(Ord. 7834 Ch. 2 Art. 2 § 234, 1960.)
+20.16.160 - Storage capacity.
+Storage capacity shall be so designed in conjunction with source facilities as to meet the flow requirements of Sections 20.16.030 and 20.16.060
+(Ord. 7834 Ch. 2 Art. 2 § 237, 1960.)
+20.16.170 - Electrical control equipment.
+All electrical control equipment shall be so designed that there will be adequate protection of all motors and other electrical equipment.
+(Ord. 7834 Ch. 2 Art. 2 § 236, 1960.)
+20.16.180 - Fencing required where.
+All property containing source or storage facilities shall be adequately fenced to prevent unauthorized entry.
+(Ord. 7834 Ch. 2 Art. 2 § 235, 1960.)
+Part 3 - CONSTRUCTION
+Sections:
+
+20.16.190 - Conformance with standard engineering practices.
+The construction of the water utility shall conform to standard acceptable engineering practices.
+(Ord. 7834 Ch. 2 Art. 3 § 251, 1960.)
+20.16.200 - Utility Manual for standards and materials.
+If the engineer finds that in order to comply with the provisions of this Division 1 it is necessary to conform to certain standards of materials or construction, or both, he shall promulgate such standards and publish the same in a Utility Manual. The engineer shall file this Utility Manual and all amendments thereto with the board. All construction and materials should conform to the Utility Manual described in this section.
+(Ord. 7834 Ch. 2 Art. 3 § 252, 1960.)
+20.16.210 - Materials—Standards generally.
+All materials, pipes, valves, fittings and other appliances shall be of such strength and durability as to be free of structural hazards.
+(Ord. 7834 Ch. 2 Art. 3 § 253, 1960.)
+20.16.220 - Metallic and nonmetallic materials.
+Metallic and nonmetallic materials may be used separately and in combination to construct component parts of a water system, including, but not limited to, conduits, pipes, couplings, caulking materials, protective linings and coatings, services, valves, hydrants, pumps, tanks and reservoirs.
+(Ord. 7834 Ch. 2 Art. 3 § 254, 1960.)
+20.16.230 - Newly developed materials and equipment.
+This Division 1 does not prohibit the use of newly developed materials or equipment if such materials and equipment meet the requirements of this division and the Utility Manual described in Part 3 of this chapter.
+(Ord. 7834 Ch. 2 Art. 3 § 256, 1960.)
+20.16.240 - Materials—Service life.
+The material shall have a reasonable useful service life and be capable of withstanding, with ample safety factors, the internal and external forces to which it may be subjected in service. The materials and equipment shall be so selected as to mitigate corrosion, electrolysis and deterioration.
+(Ord. 7834 Ch. 2 Art. 3 § 225, 1960.)
+20.16.250 - Workmanship.
+All work shall be performed by competent workmen experienced in the trade involved. Such work shall be done in a manner to avoid imperfections which might impair the stability of the physical structure. All work and equipment shall comply with applicable codes. Installation shall be made by or under the direction of qualified personnel.
+(Ord. 7834 Ch. 2 Art. 3 § 257, 1960.)
+20.16.260 - Location of distribution and transmission system.
+All water mains located in the public rights-of-way shall be located as specified by the road commissioner at time of obtaining the excavation permit.
+(Ord. 7834 Ch. 2 Art. 3 § 258, 1960.)
+20.16.270 - Housing of equipment and facilities.
+Housing for all equipment, appurtenances and other facilities shall provide adequate ventilation and protection against unauthorized entry, and ample space for the performance of all operating, maintenance and repair functions.
+(Ord. 7834 Ch. 2 Art. 3 § 262, 1960.)
+20.16.280 - Pumping equipment—Foundations.
+Adequate foundation, considering soil conditions, shall be provided to prevent vibration of any rotating equipment.
+(Ord. 7834 Ch. 2 Art. 3 § 259, 1960.)
+20.16.290 - Pump installations.
+Pump installations shall be such as to provide cutting the unit out of service for overhaul and maintenance, and piping shall have flexible couplings to prevent strain on pump cases in case of settlement of foundation or piping.
+(Ord. 7834 Ch. 2 Art. 3 § 261, 1960.)
+20.16.300 - Pumping equipment—Piping.
+All piping shall be installed to provide free flow of water and prevent turbulence.
+(Ord. 7834 Ch. 2 Art. 3 § 260, 1960.)
+20.16.305 - Pumping equipment—Stations.
+Booster pumping stations, except for water wells, in very high fire hazard severity zones shall have two fire hydrants located in close proximity to the stations for the use of the fire department to augment or bypass the pumping station.
+(Ord. 96-0002 § 7, 1996.)
+20.16.310 - Prevention of defects or sanitary hazards.
+Construction shall be such as to prevent sanitary hazards or structural defects whether the pumping unit is handling raw or treated water.
+(Ord. 7834 Ch. 2 Art. 3 § 263, 1960.)
+20.16.320 - Storage—Foundation requirements.
+Adequate foundation, considering soil conditions, shall be provided.
+(Ord. 7834 Ch. 2 Art. 3 § 264, 1960.)
+20.16.330 - Storage—Protective coatings for tanks.
+All steel tanks shall be provided with adequate protective coatings.
+(Ord. 7834 Ch. 2 Art. 3 § 265, 1960.)
+20.16.340 - Storage—Ventilation requirements.
+Adequate ventilation shall be provided in all storage reservoirs or tanks.
+(Ord. 7834 Ch. 2 Art. 3 § 266, 1960.)
+20.16.350 - Storage—Construction, connection and hydrant requirements.
+A fire department connection or a fire hydrant shall be provided and be clearly identified in close proximity to any water storage facility to the satisfaction of the fire marshal.
+(Ord. 96-0002 § 8, 1996.)

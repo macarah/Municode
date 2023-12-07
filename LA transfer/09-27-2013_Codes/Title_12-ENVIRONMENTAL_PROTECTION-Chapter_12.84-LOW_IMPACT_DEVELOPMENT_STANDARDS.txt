@@ -1,0 +1,128 @@
+Chapter 12.84 - LOW IMPACT DEVELOPMENT STANDARDS
+Sections:
+
+12.84.410 - Purpose.
+The purpose of this chapter is:
+A.
+To require the use of low impact development ("LID") standards in developments. LID encourages site sustainability and smart growth in a manner that respects and preserves the characteristics of the County's watersheds, drainage paths, water supplies, and natural resources. LID builds on conventional design strategies by utilizing every softscape and hardscape surface in a development to perform a beneficial hydrologic function by retaining, detaining, storing, changing the timing of, or filtering stormwater and urban runoff. LID encompasses the use of structural devices, engineered systems, vegetated natural designs, and education in order to distribute stormwater and urban runoff across a development site. LID reduces the impact from the development and provides the benefits of:
+1.
+Replenishing groundwater supplies;
+2.
+Improving the quality of surface water runoff;
+3.
+Stabilizing natural stream characteristics;
+4.
+Preserving natural site characteristics; and
+5.
+Minimizing downstream impacts.
+B.
+The provisions in this Chapter 12.84 shall be construed to augment any county, state, or federal ordinance, statute, regulation, or other requirement governing the same or related matter, and where a conflict exists between a provision in this Chapter 12.84 and such other ordinance, statute, regulation, or requirement, the stricter provision shall apply to the extent permitted by law.
+(Ord. No. 2008-0063 § 1 (part), 2008.)
+12.84.420 - Definitions.
+The following definitions shall apply to this chapter:
+A.
+"Beneficial Use" means the existing or potential use of receiving waters as designated by the Los Angeles or Lahontan Regional Water Quality Control Boards in their respective basin plans for the County.
+B.
+"Best management practices (BMPs)" are the methods, measures, and/or practices designed and selected to reduce or eliminate the discharge of pollutants to surface waters from point and nonpoint source discharges, including stormwater.
+C.
+"County" means the County of Los Angeles.
+D.
+"Development" means activity requiring discretionary or non-discretionary land use or construction approval from the County that results in the creation, addition, modification, or replacement of impervious surface area, which replacement is not part of routine maintenance activity. Development includes, but is not limited to, land subdivisions; the construction, installation, addition, or replacement of a building or structure; expansion of a building footprint; and land-disturbing activities related to structural or impervious surfaces. Development shall not include routine maintenance of original lines and grades and/or hydraulic capacity.
+E.
+"Director" means the Director of Public Works.
+F.
+"Drainage system" means a conveyance or system of conveyances, including paths, drives, roads, streets, alleys, catch basins, curbs, gutters, ditches, man-made channels, or storm drains designed or used to collect or convey urban runoff and stormwater.
+G.
+"Excess Volume" means the additional volume of stormwater caused by development; excess volume is determined by calculating the difference in the volume of runoff under undeveloped and post-developed conditions, using the water quality design storm event.
+H.
+"Hardscape" means any durable pervious or impervious surface material, including paving for pedestrians and vehicles.
+I.
+"Hydromodification" means the alteration of a natural drainage system through a change in the system's flow characteristics.
+J.
+"Low impact development ("LID")" means technologies and practices that are part of a sustainable stormwater management strategy that controls stormwater and urban runoff on site.
+K.
+"Natural drainage system" means any unlined or unimproved (not engineered) creek, stream, river, or similar waterway.
+L.
+"Pollutants of concern" means chemical, physical, or biological components of stormwater that impair the beneficial uses of receiving waters, including those defined in the federal Clean Water Act Section 502(6) (33 United States Code Section 1362(6)), and incorporated by reference into California Water Code Section 13373.
+M.
+"Public Works" means the Los Angeles County Department of Public Works.
+N.
+"Softscape" means the horticultural elements of a landscape, such as soil and plants.
+O.
+"Stormwater" means runoff that occurs as the result of rainfall.
+P.
+"Urban runoff" means dry weather surface flows emanating from urban development.
+Q.
+"Water quality design storm event" means any of the volumetric or flow rate based design storm events for water quality BMPs identified in the National Pollutant Discharge Elimination System Municipal Stormwater Permit for the County of Los Angeles.
+(Ord. No. 2008-0063 § 1 (part), 2008.)
+12.84.430 - Applicability.
+A.
+This chapter shall become effective on January 1, 2009, and shall apply to all development within the unincorporated areas of the County after that date except for the following:
+1.
+Any development where a complete discretionary or non-discretionary permit application was filed with the Los Angeles County Department of Regional Planning, Public Works, or any County-controlled design control board, prior to January 1, 2009;
+2.
+Any development involving emergency construction activities required to immediately protect public health and safety; or
+3.
+Public road and flood control infrastructure developments, which shall be subject to Public Works' design standards that incorporate LID principles.
+B.
+Unless excluded by subsection A above, any development that alters an existing impervious surface area shall comply with this Chapter 12.84 as follows:
+1.
+Where the development results in an alteration of at least fifty (50) percent of the impervious surfaces of an existing developed site, the entire site shall be brought into compliance with the standards and requirements of this Chapter; and
+2.
+Where the development results in an alteration of less than fifty (50) percent of the impervious surfaces of an existing developed site, only such incremental development shall meet the standards and requirements of this Chapter; and
+3.
+Where a development results in an alteration of less than fifty (50) percent of the impervious surfaces of an existing developed site consisting of four (4) or fewer residential units, the development shall be exempt from this Chapter.
+(Ord. No. 2008-0063 § 1 (part), 2008.)
+12.84.440 - Low Impact Development Standards.
+A.
+The LID standards of this Chapter are:
+1.
+Mimic undeveloped stormwater and urban runoff rates and volumes in any storm event up to and including the "50-year capital design storm event," as defined by Public Works;
+2.
+Prevent pollutants of concern from leaving the development site in stormwater as the result of storms, up to and including a water quality design storm event; and
+3.
+Minimize hydromodification impacts to natural drainage systems.
+B.
+The Director shall prepare, maintain, and update, as deemed necessary and appropriate, a manual ("LID Standards Manual"), which shall include urban and stormwater runoff quantity and quality control development principles and technologies for achieving the LID Standards described in subsection A of this Section. The LID Standards Manual shall also include technical feasibility and implementation parameters, as well as other rules, requirements and procedures as the Director deems necessary, for implementing the provisions of this Chapter 12.84
+C.
+To meet the standards described in subsection A of this Section, developments shall install and maintain minimum site design features as follows:
+1.
+A development consisting of four (4) or fewer residential units shall implement at least two LID BMP alternatives listed in the LID Standards Manual, which alternatives include, but are not limited to, disconnecting impervious surfaces, using porous pavement, downspout routing, a dry well, landscaping and irrigation requirements, and a green roof.
+2.
+A development consisting of five (5) or more residential units, or a nonresidential development, shall comply with the following requirements:
+a.
+The excess volume from each lot upon which such development is occurring shall be infiltrated at the lot level, or in the alternative, the excess volume from the entire development site, including streets and public right-of-way, shall be infiltrated in sub-regional facilities. The tributary area of a sub-regional facility shall be limited to five (5) acres, but may be exceeded with approval of the Director. When infiltration of all excess volume is not technically feasible, on-site storage, reuse, or other water conservation uses of the excess volume is required and shall be implemented as authorized by the Director in accordance with the requirements and provisions in the LID Standards Manual.
+b.
+The runoff from the water quality design storm event associated with the developed site hydrology must be treated to the satisfaction of the Director before discharge.
+(Ord. No. 2008-0063 § 1 (part), 2008.)
+12.84.450 - Site Plan/LID Plan Review.
+Compliance with the LID standards of this Chapter 12.84 shall be shown through a site plan review described in subsection A, below, and a LID plan review described in subsection B, below.
+A.
+Site plan review.
+1.
+The County Department of Regional Planning shall conduct a site plan review in accordance with Title 22 of the Los Angeles County Code to determine compliance with this Chapter 12.84. The site plan submitted for the development shall clearly depict any and all LID standards that will be incorporated into the development. Regional Planning shall approve compliance with these standards in concept only, subject to the setback and development standards in Title 22. Final approval of such compliance shall be made by Public Works in conjunction with its review and approval of the LID plan described in subsection B.
+2.
+The same site plan shall be used to show compliance with this Chapter 12.84, the green building requirements of Part 20, Chapter 22.52, and the drought-tolerant landscaping requirements of Part 21, Chapter 22.52, to the extent these other requirements apply to the development.
+3.
+In any case where a site plan for a development has been or will be concurrently filed with an application for a permit, variance, zone change, development agreement, or other discretionary approval under Title 22, or with an application for a subdivision under Title 21, the site plan procedure set forth in this Section 12.84.450 shall not apply and instead, the Exhibit "A," tentative map, or other site plan required for such other approval shall be used to show compliance with this Chapter 12.84
+B.
+LID plan review.
+In addition to the site plan required by subsection A of this Section, the applicant shall also submit a LID plan to the Director for review and approval that provides a comprehensive, technical discussion of how the development will comply with this Chapter 12.84 and the LID Standards Manual. A deposit and fee to recover the costs associated with LID plan review shall be required. The time for obtaining LID plan approval shall be as follows:
+1.
+For subdivisions, the LID plan shall be approved prior to the tentative map approval;
+2.
+For any development requiring a conditional use permit ("CUP") or other entitlement required under Title 22 of the Los Angeles County Code, the LID plan shall be approved prior to the issuance of any such CUP or other entitlement; and
+3.
+For all other development, the LID plan shall be approved prior to issuance of a grading permit for such development, and when no grading permit is required, prior to the issuance of a building permit for such development.
+(Ord. No. 2008-0063 § 1 (part), 2008.)
+12.84.460 - Additional Requirements.
+Compliance with this Chapter 12.84 shall also require a development to satisfy the following:
+A.
+All grading and/or site drainage plans for the development shall incorporate the features of the approved LID plan described in subsection B of Section 12.84.450
+B.
+The development's LID features shall be maintained and shall remain operable at all times and shall not be removed from the development unless and until such features have been replaced with other LID features in accordance with this Chapter 12.84. A covenant or agreement shall be recorded in the office of the Los Angeles County Registrar-Recorder/County Clerk indicating that the owner of the subject development is aware and agrees to the requirements in this subsection B. The covenant or agreement shall also include a diagram of the site indicating the location and type of each LID feature incorporated into the development. The time to record such covenant or agreement shall be as follows:
+1.
+For any subdivision, prior to final map approval; and
+2.
+For any other development, prior to issuance of a grading permit for the development, and when no grading permit is required, prior to the issuance of a building permit for the development.
+(Ord. No. 2008-0063 § 1 (part), 2008.)

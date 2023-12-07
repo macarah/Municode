@@ -1,0 +1,45 @@
+CHAPTER 18 - SOILS AND FOUNDATIONS
+
+SECTION 1805 - FOOTINGS AND FOUNDATIONS
+TABLE 1805.4.2
+FOOTINGS SUPPORTING WALLS OF
+LIGHT-FRAMED CONSTRUCTION a, b, c, d, e
+EXPAND
+NUMBER OF
+FLOORS SUPPORTED BY THE FOOTING f WIDTH OF FOOTING (Inches) THICKNESS OF
+FOOTING (Inches)
+    For SI: 1 inch =25.4 mm, 1 foot = 304.8 mm
+(Ord. 2007-0108 § 8 (part), 2007.)
+1805.4.5 [Reserved.]
+(Ord. 2007-0108 § 9 (part), 2007.)
+1805.4.6 [Reserved.]
+(Ord. 2007-0108 § 10 (part), 2007.)
+1805.5 Foundation walls.
+Concrete and masonry foundation walls shall be designed in accordance with Chapter 19 or 21.
+(Ord. 2007-0108 § 12 (part), 2007.)
+SECTION 1807 - DAMPPROOFING AND WATERPROOFING
+1807.1.4 Permanent wood foundations systems.
+Permanent wood foundation systems shall be designed and installed in accordance with AF&PA PWF. Lumber and plywood shall be treated in accordance with AWPA U1 (Commodity Specification A, Use Category 4B and Section 5.2) and shall be identified in accordance with Section 2303.1.8.1. Permanent wood foundation systems shall not be used for structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2010-0053 § 39, 2010.)
+1807.1.6 Prescriptive design of concrete and masonry foundation walls.
+Concrete and masonry foundation walls that are laterally supported at the top and bottom shall be permitted to be designed and constructed in accordance with this Section. Prescriptive design of foundation walls shall not be used for structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2010-0053 § 40, 2010.)
+SECTION 1809 - DRIVEN PILE FOUNDATIONS
+1809.3 Stepped footings.
+. . .
+For structures assigned to Seismic Design Category D, E, or F, the stepping requirement shall also apply to the top surface of grade beams supporting walls. Footings shall be reinforced with four 1/2-inch diameter (12.7 mm) deformed reinforcing bars. Two bars shall be placed at the top and bottom of the footings as shown in Figure 1809.3.
+FIGURE 1809.3 STEPPED FOOTING
+(Ord. 2010-0053 § 41, 2010.)
+1809.7 Prescriptive footings for light-frame construction.
+Where a specific design is not provided, concrete or masonry-unit footings supporting walls of light-frame construction shall be permitted to be designed in accordance with Table 1809.7. Prescriptive footings in Table 1809.7 shall not exceed one story above grade plane for structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2010-0053 § 42, 2010.)
+TABLE 1809.7
+PRESCRIPTIVE FOOTINGS SUPPORTING WALLS OF LIGHT-FRAME CONSTRUCTION a, b, c, d, e
+. . .
+c.
+[Reserved].
+. . .
+(Ord. 2010-0053 § 43, 2010.)
+1809.12 Timber footings.
+Timber footings shall be permitted for buildings of Type V construction and as otherwise approved by the Building Official. Such footings shall be treated in accordance with AWPA U1 (Commodity Specification A, Use Category 4B). Treated timbers are not required where placed entirely below permanent water level, or where used as capping for wood piles that project above the water level over submerged or marsh lands. The compressive stresses perpendicular to grain in untreated timber footing supported upon treated piles shall not exceed 70 percent of the allowable stresses for the species and grade of timber as specified in the AF&PA NDS. Timber footings shall not be used in structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2010-0053 § 44, 2010.)

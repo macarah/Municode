@@ -1,0 +1,410 @@
+Chapter 12.08 - NOISE CONTROL
+Parts:
+Part 1 - GENERAL PROVISIONS
+Sections:
+
+12.08.010 - Title for citation.
+The ordinance codified in this chapter may be cited as the "noise control ordinance of the county of Los Angeles."
+(Ord. 11778 § 2 (Art. 1 § 101), 1978: Ord. 11773 § 2 (Art. 1 § 101), 1978.)
+12.08.020 - Declaration of policy—Nuisances deemed misdemeanors.
+A.
+In order to control unnecessary, excessive and annoying noise and vibration in the county of Los Angeles, it is declared to be the policy of the county to prohibit such noise and vibration generated from any sources as specified in this chapter. It shall be the policy of the county to maintain quiet in those areas which exhibit low noise levels and to implement programs aimed at reducing noise in those areas within the county where noise levels are above acceptable values.
+B.
+It is determined that certain noise levels and vibration are detrimental to the public health, welfare and safety and contrary to public interest, and therefore the board of supervisors of the county does ordain and declare that creating, maintaining, causing or allowing to be created, caused or maintained any noise or vibration in a manner prohibited by or not in conformity with the provisions of this chapter is a public nuisance and shall be punishable as such.
+(Ord. 11778 § 2 (Art. 2 § 201), 1978: Ord. 11773 § 2 (Art. 2 § 201), 1978.)
+Part 2 - DEFINITIONS
+Sections:
+
+12.08.030 - Terminology—Conformity with ANSI standards.
+All terminology used in this chapter, not defined in this Part 2, shall be in conformance with applicable publications of the American National Standards Institute (ANSI) or its successor body.
+(Ord. 11778 § 2 (Art. 3 § 301), 1978: Ord. 11773 § 2 (Art. 3 § 301), 1978.)
+12.08.040 - Definitions applicable.
+The following words, phrases and terms as used in this chapter shall have the meanings as indicated in this Part 2.
+(Ord. 11778 § 2 (Art. 3 § 302 (part)), 1978: Ord. 11773 § 2 (Art. 3 § 302 (part)), 1978.)
+12.08.050 - Agricultural property.
+"Agricultural property" means a parcel of real property which is undeveloped for any use other than agricultural purposes.
+(Ord. 11778 § 2 (Art. 3 § 302(a)), 1978: Ord. 11773 § 2 (Art. 3 § 302(a)), 1978.)
+12.08.060 - Ambient noise histogram.
+"Ambient noise histogram" means the composite of all noise from sources near and far, excluding the alleged intrusive noise source. In this context, the ambient noise histogram shall constitute the normal or existing level of environmental noise at a given location.
+(Ord. 11778 § 2 (Art. 3 § 302(b)), 1978: Ord. 11773 § 2 (Art. 3 § 302(b)), 1978.)
+12.08.070 - A-weighted sound level.
+"A-weighted sound level" means the sound level in decibels as measured on a soundlevel meter using the A-weighting network. The level so read is designated dB (A) or dBA.
+(Ord. 11778 § 2 (Art. 3 § 302(c)), 1978: Ord. 11773 § 2 (Art. 3 § 302(c)), 1978.)
+12.08.080 - Commercial property.
+"Commercial property" means a parcel of real property which is developed and used either in part or in whole for commercial purposes. In cases of multiple land uses of any property, the county zoning classification of such property pursuant to county Ordinance 1494, as amended, shall be applicable. (See Title 22 of this code.)
+(Ord. 11778 § 2 (Art. 3 § 302(d)), 1978: Ord. 11773 § 2 (Art. 3 § 302(d)), 1978.)
+12.08.090 - Construction.
+"Construction" means any site preparation, assembly, erection, substantial repair, alteration, or similar action, for or of public or private rights-of-way, structures, utilities, or similar property.
+(Ord. 11778 § 2 (Art. 3 § 302(e)), 1978: Ord. 11773 § 2 (Art. 3 § 302(e)), 1978.)
+12.08.100 - Cumulative period.
+"Cumulative period" means an additive period of time composed of individual time segments which may be continuous or interrupted.
+(Ord. 11778 § 2 (Art. 3 § 302(f)), 1978: Ord. 11773 § 2 (Art. 3 § 302(f)), 1978.)
+12.08.110 - Decibel.
+"Decibel" means a unit for measuring the amplitude of a sound, equal to 20 times the logarithm to the base of 10 of the ratio of the pressure of the sound measured to the reference pressure, which is 20 micropascals.
+(Ord. 11778 § 2 (Art. 3 § 302(g)), 1978: Ord. 11773 § 2 (Art. 3 § 302(g)), 1978.)
+12.08.120 - Dwelling unit.
+"Dwelling unit" means a single unit providing complete independent living facilities for one or more persons, including permanent provisions for living, sleeping, eating, cooking and sanitation.
+(Ord. 11778 § 2 (Art. 3 § 302(h)), 1978: Ord. 11773 § 2 (Art. 3 § 302(h)), 1978.)
+12.08.130 - Emergency machinery, vehicle or alarm.
+"Emergency machinery, vehicle or alarm" means any machinery, vehicle or alarm used, employed, performed or operated in an effort to protect, provide or restore safe conditions in the community or for the citizenry, or work by private or public utilities when restoring utility service.
+(Ord. 11778 § 2 (Art. 3 § 302(i)), 1978: Ord. 11773 (Art. 3 § 302(i)), 1978.)
+12.08.140 - Emergency work.
+"Emergency work" means any work performed for the purpose of preventing or alleviating the physical trauma or property damage threatened or caused by an emergency.
+(Ord. 11778 § 2 (Art. 3 § 302(j)), 1978: Ord. 11773 (Art. 3 § 302(j)), 1978.)
+12.08.150 - Fixed noise source.
+"Fixed noise source" means a stationary device which creates sounds while fixed or motionless, including but not limited to residential, agricultural, industrial and commercial machinery and equipment, pumps, fans, compressors, air conditioners and refrigeration equipment.
+(Ord. 11778 § 2 (Art. 3 § 302(k)), 1978: Ord. 11773 (Art. 3 § 302(k)), 1978.)
+12.08.160 - Grading.
+"Grading" means any excavating or filling of earth material or any combination thereof conducted at a site to prepare said site for construction or other improvements thereon.
+(Ord. 11778 § 2 (Art. 3 § 302(1)), 1978: Ord. 11773 (Art. 3 § 302(1)), 1978.)
+12.08.170 - Health care institution.
+"Health care institution" means any hospital, convalescent home, or other similar facilities which provide health care, medical treatment, room, board or other services for the ill, retarded or convalescent.
+(Ord. 11778 § 2 (Art. 3 § 302(m)), 1978: Ord. 11773 (Art. 3 § 302(m)), 1978.)
+12.08.180 - Health officer.
+"Health officer" means the director of the department of public health of the county of Los Angeles, or his duly authorized representative.
+(Ord. 2006-0040 § 106, 2006: Ord. 11778 § 2 (Art. 3 § 302(n)), 1978: Ord. 11773 (Art. 3 § 302(n)), 1978.)
+12.08.190 - Impulsive noise.
+"Impulsive noise" means a sound of short duration, usually less than one second and of high intensity, with an abrupt onset and rapid decay.
+(Ord. 11778 § 2 (Art. 3 § 302(o)), 1978: Ord. 11773 (Art. 3 § 302 (o)), 1978.)
+12.08.200 - Industrial property.
+"Industrial property" means property which is developed and used either in part or in whole for manufacturing purposes. In cases of multiple land uses of any property, the county zoning classification of such property pursuant to county Ordinance 1494, as amended, shall be applicable. (See Title 22 of this code.)
+(Ord. 11778 § 2 (Art. 3 § 302(p)), 1978: Ord. 11773 § 2 (Art. 3 § 302(p)), 1978.)
+12.08.210 - Intrusive noise.
+"Intrusive noise" means that alleged offensive noise which intrudes over and above the existing ambient noise at the receptor property.
+(Ord. 11778 § 2 (Art. 3 § 302(q)), 1978: Ord. 11773 § 2 (Art. 3 § 302(q)), 1978.)
+12.08.220 - Mobile noise source.
+"Mobile noise source" means any noise source other than a fixed noise source.
+(Ord. 11778 § 2 (Art. 3 § 302(r)), 1978: Ord. 11773 § 2 (Art. 3 § 302(r)), 1978.)
+12.08.230 - Noise disturbance.
+"Noise disturbance" means an alleged intrusive noise which violates an applicable noise standard as set forth in this chapter.
+(Ord. 11778 § 2 (Art. 3 § 302(s)), 1978: Ord. 11773 § 2 (Art. 3 § 302(s)), 1978.)
+12.08.240 - Noise histogram.
+"Noise histogram" means a graphical representation of the distribution of frequency of occurrence of all noise levels near and far measured over a given period of time.
+(Ord. 11778 § 2 (Art. 3 § 302(u)), 1978: Ord. 11773 § 2 (Art. 3 § 302(u)), 1978.)
+12.08.250 - Noise level (L).
+"Noise level (LN)" means that noise level expressed in decibels which exceeds the specified (LN) value as a percentage of total time measured. For instance, an L25 noise level means that noise level which is exceeded 25 percent of the time measured.
+(Ord. 11778 § 2 (Art. 3 § 302 (v)), 1978: Ord. 11773 § 2 (Art. 3 § 302(v)), 1978.)
+12.08.260 - Noise-sensitive zone.
+"Noise-sensitive zone" means any area designated pursuant to Part 4 of this chapter for the purpose of ensuring exceptional quiet.
+(Ord. 11778 § 2 (Art. 3 § 302(t)), 1978: Ord. 11773 § 2 (Art. 3 § 302(t)), 1978.)
+12.08.270 - Noise zone.
+"Noise zone" means any defined area or region of a generally consistent land use, as described in Section 12.08.380
+(Ord. 11778 § 2 (Art. 3 § 302(w)), 1978: Ord. 11773 § 2 (Art. 3 § 302(w)), 1978.)
+12.08.280 - Person.
+"Person" means any individual, firm, association, partnership, joint venture, or corporation.
+(Ord. 11778 § 2 (Art. 3 § 302(x)), 1978: Ord. 11773 § 2 (Art. 3 § 302(x)), 1978.)
+12.08.290 - Powered model vehicle.
+"Powered model vehicle" means any self-propelled airborne, waterborne or landborne plane, vessel or vehicle which is not designed to carry individuals, including but not limited to any model airplane, boat, car or rocket.
+(Ord. 11778 § 2 (Art. 3 § 302(y)), 1978: Ord. 11773 § 2(Art. 3 § 302(y)), 1978.)
+12.08.300 - Public right-of-way.
+"Public right-of-way" means any street, avenue, boulevard, highway, sidewalk or alley, or similar place, which is owned or controlled by a governmental entity.
+(Ord. 11778 § 2 (Art. 3 § 302(z)), 1978: Ord. 11773 § 2 (Art. 3 § 302(z)), 1978.)
+12.08.310 - Pure tone noise.
+"Pure tone noise" means any sound which can be judged as audible as a single pitch or a set of single pitches by the health officer, for the purposes of this chapter, a pure tone shall exist if the one-third octave band sound-pressure level in the band with the tone exceeds the arithmetic average of the sound-pressure levels of the two contiguous one-third octave bands by 5 dB for center frequencies of 500 Hertz and above, and by 8 dB for center frequencies between 160 and 400 Hertz, and by 15 dB for center frequencies less than or equal to 125 Hertz.
+(Ord. 11778 § 2 (Art. 3 § 302(aa)), 1978: Ord. 11773 § 2 (Art. 3 § 302(aa)), 1978.)
+12.08.320 - Real property boundary.
+"Real property boundary" means an imaginary line along the ground surface, and its vertical extension, which separates the real property owned by one person from that owned by another person, but not including intra-building real property divisions.
+(Ord. 11778 § 2 (Art. 3 § 302(bb)), 1978: Ord. 11773 § 2 (Art. 3 § 302(bb)), 1978.)
+12.08.330 - Residential property.
+"Residential property" means a parcel of real property which is developed and used either in part or in whole for residential purposes, other than transient uses such as hotels and motels. In cases of multiple land uses of any property, the county zoning classification of such property pursuant to county Ordinance 1494, as amended, shall be applicable.
+(Ord. 11778 § 2 (Art. 3 § 302(cc)), 1978: Ord. 11773 § 2 (Art. 3 § 302(cc)), 1978.)
+12.08.340 - Sound level meter.
+"Sound level meter" means an instrument, including a microphone, an amplifier, an output meter and frequency weighting network, for the measurement of sound levels, which satisfies the requirements pertinent for Type S2A meters in American National Standards Institute specifications for sound level meters, S1.4-1971, or the most recent revision thereof.
+(Ord. 11778 § 2 (Art. 3 § 302(dd)), 1978: Ord. 11773 § 2 (Art. 3 § 302(dd)), 1978.)
+12.08.350 - Vibration.
+"Vibration" means the minimum ground or structure-borne vibrational motion necessary to cause a normal person to be aware of the vibration by such direct means as, but not limited to, sensation by touch or visual observations of moving objects. The perception threshold shall be presumed to be a motion velocity of 0.01 in/sec over the range of 1 to 100 Hertz.
+(Ord. 11778 § 2 (Art. 3. § 302(ee)), 1978: Ord. 11773 § 2 (Art. 3 § 302(ee)), 1978.)
+12.08.360 - Weekday.
+"Weekday" means any day, Monday through Friday, which is not a legal holiday.
+(Ord. 11778 § 2 (Art. 3 § 302(ff)), 1978: Ord. 11773 § 2 (Art. 3 § 302(ff), 1978.)
+Part 3 - COMMUNITY NOISE CRITERIA
+Sections:
+
+12.08.370 - Decibel measurement—Basis.
+Any decibel measurement made pursuant to the provisions of this chapter shall be based on a reference sound-pressure of 20 micropascals, as measured with a sound level meter using the A-weighted network (scale) at slow response, or at the fast response when measuring impulsive sound levels and vibrations.
+(Ord. 11778 § 2 (Art. 4 § 401), 1978: Ord. 11773 § 2 (Art. 4 § 401), 1978.)
+12.08.380 - Noise zones designated.
+Receptor properties described hereinafter in this chapter are hereby assigned to the following noise zones:
+Noise Zone I—Noise-sensitive area; Noise Zone II—Residential properties; Noise Zone III—Commercial properties; Noise Zone IV—Industrial properties.
+(Ord. 11778 § 2 (Art. 4 § 402), 1978: Ord. 11773 § 2 (Art. 4 § 402), 1978.)
+12.08.390 - Exterior noise standards—Citations for violations authorized when.
+A.
+Unless otherwise herein provided, the following exterior noise levels shall apply to all receptor properties within a designated noise zone:
+EXPAND
+Noise Zone Designated Noise Zone Land Use (Receptor property) Time Interval Exterior Noise Level (dB)
+I Noise-sensitive area Anytime 45
+II Residential properties 10:00 pm to 7:00 am (nighttime) 45
+7:00 am to 10:00 pm (daytime) 50
+III Commercial properties 10:00 pm to 7:00 am (nighttime) 55
+7:00 am to 10:00 pm (daytime) 60
+IV Industrial properties Anytime 70
+  B.
+Unless otherwise herein provided, no person shall operate or cause to be operated, any source of sound at any location within the unincorporated county, or allow the creation of any noise on property owned, leased, occupied or otherwise controlled by such person which causes the noise level, when measured on any other property either incorporated or unincorporated, to exceed any of the following exterior noise standards:
+Standard No. 1 shall be the exterior noise level which may not be exceeded for a cumulative period of more than 30 minutes in any hour. Standard No. 1 shall be the applicable noise level from subsection A of this section; or, if the ambient L50 exceeds the foregoing level, then the ambient L50 becomes the exterior noise level for Standard No. 1.
+Standard No. 2 shall be the exterior noise level which may not be exceeded for a cumulative period of more than 15 minutes in any hour. Standard No. 2 shall be the applicable noise level from subsection A of this section plus 5dB; or, if the ambient L25 exceeds the foregoing level, then the ambient L25 becomes the exterior noise level for Standard No. 2.
+Standard No. 3 shall be the exterior noise level which may not be exceeded for a cumulative period of more than five minutes in any hour. Standard No. 3 shall be the applicable noise level from subsection A of this section plus 20dB; or, if the ambient L8.3 exceeds the foregoing level, then the ambient L8.3 becomes exterior noise level for Standard No. 3.
+Standard No. 4 shall be the exterior noise level which may not be exceeded for a cumulative period of more than one minute in any hour. Standard No. 4 shall be the applicable noise level from subsection A of this section plus 15dB; or, if the ambient L1.7 exceeds the foregoing level, then the ambient L1.7 becomes the exterior noise level for Standard No. 4.
+Standard No. 5 shall be the exterior noise level which may not be exceeded for any period of time. Standard No. 5 shall be the applicable noise level from subsection A of this section plus 20dB; or, if the ambient L0 exceeds the foregoing level then the ambient L0 becomes the exterior noise level for Standard No. 5.
+C.
+If the measurement location is on a boundary property between two different zones, the exterior noise level utilized in subsection B of this section to determine the exterior standard shall be the arithmetic mean of the exterior noise levels in subsection A of the subject zones. Except as provided for above in this subsection C, when an intruding noise source originates on an industrial property and is impacting another noise zone, the applicable exterior noise level as designated in subsection A shall be the daytime exterior noise level for the subject receptor property.
+D.
+The ambient noise histogram shall be measured at the same location along the property line utilized in subsection B of this section, with the alleged intruding noise source inoperative. If for any reason the alleged intruding noise source cannot be turned off, the ambient noise histogram will be estimated by performing a measurement in the same general area of the alleged intruding noise source but at a sufficient distance such that the noise from the alleged intruding noise source is at least 10dB below the ambient noise histogram in order that only the actual ambient noise histogram be measured. If the difference between the ambient noise histogram and the alleged intruding noise source is 5 to 10dB, then the level of the ambient noise histogram itself can be reasonably determined by subtracting a one-decibel correction to account for the contribution of the alleged intruding noise source.
+E.
+In the event the intrusive exceeds the exterior noise standards as set forth in subsections B and C of this section at a specific receptor property and the health officer has reason to believe that this violation at said specific receptor property was unanticipated and due to abnormal atmospheric conditions, the health officer shall issue an abatement notice in lieu of a citation. If the specific violation is abated, no citation shall be issued therefor. If, however, the specific violation is not abated, the health officer may issue a citation.
+(Ord. 11778 § 2 (Art. 4 § 403), 1978: Ord. 11773 § 2 (Art. 4 § 403), 1978.)
+12.08.400 - Interior noise standards.
+A.
+No person shall operate or cause to be operated within a dwelling unit, any source of sound, or allow the creation of any noise, which causes the noise level when measured inside a neighboring receiving dwelling unit to exceed the following standards:
+Standard No. 1 The applicable interior noise level for cumulative period of more than five minutes in any hour; or
+Standard No. 2 The applicable interior noise level plus 5dB for a cumulative period of more than one minute in any hour; or
+Standard No. 3 The applicable interior noise level plus 10dB or the maximum measured ambient noise level for any period of time.
+B.
+The following interior noise levels for multifamily residential dwellings shall apply, unless otherwise specifically indicated, within all such dwellings with windows in their normal seasonal configuration.
+EXPAND
+Noise Zone Designated Land Use Time Interval Allowable Interior Noise Level (dB)
+All Multifamily 10 pm—7 am 40
+Residential 7 am—10 pm 45
+  C.
+If the measured ambient noise level reflected by the L50 exceeds that permissible within any of the interior noise standards in subsection A of Section 12.08.390, the allowable interior noise level shall be increased in 5dB increments in each standard as appropriate to reflect said ambient noise level (L50).
+(Ord. 11778 § 2(Art. 4 § 404), 1978: Ord. 11773 § 2 (Art. 4 § 404), 1978.)
+12.08.410 - Correction for certain types of sounds.
+For any source of sound which emits a pure tone or impulsive noise, the noise levels as set forth in Sections 12.08.390 and 12.08.400 shall be reduced by five decibels.
+(Ord. 11778 § 2 (Art. 4 § 405), 1978: Ord. 11773 § 2 (Art. 4 § 405), 1978.)
+12.08.420 - Measurement methods.
+A.
+Utilizing the A-weighting scale of the sound-level meter and the "slow" meter response (use "fast" response for impulsive type sounds), the noise level shall be measured at a position or positions at any point on the receiver's property.
+B.
+In general, the microphone shall be located four to five feet above the ground; 10 feet or more from the nearest reflective surface, where possible. However, in those cases where another elevation is deemed appropriate, the latter shall be utilized.
+C.
+Interior noise measurements shall be made within the affected residential unit. The measurements shall be made at a point at least four feet from the wall, ceiling or floor nearest the noise source, with windows in the normal seasonal configuration. Calibration of the measurement equipment, utilizing an acoustic calibrator, shall be performed immediately prior to recording any noise data.
+(Ord. 11778 § 2 (Art. 4 § 406), 1978: Ord. 11773 § 2 (Art. 4 § 406), 1978.)
+Part 4 - SPECIFIC NOISE RESTRICTIONS
+Sections:
+
+12.08.430 - Acts deemed violations when.
+Notwithstanding any other provisions of this chapter, the acts set out in this Part 4, and the causing or permitting thereof, are declared to be in violation of this chapter.
+(Ord. 11778 § 2 (Art. 5 § 501 (part)), 1978: Ord. 11773 § 2 (Art. 5 § 501 (part)), 1978.)
+12.08.440 - Construction noise.
+A.
+Operating or causing the operation of any tools or equipment used in construction, drilling, repair, alteration or demolition work between weekday hours of 7:00 p.m. and 7:00 a.m., or at any time on Sundays or holidays, such that the sound therefrom creates a noise disturbance across a residential or commercial real-property line, except for emergency work of public service utilities or by variance issued by the health officer is prohibited.
+B.
+Noise Restrictions at Affected Structures. The contractor shall conduct construction activities in such a manner that the maximum noise levels at the affected buildings will not exceed those listed in the following schedule:
+1.
+At Residential Structures.
+a.
+Mobile Equipment. Maximum noise levels for nonscheduled, intermittent, short-term operation (less than 10 days) of mobile equipment:
+EXPAND
+Single-family Residential Multi-family Residential Semiresidential/ Commercial
+Daily, except Sundays and legal holidays, 7:00 a.m. to 8:00 p.m. 75dBA 80dBA 85dBA
+Daily, 8:00 p.m. to 7:00 a.m. and all day Sunday and legal holidays 60dBA 64dBA 70dBA
+  b.
+Stationary Equipment. Maximum noise level for repetitively scheduled and relatively long-term operation (periods of 10 days or more) of stationary equipment:
+EXPAND
+Single-family Residential Multi-family Residential Semiresidential/ Commercial
+Daily, except Sundays and legal holidays, 7:00 a.m. to 8:00 p.m. 60dBA 65dBA 70dBA
+Daily, 8:00 p.m. to 7:00 a.m. and all day Sunday and legal holidays 50dBA 55dBA 60dBA
+  2.
+At Business Structures.
+a.
+Mobile equipment. Maximum noise levels for nonscheduled, intermittent, short-term operation of mobile equipment:
+Daily, including Sunday and legal holidays, all hours: maximum of 85dBA.
+C.
+All mobile or stationary internal-combustion-engine powered equipment or machinery shall be equipped with suitable exhaust and air-intake silencers in proper working order.
+D.
+In case of a conflict between this chapter and any other ordinance regulating construction activities, provisions of any specific ordinance regulating construction activities shall control.
+(Ord. 11778 § 2 (Art. 5 § 501(c)), 1978: Ord. 11778 § 2 (Art. 5 § 501(c)), 1978.)
+12.08.450 - Forced-air blowers in tunnel car washes.
+Operating or permitting the operation of any forced-air blower in a tunnel car wash between the hours of 7:00 a.m. and 8:00 p.m. in such a manner as to exceed any of the following sound levels is prohibited:
+EXPAND
+Units Installed
+Measurement Location Before 1-1-80 dB On or After 1-1-80 dB
+Any point on contiguous receptor property, five feet above grade level, no closer than three feet from any wall
+Residential 70 60
+Commercial/Industrial 75 65
+  (Ord. 11778 § 2 (Art. 5 § 501(m)), 1978: Ord. 11773 § 2 (Art. 5 § 501(m)), 1978.)
+12.08.460 - Loading and unloading operations.
+Loading, unloading, opening, closing or other handling of boxes, crates, containers, building materials, garbage cans or similar objects between the hours of 10:00 p.m. and 6:00 a.m. in such a manner as to cause noise disturbance is prohibited.
+(Ord. 11778 § 2 (Art. 5 § 501(b)), 1978: Ord. 11773 § 2 (Art. 5 § 501(b)), 1978.)
+12.08.470 - Noise disturbances in noise-sensitive zones.
+A.
+Creating or causing the creation of any noise disturbance within any noise-sensitive zone, as designated by the health officer, is prohibited, provided that conspicuous signs are displayed indicating the presence of the zone.
+B.
+Noise-sensitive zones must be indicated by the display of conspicuous signs in at least three separate locations within 164 meters (one-tenth mile) of the institution or facility.
+(Ord. 11778 § 2 (Art. 5 § 501(k)), 1978: Ord. 11773 § 2(Art. 5 § 501(k)), 1978.)
+12.08.480 - Places of public entertainment.
+Operating, playing or permitting the operation or playing of any radio, television, phonograph, drum, musical instrument, sound amplifier or similar device which produces, reproduces or amplifies sound in any place of public entertainment at a sound level greater than 95dBA, as read by the slow response on a soundlevel meter at any point that is normally occupied by a customer is prohibited, unless a conspicuous and legible sign is located outside such place, near each public entrance, stating "WARNING: SOUND LEVELS WITHIN MAY CAUSE HEARING IMPAIRMENT."
+(Ord. 11778 § 2 (Art. 5 § 501(f)), 1978: Ord. 11773 § 2 (Art. 5 § 501(f)), 1978.)
+12.08.490 - Powered model vehicles.
+Operating or permitting the operation of powered model vehicles so as to create a noise disturbance across a residential real-property boundary, or within a noise-sensitive zone between the hours of 8:00 p.m. and 7:00 a.m. the following day is prohibited.
+(Ord. 11778 § 2 (Art. 5 § 501(g)), 1978: Ord. 11773 § 2 (Art. 5 § 501(g)) 1978.)
+12.08.500 - Emergency signaling devices.
+A.
+The intentional sounding or permitting the sounding outdoors of any emergency signaling device, including fire, burglar or civil-defense alarm, siren, whistle, or similar stationary emergency signaling device, except for emergency purposes or for testing, as provided in subsection B2 below, is prohibited.
+B.
+1.
+Testing of a stationary emergency signaling device shall not occur before 7:00 a.m. or after 7:00 p.m. Any such testing shall use only the minimum cycle test time. In no case shall such test time exceed 60 seconds.
+2.
+Testing of the complete emergency signaling system, including the functioning of the signaling device, and the personnel response to the signaling device, shall not occur more than once in each calendar month. Such testing shall not occur before 7:00 a.m. or after 10:00 p.m. The time limit specified in subsection B1 above shall not apply to such complete-system testing.
+C.
+Sounding or permitting the sounding of any exterior burglar or fire alarm, or any motor-vehicle burglar alarm is prohibited, unless such alarm is terminated within 15 minutes of activation.
+(Ord. 11778 § 2 (Art. 5 § 501(i)), 1978: Ord. 11773 § 2 (Art. 5 § 501(i)), 1978.)
+12.08.510 - Stationary nonemergency signaling devices.
+A.
+Sounding or permitting the sounding of any electronically amplified signal from any stationary bell, chime, siren, whistle, or similar device intended primarily for nonemergency purposes, from any place, for more than 10 consecutive seconds in any hourly period is prohibited.
+B.
+Houses of religious worship shall be exempt for the operation of this provision.
+C.
+Sound sources covered by this provision and not exempted under subsection B may be exempted by a variance issued by the health officer.
+(Ord. 11778 § 2 (Art. 5 § 501(h)), 1978: Ord. 11773 § 2( Art. 5 § 501(h)), 1978.)
+12.08.520 - Refuse collection vehicles.
+A.
+On or after three years following August 17, 1978, the effective date of the ordinance codified in this chapter, operating or permitting the operation of the compacting mechanism of any motor vehicle which compacts refuse and which creates, during the compacting cycle, a sound level in excess of 86dBA when measured at 50 feet from any point of the vehicle is prohibited.
+B.
+Operating or permitting the operation of the compacting mechanism of any motor vehicle which compacts refuse between the hours of 10:00 p.m. and 6:00 a.m. the following day in a residential area or noise-sensitive zone, or within 500 feet thereof is prohibited.
+C.
+Collecting refuse with collection vehicle between the hours of 10:00 p.m. and 6:00 a.m. the following day in a residential area or noise-sensitive zone or within 500 feet thereof.
+D.
+In the case of conflict between this chapter and any other ordinance regulating refuse collection, provisions of any specific ordinance regulating refuse collection shall control.
+(Ord. 11778 § 2 (Art. 5 § 501(j)), 1978: Ord. 11773 § 2 (Art. 5 § 501(j)), 1978.)
+12.08.530 - Residential airconditioning or refrigeration equipment.
+Operating or permitting the operation of any airconditioning or refrigeration equipment in such a manner as to exceed any of the following sound levels is prohibited.
+EXPAND
+Measurement Location Units Installed Before 1-1-80 dBA Units Installed On or After 1-1-80 dBA
+Any point on neighboring property line, 5 feet above grade level, no closer than 3 feet from any wall. 60 55
+Center of neighboring patio, 5 feet above grade level, no closer than 3 feet from any wall. 55 50
+Outside the neighboring living area window nearest the equipment location, not more than 3 feet from the window opening, but at least 3 feet from any other surface. 55 50
+  (Ord. 11778 § 2 (Art. 5 § 501(1)), 1978: Ord. 11773 § 2 (Art. 5 § 501(1)), 1978.)
+12.08.540 - Street sales.
+Offering for sale, selling anything, or advertising by shouting or outcry within any residential or commercial area or noise-sensitive zone of the unincorporated areas of the county is prohibited except by variance issued by the health officer. The provisions of this section shall not be construed to prohibit the selling by outcry of merchandise, food and beverages at licensed sporting events, parades, fairs, circuses, or other similar licensed public-entertainment events.
+(Ord. 11778 § 2 (Art 5 § 501(a)), 1978: Ord. 11773 § 2 (Art. 5 § 501(a)), 1978.)
+12.08.541 - Street sales—Restrictions on sound system speakers.
+A person offering for sale, selling or advertising anything edible shall not emit music or other sounds from an external speaker affixed to a motor vehicle between the hours of 8:00 p.m. and 6:00 a.m. within any residential, commercial or noise sensitive-zone of the unincorporated area of the County. The provisions of this section shall not be construed to prohibit the selling by outcry of merchandise, food and beverages, at licensed sporting events, parades, fairs, circuses, or other similar licensed-entertainment events.
+(Ord. 2002-0028 § 2, 2002)
+12.08.550 - Vehicle or motorboat repairs and testing.
+Repairing, rebuilding, modifying or testing any motor vehicle, motorcycle or motorboat in such a manner as to cause a noise disturbance across a real-property boundary or within a noisesensitive zone is prohibited.
+(Ord. 11778 § 2 (Art. 5 § 501(e)), 1978: Ord. 11773 § 2 (Art. 5 § 501(e)), 1978.)
+12.08.560 - Vibration.
+Operating or permitting the operation of any device that creates vibration which is above the vibration perception threshold of any individual at or beyond the property boundary of the source if on private property, or at 150 feet (46 meters) from the source if on a public space or public right-of-way is prohibited. The perception threshold shall be a motion velocity of 0.01 in/sec over the range of 1 to 100 Hertz.
+(Ord. 11778 § 2 (Art. 5 § 501(d)), 1978: Ord. 11773 § 2 (Art. 5 § 501(d)), 1978.)
+Part 5 - EXEMPTIONS
+Sections:
+
+12.08.570 - Activities exempt from chapter restrictions.
+The following activities set out in this chapter shall be exempted from the provisions of this chapter:
+A.
+Emergency Exemption. The emission of sound for the purpose of alerting persons to the existence of an emergency, or the emission of sound in the performance of emergency work;
+B.
+Warning Devices. Warning devices necessary for the protection of public safety, as for example police, fire and ambulance sirens, and train horns;
+C.
+Outdoor Activities. Activities conducted on public playgrounds and public or private school grounds, including but not limited to school athletic and school entertainment events;
+D.
+Exemption from Exterior Noise Standards. The following activities are exclusively regulated by the prohibitions of Part 4 of this chapter:
+1.
+Construction,
+2.
+Stationary nonemergency signaling devices,
+3.
+Emergency signaling devices,
+4.
+Refuse collection vehicles,
+5.
+Residential air-conditioning or refrigeration equipment,
+6.
+Forced-air blowers;
+E.
+Motion Picture Production and Related Activities;
+F.
+Railroad Activities. All locomotives and rail cars operated by any railroad which is regulated by the California Public Utilities Commission;
+G.
+Federal or State Preexempted Activities. Any activity, to the extent regulation thereof has been preempted by state or federal law;
+H.
+Public Health and Safety Activities. All transportation, flood control, and utility company maintenance and construction operations at any time on public right-of-way, and those situations which may occur on private real property deemed necessary to serve the best interest of the public and to protect the public's health and well being, including but not limited to street sweeping, debris and limb removal, removal of downed wires, restoring electrical service, repairing traffic signals, unplugging sewers, snow removal, house moving, vacuuming catchbasins, removal of damaged poles and vehicles, repair of water hydrants and mains, gas lines, oil lines, sewers, etc.;
+I.
+Motor Vehicles on Private Right-of-way and Private Property. Except as provided in Section 12.08.550, all legal vehicles of transportation operating in a legal manner in accordance with local, state and federal vehicle-noise regulations within the public right-of-way or air space, or on private property;
+J.
+Seismic Surveys Authorized by the State Land Commission;
+K.
+Agricultural Operations. All mechanical devices, apparatus or equivalent associated with agricultural operations conducted on agricultural property, unless if in the vicinity of residential land uses, in which case a variance permit is required to operate noise-producing devices, with the following stipulations:
+1.
+Operations do not take place between 8:00 p.m. and 6:00 a.m., or
+2.
+Such operations and equipment are utilized for the protection or salvage of agricultural crops during periods of potential or actual frost damage or other adverse weather conditions, or
+3.
+Such operations and equipment are associated with agricultural pest-control through pesticide application, provided the application is made in accordance with permits issued by or regulations enforced by the county agricultural commissioner,
+4.
+Such devices utilized for pest control which incorporate stationary or mobile noise sources (electro-mechanical birdscare devices, etc.) are operated only by permit issued by the health officer. The allowable hours and days for operation of these devices will be specified in the permit,
+5.
+All equipment and machinery powered by internal combustion engines shall be equipped with a proper muffler and air-intake silencer in good working order;
+L.
+Minor Maintenance to Residential Real Property. Noise sources associated with the minor maintenance of residential real property, provided said activities take place as follows:
+1.
+During Pacific Standard Time between the hours of 8:00 a.m. and 6:00 p.m. on any day except Sunday, when such activities may take place between the hours of 9:00 a.m. and 6:00 p.m., and
+2.
+During Daylight Savings Time between the hours of 8:00 a.m. and 7:00 p.m. on any day except Sunday, when such activities may take place between the hours of 9:00 a.m. and 6:00 p.m.;
+M.
+Operation of Oil and Gas Wells.
+1.
+Normal well servicing, remedial or maintenance work performed within an existing well which does not involve drilling or redrilling and which is restricted to the hours between 7:00 a.m. and 10:00 p.m., and
+2.
+Drilling or redrilling work which is done in full compliance with the conditions of permits issued under Chapter 5, Article 1, of the County Zoning Ordinance, as amended, as set out in Title 22 of this code.
+(Ord. 97-0007 § 1, 1997: Ord. 11778 § 2(Art. 6 § 601), 1978: Ord. 11773 § 2 (Art. 6 § 601), 1978.)
+Part 6 - VARIANCES
+Sections:
+
+12.08.580 - Conditions for granting variances—Health officer authority.
+A.
+Variances from the requirements of this chapter may be granted by the health officer for a period of not to exceed two years, subject to such terms, conditions and requirements as he may deem reasonable. A variance may be granted only if the health officer makes the findings that:
+1.
+Additional time is necessary for the applicant to alter or modify his activity, operation or noise source to comply with this chapter; or
+2.
+The activity, operation or noise source cannot feasibly be done in a manner that would comply with the provisions of this chapter, and no other reasonable alternative is available to the applicant.
+B.
+In granting a variance, the health officer may prescribe any conditions or requirements he deems necessary to minimize adverse effects upon the community or the surrounding neighborhood.
+C.
+In granting variances, the health officer shall consider the magnitude of nuisance caused by the offensive noise, the uses of property within the area of impingement by the noise, operations carried on under existing nonconforming rights or conditional use permits or zone variances, the time factors related to study, design, financing and construction of remedial work, the economic factors related to age and useful life of the equipment, the general public interest, health and welfare, the feasibility of plans submitted for correction, and the effect on the community if the variance was refused.
+(Ord. 11778 § 2 (Art. 7 § 701), 1978: Ord. 11773 § 2 (Art. 7 § 701), 1978.)
+12.08.590 - Application—Contents.
+Every applicant for a variance shall file with the health officer a written application on a form prescribed by the health officer. The application shall state the name and address of the applicant, the nature of the noise source involved, and such other information as the health officer may require.
+(Ord. 11778 § 2 (Art. 7 § 702), 1978: Ord. 11773 § 2 (Art. 7 § 702), 1978.)
+12.08.600 - Application—Fee.
+Every applicant shall pay a fee of $25.00 for each application for variance.
+(Ord. 11778 § 2 (Art. 7 § 703), 1978: Ord. 11773 § 2 (Art. 7 § 703), 1978.)
+12.08.610 - Application—Action by health officer.
+A.
+The health officer shall act, within 30 days, if possible, on an application for a variance, and shall notify the applicant of the action taken, namely, approval, conditional approval, or denial. Before acting on an application for a variance, the health officer may require the applicant to furnish further information. Failure of the applicant to provide such further information may be grounds for denial of the variance.
+B.
+In the event of denial of an application for a variance, the health officer shall notify the applicant in writing of the reasons therefor. The health officer shall not accept a further application unless the applicant has complied with the objections specified by the health officer as his reasons for denial.
+(Ord. 11778 § 2 (Art. 7 § 704), 1978: Ord. 11773 § 2 (Art. 7 § 704), 1978.)
+12.08.620 - Application—Denial conditions.
+The applicant may at his option deem the variance denied if the health officer fails to act on the application within 30 days after filing or within 10 days after applicant furnishes the further information requested by the health officer, whichever is later.
+(Ord. 11778 § 2 (Art. 7 § 705), 1978: Ord. 11773 § 2 (Art. 7 § 705), 1978.)
+12.08.630 - Public hearing—For reconsideration of health officer decision.
+Within 10 days after notice by the health officer of the decision on application for variance, any interested party may petition the health officer in writing for a public hearing to reconsider the decision. The health officer shall thereupon appoint a hearing officer to conduct said hearing.
+(Ord. 11778 § 2 (Art. 7 § 706), 1978: Ord. 11773 § 2 (Art. 7 § 706), 1978.)
+12.08.640 - Public hearing—Decision and findings—Appeals.
+A.
+Based upon the evidence presented at the public hearing, the hearing officer may affirm, modify or reverse the previous determination subject to such terms, conditions and requirements as he may deem necessary. The hearing officer shall be guided by the same considerations as set forth in Section 12.08.580
+B.
+A decision by the hearing officer to grant a variance may be made only if the hearing officer makes the findings that:
+1.
+Additional time is necessary for the applicant to alter or modify his activity, operation or noise source to comply with this chapter; or
+2.
+The activity, operation or noise source cannot feasibly be done in a manner that would comply with the provisions of this chapter, and no other reasonable alternative is available to the applicant.
+C.
+The decision of the hearing officer shall be by written order, and shall be final. Appeals from an adverse decision shall be made to a court of competent jurisdiction.
+(Ord. 11778 § 2 (Art. 7 § 707), 1978: Ord. 11773 § 2 (Art. 7 § 707), 1978.)
+Part 7 - VIOLATIONS AND ENFORCEMENT
+Sections:
+
+12.08.650 - Enforcement—Health officer powers and duties.
+The health officer shall have primary responsibility for the enforcement of the noise regulations contained in this chapter. The health officer shall make all noise-level measurements required for the enforcement of this chapter. Nothing in this chapter shall prevent the health officer from efforts to obtain voluntary compliance by way of warning, notice, or educational means.
+(Ord. 11778 § 2 (Art. 8 § 801), 1978: Ord. 11773 § 2 (Art. 8 § 801), 1978.)
+12.08.660 - Initial violations.
+In the event of an initial violation of the provisions of this chapter a written notice of violation shall be given the alleged violator, specifying the time by which the condition shall be corrected or an application for permit or variance shall be received by the health officer. The health officer shall take no further action in the event the cause of the violation has been removed, the condition abated or fully corrected within the time period specified in the written notice.
+(Ord. 11778 § 2 (Art. 8 § 802), 1978: Ord. 11773 § 2 (Art. 8 § 802), 1978.)
+12.08.670 - Violation—Penalty.
+Any person violating any of the provisions of this chapter shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $500.00 or be imprisoned in the County Jail for a period not exceeding six months or by both such fine and imprisonment. Each day such violation is committed or permitted to continue shall constitute a separate offense and shall be punishable as such.
+(Ord. 11778 § 2 (Art. 8 § 803), 1978: Ord. 11773 § 2 (Art. 8 § 803, 1978.)
+12.08.680 - Severability.
+If any provision, clause, sentence or paragraph of this chapter or the application thereof to any person or circumstances shall be held invalid, such invalidity shall not affect the other provisions or application of the provisions of this chapter which can be given effect without the invalid provisions or application and, to this end, the provisions of this chapter are hereby declared to be severable.
+(Ord. 11778 § 2 (Art. 8 § 804), 1978: Ord. 11773 § 2 (Art. 8 § 804), 1978.)

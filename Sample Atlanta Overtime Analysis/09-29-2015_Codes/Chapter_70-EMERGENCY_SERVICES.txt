@@ -1,0 +1,206 @@
+Chapter 70 - EMERGENCY SERVICES[1]
+ARTICLE I. - IN GENERAL
+
+Sec. 70-1. - 9-1-1 charge on prepaid wireless transactions.
+In accordance with O.C.G.A. § 46-5-134.2, there is hereby imposed a prepaid wireless 9-1-1 charge as defined by O.C.G.A. § 46-5-134.2(a)(4) upon every prepaid wireless retail transaction occurring within the jurisdiction of the public service answering point in the amount of $0.75.
+(Ord. No. 2011-49(11-O-1323), § 1, 11-16-11)
+Sec. 70-2. - Collection of 9-1-1 charge on prepaid wireless transactions.
+Prepaid wireless 9-1-1 charges collected by sellers shall be remitted to the city's chief financial officer at the times and in the manner provided by Chapter 8 of Title 48 of the Official Code of Georgia Annotated with respect to the sales and use tax imposed on prepaid wireless calling service.
+(Ord. No. 2011-49(11-O-1323), § 2, 11-16-11)
+Sec. 70-3. - Administrative provisions.
+The clerk of the city is hereby directed to file with the state revenue commissioner a certified copy of this ordinance and amendments thereto in accordance with O.C.G.A. § 46-5-134.2(j)(1), by December 31, 2011.
+(Ord. No. 2011-49(11-O-1323), § 3, 11-16-11)
+Sec. 70-4. - Depositing of funds; use of funds.
+In accordance with O.C.G.A. § 46-5-134.2(j)(5), funds received by the city from charges imposed by this ordinance shall be deposited in the emergency telephone system fund maintained by the city pursuant to O.C.G.A. § 46-5-134(d)(2) and kept separate from general revenue of the jurisdiction. All such funds shall be used exclusively for the purposes authorized by O.C.G.A. § 46-5-134(f).
+(Ord. No. 2011-49(11-O-1323), § 4, 11-16-11)
+Sec. 70-5. - Effective date.
+As required by O.C.G.A. § 46-5-134.2(j)(1), this ordinance shall become effective January 1, 2012.
+(Ord. No. 2011-49(11-O-1323), § 5, 11-16-11)
+Secs. 70-6—70-25. - Reserved.
+ARTICLE II. - ALARM SYSTEMS[2]
+
+Sec. 70-26. - Purpose/applicability.
+(a)
+The purpose of this article is to encourage alarm users and alarm companies to properly use and maintain alarm systems and to reduce or eliminate false alarms, which unduly divert emergency services from responding to actual criminal activity and other emergencies. This article governs systems intended to summon emergency response, requires registration, and provides for civil penalties for violations.
+(b)
+The provisions of this article shall not apply to any governmental agency, board, authority or entity.
+(c)
+The provisions of this article shall not apply to alarm systems installed, operated or maintained pursuant to chapter 78 of the City of Atlanta Code of Ordinances.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-27. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this section, except where the text clearly indicates a different meaning:
+Alarm administrator means a person or persons designated by the City of Atlanta to administer, control and review false alarm reduction efforts and administer the provisions of this article.
+Alarm company means any business, whether operated by an individual, partnership, corporation or other entity, which is in the business of selling, leasing, maintaining, servicing, repairing, altering, replacing, moving, installing or monitoring alarm systems at an alarm site.
+Alarm permit means a permit issued by the City of Atlanta allowing the operating of an alarm system within the City of Atlanta.
+Alarm system means any mechanized and/or electronic device or set of devices intended to detect and signal the occurrence of activity requiring the immediate need for emergency services at the premises in which such device or set of devices is installed. For purposes of this article, alarm system does not mean any such device or set of devices installed operated or maintained pursuant to chapter 78 of the City of Atlanta Code of Ordinances.
+Alarm user means, with respect to any premises, any person, corporation, partnership, or proprietorship or other entity, who owns, leases, an alarm system or on whose premises an alarm system is maintained for the protection of such premises.
+Alarm user awareness class means a class conducted for the purpose of educating alarm users about the responsible use, operation, and maintenance of alarm systems and the problems created by false alarms.
+Automatic dialer or auto-dialer means any electrical, electronic, mechanical or other device capable of being programmed to send a prerecorded voice message when activated over a telephone line, radio or other communication system requesting emergency dispatch.
+Cancellation means the process where response is terminated when the alarm company (designated by the alarm user) notifies the emergency communications center that there is not an existing situation at the alarm site requiring police response after an alarm dispatch request. If cancellation occurs prior to the Atlanta Police Department or the Atlanta Fire Rescue Department arriving at the scene, this is not a false alarm for the purpose of civil penalty, and no such penalty will be assessed.
+Duress alarm means a silent alarm system signal generated by the manual activation of a device intended to signal a life-threatening situation or crime in progress requiring law enforcement response.
+Emergency communication center means the City of Atlanta 911 Center.
+Emergency dispatch means Atlanta Police Department and/or Atlanta Fire Rescue Department dispatch.
+Emergency response means Atlanta Police Department and/or Atlanta Fire Rescue Department response.
+False alarm means the activation of an alarm system to summon emergency personnel which occurs as a result of mechanical or electronic failure, malfunction, improper installation, or the negligence of the alarm user, his/her employees or agents, unless the request for response was cancelled by the alarm user or his/her agent before the Atlanta Police Department or the Atlanta Fire Rescue Department arrives at the alarm site. An alarm is false within the meaning of this article when, upon inspection by the Atlanta Police Department or the Atlanta Fire Rescue Department evidence indicates that no unauthorized entry, robbery, other such crime was committed, attempted, or occurred in or on the premises, which would have activated a properly functioning alarm system, or no fire occurred which would have activated a properly functioning alarm system. Notwithstanding the foregoing, a false alarm shall not include an alarm, which can reasonably be determined to have been caused or activated by violent conditions of nature, nor does it include other extraordinary circumstances not reasonably subject to control by the alarm user or alarm system. In addition, an alarm activated during an alarm system testing procedure shall not be considered a false alarm if the alarm user first notifies and receives permission from the user's alarm company, or designee, to test the system and the alarm company upon receiving such permission does not request emergency dispatch.
+Local alarm means an alarm system that emits a signal at an alarm site that is audible or visible from the exterior of a structure and is not monitored by a remote monitoring facility, whether installed by an alarm company or user.
+Permit year means a 12-month period beginning on the day and month on which an alarm permit is issued.
+Runaway alarm means an alarm system that produces repeated alarm signals that do not appear to be caused by separate human action. Either the Atlanta Police Department or the Atlanta Fire Rescue Department may in its respective discretion discontinue responses to alarm signals from what appears to be a runaway alarm.
+SIA Control Panel Standard CP-OI means the American National Standard Institute (ANSI) approved Security Industry Association (SIA) CP-OI Control Panel Standard, as may be updated from time to time, that details recommended design features for security system control panels and their associated arming and disarming devices to reduce false alarms. Control panels built and tested to this standard by Underwriters Laboratory (UL), or other nationally recognized testing organizations, will be marked to state: "Design evaluated in accordance with SIA P-01 Control Panel Standard Features for False Alarm Reduction".
+Verify means an attempt by the monitoring company, or its representative, to contact the alarm site and/or alarm user by telephone and/or other electronic means, whether or not actual contact with a person is made, to attempt to determine whether an alarm signal is valid before requesting the Atlanta Police Department or the Atlanta Fire Rescue Department for dispatch, in an attempt to avoid an unnecessary alarm dispatch request. For the purpose of this section, telephone verification shall require, as a minimum that a second call be made to a different number if the first attempt fails to reach an alarm user who can properly identify themselves to attempt to determine whether an alarm signal is valid before requesting emergency dispatch.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-28. - Alarm permits.
+(a)
+Permit required. Effective August 15, 2013, no alarm system shall be used unless the alarm user first obtains a permit for such alarm system from the City of Atlanta. There will be no charge for the permit. Each alarm permit shall be assigned a unique permit number, and the user shall provide the permit number to the alarm company to facilitate emergency dispatch.
+(b)
+Registration/renewal.
+(1)
+Each alarm user has the duty to obtain and complete a permit application on a form provided by the City of Atlanta.
+(2)
+After the initial issuance of a permit under this article, application for renewal shall be made annually by the anniversary of the date of initial issuance.
+(3)
+Alarm permits issued pursuant to this article shall automatically expire on the day following the anniversary date of initial issuance.
+(4)
+The operation of a previously permitted alarm system following the expiration of an alarm permit and the failure of the alarm user to renew their alarm permit by the date required, shall be a violation of this article and shall be enforced through the assessment of a civil penalty in the amount of $100.00.
+(5)
+Temporary grace period: a civil penalty assessed in accordance with section 70-28(b)(4) shall not be payable if, within 14 days of the notice of the civil penalty, the alarm user renews their alarm permit. On July 1, 2016, this subsection (70-28(b)(5)), and the temporary grace period provided for therein, shall expire in its entirety and shall have no further effect. Following the expiration of section 70-28(b)(5), civil penalties assessed in accordance with section 70-28(b)(4) shall be payable consistent with the remaining provisions of this article.
+(c)
+Non-transferability; new registration required. Alarm permits are not transferable. Upon transfer of the possession of premises at which an alarm system is maintained, the new alarm user shall register for an alarm permit within 30 days of obtaining possession of the property.
+(d)
+Reporting updated information. When information required on the alarm permit application changes, the alarm user shall provide correct information to the City of Atlanta within 30 days of the change.
+(e)
+Multiple alarm systems. If an alarm user has one or more alarm systems protecting two or more separate structures having different addresses and/or tenants, a separate permit shall be required for each structure and/or tenant.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13; Ord. No. 2015-14(15-O-1106), § 1, 3-25-15)
+Sec. 70-29. - Government immunity.
+Registration of an alarm system is not intended, to, nor does it, create a contract, duty or obligation, either expressed or implied, of response by the City of Atlanta, the Atlanta Police Department, the Atlanta Fire Rescue Department or other governmental department or agency. Any and all liability and consequential damage resulting from the failure to respond to an alarm dispatch request is hereby disclaimed and governmental immunity as provided by law is retained. By registering an alarm system, the alarm user acknowledges that emergency response may be based on factors such as availability of emergency units, priority of calls, weather conditions, traffic conditions, emergency conditions and/or staffing levels.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-30. - Duties of an alarm user.
+An alarm user shall be required to:
+(a)
+Register and obtain an alarm permit;
+(b)
+Maintain the premises and the alarm system in a method that will reduce or eliminate false alarms;
+(c)
+Respond or cause a representative to respond to the alarm system's location within 30 minutes upon notification of the need to deactivate a malfunctioning alarm system; to provide right of entry to the premises, or to provide alternative security for the premises;
+(d)
+Ensure that an alarm is not manually activated by the alarm user or any other person for any reason other than an occurrence of an event that the alarm system was intended to report;
+(e)
+Upon obtaining a permit number, provide that number to the alarm company; and
+(f)
+Obtain a new permit if there is a change of address or ownership of a business or residence or if there is updated information.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-31. - Responsibilities of an alarm company.
+(a)
+An alarm company should:
+(1)
+Obtain and maintain required state and local license(s) and/or permits.
+(2)
+Maintain current contact information, including user permit numbers, which shall be provided to the emergency communications center at the time of a request for law enforcement response.
+(3)
+Ninety days after the effective date of this section alarm companies should use control panels meeting Security Industry Association (SIA) Control Panel Standard CP-OI on all new installations.
+(4)
+Prior to activation of the alarm system, the alarm company should provide verbal and written instructions explaining the proper operation of the alarm system to the alarm user and provide written information on how to obtain service from the alarm company.
+(b)
+An alarm company performing monitoring services should:
+(1)
+Attempt to verify, by calling the alarm site and/or alarm user by telephone, to determine whether an alarm signal is valid before requesting emergency dispatch. Telephone verification shall require, as a minimum that a second call be made to a different number, if the first attempt fails to reach an alarm user who can properly identify themselves to attempt to determine whether an alarm signal is valid, except in the case of a panic or robbery-in-progress alarm, or in cases where a crime or fire-in-progress has been verified by video and/or audible means.
+(2)
+Communicate a cancellation to the emergency communications center as soon as possible following a determination that response is unnecessary.
+(3)
+Communicate any available information about the location of the alarm.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-32. - Prohibited acts.
+(a)
+It shall be a violation of this article for a person to:
+(1)
+Operate an alarm system without a permit issued by the City of Atlanta in accordance with this article;
+(2)
+Activate an alarm system for the purpose of summoning emergency response when no unauthorized entry, robbery, other such crime was committed, attempted, or occurred in or on the premises, when no fire has occurred, or otherwise to cause a false alarm.
+(3)
+Install, maintain, or use an audible alarm system which can sound continually for more than ten minutes.
+(4)
+Install, maintain, or use an automatic dial protection device that reports, or causes to be reported, any recorded message to the emergency communications center.
+(5)
+The occurrence of excessive false alarms as described in section 70-33(d) of this article.
+(b)
+Violations of this article are punishable by the assessment of civil penalty (ies) as provided in this article.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-33. - Enforcement of provisions.
+(a)
+Civil penalty. Any violation of any of the provisions of this article shall be civil in nature and. shall not constitute a criminal infraction.
+(b)
+Payment. Civil penalties shall be paid within 30 days from the date of the invoice. All civil penalties collected shall be deposited into the City of Atlanta General Fund.
+(c)
+Late fee. The failure of an alarm user to make payment of any civil penalties assessed under this article within 30 days from the date of the notice shall result in the imposition of a 50 percent late fee except that the penalty and late fee combined shall not exceed $1,000.00.
+(d)
+Excessive false alarms. It is hereby found and determined that two or more false alarms annually is excessive, constitutes a public nuisance, and shall be a violation of this article. Civil penalties for false alarms within any 365-day period (rolling year) shall be assessed against an alarm user as follows:
+(1)
+For the first false alarm, a warning shall be given, but no civil penalty shall be imposed.
+(2)
+For the second false alarm, the person or entity shall be charged a $50.00 civil penalty.
+(3)
+For the third false alarm, the person or entity shall be charged a $100.00 civil penalty.
+(4)
+For the fourth false alarm, the person or entity shall be charged a $200.00 civil penalty.
+(5)
+For the fifth and sixth false alarms, the person or entity shall be charged a $200.00 civil penalty.
+(6)
+For all successive false alarms, the person or entity shall be charged a $500.00 civil penalty.
+(e)
+Other civil penalties. Except as otherwise specifically provided in this article, a violation of any other provision thereof, including, but not limited to the provision of this article prohibiting the operation of an alarm system without a permit issued by the City of Atlanta, shall be enforced through the assessment of civil penalty(ies) in the amount of $150.00. However, no civil penalty shall be assessed for a violation of the provision of this article prohibiting the operation of an alarm system without a permit before February 1, 2014.
+(f)
+Failure to pay civil penalties/late fees. Following the imposition of any late fees pursuant to this section, the City of Atlanta reserves the right to forward any alarm user's outstanding penalties and late fees to a collection agency should an alarm user fail to make payment within 90 days from the date of the notice of the late fee. Collection fees may be added by the collection agency to the balance owed to the extent allowed by law.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13; Ord. No. 2015-14(15-O-1106), § 2, 3-25-15)
+Sec. 70-34. - Alarm user awareness class.
+(a)
+Alarm user awareness class. The City of Atlanta may create and implement an alarm user awareness class and may request the assistance of the area alarm companies to assist in developing and implementing the class. If created, the class shall inform alarm users of the problems created by false alarms and instruct alarm users how to help reduce false alarms.
+(b)
+Alarm user awareness class in lieu of payment. An alarm user may have the option of attending an alarm user awareness class in lieu of paying the prescribed civil penalty for a second false alarm. This option may only be exercised once annually.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-35. - Administrative appeal/procedures.
+(a)
+Assessment of civil penalties imposed as a result of a violation of this article may be appealed by filing a written notice of appeal within 14 days of the date of notification of the assessment of such civil penalties.
+(b)
+The failure to give notice of appeal within this time period shall constitute a waiver of the right to contest the assessment of penalties or other enforcement decisions.
+(c)
+In any appeal filed in accordance with this section, the appellant shall be afforded an opportunity for an evidentiary hearing under judicial forms of procedure, after notice of the assessment of such penalties is served in person or by mail.
+(d)
+The notice of assessment of civil penalty shall include:
+(1)
+A statement regarding the time, place, and nature of the hearing;
+(2)
+A statement of the legal authority under which, and venue wherein the hearing is to be held.
+(3)
+A reference to the particular provision of this article allegedly violated.
+(4)
+A short and plain statement of the matters asserted including civil penalties assessed.
+(e)
+An appellant shall be afforded the opportunity to respond and present evidence on all issues involved.
+(f)
+In any appeal filed in accordance with this section, a record shall be kept, which shall include:
+(1)
+The notice of assessment of civil penalty.
+(2)
+A record of the oral testimony plus all other evidence received or considered except that oral proceedings or any part thereof shall be transcribed only upon request.
+(3)
+Any decision, opinion, or report by the court or presiding hearing officer.
+(g)
+Assessment of civil penalties imposed as a result of a violation of the provision of this article prohibiting the operation of an alarm system without a permit, or other civil penalties imposed against persons not holding alarm permits, may be appealed by filing a written notice of appeal with the municipal court in accordance with this section.
+(h)
+Assessment of civil penalties against alarm permit holders may be appealed by filing a written notice of appeal in accordance with this section.
+(1)
+In lieu of the municipal court, any appeal filed in accordance with this subsection may be held before any Atlanta Police Department representative who has been selected and appointed by the chief of police for such purpose.
+(2)
+Before appointing a hearing officer, the chief of police shall determine that the person under consideration is qualified by reason of training, experience, and competence.
+(3)
+Notice of whether appeals filed under this subsection shall be before the municipal court or by a hearing representative shall be filed in the office of the Municipal Clerk of the City of Atlanta no less than 30 days prior to the effective date of the change of hearing location.
+(i)
+The court or the officer presiding over an appeal pursuant to subsection (b) of this section shall review an appeal from the assessment of civil penalties or other enforcement decisions using a preponderance of the evidence standard. Notwithstanding a determination that the preponderance of the evidence supports the assessment of civil penalties or other enforcement decision, the court or hearing officer shall have the discretion to dismiss or reduce civil penalties or reverse any other enforcement decision where warranted.
+(j)
+The court or the officer presiding over an appeal shall render a decision within ten business days of the hearing, and shall give written notification of the decision.
+(k)
+The decision of the court or presiding hearing officer is subject to review via certiorari to superior court.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Sec. 70-36. - Confidentiality.
+To the extent allowed by law, information contained and gathered through the alarm registration process will be held in confidence by the City of Atlanta.
+(Ord. No. 2013-23(12-O-0375), § 1, 5-29-13, eff. 9-15-13)
+Editor's note— Section 4 of Ord. 2013-23(12-O-0375) states: "During the period of time between the approval of the amendments in this ordinance and September 15, 2013, the City of Atlanta shall conduct a campaign to educate the citizens of the City of Atlanta of the effects of thereof. A component of this campaign shall include outreach to the City's Neighborhood Planning Units (NPUs), but shall. not be limited thereto."
