@@ -1,0 +1,499 @@
+CHAPTER 23 - WOOD
+
+SECTION 2304 - GENERAL CONSTRUCTION REQUIREMENTS
+2304.9.1 Fastener requirements.
+Connections for wood members shall be designed in accordance with the appropriate methodology in Section 2301.2. The number and size of fasteners connecting wood members shall not be less than that set forth in Table 2304.9.1. Staple fasteners in Table 2304.9.1 shall not be used to resist or transfer seismic forces in structures assigned to Seismic Design Category D, E, or F.
+EXCEPTION: Staples may be used to resist or transfer seismic forces when the allowable shear values are substantiated by cyclic testing and approved by the Building Official.
+(Ord. 2013-0048 § 44, 2013; Ord. 2010-0053 § 55, 2010.)
+TABLE 2304.9.1
+FASTENING SCHEDULE
+. . .
+q.
+Staples shall not be used to resist or transfer seismic forces in structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2013-0048 § 45, 2013; Ord. 2010-0053 § 56, 2010.)
+2304.11.7 Wood used in retaining walls and cribs.
+Wood installed in retaining or crib walls shall be preservative treated in accordance with AWPA U1 (Commodity Specifications A or F) for soil and fresh water use. Wood shall not be used in retaining or crib walls for structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2013-0048 § 46, 2013; Ord. 2010-0053 § 57, 2010.)
+SECTION 2305 - GENERAL DESIGN REQUIREMENTS FOR LATERAL-FORCE-RESISTING SYSTEMS
+2305.2 Design of wood diaphragms.
+2305.2.5 Rigid diaphragms.
+Design of structures with rigid diaphragms shall conform to the structure configuration requirements of Section 12.3.2 of ASCE 7 and the horizontal shear distribution requirements of Section 12.8.4 of ASCE 7.
+Wood structural panel diaphragms shall not be considered as transmitting lateral forces by rotation.
+(Ord. 2007-0108 § 15 (part), 2007.)
+2305.3 Design of wood shear walls.
+2305.3.7 Overturning restraint.
+2305.3.7.1 Hold-down connectors.
+Hold-down connectors shall be designed to resist shear wall overturning moments using approved cyclic load values or 75 percent of the allowable earthquake load values that do not consider cyclic loading of the product. Connector bolts into wood framing require steel plate washers on the post on the opposite side of the anchorage device. Plate size shall be a minimum of 0.229 inch by 3 inches by 3 inches (5.82 mm by 76 mm by 76 mm) in size. Hold-downs shall be re-tightened just prior to covering the wall framing.
+(Ord. 2007-0108 § 15 (part), 2007.)
+2305.3.8 Shear walls with openings.
+2305.3.12 Quality of Nails.
+Mechanically driven nails used in wood structural panel shear walls shall meet the same dimensions as that required for hand-driven nails, including diameter, minimum length and minimum head diameter. No clipped head or box nails are permitted in new construction. The allowable design value for clipped head nails in existing construction may be taken at no more than the nail-head-area ratio of that of the same size hand-driven nails.
+(Ord. 2007-0108 § 15 (part), 2007.)
+2305.4 Quality of nails.
+In Seismic Design Category D, E, or F, mechanically driven nails used in wood structural panel shear walls shall meet the same dimensions as that required for hand-driven nails, including diameter, minimum length, and minimum head diameter. Clipped head or box nails are not permitted in new construction. The allowable design value for clipped head nails in existing construction may be taken at no more than the nail-head-area ratio of that of the same size hand-driven nails.
+(Ord. 2013-0048 § 47, 2013.)
+2305.5 Hold-down connectors.
+In Seismic Design Category D, E or F, hold-down connectors shall be designed to resist shear wall overturning moments using 75 percent of the allowable seismic load values. Such values shall be established in a valid research report from approved sources in accordance with Section 104.11.1 or by accepted engineering practice and the provisions of this Code.
+EXCEPTION: Values established by specialized cyclic and dynamic testing may be used when approved by the Building Official in accordance with Section 104.11.2.
+Connector bolts into wood framing shall require steel plate washers on the post on the opposite side of the anchorage device. Plate size shall be a minimum of 0.229 inch by 3 inches by 3 inches (5.82 mm by 76 mm by 76 mm) in size. Hold-down connectors shall be tightened to finger tight plus one half (1/2) wrench turn just prior to covering the wall framing.
+(Ord. 2013-0048 § 48, 2013.)
+SECTION 2306 - ALLOWABLE STRESS DESIGN
+2306.2 Wood-frame diaphragms.
+Wood-frame diaphragms shall be designed and constructed in accordance with AF&PA SDPWS. Where panels are fastened to framing members with staples, requirements and limitations of AF&PA SDPWS shall be met and the allowable shear values set forth in Table 2306.2(1) or 2306.2(2) shall only be permitted for structures assigned to Seismic Design Category A, B, or C.
+EXCEPTION: Allowable shear values where panels are fastened to framing members with staples may be used if such values are substantiated by cyclic testing and approved by the Building Official.
+The allowable shear values in Tables 2306.2(1) and 2306.2(2) are permitted to be increased 40 percent for wind design.
+EXCEPTION: [DSA-SS, DSA-SS/CC and OSHPD 1, 2 &4] Wood structural panel diaphragms using staples as fasteners are not permitted by DSA and OSHPD.
+Wood structural panel diaphragms used to resist seismic forces in structures assigned to Seismic Design Category D, E or F shall be applied directly to the framing members.
+EXCEPTION: Wood structural panel diaphragms are permitted to be fastened over solid lumber planking or laminated decking, provided the panel joints and lumber planking or laminated decking joints do not coincide.
+(Ord. 2013-0048 § 49, 2013.)
+2306.2.1 Wood structural panel diaphragms.
+Wood structural panel diaphragms shall be designed and constructed in accordance with AF&PA SDPWS. Wood structural panel diaphragms are permitted to resist horizontal forces using the allowable shear capacities set forth in Table 2306.2.1(1) or 2306.2.1(2). For structures assigned to Seismic Design Category D, E, or F, the allowable shear capacities shall be set forth in Table 2306.2.1(3) or 2306.2.1(4). The allowable shear capacities in Table 2306.2.1(1) or 2306.2.1(2) are permitted to be increased 40 percent for wind design.
+Wood structural panel diaphragms fastened with staples shall not be used to resist seismic forces in structures assigned to Seismic Design Category D, E, or F.
+Exception: Staples may be used for wood structural panel diaphragms when the allowable shear values are substantiated by cyclic testing and approved by the Building Official.
+Wood structural panel diaphragms used to resist seismic forces in structures assigned to Seismic Design Category D, E, or F shall be applied directly to the framing members.
+Exception: A wood structural panel diaphragm is permitted to be fastened over solid lumber planking or laminated decking, provided the panel joints and lumber planking or laminated decking joints do not coincide.
+(Ord. 2010-0053 § 60, 2010.)
+TABLE 2306.2.1(3)
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL DIAPHRAGMS WITH
+FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEa FOR SEISMIC LOADINGf
+FOR STRUCTURES ASSIGNED TO SEISMIC DESIGN CATEGORY D, E, OR F
+EXPAND
+Panel Grade Common Nail Size Minimum Fastener Penetration in Framing (inches) Minimum Nominal Panel Thickness (inch) Minimum Nominal Width of Framing Members at Adjoining Panel Edges and Boundariese (inches) Blocked Diaphragms Unblocked Diaphragms
+Fastener spacing (inches) at diaphragm boundaries (all cases) at continuous panel edges parallel to load (Cases 3, 4), and at all panel edges (Cases 5, 6)b Fastener spaced 6" max. at supported edgesb
+6 4 2 ½c 2c Case 1 (No unblocked edges or continuous joints parallel to load) All otherconfigurations (Cases 2, 3, 4, 5 and 6)
+Fastener spacing (inches) at other panel edges
+(Cases 1,2,3 and 4)b
+6 6 4 3
+Structural I Grades 8d (2 ½" x 0.131") 1 3/8 3/8 2 270 360 530 600 240 180
+3 300 400 600 675 265 200
+10dd (3" x 0.148") 1 1/2 15/32 2 320 425 640 730 285 215
+3 360 480 720 820 320 240
+Sheathing, single floor and other grades covered in DOC PS1 and PS2 6de (2" x 0.113") 1 1/4 3/8 2 185 250 375 420 165 125
+3 210 280 420 475 185 140
+8d (2 ½" x 0.131") 1 3/8 2 240 320 480 545 215 160
+3 270 360 540 610 240 180
+8d (2 ½" x 0.131") 1 3/8 7/16 2 255 340 505 575 230 170
+3 285 380 570 645 255 190
+8d (2 ½" x 0.131") 1 3/8 15/32 2 270 360 530 600 240 180
+3 300 400 600 675 265 200
+10dd (3" x 0.148") 1 1/2 2 290 385 575 655 255 190
+3 324 430 650 735 290 215
+10dd (3" x 0.148") 1 1/2 19/32 2 320 425 640 730 285 215
+3 360 480 720 820 320 240
+  TABLE 2306.2.1(3)-continued
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL DIAPHRAGMS WITH FRAMING OF DOUGLAS FIR-LARCH, OR SOUTHERN PINEa FOR SEISMIC LOADINGf FOR STRUCTURES ASSIGNED TO SEISMIC DESIGN CATEGORY D, E, OR F
+For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.
+For framing of other species: (1) Find specific gravity for species of lumber in AF&PA NDS; (2) For nails find shear value from table above for nail size for actual grade and multiply value by the following adjustment factor: Specific Gravity Adjustment Factor = [1-(0.5-SG)], where SG = Specific Gravity of the framing lumber. This adjustment factor shall not be greater than 1.
+b.
+Space fasteners maximum 12 inches o.c. along intermediate framing members (6 inches o.c. where supports are spaced 48 inches o.c.).
+c.
+Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails at all panel edges shall be staggered where panel edge nailing is specified at 2 ½ inches o.c. or less.
+d.
+Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails at all panel edges shall be staggered where both of the following conditions are met: (1) 10d nails having penetration into framing of more than 1 ½ inches and (2) panel edge nailing is specified at 3 inches o.c. or less.
+e.
+The minimum nominal width of framing members not located at boundaries or adjoining panel edges shall be 2 inches.
+f.
+For shear loads of normal or permanent load duration as defined by the AF&PA NDS, the values in the table above shall be multiplied by 0.63 or 0.56, respectively.
+(Ord. 2010-0053 § 61, 2010.)
+TABLE 2306.2.1(4)
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL BLOCKED DIAPHRAGMS UTILIZING MULTIPLE ROWS OF FASTENERS (HIGH LOAD DIAPHRAGMS) WITH FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEa FOR SEISMIC LOADINGb,f,g FOR STRUCTURES ASSIGNED TO SEISMIC DESIGN CATEGORY D, E, OR F
+EXPAND
+Panel Gradec Common Nail Size Minimum Fastener Penetration in Framing (Inches) Minimum Nominal Panel Thickness (Inch) Minimum Nominal Width of Framing Members at Adjoining Panel Edges and Boundariese (Inches) Lines of Fasteners Blocked Diaphragms
+Cases 1 and 2d
+Fastener Spacing Per Line at Boundaries (inches)
+4 2 1/2
+Fastener Spacing Per Line at Other Panel Edges (inches)
+6 4 4 3
+Structural I grades 10d common nails 1 1/2 15/32 3 2 605 815 875 1,150
+4 2 700 915 1,005 1,290
+4 3 875 1,220 1,285 1,395
+19/32 3 2 670 880 965 1,255
+4 2 780 990 1,110 1,440
+4 3 965 1,320 1,405 1,790
+23/32 3 2 730 955 1,050 1,365
+4 2 855 1,070 1,210 1,565
+4 3 1,050 1,430 1,525 1,800
+Sheathing, single floor and other grades covered in DOC PS1 and PS2 10d common nails 1 1/2 15/32 3 2 525 725 765 1,010
+4 2 605 815 875 1,105
+4 3 765 1,085 1,130 1,195
+19/32 3 2 650 860 935 1,225
+4 2 755 965 1,080 1,370
+4 3 935 1,290 1,365 1,485
+23/32 3 2 710 935 1,020 1,335
+4 2 825 1,050 1,175 1,445
+4 3 1,020 1,400 1,480 1,565
+  For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.
+For framing of other species: (1) Find specific gravity for species of lumber in AF&PA NDS; (2) For nails find shear value from table above for nail size for actual grade and multiply value by the following adjustment factor: Specific Gravity Adjustment Factor = [1-(0.5-SG)], where SG = Specific Gravity of the framing lumber. This adjustment factor shall not be greater than 1.
+b.
+Fastening along intermediate framing members: Space fasteners a maximum of 12 inches on center, except 6 inches on center for spans greater than 32 inches.
+c.
+Panels conforming to PS1 or PS 2.
+d.
+This table gives shear values for Cases 1 and 2 as shown in Table 2306.2.1(3). The values shown are applicable to Cases 3, 4, 5, and 6 as shown in Table 2306.2.1(3), providing fasteners at all continuous panels edges are spaced in accordance with the boundary fastener spacing.
+e.
+The minimum nominal depth of framing members shall be three inches nominal. The minimum nominal width of framing members not located at boundaries or adjoining panel edges shall be two inches.
+f.
+High load diaphragms shall be subject to special inspection in accordance with Section 1704.6.1.
+g.
+For shear loads of normal or permanent load duration as defined by the AF&PA NDS, the values in the table above shall be multiplied by 0.63 or 0.56, respectively.
+TABLE 2306.2.1(4)-continued
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL BLOCKED DIAPHRAGMS UTILIZING MULTIPLE ROWS OF FASTENERS (HIGH LOAD DIAPHRAGMS) WITH FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEa FOR SEISMIC LOADINGb,f,g FOR STRUCTURES ASSIGNED TO SEISMIC DESIGN CATEGORY D, E, OR F
+NOTE: SPACE PANEL END AND EDGE JOINT 1/8-INCH. REDUCE SPACING BETWEEN LINES OF NAILS AS NECESSARY TO MAINTAIN MINIMUM 3/8-INCH FASTENER EDGE MARGINS, MINIMUM SPACING BETWEEN LINES IS 3/8-INCH.
+(Ord. 2010-0053 § 62, 2010.)
+2306.3 Wood-frame shear walls.
+Wood-frame shear walls shall be designed and constructed in accordance with AF&PA SDPWS. For structures assigned to Seismic Design Category D, E, or F, application of Tables 4.3A and 4.3B of AF&PA SDPWS shall include the following:
+1.
+Wood structural panel thickness for shear walls shall not be less than 3/8 inch thick and studs shall not be spaced at more than 16 inches on center.
+2.
+The maximum nominal unit shear capacities for three-ply plywood resisting seismic forces in structures assigned to Seismic Design Category D, E or F is 400 pounds per linear foot (plf).
+3.
+Where shear design values using allow stress design (ASD) exceed 350 plf or load and resistance factor design (LRFD) exceed 500 plf, all framing members receiving edge nailing from abutting panels shall not be less than a single 3-inch nominal member, or two 2-inch nominal members fastened together in accordance with Section 2306.1 to transfer the design shear value between framing members. Wood structural panel joint and sill plate nailing shall be staggered at all panel edges. See Sections 4.3.6.1 and 4.3.6.4.3 of AF&PA SDPWS for sill plate size and anchorage requirements.
+4.
+Nails shall be placed not less than 1/2 inch from the panel edges and not less than 3/8 inch from the edge of the connecting members for shear greater than 350 plf using ASD or 500 plf using LRFD. Nails shall be placed not less than 3/8 inch from panel edges and not less than 1/4 inch from the edge of the connecting members for shears of 350 plf or less using ASD or 500 plf or less using LRFD.
+5.
+Table 4.3B application is not allowed for structures assigned to Seismic Design Category D, E, or F.
+For structures assigned to Seismic Design Category D, application of Table 4.3C of AF&PA SDPWS shall not be used below the top level in a multi-level building for structures.
+Where panels are fastened to framing members with staples, requirements and limitations of AF&PA SDPWS shall be met and the allowable shear values set forth in Table 2306.3(1), 2306.3(2) or 2306.3(3) shall only be permitted for structures assigned to Seismic Design Category A, B, or C.
+EXCEPTION: Allowable shear values where panels are fastened to framing members with staples may be used if such values are substantiated by cyclic testing and approved by the Building Official.
+The allowable shear values in Tables 2306.3(1) and 2306.3(2) are permitted to be increased 40 percent for wind design. Panels complying with ANSI/APA PRP-210 shall be permitted to use design values for Plywood Siding in the AF&PA SDPWS.
+EXCEPTION: [DSA-SS, DSA-SS/CC and OSHPD 1, 2 &4] Wood structural panel diaphragms using staples as fasteners are not permitted by DSA and OSHPD.
+Wood structural panel shear walls used to resist seismic forces in structures assigned to Seismic Design Category D, E, or F shall be applied directly to the framing members.
+(Ord. 2013-0048 § 50, 2013: Ord. 2010-0053 § 63, 2010.)
+Table 2306.3 is amended to read as follows:
+TABLE 2306.3(1)
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL SHEAR WALLS WITH FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEa FOR WIND OR SEISMIC LOADINGb, h, i, j, l, m
+. . .
+(Ord. 2010-0053 § 64, 2010.)
+TABLE 2306.3(2)
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL SHEAR WALLS WITH
+FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEa FOR SEISMIC LOADINGb, h, j, k, l FOR
+STRUCTURES ASSIGNED TO SEISMIC DESIGN CATEGORY D, E, OR F
+EXPAND
+Panel Grade Minimum Nominal Panel Thickness (inch) Minimum Fastener Penetration in Framing (inches) Allowable Shear Value for Seismic Forces Panels Applied Directly to Framing
+Common Nail Size Fastener spacing at panel edges (inches)
+6 4 3 2e
+Structural I sheathing 3/8 1 3/8 8d (2½"x0.131" common) 200 200 200 200
+7/16 1 3/8 8d (2½"x0.131" common) 255 395 505 670
+15/32 1 3/8 8d (2½"x0.131" common) 280 430 550 730
+1 1/2 10d (3"x0.148" common) 340 510 665f 870
+Sheathing, plywood sidingg except Group 5 Species 3/8c 1 3/8 8d (2½"x0.113") 160 200 200 200
+  For SI: 1 inch = 25.4 mm, 1 foot = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.
+For framing of other species: (1) Find specific gravity for species of lumber in AF&PA NDS; (2) For nails find shear value from table above for nail size for actual grade and multiply value by the following adjustment factor: Specific Gravity Adjustment Factor = [1-(0.5-SG)], where SG = Specific Gravity of the framing lumber. This adjustment factor shall not be greater than 1.
+b.
+Panel edges backed with 2-inch nominal or thicker framing. Install panels either horizontally or vertically. Space fasteners maximum 6 inches on center along intermediate framing members for 3/8-inch and 7/16-inch panels installed on studs spaced 24 inches on center. For other conditions and panel thickness, space fasteners maximum 12 inches on center on intermediate supports.
+c.
+Three-eighth (3/8)-inch panel thickness or siding with a span rating of 16 inches on center is the minimum recommended where applied direct to framing as exterior siding. For grooved panel siding, the nominal panel thickness is the thickness of the panel measured at the point of nailing.
+d.
+Allowable shear values are permitted to be increased to values shown for 15/32-inch sheathing with same nailing provided (a) studs are spaced a maximum of 16 inches on center, or (b) panels are applied with long dimension across studs.
+e.
+Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails shall be staggered where nails are spaced 2 inches on center or less.
+f.
+Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails shall be staggered where both of the following conditions are met:
+(1)
+10d (3"x0.148") nails having penetration into framing of more than 1-1/2 inches; and
+(2)
+nails are spaced 3 inches on center or less.
+g.
+Values apply to all-veneer plywood. Thickness at point of fastening on panel edges governs shear values.
+h.
+Where panels applied on both faces of a wall and nail spacing is less than 6 inches o.c. on either side, panel joints shall be offset to fall on different framing members. Or framing shall be 3-inch nominal or thicker at adjoining panel edges and nails at all panel edges shall be staggered.
+i.
+Where shear design values exceed 350 pounds per linear foot, all framing members receiving edge nailing from abutting panels shall not be less than a single 3-inch nominal member, or two 2-inch nominal members fastened together in accordance with Section 2306.1 to transfer the design shear value between framing members. Wood structural panel joint and sill plate nailing shall be staggered at all panel edges. See Section 4.3.6.1 and 4.3.6.4.3 of AF&PA SDPWS for sill plate size and anchorage requirements.
+j.
+Galvanized nails shall be hot dipped or tumbled.
+k.
+For shear loads of normal or permanent load duration as defined by the AF&PA NDS, the values in the table above shall be multiplied by 0.63 or 0.56, respectively.
+l.
+The maximum allowable shear value for three-ply plywood resisting seismic forces is 200 pounds per foot (2.92 kn/m).
+(Ord. 2010-0053 § 65, 2010.)
+2306.3.1 Wood structural panel diaphragms.
+Wood structural panel diaphragms are permitted to resist horizontal forces using the allowable shear capacities set forth in Table 2306.3.1 or 2306.3.2. Wood structural panel diaphragms using staples as fasteners shall not be permitted for structures assigned to Seismic Design Category D, E, or F.
+EXCEPTION: Staples may be used for wood structural panel diaphragm, when the allowable shear values are substantiated by cyclic testing and approved by the Building Official.
+(Ord. 2007-0108 § 15 (part), 2007.)
+2306.4 Shear walls.
+2306.4.1 Wood structural panel shear walls.
+The allowable shear capacities for wood structural panel shear walls shall be in accordance with Table 2306.4.1. These capacities are permitted to be increased 40 percent for wind design. Wood shear walls shall be constructed of wood structural panels and not less than 4 feet by 8 feet (1219 mm by 2438 mm), except at boundaries and at changes in framing. Wood structural panel thickness for shear walls shall not be less than 3/8 inch thick and studs shall not be spaced at more than 16 inches on center.
+The maximum allowable shear value for three-ply plywood resisting seismic forces is 200 pounds per foot (2.92 kn/m). Nails shall be placed not less than 1/2 inch (12.7 mm) in from the panel edges and not less than 3/8 inch (9.5mm) from the edge of the connecting members for shear greater than 350 pounds per foot (5.11kN/m). Nails shall be placed not less than 3/8 inch (9.5 mm) from panel edges and not less than 1/4 inch (6.4 mm) from the edge of the connecting members for shears of 350 pounds per foot (5.11kN/m) or less.
+Wood structural panel shear walls using staples as fasteners shall not be permitted for structures assigned to Seismic Design Category D, E, or F.
+EXCEPTION: Staples may be used for wood structural panel shear walls, when the allowable shear values are substantiated by cyclic testing and approved by the Building Office.
+Any wood structural panel sheathing used for diaphragms and shear walls that are part of the seismic-force-resisting system shall be applied directly to framing members.
+EXCEPTION: Wood structural panel sheathing in a horizontal diaphragm is permitted to be fastened over solid lumber planking or laminated decking, provided the panel joints and lumber planking or laminated decking joints do not coincide.
+(Ord. 2007-0108 § 15 (part), 2007.)
+2306.4.2 Lumber sheathed shear walls.
+Shear walls sheathed with other materials. Shear capacities for walls sheathed with lath, plaster or gypsum board shall be in accordance with Table 2306.4.5. Shear walls sheathed with lath, plaster or gypsum board shall be constructed in accordance with Chapter 25 of this code and Section 2306.4.5.1. Walls resisting seismic loads shall be subject to the limitations in Section 12.2.1 of ASCE 7. The allowable shear values shown in Table 2306.4.5 for materials in category 1. are limited to 90 pound per foot (1.31 kN/m); material in category 2. through 4. are limited to 30 pounds per foot (438 N/m). Shear walls sheathed with lath, plaster or gypsum board shall not be used below the top level in a multi-level building.
+(Ord. 2007-0108 § 15 (part), 2007.)
+2306.7 Shear walls sheathed with other materials.
+Shear walls sheathed with portland cement plaster, gypsum lath, gypsum sheathing, or gypsum board shall be designed and constructed in accordance with AF&PA SDPWS. Shear walls sheathed with these materials are permitted to resist horizontal forces using the allowable shear capacities set forth in Table 2306.7. Shear walls sheathed with portland cement plaster, gypsum lath, gypsum sheathing, or gypsum board shall not be used to resist seismic forces in structures assigned to Seismic Design Category E or F.
+Shear walls sheathed with lath, plaster, or gypsum board shall not be used below the top level in a multi-level building for structures assigned to Seismic Design Category D.
+. . .
+(Ord. 2010-0053 § 66, 2010.)
+2307.2 Wood-frame panel shear walls.
+Wood-frame shear walls shall be designed and constructed in accordance with Section 2306.3 as applicable.
+(Ord. 2013-0048 § 51, 2013.)
+SECTION 2308 - CONVENTIONAL LIGHT-FRAME CONSTRUCTION
+2308.3 Braced wall lines.
+2308.3.4 Braced wall line support.
+. . .
+EXCEPTION: For structures with a maximum plan dimension not over 50 feet 15,240 mm), continuous foundations are required at exterior walls only for structures assigned to Seismic Design Category A, B, or C.
+(Ord. 2013-0048 § 52, 2013; Ord. 2010-0053 § 67, 2010; Ord. 2007-0108 § 15 (part), 2007.)
+2308.9.3.1 Alternative bracing.
+Any bracing required by Section 2308.9.3 is permitted to be replaced by the following:
+1.
+In one-story buildings, each panel shall have a length of not less than 2 feet 8 inches (813 mm) and a height of not more than 10 feet (3048 mm). Each panel shall be sheathed on one face with 3/8-inch-minimum-thickness (9.5 mm) wood structural panel sheathing nailed with 8d common or galvanized box nails in accordance with Table 2304.9.1 and blocked at wood structural panel edges. For structures assigned to Seismic Design Category D or E, each panel shall be sheathed on one face with 15/32-inch-minimum-thickness (11.9 mm) wood structural panel sheathing nailed with 8d common nails spaced 3 inches on panel edges, 3 inches at intermediate supports. Two anchor bolts installed in accordance with Section 2308.6 shall be provided in each panel. Anchor bolts shall be placed at each panel outside quarter points. Each panel end stud shall have a tie-down device fastened to the foundation, capable of providing an approved uplift capacity of not less than 1,800 pounds (8006 N). The tie-down device shall be installed in accordance with the manufacturer's recommendations. The panels shall be supported directly on a foundation or on floor framing supported directly on a foundation that is continuous across the entire length of the braced wall line. This foundation shall be reinforced with not less than one No. 4 bar top and bottom.
+. . .
+(Ord. 2013-0048 § 53, 2013.)
+2308.9.3.2 Alternate bracing wall panel adjacent to a door or window opening.
+Any bracing required by Section 2308.9.3 is permitted to be replaced by the following when used adjacent to a door or window opening with a full-length header:
+1.
+In one-story buildings, each panel shall have a length of not less than 16 inches (406 mm) and a height of not more than 10 feet (3048 mm). Each panel shall be sheathed on one face with a single layer of 3/8 inch (9.5 mm) minimum thickness wood structural panel sheathing nailed with 8d common or galvanized box nails in accordance with Figure 2308.9.3.2. For structures assigned to Seismic Design Category D or E, each panel shall be sheathed on one face with 15/32-inch-minimum-thickness (11.9 mm) wood structural panel sheathing nailed with 8d common nails spaced 3 inches on panel edges, 3 inches at intermediate supports and in accordance with Figure 2308.9.3.2. The wood structural panel sheathing shall extend up over the solid sawn or glued-laminated header and shall be nailed in accordance with Figure 2308.9.3.2. A built-up header consisting of at least two 2 × 12s and fastened in accordance with Item 24 of Table 2304.9.1 shall be permitted to be used. A spacer, if used, shall be placed on the side of the built-up beam opposite the wood structural panel sheathing. The header shall extend between the inside faces of the first full-length outer studs of each panel. The clear span of the header between the inner studs of each panel shall be not less than 6 feet (1829 mm) and not more than 18 feet (5486 mm) in length. A strap with an uplift capacity of not less than 1,000 pounds (4,400 N) shall fasten the header to the inner studs opposite the sheathing. One anchor bolt not less than 5/8 inch (15.9 mm) diameter and installed in accordance with Section 2308.6 shall be provided in the center of each sill plate. The studs at each end of the panel shall have a tie-down device fastened to the foundation with an uplift capacity of not less than 4,200 pounds (18 480 N).
+. . .
+(Ord. 2013-0048 § 54, 2013.)
+Figure 2308.9.3.2 is hereby amended to read as follows:
+(Ord. 2013-0048 § 55, 2013.)
+Table 2308.12.4 is hereby amended to read as follows:
+TABLE 2308.12.4
+WALL BRACING IN SEISMIC DESIGN CATEGORIES D AND E
+(Minimum Length of Wall Bracing per each 25 Linear Feet of Braced Wall Linea )
+. . .
+a.
+Minimum length of panel bracing of one face of the wall for S-W sheathing shall be at least 4'-0" long or both faces of the wall for G-P sheathing shall be at least 8'-0" long; h/w ratio shall not exceed 2:1. For S-W panel bracing of the same material on two faces of the wall, the minimum length is permitted to be one-half the tabulated value but the h/w ratio shall not exceed 2:1 and design for uplift is required.
+b.
+G-P = gypsum board, portland cement, plaster, or gypsum sheathing boards; S-W = wood structural panels.
+c.
+Nailing as specified below shall occur at all panel edges at studs, at top and bottom plates and, where occurring, at blocking:
+For 1/2-inch gypsum board, 5d (0.113 inch diameter) cooler nails at 7 inches on center;
+For 5/8-inch gypsum board, No 11 gage (0.120 inch diameter) cooler nails at 7 inches on center;
+For gypsum sheathing board, 1-3/4 inches long by 7/16-inch head, diamond point galvanized nails at 4 inches on center;
+For gypsum lath, No. 13 gage (0.092 inch) by 1-1/8 inches long, 19/64-inch head, plasterboard at 5 inches on center;
+For Portland cement plaster, No. 11 gage (0.120 inch) by 11/2 inches long, 7/16- inch head at 6 inches on center;
+d.
+S-W sheathing shall be a minimum of 15/32" thick nailed with 8d common nails placed 3/8 inches from panel edges and spaced not more than 6 inches on center and 12 inches on center along intermediate framing members.
+(Ord. 2013-0048 § 56, 2013.)
+2308.12 Additional requirements for conventional construction in Seismic Design Category D or E.
+2308.12.1 Number of stories.
+Structures of conventional light-frame construction shall not exceed one story in height in Seismic Design Category D or E.
+2308.12.2. Concrete or masonry.
+Exception: Stone and masonry veneer is permitted to be used in the first story above grade plane in Seismic Design Category D, provided the following criteria are met:
+1.
+. . .
+5.
+Anchored masonry and stone wall veneer shall not exceed 5 inches (127 mm) in thickness, shall conform to the requirements of Chapter 14, and shall not extend more than 5 feet (1524 mm) above the first story finished floor.
+(Ord. 2010-0053 § 68, 2010; Ord. 2007-0108 § 15 (part), 2007.)
+2308.12.4 Braced wall line sheathing.
+Braced wall lines shall be braced by one of the types of sheathing prescribed by Table 2308.12.4 as shown in Figure 2308.9.3. The sum of lengths of braced wall panels at each braced wall line shall conform to Table 2308.12.4. Braced wall panels shall be distributed along the length of the braced wall line and start at not more than 8 feet (2438 mm) from each end of the braced wall line. Panel sheathing joints shall occur over studs or blocking. Sheathing shall be fastened to studs, top and bottom plates, and at panel edges occurring over blocking. Wall framing to which sheathing used for bracing is applied shall be nominal 2-inch-wide [actual 11/2 inch (38 mm)] or larger members and spaced a maximum of 16 inches on center.
+Exception: Braced wall panels required by Section 2308.12.4 may be eliminated when all of the following requirements are met:
+1.
+One story detached Group U occupancies not more than 25 feet in depth or length.
+2.
+The roof and three enclosing walls are solid sheathed with 15/32 inch nominal thickness wood structural panels with 8d common nails placed 3/8 inches from panel edges and spaced not more than 6 inches on center along all panel edges and 12 inches on center along intermediate framing members. Wall openings for doors or windows are permitted provided a minimum 4-foot-wide wood structural braced panel with minimum height to length ratio of 2 to 1 is provided at each end of the wall line and that the wall line be sheathed for 50 percent of its length.
+Wood structural panel sheathing shall be a minimum of 15/32 inch thick nailed with 8d common nails placed 3/8 inches from panel edges and spaced not more than 6 inches on center and 12 inches on center along intermediate framing members.
+Braced wall panel construction types shall not be mixed within a braced wall line.
+(Ord. 2010-0053 § 69, 2010.)
+TABLE 2308.12.4
+WALL BRACING IN SEISMIC DESIGN CATEGORIES D AND E
+(Minimum Length of Wall Bracing per each 25 Linear Feet of Braced Wall Linea )
+EXPAND
+CONDITION SHEATHING TYPE b S DS < 0.50 0.50 ≤ S DS< 0.75 0.75 ≤ S D S ≤ 1.00 S DS > 1.00
+One Story G-P c 10 feet 8 inches 14 feet 8 inches 18 feet 8 inches 25 feet 0 inches
+S-W d 5 feet 4 inches 8 feet 0 inches 9 feet 4 inches 12 feet 0 inches
+  a.
+Minimum length of panel bracing of one face of the wall for S-W sheathing shall be at least 4'-0" long or both faces of the wall for G-P sheathing shall be at least 8'-0" long; h/w ratio shall not exceed 2:1. For S-W panel bracing of the same material on two faces of the wall, the minimum length is permitted to be one-half the tabulated value but the h/w ratio shall not exceed 2:1 and design for uplift is required.
+b.
+G-P = gypsum board, portland cement, plaster, or gypsum sheathing boards; S-W = wood structural panels.
+c.
+Nailing as specified below shall occur at all panel edges at studs, at top and bottom plates and, where occurring, at blocking:
+For 1/2-inch gypsum board, 5d (0.113 inch diameter) cooler nails at 7 inches on center;
+For 5/8-inch gypsum board, No 11 gage (0.120 inch diameter) cooler nails at 7 inches on center;
+For gypsum sheathing board, 1-3/4 inches long by 7/16-inch head, diamond point galvanized nails at 4 inches on center;
+For gypsum lath, No. 13 gage (0.092 inch) by 1-1/8 inches long, 19/64-inch head, plasterboard at 5 inches on center;
+For Portland cement plaster, No. 11 gage (0.120 inch) by 11/2 inches long, 7/16- inch head at 6 inches on center;
+d.
+S-W sheathing shall be a minimum of 15/32" thick nailed with 8d common nails placed 3/8 inches from panel edges and spaced not more than 6 inches on center and 12 inches on center along intermediate framing members.
+(Ord. 2010-0053 § 70, 2010; Ord. 2007-0108 § 15 (part), 2007.)
+2308.12.5. Attachment of sheathing.
+Fastening of braced wall panel sheathing shall not be less than that prescribed in Table 2308.12.4 or 2304.9.1. Wall sheathing shall not be attached to framing members by adhesives. Staple fasteners in Table 2304.9.1 shall not be used to resist or transfer seismic forces in structures assigned to Seismic Design Category D, E, or F.
+EXCEPTION: Staples may be used to resist or transfer seismic forces when the allowable shear values are substantiated by cyclic testing and approved by the Building Official.
+All braced wall panels shall extend to the roof sheathing and shall be attached to parallel roof rafters or blocking above with framing clips (18 gauge minimum) spaced at maximum 24 inches (6096 mm) on center with four 8d nails per leg (total eight 8d nails per clip). Braced wall panels shall be laterally braced at each top corner and at maximum 24 inch (6096 mm) intervals along the top plate of discontinuous vertical framing.
+(Ord. 2013-0048 § 57, 2013: Ord. 2010-0053 § 71, 2010; Ord. 2007-0108 § 15 (part), 2007.)
+Table 2306.3.1 is hereby deleted in its entirety.
+(Ord. 2007-0108 § 16, 2007.)
+Table 2306.3.1 is hereby added to read as follows:
+TABLE 2306.3.1
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL DIAPHRAGMS WITH
+FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEa FOR WIND OR SEISMIC LOADINGh
+EXPAND
+Panel Grade Common Nail Size Minimum Fastener Penetration in Framing (inches) Minimum Nominal Panel Thickness (inch) Minimum Nominal Width of Framing Members at Adjoining Panel Edges and Boundariesg (inches) Blocked Diaphragms Unblocked Diaphragms
+Fastener spacing (inches) at diaphragm boundaries (all cases) at continuous panel edges parallel to load (Cases 3, 4), and at all panel edges (Cases 5, 6)b Fastener spaced 6" max. at supported edgesb
+6 4 2 ½c 2c Case 1 (No unblocked edges or continuous joints parallel to load) All other configurations (Cases 2, 3, 4, 5 and 6)
+Fastener spacing (inches) at other panel edges
+(Cases 1,2,3 and 4)b
+6 6 4 3
+Structural I Grades 6de (2" x 0.113") 1 1/4 5/16 2 185 250 375 420 165 125
+3 210 280 420 475 185 140
+8d (2 ½" x 0.131") 1 3/8 3/8 2 270 360 530 600 240 180
+3 300 400 600 675 265 200
+10dd (3" x 0.148") 1 1/2 15/32 2 320 425 640 730 285 215
+3 360 480 720 820 320 240
+Sheathing, single floor and other grades covered in DOC PS1 and PS2 6de (2" x 0.113") 1 1/4 5/16 2 170 225 335 380 150 110
+3 190 250 380 430 170 125
+6de (2" x 0.113") 1 1/4 3/8 2 185 250 375 420 165 125
+3 210 280 420 475 185 140
+8d (2 ½" x 0.131") 1 3/8 2 240 320 480 545 215 160
+3 270 360 540 610 240 180
+8d (2 ½" x 0.131") 1 3/8 7/16 2 255 340 505 575 230 170
+3 285 380 570 645 255 190
+8d (2 ½" x 0.131") 1 3/8 15/32 2 270 360 530 600 240 180
+3 300 400 600 675 265 200
+10dd (3" x 0.148") 1 1/2 2 290 385 575 655 255 190
+3 324 430 650 735 290 215
+10dd (3" x 0.148") 1 1/2 19/32 2 320 425 640 730 285 215
+3 360 480 720 820 320 240
+  (Continued)
+For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.  For framing of other species: (1) Find specific gravity for species of lumber in AF&PA NDS. (2) For nails find shear value from table above for nail size for actual grade and multiply value by the following adjustment factor: Specific Gravity Adjustment Factor = [1-(0.5-SG)], where SG = Specific Gravity of the framing lumber. This adjustment factor shall not be greater than 1.
+b.  Space fasteners maximum 12 inches o.c. along intermediate framing members (6 inches o.c. where supports are spaced 48 inches o.c.).
+c.  Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails shall be staggered where nails are spaced 2 inches o.c. or 2 ½ inches o.c.
+d.  Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails shall be staggered where both of the following conditions are met: (1) 10d nails having penetration into framing of more than 1 ½ inches and (2) nails are spaced 3 inches o.c. or less.
+e.  8d is recommended minimum for roofs due to negative pressures of high winds.
+f.  Reserved.
+g.  The minimum nominal width of framing members not located at boundaries or adjoining panel edges shall be 2 inches.
+h.  For shear loads of normal or permanent load duration as defined by the AF&PA NDS, the values in the table above shall be multiplied by 0.63 or 0.56, respectively.
+(Ord. 2007-0108 § 17, 2007.)
+Table 2306.3.2 is hereby deleted in its entirety.
+(Ord. 2007-0108 § 18, 2007.)
+Table 2306.3.2 is hereby added to read as follows:
+TABLE 2306.3.2
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL BLOCKED DIAPHRAGMS UTILIZING MULTIPLE ROWS OF FASTENERS (HIGH LOAD DIAPHRAGMS) WITH FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEaFOR WIND OR SEISMIC LOADING b,g,h
+EXPAND
+Panel Grade Common Nail Size Minimum Fastener Penetration in Framing (inches) Minimum Nominal Panel Thickness (inch) Minimum Nominal Width of Framing Members at Adjoining Panel Edges and Boundariese (inches) Lines of
+Fasteners Blocked Diaphragms
+Cases 1 and 2d
+Fastener Spacing Per Line at Boundaries (inches)
+4 2 1/2
+Fastener Spacing Per Line at Other Panel Edges (inches)
+6 4 4 3
+Structural I Grades 10d common nails 1 1/2 15/32 3 2 605 815 875 1150
+4 2 700 915 1005 1290
+4 3 875 1220 1285 1395
+19/32 3 2 670 880 965 1255
+4 2 780 990 1110 1440
+4 3 965 1320 1405 1790
+23/32 3 2 730 955 1050 1365
+4 2 855 1070 1210 1565
+4 3 1050 1430 1525 1800
+Sheathing, single floor and other grades covered in DOC PS1 and PS2 10d common nails 1 1/2 15/32 3 2 525 725 765 1010
+4 2 605 815 875 1105
+4 3 765 1085 1130 1195
+19/32 3 2 650 860 935 1225
+4 2 755 965 1080 1370
+4 3 935 1290 1365 1485
+23/32 3 2 710 935 1020 1335
+4 2 825 1050 1175 1445
+4 3 1020 1400 1480 1565
+    For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.  For framing of other species: (1) Find specific gravity for species of lumber in AF&PA NDS. (2) For nails find shear value from table above for nail size for actual grade and multiply value by the following adjustment factor: Specific Gravity Adjustment Factor = [1-(0.5-SG)], where SG = Specific Gravity of the framing lumber. This adjustment factor shall not be greater than 1.
+b.  Fastening along intermediate framing members: Space fasteners maximum 12 inches on center, except 6 inches on center for spans greater than 32 inches.
+c.  Panels conforming to PS1 or PS 2.
+d.  This table gives shear values for Cases 1 and 2 as shown in Table 2306.3.1. The values shown are applicable to Cases 3,4,5 and 6 as shown in Table 2306.3.1, providing fasteners at all continuous panels edges are spaced in accordance with the boundary fastener spacing.
+e.  The minimum nominal depth of framing members shall be 3 inches nominal. The minimum nominal width of framing members not located at boundaries or adjoining panel edges shall be 2 inches.
+f.  Reserved.
+g.  High load diaphragms shall be subject to special inspection in accordance with Section 1704.6.1.
+h.  For shear loads of normal or permanent load duration as defined by the AF&PA NDS, the values in the table above shall be multiplied by 0.63 or 0.56, respectively.
+(Ord. 2007-0108 § 19, 2007.)
+Table 2306.4.1 is hereby deleted in its entirety.
+(Ord. 2007-0108 § 20, 2007.)
+Table 2306.4.1 is hereby added to read as follows:
+TABLE 2306.4.1
+ALLOWABLE SHEAR (POUNDS PER FOOT) FOR WOOD STRUCTURAL PANEL SHEAR WALLS WITH FRAMING OF DOUGLAS FIR-LARCH OR SOUTHERN PINEaFOR WIND OR SEISMIC LOADINGb, h, I, j, l, m, n
+EXPAND
+Panel Grade Minimum Nominal Panel Thickness (inch) Minimum Fastener Penetration in Framing (inches) Allowable Shear Value for Seismic Forces Panels
+Applied Directly to Framing Allowable Shear Value for Wind Forces Panels
+Applied Directly to Framing
+Nail
+(common) size Fastener spacing at panel edges (inches) Nail (common) size Fastener spacing at panel edges (inches)
+6 4 3 2e 6 4 3 2e
+Structural I Sheathing 3/8 1-3/8 8d (2½"x0.131" common) 200 200 200 200 8d (2½"x0.131" common) 230d 360d 460d 610d
+7/16 1-3/8 8d (2½"x0.131" common) 255 395 505 670 8d (2½"x0.131" common) 255d 395d 505d 670d
+15/32 1-3/8 8d (2½"x0.131" common) 280 430 550 730 8d (2½"x0.131" common) 280 430 550 730
+1-1/2 10d (3"x0.148" common) 340 510 665f 870 10d (3"x0.148" common) 340 510 665f 870
+Sheathing, plywood sidingg except Group 5 Species 3/8 1-1/4 6d (2"x0.113" common) 200 200 200 200 6d (2"x0.113" common) 200 300 390 510
+1-3/8 8d (2½"x0.131" common) 200 200 200 200 8d (2½"x0.131" common) 220d 320d 410d 530d
+7/16 1-3/8 8d (2½"x0.131" common) 240 350 450 585 8d (2½"x0.131" common) 240d 350d 450d 585d
+15/32 1-3/8 8d (2½"x0.131" common) 260 380 490 640 8d (2½"x0.131" common) 260 380 490 640
+1-1/2 10d (3"x0.148" common) 310 460 600f 770 10d (3"x0.148" common) 310 460 600f 770
+19/32 1-1/2 10d (3"x0.148" common) 340 510 665f 870 10d (3"x0.148" common) 340 510 665f 870
+Nail Size (galvanized casing) Nail Size (galvanized casing)
+3/8 1-3/8 8d (2½"x0.113") 160 200 200 200 8d (2½"x0.113") 160 240 310 410
+    Notes to Table 2306.4.1
+For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.  For framing of other species: (1) Find specific gravity for species of lumber in AF&PA NDS. (2) For nails find shear value from table above for nail size for actual grade and multiply value by the following adjustment factor: Specific Gravity Adjustment Factor = [1-(0.5-SG)], where SG = Specific Gravity of the framing lumber. This adjustment factor shall not be greater than 1.
+b.  Panel edges backed with 2-inch nominal or thicker framing. Install panels either horizontally or vertically. Space fasteners maximum 6 inches on center along intermediate framing members for 3/8-inch and 7/16-inch panels installed on studs spaced 24 inches on center. For other conditions and panel thickness, space fasteners maximum 12 inches on center on intermediate supports.
+c.  3/8-inch panel thickness or siding with a span rating of 16 inches on center is the minimum recommended where applied direct to framing as exterior siding.
+d.  Allowable shear values are permitted to be increased to values shown for 15/32-inch sheathing with same nailing provided (a) studs are spaced a maximum of 16 inches on center, or (b) panels are applied with long dimension across studs.
+e.  Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails shall be staggered where nails are spaced 2 inches on center.
+f.  Framing at adjoining panel edges shall be 3 inches nominal or thicker, and nails shall be staggered where both of the following conditions are met: (1) 10d (3"x0.148") nails having penetration into framing of more than 1-1/2 inches and (2) nails are spaced 3 inches on center.
+g.  Values apply to all-veneer plywood. Thickness at point of fastening on panel edges governs shear values.
+h.  Where panels applied on both faces of a wall and nail spacing is less than 6 inches o.c. on either side, panel joints shall be offset to fall on different framing members, or framing shall be 3-inch nominal or thicker at adjoining panel edges and nails on each side shall be staggered.
+i.  In Seismic Design Category D, E or F, where shear design values exceed 350 pounds per linear foot, all framing members receiving edge nailing from abutting panels shall not be less than a single 3-inch nominal member, or two 2-inch nominal members fastened together in accordance with Section 2306.1 to transfer the design shear value between framing members. Wood structural panel joint and sill plate nailing shall be staggered in all cases. See Section 2305.3.11 for sill plate size and anchorage requirements.
+j.  Galvanized nails shall be hot dipped or tumbled.
+k.  Reserved.
+l.  For shear loads of normal or permanent load duration as defined by the AF&PA NDS, the values in the table above shall be multiplied by 0.63 or 0.56, respectively.
+m.  [DSA-SS & OSHPD 1, 2 and 4] Refer to Section 2305.2.4.2, which requires any wood structural panel sheathing used for diaphragms and shear walls that are part of the seismic-force-resisting system to be applied directly to framing members.
+n.  The maximum allowable shear value for three-ply plywood resisting seismic forces is 200 pounds per foot (2.92 kn/m).
+(Ord. 2007-0108 § 21, 2007.)
+Table 2306.4.5 is hereby deleted in its entirety.
+(Ord. 2007-0108 § 22, 2007.)
+Table 2306.4.5 is hereby added to read as follows:
+TABLE 2306.4.5
+ALLOWABLE SHEAR FOR WIND OR SEISMIC FORCES FOR SHEAR WALLS OF LATH AND PLASTER OR GYPSUM BOARD WOOD FRAMED WALL ASSEMBLIES
+EXPAND
+Type of Material Thickness of Material Wall Construction Fastener Spacingb Maximum (inches) Shear Value a,e (plf) MINIMUM FASTENER SIZE c,d,j,k,l
+Seismicl Wind
+1. Expanded metal, or woven wire lath and portland cement plaster 7/8" Unblocked 6 90 180 No. 11 gage, 1-1/2" long, 7/16" head 16 Ga. Galv. Staple, 7/8" legs
+2. Gypsum lath, plain or perforated 3/8" lath and 1/2" plaster Unblocked 5 30 100 No. 13 gage, 1-1/8" long, 19/64" head, plasterboard nail 16 Ga. Galv. Staple, 1-1/8" long 0.120" Nail, min. 3/8" head, 1-1/4" long
+3. Gypsum sheathing 1/2" x 2' x 8' Unblocked 4 30 75 No. 11 gage, 1-3/4" long, 7/16" head, diamond-point, galvanized 16 Ga. Galv. Staple, 1-3/4" long
+1/2" x 4' Blockedf
+Unblocked 4
+7 30
+30 175
+100
+5/8" x 4' Blocked 4" edge/
+7" field 30 200 6d galvanized 0.120" Nail, min. 3/8" head, 1-3/4" long
+4. Gypsum board, gypsum veneer base or water-resistant gypsum backing board 1/2" Unblockedf 7 30 75 5d cooler (1-5/8" lx 0.086") or wallboard 0.120" Nail, min. 3/8" head, 1-1/2" long 16 Gage Staple, 1-1/2" long
+Unblockedf 4 30 110
+Unblocked 7 30 100
+Unblocked 4 30 125
+Blockedg 7 30 125
+Blockedg 4 30 150
+Unblocked 8/12h 30 60 No. 6- 1-1/4" screwsi
+Blockedg 4/16h 30 160
+Blockedg 4/12h 30 155
+Blockedf, g 8/12h 30 70
+Blockedg 6/12h 30 90
+5/8" Unblockedf 7 30 115 6d cooler (1-7/8" x 0.092") or wallboard 0.120" Nail, min. 3/8" head, 1-3/4" long 16 Gage Staple, 1-1/2" legs, 1-5/8" long
+4 30 145
+Blockedg 7 30 145
+4 30 175
+Blockedg
+Two ply Base ply: 9
+Face ply: 7 30 250 Base ply-6d cooler (1-7/8" x 0.092") or wallboard 1-3/4" x 0.120" Nail, min. 3/8" head 1-5/8" 16 Ga. Galv. Staple Face ply-8d cooler (2-3/8" x 0.113") or wallboard 0.120" Nail, min. 3/8" head, 2-3/8" long 15 Ga. Galv. Staple, 2-1/4" long
+Unblocked 8/12h 30 70 No. 6- 1-1/4" screwsi
+Blockedg 8/12h 30 90
+    Notes to Table 2306.4.5
+For SI: 1 inch = 25.4 mm, 1 foot = 25.4 mm, 1 pound per foot = 14.5939 N/m.
+a.  These shear walls shall not be used to resist loads imposed by masonry or concrete construction (see Section 2305.1.5). Values shown are for short-term loading due to wind or seismic loading. Walls resisting seismic loads shall be subject to the limitations in Section 12.2.1 of ASCE 7. Values shown shall be reduced 25 percent for normal loading.
+b.  Applies to fastening at studs, top and bottom plates and blocking.
+c.  Alternate fasteners are permitted to be used if their dimensions are not less than the specified dimensions. Drywall screws are permitted to substitute for the 5d (1-5/8" x 0.086"), and 6d (1-7/8" x 0.092")(cooler) nails listed above, and No. 6 1-1/4 inch Type S or W screws for 6d (1-7/8" x 0.092")(cooler) nails.
+d.  For properties of cooler nails, see ASTM C 514.
+e.  Except as noted, shear values are based on maximum framing spacing of 16 inches on center.
+f.  Maximum framing spacing of 24 inches on center.
+g.  All edges are blocked, and edge fastening is provided at all supports and all panel edges.
+h.  First number denotes fastener spacing at the edges; second number denotes fastener spacing at intermediate framing members.
+i.  Screws are Type W or S.
+j.  Staples shall have a minimum crown width of 7/16 inch, measure outside the legs, and shall be installed with their crowns parallel to the long dimension of the framing members.
+k.  Staples for the attachment of gypsum loath and woven-wire lath shall have a minimum crown width of ¾ inch, measured outside the legs.
+l.  This construction shall not be used below the top level of wood construction in a multi-level building.
+(Ord. 2007-0108 § 23, 2007.)

@@ -1,0 +1,25 @@
+CHAPTER 12 - INTERIOR ENVIRONMENT
+
+SECTION 1207 - SOUND TRANSMISSION
+1207.1 - Purpose and scope.
+The purpose of this Section is to establish uniform minimum noise insulation performance standards to protect persons within hotels, motels, dormitories, long-term care facilities, apartment houses, dwellings, private schools, and places of worship from the effects of excessive noise, including, but not limited to, hearing loss or impairment and interference with speech and sleep. This Section shall apply to all buildings for which applications for building permits were made subsequent to August 22, 1974.
+(Ord. 2010-0053 § 18, 2010.)
+1207.11.1 - Application.
+Consistent with local land-use standards, all structures identified in Section 1207.1 located in noise critical areas, such as proximity to highways, county roads, city streets, railroads, rapid transit lines, airports or industrial areas, shall be designed to prevent the intrusion of exterior noises beyond prescribed levels. Proper design shall include, but shall not be limited to, orientation of the structure, setbacks, shielding, and sound insulation of the building itself.
+(Ord. 2010-0053 § 19, 2010.)
+1207.11.2 - Allowable interior noise levels.
+Interior noise levels attributable to exterior sources shall not exceed 45 db in any habitable rooms, classrooms, and all rooms used in patient care and worship. The noise metric shall be either the day-night average sound level (Ldn) or the community noise equivalent level (CNEL), consistent with the noise element of the local general plan.
+(Ord. 2010-0053 § 20, 2010.)
+1207.11.3 - Airport noise sources.
+Residential structures and all other structures identified in Section 1207.1, located where the annual Ldn or CNEL (as defined in Title 21, Division 2.5, Chapter 6, Article 1, section 5001, California Code of Regulations) exceeds 60 db and 65 db, respectively, shall require an acoustical analysis showing that the proposed design will achieve prescribed allowable interior level.
+EXCEPTION: New single-family detached dwellings and all non-residential noise-sensitive structures located outside the noise impact boundary of 65 db CNEL are exempt from Section 1207.
+Alterations or additions to all noise-sensitive structures, within the 65 db and greater CNEL shall comply with Section 1207. If the addition or alteration cost exceeds 75 percent of the replacement cost of the existing structure, then the entire structure must comply with Section 1207.
+For public-use airports or heliports, the Ldn or CNEL shall be determined from the Aircraft Noise Impact Area Map prepared by the Airport Authority. For military bases, the Ldn shall be determined from the facility Air Installation Compatible Use Zone (AICUZ) plan. For all other airports or heliports, or public-use airports or heliports for which a land-use plan has not been developed, the Ldn or CNEL shall be determined from the noise element of the general plan of the local jurisdiction.
+(Ord. 2010-0053 § 21, 2010.)
+1207.11.4 - Other noise sources.
+All structures identified in Section 1207 located where the Ldn or CNEL exceeds 60 db shall require an acoustical analysis showing that the proposed design will limit exterior noise to the prescribed allowable interior level. The noise element of the local general plan shall be used to the greatest extent possible to identify sites with noise levels potentially greater than 60 db.
+(Ord. 2010-0053 § 22, 2010.)
+1207.12 - Compliance.
+Evidence of compliance shall consist of submittal of an acoustical analysis report, prepared under the supervision of a person experienced in the field of acoustical engineering, with the application for a building permit for all structures identified in Section 1207 or the use of prescriptive standards. The report shall show topographical relationships of noise sources and dwelling sites, identification of noise sources and their characteristics, predicted noise spectra, and levels at the exterior of the proposed dwelling structure considering present and future land usage, basis for the prediction (measured or obtained from published data), noise attenuation measures to be applied, and an analysis of the noise insulation effectiveness of the proposed construction showing that the prescribed interior noise level requirements are met.
+If interior allowable noise levels are met by requiring that windows be unopenable or closed, the design for the structure must also specify a ventilation or air-conditioning system to provide a habitable interior environment. The ventilation system must not compromise the interior room noise reduction.
+(Ord. 2010-0053 § 23, 2010.)

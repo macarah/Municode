@@ -1,0 +1,110 @@
+CHAPTER 17 - STRUCTURAL TESTS AND SPECIAL INSPECTIONS
+
+SECTION 1704 - SPECIAL INSPECTIONS
+1704.1 General.
+EXCEPTIONS:
+. . .
+3.
+[HCD 1] The provisions of Health and Safety Code Division 13, Part 6 and the California Code of Regulations, Title 25, Division 1, Chapter 3, commencing with section 3000, shall apply to the construction and inspection of factory-built housing as defined in Health and Safety Code section 19971.
+(Ord. 2010-0053 § 31, 2010; Ord. 2007-0108 § 7 (part), 2007.)
+1704.1.1 Statement of special inspections.
+The applicant shall submit a statement of special inspections prepared by the registered design professional in responsible charge in accordance with Section 106.4.2, as a condition for permit issuance. This statement shall be in accordance with Section 1705.
+. . .
+(Ord. 2010-0053 § 32, 2010.)
+1704.2.3 Statement of special inspections.
+The applicant shall submit a statement of special inspections in accordance with Section 106.4, as a condition for permit issuance. This statement shall be in accordance with Section 1704.3.
+(Ord. 2013-0048 § 24, 2013.)
+1704.4 Concrete Construction.
+EXCEPTIONS: Special inspection shall not be required for:
+1.
+Isolated spread concrete footings of buildings three stories or less above grade plane that are fully supported on earth or rock where the structural design of the footing is based on a specified compressive strength, f'c, not greater than 2,500 pounds per square inch (psi) (17.2 Mpa) regardless of the compressive strength specified in the construction documents or used in the footing construction.
+. . .
+4.
+Concrete patios, and sidewalks, on grade.
+(Ord. 2010-0053 § 33, 2010; Ord. 2007-0108 § 7 (part), 2007.)
+1704.5 Structural observations.
+Where required by the provisions of Section 1704.5.1 or 1704.5.2, the owner shall employ a structural observer to perform structural observations as defined in Section 1702. The structural observer shall be one of the following individuals:
+1.
+The registered design professional responsible for the structural design, or
+2.
+A registered design professional designated by the registered design professional responsible for the structural design.
+Prior to the commencement of observations, the structural observer shall submit to the Building Official a written statement identifying the frequency and extent of structural observations.
+The owner or owner's representative shall coordinate and call a preconstruction meeting between the structural observer, contractors, affected subcontractors, and special inspectors. The structural observer shall preside over the meeting. The purpose of the meeting shall be to identify the major structural elements and connections that affect the vertical and lateral load resisting systems of the structure and to review scheduling of the required observations. A record of the meeting shall be included in the report submitted to the Building Official.
+Observed deficiencies shall be reported in writing to the owner or owner's representative, special inspector, contractor, and the Building Official. Upon the form prescribed by the Building Official, the structural observer shall submit to the Building Official a written statement at each significant construction stage stating that the site visits have been made and identifying any reported deficiencies which, to the best of the structural observer's knowledge, have not been resolved. A final report by the structural observer which states that all observed deficiencies have been resolved is required before acceptance of the work by the Building Official.
+(Ord. 2013-0048 § 25, 2013.)
+1704.5.1 Structural observations for seismic resistance.
+. . .
+3.
+The structure is classified as Risk Category I or II in accordance with Table 1604.5, and a lateral design is required for the structure or portion thereof.
+EXCEPTION: One-story wood framed Group R-3 and Group U Occupancies less than 2000 square feet in area, provided the adjacent grade is not steeper than 1 unit.
+(Ord. 2013-0048 § 26, 2013.)
+1704.8 Driven deep foundations and connection grade beams.
+Special inspections shall be performed during installation and testing of driven deep foundation elements as required by Table 1704.8. Special inspections shall be performed for connection grade beams in accordance with Section 1704.4 for structures assigned to Seismic Design Category D, E, or F. The approved geotechnical report, and the construction documents prepared by the registered design professionals, shall be used to determine compliance.
+(Ord. 2010-0053 § 34, 2010; Ord. 2007-0108 § 7 (part), 2007.)
+1704.9 Cast-in-place deep foundations and connection grade beams.
+Special inspections shall be performed during installation and testing of cast-in-place deep foundation elements as required by Table 1704.9. Special inspections shall be performed for connection grade beams in accordance with Section 1704.4 for structures assigned to Seismic Design Category D, E, or F. The approved geotechnical report, and the construction documents prepared by the registered design professionals, shall be used to determine compliance.
+(Ord. 2010-0053 § 35, 2010.)
+SECTION 1705 - STATEMENT OF SPECIAL INSPECTIONS
+1705.3 Concrete Construction.
+The special inspections and verifications for concrete construction shall be as required by this Section and Table 1705.3.
+EXCEPTION: Special inspection shall not be required for:
+1.
+Isolated spread concrete footings of buildings three stories or less above grade plane that are fully supported on earth or rock where the structural design of the footing is based on a specified compressive strength (f'c) not greater than 2,500 pounds per square inch (psi) (17.2 Mpa) regardless of the compressive strength specified in the construction documents or used in the footing construction.
+. . .
+4.
+Concrete patios, and sidewalks, on grade.
+(Ord. 2013-0048 § 27, 2013; Ord. 2010-0053 § 36, 2010.)
+TABLE 1705.3
+REQUIRED VERIFICATION AND INSPECTION OF
+CONCRETE CONSTRUCTION
+EXPAND
+VERIFICATION AND
+INSPECTION CONTINUOUS PERIODIC REFERENCE STANDARDa IBC REFERENCE
+. . . . . . . . . . . . . . .
+3. Inspection of anchors cast in concrete where allowable loads have been increased or where strength design is used. — X ACI 318: D.9.2 1908.5
+4. Inspection of anchors post-installed in hardened concrete membersb. —
+a.  Adhesive anchors installed in horizontally or upwardly inclined orientations to resist sustained tension loads. X ACI 318:D.9.2.4 —
+b.  Mechanical anchors and adhesive anchors not defined in 4.a. X ACI 318: D.9.2 —
+. . . . . . . . . . . . . . .
+  . . .
+b. Specific requirements for special inspection shall be included in the research report for the anchor issued by an approved source in accordance with ACI 355.2, D.9.2 in ACI 318, or other qualification procedures. Where specific requirements are not provided, special inspection requirements shall be specified by the registered design professional and shall be approved by the Building Official prior to the commencement of the work.
+(Ord. 2013-0048 § 28, 2013.)
+1705.11 Special inspections for seismic resistance.
+. . .
+EXCEPTION: Special inspections itemized in Sections 1705.11.1 through 1705.11.8 are not required for structures designed and constructed in accordance with one of the following:
+. . .
+3.
+The structure is a detached one- or two-family dwelling not exceeding two stories above grade plane, provided the structure is not assigned to Seismic Design Category D, E, or F and does not have any of the following plan or vertical irregularities in accordance with Section 12.3 of ASCE 7:
+. . .
+(Ord. 2013-0048 § 29, 2013.)
+SECTION 1709 - STRUCTURAL OBSERVATIONS
+1709.1 General.
+Where required by the provisions of Section 1709.2 or 1709.3 the owner shall employ the registered design professional responsible for the structural design, or another registered design professional designated by the registered design professional responsible for the structural design to perform structural observations as defined in Section 1702.
+The owner or owner's representative shall coordinate and call a preconstruction meeting between the registered design professional responsible for the structural design, structural observer, contractor, affected subcontractors and special inspectors. The structural observer shall preside over the meeting. The purpose of the meeting shall be to identify the major structural elements and connections that affect the vertical and lateral load resisting systems of the structure and to review scheduling of the required observations. A record of the meeting shall be included in the report submitted to the building official.
+Observed deficiencies shall be reported in writing to the owner's representative, special inspector, contractor and the building official. The structural observer shall submit to the building official a written statement, in the form prescribed by the building official, at each significant construction stage stating that the required site visits have been made and identifying any reported deficiencies which, to the best of the structural observer's knowledge, have not been resolved. A final report by the structural observer which states that all observed deficiencies have been resolved is required before acceptance of the work by the building official.
+(Ord. 2007-0108 § 7 (part), 2007.)
+1709.2 Structural observations for seismic resistance.
+Structural observations shall be provided for those structures included in Seismic Design Category D, E or F, as determined in Section 1613, where one or more of the following conditions exist:
+3.
+The structure is classified as Occupancy Category I or II in accordance with Section 1604.5 and a lateral design is required for the structure or portion thereof.
+EXCEPTION: One-story wood framed Group R-3 and Group U Occupancies less than 2000 square feet, provided the adjacent grade is not steeper than 1 unit vertical in 10 units horizontal (10% sloped), assigned to Seismic Design Category D.
+(Ord. 2007-0108 § 7 (part), 2007.)
+1709.3 Structural observations for wind requirements.
+SECTION 1710 - DESIGN STRENGTHS OF MATERIALS
+1710.1 General.
+Where required by the provisions of Section 1710.2 or 1710.3, the owner shall employ a structural observer to perform structural observations as defined in Section 1702. The structural observer shall be one of the following individuals:
+1.
+The registered design professional responsible for the structural design, or
+2.
+A registered design professional designated by the registered design professional responsible for the structural design.
+. . .
+The owner or owner's representative shall coordinate and call a preconstruction meeting between the structural observer, contractors, affected subcontractors, and special inspectors. The structural observer shall preside over the meeting. The purpose of the meeting shall be to identify the major structural elements and connections that affect the vertical and lateral load resisting systems of the structure and to review scheduling of the required observations. A record of the meeting shall be included in the report submitted to the Building Official.
+Observed deficiencies shall be reported in writing to the owner or owner's representative, special inspector, contractor, and the Building Official. Upon the form prescribed by the Building Official, the structural observer shall submit to the Building Official a written statement at each significant construction stage stating that the site visits have been made and identifying any reported deficiencies which, to the best of the structural observer's knowledge, have not been resolved. A final report by the structural observer which states that all observed deficiencies have been resolved is required before acceptance of the work by the Building Official.
+(Ord. 2010-0053 § 37, 2010.)
+1710.2 Structural observations for seismic resistance.
+. . .
+3.
+The structure is classified as Occupancy Category I or II in accordance with Table 1604.5, and a lateral design is required for the structure or portion thereof.
+Exception: One-story wood framed Group R-3 and Group U Occupancies less than 2000 square feet in area, provided the adjacent grade is not steeper than 1 unit vertical in 10 units horizontal (10 percent sloped), assigned to Seismic Design Category D.
+. . .
+(Ord. 2010-0053 § 38, 2010.)

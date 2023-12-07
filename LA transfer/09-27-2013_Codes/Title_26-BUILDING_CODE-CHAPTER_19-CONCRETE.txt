@@ -1,0 +1,92 @@
+CHAPTER 19 - CONCRETE
+
+SECTION 1908 - MODIFICATIONS TO ACI 318
+1908.1 General.
+The text of ACI 318 shall be modified as indicated in Sections 1908.1.1 through 1908.1.14
+(Ord. 2010-0053 § 45, 2010.)
+1908.1.2 ACI 318, Section 21.1.1.
+Modify ACI 318, Sections 21.1.1.3, and 21.1.1.7 as follows:
+. . .
+All special moment frames and special structural walls shall also satisfy 21.1.3 through 21.1.7. Concrete tilt-up wall panels classified as intermediate precast structural wall systems shall satisfy 21.9 in addition to 21.4.2 and 21.4.3 for structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2010-0053 § 46, 2010.)
+1908.1.3 ACI 318, Section 21.4.
+Modify ACI 318, Section 21.4, by renumbering Section 21.4.3 to become 21.4.4 and adding new Sections 21.4.3, 21.4.5, 21.4.6, and 21.4.7 to read as follows:
+. . .
+21.4.5 - [BSC] Wall piers in Seismic Design Category D, E, or F shall comply with Section 1908.1.4 of this Code. The requirement shall be applicable to all buildings.
+. . .
+(Ord. 2010-0053 § 47, 2010.)
+1908.1.8 ACI 318, Section 22.10.
+Delete ACI 318, Section 22.10, and replace with the following:
+. . .
+22.10.1 - Structures assigned to Seismic Design Category C, D, E, or F shall not have elements of structural plain concrete, except as follows:
+(a)
+Concrete used for fill with a minimum cement content of two (2) sacks of Portland cement per cubic yard.
+(b)
+Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.
+(c)
+Plain concrete footings supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.
+In detached one- and two-family dwellings three stories or less in height and constructed with stud-bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross-sectional area of the footing.
+(Ord. 2010-0053 § 48, 2010.)
+1908.1.11 ACI 318, Section 21.6.4.1.
+Modify ACI 318, Section 21.6.4.1, to read as follows:
+Where the calculated point of contraflexure is not within the middle half of the member clear height, provide transverse reinforcement as specified in ACI 318, Sections 21.6.4.1, Items (a) through (c), over the full height of the member.
+(Ord. 2010-0053 § 49, 2010.)
+1908.1.12 ACI 318, Section 21.6.4.
+Modify ACI 318, Section 21.6.4, by adding Section 21.6.4.8 to read as follows:
+21.6.4.8 - At any section where the design strength, ?Pn, of the column is less than the sum of the shears Ve computed in accordance with ACI 318 Sections 21.5.4.1 and 21.6.5.1 for all the beams framing into the column above the level under consideration, transverse reinforcement as specified in ACI 318 Sections 21.6.4.1 through 21.6.4.3 shall be provided. For beams framing into opposite sides of the column, the moment components may be assumed to be of opposite sign. For the determination of the design strength, ?Pn, of the column, these moments may be assumed to result from the deformation of the frame in any one principal axis.
+(Ord. 2010-0053 § 50, 2010.)
+1908.1.13 ACI 318, Section 21.9.4.
+Modify ACI 318, Section 21.9.4, by adding Section 21.9.4.6 to read as follows:
+21.9.4.6 - Walls and portions of walls with Pu > 0.35Po shall not be considered to contribute to the calculated strength of the structure for resisting earthquake-induced forces. Such walls shall conform to the requirements of ACI 318 Section 21.13.
+(Ord. 2010-0053 § 51, 2010.)
+1908.1.14 ACI 318, Section 21.11.6.
+Modify ACI 318, Section 21.11.6, by adding the following:
+Collector and boundary elements in topping slabs placed over precast floor and roof elements shall not be less than 3 inches (76 mm) or 6 db thick, where db is the diameter of the largest reinforcement in the topping slab.
+(Ord. 2010-0053 § 52, 2010.)
+1908.1.15 ACI 318, Section 22.10.
+Delete ACI 318, Section 22.10, and replace with the following:
+22.10 - Plain concrete in structures assigned to Seismic Design Category C, D, E or F.
+22.10.1 - Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:
+(a)
+Concrete used for fill with a minimum cement content of two (2) sacks of Portland cement per cubic yard.
+(b)
+Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.
+(c)
+Plain concrete footings supporting walls are permitted provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.
+In detached one- and two-family dwellings three stories or less in height and constructed with stud-bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross-sectional area of the footing.
+(Ord. 2007-0108 § 13 (part), 2007.)
+1908.1.17 ACI 318, Section 14.8.
+Modify ACI 318 Section 14.8.3 and 14.8.4 replacing equation (14-7), (14-8) and (14-9) as follows.
+1.
+Modify equation (14-7) of ACI 318 Section 14.8.3 as follows:
+I cr shall be calculated by Equation (14-7), and Ma shall be obtained by iteration of deflections.
+and the value Es/Ec shall not be taken less than 6.
+2.
+Modify ACI 318 Sec, 14.8.4 as follows:
+14.8.4 - Maximum out-of-plane deflection, Δs, due to service loads, including PΔ effects, shall not exceed lc/150. If Ma, maximum moment at mid-height of wall due to service lateral and eccentric loads, including PΔ effects, exceed (2/3) Mcr, Δs shall be calculated by Equation (14-8):
+If Ma does not exceed (2/3) Mcr, Δ s shall be calculated by Equation (14-9):
+where:
+(Ord. 2007-0108 § 13 (part), 2007.)
+1908.1.18 ACI 318, Section 21.4.4.1.
+Modify ACI 318 Section 21.4.4.1 as follows:
+Where the calculated point of contra-flexure is not within the middle half of the member clear height, provide transverse reinforcement as specified in ACI 318 Sections 21.4.4.1, Items (a) through (c), over the full height of the member.
+(Ord. 2007-0108 § 13 (part), 2007.)
+1908.1.19 ACI 318, Section 21.4.4.
+Modify ACI 318 by adding Section 21.4.4.7 as follows:
+21.4.4.7
+- At any section where the design strength, ?Pn, of the column is less than the sum of the shears Ve computed in accordance with ACI 318 Sections 21.3.4.1 and 21.4.5.1 for all the beams framing into the column above the level under consideration, transverse reinforcement as specified in ACI 318 Sections 21.4.4.1 through 21.4.4.3 shall be provided. For beams framing into opposite sides of the column, the moment components may be assumed to be of opposite sign. For the determination of the design strength, ?Pn, of the column, these moments may be assumed to result from the deformation of the frame in any one principal axis.
+(Ord. 2007-0108 § 13 (part), 2007.)
+1908.1.20 ACI 318, Section 21.7.4.
+Modify ACI 318 by adding Section 21.7.4.6 as follows:
+21.7.4.6
+- Walls and portions of walls with Pu > 0.35Po shall not be considered to contribute to the calculated strength of the structure for resisting earthquake-induced forces. Such walls shall conform to the requirements of Section 1631.2, Item 4 ACI 318 Section 21.11
+(Ord. 2007-0108 § 13 (part), 2007.)
+1908.1.21 ACI 318, Section 21.9.4.
+Modify ACI 318 section 21.9.4 by adding the following:
+Collector and boundary elements in topping slabs placed over precast floor and roof elements shall not be less than 3 inches (76 mm) or 6 db thick, where db is the diameter of the largest reinforcement in the topping slab.
+(Ord. 2007-0108 § 13 (part), 2007.)
+SECTION 1909 - STRUCTURAL PLAIN CONCRETE
+1909.4 Design.
+. . .
+Exception: For Group R-3 occupancies and buildings or other occupancies less than two stories above grade plane of light-frame construction, the required edge thickness of ACI 318 is permitted to be reduced to 6 inches (152 mm), provided that the footing does not extend more than 4 inches (102 mm) on either side of the supported wall. This exception shall not apply to structural elements designed to resist seismic lateral forces for structures assigned to Seismic Design Category D, E, or F.
+(Ord. 2010-0053 § 53, 2010.)

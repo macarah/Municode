@@ -1,0 +1,463 @@
+CHAPTER 16 - STRUCTURAL DESIGN
+
+SECTION 1613 - EARTHQUAKE LOADS
+1613.6 - Alternatives to ASCE 7.
+1613.6.1 - Assumption of flexible diaphragm.
+4.
+Portions of wood structural panel diaphragms that cantilever beyond the vertical elements of the lateral-force-resisting system are designed in accordance with section 2305.2.5 of the California Building Code.
+EXCEPTION: For buildings two stories or less in height with diaphragms constructed of wood structural panels, the cantilevered portion may be analyzed using flexible diaphragm assumption, provided the length of the overhang does not exceed 15 percent of the distance between the lateral force resisting system adjacent to the cantilevered portion in the same direction nor one-fourth the width of the diaphragm, where the width is the dimension of the diaphragm perpendicular to the overhang.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.6.2 - Additional seismic-force-resisting systems for seismically isolated structures.
+1613.6.7 - Minimum distance for building separation.
+(Ord. 2010-0053 § 28, 2010.)
+1613.7 - Seismic Design Provisions for Hillside Buildings.
+1613.7.1. - Purpose.
+The purpose of this section is to establish minimum regulations for the design and construction of new buildings and additions to existing buildings when such buildings or additions are to be located on or into slopes steeper than one unit vertical in three units horizontal (33.3%). These regulations establish minimum standards for seismic force resistance to reduce the risk of injury or loss of life in the event of earthquakes.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.2. - Scope.
+The provisions of this section shall apply to the design of the lateral-force-resisting system for hillside buildings at and below the base level diaphragm. The design of the lateral-force-resisting system above the base level diaphragm shall be in accordance with the provisions for seismic and wind design as required elsewhere in this chapter.
+EXCEPTION: Non-habitable accessory buildings and decks not supporting or supported from the main building are exempt from these regulations.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.3. - Definitions.
+For the purposes of this section certain terms are defined as follows:
+BASE LEVEL DIAPHRAGM is the floor at, or closest to, the top of the highest level of the foundation.
+DIAPHRAGM ANCHORS are assemblies that connect a diaphragm to the adjacent foundation at the uphill diaphragm edge.
+DOWNHILL DIRECTION is the descending direction of the slope approximately perpendicular to the slope contours.
+FOUNDATION is concrete or masonry which supports a building, including footings, stem walls, retaining walls, and grade beams.
+FOUNDATION EXTENDING IN THE DOWNHILL DIRECTION is a foundation running downhill and approximately perpendicular to the uphill foundation.
+HILLSIDE BUILDING is any building or portion thereof constructed on or into a slope steeper than one unit vertical in three units horizontal (33.3%). If only a portion of the building is supported on or into the slope, these regulations apply to the entire building.
+PRIMARY ANCHORS are diaphragm anchors designed for and providing a direct connection as described in Sections 1613.7.5 and 1613.7.7.3 between the diaphragm and the uphill foundation.
+SECONDARY ANCHORS are diaphragm anchors designed for and providing a redundant diaphragm to foundation connection, as described in Sections 1613.7.6 and 1613.7.7.4.
+UPHILL DIAPHRAGM EDGE is the edge of the diaphragm adjacent and closest to the highest ground level at the perimeter of the diaphragm.
+UPHILL FOUNDATION is the foundation parallel and closest to the uphill diaphragm edge.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.4. - Analysis and Design.
+1613.7.4.1. - General.
+Every hillside building within the scope of this section shall be analyzed, designed, and constructed in accordance with the provisions of this chapter. When the code-prescribed wind design produces greater effects, the wind design shall govern, but detailing requirements and limitations prescribed in this and referenced sections shall be followed.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.4.2. - Base Level Diaphragm-Downhill Direction.
+The following provisions shall apply to the seismic analysis and design of the connections for the base level diaphragm in the downhill direction.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.4.2.1. - Base for Lateral Force Design Defined.
+For seismic forces acting in the downhill direction, the base of the building shall be the floor at or closest to the top of the highest level of the foundation.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.4.2.2. - Base Shear.
+In developing the base shear for seismic design, the response modification coefficient (R) shall not exceed 4.5 for bearing wall and building frame systems. The total base shear shall include the forces tributary to the base level diaphragm including forces from the base level diaphragm.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.5. - Base Shear Resistance-Primary Anchors.
+1613.7.5.1. - General.
+The base shear in the downhill direction shall be resisted through primary anchors from diaphragm struts provided in the base level diaphragm to the foundation.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.5.2. - Location of Primary Anchors.
+A primary anchor and diaphragm strut shall be provided in line with each foundation extending in the downhill direction. Primary anchors and diaphragm struts shall also be provided where interior vertical lateral-force-resisting elements occur above and in contact with the base level diaphragm. The spacing of primary anchors and diaphragm struts or collectors shall in no case exceed 30 feet (9144 mm).
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.5.3. - Design of Primary Anchors and Diaphragm Struts.
+Primary anchors and diaphragm struts shall be designed in accordance with the requirements of Section 1613.7.8
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.5.4. - Limitations.
+The following lateral-force-resisting elements shall not be designed to resist seismic forces below the base level diaphragm in the downhill direction:
+1.
+Wood structural panel wall sheathing,
+2.
+Cement plaster and lath,
+3.
+Gypsum wallboard, and
+4.
+Tension only braced frames.
+Braced frames designed in accordance with the requirements of Section 2205.2.2 may be used to transfer forces from the primary anchors and diaphragm struts to the foundation provided lateral forces do not induce flexural stresses in any member of the frame or in the diaphragm struts. Deflections of frames shall account for the variation in slope of diagonal members when the frame is not rectangular.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.6. - Base Shear Resistance-Secondary Anchors.
+1613.7.6.1. - General.
+In addition to the primary anchors required by Section 1613.7.5, the base shear in the downhill direction shall be resisted through secondary anchors in the uphill foundation connected to diaphragm struts in the base level diaphragm.
+EXCEPTION: Secondary anchors are not required where foundations extending in the downhill direction, spaced at not more than 30 feet (9144 mm) on center, extend up to and are directly connected to the base level diaphragm for at least 70 percent of the diaphragm depth.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.6.2. - Secondary Anchor Capacity and Spacing.
+Secondary anchors at the base level diaphragm shall be designed for a minimum force equal to the base shear, including forces tributary to the base level diaphragm, but not less than 600 pounds per lineal foot (8.76 kN/m). The secondary anchors shall be uniformly distributed along the uphill diaphragm edge and shall be spaced a maximum of four feet (1219 mm) on center.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.6.3. - Design.
+Secondary anchors and diaphragm struts shall be designed in accordance with Section 1613.7.8
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7. - Diaphragms Below the Base Level-Downhill Direction.
+The following provisions shall apply to the lateral analysis and design of the connections for all diaphragms below the base level diaphragm in the downhill direction.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7.1. - Diaphragm Defined.
+Every floor level below the base level diaphragm shall be designed as a diaphragm.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7.2. - Design Force.
+Each diaphragm below the base level diaphragm shall be designed for all tributary loads at that level using a minimum seismic force factor not less than the base shear coefficient.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7.3. - Design Force Resistance-Primary Anchors.
+The design force described in Section 1613.7.7.2 shall be resisted through primary anchors from diaphragm struts provided in each diaphragm to the foundation. Primary anchors shall be provided and designed in accordance with the requirements and limitations of Section 1613.7.5
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7.4. - Design Force Resistance-Secondary Anchors.
+1613.7.7.4.1. - General.
+In addition to the primary anchors required in Section 1613.7.7.3, the design force in the downhill direction shall be resisted through secondary anchors in the uphill foundation connected to diaphragm struts in each diaphragm below the base level.
+EXCEPTION: Secondary anchors are not required where foundations extending in the downhill direction, spaced at not more than 30 feet (9144 mm) on center, extend up to and are directly connected to each diaphragm below the base level for at least 70 percent of the diaphragm depth.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7.4.2. - Secondary Anchor Capacity.
+Secondary anchors at each diaphragm below the base level diaphragm shall be designed for a minimum force equal to the design force but not less than 300 pounds per lineal foot (4.38 kN/m). The secondary anchors shall be uniformly distributed along the uphill diaphragm edge and shall be spaced a maximum of four feet (1219 mm) on center.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.7.4.3. - Design.
+Secondary anchors and diaphragm struts shall be designed in accordance with Section 1613.7.8
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.8. - Primary and Secondary Anchorage and Diaphragm Strut Design.
+Primary and secondary anchors and diaphragm struts shall be designed in accordance with the following provisions:
+1.
+Fasteners. All bolted fasteners used to develop connections to wood members shall be provided with square plate washers at all bolt heads and nuts. Washers shall be minimum 3/16 inch (4.8 mm) thick and two inch (51 mm) square for 1/2-inch (12.7 mm) diameter bolts, and 1/4-inch (6.4 mm) thick and 2-1/2-inch (64 mm) square for 5/8-inch (15.9 mm) diameter or larger bolts. Nuts shall be wrench tightened prior to covering.
+2.
+Fastening. The diaphragm to foundation anchorage shall not be accomplished by the use of toenailing, nails subject to withdrawal, or wood in cross-grain bending or cross-grain tension.
+3.
+Size of Wood Members. Wood diaphragm struts collectors, and other wood members connected to primary anchors shall not be less than three-inch (76 mm) nominal width. The effects of eccentricity on wood members shall be evaluated as required per Item 9.
+4.
+Design. Primary and secondary anchorage, including diaphragm struts, splices, and collectors shall be designed for 125 percent of the tributary force.
+5.
+Allowable Stress Increase. The one-third allowable stress increase permitted under Section 1605.3.2 shall not be taken when the working (allowable) stress design method is used.
+6.
+Seismic Load Factor. The seismic load factor shall be 1.7 for steel and concrete anchorage when the strength design method is used.
+7.
+Primary Anchors. The load path for primary anchors and diaphragm struts shall be fully developed into the diaphragm and into the foundation. The foundation must be shown to be adequate to resist the concentrated loads from the primary anchors.
+8.
+Secondary Anchors. The load path for secondary anchors and diaphragm struts shall be fully developed in the diaphragm but need not be developed beyond the connection to the foundation.
+9.
+Symmetry. All lateral force foundation anchorage and diaphragm strut connections shall be symmetrical. Eccentric connections may be permitted when demonstrated by calculation or tests that all components of force have been provided for in the structural analysis or tests.
+10.
+Wood Ledgers. Wood ledgers shall not be used to resist cross-grain bending or cross-grain tension.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9. - Lateral-Force-Resisting Elements Normal to the Downhill Direction.
+1613.7.9.1. - General.
+In the direction normal to the downhill direction, lateral-force-resisting elements shall be designed in accordance with the requirements of this section.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.2. - Base Shear.
+In developing the base shear for seismic design, the response modification coefficient (R) shall not exceed 4.5 for bearing wall and building frame systems.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.3. - Vertical Distribution of Seismic Forces.
+For seismic forces acting normal to the downhill direction the distribution of seismic forces over the height of the building using Section 12.8.3 of ASCE 7 shall be determined using the height measured from the top of the lowest level of the building foundation.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.4. - Drift Limitations.
+The story drift below the base level diaphragm shall not exceed 0.005 times the story height. The total drift from the base level diaphragm to the top of the foundation shall not exceed 3/4 inch (19 mm). Where the story height or the height from the base level diaphragm to the top of the foundation varies because of a stepped footing or story offset, the height shall be measured from the average height of the top of the foundation. The story drift shall not be reduced by the effect of horizontal diaphragm stiffness.
+Where code-prescribed wind forces govern the design of the lateral force resisting system normal to the downhill direction, the drift limitation shall be 0.0025 for the story drift and the total drift from the base level diaphragm to the top of the foundation may exceed 3/4 inch (19 mm) when approved by the Department. In no case, however, shall the drift limitations for seismic forces be exceeded.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.5. - Distribution of Lateral Forces.
+1613.7.9.5.1. - General.
+The design lateral force shall be distributed to lateral-force-resisting elements of varying heights in accordance with the stiffness of each individual element.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.5.2. - Wood Structural Panel Sheathed Walls.
+The stiffness of a stepped wood structural panel shear wall may be determined by dividing the wall into adjacent rectangular elements, subject to the same top of wall deflection. Deflections of shear walls may be estimated by Section 2305.3.2. Sheathing and fastening requirements for the stiffest section shall be used for the entire wall. Each section of wall shall be anchored for shear and uplift at each step. The minimum horizontal length of a step shall be eight feet (2438 mm) and the maximum vertical height of a step shall be two feet, eight inches (813 mm).
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.5.3. - Reinforced Concrete or Masonry Shear Walls.
+Reinforced concrete or masonry shear walls shall have forces distributed in proportion to the rigidity of each section of the wall.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.9.6. - Limitations.
+The following lateral force-resisting-elements shall not be used as part of the lateral-resisting force system below the base level diaphragm in the direction normal to the downhill direction:
+1.
+Cement plaster and lath,
+2.
+Gypsum wallboard, and
+3.
+Tension-only braced frames.
+Braced frames designed in accordance with the requirements of Chapter 22 of this Code may be designed as lateral-force-resisting elements in the direction normal to the downhill direction, provided lateral forces do not induce flexural stresses in any member of the frame. Deflections of frames shall account for the variation in slope of diagonal members when the frame is not rectangular.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.10. - Specific Design Provisions.
+1613.7.10.1. - Footings and Grade Beams.
+All footings and grade beams shall comply with the following:
+1.
+Grade beams shall extend at least 12 inches (305 mm) below the lowest adjacent grade and provide a minimum 24-inch (610 mm) distance horizontally from the bottom outside face of the grade beam to the face of the descending slope.
+2.
+Continuous footings shall be reinforced with at least two No. 4 reinforcing bars at the top and two No. 4 reinforcing bars at the bottom.
+3.
+All main footing and grade beam reinforcement steel shall be bent into the intersecting footing and fully developed around each corner and intersection.
+4.
+All concrete stem walls shall extend from the foundation and reinforced as required for concrete or masonry walls.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.10.2. - Protection Against Decay and Termites.
+All wood to earth separation shall comply with the following:
+1.
+Where a footing or grade beam extends across a descending slope, the stem wall, grade beam, or footing shall extend up to a minimum 18 inches (457 mm) above the highest adjacent grade.
+EXCEPTION: At paved garage and doorway entrances to the building, the stem wall need only extend to the finished concrete slab, provided the wood framing is protected with a moisture proof barrier.
+2.
+Wood ledgers supporting a vertical load of more than 100 pounds per lineal foot (1.46 kN/m) and located within 48 inches (1219 mm) of adjacent grade are prohibited. Galvanized steel ledgers and anchor bolts, with or without wood nailers, or treated or decay resistant sill plates supported on a concrete or masonry seat, may be used.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.10.3. - Sill Plates.
+All sill plates and anchorage shall comply with the following:
+1.
+All wood framed walls, including nonbearing walls, when resting on a footing, foundation, or grade beam stem wall, shall be supported on wood sill plates bearing on a level surface.
+2.
+Power-driven fasteners shall not be used to anchor sill plates except at interior nonbearing walls not designed as shear walls.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.10.4. - Column Base Plate Anchorage.
+The base of isolated wood posts (not framed into a stud wall) supporting a vertical load of 4000 pounds (17.8 kN) or more and the base plate for a steel column shall comply with the following:
+1.
+When the post or column is supported on a pedestal extending above the top of a footing or grade beam, the pedestal shall be designed and reinforced as required for concrete or masonry columns. The pedestal shall be reinforced with a minimum of four No. 4 bars extending to the bottom of the footing or grade beam. The top of exterior pedestals shall be sloped for positive drainage.
+2.
+The base plate anchor bolts or the embedded portion of the post base, and the vertical reinforcing bars for the pedestal, shall be confined with two No. 4 or three No. 3 ties within the top five inches (127 mm) of the concrete or masonry pedestal. The base plate anchor bolts shall be embedded a minimum of 20 bolt diameters into the concrete or masonry pedestal. The base plate anchor bolts and post bases shall be galvanized and each anchor bolt shall have at least two galvanized nuts above the base plate.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.7.10.5. - Steel Beam to Column Supports.
+All steel beam to column supports shall be positively braced in each direction. Steel beams shall have stiffener plates installed on each side of the beam web at the column. The stiffener plates shall be welded to each beam flange and the beam web. Each brace connection or structural member shall consist of at least two 5/8 inch (15.9 mm) diameter machine bolts.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1613.8 - Modifications to ASCE 7.
+The text of ASCE 7 shall be modified as indicated in Sections 1613.8.1 through 1613.8.4.
+(Ord. 2010-0053 § 29, 2010.)
+1613.8.1 - ASCE 7, Table 12. 8-2.
+Modify ASCE 7, Table 12.8-2, by adding the following:
+EXPAND
+Structure Type Ct x
+Eccentrically-braced steel frames and buckling-restrained braced frames 0.03
+(0.0731)a 0.75
+  (Ord. 2010-0053 § 29, 2010.)
+1613.8.2 - ASCE 7, 12.2.3.1, Exception 3.
+Modify ASCE 7, Section 12.2.3.1, Exception 3, to read as follows:
+3.
+Detached one- and two-family dwellings up to two stories in height of light frame construction.
+(Ord. 2010-0053 § 29, 2010.)
+1613.8.3 - ASCE 7, Section 12.8.7.
+Modify ASCE 7, Section 12.8.7, by amending Equation 12.8-16 to read as follows:
+(Ord. 2010-0053 § 29, 2010.)
+1613.8.4 - ASCE 7, Section 12.11.2.2.3.
+Modify ASCE 7, Section 12.11.2.2.3, to read as follows:
+12.11.2.2.3 - Wood diaphragms.
+In wood diaphragms, the continuous ties shall be in addition to the diaphragm sheathing. Anchorage shall not be accomplished by use of toe nails or nails subject to withdrawal nor shall wood ledgers or framing be used in cross-grain bending or cross-grain tension. The diaphragm sheathing shall not be considered effective as providing ties or struts required by this Section.
+For structures assigned to Seismic Design Category D, E, or F, wood diaphragms supporting concrete or masonry walls shall comply with the following:
+1.
+The spacing of continuous ties shall not exceed 40 feet. Added chords of diaphragms may be used to form subdiaphragms to transmit the anchorage forces to the main continuous crossties.
+2.
+The maximum diaphragm shear used to determine the depth of the subdiaphragm shall not exceed 75 percent of the maximum diaphragm shear.
+(Ord. 2010-0053 § 29, 2010.)
+1613.9 - Seismic design provisions for hillside buildings.
+1613.9.1 - Purpose.
+The purpose of this Section is to establish minimum regulations for the design and construction of new buildings and additions to existing buildings when constructing such buildings on or into slopes steeper than one unit vertical in three units horizontal (33.3 percent). These regulations establish minimum standards for seismic force resistance to reduce the risk of injury or loss of life in the event of earthquakes.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.2 - Scope.
+The provisions of this Section shall apply to the design of the lateral-force-resisting system for hillside buildings at and below the base level diaphragm. The design of the lateral-force-resisting system above the base level diaphragm shall be in accordance with the provisions for seismic and wind design as required elsewhere in this Chapter.
+EXCEPTIONS:
+1.
+Non-habitable accessory buildings and decks not supporting or supported from the main building are exempt from these regulations.
+2.
+Additions to existing buildings that do not exceed 10 percent of the existing floor area provided that the addition is being supported completely by the existing foundation.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.3 - Definitions.
+For the purposes of this Section certain terms are defined as follows:
+BASE LEVEL DIAPHRAGM is the floor at, or closest to, the top of the highest level of the foundation.
+DIAPHRAGM ANCHORS are assemblies that connect a diaphragm to the adjacent foundation at the uphill diaphragm edge.
+DOWNHILL DIRECTION is the descending direction of the slope approximately perpendicular to the slope contours.
+FOUNDATION is concrete or masonry which supports a building, including footings, stem walls, retaining walls, and grade beams.
+FOUNDATION EXTENDING IN THE DOWNHILL DIRECTION is a foundation running downhill and approximately perpendicular to the uphill foundation.
+HILLSIDE BUILDING is any building or portion thereof constructed on or into a slope steeper than one unit vertical in three units horizontal (33.3 percent). If only a portion of the building is supported on or into the slope, these regulations apply to the entire building.
+PRIMARY ANCHORS are diaphragm anchors designed for and providing a direct connection as described in Sections 1613.9.5 and 1613.9.7.3 between the diaphragm and the uphill foundation.
+SECONDARY ANCHORS are diaphragm anchors designed for and providing a redundant diaphragm to foundation connection, as described in Sections 1613.9.6 and 1613.9.7.4.
+UPHILL DIAPHRAGM EDGE is the edge of the diaphragm adjacent and closest to the highest ground level at the perimeter of the diaphragm.
+UPHILL FOUNDATION is the foundation parallel and closest to the uphill diaphragm edge.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.4 - Analysis and design.
+1613.9.4.1 - General.
+Every hillside building within the scope of this Section shall be analyzed, designed, and constructed in accordance with the provisions of this Chapter. When the code-prescribed wind design produces greater effects, the wind design shall govern, but detailing requirements and limitations prescribed in this Section and all referenced Sections shall be followed.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.4.2 - Base level diaphragm-downhill direction.
+The following provisions shall apply to the seismic analysis and design of the connections for the base level diaphragm in the downhill direction.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.4.2.1 - Base for lateral force design defined.
+For seismic forces acting in the downhill direction, the base of the building shall be the floor at, or closest to, the top of the highest level of the foundation.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.4.2.2 - Base shear.
+In developing the base shear for seismic design, the response modification coefficient (R) shall not exceed 5 for bearing wall and building frame systems. The total base shear shall include the forces tributary to the base level diaphragm including forces from the base level diaphragm.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.5 - Base shear resistance-primary anchors.
+1613.9.5.1 - General.
+The base shear in the downhill direction shall be resisted through primary anchors from diaphragm struts provided in the base level diaphragm to the foundation.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.5.2 - Location of primary anchors.
+A primary anchor and diaphragm strut shall be provided in line with each foundation extending in the downhill direction. Primary anchors and diaphragm struts shall also be provided where interior vertical lateral-force-resisting elements occur above and in contact with the base level diaphragm. The spacing of primary anchors and diaphragm struts or collectors shall in no case exceed 30 feet (9,144 mm).
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.5.3 - Design of primary anchors and diaphragm struts.
+Primary anchors and diaphragm struts shall be designed in accordance with the requirements of Section 1613.9.8
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.5.4 - Limitations.
+The following lateral-force-resisting elements shall not be designed to resist seismic forces below the base level diaphragm in the downhill direction:
+1.
+Wood structural panel wall sheathing;
+2.
+Cement plaster and lath;
+3.
+Gypsum wallboard; and
+4.
+Tension-only braced frames.
+Braced frames designed in accordance with the requirements of Section 2205.2.2 may be used to transfer forces from the primary anchors and diaphragm struts to the foundation provided lateral forces do not induce flexural stresses in any member of the frame or in the diaphragm struts. Deflections of frames shall account for the variation in slope of diagonal members when the frame is not rectangular.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.6 - Base shear resistance-secondary anchors.
+1613.9.6.1 - General.
+In addition to the primary anchors required by Section 1613.9.5, the base shear in the downhill direction shall be resisted through secondary anchors in the uphill foundation connected to diaphragm struts in the base level diaphragm.
+Exception: Secondary anchors are not required where foundations extending in the downhill direction spaced at not more than 30 feet (9,144 mm) on center extend up to and are directly connected to the base level diaphragm for at least 70 percent of the diaphragm depth.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.6.2 - Secondary anchor capacity and spacing.
+Secondary anchors at the base level diaphragm shall be designed for a minimum force equal to the base shear, including forces tributary to the base level diaphragm, but not less than 600 pounds per lineal foot (8.76 kN/m). The secondary anchors shall be uniformly distributed along the uphill diaphragm edge and shall be spaced a maximum of four feet (1,219 mm) on center.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.6.3 - Design.
+Secondary anchors and diaphragm struts shall be designed in accordance with Section 1613.9.8
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7 - Diaphragms below the base level-downhill direction.
+The following provisions shall apply to the lateral analysis and design of the connections for all diaphragms below the base level diaphragm in the downhill direction.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7.1 - Diaphragm defined.
+Every floor level below the base level diaphragm shall be designed as a diaphragm.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7.2 - Design force.
+Each diaphragm below the base level diaphragm shall be designed for all tributary loads at that level using a minimum seismic force factor not less than the base shear coefficient.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7.3 - Design force-resistance-primary anchors.
+The design force described in Section 1613.9.7.2 shall be resisted through primary anchors from diaphragm struts provided in each diaphragm to the foundation. Primary anchors shall be provided and designed in accordance with the requirements and limitations of Section 1613.9.5
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7.4 - Design force-resistance-secondary anchors.
+1613.9.7.4.1 - General.
+In addition to the primary anchors required in Section 1613.9.7.3, the design force in the downhill direction shall be resisted through secondary anchors in the uphill foundation connected to diaphragm struts in each diaphragm below the base level.
+Exception: Secondary anchors are not required where foundations extending in the downhill direction, spaced at not more than 30 feet (9,144 mm) on center, extend up to and are directly connected to each diaphragm below the base level for at least 70 percent of the diaphragm depth.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7.4.2 - Secondary anchor capacity.
+Secondary anchors at each diaphragm below the base level diaphragm shall be designed for a minimum force equal to the design force but not less than 300 pounds per lineal foot (4.38 kN/m). The secondary anchors shall be uniformly distributed along the uphill diaphragm edge and shall be spaced a maximum of four feet (1,219 mm) on center.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.7.4.3 - Design.
+Secondary anchors and diaphragm struts shall be designed in accordance with Section 1613.9.8
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.8 - Primary and secondary anchorage and diaphragm strut design.
+Primary and secondary anchors and diaphragm struts shall be designed in accordance with the following provisions:
+1.
+Fasteners. All bolted fasteners used to develop connections to wood members shall be provided with square plate washers at all bolt heads and nuts. Washers shall be minimum 0.229 inch by 3 inches by 3 inches (5.82 mm by 76 mm by 76 mm) in size. Nuts shall be tightened to finger tight plus one half (1/2) wrench turn prior to covering the framing.
+2.
+Fastening. The diaphragm to foundation anchorage shall not be accomplished by the use of toenailing, nails subject to withdrawal, or wood in cross-grain bending or cross-grain tension.
+3.
+Size of Wood Members. Wood diaphragm struts, collectors, and other wood members connected to primary anchors shall not be less than three-inch (76 mm) nominal width. The effects of eccentricity on wood members shall be evaluated as required per Item 9.
+4.
+Design. Primary and secondary anchorage, including diaphragm struts, splices, and collectors shall be designed for 125 percent of the tributary force.
+5.
+Allowable Stress Increase. The one-third allowable stress increase permitted under Section 1605.3.2 shall not be taken when the working (allowable) stress design method is used.
+6.
+Steel Element of Structural Wall Anchorage System. The strength design forces for steel elements of the structural wall anchorage system, with the exception of anchor bolts and reinforcing steel, shall be increased by 1.4 times the forces otherwise required.
+7.
+Primary Anchors. The load path for primary anchors and diaphragm struts shall be fully developed into the diaphragm and into the foundation. The foundation must be shown to be adequate to resist the concentrated loads from the primary anchors.
+8.
+Secondary Anchors. The load path for secondary anchors and diaphragm struts shall be fully developed in the diaphragm but need not be developed beyond the connection to the foundation.
+9.
+Symmetry. All lateral force foundation anchorage and diaphragm strut connections shall be symmetrical. Eccentric connections may be permitted when demonstrated by calculation or tests that all components of force have been provided for in the structural analysis or tests.
+10.
+Wood Ledgers. Wood ledgers shall not be used to resist cross-grain bending or cross-grain tension.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9 - Lateral-force-resisting elements normal to the downhill direction.
+1613.9.9.1 - General.
+In the direction normal to the downhill direction, lateral-force-resisting elements shall be designed in accordance with the requirements of this Section.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.2 - Base shear.
+In developing the base shear for seismic design, the response modification coefficient (R) shall not exceed 5 for bearing wall and building frame systems.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.3 - Vertical distribution of seismic forces.
+For seismic forces acting normal to the downhill direction the distribution of seismic forces over the height of the building using Section 12.8.3 of ASCE 7 shall be determined using the height measured from the top of the lowest level of the building foundation.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.4 - Drift limitations.
+The story drift below the base level diaphragm shall not exceed 0.007 times the story height at strength design force level. The total drift from the base level diaphragm to the top of the foundation shall not exceed 3/4 inch (19 mm). Where the story height or the height from the base level diaphragm to the top of the foundation varies because of a stepped footing or story offset, the height shall be measured from the average height of the top of the foundation. The story drift shall not be reduced by the effect of horizontal diaphragm stiffness.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.5 - Distribution of lateral forces.
+1613.9.9.5.1 - General.
+The design lateral force shall be distributed to lateral-force-resisting elements of varying heights in accordance with the stiffness of each individual element.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.5.2 - Wood structural panel sheathed walls.
+The stiffness of a stepped wood structural panel shear wall may be determined by dividing the wall into adjacent rectangular elements, subject to the same top of wall deflection. Deflections of shear walls may be estimated by AF&PA SDPWS Section 4.3.2. Sheathing and fastening requirements for the stiffest section shall be used for the entire wall. Each section of wall shall be anchored for shear and uplift at each step. The minimum horizontal length of a step shall be eight feet (2438 mm) and the maximum vertical height of a step shall be two feet, eight inches (813 mm).
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.5.3 - Reinforced concrete or masonry shear walls.
+Reinforced concrete or masonry shear walls shall have forces distributed in proportion to the rigidity of each section of the wall.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.9.6 - Limitations.
+The following lateral force-resisting-elements shall not be designed to resist lateral forces below the base level diaphragm in the direction normal to the downhill direction:
+1.
+Cement plaster and lath;
+2.
+Gypsum wallboard; and
+3.
+Tension-only braced frames.
+Braced frames designed in accordance with the requirements of Section 2205.2.2 of this Code may be designed as lateral-force-resisting elements in the direction normal to the downhill direction, provided lateral forces do not induce flexural stresses in any member of the frame. Deflections of frames shall account for the variation in slope of diagonal members when the frame is not rectangular.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.10 - Specific design provisions.
+1613.9.10.1 - Footings and grade beams.
+All footings and grade beams shall comply with the following:
+1.
+Grade beams shall extend at least 12 inches (305 mm) below the lowest adjacent grade and provide a minimum 24-inch (610 mm) distance horizontally from the bottom outside face of the grade beam to the face of the descending slope.
+2.
+Continuous footings shall be reinforced with at least two No. 4 reinforcing bars at the top and two No. 4 reinforcing bars at the bottom.
+3.
+All main footing and grade beam reinforcement steel shall be bent into the intersecting footing and fully developed around each corner and intersection.
+4.
+All concrete stem walls shall extend from the foundation and be reinforced as required for concrete or masonry walls.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.10.2 - Protection against decay and termites.
+All wood to earth separation shall comply with the following:
+1.
+Where a footing or grade beam extends across a descending slope, the stem wall, grade beam, or footing shall extend up to a minimum 18 inches (457 mm) above the highest adjacent grade.
+Exception: At paved garage and doorway entrances to the building, the stem wall need only extend to the finished concrete slab, provided the wood framing is protected with a moisture proof barrier.
+2.
+Wood ledgers supporting a vertical load of more than 100 pounds per lineal foot (1.46 kN/m) and located within 48 inches (1219 mm) of adjacent grade are prohibited. Galvanized steel ledgers and anchor bolts, with or without wood nailers, or treated or decay resistant sill plates supported on a concrete or masonry seat, may be used.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.10.3 - Sill plates.
+All sill plates and anchorage shall comply with the following:
+1.
+All wood framed walls, including nonbearing walls, when resting on a footing, foundation, or grade beam stem wall, shall be supported on wood sill plates bearing on a level surface.
+2.
+Power-driven fasteners shall not be used to anchor sill plates except at interior nonbearing walls not designed as shear walls.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.10.4 - Column base plate anchorage.
+The base of isolated wood posts (not framed into a stud wall) supporting a vertical load of 4000 pounds (17.8 kN) or more and the base plate for a steel column shall comply with the following:
+1.
+When the post or column is supported on a pedestal extending above the top of a footing or grade beam, the pedestal shall be designed and reinforced as required for concrete or masonry columns. The pedestal shall be reinforced with a minimum of four No. 4 bars extending to the bottom of the footing or grade beam. The top of exterior pedestals shall be sloped for positive drainage.
+2.
+The base plate anchor bolts or the embedded portion of the post base, and the vertical reinforcing bars for the pedestal, shall be confined with two No. 4 or three No. 3 ties within the top five inches (127 mm) of the concrete or masonry pedestal. The base plate anchor bolts shall be embedded a minimum of 20 bolt diameters into the concrete or masonry pedestal. The base plate anchor bolts and post bases shall be galvanized and each anchor bolt shall have at least two galvanized nuts above the base plate.
+(Ord. 2010-0053 § 30, 2010.)
+1613.9.10.5 - Steel beam to column supports.
+All steel beam to column supports shall be positively braced in each direction. Steel beams shall have stiffener plates installed on each side of the beam web at the column. The stiffener plates shall be welded to each beam flange and the beam web. Each brace connection or structural member shall consist of at least two 5/8 inch (15.9 mm) diameter machine bolts.
+(Ord. 2010-0053 § 30, 2010.)
+SECTION 1614 - MODIFICATION TO ASCE 7.
+1614.1 - General.
+The text of ASCE 7 shall be modified as indicated in this Section.
+1614.1.1 - - ASCE 7, 12.2.3.1, Exception 3.
+Modify ASCE 7 Section 12.2.3.1 Exception 3 to read as follows:
+3.
+Detached one and two family dwellings up to two stories in height of light frame construction.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1614.1.2 - - ASCE 7, Section 12.8.1.1.
+Modify ASCE 7 Section 12.8.1.1 by amending Equation 12.8-5 as follows:
+EXPAND
+Cs = 0.044 SDS I &ge; 0.01 (Eq. 12.8-5)
+  (Ord. 2007-0108 § 6 (part), 2007.)
+1614.1.3 - - ASCE 7, Table 12.8-2.
+Modify ASCE 7 Table 12.8-2 by adding the following:
+EXPAND
+Structure Type Ct x
+Eccentrically braced steel frames and buckling-restrained braced frames 0.03
+(0.0731) 0.75
+  (Ord. 2007-0108 § 6 (part), 2007.)
+1614.1.4 - - ASCE 7, Section 12.8.7.
+Modify ASCE 7 Section 12.8.7 by amending Equation 12.8-16 as follows:
+(Ord. 2007-0108 § 6 (part), 2007.)
+1614.1.5 - - ASCE 7, 12.11.2.2.3.
+Modify ASCE 7 Section 12.11.2.2.3 to read as follows:
+(Ord. 2007-0108 § 6 (part), 2007.)
+12.11.2.2.3 - Wood Diaphragms.
+In wood diaphragms, the continuous ties shall be in addition to the diaphragm sheathing. Anchorage shall not be accomplished by use of toe nails or nails subject to withdrawal nor shall wood ledgers or framing be used in cross-grain bending or cross-grain tension. The diaphragm sheathing shall not be considered effective as providing ties or struts required by this section.
+For wood diaphragms supporting concrete or masonry walls, wood diaphragms shall comply with the following:
+1.
+The spacing of continuous ties shall not exceed 40 feet. Added chords of diaphragms may be used to form subdiaphragms to transmit the anchorage forces to the main continuous crossties.
+2.
+The maximum diaphragm shear used to determine the depth of the subdiaphragm shall not exceed 75 percent of the maximum diaphragm shear.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1614.1.6 - - ASCE 7, Section 12.12.3.
+Replace ASCE 7 Section 12.12.3 as follows:
+(Ord. 2007-0108 § 6 (part), 2007.)
+12.12.3 - Minimum Building Separation.
+All structures shall be separated from adjoining structures. Separations shall allow for the maximum inelastic response displacement (ΔM). ΔM shall be determined at critical locations with consideration for both translational and torsional displacements of the structure as follows:
+where Δmax is the calculated maximum displacement at Level x as define in ASCE 7 Section 12.8.4.3.
+Adjacent buildings on the same property shall be separated by at least a distance ΔMT, where
+and ΔM1 and ΔM2 are the maximum inelastic response displacements of the adjacent buildings.
+Where a structure adjoins a property line not common to a public way, the structure shall also be set back from the property line by at least the displacement, ΔM, of that structure.
+EXCEPTION: Smaller separations or property line setbacks shall be permitted when justified by rational analyses.
+(Ord. 2007-0108 § 6 (part), 2007.)
+1614.1.7 - - ASCE 7, 12.12.4.
+Modify ASCE 7 Section 12.12.4 to read as follows:
+12.12.4 - Deformation Compatibility for Seismic Design Category D through F.
+For structures assigned to Seismic Design Category D, E, or F, every structural component not included in the seismic force-resisting system in the direction under consideration shall be designed to be adequate for the gravity load effects and the seismic forces resulting from displacement to the design story drift (?) as determined in accordance with Section 12.8.6 (see also Section 12.12.1).
+EXCEPTION: Reinforced concrete frame members not designed as part of the seismic force-resisting system shall comply with Section 21.9 of ACI 318. Where determining the moments and shears induced in components that are not included in the seismic force-resisting system in the direction under consideration, the stiffening effects of adjoining rigid structural and nonstructural elements shall be considered and a rational value of member and restraint stiffness shall be used.
+When designing the diaphragm to comply with the requirements stated above, the return walls and fins/canopies at entrances shall be considered. Seismic compatibility with the diaphragm shall be provided by either seismically isolating the element or by attaching the element and integrating its load into the diaphragm.
+(Ord. 2007-0108 § 6 (part), 2007.)

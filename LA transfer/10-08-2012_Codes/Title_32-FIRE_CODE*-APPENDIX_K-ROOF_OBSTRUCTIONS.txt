@@ -1,0 +1,281 @@
+APPENDIX K - ROOF OBSTRUCTIONS
+
+K101.1 - Scope.
+This appendix shall apply to the design, construction, and installation of all solar photovoltaic systems, roof gardens, and landscaped roofs when located on the roof of a building.
+Exception: Buildings that are four or more stories in height and protected with an approved automatic fire extinguishing system throughout.
+Non-habitable structures include, but are not limited to, shade structures, private carports, solar trellises, etc.
+(Ord. 2010-0060 § 160, 2010.)
+K101.2 - Permits.
+The fire code official shall review and approve the installation of roof solar photovoltaic systems, roof gardens, landscaped roofs on building that obstruct more than 50 percent or 10,000 square feet of the total roof surface area of a building prior to the building code official issuing a permit for the installation for such roof obstructions. See Section 105.7 for required construction permits.
+(Ord. 2010-0060 § 160, 2010.)
+K101.3 - Required construction document information.
+All roof top installations submitted for approval shall include the following:
+Site plan to scale depicting the following:
+Dimensions of the building
+Location of all structures on site.
+Street address of building.
+Access from street to building.
+Location of roof top solar arrays, gardens, or landscaped areas.
+Location of disconnects.
+Location of signage.
+Location of required access paths.
+Northern reference
+Roof and Elevation plan showing the following:
+Array or landscape placement.
+Roof ridge lines.
+Eave lines.
+Equipment on roof.
+Vents, skylights, roof hatches, etc.
+Location and wording of all markings, labels and warning signs.
+Building photographs that may be useful in the evaluation of the garden, landscaping, or array placement.
+(Ord. 2010-0060 § 160, 2010.)
+K102.1 - Definitions.
+For the purpose of this appendix, certain terms are defined as follows:
+ACCESS PATHWAY. A required walking pathway that is designed to provide emergency access to firefighters.
+ARRAY. An uninterrupted section of solar photovoltaic panels or modules or a group of interconnected sub-arrays.
+GRID. The electrical system that is on the service side of the electric meter. Designation of ridge, hip, and valley does not apply to roofs with 2-in-12 or less pitch. All roof dimensions are measured to centerlines.
+INVERTER. A device used to convert direct current (DC) electricity from the solar system to alternating current (AC) electricity for use in the building's electrical system or the grid.
+LANDSCAPED ROOF. Vegetative landscaping located on the roof of a building that utilizes growing media and structures or containers to support the growth of vegetation.
+ROOF ACCESS POINT. An area that does not require ladders to be placed over building openings (i.e., windows, vents, or doors), and that are located at structurally strong points of building construction and in locations where ladders will not be obstructed by tree limbs, wires, signs, or other overhead obstructions.
+ROOF GARDEN. A garden located on the roof of a building that utilizes growing media and structures or containers to support the growth of vegetation.
+SOLAR PHOTOVOLTAIC SYSTEM. A system of component parts that receives sunlight and converts it into electricity.
+SUB-ARRAY. Uninterrupted sections of solar photovoltaic panels interconnected into an array.
+TRAVEL DISTANCE. The walking distance between two points.
+VENTING CUT-OUT. Section(s) in an array that are designed to accommodate emergency ventilating procedures.
+(Ord. 2010-0060 § 160, 2010.)
+K103.1 - Solar photovoltaic systems.
+The requirements of Section K103 apply to all solar photovoltaic systems installed on the roofs of buildings regardless of system size or if used for residential or commercial purposes. Roof solar photovoltaic systems shall be designed, constructed and installed in accordance with Sections K103.2 through K103.5.3.
+(Ord. 2010-0060 § 160, 2010.)
+K103.2 - Marking.
+Photovoltaic systems shall be marked. Marking is needed to provide emergency responders with appropriate warning and guidance with respect to isolating the solar electric system. This can facilitate identifying energized electrical lines that connect the solar panels to the inverter, as these should not be cut when venting for smoke removal. Materials used for marking shall be weather resistant. UL 969 shall be used as a standard for weather rating (UL listing of markings is not required).
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.1 - Electrical system main service disconnect marking.
+The main electrical service disconnect on a building shall be marked.
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.1.1 - One- and two-dwelling unit residential buildings.
+The marking shall be placed within the main service disconnect.
+Exception: If the main service disconnect is operable with the service panel closed, then the marking shall be placed on the outside cover.
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.1.2 - Commercial and industrial buildings.
+The marking shall be placed adjacent to the main service disconnect in a location clearly visible from the location where the lever is operated.
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.1.3 - Marking content and format.
+Marking content and format shall be as follows.
+1.
+Marking content: "CAUTION: SOLAR ELECTRIC SYSTEM CONNECTED"
+2.
+Red background
+3.
+White lettering
+4.
+Minimum 3/8" letter height
+5.
+All capital letters
+6.
+Arial or similar font, non-bold
+7.
+Reflective weather resistant material suitable for the environment (durable adhesive materials must meet this requirement).
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.2 - Photovoltaic circuits marking.
+Photovoltaic circuit marking is required on all interior and exterior photovoltaic DC circuit conduit, raceways, enclosures, cable assemblies, and junction boxes to alert firefighters to avoid cutting them. Marking shall be placed every 10 feet, at turns, and above and/or below penetrations, and at all photovoltaic circuit combiner and junction boxes.
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.2.1 - Marking content and format.
+Marking content and format shall be as follows.
+1.
+Marking content: "CAUTION: SOLAR CIRCUIT"
+2.
+Red background
+3.
+White lettering
+4.
+Minimum 3/8" letter height
+5.
+All capital letters
+6.
+Arial or similar font, non-bold
+7.
+Reflective weather-resistant material suitable for the environment (durable adhesive materials must meet this requirement).
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.3 - Inverter marking.
+No markings are required for the inverter unless the inverter is used also as a required remote electrical disconnect.
+(Ord. 2010-0060 § 160, 2010.)
+K103.2.4 - Remote electrical disconnect marking.
+Marking shall be located immediately next to the remote electrical disconnect control as follows:
+1.
+Marking content: "CAUTION: SOLAR CIRCUIT DISCONNECT"
+2.
+Red background
+3.
+White lettering
+4.
+Minimum 3/8" letter height
+5.
+All capital letters
+6.
+Arial or similar font, non-bold
+7.
+Reflective weather-resistant material suitable for the environment (durable adhesive materials must meet this requirement).
+(Ord. 2010-0060 § 160, 2010.)
+K103.3 - Remote electrical disconnect.
+Photovoltaic circuits shall be equipped with a means for remote electrical disconnect located downstream from the photovoltaic array at the point where the photovoltaic circuit first enters the structure, or at another approved location. The manual control to operate the remote electrical disconnect shall be located within five feet of the building's main electrical panel. The remote electrical disconnect shall be listed and meet the requirements of the California Electrical Code.
+Exceptions:
+1.
+Photovoltaic circuits contained in rigid or electrical metallic tubing running between the array combiner box and the main electrical panel which are entirely exterior to the building need not be equipped with a means of remote electrical disconnect other than the disconnects intrinsic to the system.
+2.
+Photovoltaic circuits contained in rigid or electrical metallic tubing running between the array combiner box and the main electrical panel that run through the interior of the building when installed a minimum of 18" below the roof assembly when measured parallel to the surface of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4 - Access pathways and emergency ventilation.
+Access and spacing requirements shall be provided in order to ensure firefighter access to the roof, provide access pathways to specific areas of the roof, provide for venting cut-out areas, and to provide emergency egress from the roof. For the purpose of access pathways and emergency ventilation, designation of ridge, hip, and valley does not apply to roofs with 2-in-12 or less pitch. All roof dimensions are measured to centerlines.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.1 - Alternative materials and methods.
+Alternative materials and methods per Section 104.9 for access pathways or venting cut-outs may be requested for approval by the fire code official due to:
+1.
+Unique site specific limitations
+2.
+Alternative access opportunities (as from adjoining roofs)
+3.
+Ground level access to the roof area in question
+4.
+Other adequate venting cut-out opportunities when approved by the fire code official.
+5.
+Adequate venting cut-out areas afforded by panel set back from other roof top equipment (for example: shading or structural constraints may leave significant areas open for ventilation near HVAC equipment.)
+6.
+Automatic ventilation device.
+7.
+New technology, methods, or other innovations that ensure adequate fire department access pathways and ventilation opportunities.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.2 - One- and two-dwelling unit residential buildings access pathways and venting cut-outs.
+Access pathways and venting cut-outs for one and two dwelling unit residential buildings shall be provided as per Sections K103.4.2.1 through K103.4.2.4.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.2.1 - Hip roof layout.
+Solar modules shall be located in a manner that provides one three (3') foot wide clear access pathway from the eave to the ridge on each roof slope where solar modules are located. The access pathway shall be located at a structurally strong location on the building, such as a bearing wall.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.2.2 - Single roof ridge.
+Solar modules shall be located in a manner that provides two three (3') foot wide access pathways from the eave to the ridge on each roof slope where solar modules are located.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.2.3 - Roof hips and valleys.
+Solar modules shall be located no closer than one and one-half (1.5') feet to a hip or a valley if modules are to be placed on both sides of a hip or valley. If the solar modules are to be located on only one side of a hip or valley, that is of equal length then the panels may be placed directly adjacent to the hip or valley.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.2.4 - Venting cut-out areas.
+Solar modules shall be located no higher than three (3') feet below the ridge.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3 - Commercial and industrial buildings and multi-residential buildings containing three or more dwelling units required access pathways and venting cut-outs.
+Access pathways and venting cut-outs for commercial and industrial buildings and multi-residential buildings containing three or more dwelling units shall be provided as accordance with Sections K103.4.3.1 through K103.4.3.2.6.
+Exception: If the fire code official determines that the roof configuration is similar to that found in single and two-dwelling unit residential buildings, the design requirements found in Section K103.4.2 may be utilized.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.1 - Array dimension.
+Arrays shall be no greater than 150 feet by 150 feet in distance in either axis.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2 - Access pathways.
+Access pathways shall be established in the design of the photovoltaic system installation. Access pathways shall be provided in accordance with Sections K103.4.3.2.1 through K103.4.3.2.5.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2.1 - Access pathways perimeter of the roof.
+There shall be a minimum six (6') foot wide clear perimeter around the edges of the roof.
+Exception: If either axis of the building is 250 feet or less, there shall be a minimum four (4') feet wide clear perimeter around the edges of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2.2 - Access pathway location.
+The center line axis of access pathways shall run on structural members or over the next closest structural member nearest to the center lines of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2.3 - Access pathway center line.
+The center line axis of access pathways shall be provided in both axis of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2.4 - Access pathway alignment.
+Access pathways shall run in a straight line, shall be not less than four (4') feet in width, and shall provide not less than four (4') feet of clearance around skylights, ventilation hatches, or roof standpipes.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2.5 - Access pathway around roof access hatches.
+Access pathways shall provide not less than four (4') feet of clearance around roof access hatches with at least one not less than four feet (4') wide clear pathway to a parapet or roof edge.
+(Ord. 2010-0060 § 160, 2010.)
+K103.4.3.2.6 - Venting cut-out areas.
+Venting cut-outs between array sections shall be either:
+1.
+An access pathway eight (8') feet or greater in width.
+2.
+An access pathway that is four (4') feet or greater in width and bordering on existing roof skylights or ventilation hatches.
+3.
+An access pathway that is four (4') feet or greater in width and bordering four (4') feet by eight (8') feet venting cut-outs every twenty (20') feet on alternating sides of the access pathway.
+(Ord. 2010-0060 § 160, 2010.)
+K103.5 - Location of conductors.
+Conduit, wiring systems and wiring raceways for photovoltaic circuits shall be provided in accordance with Sections K103.5.1 through K103.5.3.
+(Ord. 2010-0060 § 160, 2010.)
+K103.5.1 - Conductor location.
+Conduit, wiring systems, and wiring raceways shall be located as close as possible to the ridge or hip or valley and from the hip or valley as directly as possible to an outside wall to reduce trip hazards and maximize venting cut-out areas.
+(Ord. 2010-0060 § 160, 2010.)
+K103.5.2 - Conductors between sub arrays and DC combiner boxes.
+Conduit runs between sub-arrays and to DC combiner boxes shall use the design that minimizes the total amount of conduit on the roof by taking the shortest path from the array to the DC combiner box. The DC combiner boxes are to be located such that conduit runs are minimized in the pathways between arrays.
+(Ord. 2010-0060 § 160, 2010.)
+K103.5.3 - Conduit within enclosed spaces.
+To limit the hazard of cutting live conduit in venting operations, DC wiring shall be run in metallic conduit or raceways when located within enclosed spaces in a building and shall be run, to the maximum extent possible, along the bottom of load-bearing members.
+(Ord. 2010-0060 § 160, 2010.)
+K104.1 - Roof gardens and landscaped roofs.
+The requirements of Section K104 apply to all roof gardens and landscaped roofs regardless of size or if used for residential and commercial purposes. Roof gardens and landscaped roofs shall be designed, constructed and installed in accordance with Sections K104.2 through K104.3.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2 - Access pathways and emergency ventilation.
+Access and spacing requirements shall be provided in order to ensure firefighter access to the roof, provide access pathways to specific areas of the roof, provide for venting cut-out areas, and to provide emergency egress from the roof. For the purpose of access pathways and emergency ventilation, designation of ridge, hip, and valley does not apply to roofs with 2-in-12 or less pitch. All roof dimensions are measured to centerlines.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.1 - Alternative materials and methods.
+Alternative materials and methods per Section 104.9 for access pathways or venting cut-outs may be requested for approval by the fire code official due to:
+1.
+Unique site specific limitations
+2.
+Alternative access opportunities (as from adjoining roofs)
+3.
+Ground level access to the roof area in question
+4.
+Other adequate venting cut-out opportunities when approved by the fire code official.
+5.
+Adequate venting cut-out areas afforded by panel set back from other roof top equipment (for example: shading or structural constraints may leave significant areas open for ventilation near HVAC equipment.)
+6.
+Automatic ventilation device.
+7.
+New technology, methods, or other innovations that ensure adequate fire department access pathways and ventilation opportunities.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.2 - One- and two-dwelling unit residential buildings.
+Installation of roof gardens and landscaped roofs on one and two-dwelling unit residential buildings shall be in accordance with Sections K104.2.2.1 through K104.2.2.3.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.2.1 - Hip roof design.
+Planted sections shall be located in a manner that provides a three (3') foot wide clear access pathway from the eave to the ridge on each roof slope where the planted sections are located. The access pathway shall be located at a structurally strong location on the building such as a bearing wall.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.2.2 - Single ridge roof design.
+Planted sections shall be located in a manner that provides two three (3') foot wide access pathways from the eave to the ridge on each roof slope where the planted sections are located.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.2.3 - Hips and valleys.
+Planted sections shall be located no closer than one and one-half (1.5') feet to a hip or a valley if planted sections are to be placed on both sides of a hip or valley. If the planted sections are to be located on only one side of a hip or valley that is of equal length then the planted sections may be placed directly adjacent to the hip or valley. Planted sections shall not be located closer than three feet (3') below the ridge.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3 - Commercial and industrial buildings and multi-residential buildings containing three or more dwelling units required access pathways and venting cut-outs.
+Access pathways and venting cut-outs for commercial and industrial buildings and multi-residential buildings containing three or more dwelling units. Access pathways shall be provided in accordance with Sections K104.2.3.1 through K104.2.3.6.
+Exception: If the fire code official determines that the roof configuration is similar to that found in single and two-dwelling unit residential buildings, the design requirements found in Section K104.2.2 may be utilized.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.1 - Planted dimension.
+Planted sections shall be no greater than 150 feet by 150 feet in distance in either axis.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.2 - Access pathways.
+Access pathways shall be established in the design of the roof garden or landscaped roof installation. Access pathways shall meet the requirements of this section.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.2.1 - Access pathways perimeter of the roof.
+There shall be a minimum six (6') foot wide clear perimeter around the edges of the roof.
+Exception: If either axis of the building is 250 feet or less, there shall be a minimum four (4') feet wide clear perimeter around the edges of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.2.2 - Access pathway location.
+The center line axis of access pathways shall run on structural members or over the next closest structural member nearest to the center lines of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.2.3 - Access pathway center line.
+The center line axis of the access pathways shall be provided in both axis of the roof.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.2.4 - Access pathway alignment.
+Access pathways shall run in a straight line, shall be not less than four (4') feet in width, and shall provide not less than four (4') feet of clearance around skylights, ventilation hatches, or roof standpipes.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.5 - Access pathway around roof access hatches.
+Access pathways shall provide not less than four (4') feet of clearance around roof access hatches with at least one not less than four feet (4') wide clear pathway to a parapet or roof edge.
+(Ord. 2010-0060 § 160, 2010.)
+K104.2.3.6 - Venting cut-out areas.
+Venting cut-outs between planted sections shall be either:
+1.
+An access pathway eight (8') feet or greater in width.
+2.
+An access pathway that is four (4') feet or greater in width and bordering on existing roof skylights or ventilation hatches.
+3.
+An access pathway that is four (4') feet or greater in width and bordering four (4') feet by eight (8') feet venting cut-outs every twenty (20') feet on alternating sides of the access pathway.
+(Ord. 2010-0060 § 160, 2010.)
+K104.3 - Roof garden or landscaped roof maintenance plan.
+The fire code official is authorized to require an approved maintenance plan for vegetation placed on roofs due to the size of the garden or landscaping area, or if materials and plants used may create a fire hazard to the building or exposures.
+(Ord. 2010-0060 § 160, 2010.)

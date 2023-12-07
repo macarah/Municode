@@ -1,0 +1,8 @@
+605.11.2.1 - Remote Electrical Disconnect.
+Photovoltaic circuits shall be equipped with a means for remote electrical disconnect located downstream from the photovoltaic array at the point where the photovoltaic circuit first enters the structure, or at another approved location. The manual control to operate the remote electrical disconnect shall be located within five feet of the building's main electrical panel. The remote electrical disconnect shall be listed and meet the requirements of the California Electrical Code.
+Exceptions:
+1.
+Photovoltaic circuits contained in rigid or electrical metallic tubing running between the array combiner box and the main electrical panel which are entirely exterior to the building need not be equipped with a means of remote electrical disconnect other than the disconnects intrinsic to the system.
+2.
+Photovoltaic circuits contained in rigid or electrical metallic tubing running between the array combiner box and the main electrical panel that run through the interior of the building need not be equipped with a means of remote electrical disconnect when installed a minimum of 18 inches below the roof assembly when measured parallel to the surface of the roof.
+(Ord. 2014-0014 § 117, 2014.)
