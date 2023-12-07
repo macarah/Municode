@@ -1,0 +1,444 @@
+ARTICLE IV. - NOISE CONTROL
+
+FOOTNOTE(S):
+--- (4) ---
+Editor's note— Ord. No. 2003-62, § 1, approved May 13, 2003, repealed art. IV in its entirety. Formerly, said article pertained to similar subject matter as enacted by Ord. No. 2000-64, § 1, approved Dec. 13, 2000.Subsequently, Ord. No. 2013-03(12-O-0774), §§ 1, 2(Attach. A), approved January 31, 2013, amended Art. IV, in its entirety, to read as herein set out. See also the Code Comparative Table for a detailed analysis of inclusion.
+Sec. 74-129. - Title
+This article shall be known and may be referred to as the "Atlanta Noise Control Code" or the "Atlanta Noise Ordinance."
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-130. - Reserved.
+Sec. 74-131. - Definitions.
+The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in this article, except where the context clearly indicates a different meaning:
+Ambient sound level means the total sound pressure level in the area of interest including the noise source of interest (see, also, "background sound level," this section).
+A-weighting means the electronic filtering in sound level meters that models human hearing frequency sensitivity.
+Background sound level is the total sound pressure level in the area of interest excluding the noise source of interest (see also, "ambient sound level," this section).
+Commercial area means a group of commercial facilities and the abutting public right-of-way and public property.
+Commercial property means any premises, property, or facility, regardless of its zoning classification involving traffic in goods or furnishing of services for sale or profit, including but not limited to:
+(1)
+Banking and other financial institutions;
+(2)
+Dining establishments;
+(3)
+Establishments for providing retail or wholesale services;
+(4)
+Establishments for recreation and entertainment;
+(5)
+Office buildings;
+(6)
+Transportation;
+(7)
+Warehouses; and
+(8)
+Hotels and motels.
+Construction means any site preparation, assembly, erection, repair, alteration or similar action, or demolition of buildings or structures.
+C-weighting means the electronic filtering in sound level meters that models a flat response (output equals input) over the range of maximum human hearing frequency sensitivity.
+dBA means an A-weighted unit of sound level.
+dBC means a C-weighted unit of sound level.
+Daytime hours means the hours between 7:01 a.m. and 9:00 p.m.
+Decibel (dB) means the unit of measurement for a sound pressure level and is equal to ten times the common logarithm of the ratio of two like quantities (see "sound pressure level").
+Emergency work means any work or action necessary to deliver essential services including, but not limited to, repairing water, gas, electric, telephone, sewer facilities, or public transportation facilities, removing fallen trees on public rights-of-way, or abating life-threatening conditions.
+Equivalent sound level (Leq) means the non-varying sound level that would contain the equivalent amount of energy as a varying sound level. Note that Leq can be weighted or unweighted and can be integrated over durations ranging from less than a second to many hours. The notation should indicate weighting used and duration, e.g., 85 dBC Leq (one min.) is a C-weighted 85 decibel equivalent sound level, integrated over a one-minute period.
+Impulsive sound means a sound having duration of less than one second with an abrupt onset and rapid decay.
+Industrial facility or property means any activity and its related premises, property, facilities, or equipment involving the fabrication, manufacture, or production of durable or nondurable goods. A property's zoning does not have to be industrial as defined under the City Zoning Ordinance for a facility to be considered an industrial facility.
+Maximum sound level (Lmax) means the maximum root mean square sound level measured or not to be exceeded by time varying sounds.
+Motor vehicle means any vehicle that is propelled or drawn on land by an engine or motor.
+Muffler means a sound-dissipative device or system for lessening the sound of the exhaust of an internal combustion engine.
+Multidwelling unit building means any building wherein there are two or more dwelling units.
+Municipality or municipal refers to the City of Atlanta, Georgia or the "city."
+Nighttime hours means the hours between 9:01 p.m. of any given day, and 7:00 a.m. of the following day.
+Noise means any sound of such level and duration as to be or tend to be injurious to human health or welfare, or which would unreasonably interfere with the enjoyment of life or property throughout the city or in any portions thereof, but excludes all aspects of the employer-employee relationship concerning health and safety hazard within the confines of a place of employment.
+Noise control administrator (NCA) means any individual designated by the chief of police as the liaison with all municipal departments for issues related to noise control and who is charged with the administration of the noise ordinance, maintaining records showing that noise control officers are properly trained and that the sound level meters in use in the city meet the standards required by the noise ordinance.
+Noise control officer (NCO) means any police officer or other municipal officer or employee who has received training in the standards required by this article for the measurement of ambient sound level or absolute sound level and received authorization to issue citations based on readings taken with a SLM.
+Noise disturbance means any sound that due to such sound exceeding the limits set forth in this article, endangers the health, safety or welfare of any person, and therefore is detrimental to the peaceful enjoyment of private property and the use and enjoyment of public spaces including public rights-of-way.
+Noise source means the point of origin of any noise, excluding noise emanating from any sound making device or instrument from within a motor vehicle as covered by O.C.G.A. § 40-6-14.
+Peak sound level (Lpk) means the absolute positive or negative value (not the root mean square value) of the sound energy in a discrete event typically of very short duration.
+Person means any individual, corporation, company, association, society, firm partnership, joint stock company, the municipality any political subdivision, agency or instrumentality of the municipality.
+Plainly audible means any sound produced by a noise source, which can be heard by any person at prescribed distances or locations. Measurement standards shall be the auditory senses, based upon direct line of sight to the sound source, provided however that auditory senses may also be used to determine the location if direct line of sight to the sound source is blocked. Words or phrases need not be discernible and low frequency sound reverberations are included.
+Public right-of-way means any street, avenue, boulevard, road, highway sidewalk, or alley that is leased, owned, or controlled by a governmental entity.
+Public property means any real property or structures thereon that is own leased, or controlled by a governmental entity.
+Pure tone means a sound dominated by energy in a single frequency.
+Real property line or property line is either (a) the imaginary line, including vertical extension, that separates one parcel of real property from another, or (b) the vertical and horizontal boundaries of a residential dwelling unit that is contained in a building containing two or more residential units or any combination of separately leased or owned spaces. As used in this article, the real property line or property line, in addition to meaning a determination that can be made by a review of a survey or other documents, means an apparent demarcation between parcels of real property as might be reasonably determined when seeking to locate a place to take the types of measurements set forth in this article.
+Residential area means a group of residential properties and the abutting public rights-of-way public property.
+Residential property means property used for human habitation, including but not limited to:
+a.
+Private property used for human habitation;
+b.
+Commercial living accommodations and commercial property used for human habitation including mixed use properties, including the operation of accessory uses such as deliveries; the collection of trash by private vendors; amplified or live music, movies or televisions, whether originating from inside of a structure or on an outdoor deck or patio; taxi stands, valet parking and similar commercial noise sources;
+c.
+Recreational and entertainment property used for human habitation; and
+d.
+Community service property used for human habitation.
+Sound amplification device means any radio, tape player, compact disc player, loudspeaker, television or other electronic or digital device used for the amplification of the human voice, music or other sounds.
+Sound level (per ASTM C 634) means a sound pressure level obtained using a signal to which standard weighting has been applied.
+Sound level meter (SLM) means an instrument used to measure sound pressure levels.
+Sound pressure level (SPL) means the ratio in decibels of the square of the root mean square sound pressure divided by the square of the standard reference sound pressure of 20/gmPa. Mathematically, this is expressed as 10* log p2/P2 ref, = 20*log P/P ref, P ref, = 20/1 gmPa.
+Tonal sound means a sound dominated by energy in a narrow band of frequencies.
+Weekday means the time period of each week that begins at 11:00 p.m. on each Sunday and ends at 5:00 p.m. on each Friday.
+Weekend means the time period of each week that begins at 5:00 p.m. on each Friday and ends at 11:00 p.m. on each Sunday.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-132. - Scope.
+The provisions of this article shall apply to all property within the jurisdiction of the City of Atlanta, Georgia.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-133. - Declaration of policy.
+The provisions hereinafter contained are enacted for the purpose of preventing noise disturbances. Above certain levels, noise or noise disturbance is detrimental to the health and welfare of the citizenry and the individual's right to peaceful and quiet enjoyment. Therefore, it is hereby declared to be the policy of the city to prohibit noise disturbances from all sources, subject to its police power in order to secure and promote the public health, comfort, convenience, safety, welfare, and prosperity of the citizens of Atlanta. Nothing in this article is intended to deter individuals from lawfully exercising the individual right to freedom of speech or any other freedom guaranteed under the Constitutions of the United States of America or of the State of Georgia.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-134. - Powers, duties, and qualifications of the noise control officers and administrators; duties and responsibilities of other departments.
+(a)
+The noise control administrator (NCA) is authorized to:
+(1)
+Coordinate the noise control activities of all municipal departments and cooperate with all other public bodies and agencies to the extent practicable;
+(2)
+Review the policies and actions of other municipal departments and advise such departments of the effect, if any, of such policies and actions on noise control;
+(3)
+Delegate the duties assigned to noise control officers ("NCO's") to any duly qualified individual according to the provisions of this article upon a showing that such person received the training required by this article, provided however that no city police officer shall be required to receive any additional type of delegation from the NCA in order to enforce the provisions of section 74-136(b) in that the standards set forth in this article are sufficient for that purpose;
+(4)
+Grant permits for temporary variances according to the provisions of this article;
+(5)
+Maintain the records of the training received by NCO's under which such NCO's have become eligible to receive their delegation of authority to enforce this article through the use of SLMs. The delegation of such authority to an NCO shall arise upon successful completion of the training required by this article and shall not require a separate act by the NCA beyond the transmission to the NCA of the record of completion of the required training; and
+(6)
+Maintain the records of the specification, purchase, warranty and calibration requirements of SLMs used by NCO's.
+(b)
+Those individuals appointed as NCO's are authorized to enforce the provisions of this article.
+(1)
+All NCO's, including city police officers trained as NCO's, are authorized to issue a citation for violations of this article, based upon the determination of levels provided in section 74-136(a) or pursuant to section 74-136(b).
+(2)
+City police officers shall not be required to have the specific training required by this article in order to issue citations pursuant to section 74-136(b).
+(c)
+A person shall be qualified to be an NCO if the person has satisfactorily completed any of the following training:
+(1)
+An instructional program in community noise analysis and migration from a certified noise control engineer, as evidenced by certification from the Institute of Noise Control Engineering (INCE); or
+(2)
+A training program prepared or supervised by a registered professional engineer practicing in the field of acoustics or a related field that uses sound measurement equipment; or
+(3)
+A training program prepared or supervised by an individual with academic qualifications demonstrating expertise in sound measurement; or
+(4)
+Training given or approved by the manufacturer of noise meters used in enforcement of this article; or
+(5)
+An instructional program in community noise analysis and migration from another NCO; or
+(6)
+Education or experience or a combination thereof certified by the NCA as equivalent to the provisions of any of the requirements of this subsection.
+(d)
+Noise measurements taken by a NCO with SLMs shall be taken in accordance with the procedures specified in this article but no procedures shall be required to enforce section 74-136(b), including its enforcement by city police officers other than those necessary to meet the criteria set forth in that section and/or this article.
+(e)
+The provisions of this article shall not apply to any department or agency of the city engaged in any emergency activities or as otherwise excluded under section 74-138 of this article. However, all city departments and agencies shall carry out their programs according to the law and shall cooperate with the assessment and consideration of the possible impact of their activities with regard to the reduction of noise disturbances and the other purposes of this article.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-135. - Sound measurement procedures.
+(a)
+Insofar as practicable, sound will be measured while the source under investigation is operating at normal, routine conditions and, as necessary, at other conditions, including but not limited to, design, maximum, and fluctuating rates. All noise measurements shall be made as directed in this article. When instrumentation cannot be placed at or within the property line, the measurement shall be made as close thereto as is reasonable. For the purposes of this article, noise measurements are measured on the A- or C-weighting scale, as applicable, of a sound level meter (SLM) of standard design and quality having characteristics established by the American National Standards Institute (ANSI).
+(b)
+All tests shall be conducted in accordance with the following procedures:
+(1)
+The NCO shall, to the extent practicable, identify all sources contributing sound to the point of measurement but shall not be required to document the absence of such sources or document that such sources would not have caused the test to be valid.
+(2)
+Measurements for comparison of the ambient sound level of a sound source to the background noise level shall be taken at the nearest receiving property line. When a measurement is being taken to determine whether the noise source is in violation of the absolute cap set forth in section 74-136(a)(1) (Table 2) or section 74-136(a)(2), the measurement shall also be taken at the nearest receiving property line. Where a violation is perceived by an NCO to be occurring absent a report of noise disturbance from nearby properties, or the nearest receiving property line is not readily apparent or accessible, the NCO may take such measurements from the public right-of-way adjacent to the property from which the noise source originates.
+(3)
+The SLM must be calibrated using a calibrator or method recommended by the SLM manufacturer and in the manner recommended. Automatic internal calibration of the SLM which occurs as a part of the initialization of the SLM shall be sufficient to satisfy this requirement.
+(4)
+The SLM shall be recertified and/or recalibrated as recommended by the manufacturer.
+(5)
+Unless the manufacturers' specifications allow adjustments to be made to compensate for the following factors, no outdoor measurements shall be taken:
+a.
+During periods when wind speeds (including gusts) exceed 15 mph;
+b.
+Without a windscreen, recommended by the SLM manufacturer, properly attached to the SLM;
+c.
+Under any condition that allows the SLM to become wet; or
+d.
+When the ambient temperature is out of the range of the tolerance of the SLM;
+e.
+Provided however that it shall not be necessary to document the absence of the conditions set forth in this subsection for a reading to be valid.
+(c)
+The report for each measurement session should include such facts as may be necessary to demonstrate that a violation has occurred, whether established by data captured by the SLM or supplied by a separate written report or testimony of a police officer or NCO but the absence of a written determination of any particular fact at the time of citation shall not invalidate the overall finding if it can reasonably proven at the time set for adjudication of the citation.
+(1)
+The date, day of the week, and times at which measurements are taken;
+(2)
+The times of calibration;
+(3)
+The weather conditions;
+(4)
+The identification of all monitoring equipment by manufacturer, model number, and serial number;
+(5)
+The normal operating cycle of the sources in question with a description of the sources provided however that where the sources in question do not have a normal operating cycle, such notation shall not be required;
+(6)
+The ambient sound level, in dB(A) or (C), depending on the measurement being taken, with the sources in question operating;
+(7)
+The background sound level, in dB(A), without the sources in question operating provided however that where the background sound level in question cannot reasonably be measured, the correction factor for background sound levels shall be three dB(A);
+(8)
+The total accumulative time duration of the monitoring session; and
+(9)
+A description of the measurement site, including measurement locations and relevant distances and other information sufficient for another investigator to repeat the measurements under similar conditions. Photographs which contain sufficient information for another investigator to repeat the measurements under similar conditions may be substituted at the discretion of the NCO; and
+(10)
+Information required to support the issuance of a citation shall be considered sufficient if the data captures SLM provides such information, and/or such information can be provided by the citation and/or the testimony of the NCO taking such readings and/or such other reports generated by the NCO or any police officer.
+(d)
+Prior to taking noise measurements, the NCO shall reasonably explore the vicinity of the source in question to identify any other sound sources that could affect measurements, to establish the approximate location and character of the principal sound source, and to select suitable locations from which to measure the sound from the source in question. Unless the reasonable exploration of the site uncovers a condition that could affect the measurements, the NCO shall not be required to make a notation that this subsection has been satisfied.
+(e)
+When measuring continuous sound, or sound that is sustained for more than one second at a time, the SLM shall be set for the appropriate A or C weighting, slow meter response speed, and the range (if the SLM is designed to read levels over different ranges of (SPLs) shall be set to that range in which the meter reads closest to the maximum end of the scale). When the measured sound level is variable or fluctuating over a range greater than three DBA, using the slow meter response speed, the fast meter response speed shall be used. In either case, both the minimum and maximum readings shall be recorded to indicate the range of monitored values.
+(f)
+The SLM shall be placed at a minimum height of three feet above the ground or from any reflective surface. When handheld, the microphone shall be held at arm's length and pointed at the source at the angle recommended by the SLM manufacturer.
+(g)
+If extraneous sound sources, such as aircraft flyovers or barking dogs that are unrelated to the measurements increase the monitored sound levels, the measurements should be postponed until these extraneous sounds have become of such a level as not to increase the monitored sound levels of interest.
+(h)
+The monitoring session should last for a period of time sufficient to ensure that the sound levels measured are typical of the source in question, but in no event shall the duration of testing be less than one minute.
+(i)
+The background sound levels shall be subtracted from the measured sound levels of the source of interest by using Table 1 to determine the sound levels from the source of interest alone. If the ambient sound level is less than three DBA higher than the background sound level, the source level cannot be derived and a violation of the article cannot be substantiated.
+(j)
+Information on the procedures required to support the issuance of a citation shall be considered sufficient if the SLM provides such information, and/or such information can be provided by the citation and/or the testimony of the NCO performing the test and/or such other reports generated by the NCO or any police officer.
+Table 1: Correction for Background
+Levels (in dBA)
+EXPAND
+Difference between
+ambient and
+background sound
+levels
+Correction factor
+to be subtracted
+from ambient level
+for source level
+3 3
+4, 5 2
+6—9 1
+10 or more 0
+  (Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-136. - Sound level limitations.
+It shall be unlawful and a violation of this Code to exceed the following sound level limitations:
+(a)
+No person shall cause; allow, or permit the operation of any noise source on a particular category of property or any public property or right-of-way in such a manner as to create a sound level that exceeds the background sound level by ten dBA or more during daytime hours or five dBA or more during nighttime hours when measured within the real property line of a receiving property, except as provided in section 74-138. Such a noise would constitute a noise disturbance under this article if it continues in excess of one minute unless otherwise provided herein, provided however that no violation can be substantiated unless the background noise level is: at least Leq. 35 dBA (one min.) during daytime hours or Leq. 30 dBA (one min.) during nighttime hours in residential areas; at least Leq. 60 dBA (one min.) during daytime hours or Leq. 55 dBA (one min.) during nighttime hours in commercial areas; at least Leq. 65 dBA (one min.) during daytime hours or Leq. 60 dBA (one min.) during nighttime hours in industrial areas; and further provided however that this limitation shall not apply inside of multifamily dwelling unit buildings. If background noise levels are below the stated level to be used for comparison, the stated level shall be used.
+(1)
+If the background sound level cannot be determined, the absolute sound level limits set forth in Table 2 shall be used. The classification of property as set forth in Table 2 represents the receiving property and is not intended to increase the level of any sound produced by referencing the classification of the property producing the sound in question. For the purpose of this article, the representation of the person registering a complaint shall be sufficient for the NCO to determine the category of the receiving property if it is not readily apparent from an observation of the receiving property. In those cases where an NCO is making a measurement not based on the complaint of an individual but is conducting an investigation based on the recommendation from a police officer or the NCO's own investigation, the observation of the NCO shall be sufficient to determine the category for the measurement of the receiving property.
+Table 2: Maximum Permissible
+Sound Levels Leq dB (A)—
+Averaged Over Six Minutes
+EXPAND
+Receiving
+Property
+Daytime
+Hours
+Nighttime
+Hours
+Residential property 55 50
+Commercial property 70 65
+Industrial property 75 70
+  (2)
+At no time shall noise levels be produced that exceed 65 dB(C) Leq (one min.) at a receiving real property line.
+(3)
+If the noise source, measured at a receiving property line, is a pure tone, then the sound level limitations set forth in Table 2 shall be reduced by five dB.
+(4)
+Impulsive sound sources shall not exceed 100 dB(C) Leq. measured at a receiving property line, using the fast meter response speed.
+(5)
+Inside multifamily dwelling unit buildings, if the background sound level cannot be determined, the limit during daytime hours is 45 dB(C) Leq (one min.) and the limit during nighttime hours is 35 dB(C) Leq. for sounds originating in another dwelling within the same building. When the sound is generated from the heating, ventilation, air conditioning units or other machinery serving the premises, whether operated for the use of an individual dwelling unit or a group of dwelling units, the limit is 40 dB(C) Leq (one min.) for both daytime and nighttime hours.
+(b)
+At the discretion of a police officer and as an alternative to making a determination based upon the ambient sound level or absolute sound level, the following standards shall be used for sounds emanating from any noise source located on any residential property, commercial property, or public property:
+(1)
+During daytime hours, sound emanating from any noise source shall be limited in volume, tone and intensity so that the sound shall not be plainly audible to any person at a distance of 200 or more feet from the real property line of any private property on which the noise source is located, or from any noise source located on any public property or public right-of-way; provided however that under no circumstance shall the existence of this standard prevent a violation from being found if the sound is measured as set forth in section 74-136(a). A violation of this subsection may also be established by observations made in the public right-of-way at the distance specified from the real property line of any private property or any public property on which the noise source is located.
+(2)
+During nighttime hours, sound emanating from any noise source shall be limited in volume, tone and intensity so that the sound shall not be plainly audible to any person at a distance of 50 or more feet from the real property line of any private property on which the noise source is located, or from any noise source located on any public property or public right-of-way; provided however that under no circumstance shall the existence of this standard prevent a violation from being found if the sound is measured as set forth in section 74-136(a). A violation of this subsection may also be established by observations made in the public right-of-way at the distance specified from the real property line of any private property or any public property on which the noise source is located.
+(3)
+The determination of the location of the real property line of any private property on which the noise source is located or the determination of the location of the public right-of-way line shall not be required to be made pursuant to the review of a survey or other document. In making the determination, any police officer or any NCO may use the appearance of the parcel where the noise source originates and the arrangement of the structures thereon as well as similar characteristics on surrounding parcels to make a determination as to the approximate location of the property line or may use the apparent limits of the public right-of-way adjacent to the parcel where the noise source originates.
+(4)
+The determination of the number of feet from the real property line of any private property on which the noise source is located, or from any noise source located on any public property or public right-of-way shall not require a measurement to be taken using electronic or mechanical means and it shall be sufficient if the NCO or the police officer is able to make a good faith determination that the minimum distance has been exceeded when the plainly audible determination is made.
+(5)
+In determining whether or not a sound emanating from a noise source violates this section, NCO's or police officers may consider the following factors:
+a.
+Level of the noise based upon reaction to it in the same manner as it would be experienced by a reasonable person;
+b.
+Nature of the noise on which the complaint is based;
+c.
+Origin of the noise based on required distance;
+d.
+Level and intensity of any background noise compared to the noise being investigated;
+e.
+Proximity of the noise to sleeping facilities;
+f.
+Nature and zoning of the area;
+g.
+Density of inhabitation in the area;
+h.
+Time of day or night the noise is occurring;
+i.
+Duration of the noise;
+j.
+Whether the noise is recurrent, intermittent, or constant, especially in cases where voluntary compliance is followed by a second complaint within any 24-hour period;
+k.
+Whether the noise is produced by a business operation and an SLM measurement is reasonably available pursuant to section 74-140A
+l.
+Whether voluntary compliance is obtained.
+(6)
+After having made a determination under this section that a noise violates this section, police officers may issue a citation for violation of this section but shall not be required to do so upon their determination that the level of plainly audible noise is not such as would disturb a reasonable person or is no greater than the level and intensity of any background noise compared to the noise being investigated.
+(7)
+Inside multifamily dwelling unit buildings, where it may not be possible to determine the distance from the sound source, NCO's or police officers shall determine whether the unit or area of the building producing the sound source is directly adjacent to the dwelling unit receiving the sound, in which case the owner of the sound source may be cited if after the consideration of the factors set forth in this section.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-137. - Specific prohibited acts.
+(a)
+It is unlawful, and a violation of this Code, for any person to cause, allow, or permit any of the following acts unless a temporary variance has been obtained:
+(1)
+Owning, possessing, or harboring any animal or bird that, for a continued duration in excess of 15 minutes, generates noise that is plainly audible at a distance of five feet or more from the real property line of a residential property;
+(2)
+Loading, unloading, opening, closing, or other handling of boxes, crates, containers, building materials, liquids, or the pneumatic or pumped loading or unloading of bulk materials in liquid, gaseous, powder, or pellet form, between 9:00 p.m. and 7:00 a.m. the following day on a weekday and between 9:00 p.m. and 9:00 a.m. the following day on a weekend day or on a legal holiday; when the noise source is located 50 feet or less from the nearest residential property line;
+(3)
+Operating or permitting the operation of any motor vehicle or any auxiliary equipment attached to such a vehicle, for a period of longer than five minutes in any hour while the vehicle is stationary, for reasons other than traffic congestion or emergency work, and where such vehicle's manufacturer's gross weight rating is in excess of 10,000 pounds, on a public right-of-way or public property within 150 feet of a residential property during nighttime hours;
+(4)
+Operating or permitting the operation of any power tools or other motorized equipment used in construction, drilling, earthmoving, excavating, or demolition work between 7:00 p.m. and 7:00 a.m. the following day on a weekday or between 7:00 p.m. and 9:00 a.m. on a weekend day or legal holiday, except for emergency work or by permit for temporary variance pursuant to section 74-139
+(5)
+Compacting or collecting of refuse by persons engaged in the business of scavenging or garbage collection, whether private or municipal, during nighttime hours or before 9:00 am on a weekend day or legal holiday;
+(6)
+Car drifting on private property within 1,000 feet of a residentially zoned district. For purposes of this section, car drifting shall mean a driving technique or motorsport where the driver intentionally over steers, causing loss of traction in the rear wheels, while maintaining control from entry to exit of a corner. A car is drifting when the rear slip angle is greater than the front slip angle, to such an extent that the front wheels are pointing in the opposite direction to the turn (e.g. car is turning left; wheels are pointed right or vice versa).
+(b)
+Loud sound amplification devices.
+(1)
+Upon or within any public property or public right-of-way, no person shall play, use or operate, or permit to be played, used, or operated, any sound amplification device, so that the sound is plainly audible to any person, at a distance set forth by the provisions of section 74-136(b). The distance shall be measured from the noise source; provided however that when a measurement is taken with a SLM, the measurement shall be at the real property line of a receiving property.
+(2)
+No person shall play, use or operate, or permit to be played, used, or operated, any sound amplification device on or within any private property, so that the sound is plainly audible to any person according to the provisions of section 74-136(b).
+(3)
+It is an affirmative defense to charge under this section that the operator was not otherwise prohibited by law from operating the sound amplification device, and that any of the following apply:
+a.
+The sound amplification device was being operated to request medical or emergency assistance or to warn of a hazardous road condition;
+b.
+The sound amplification device was being operated to provide emergency information or to warn of an emergency condition;
+c.
+The sound amplification device was authorized or permitted to be used for the purpose of giving instructions, directions, talks, addresses, lectures or transmitting music to any persons or assemblages of persons;
+d.
+The loud sound amplification device was used in authorized or permitted public activities, such as parades, fireworks, sports events, musical productions and other activities which have the approval of the department of the city authorized to grant such approval.
+(4)
+No part of this subsection shall be construed to allow any person to violate the provisions of section 74-136(a) if a sound level meter is employed to measure the sound associated with any specific prohibited act.
+(Ord. No. 2012-17(12-O-0502), § 1, 5-16-12; Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-138. - Exemptions.
+(a)
+The provisions of this article shall not apply to the generation of noise by public safety vehicles, emergency signaling devices, or authorized public safety personnel for the purpose of alerting persons to the existence of any emergency.
+(b)
+Noise from an exterior burglar alarm of any building shall be exempt from the provisions of this article, provided such burglar alarm shall terminate its operation within 15 minutes of its activation.
+(c)
+Noises from any automobile alarm shall be exempt from the provisions of this article, provided such burglar alarm shall terminate its operation within ten minutes of its activation.
+(d)
+Noise from domestic power tools, lawn mowers, and agricultural equipment when operated between 8:00 a.m. and 8:00 p.m. on weekdays and between 9:00 a.m. and 8:00 p.m. on weekends and legal holidays shall be exempt from the provisions of this article, provided they generate less than 85 dBA at or within any real property line of a residential property outside of the property where the noise in question originates, and all noises from tools and lawn mowers operated in association with the upkeep and maintenance of any public or private golf course shall be exempt from the provisions of this article, provided that all such tools and lawn mowers are equipped with mufflers or are operated in conjunction with a device or system for lessening the sounds produced.
+(e)
+Noise from church bells and chimes when a part of a religious observance or service shall be exempt from the provisions of this article during daytime hours.
+(f)
+Noise from permitted construction activity shall be exempt from the provisions of this article, provided all motorized equipment used in such activity is equipped with functioning mufflers, except as provided in section 74-137(a)(4).
+(g)
+Noise from snow blowers, snow throwers, and snowplows when operated with a muffler for the purpose of snow removal shall be exempt from the provisions of this article.
+(h)
+The generation of noise in the performance of emergency work shall be exempt from the provisions of this article.
+(i)
+The generation of noise in situations within the jurisdiction of the Federal Occupational Safety and Health Administration shall be exempt from the provisions of this article.
+(j)
+Noise generated from celebrations, outdoor festivals or events municipally sponsored or approved whether by contract, permit or otherwise, shall be exempt from the provisions of this article.
+(k)
+Noises resulting from the operation of the Hartsfield-Jackson Atlanta International Airport shall be exempt from the provisions of this article.
+(l)
+Any noise resulting from activities of a temporary duration, for which a permit for temporary variance has been granted pursuant to this article, and which conforms to the conditions and limits stated in the variance and reasonably related activities shall be exempt from the provisions of this article.
+(m)
+Noises resulting from any practice or performance sponsored by or associated with the educational process administered by a recognized institution of learning, including, but not limited to band, choir, and orchestral performances shall be exempt from the provisions of this article.
+(n)
+Noises that result from or arise out of or stem from the occurrence of a professional sporting event or organized sports league shall be exempt from the provisions of this article.
+(o)
+Any noise arising out of construction, maintenance, repair or renovation activities related to the Metropolitan Atlanta Rapid Transit Authority (MARTA) bus or rail system, or the city's streetcar system, or other mass transit systems, shall be exempt from the provisions of this article.
+(1)
+MARTA and/or the city will develop and implement procedures by which NPUs affected by construction or planned maintenance activities will be notified prior to the commencement of work.
+(2)
+MARTA and/or the city will develop and implement procedures by which any complaints of excessive noise created by construction or planned maintenance activities and reported by citizens to MARTA are available for review by interested citizens or members of the city council.
+(3)
+MARTA and/or the city will develop and implement procedures by which contractors conducting planned maintenance or implementing new construction on the MARTA bus or rail system, or the city's streetcar system, or other mass transit systems will be monitored so as to ensure that all work is performed in a manner that will result in the creation of the least amount of noise disturbance.
+(Ord. No. 2004-51, § 1, 8-20-04; Ord. No. 2010-17(10-O-0790), § 1, 5-11-10; Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-139. - Conditions for permits for temporary variance; notice of approval or denial; hearings and appeals.
+(a)
+Any person who owns the real property from which a noise source emanates or operates any noise source may, with the permission of the owner, apply to the NCA for a temporary variance from one or more of the provisions of this article, unless such noise source is specifically exempted according to the provisions of section 74-138. Applications for a permit of temporary variance shall supply information including, but not limited to:
+(1)
+The nature and location of the noise source for which such application is made;
+(2)
+The reason for which the permit of temporary variance is requested, including the hardship that will result to the applicant, his/her client, or the public if the permit of temporary variance is not granted;
+(3)
+The level of noise that will occur during the period of the temporary variance;
+(4)
+The section or sections of this article for which the permit of temporary variance shall apply;
+(5)
+A description of interim noise control measures to be taken for the applicant to minimize noise and the impacts occurring from the noise for which the variance is sought; and
+(6)
+A specific schedule of the noise control measures that shall be taken to bring the source into compliance with this article within a reasonable time; and
+(7)
+An affidavit stating that notice has been provided to the office of planning for transmission to the NPU where the variance is to be operational and that the notice required by the NCA shall be posted within three business days.
+(a1)
+Failure to supply the information required by the NCA shall be cause for rejection of the application.
+(a2)
+A copy of the permit of temporary variance must be kept on file by the municipal clerk for public inspection.
+(b)
+The NCA shall charge the applicant a fee of $25.00 to cover expenses resulting from the processing of the application for a permit of temporary variance.
+(c)
+The NCA shall limit the duration of the permit of temporary variance, which, in any event, shall be effective no longer than 14 days. Any person holding a permit of temporary variance and requesting an extension of time shall apply for a new permit of temporary variance according to the provisions of this section. An extension of 14 days may be granted without a second hearing in the event that there have been no complaints received by the NCA. If complaints have been received, a new application and hearing shall be required.
+(d)
+No temporary variance shall be approved unless the applicant presents adequate proof that:
+(1)
+Noise levels occurring during the period of the temporary variance will not constitute a danger to public health; and
+(2)
+Compliance with the article would impose an unreasonable hardship on the applicant without some benefit to the public that will result from the completion of the activity requiring the variance.
+(3)
+That the required notice has been posted at the site where the temporary variance is sought that a request for temporary variance has been requested and the date on which the application has been submitted. Proof of the posting of such notice shall be by affidavit signed by the applicant.
+(e)
+In making the determination of granting a temporary variance after having made a finding that adequate proof was provided by the applicant as required in this article, the NCA shall consider the following factors:
+(1)
+The character and degree of interference with, the health and welfare or the reasonable use of property that is caused or threatened to be caused;
+(2)
+The level of interference to the peaceful enjoyment of adjoining property or the public right-of-way above that which is allowed under this article if the temporary variance is denied; and
+(3)
+The ability of the applicant to apply the best practical noise control measures.
+(4)
+Any comments received from persons residing or operating businesses located within 500 feet of any property line at the site where the variance is requested.
+(f)
+The NCA shall notify the applicant in writing of his or her determination on the application within 14 days after receipt of the application but no sooner than seven days after receipt of the application. This notification shall inform the applicant of whether a permit for temporary variance has been approved or denied; and, if approved, shall set forth the location, dates and times of temporary variance.
+(g)
+In the event a permit for temporary variance shall be denied, the aggrieved applicant shall have the right to a hearing before the chief of police or his or her designee, who may be a hearing officer appointed for that purpose, provided that the request for such hearing is made to the NCA within five days after receipt of the notice. Notices that are given only by mail shall be presumed to have been received three days after the mailing. Notices given in person, hand-delivered to the address of the applicant or sent by facsimile transmission or electronic mail shall be presumed to have been delivered on the date given or sent.
+(1)
+Hearings contesting the matters in the NCA's notice shall be held before the chief of police or the designee, shall be informal, and shall be scheduled within five business days after receipt of the request for a hearing by the NCA. The hearing may be continued at the request of the applicant or to allow the attendance of any necessary party or witness, but only from day to day. The determination on such hearing shall be made at the conclusion of the hearing, and the chief of police or the designee shall issue a written determination within one business day thereafter, which determination shall affirm or reverse the decision of the NCA.
+(2)
+The hearing under this section shall be de novo and shall be informal. Such hearing shall evaluate the decision of the NCA and the application in accordance with the criteria of this article.
+(3)
+The written determination of the chief of police or the designee upon the conclusion of the hearing as provided in this section shall be the final decision of the city in the matter, and such a determination shall be subject to review by the Superior Court of Fulton County by a petition setting forth an appeal and naming the City of Atlanta as the defending party.
+(h)
+The permit of temporary variance may be revoked by the NCA if the terms of the permit of temporary variance are violated.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-140. - Enforcement procedures.
+(a)
+Violation of any provision of this article shall be cause for a citation to be issued by a police officer or NCO according to procedures set forth in the City Code of Ordinances.
+(b)
+In lieu of issuing a citation, a police officer or NCO may issue an order or warning notice requiring abatement of any sound source alleged to be in violation of this article within a reasonable time period and according to guidelines that the police officer or NCO may prescribe and document in writing. Failure to follow such guidelines shall not be a separate offense but any police officer or NCO may consider the failure to follow such order when making subsequent enforcement decisions.
+(c)
+Penalties. Any person convicted of a violation of any provision of this article shall be subject to the following penalties:
+(1)
+A fine not more than $1,000.00, or a period of confinement in the city jail not to exceed ten days and a probationary period not to exceed 180 days, or both.
+(2)
+In addition to any other penalties provided in this section, the judge may issue an order requiring abatement of any noise source found to be in violation of this article within a reasonable time period, not to exceed 60 days, and according to any guidelines that the court may prescribe.
+a.
+Any person ordered to abate any noise source found to be in violation of any provision of this article shall demonstrate to the NCA compliance with any order requiring abatement at or before the time ordered.
+b.
+Any person failing to abate any noise source in the manner ordered by the municipal court shall be guilty of a separate offense under this section that may be prosecuted by the municipal court in any manner as is used to enforce its orders in addition to such other punishment that the court may impose for additional violation of this article.
+c.
+Any person failing to abate any noise source found to be in violation of any provision of this article may be liable to the city for reasonable costs and expenses incurred by the city in abating a violation.
+(3)
+Each day during which any violation occurs shall constitute an additional, separate, and distinct offense.
+(d)
+No provision of this article shall be construed to impair any common law or statutory cause of action, or legal remedy therefrom, of any person for injury or damage arising from any violation of this article or from other law.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-140A. - Request for SLM reading for business operations.
+(a)
+The city recognizes the need to balance the level of noise associated with the reasonable and legal operation of businesses with the level of noise which is generally present in a highly populated urban environment and to provide for a method to assist businesses with understanding the noise levels which generate complaints. In furtherance of this policy, any business that is the subject of a complaint for which a citation could be issued under section 74-136(b) may request an SLM measurement by an NCO upon their reasonable belief that the noise level of their business operation would not be in violation of section 74-136(a) if an SLM reading was taken.
+(b)
+A request from a business for an SLM reading shall be deemed to be sufficient under this article if it is made at the time that an NCO or police officer appears at the premises to investigate a complaint under this article.
+(1)
+In the event that a police officer requests that an NCO take a reading, the business in question may continue operations until such reading is taken but it shall not remove the officer's discretion to issue a citation under section 74-136(b) if the business alters or ceases that part of the operation producing the noise to avoid the confirmation of a violation through the SLM reading and recommences operations within the next 12 hours.
+(2)
+A police officer who chooses not to issue a citation upon a good faith belief that the noise level of the business operation would not be in violation of this article if an SLM reading is taken by an NCO is not required to seek such reading unless requested by the business to determine whether they are in compliance.
+(3)
+A business must possess a valid business license to conduct the type of business being carried on at the location where the complaint arises before the option to permit SLM reading shall be considered. If a business license cannot be produced or the business operation does not have a valid business license, a police officer may issue a citation pursuant section 74-136(b) in addition to citation for any other violations of the City Code.
+(c)
+In the event that an SLM reading confirms a violation of this article, a citation shall be issued under section 74-136(a).
+(d)
+No police officer shall be required to honor a request for SLM reading if such request is made within 30 days after a citation for a violation of section 74-136(a) was issued unless the citation has been dismissed or the business can document that noise remediation efforts have been undertaken.
+(e)
+Where an SLM measurement is not reasonably available, no police officer or NCO shall be prevented from issuing a citation for a violation of section 74-136(b) but if the failure to conduct such SLM measurement is offered in defense of the citation, proof of the reasonableness of the decision not to conduct such SLM measurement shall be in the discretion of the municipal court. It is the intention of this section to allow SLM readings to be made available to a business whenever reasonably possible.
+(Ord. No. 2013-03(12-O-0774), § 2(Attach. A), 1-31-13)
+Sec. 74-141. - Inconsistent provisions.
+Insofar as the provisions of this article are inconsistent with any provision of any other title of the Code, or any rule or regulation of any government agency of the city, then the provisions of this noise control code shall be controlling.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Sec. 74-142. - Severability.
+If any provision, clause, sentence or paragraph of this article, or the application thereof to any person or circumstances, shall be held invalid, such invalidity shall not affect the other provisions or application of the provisions of this article which can be given effect without the invalid provisions or application and, to this end, the provisions of this article are hereby declared to be severable.
+(Ord. No. 2013-03(12-O-0774), § 1(Attach. A), 1-31-13)
+Secs. 74-143—74-160. - Reserved.
