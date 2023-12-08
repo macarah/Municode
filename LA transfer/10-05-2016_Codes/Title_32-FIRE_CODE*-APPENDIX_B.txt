@@ -1,0 +1,31 @@
+APPENDIX B
+
+B104.2 - Area Separation.
+Portions of buildings which are separated by fire walls without openings, constructed in accordance with the Los Angeles County Building Code, are allowed to be considered as separate fire-flow calculation areas. Fire barriers or fire partitions cannot be used to create separate fire-flow calculation areas.
+(Ord. 2014-0014 § 247, 2014.)
+B105.1 - One-family dwellings.
+The minimum fire-flow requirements for one-family dwellings having a fire-flow calculation area that does not exceed 3,600 square feet (344.5 m 2 ) shall be as follows:
+1.
+For dwellings located on a lot of one acre or more, which are not located in a High or Very High Fire Hazard Severity Zones, the fire-flow shall be 750 gallons per minute (2,839 L/min) for a duration of two hours and public hydrants shall be spaced not more than 600 feet apart.
+2.
+For dwellings located on a lot less than one acre, which are not located in a High or Very High Fire Hazard Severity Zones, the fire-flow shall be 1,250 gallons per minute (4,732 L/min) for a duration of two hours and public hydrants shall be spaced not more than 600 feet apart.
+3.
+For dwellings located on a lot of one acre or more in High and Very High Fire Hazard Severity Zones, the fire-flow shall be 1,000 gallons per minute (3,785.4 L/min) for a duration of two hours and public hydrants shall be spaced not more than 600 feet apart.
+4.
+For dwellings located on a lot less than one acre in High and Very High Fire Hazard Severity Zones, the fire-flow shall be 1,250 gallons per minute (4,731.8 L/min) for a duration of two hours and public hydrants shall be spaced not more than 600 feet apart. Fire-flow and flow duration for one-family dwellings having a fire-flow calculation area in excess of 3,600 square feet (344.5 m 2 ) shall not be less than that specified in Table B105.1.
+Exception: For one-family dwellings having a fire-flow calculation area in excess of 3,600 square feet (344.5 m 2 ), a reduction in required fire-flow of up to 50 percent, as approved, is allowed when the building is provided with an approved automatic sprinkler system. The resulting fire-flow shall not be less than 1,000 gallons per minute for the prescribed duration as specified in Table B105.1.
+(Ord. 2014-0014 § 248, 2014.)
+B105.1.1 - Two-Family Dwellings.
+The minimum fire-flow requirements for two-family dwellings having a fire-flow calculation area which does not exceed 3,600 square feet (344.5 m 2 ) shall be 1,500 gallons per minute (5,678 L/min). Fire-flow and flow duration for two-family dwellings having a fire-flow calculation area in excess of 3,600 square feet (344.5 m 2 ) shall not be less than that specified in Table B105.1.
+Exception: A reduction in required fire-flow of up to 50 percent, as approved, is allowed for two-family dwellings when the building is provided with an approved automatic sprinkler system. The resulting fire-flow shall not be less than 2,000 gallons per minute for the prescribed duration as specified in Table B105.1.
+(Ord. 2014-0014 § 249, 2014.)
+B105.2 - Buildings Other Than One- and Two-family Dwellings.
+The minimum fire-flow and flow duration for buildings other than one- and two-family dwellings shall be as specified in Table B105.1.
+Exception: A reduction in required fire-flow of up to 50 percent, as approved, is allowed when the building is provided with an approved automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2. The resulting fire-flow shall not be less than 2,000 gallons per minute (5,678 L/min) for the prescribed duration as specified in Table B105.1.
+(Ord. 2014-0014 § 250, 2014.)
+B105.3 - Mobile Home Parks.
+The required fire-flow for mobile home parks located in the Very High Fire Hazard Severity Zones shall be 4,000 gallons per minute (15,141.6 L/min) for a duration of two hours and with public hydrant spacing of not more than 600 feet apart. For recreational buildings located within a mobile home park, the fire-flow and duration shall be according to the fire-flow calculation area set forth in Table B105.1. For mobile home parks not located in the Very High Fire Hazard Severity Zones, the required fire-flow shall be 1,250 gallons per minute (4,731.8 L/min) for a duration of two hours and with public hydrant spacing of not more than 600 feet apart.
+(Ord. 2014-0014 § 251, 2014.)
+B105.4 - Land Subdivision Projects.
+For the subdivision of undeveloped land, due to the undetermined building size and type of construction, the required fire-flow shall be 5,000 gallons per minute (18,927 L/min) for a duration of five hours with public hydrant spacing of 300 feet. The required fire-flow for the subdivision of land consisting of lots having existing structures shall be in accordance with Table B105.1 for fire-flow and duration.
+(Ord. 2014-0014 § 252, 2014.)

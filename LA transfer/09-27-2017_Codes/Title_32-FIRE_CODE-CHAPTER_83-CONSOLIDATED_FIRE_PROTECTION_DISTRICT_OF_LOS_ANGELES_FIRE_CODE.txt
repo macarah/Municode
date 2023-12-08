@@ -1,0 +1,258 @@
+CHAPTER 83 - CONSOLIDATED FIRE PROTECTION DISTRICT OF LOS ANGELES FIRE CODE
+
+8301 - FIRE CODE ADOPTED
+Title 32 (Fire Code) of the Los Angeles County Code is hereby adopted and incorporated herein by reference at this point as if set forth at length herein as the Fire Code for the Consolidated Fire Protection District of Los Angeles County (District).
+A copy of Title 32 of the Los Angeles County Code has been filed in the Executive Office of the Board of Supervisors and shall be at all times maintained by the executive office for use and inspection by the public.
+(Ord. 2017-0003 § 254, 2017.)
+8302 - AREAS REGULATED
+The District finds and declares that this code does not occupy the whole area of any subject matter regulated or covered therein except where this code expressly states its intent to occupy the whole area of any subject matter regulated or covered therein.
+Thus, in enacting this ordinance, it is not the intent of the District to preempt or otherwise nullify any other local ordinance containing different standards and protections.
+(Ord. 2017-0003 § 254, 2017.)
+8303 - APPLICABILITY
+Except as provided in California Health and Safety Code Section 13869.7, this code shall apply to, and be enforceable in, all areas, including cities and unincorporated areas, served by the District. All references in this code to the Los Angeles County Building Code, Residential Code, Mechanical Code, Plumbing Code, Green Building Standards Code, Fire Code, and Electrical Code shall mean the appropriate legally applicable code adopted by each incorporated city that is a part of the District, or receives services from the District.
+(Ord. 2017-0003 § 254, 2017.)
+B103.3 - Areas Without Water Supply Systems.
+Parcels that are located outside the service boundary, above the existing pressure zone, or more than 2,000 lineal feet (609.6 m) from an existing water main of a water purveyor may provide an on-site water supply, when approved by the fire code official. For one-family dwellings the water supply shall be in accordance with Table B103.3. For other than one-family dwellings, the water supply shall be in accordance with NFPA 1142 or NFPA 13 water supply requirement, whichever is greater.
+(Ord. 2017-0003 § 255, 2017.)
+Table B103.3
+Tank Sizes for One-Family Dwellings
+EXPAND
+Fire flow calculation area Tank size
+0-3,600 square feet 13,000 gal
+3,601-5,999 square feet 16,500 gal
+6,000 square feet and greater 20,000 gal
+  (Ord. 2017-0003 § 256, 2017.)
+B104.2 - Area Separation.
+Portions of buildings which are separated by fire walls without openings, constructed in accordance with the Los Angeles County Building Code, are allowed to be considered as separate fire-flow calculation areas. Fire barriers or fire partitions cannot be used to create separate fire-flow calculation areas.
+(Ord. 2017-0003 § 257, 2017.)
+B105.1 - One- and Two-Family Dwellings, and Group R-3 Buildings.
+The minimum fire-flow and flow duration requirements for one- and two-family dwellings, and Group R-3 buildings shall be as specified in Tables B105.1(1) and B105.1(2).
+Exception: The minimum fire-flow for one- and two-family dwellings, and Group R-3 buildings located in a fire hazard zone shall not be less than 1,250 gallons (15,141.6 L/min) per minute.
+(Ord. 2017-0003 § 258, 2017.)
+B105.2 - Buildings Other Than One- and Two-Family Dwellings, and Group R-3 Buildings.
+The minimum fire-flow and flow duration for buildings other than one- and two-family dwellings, and Group R-3 buildings shall be as specified in Tables B105.2 and B105.1(2).
+(Ord. 2017-0003 § 259, 2017.)
+B105.3 - Mobile Home Parks.
+The required fire-flow for mobile home parks shall be 1,250 gallons per minute (4731.765 L/min) (2,000 gallons (7570.824 L/min) per minute in the high fire hazard severity zones) for a duration of two hours and with public hydrant spacing of not more than 600 feet (182.88 m) apart. For recreational buildings located within a mobile home park, the fire-flow and duration shall be according to the fire-flow calculation area set forth in Table B105.1(2).SECTION 261. Appendix B, Section B105.4 is hereby added to read as follows:
+(Ord. 2017-0003 § 260, 2017.)
+B105.4 - Land Subdivision Projects.
+For the subdivision of undeveloped land for other than single-family dwellings, due to the undetermined building size and type of construction, the required fire-flow shall be 4,000 gallons per minute (15,141.6 L/min) for a duration of four hours with public hydrant spacing of 300 feet (91.44 m). The required fire-flow for the subdivision of land consisting of lots having existing structures shall be in accordance with Table B105.1(2) for fire-flow and duration.
+(Ord. 2017-0003 § 261, 2017.)
+Table B105.1(1)
+Required Fire Flow for One- and Two-Family Dwellings and Group R-3 Buildings
+EXPAND
+FIRE-FLOW CALCULATION AREA
+(square feet) AUTOMATIC SPRINKLER SYSTEM
+(Design Standard) MINIMUM FIRE-FLOW
+(gallons per minute) FLOW DURATION
+(hours)
+0-3,600 No automatic sprinkler system 1,000 1
+3,601 and greater No automatic sprinkler system Value in Table B105.1(2) Duration in Table B105.1(2) at the required fire-flow rate
+0-3,600 Section 903.3.1.3 of the Los Angeles County Fire Code or Section R313.3 of the Los Angeles County Residential Code 500 1/2
+3,601 and greater Section 903.3.1.3 of the Los Angeles County Fire Code or Section R313.3 of the Los Angeles County Residential Code 1½ value in Table B105.1(2) 1
+  For SI:_ 1 square foot = 0.0929 m 2 , 1 gallon per minute = 3.785 L/m.
+(Ord. 2017-0003 § 262, 2017.)
+Table B105.2
+Required Fire Flow for Buildings Other Than One- and Two-Family Dwellings, and Group R-3 Buildings
+EXPAND
+AUTOMATIC SPRINKLER SYSTEM
+(Design Standard) MINIMUM FIRE-FLOW
+(gallons per minute) FLOW DURATION
+(hours)
+No automatic sprinkler system Value in Table B105.1(2) Duration in Table Bl05.1(2)
+Section 903.3.1.1 or 903.3.1.2 of the Los Angeles County Fire Code 50% of the value in Table B 105.1(2) a Duration in Table B 105.1(2) at the reduced flow rate
+  For SI: 1 gallon per minute = 3.785 L/m.
+a.  The reduced fire-flow shall be not less than 1,500 gallons per minute.
+(Ord. 2017-0003 § 263, 2017.)
+C101.1 - Scope.
+Fire hydrants shall be provided in accordance with this appendix for the protection of buildings, or portions of buildings, hereafter constructed or moved into the jurisdiction.
+Exception: [SFM] Group B, S-2 and U occupancies having a floor area not exceeding 1,000 square feet, primarily constructed of non-combustible exterior walls with wood or steel roof framing, having a Class A roof assembly, with uses limited to the following or similar uses:
+1.
+California State Parks buildings of an accessory nature (restrooms).
+2.
+Safety roadside rest areas (SRRA), public restrooms.
+3.
+Truck inspection facilities (TIF), CHP office space and vehicle inspection bays.
+4.
+Sand/salt storage buildings, storage of sand and salt.
+(Ord. 2017-0003 § 264, 2017.)
+C102 - LOCATION.
+(Ord. 2017-0003 § 265, 2017.)
+C102.1 - Fire Hydrant Locations.
+Fire hydrants shall be provided at intersections and along required fire apparatus access roads and adjacent public streets.
+(Ord. 2017-0003 § 266, 2017.)
+C102.2 - Location on Street.
+Public hydrants shall be required on both sides of the street whenever streets are 64 feet or greater in width containing four or more traffic lanes or have raised median center dividers that make access to hydrants difficult, cause time delays, and/or create an undue hazard as determined by the fire code official.
+(Ord. 2017-0003 § 267, 2017.)
+C103 - NUMBER OF HYDRANTS
+C103.1 - Fire Hydrants Available.
+The minimum number of fire hydrants available to a building, complex or subdivision shall not be less than that determined by the spacing requirements in Section C105 and Section C106 when applied to fire apparatus access roads and perimeter public streets from which fire operations could be conducted.
+(Ord. 2017-0003 § 268, 2017.)
+C103.2 - Deleted.
+(Ord. 2017-0003 § 269, 2017.)
+C103.3 - Deleted.
+(Ord. 2017-0003 § 270, 2017.)
+C104.1 - Existing Fire Hydrants.
+Existing fire hydrants on public streets are allowed to be considered as available. Existing fire hydrants on adjacent properties shall not be considered unless fire apparatus access roads extend between properties and easements are established to prevent obstruction of such roads.
+(Ord. 2017-0003 § 271, 2017.)
+Appendix C, Table C102.1 - Deleted.
+(Ord. 2017-0003 § 272, 2017.)
+C105 - DISTRIBUTION OF FIRE HYDRANTS
+(Ord. 2017-0003 § 273, 2017.)
+C105.1 - Hydrant Spacing.
+Fire hydrants shall be spaced in accordance with Sections C105.2 through C105.4.
+(Ord. 2017-0003 § 274, 2017.)
+C105.2 - One- and Two-Family Dwellings, and Group R-3 Buildings.
+For one- and two-family dwellings, and Group R-3 buildings, fire hydrants shall be spaced no more than 600 feet (182.88 m) apart. For urban properties with more than one dwelling unit per acre, no portion of lot frontage should be more than 450 feet (137.16 m) away, via vehicular access, from a public hydrant. For non-urban properties less than one dwelling unit per acre, no portion of a structure shall be farther than 750 feet (228.6 m) away, via vehicular access, from a properly spaced public hydrant that meets the required fire-flow.
+(Ord. 2017-0003 § 275, 2017.)
+C105.3 - Buildings Other than One- and Two-Family Dwellings, and Group R-3 Buildings.
+For all occupancies other than one- and two-family dwellings, and Group R-3 buildings, including commercial, industrial, multi-family dwellings, private schools, and institutions, fire hydrant spacing shall be 300 feet (91.44 m). No portion of lot frontage shall be more than 200 feet (60.96 m) from, via vehicular access, a public hydrant. No portion of a building shall be more than 400 feet (121.92 m) from, via vehicular access, a properly spaced public hydrant.
+(Ord. 2017-0003 § 276, 2017.)
+C105.4 - Cul-de-Sac Hydrant Location.
+When cul-de-sac depth exceeds 450 feet (137.16 m) (residential) or 200 feet (60.96 m) (commercial), hydrants shall be required at mid-block. Additional hydrants will be required if hydrant spacing exceeds specified distances in Sections C105.2 and C105.3.
+(Ord. 2017-0003 § 277, 2017.)
+C106 - On-Site Hydrants.
+C106.1 - Required On-Site Hydrants.
+When any portion of a proposed structure exceeds the allowable distances from a public hydrant, via vehicular access, on-site hydrants shall be provided. The spacing distance between on-site hydrants shall be 300 to 400 feet (91.44 to 121.92 m). All on-site fire hydrants shall have, at a minimum, a fire-flow of 1,250 gallons per minute (4732 L/min) at 20 psi (137.895 kPa) for a duration of two hours. If more than one on-site fire hydrant is required, the fire-flow shall be in accordance with Table B105.1. All on-site hydrants shall be installed a minimum of 25 feet (7620 mm) from a structure or protected by a two-hour firewall.
+Exception: For fully sprinklered multi-residential structures, on-site hydrants may be installed a minimum of 10 feet (3.05 m) from the structure.
+(Ord. 2017-0003 § 278, 2017.)
+D101.1 - Scope.
+Fire apparatus access roads shall be in accordance with Section 503, this appendix, and all other applicable requirements of the Los Angeles County Fire Code.
+(Ord. 2017-0003 § 279, 2017.)
+D102.1 - Access and Loading.
+Facilities, buildings or portions of buildings hereafter constructed shall be accessible to Fire Department apparatus by way of an approved fire apparatus access road with an asphalt, concrete or other approved driving surface capable of supporting the imposed load of fire apparatus weighing at least 75,000 pounds (34,050 kg).
+Exception: For single lot single-family residential developments, the fire apparatus access road must be capable of supporting the imposed load of fire apparatus weighing at least 50,000 pounds (22,700 kg).
+(Ord. 2017-0003 § 280, 2017.)
+Appendix D, Figure D103.1 - Deleted.
+(Ord. 2017-0003 § 281, 2017.)
+D103.1 - Single Lot Single-Family Residential.
+Fire apparatus access roads shall have an unobstructed width of not less than 20 feet (6096 mm) exclusive of shoulders and an unobstructed vertical clearance of clear to the sky.
+(Ord. 2017-0003 § 282, 2017.)
+D103.2 - Commercial, Industrial, and Multiple-Family Residential Developments.
+For buildings not exceeding three stories or with an eave height not exceeding 30 feet (9144 mm) in height, fire apparatus access roads shall have an unobstructed width of not less than 26 feet (7925 mm) exclusive of shoulders and an unobstructed vertical clearance of clear to the sky.
+For buildings exceeding three stories or with an eave height exceeding 30 feet (9144 mm) in height, fire apparatus access roads shall have an unobstructed width of not less than 28 feet (8535 mm) exclusive of shoulders and an unobstructed vertical clearance of clear to the sky.
+(Ord. 2017-0003 § 283, 2017.)
+D103.3 - Access Road Width With a Hydrant.
+Where a fire hydrant is located on a fire apparatus access road, the minimum road width shall be 26 feet (7925 mm), for a distance of 25 feet (7620 mm) on each side of the hydrant, exclusive of shoulders.
+(Ord. 2017-0003 § 284, 2017.)
+D103.4 - Grade.
+Fire apparatus access roads shall not exceed 15 percent in grade.
+Exception: For a fire apparatus access road serving no more than two single-family dwellings, grades shall not exceed 20 percent when approved by the fire code official. Grades between 15.1 percent and 20 percent shall not exceed a maximum cumulative total of 500 feet (152.4 m) as measured over the entire length of the access roadway.
+(Ord. 2017-0003 § 285, 2017.)
+D103.5 - Turning Radius.
+The minimum turning radius shall be not less than 32 feet (9754 mm) when measured at the centerline of the required access roadway.
+(Ord. 2017-0003 § 286, 2017.)
+D103.6 - Dead-Ends.
+Dead-end fire apparatus access roads in excess of 150 feet (45,720 mm) shall be provided with an approved turnaround. See Figure D103.6(1) and (2). The turnaround shall be oriented on the access roadway in the proper direction of travel.
+(Ord. 2017-0003 § 287, 2017.)
+Appendix D, Section D103.6.1 - Deleted.
+(Ord. 2017-0003 § 288, 2017.)
+Appendix D, Section D103.6.2 - Deleted.
+(Ord. 2017-0003 § 289, 2017.)
+Appendix D, Figure D103.6(1) is hereby added as follows:
+Figure D103.6(1)
+Fire Apparatus Turnaround Standard Pumper
+(Ord. 2017-0003 § 290, 2017.)
+Appendix D, Figure D103.6(2) is hereby added as follows:
+Figure D103.6(2)
+Fire Apparatus Turnaround Standard Aerial Apparatus
+(Ord. 2017-0003 § 291, 2017.)
+Appendix D, Table D103.4 - Deleted.
+(Ord. 2017-0003 § 292, 2017.)
+D103.7 - Fire Apparatus Access Road Gates.
+Gates securing the fire apparatus access roads shall comply with all of the following criteria:
+1.
+Where a single gate is provided, the gate width shall be not less than 20 feet (6096 mm). Where a fire apparatus road consists of a divided roadway, the gate width shall be not less than 15 feet (4572 mm) for residential use and 20 feet (6096 mm) for commercial/industrial uses.
+2.
+Gates shall be of the swinging or sliding type.
+3.
+Construction of gates shall be of materials that allow manual operation by one person.
+4.
+Gate components shall be maintained in an operative condition at all times and replaced or repaired when defective.
+5.
+Electric gates shall be equipped with a means of opening the gate by Fire Department personnel for emergency access. Emergency opening devices shall be approved by the fire code official.
+6.
+Methods of locking shall be submitted for approval by the fire code official.
+7.
+Electric gate operators, where provided, shall be listed in accordance with UL 325.
+8.
+Gates intended for automatic operation shall be designed, constructed, and installed to comply with the requirements of ASTM F 2200.
+(Ord. 2017-0003 § 293, 2017.)
+D103.8 - Signs.
+Where required by the fire code official, fire apparatus access roads shall be marked with permanent "NO PARKING—FIRE LANE" signs complying with Section 22500.1 of the California Vehicle Code. Signs shall have a minimum dimension of 12 inches (305 mm) wide by 18 inches (457 mm) high and have red letters on a white reflective background. Signs shall be posted on one or both sides of the fire apparatus road as required.
+(Ord. 2017-0003 § 294, 2017.)
+D104 - AERIAL FIRE APPARATUS ACCESS ROADS
+(Ord. 2017-0003 § 295, 2017.)
+D104.1 - Where Required.
+Where the vertical distance between the access roadway and the highest roof surface exceeds 30 feet (9144 mm), approved aerial fire apparatus access roads shall be provided. For purposes of this section, the highest roof surface shall be determined by measurement to the eave of a pitched roof, the intersection of the roof to the exterior wall, or the top of parapet walls, whichever is greater.
+(Ord. 2017-0003 § 296, 2017.)
+D104.2 - Width.
+Aerial fire apparatus access roads shall have a minimum unobstructed width of 28 feet (8535 mm), exclusive of shoulders, in the immediate vicinity of the building or portion thereof.
+(Ord. 2017-0003 § 297, 2017.)
+D104.3 - Proximity To Building.
+At least one of the required access routes meeting this condition shall be located within a minimum of 15 feet (4572 mm) and a maximum of 30 feet (9144 mm) from the building, and shall be positioned parallel to one entire side of the building. The side of the building on which the aerial fire apparatus access road is positioned shall be approved by the fire code official.
+Exception: When approved by the fire code official, the required setback may be modified for residential and mixed-use residential developments less than five stories in height when additional fire protection measures are provided.
+(Ord. 2017-0003 § 298, 2017.)
+D104.4 - Obstructions.
+Overhead utility and power lines shall not be located over the aerial fire apparatus access road or between the aerial fire apparatus road and the building. Other obstructions shall be permitted to be placed with the approval of the fire code official.
+(Ord. 2017-0003 § 299, 2017.)
+D105 - REFERENCED STANDARDS
+EXPAND
+ASTM F 2200—13 Standard Specification for Automated Vehicular Gate Construction D103.7
+UL 325—02 Door, Drapery, Gate, Louver, and Window Operators and Systems, with Revisions through June 2013 D103.7
+  (Ord. 2017-0003 § 300, 2017.)
+Appendix D, Section D105.1. - Deleted.
+(Ord. 2017-0003 § 301, 2017.)
+Appendix D, Section D105.2. - Deleted.
+(Ord. 2017-0003 § 302, 2017.)
+Appendix D, Section D105.3. - Deleted.
+(Ord. 2017-0003 § 303, 2017.)
+Appendix D, Section D105.4. - Deleted.
+(Ord. 2017-0003 § 304, 2017.)
+Appendix D, Section D106. - Deleted.
+(Ord. 2017-0003 § 305, 2017.)
+Appendix D, Section D107. - Deleted.
+(Ord. 2017-0003 § 306, 2017.)
+Appendix D, Section D108. - Deleted.
+(Ord. 2017-0003 § 307, 2017.)
+N101.2 - Permits.
+A place of assembly operational permit shall be required to operate temporary amusement haunted houses, ghost walks, or similar amusement uses in accordance with Appendix N101.2.
+(Ord. 2017-0003 § 308, 2017.)
+N101.2.1 - Permit Documents.
+The permit applicant shall submit construction documents for approval which include, at a minimum, a dimensioned site plan and floor plan.
+. . .
+(Ord. 2017-0003 § 309, 2017.)
+N101.3 - Jurisdictional Building and Planning Department Approval.
+Approval to operate a temporary amusement haunted house or similar use or to change the approved use of an existing building, or portion thereof, for temporary amusement haunted house or similar use shall be approved by the jurisdictional building official and planning official prior to the Fire Department's final construction approval and issuance of an operational permit.
+(Ord. 2017-0003 § 310, 2017.)
+N102.2 - TEMPORARY AMUSEMENT HAUNTED HOUSE.
+A temporary building or structure, or portion thereof, which contains a system that transports passengers or provides a walkway through a course so arranged that the means of egresses are not apparent due to theatrical distractions, not visible due to low illumination, are disguised or are not readily available due to the method of transportation through the building or structure usually used during the Halloween season for amusement or entertainment purposes where decorative materials, props, visual effects, or audio effects are utilized to create theatrical environment. A temporary amusement haunted house may be deemed a special amusement building by the fire code official depending on the floor plan layout, lighting, or visual distractions used and the effects those elements have on identifying and accessing the means of egress in the event of a fire or an emergency.
+(Ord. 2017-0003 § 311, 2017.)
+N102.3 - GHOST WALKS.
+Similar to temporary amusement haunted houses and may include both indoor and outdoor areas used for amusement or entertainment purposes.
+(Ord. 2017-0003 § 312, 2017.)
+N102.4 - TEMPORARY.
+Temporary shall mean amusement use of buildings or structures, or portion thereof, at one location for not more than 90 days within a one-year period.
+(Ord. 2017-0003 § 313, 2017.)
+N102.5 - SPECIAL AMUSEMENT BUILDING.
+Any temporary or permanent building or portion thereof that is occupied for amusement, entertainment, or educational purposes, and that contains a device or system that conveys passengers or provides a walkway along, around, or over a course in any direction so arranged that the means of egress path is not readily apparent due to visual or audio distractions or is intentionally confounded or is not readily available because of the nature of the attraction or mode of conveyance through the building or structure.
+(Ord. 2017-0003 § 314, 2017.)
+N103.1 - Allowable Structures.
+Temporary amusement haunted houses, ghost walks, and similar amusement uses which meet the definition of a Special Amusement Building shall only be located in structures that comply with the provisions for Special Amusement Buildings in accordance with the California Building Code, and any applicable requirements in the County Code.
+(Ord. 2017-0003 § 315, 2017.)
+N103.7 - Fire Protection.
+Temporary amusement haunted houses, ghost walks, and similar amusement uses which meet the definition of a Special Amusement Building shall be provided with fire protection systems in accordance with Appendix N103.7.
+. . .
+(Ord. 2017-0003 § 316, 2017.)
+N103.7.2 - Fire Detection Systems.
+An approved automatic fire detection system shall be provided in accordance with Section 907.2.12, as required for Special Amusement Buildings.
+(Ord. 2017-0003 § 317, 2017.)
+N103.7.4 - Emergency Voice Alarm.
+Provide an emergency voice/alarm communication system in accordance with Section 907.2.12.3 as required for Special Amusement Buildings.
+(Ord. 2017-0003 § 318, 2017.)
+N103.9 - Decorative Materials and Interior Finishes.
+Interior wall, ceiling, and floor finishes shall be Class A rated in accordance with the California Building Code, and any applicable requirements in the County Code.
+(Ord. 2017-0003 § 319, 2017.)
+N103.15 - Maintenance.
+Good housekeeping shall be maintained at all times throughout exhibit and exit pathways. The means of egress system shall not be obstructed during event operation.
+(Ord. 2017-0003 § 320, 2017.)
