@@ -1,0 +1,16 @@
+CHAPTER 22 - STEEL
+
+SECTION 2204 - CONNECTIONS
+2204.1.1   Consumables for welding.
+2204.1.1.1   Seismic force resisting system (SFRS) welds.
+All welds used in members and connections in the SFRS shall be made with filler metals meeting the requirements specified in AWS D1.8, Clause 6.3. AWS D1.8, Clauses 6.3.5, 6.3.6, 6.3.7, and 6.3.8 shall apply only to demand critical welds.
+(Ord. 2010-0053 § 54, 2010.)
+2204.1.1.2   Demand critical welds.
+Where welds are designated as demand critical, they shall be made with filler metals meeting the requirements specified in AWS D1.8, Clause 6.3.
+(Ord. 2010-0053 § 54, 2010.)
+SECTION 2205 - STRUCTURAL STEEL
+2205.3   Seismic requirements for composite construction.
+2205.4   Modifications to AISC 341, Part I, Section 13, Special Concentrically Braced Frames (SCBF) Modifications.
+Add a new section as follows:
+AISC 341, 13.2f - Member Types. The use of rectangular HSS are not permitted for bracing members, unless filled solid with cement grout having a minimum compressive strength of 3000 psi (20.7 MPa) at 28 days. The effects of composite action in the filled composite brace shall be considered in the sectional properties of the system where it results in the more severe loading condition or detailing.
+(Ord. 2007-0108 § 14, 2007.)
