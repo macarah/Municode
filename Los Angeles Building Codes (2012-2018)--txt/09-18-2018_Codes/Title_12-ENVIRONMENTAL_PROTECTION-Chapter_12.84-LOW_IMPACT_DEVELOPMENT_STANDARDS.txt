@@ -1,0 +1,227 @@
+Chapter 12.84 - LOW IMPACT DEVELOPMENT STANDARDS
+
+12.84.410 - Purpose.
+The purposes of this chapter are as follows:
+A.
+Lessen the adverse impacts of stormwater runoff from development and urban runoff on natural drainage systems, receiving waters and other water bodies.
+B.
+Minimize pollutant loadings from impervious surfaces by requiring development projects to incorporate properly designed, technically appropriate BMPs and other LID strategies.
+C.
+Minimize erosion and other hydrologic impacts on natural drainage systems by requiring development projects to incorporate properly designed, technically appropriate hydromodification control development principles and technologies.
+D.
+The provisions in this Chapter 12.84 shall be construed to augment any county, state, or federal ordinance, statute, regulation, or other requirement governing the same or related matter, and where a conflict exists between a provision in this Chapter 12.84 and such other ordinance, statute, regulation, or requirement, the stricter provision shall apply to the extent permitted by law.
+(Ord. 2013-0044 § 1, 2013: Ord. 2008-0063 § 1 (part), 2008.)
+12.84.420 - Definitions.
+The following definitions shall apply to this chapter:
+A.
+"Basin Plan" means the Water Quality Control Plan, Los Angeles Region, Basin Plan for Coastal Watersheds of Los Angeles and Ventura Counties, adopted by the Regional Water Board on June 13, 1994 and subsequent amendments.
+B.
+"Beneficial Use" means the existing or potential use of receiving waters as designated by the Los Angeles or Lahontan Regional Water Quality Control Boards in their respective basin plans for the County.
+C.
+"Best Management Practices ("BMPs")" are practices or physical devices or systems designed to prevent or reduce pollutant loading from stormwater or non-stormwater discharges to receiving waters, or designed to reduce the volume of stormwater or non-stormwater discharged to the receiving water.
+D.
+"Capital Flood" means the runoff produced by a fifty (50)-year frequency design storm falling on a saturated watershed (soil moisture at field capacity). A fifty (50)-year frequency design storm has a probability of 1/50 of being equaled or exceeded in any year.
+E.
+"County" means the County of Los Angeles.
+F.
+"Designated Project" means any development project described in subsection A of Section 12.84.430.
+G.
+"Development" means activity requiring discretionary or non-discretionary land use or construction approval from the County that results in the creation, addition, modification, or replacement of impervious surface area, which replacement is not part of routine maintenance activity. Development includes, but is not limited to, land subdivisions; the construction, installation, addition, or replacement of a building or structure; expansion of a building footprint; and land-disturbing activities related to structural or impervious surfaces. Development shall not include routine maintenance of original lines and grades and/or hydraulic capacity.
+H.
+"Director" means the Director of Public Works.
+I.
+"Excess Volume" means the additional volume of stormwater caused by development; excess volume is determined by calculating the difference in the volume of runoff under undeveloped and post-developed conditions, using the water quality design storm event.
+J.
+"Hardscape" means any durable, pervious or impervious surface material, including paving for pedestrians and vehicles.
+K.
+"Hydromodification" means the alteration of a natural drainage system through a change in the system's flow characteristics.
+L.
+"Low Impact Development ("LID")" means technologies and practices that are part of a sustainable stormwater management strategy that controls stormwater and urban runoff on site.
+M.
+"Natural Drainage System" means any unlined or unimproved (not engineered) creek, stream, river, or similar waterway.
+N.
+"Non-designated Project" means any development project that is not included in subsection A of Section 12.84.430.
+O.
+"Pollutants of Concern" means chemical, physical, or biological components of stormwater that impair the beneficial uses of receiving waters, including those defined in the Federal Clean Water Act section 502(6) (33 United States Code section 1362(6)), and incorporated by reference into California Water Code section 13373.
+P.
+"Public Works" means the Los Angeles County Department of Public Works.
+Q.
+"Receiving Water" means a "water of the United States" (as defined in 33 C.F.R. section 328.3(a)(7)) into which waste and/or pollutants are or may be discharged.
+R.
+"Regional Water Board" means the California Regional Water Quality Control Board, Los Angeles Region.
+S.
+"Softscape" means the horticultural elements of a landscape, such as soil and plants.
+T.
+"Standard Industrial Classification (SIC)" means a classification pursuant to the current edition of the Standard Industrial Classification Manual issued by the Executive Office of the President of the United States, Office of Management and Budget, and as the same may be periodically revised.
+U.
+"Stormwater" means runoff that occurs as the result of rainfall.
+V.
+"Stormwater Quality Design Volume ("SQDv")" means the runoff generated by a water quality design storm event.
+W.
+"Urban Runoff" means surface flows, other than stormwater, emanating from development.
+X.
+"Water Quality Design Storm Event" means any of the volumetric or flow rate based design storm events for water quality BMPs identified in the National Pollutant Discharge Elimination System Municipal Stormwater Permit for the County of Los Angeles.
+(Ord. 2013-0044 § 2, 2013: Ord. 2008-0063 § 1 (part), 2008.)
+12.84.430 - Applicability.
+A.
+Designated Projects. The following development projects shall comply with the provisions of subsection C of Section 12.84.440, below:
+1.
+All new development projects involving one (1) acre or greater of disturbed area and adding more than ten thousand (10,000) square feet of impervious surface area;
+2.
+New industrial parks with ten thousand (10,000) square feet or more of surface area;
+3.
+New commercial malls with ten thousand (10,000) square feet or more of surface area;
+4.
+New retail gasoline outlets with five thousand (5,000) square feet or more of surface area;
+5.
+New restaurants (SIC 5812) with five thousand (5,000) square feet or more of surface area;
+6.
+New parking lots with five thousand (5,000) square feet or more of impervious surface area, or with twenty-five (25) or more parking spaces;
+7.
+New automotive service facilities (SIC 5013, 5014, 5511, 5541, 7532-7534 and 7536-7539) with five thousand (5,000) square feet or more of surface area;
+8.
+New development located in or directly adjacent to or discharging directly to a Significant Ecological Area ("SEA"), as defined in Section 22.08.190 of Title 22 of this Code, which will discharge stormwater runoff that is likely to impact a sensitive biological species or habitat and create two thousand five hundred (2,500) square feet or more of impervious surface area; and
+9.
+Redevelopment Projects. Development that results in the creation or addition or replacement of either: (i) five thousand (5,000) square feet or more of impervious surface area on a site that has been previously developed as described in subsections 1-8, above; or (ii) ten thousand (10,000) square feet or more of impervious surface area on a site that has been previously developed with a single family home.
+a.
+Where more than fifty percent (50%) of impervious surfaces of a previously developed site is proposed to be altered, and the previous development project was not subject to post-construction stormwater quality control requirements, the entire development site (i.e., both the existing development and the proposed alteration) shall comply with the provisions of subsection C of Section 12.84.440, below.
+b.
+Where less than fifty percent (50%) of impervious surfaces of a previously developed site is proposed to be altered, and the previous development project was not subject to post-construction stormwater quality control requirements, only the proposed alteration shall comply with the provisions of subsection C of Section 12.84.440, and not the entire development site.
+c.
+Redevelopment does not include routine maintenance activities that are conducted to maintain original line and grade, hydraulic capacity, original purpose of facility or emergency redevelopment activity required to protect public health and safety. Impervious surface replacement, such as the reconstruction of parking lots and roadways which does not disturb additional area and maintains the original grade and alignment, is considered a routine maintenance activity. Redevelopment does not include the repaving of existing roads to maintain original line and grade.
+B.
+Non-designated Projects. Any development project that is not included in subsection A, shall comply with the provisions of subsection D of Section 12.84.440, as follows:
+1.
+Where the development project involves a previously undeveloped site or results in an addition or alteration of at least fifty percent (50%) of the impervious surfaces of an existing developed site, the entire site shall be brought into compliance with the provisions of subsection D of Section 12.84.440.
+2.
+Where the development project results in an addition or alteration of less than fifty percent (50%) of the impervious surfaces of an existing developed site, only such incremental development shall comply with the provisions of subsection D of Section 12.84.440.
+C.
+Street and Road Construction. In addition to complying with all other applicable provisions of Section 12.84.440, development projects involving street and road construction of ten thousand (10,000) square feet or more of impervious surface area shall follow USEPA guidance regarding "Managing Wet Weather with Green Infrastructure: Green Streets 26" (December 2008 EPA-833-F-08-009) to the maximum extent practicable. This subsection applies to standalone streets, roads, highways, and freeway projects, and also applies to streets within larger projects.
+D.
+Single Family Hillside Homes. In addition to complying with all other applicable provisions of Section 12.84.440, development projects involving the construction of a single-family home in a hillside management area (as defined in Section 22.08.080 of Title 22 of this Code) shall implement the following measures:
+1.
+Conserve natural areas;
+2.
+Protect slopes and channels;
+3.
+Provide storm drain system stenciling and signage;
+4.
+Divert roof runoff to vegetated areas before discharge, unless the diversion would result in slope instability; and
+5.
+Direct surface flow to vegetated areas before discharge unless the diversion would result in slope instability.
+E.
+Exemptions. This chapter shall not apply to any of the following development projects:
+1.
+Any Non-designated Project that results in an addition or alteration of less than fifty percent (50%) of the impervious surfaces of an existing developed site consisting of four (4) or fewer residential units; and
+2.
+Any development project for which a complete discretionary or non-discretionary permit application was filed with the Los Angeles County Department of Regional Planning, Public Works, or any County-controlled design control board, prior to January 1, 2009.
+(Ord. 2013-0044 § 3, 2013: Ord. 2008-0063 § 1 (part), 2008.)
+12.84.440 - Low Impact Development Standards.
+A.
+The LID standards of this chapter:
+1.
+Mimic undeveloped stormwater runoff rates and volumes in any storm event up to and including the Capital Flood;
+2.
+Prevent pollutants of concern from leaving the development site in stormwater as the result of storms, up to and including a Water Quality Design Storm Event; and
+3.
+Minimize hydromodification impacts to natural drainage systems.
+B.
+The Director shall prepare, maintain, and update, as deemed necessary and appropriate, a manual ("LID Standards Manual"), which shall include urban and stormwater runoff quantity and quality control development principles and technologies for achieving compliance with the provisions of this section. The LID Standards Manual shall also include technical feasibility and implementation parameters, as well as other rules, requirements, and procedures as the Director deems necessary, for implementing the provisions of this Chapter 12.84.
+C.
+Designated Projects. To meet the standards described in subsection A of this section, development projects described in subsection A of Section 12.84.430 shall comply with the following requirements:
+1.
+The project shall retain one hundred percent (100%) of the Stormwater Quality Design Volume ("SWQDv") on-site, through infiltration, evapotranspiration, rainfall harvest and use, or a combination thereof, unless the Director determines that it would be technically infeasible to do so;
+2.
+If the Director determines that it would be technically infeasible to retain one hundred percent (100%) of the SWQDv on-site, the project shall comply with one of the following alternative compliance measures:
+a.
+The project shall provide for on-site biofiltration of one and one-half (1.5) times the portion of the SWQDv that is not retained on-site;
+b.
+The project shall include infiltration or bioretention BMPs to intercept the portion of the SWQDv that is not retained on-site at an offsite location, as approved by the Director. The project shall also provide for treatment of the portion of the SWQDv discharged from the project site, as approved by the Director;
+c.
+The project shall provide for the replenishment of groundwater supplies that have a designated beneficial use in the Basin Plan;
+(i)
+Groundwater replenishment projects shall include infiltration, or bioretention BMPs to intercept the portion of the SWQDv that is not retained on-site at an offsite location, as approved by the Director;
+(ii)
+Groundwater replenishment projects shall also provide for treatment of the portion of the SWQDv discharged from the project site, as approved by the Director;
+d.
+The project shall include infiltration, bioretention, or rainfall harvest and use BMPs to retrofit an existing development, with similar land uses as the project, to intercept the portion of the SWQDv that is not retained on-site; or
+e.
+The County, independently or in conjunction with one (1) or more cities, may apply to the Regional Water Board for approval of a regional or sub-regional stormwater mitigation program to substitute in part or wholly for the provisions of this chapter for the area covered by the regional or sub-regional stormwater mitigation program. If the Regional Water Board approves the program, the provisions of the program shall apply in lieu of any conflicting provisions of this chapter.
+D.
+Non-designated Projects. To meet the standards described in subsection A of this section, any development project described in subsection B of Section 12.84.430, above, shall comply with the following requirements:
+1.
+A development project consisting of four (4) or fewer residential units shall implement at least two (2) LID BMP alternatives listed in the LID Standards Manual, which alternatives include, but are not limited to, disconnecting impervious surfaces, using porous pavement, downspout routing, a dry well, landscaping and irrigation requirements, and a green roof;
+2.
+A development project consisting of five (5) or more residential units, or a nonresidential development project, shall comply with the following requirements:
+a.
+The excess volume from each lot upon which such development is occurring shall be infiltrated at the lot level, or in the alternative, the excess volume from the entire development site, including streets and public right-of-way, shall be infiltrated in sub-regional facilities. The tributary area of a sub-regional facility shall be limited to five (5) acres, but may be exceeded with approval of the Director. When the Director determines that infiltration of all excess volume is not technically feasible, on-site storage, reuse, or other water conservation uses of the excess volume is required and shall be implemented as authorized by the Director in accordance with the requirements and provisions specified in the LID Standards Manual; and
+b.
+The runoff from the water quality design storm event associated with the developed site hydrology must be treated to the satisfaction of the Director before discharge.
+(Ord. 2013-0044 § 4, 2013: Ord. 2008-0063 § 1 (part), 2008.)
+12.84.445 - Hydromodification Control.
+A.
+Exemptions. The Director may grant exemptions from the provisions of this Section 12.84.445 for the following types of development projects where the Director determines that downstream channel conditions and proposed discharge hydrology indicate that adverse hydromodification effects to beneficial uses of natural drainage systems are unlikely:
+1.
+The replacement, maintenance or repair of existing, publicly-maintained flood control facilities, storm drains, or transportation networks;
+2.
+Redevelopment of a previously developed site in an urbanized area that does not increase the effective impervious area or decrease the infiltration capacity of pervious areas compared to the pre-project conditions;
+3.
+Projects that have any increased discharge directly or through a storm drain to a sump, lake, area under tidal influence, into a waterway that has an estimated hundred (100)-year peak flow of twenty-five thousand (25,000) cubic feet per second ("c.f.s.") or more, or other receiving water that is not susceptible to hydromodification impacts;
+4.
+Projects that discharge directly or through a storm drain into concrete or other engineered channels (e.g., channelized or armored with rip rap, shotcrete, etc.), which, in turn, discharge into receiving water that is not susceptible to hydromodification impacts;
+5.
+Non-designated Projects disturbing an area less than one (1) acre or creating less than ten thousand (10,000) square feet of new impervious area; or
+6.
+Single family homes that incorporate LID BMPs in accordance with the LID Standards Manual.
+B.
+The LID Standards Manual shall include hydromodification control development principles and technologies for achieving compliance with the provisions of this Section 12.84.445 as well as other rules, requirements and procedures as the Director deems necessary, for implementing the provisions of this section.
+C.
+Unless excluded by subsection A, above, or excused pursuant to subsection D, below, development projects must fully mitigate off-site drainage impacts caused by hydromodification and changes in water quality, flow velocity, flow volume, and depth/width of flow, as determined by the Director, in accordance with the requirements and provisions specified in the LID Standards Manual.
+1.
+Sediment transport analysis shall be required when the project is tributary to any natural drainage system with a Capital Flood flow rate greater than five thousand (5,000) c.f.s.
+D.
+If the Director determines that it would be infeasible for a development project to comply with the provisions of subsection C of this section, and the project disturbs an area less than fifty (50) acres, written consent to the unmitigated impacts shall be obtained from the owner of every impacted downstream property. In addition, the development project shall comply with one of the following alternative requirements:
+1.
+The project shall retain on-site, one hundred percent (100%) of the stormwater volume from the runoff of the ninety-fifth (95th) percentile, twenty-four (24)-hour rainfall event, through infiltration, evapotranspiration, and/or harvest and use;
+2.
+The runoff flow rate, volume, velocity, and duration for the project's post-development condition shall not exceed the pre-development condition for the two (2)-year, twenty-four (24)-hour rainfall event; or
+3.
+The Erosion Potential ("Ep") in the receiving water channel shall approximate one (1), as demonstrated by a hydromodification analysis study approved by the Director.
+E.
+If the Director determines that it would be infeasible for a development project to comply with the provisions of subsection C of this section, and the project disturbs an area fifty (50) acres or more, written consent to the unmitigated impacts shall be obtained from the owner of every impacted downstream property. In addition, the development project shall comply with one of the following alternative requirements:
+1.
+The project shall infiltrate on-site at least the runoff from a two (2)-year, twenty-four (24)-hour rainfall event;
+2.
+The runoff flow rate, volume, velocity, and duration for the project's post-development condition shall not exceed the pre-development condition for the two (2)-year, twenty-four (24)-hour rainfall events; or
+3.
+The Ep in the receiving water channel shall approximate one (1), as demonstrated by a hydromodification analysis study approved by the Director.
+(Ord. 2013-0044 § 5, 2013.)
+12.84.450 - LID Plan Review.
+A.
+Compliance with the LID and hydromodification control standards of this Chapter 12.84 shall be shown through a LID plan review described in subsection B, below.
+B.
+The applicant for any development project shall submit a LID plan to the Director for review and approval that provides a comprehensive, technical discussion of how the development project will comply with this Chapter 12.84 and the applicable provisions specified in the LID Standards Manual. A deposit and fee to recover the costs associated with LID plan review shall be required. The time for obtaining LID plan approval shall be as follows:
+1.
+For subdivisions, the LID plan shall be approved prior to the tentative map approval;
+2.
+For any development project requiring a conditional use permit ("CUP") or other discretionary entitlement required under Title 22 of the Los Angeles County Code, the LID plan shall be approved prior to the issuance of any such CUP or other discretionary entitlement; and
+3.
+For all other development projects, the LID plan shall be approved prior to issuance of a grading permit for such development project, or when no grading permit is required, prior to the issuance of a building permit for such development project, or when no grading or building permit is required, prior to the commencement of any development activity or as otherwise indicated in the non-discretionary land use approval.
+(Ord. 2013-0044 § 6, 2013: Ord. 2008-0063 § 1 (part), 2008.)
+12.84.460 - Additional Requirements.
+Compliance with this Chapter 12.84 shall also require a development project to satisfy the following:
+A.
+All grading and/or site drainage plans for the development shall incorporate the features of the approved LID plan described in subsection B of Section 12.84.450;
+B.
+Ongoing Maintenance.
+1.
+The development project's LID and hydromodification control features shall be maintained and shall remain operable at all times and shall not be removed from the project site unless and until such features have been replaced with other LID or hydromodification control features in accordance with this Chapter 12.84.
+2.
+Unless excused by the Director in his or her discretion, the owner of the subject development project site shall prepare and obtain the Director's approval of an operation and maintenance plan and monitoring plan for all LID practices and LID and hydromodification control features incorporated into the project.
+3.
+The owner of the subject development project site shall record a covenant or agreement, approved as to form and content by the Director, in the office of the Los Angeles County Registrar-Recorder/County Clerk indicating that the owner of the subject development project site is aware of and agrees to the requirements in this subsection B. The covenant or agreement shall also include a diagram of the development project site indicating the location and type of each LID and hydromodification control feature incorporated into the development project. The time to record such covenant or agreement shall be as follows:
+a.
+For any subdivision, prior to final map approval; and
+b.
+For any other development project, prior to issuance of a grading plan approval for the development project, and when no grading plan approval is required, prior to the issuance of building plan approval for the development project.
+(Ord. 2013-0044 § 7, 2013: Ord. 2008-0063 § 1 (part), 2008.)

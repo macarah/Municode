@@ -103,6 +103,7 @@ def extract_sub_links(link, directory, heading_text):
         
         # Wait for <li> elements with nodedepth="2"
         wait = WebDriverWait(driver, 5)
+        click_load_more_button(driver)
         if(link==old_link):
             li_elements = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'li[nodedepth="3"]')))
         else:
@@ -144,7 +145,7 @@ def click_load_more_button(driver):
             print("No more 'Load more' buttons found or not clickable.")
             break
 
-base_directory = "/Users/macarahmorgan/Guldi-Lab/Sample/Atlanta_Overtime"
+base_directory = "/Users/mmorg27/Downloads/Atlanta_Overtime"
 
 try:
     for index, url in enumerate(url_list):

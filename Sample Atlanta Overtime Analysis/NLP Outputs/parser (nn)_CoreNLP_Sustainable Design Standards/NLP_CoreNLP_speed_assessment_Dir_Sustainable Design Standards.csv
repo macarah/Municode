@@ -1,5 +1,0 @@
-Document ID,Document,Time,Tokens to Annotate,Params,Number of Params
-1,"=hyperlink(""/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-27-2012_Codes.txt"")",67.9401330947876,10512,"tokenize, ssplit, ssplit, pos, pos, lemma, lemma, ner, ner, depparse, depparse, regexner, regexner",7
-2,"=hyperlink(""/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-15-2022_Codes .txt"")",71.25306487083435,12150,"tokenize, ssplit, ssplit, pos, pos, lemma, lemma, ner, ner, depparse, depparse, regexner, regexner",7
-3,"=hyperlink(""/Users/macarahmorgan/Guldi-Lab/Sample/Sustainable Design Standards/09-28-2023_Codes.txt"")",87.28882598876953,12213,"tokenize, ssplit, ssplit, pos, pos, lemma, lemma, ner, ner, depparse, depparse, regexner, regexner",7
--1,Total Operation,321.25403904914856,34875,['parser (nn)'],1

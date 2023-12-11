@@ -1,0 +1,52 @@
+3201.2 - Permits.
+A permit shall be required as set forth in Section 105.6. Prior to approval of storage racks, a building permit is required in occupancies regulated by this chapter. Proof of all required permits and all engineering calculations must be provided to the fire code official upon request. The approved permit must be kept on the premises and be available at all times for inspection by the fire code official.
+(Ord. 2017-0003 § 186, 2017.)
+Table 3206.2
+General Fire Protection and Life Safety Requirements
+EXPAND
+COMMODITY CLASS SIZE OF HIGH-PILED STORAGE AREA a (square feet)
+(see Sections 3206.2 and 3206.4) ALL STORAGE AREAS
+(see Sections 3206, 3207 and 3208) b SOLID-PILED STORAGE, SHELF STORAGE AND PALLETIZED STORAGE
+(see Section 3207.3)
+Automatic fire-extinguishing system
+(see Section 3206.4) Fire detection system
+(see Section 3206.5) Building access
+(see Section 3206.6) Smoke and heat removal
+(see Section 3206.7) Draft curtains
+(see Section 3206.7) Maximum pile dimension c (feet) Maximum permissible storage height d (feet) Maximum pile volume
+(cubic feet)
+I-IV 0-500 Not Required a Not Required Not Required e Not Required Not Required Not Required Not Required Not Required
+501-2,500 Not Required a Yes i Not Required e Not Required Not Required 100 40 100,000
+2,501-12,000
+Public accessible Yes Not Required Not Required e Not Required Not Required 100 40 400,000
+2,501-12,000
+Nonpublic accessible
+(Option 1) Yes Not Required Not Required e Not Required Not Required 100 40 400,000
+2,501-12,000
+Nonpublic accessible
+(Option 2) Not Required a Yes Yes Yes Yes 100 30 f 200,000
+12,001-20,000 Yes Not Required Yes Yes Not Required 100 40 400,000
+20,001-500,000 Yes Not Required Yes Yes Not Required 100 40 400,000
+Greater than 500,000 g Yes Not Required Yes Yes Not Required 100 40 400,000
+High hazard 0-500 Not Required a Not Required Not Required e Not Required Not Required 50 Not Required Not Required
+501-2,500
+Public accessible Yes Not Required Not Required e Not Required Not Required 50 30 75,000
+501-2,500
+Nonpublic accessible
+(Option 1) Yes Not Required Not Required e Not Required Not Required 50 30 75,000
+501-2,500
+Nonpublic accessible
+(Option 2) Not Required a Yes Yes Yes Yes 50 20 50,000
+2,501-300,000 Yes Not Required Yes Yes Not Required 50 30 75,000
+300,001-500,000 g , h Yes Not Required Yes Yes Not Required 50 30 75,000
+  For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m 3 , 1 square foot = 0.0929 m 2 .
+a. Where automatic sprinklers are required for reasons other than those in Chapter 32, the portion of the sprinkler system protecting the high-piled storage area shall be designed and installed in accordance with Sections 3207 and 3208.
+b. For aisles, see Section 3206.9.
+c. Piles shall be separated by a minimum of 96-inch aisles complying with Section 3206.9.
+d. For storage in excess of the height indicated, special fire protection shall be provided in accordance with Note g where required by the fire code official. See Chapters 51 and 57 for special limitations for aerosols and flammable and combustible liquids, respectively.
+e. Section 503 shall apply for fire apparatus access.
+f. For storage exceeding 30 feet in height, Option 1 shall be used.
+g. Special fire protection provisions including, but not limited to, fire protection of exposed steel columns; increased sprinkler density; additional in-rack sprinklers, without associated reductions in ceiling sprinkler density; or additional Fire Department hose connections shall be provided when required by the fire code official.
+h. High-piled storage areas shall not exceed 500,000 square feet. A two-hour fire wall constructed in accordance with Section 706 of the International Building Code shall be used to divide high-piled storage exceeding 500,000 square feet in area.
+i. Not required where an automatic fire-extinguishing system is designed and installed to protect the high-piled storage area in accordance with Sections 3207 and 3208.
+(Ord. 2017-0003 § 187, 2017.)
