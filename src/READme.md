@@ -13,3 +13,10 @@ however, there exists codes uploaded in pdf format and municipal codes that redi
 <img width="450" alt="image" src="https://github.com/macarah/Municode/assets/115976408/e7d1e976-34bd-44e0-adbc-778c8fce4ce2">
 <img width="450" alt="image" src="https://github.com/macarah/Municode/assets/115976408/086bb421-63d5-45b7-a3df-4bd72ed0ed8b">
 
+### Source Code Descriptions
+| Name           | Description                                                |
+|----------------|------------------------------------------------------------|
+| Atlanta_Overtime_Scraping.ipynb  | This notebook scrapes the Municode Archive for Atlanta Building Codes from 2012-2023. |
+| Los_Angeles_Overtime_Scraping.ipynb  | This notebook scrapes the Municode Archive for Los Angeles County Building Codes from 2012-2023. |
+| Present_municipals_by_state.ipynb  | This notebook scrapes Municodes for all present municpals' building codes in the state of Georgia. |
+| Conversion.ipynb  | This notebook converts the outputted folder of txt files to a well-formatted csv file. |
