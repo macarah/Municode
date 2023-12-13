@@ -5,4 +5,4 @@ The purpose of the Municode repository is to gather outputs and documentation fr
   1. How to quantify "how sustainable" or "environmentally-friendly" a city is based on the building codes using text-mining techniques
   2. Determine how Atlanta's codes promoting sustainable development has changed overtime
   3. Conduct a national analysis to determine what policies/codes are most effective in practicing sustainable development
-  4. etc. 
+  4. And more!
